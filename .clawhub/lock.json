@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1770374361221
+    },
+    "Email": {
+      "version": "1.1.0",
+      "installedAt": 1770483718984
+    }
+  }
+}
