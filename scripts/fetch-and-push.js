@@ -19,28 +19,16 @@ const CONFIG = {
 // 新闻源配置
 const NEWS_SOURCES = [
   {
-    name: '汽车之家',
-    url: 'https://www.autohome.com.cn/all/',
-    selector: 'a[href*="/news/202602/"]',
+    name: '第一电动',
+    url: 'https://www.d1ev.com/',
+    selector: 'a[href*="/news/"], a[href*="/carnews/"], a[href*="/pingce/"], a[href*="/shichang/"]',
     extract: ($, elem) => {
       const href = $(elem).attr('href');
       const title = $(elem).text().trim();
       if (!href || !title || title.length < 10 || title.length > 100) return null;
-      if (title.includes('广告') || title.includes('专题') || title.includes('精选')) return null;
-      const fullUrl = href.startsWith('http') ? href : `https:${href}`;
-      return { title, url: fullUrl, source: '汽车之家' };
-    }
-  },
-  {
-    name: '懂车帝',
-    url: 'https://www.dongchedi.com/',
-    selector: 'a[href*="/article/"]',
-    extract: ($, elem) => {
-      const href = $(elem).attr('href');
-      const title = $(elem).text().trim();
-      if (!href || !title || title.length < 10) return null;
-      const fullUrl = href.startsWith('http') ? href : `https://www.dongchedi.com${href}`;
-      return { title, url: fullUrl, source: '懂车帝' };
+      if (title.includes('广告') || title.includes('专题') || title.includes('推荐') || title.includes('加载更多')) return null;
+      const fullUrl = href.startsWith('http') ? href : `https://www.d1ev.com${href}`;
+      return { title, url: fullUrl, source: '第一电动' };
     }
   }
 ];
@@ -240,7 +228,7 @@ async function sendToFeishu(categorizedNews, dateStr) {
   elements.push({
     tag: 'note',
     elements: [
-      { tag: 'plain_text', content: `📌 数据来源：汽车之家 · 懂车帝\n📊 总计：${globalIndex} 条新闻\n⚠️ 内容仅供参考，以官方发布为准` }
+      { tag: 'plain_text', content: `📌 数据来源：第一电动\n📊 总计：${globalIndex} 条新闻\n⚠️ 内容仅供参考，以官方发布为准` }
     ]
   });
 
