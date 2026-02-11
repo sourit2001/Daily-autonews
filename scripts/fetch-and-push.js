@@ -226,7 +226,7 @@ async function sendToFeishu(batchNum, totalBatches, newsItems) {
       tag: 'div',
       text: {
         tag: 'lark_md',
-        content: `**${globalIndex}. [${news.title}](${news.url})**\n> ${news.summary}\n<font color="grey">📎 ${news.source} · [查看原文](${news.url})</font>`
+        content: `**${globalIndex}. ${news.title}**\n> ${news.summary}\n\n<font color="grey">📎 ${news.source} | [阅读全文 →](${news.url})</font>`
       }
     });
     
