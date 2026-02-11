@@ -7,15 +7,13 @@ const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   MOONSHOT_API_KEY: process.env.MOONSHOT_API_KEY,
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
-  BATCH_SIZE: 5,
-  // 关键词：用于筛选新车、销量、技术、AI相关新闻
-  KEYWORDS: [
-    '新车', '上市', '首发', '亮相', '预售', '发布', '售价', '价格',
-    '销量', '交付', '订单', '万台', '万辆',
-    '技术', '智驾', '自动驾驶', '芯片', '电池', '续航', '充电', '800V', '固态电池',
-    '小米', '比亚迪', '特斯拉', '问界', '华为', '理想', '蔚来', '小鹏', '极氪', '智界',
-    '奔驰', '宝马', '奥迪', '大众', '丰田'
-  ]
+  BATCH_SIZE: 10,
+  // 分类关键词
+  CATEGORIES: {
+    '电气化': ['纯电', '插混', '混动', 'PHEV', 'HEV', 'EV', '电池', '续航', '充电', '800V', '高压', '固态电池', 'CTB', '碳化硅', '电机', '电控', '新能源', '电动', 'e-tron', '双电机', '四驱', '增程'],
+    '智能化': ['智驾', '自动驾驶', '智能座舱', '芯片', '激光雷达', '毫米波雷达', '摄像头', '感知', '算法', 'AI', '人工智能', '语音', '车机', 'OTA', 'ADAS', '辅助驾驶', '自动泊车', 'NOA', '城市领航', '高速领航', '华为智驾', '小米智驾', '小鹏智驾'],
+    '国际化': ['海外', '出口', '欧洲', '美国', '德国', '日本', '韩国', '全球', '国际', '进口', '合资', '宝马', '奔驰', '奥迪', '大众', '丰田', '本田', '现代', '起亚', '特斯拉', '福特', '通用', '沃尔沃', '捷豹', '路虎', '保时捷']
+  }
 };
 
 // 新闻源配置
@@ -36,7 +34,6 @@ const NEWS_SOURCES = [
   {
     name: '懂车帝',
     url: 'https://www.dongchedi.com/',
-    type: 'html',
     selector: 'a[href*="/article/"]',
     extract: ($, elem) => {
       const href = $(elem).attr('href');
@@ -44,19 +41,6 @@ const NEWS_SOURCES = [
       if (!href || !title || title.length < 10) return null;
       const fullUrl = href.startsWith('http') ? href : `https://www.dongchedi.com${href}`;
       return { title, url: fullUrl, source: '懂车帝' };
-    }
-  },
-  {
-    name: '易车',
-    url: 'https://www.yiche.com/',
-    type: 'html',
-    selector: 'a[href*="/xinwen/"], a[href*="/news/"], a[href*="/article/"]',
-    extract: ($, elem) => {
-      const href = $(elem).attr('href');
-      const title = $(elem).text().trim();
-      if (!href || !title || title.length < 10) return null;
-      const fullUrl = href.startsWith('http') ? href : `https://www.yiche.com${href}`;
-      return { title, url: fullUrl, source: '易车' };
     }
   }
 ];
@@ -104,14 +88,34 @@ async function fetchFromSource(source) {
   }
 }
 
-// 关键词过滤
-function filterByKeywords(newsList) {
-  return newsList.filter(news => {
-    const text = `${news.title}`.toLowerCase();
-    return CONFIG.KEYWORDS.some(keyword => 
-      text.includes(keyword.toLowerCase())
-    );
+// 分类新闻
+function categorizeNews(newsList) {
+  const categorized = {
+    '电气化': [],
+    '智能化': [],
+    '国际化': [],
+    '其他': []
+  };
+
+  newsList.forEach(news => {
+    const text = news.title.toLowerCase();
+    let assigned = false;
+
+    // 检查每个分类
+    for (const [category, keywords] of Object.entries(CONFIG.CATEGORIES)) {
+      if (keywords.some(kw => text.includes(kw.toLowerCase()))) {
+        categorized[category].push(news);
+        assigned = true;
+        break;
+      }
+    }
+
+    if (!assigned) {
+      categorized['其他'].push(news);
+    }
   });
+
+  return categorized;
 }
 
 // 抓取新闻详情生成摘要
@@ -120,25 +124,25 @@ async function fetchNewsDetail(url) {
     const html = await httpGet(url);
     const $ = cheerio.load(html);
     const paragraphs = $('.article-content p, .post-content p, .content p').map((_, el) => $(el).text().trim()).get();
-    const content = paragraphs.slice(0, 3).join(' ').slice(0, 300);
+    const content = paragraphs.slice(0, 3).join(' ').slice(0, 400);
     return content || '';
   } catch (e) {
     return '';
   }
 }
 
-// 使用 Kimi 生成单条摘要
+// 使用 Kimi 生成摘要
 async function generateSummary(title, content) {
   if (!CONFIG.MOONSHOT_API_KEY || !content) {
     return title;
   }
   
-  const prompt = `为以下汽车新闻标题生成一句话摘要（30-50字），突出关键数据（价格、续航、销量、动力等）：
+  const prompt = `为以下汽车新闻生成一句话摘要（30-50字），突出关键数据：
 
 标题：${title}
-内容：${content.slice(0, 400)}
+内容：${content.slice(0, 500)}
 
-直接输出摘要，不要其他内容。`;
+直接输出摘要。`;
 
   try {
     const response = await new Promise((resolve, reject) => {
@@ -183,59 +187,67 @@ async function generateSummary(title, content) {
   return title;
 }
 
-// 发送飞书消息
-async function sendToFeishu(batchNum, totalBatches, newsItems, dateStr) {
-  const elements = [];
+// 发送飞书消息（按分类）
+async function sendToFeishu(categorizedNews, dateStr) {
+  const elements = [
+    {
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `**📅 ${dateStr} | 汽车早报**\n\n📊 今日新闻分类汇总\n⚡ 电气化 · 🤖 智能化 · 🌍 国际化`
+      }
+    },
+    { tag: 'hr' }
+  ];
+
+  const categories = ['电气化', '智能化', '国际化', '其他'];
+  const emojis = { '电气化': '⚡', '智能化': '🤖', '国际化': '🌍', '其他': '📰' };
   
-  if (batchNum === 1) {
+  let globalIndex = 0;
+
+  for (const category of categories) {
+    const newsList = categorizedNews[category];
+    if (newsList.length === 0) continue;
+
+    // 分类标题
     elements.push({
       tag: 'div',
       text: {
         tag: 'lark_md',
-        content: `**📅 ${dateStr} | 汽车早报**\n\n📊 今日共 **${totalBatches * CONFIG.BATCH_SIZE}** 条新增资讯\n📌 全部新闻 · 无一遗漏`
+        content: `**${emojis[category]} ${category}（${newsList.length}条）**`
       }
     });
+
+    // 该分类的新闻
+    newsList.forEach((news, idx) => {
+      globalIndex++;
+      elements.push({
+        tag: 'div',
+        text: {
+          tag: 'lark_md',
+          content: `**${globalIndex}. ${news.title}**\n> ${news.summary}\n<font color="grey">📎 ${news.source} | [阅读全文 →](${news.url})</font>`
+        }
+      });
+      
+      if (idx < newsList.length - 1) {
+        elements.push({ tag: 'div', text: { tag: 'plain_text', content: '' } });
+      }
+    });
+
     elements.push({ tag: 'hr' });
   }
-  
+
   elements.push({
-    tag: 'div',
-    text: {
-      tag: 'lark_md',
-      content: `**📑 第 ${batchNum}/${totalBatches} 页**`
-    }
+    tag: 'note',
+    elements: [
+      { tag: 'plain_text', content: `📌 数据来源：汽车之家 · 懂车帝\n📊 总计：${globalIndex} 条新闻\n⚠️ 内容仅供参考，以官方发布为准` }
+    ]
   });
-
-  newsItems.forEach((news, index) => {
-    const globalIndex = (batchNum - 1) * CONFIG.BATCH_SIZE + index + 1;
-    
-    elements.push({
-      tag: 'div',
-      text: {
-        tag: 'lark_md',
-        content: `**${globalIndex}. ${news.title}**\n\n💡 **重点概览：**\n${news.summary}\n\n<font color="grey">📎 ${news.source} | [阅读全文 →](${news.url})</font>`
-      }
-    });
-    
-    if (index < newsItems.length - 1) {
-      elements.push({ tag: 'hr' });
-    }
-  });
-
-  if (batchNum === totalBatches) {
-    elements.push({ tag: 'hr' });
-    elements.push({
-      tag: 'note',
-      elements: [
-        { tag: 'plain_text', content: '📌 数据来源：汽车之家 · 懂车帝 · 易车\n⚠️ 内容仅供参考，以官方发布为准' }
-      ]
-    });
-  }
 
   const card = {
     config: { wide_screen_mode: true },
     header: {
-      title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr} · 第${batchNum}页` },
+      title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr}` },
       template: 'blue'
     },
     elements
@@ -257,7 +269,7 @@ async function sendToFeishu(batchNum, totalBatches, newsItems, dateStr) {
         try {
           const result = JSON.parse(responseData);
           if (result.code === 0 || result.StatusCode === 0) {
-            console.log(`✅ 第${batchNum}页发送成功`);
+            console.log('✅ 飞书推送成功');
             resolve(result);
           } else {
             reject(new Error(`飞书API错误: ${result.msg || result.StatusMessage}`));
@@ -315,57 +327,54 @@ async function main() {
       return;
     }
 
-    // 关键词过滤（保留所有符合条件的新闻，不限制数量）
-    console.log('\n🔍 按关键词过滤...');
-    const filteredNews = filterByKeywords(uniqueNews);
-    console.log(`📊 过滤后保留: ${filteredNews.length} 条`);
+    // 分类
+    console.log('\n📂 正在分类新闻...');
+    const categorized = categorizeNews(uniqueNews);
+    
+    const totalNews = Object.values(categorized).flat().length;
+    console.log(`📊 分类完成: 共${totalNews}条`);
+    console.log(`  ⚡ 电气化: ${categorized['电气化'].length}条`);
+    console.log(`  🤖 智能化: ${categorized['智能化'].length}条`);
+    console.log(`  🌍 国际化: ${categorized['国际化'].length}条`);
+    console.log(`  📰 其他: ${categorized['其他'].length}条`);
 
-    if (filteredNews.length === 0) {
+    if (totalNews === 0) {
       console.log('⚠️ 今日无符合条件的新闻');
       return;
     }
 
     // 为每条新闻生成摘要
     console.log('\n🤖 正在生成摘要...');
-    for (let i = 0; i < filteredNews.length; i++) {
-      const news = filteredNews[i];
-      console.log(`  [${i + 1}/${filteredNews.length}] ${news.title.slice(0, 40)}...`);
-      
-      if (CONFIG.MOONSHOT_API_KEY) {
-        const content = await fetchNewsDetail(news.url);
-        news.summary = await generateSummary(news.title, content);
-      } else {
-        news.summary = news.title;
+    for (const category of Object.keys(categorized)) {
+      for (let i = 0; i < categorized[category].length; i++) {
+        const news = categorized[category][i];
+        console.log(`  [${category}] ${news.title.slice(0, 35)}...`);
+        
+        if (CONFIG.MOONSHOT_API_KEY) {
+          const content = await fetchNewsDetail(news.url);
+          news.summary = await generateSummary(news.title, content);
+        } else {
+          news.summary = news.title;
+        }
+        
+        await new Promise(r => setTimeout(r, 300));
       }
-      
-      await new Promise(r => setTimeout(r, 300));
     }
 
-    // 分批处理
-    const batches = [];
-    for (let i = 0; i < filteredNews.length; i += CONFIG.BATCH_SIZE) {
-      batches.push(filteredNews.slice(i, i + CONFIG.BATCH_SIZE));
-    }
-
-    console.log(`\n📤 准备推送 ${filteredNews.length} 条新闻，共${batches.length}页...`);
-
-    // 逐批推送到飞书
+    // 推送到飞书
+    console.log('\n📤 正在推送到飞书...');
     const dateStr = `${new Date().getMonth() + 1}月${new Date().getDate()}日`;
-    for (let i = 0; i < batches.length; i++) {
-      await sendToFeishu(i + 1, batches.length, batches[i], dateStr);
-      if (i < batches.length - 1) {
-        await new Promise(r => setTimeout(r, 1500));
-      }
-    }
+    await sendToFeishu(categorized, dateStr);
 
     // 更新历史记录
-    history.pushedUrls.push(...filteredNews.map(n => n.url));
+    const allPushed = Object.values(categorized).flat();
+    history.pushedUrls.push(...allPushed.map(n => n.url));
     history.lastUpdated = new Date().toISOString().split('T')[0];
     fs.mkdirSync(path.dirname(CONFIG.HISTORY_FILE), { recursive: true });
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
 
     console.log('\n✅ 任务完成');
-    console.log(`📊 今日推送: ${filteredNews.length} 条新闻，共${batches.length}页`);
+    console.log(`📊 今日推送: ${allPushed.length} 条分类新闻`);
 
   } catch (error) {
     console.error('\n❌ 任务失败:', error.message);
