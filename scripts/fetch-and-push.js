@@ -37,6 +37,19 @@ const NEWS_SOURCES = [
       const fullUrl = href.startsWith('http') ? href : `https://www.dongchedi.com${href}`;
       return { title, url: fullUrl, source: '懂车帝' };
     }
+  },
+  {
+    name: '易车',
+    url: 'https://www.yiche.com/',
+    type: 'html',
+    selector: 'a[href*="/xinwen/"], a[href*="/news/"], a[href*="/article/"]',
+    extract: ($, elem) => {
+      const href = $(elem).attr('href');
+      const title = $(elem).text().trim();
+      if (!href || !title || title.length < 10) return null;
+      const fullUrl = href.startsWith('http') ? href : `https://www.yiche.com${href}`;
+      return { title, url: fullUrl, source: '易车' };
+    }
   }
 ];
 
