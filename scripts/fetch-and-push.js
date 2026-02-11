@@ -31,6 +31,31 @@ function getDisplayDate() {
   return `${now.getMonth() + 1}月${now.getDate()}日`;
 }
 
+// 解析日期字符串为时间戳
+function parseDate(dateStr) {
+  // 尝试多种格式
+  const formats = [
+    /(\d{4})-(\d{1,2})-(\d{1,2})/,  // 2026-02-11
+    /(\d{4})\/(\d{1,2})\/(\d{1,2})/,  // 2026/02/11
+    /(\d{4})年(\d{1,2})月(\d{1,2})日/, // 2026年02月11日
+    /(\d{1,2})月(\d{1,2})日/, // 02月11日
+  ];
+  
+  for (const format of formats) {
+    const match = dateStr.match(format);
+    if (match) {
+      if (match.length === 4) {
+        return new Date(parseInt(match[1]), parseInt(match[2]) - 1, parseInt(match[3])).getTime();
+      } else if (match.length === 3) {
+        // 没有年份，使用当前年份
+        const now = new Date();
+        return new Date(now.getFullYear(), parseInt(match[1]) - 1, parseInt(match[2])).getTime();
+      }
+    }
+  }
+  return null;
+}
+
 // 新闻源配置
 const NEWS_SOURCES = [
   {
@@ -335,12 +360,13 @@ async function main() {
       return;
     }
 
-    // 日期过滤：只保留今天的新闻
+    // 日期过滤：保留24小时内的新闻
     console.log(`\n📅 今天日期: ${getDisplayDate()}`);
-    console.log('🔍 按日期过滤，只保留今天的新闻...');
+    console.log('🔍 按日期过滤，保留24小时内的新闻...');
     
-    const todayNews = [];
-    const todayStr = getTodayStr();
+    const recentNews = [];
+    const now = Date.now();
+    const hours24 = 24 * 60 * 60 * 1000; // 24小时毫秒数
     
     for (const news of uniqueNews) {
       // 尝试抓取新闻详情页获取准确发布时间
@@ -360,22 +386,24 @@ async function main() {
           }
         }
         
-        // 检查是否是今天的新闻
-        const isToday = publishTime && (
-          publishTime.includes(todayStr.slice(4, 6)) && publishTime.includes(todayStr.slice(6, 8)) ||
-          publishTime.includes(`${parseInt(todayStr.slice(4, 6))}月${parseInt(todayStr.slice(6, 8))}日`) ||
-          publishTime.includes(`${todayStr.slice(0, 4)}-${todayStr.slice(4, 6)}-${todayStr.slice(6, 8)}`) ||
-          publishTime.includes(`${todayStr.slice(0, 4)}/${todayStr.slice(4, 6)}/${todayStr.slice(6, 8)}`)
-        );
+        // 解析日期并检查是否在24小时内
+        let isRecent = true;
+        let publishTimestamp = null;
         
-        // 如果无法确定日期或日期较新（24小时内），也保留
-        const isRecent = !publishTime || isToday;
+        if (publishTime) {
+          publishTimestamp = parseDate(publishTime);
+          if (publishTimestamp) {
+            const diff = now - publishTimestamp;
+            isRecent = diff <= hours24;
+          }
+        }
         
         if (isRecent) {
-          news.publishTime = publishTime || '今日';
-          todayNews.push(news);
+          news.publishTime = publishTime || '24小时内';
+          recentNews.push(news);
         } else {
-          console.log(`  ⏭️ 跳过旧新闻: ${news.title.slice(0, 30)}... (${publishTime})`);
+          const dateStr = publishTimestamp ? new Date(publishTimestamp).toLocaleDateString('zh-CN') : publishTime;
+          console.log(`  ⏭️ 跳过旧新闻: ${news.title.slice(0, 30)}... (${dateStr})`);
         }
         
         // 延迟避免请求过快
@@ -383,21 +411,21 @@ async function main() {
         
       } catch (e) {
         // 如果抓取失败，默认保留
-        news.publishTime = '今日';
-        todayNews.push(news);
+        news.publishTime = '24小时内';
+        recentNews.push(news);
       }
     }
     
-    console.log(`📊 今日新闻: ${todayNews.length} 条`);
+    console.log(`📊 24小时内新闻: ${recentNews.length} 条`);
 
-    if (todayNews.length === 0) {
-      console.log('⚠️ 今日暂无新新闻');
+    if (recentNews.length === 0) {
+      console.log('⚠️ 24小时内暂无新新闻');
       return;
     }
 
     // 分类
     console.log('\n📂 正在分类新闻...');
-    const categorized = categorizeNews(todayNews);
+    const categorized = categorizeNews(recentNews);
     
     const totalNews = Object.values(categorized).flat().length;
     console.log(`📊 分类完成: 共${totalNews}条`);
