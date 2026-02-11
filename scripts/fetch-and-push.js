@@ -7,7 +7,7 @@ const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   MOONSHOT_API_KEY: process.env.MOONSHOT_API_KEY,
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
-  MAX_NEWS_PER_DAY: 9,  // 每日最多9条
+  BATCH_SIZE: 5,  // 每批5条（避免单条消息过长）
 };
 
 // 新闻源配置
@@ -71,7 +71,7 @@ function httpGet(url, headers = {}) {
   });
 }
 
-// POST 请求（用于 Kimi API）
+// POST 请求
 function httpPost(url, data, headers = {}) {
   return new Promise((resolve, reject) => {
     const postData = JSON.stringify(data);
@@ -118,7 +118,7 @@ async function fetchFromSource(source) {
     });
     
     console.log(`  ✅ ${source.name}: 获取 ${newsList.length} 条`);
-    return newsList.slice(0, 10);  // 每个源最多10条
+    return newsList;
   } catch (e) {
     console.log(`  ❌ ${source.name}: ${e.message}`);
     return [];
@@ -130,171 +130,113 @@ async function fetchNewsContent(url) {
   try {
     const html = await httpGet(url);
     const $ = cheerio.load(html);
-    
-    // 尝试多种正文选择器
     const content = $('.article-content, .post-content, .content, [class*="content"]').text().trim();
-    return content.slice(0, 1000) || '';
+    return content.slice(0, 800) || '';
   } catch (e) {
     return '';
   }
 }
 
-// 使用 Kimi API 生成摘要
-async function generateSummaryWithKimi(newsItems) {
-  console.log('\n🤖 使用 Kimi 生成摘要...');
-  
-  // 构建提示词
-  const newsText = newsItems.map((item, index) => {
-    return `${index + 1}. 【${item.source}】${item.title}
-   链接: ${item.url}`;
-  }).join('\n\n');
+// 使用 Kimi API 生成单条摘要
+async function generateSummary(title, content, url) {
+  if (!content || content.length < 50) {
+    return { summary: title, url };
+  }
 
-  const prompt = `你是资深汽车媒体主编，拥有10年行业经验。请从以下新闻中筛选并生成专业的汽车早报。
+  const prompt = `请为以下汽车新闻生成一句话摘要（30-50字），突出核心数据（价格、续航、功率、销量等）和亮点：
 
-【筛选标准】
-1. 优先级：新车发布 > 重磅改款 > 行业政策 > 市场数据 > 普通资讯
-2. 必报内容：售价/续航/动力参数、上市时间、核心配置升级
-3. 去重合并：同一车型/事件的不同来源报道合并为一条
+标题：${title}
+内容：${content.slice(0, 500)}
 
-【摘要要求】
-每条新闻必须包含：
-- 核心价值：为什么这条新闻值得关注？（如"同级唯一...""价格下探至..."）
-- 关键数据：具体数字（价格、续航、功率、销量等）
-- 时效标签：今日上午/下午/晚间
+要求：
+- 一句话概括
+- 包含关键数字
+- 突出新闻价值
 
-【输出格式】
-请返回 ${CONFIG.MAX_NEWS_PER_DAY} 条精选新闻，JSON格式：
-{
-  "selected_news": [
-    {
-      "title": "简短有力的标题（15字内）",
-      "summary": "50字内，包含：亮点+关键数据+意义",
-      "sources": ["汽车之家", "懂车帝", "易车"],
-      "time": "今日 XX:XX",
-      "category": "新车/改款/政策/市场/技术"
-    }
-  ]
-}
-
-【新闻源】
-${newsText}
-
-请确保摘要信息密度高，读者看了就能抓住重点。`;
+直接输出摘要，不要其他内容。`;
 
   try {
     const response = await httpPost('https://api.moonshot.cn/v1/chat/completions', {
       model: 'moonshot-v1-8k',
       messages: [
-        { role: 'system', content: '你是专业的汽车新闻编辑，擅长提炼新闻核心信息，生成简洁有力的早报。' },
         { role: 'user', content: prompt }
       ],
-      temperature: 0.7,
-      max_tokens: 2000
+      temperature: 0.5,
+      max_tokens: 100
     }, {
       'Authorization': `Bearer ${CONFIG.MOONSHOT_API_KEY}`
     });
 
     if (response.choices && response.choices[0]) {
-      const content = response.choices[0].message.content;
-      // 提取 JSON
-      const jsonMatch = content.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const result = JSON.parse(jsonMatch[0]);
-        return result.selected_news || [];
-      }
+      let summary = response.choices[0].message.content.trim();
+      // 移除引号
+      summary = summary.replace(/^["']|["']$/g, '');
+      return { summary, url };
     }
-    return [];
   } catch (e) {
-    console.error('❌ Kimi API 调用失败:', e.message);
-    return null;
+    console.log(`  ⚠️ 摘要生成失败: ${e.message}`);
   }
+  
+  return { summary: title, url };
 }
 
-// 发送飞书消息
-async function sendToFeishu(newsItems) {
+// 发送飞书卡片消息
+async function sendToFeishu(batchNum, totalBatches, newsItems) {
   const today = new Date();
   const dateStr = `${today.getMonth() + 1}月${today.getDate()}日`;
   const weekday = ['日', '一', '二', '三', '四', '五', '六'][today.getDay()];
   
   const elements = [];
   
-  // 分类统计
-  const categories = {};
-  newsItems.forEach(news => {
-    const cat = news.category || '资讯';
-    categories[cat] = (categories[cat] || 0) + 1;
-  });
-  const catStr = Object.entries(categories).map(([k, v]) => `${k}${v}条`).join(' · ');
+  if (batchNum === 1) {
+    elements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `**📅 ${dateStr} 周${weekday} | 汽车早报**\n\n📊 今日共 **${totalBatches * CONFIG.BATCH_SIZE}** 条新增资讯\n📌 点击标题查看原文`
+      }
+    });
+    elements.push({ tag: 'hr' });
+  }
   
-  // 头部信息
   elements.push({
     tag: 'div',
     text: {
       tag: 'lark_md',
-      content: `**📅 ${dateStr} 周${weekday} | 汽车早报精选**\n\n📊 今日精选 **${newsItems.length}** 条重要资讯\n🏷️ ${catStr}\n\n💡 由 Kimi AI 分析整理，聚焦行业核心动态`
+      content: `**📑 第 ${batchNum}/${totalBatches} 页**`
     }
   });
-  elements.push({ tag: 'hr' });
-  
-  // 按类别分组展示
-  const categoryOrder = ['新车', '改款', '技术', '政策', '市场', '资讯'];
-  const grouped = {};
-  newsItems.forEach(news => {
-    const cat = news.category || '资讯';
-    if (!grouped[cat]) grouped[cat] = [];
-    grouped[cat].push(news);
-  });
-  
-  categoryOrder.forEach(cat => {
-    if (grouped[cat]) {
-      // 类别标题
-      const catEmoji = {
-        '新车': '🚗', '改款': '✨', '技术': '🔧',
-        '政策': '📋', '市场': '📈', '资讯': '📰'
-      }[cat] || '📌';
-      
-      elements.push({
-        tag: 'div',
-        text: {
-          tag: 'lark_md',
-          content: `**${catEmoji} ${cat}动态**`
-        }
-      });
-      
-      // 该类别的新闻
-      grouped[cat].forEach((news, idx) => {
-        const sourceStr = news.sources ? news.sources.join('·') : news.source || '汽车之家';
-        const timeStr = news.time || '今日';
-        
-        elements.push({
-          tag: 'div',
-          text: {
-            tag: 'lark_md',
-            content: `**${news.title}**\n> ${news.summary}\n\n<font color="grey">📎 ${sourceStr} · ⏱️ ${timeStr}</font>`
-          }
-        });
-        
-        if (idx < grouped[cat].length - 1) {
-          elements.push({ tag: 'div', text: { tag: 'plain_text', content: '' } });
-        }
-      });
-      
+
+  newsItems.forEach((news, index) => {
+    const globalIndex = (batchNum - 1) * CONFIG.BATCH_SIZE + index + 1;
+    
+    elements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `**${globalIndex}. [${news.title}](${news.url})**\n> ${news.summary}\n<font color="grey">📎 ${news.source} · [查看原文](${news.url})</font>`
+      }
+    });
+    
+    if (index < newsItems.length - 1) {
       elements.push({ tag: 'hr' });
     }
   });
-  
-  // 底部信息
-  elements.push({
-    tag: 'note',
-    elements: [
-      { tag: 'plain_text', content: '🤖 内容由 Kimi AI 智能分析生成\n📌 数据来自汽车之家·懂车帝·易车\n⚠️ 仅供参考，以官方发布为准' }
-    ]
-  });
+
+  if (batchNum === totalBatches) {
+    elements.push({ tag: 'hr' });
+    elements.push({
+      tag: 'note',
+      elements: [
+        { tag: 'plain_text', content: '📌 数据来源：汽车之家 · 懂车帝 · 易车\n⚠️ 内容仅供参考，以官方发布为准' }
+      ]
+    });
+  }
 
   const card = {
     config: { wide_screen_mode: true },
     header: {
-      title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr}` },
+      title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr} · 第${batchNum}页` },
       template: 'blue'
     },
     elements
@@ -316,7 +258,7 @@ async function sendToFeishu(newsItems) {
         try {
           const result = JSON.parse(responseData);
           if (result.code === 0 || result.StatusCode === 0) {
-            console.log('✅ 飞书推送成功');
+            console.log(`✅ 第${batchNum}页发送成功`);
             resolve(result);
           } else {
             reject(new Error(`飞书API错误: ${result.msg || result.StatusMessage}`));
@@ -359,7 +301,7 @@ async function main() {
     for (const source of NEWS_SOURCES) {
       const news = await fetchFromSource(source);
       allNews.push(...news);
-      await new Promise(r => setTimeout(r, 1000)); // 延迟避免被封
+      await new Promise(r => setTimeout(r, 1000));
     }
 
     console.log(`\n📊 总计获取: ${allNews.length} 条新闻`);
@@ -371,29 +313,41 @@ async function main() {
 
     // 去重（基于URL）
     const uniqueNews = allNews.filter(n => !history.pushedUrls.includes(n.url));
-    console.log(`📊 去重后: ${uniqueNews.length} 条新新闻`);
+    console.log(`📊 去重后新新闻: ${uniqueNews.length} 条`);
 
     if (uniqueNews.length === 0) {
       console.log('✅ 所有新闻已推送过');
       return;
     }
 
-    // 使用 Kimi 生成精选摘要
-    const selectedNews = await generateSummaryWithKimi(uniqueNews);
-
-    if (!selectedNews || selectedNews.length === 0) {
-      console.log('⚠️ Kimi 生成摘要失败，使用原始数据');
-      // 备用方案：直接使用原始标题
-      for (const news of uniqueNews.slice(0, CONFIG.MAX_NEWS_PER_DAY)) {
-        news.summary = '点击查看详情';
-      }
+    // 为每条新闻抓取内容并生成摘要
+    console.log('\n🤖 正在为每条新闻生成摘要...');
+    for (let i = 0; i < uniqueNews.length; i++) {
+      const news = uniqueNews[i];
+      console.log(`  [${i + 1}/${uniqueNews.length}] ${news.title.slice(0, 30)}...`);
+      
+      const content = await fetchNewsContent(news.url);
+      const summaryResult = await generateSummary(news.title, content, news.url);
+      
+      news.summary = summaryResult.summary;
+      await new Promise(r => setTimeout(r, 500)); // 避免请求过快
     }
 
-    const finalNews = selectedNews || uniqueNews.slice(0, CONFIG.MAX_NEWS_PER_DAY);
+    // 分批处理（每批5条）
+    const batches = [];
+    for (let i = 0; i < uniqueNews.length; i += CONFIG.BATCH_SIZE) {
+      batches.push(uniqueNews.slice(i, i + CONFIG.BATCH_SIZE));
+    }
 
-    // 推送到飞书
-    console.log('\n📤 推送到飞书...');
-    await sendToFeishu(finalNews);
+    console.log(`\n📤 准备推送 ${batches.length} 页消息...`);
+
+    // 逐批推送到飞书
+    for (let i = 0; i < batches.length; i++) {
+      await sendToFeishu(i + 1, batches.length, batches[i]);
+      if (i < batches.length - 1) {
+        await new Promise(r => setTimeout(r, 1500)); // 批间延迟
+      }
+    }
 
     // 更新历史记录
     history.pushedUrls.push(...uniqueNews.map(n => n.url));
@@ -402,7 +356,7 @@ async function main() {
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
 
     console.log('\n✅ 任务完成');
-    console.log(`📊 今日推送: ${finalNews.length} 条`);
+    console.log(`📊 今日推送: ${uniqueNews.length} 条新闻，共${batches.length}页`);
 
   } catch (error) {
     console.error('\n❌ 任务失败:', error.message);
