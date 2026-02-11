@@ -16,6 +16,21 @@ const CONFIG = {
   }
 };
 
+// 获取今天的日期字符串 (YYYYMMDD)
+function getTodayStr() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  return `${year}${month}${day}`;
+}
+
+// 获取今天的日期用于显示
+function getDisplayDate() {
+  const now = new Date();
+  return `${now.getMonth() + 1}月${now.getDate()}日`;
+}
+
 // 新闻源配置
 const NEWS_SOURCES = [
   {
@@ -27,8 +42,13 @@ const NEWS_SOURCES = [
       const title = $(elem).text().trim();
       if (!href || !title || title.length < 10 || title.length > 100) return null;
       if (title.includes('广告') || title.includes('专题') || title.includes('推荐') || title.includes('加载更多')) return null;
+      
+      // 获取发布时间（如果页面中有）
+      const timeElem = $(elem).closest('li, div, article').find('.time, .date, .publish-time, span[class*="time"]').first();
+      const publishTime = timeElem.text().trim();
+      
       const fullUrl = href.startsWith('http') ? href : `https://www.d1ev.com${href}`;
-      return { title, url: fullUrl, source: '第一电动' };
+      return { title, url: fullUrl, source: '第一电动', publishTime };
     }
   }
 ];
@@ -315,9 +335,69 @@ async function main() {
       return;
     }
 
+    // 日期过滤：只保留今天的新闻
+    console.log(`\n📅 今天日期: ${getDisplayDate()}`);
+    console.log('🔍 按日期过滤，只保留今天的新闻...');
+    
+    const todayNews = [];
+    const todayStr = getTodayStr();
+    
+    for (const news of uniqueNews) {
+      // 尝试抓取新闻详情页获取准确发布时间
+      try {
+        const detailHtml = await httpGet(news.url);
+        const $ = cheerio.load(detailHtml);
+        
+        // 尝试多种时间选择器
+        let publishTime = $('.time, .date, .publish-time, .article-time, [class*="time"]').first().text().trim();
+        
+        // 如果没有找到，尝试从页面内容中匹配日期格式
+        if (!publishTime) {
+          const pageText = $('body').text();
+          const dateMatch = pageText.match(/(\d{4}[\-\/年]\d{1,2}[\-\/月]\d{1,2})/);
+          if (dateMatch) {
+            publishTime = dateMatch[1];
+          }
+        }
+        
+        // 检查是否是今天的新闻
+        const isToday = publishTime && (
+          publishTime.includes(todayStr.slice(4, 6)) && publishTime.includes(todayStr.slice(6, 8)) ||
+          publishTime.includes(`${parseInt(todayStr.slice(4, 6))}月${parseInt(todayStr.slice(6, 8))}日`) ||
+          publishTime.includes(`${todayStr.slice(0, 4)}-${todayStr.slice(4, 6)}-${todayStr.slice(6, 8)}`) ||
+          publishTime.includes(`${todayStr.slice(0, 4)}/${todayStr.slice(4, 6)}/${todayStr.slice(6, 8)}`)
+        );
+        
+        // 如果无法确定日期或日期较新（24小时内），也保留
+        const isRecent = !publishTime || isToday;
+        
+        if (isRecent) {
+          news.publishTime = publishTime || '今日';
+          todayNews.push(news);
+        } else {
+          console.log(`  ⏭️ 跳过旧新闻: ${news.title.slice(0, 30)}... (${publishTime})`);
+        }
+        
+        // 延迟避免请求过快
+        await new Promise(r => setTimeout(r, 200));
+        
+      } catch (e) {
+        // 如果抓取失败，默认保留
+        news.publishTime = '今日';
+        todayNews.push(news);
+      }
+    }
+    
+    console.log(`📊 今日新闻: ${todayNews.length} 条`);
+
+    if (todayNews.length === 0) {
+      console.log('⚠️ 今日暂无新新闻');
+      return;
+    }
+
     // 分类
     console.log('\n📂 正在分类新闻...');
-    const categorized = categorizeNews(uniqueNews);
+    const categorized = categorizeNews(todayNews);
     
     const totalNews = Object.values(categorized).flat().length;
     console.log(`📊 分类完成: 共${totalNews}条`);
@@ -362,7 +442,7 @@ async function main() {
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
 
     console.log('\n✅ 任务完成');
-    console.log(`📊 今日推送: ${allPushed.length} 条分类新闻`);
+    console.log(`📊 今日推送: ${allPushed.length} 条今日新闻（已分类）`);
 
   } catch (error) {
     console.error('\n❌ 任务失败:', error.message);
