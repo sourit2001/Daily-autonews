@@ -7,7 +7,11 @@ const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   MOONSHOT_API_KEY: process.env.MOONSHOT_API_KEY,
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
-  BATCH_SIZE: 5,  // 每批5条（避免单条消息过长）
+  BATCH_SIZE: 5,
+  // 只关注的新闻类别关键词
+  KEYWORDS: ['新车', '上市', '首发', '亮相', '预售', '发布', '销量', '交付', '订单',
+             '技术', '智驾', '自动驾驶', 'AI', '智能', '芯片', '电池', '续航', '充电',
+             '降价', '涨价', '优惠', '补贴', '固态电池', 'CTB', '800V', '激光雷达']
 };
 
 // 新闻源配置
@@ -99,6 +103,14 @@ function httpPost(url, data, headers = {}) {
     req.on('timeout', () => reject(new Error('timeout')));
     req.write(postData);
     req.end();
+  });
+}
+
+// 过滤新闻：只保留关注的关键词相关新闻
+function filterNewsByKeywords(newsList) {
+  return newsList.filter(news => {
+    const text = `${news.title} ${news.source}`.toLowerCase();
+    return CONFIG.KEYWORDS.some(keyword => text.includes(keyword.toLowerCase()));
   });
 }
 
@@ -320,11 +332,21 @@ async function main() {
       return;
     }
 
+    // 按关键词过滤：只保留新车、销量、技术、AI相关新闻
+    console.log('\n🔍 按关键词过滤（新车/销量/技术/AI）...');
+    const filteredNews = filterNewsByKeywords(uniqueNews);
+    console.log(`📊 过滤后保留: ${filteredNews.length} 条`);
+
+    if (filteredNews.length === 0) {
+      console.log('⚠️ 今日无符合条件的新闻（新车/销量/技术/AI）');
+      return;
+    }
+
     // 为每条新闻抓取内容并生成摘要
     console.log('\n🤖 正在为每条新闻生成摘要...');
-    for (let i = 0; i < uniqueNews.length; i++) {
-      const news = uniqueNews[i];
-      console.log(`  [${i + 1}/${uniqueNews.length}] ${news.title.slice(0, 30)}...`);
+    for (let i = 0; i < filteredNews.length; i++) {
+      const news = filteredNews[i];
+      console.log(`  [${i + 1}/${filteredNews.length}] ${news.title.slice(0, 30)}...`);
       
       const content = await fetchNewsContent(news.url);
       const summaryResult = await generateSummary(news.title, content, news.url);
@@ -335,8 +357,8 @@ async function main() {
 
     // 分批处理（每批5条）
     const batches = [];
-    for (let i = 0; i < uniqueNews.length; i += CONFIG.BATCH_SIZE) {
-      batches.push(uniqueNews.slice(i, i + CONFIG.BATCH_SIZE));
+    for (let i = 0; i < filteredNews.length; i += CONFIG.BATCH_SIZE) {
+      batches.push(filteredNews.slice(i, i + CONFIG.BATCH_SIZE));
     }
 
     console.log(`\n📤 准备推送 ${batches.length} 页消息...`);
@@ -349,14 +371,14 @@ async function main() {
       }
     }
 
-    // 更新历史记录
-    history.pushedUrls.push(...uniqueNews.map(n => n.url));
+    // 更新历史记录（只记录已推送的过滤后新闻）
+    history.pushedUrls.push(...filteredNews.map(n => n.url));
     history.lastUpdated = new Date().toISOString().split('T')[0];
     fs.mkdirSync(path.dirname(CONFIG.HISTORY_FILE), { recursive: true });
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
 
     console.log('\n✅ 任务完成');
-    console.log(`📊 今日推送: ${uniqueNews.length} 条新闻，共${batches.length}页`);
+    console.log(`📊 今日推送: ${filteredNews.length} 条新闻，共${batches.length}页`);
 
   } catch (error) {
     console.error('\n❌ 任务失败:', error.message);
