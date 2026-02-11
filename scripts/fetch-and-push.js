@@ -149,30 +149,37 @@ async function generateSummaryWithKimi(newsItems) {
    链接: ${item.url}`;
   }).join('\n\n');
 
-  const prompt = `你是专业的汽车新闻编辑。请根据以下新闻标题和链接，生成一份今日汽车早报精选。
+  const prompt = `你是资深汽车媒体主编，拥有10年行业经验。请从以下新闻中筛选并生成专业的汽车早报。
 
-要求：
-1. 从以下新闻中选出最重要、最有价值的 ${CONFIG.MAX_NEWS_PER_DAY} 条
-2. 每条新闻用一句话（30-50字）概括核心亮点
-3. 格式要求：
-   - 标题简洁有力
-   - 摘要突出核心信息（价格、数据、时间节点等）
-   - 标注参考来源和时效
+【筛选标准】
+1. 优先级：新车发布 > 重磅改款 > 行业政策 > 市场数据 > 普通资讯
+2. 必报内容：售价/续航/动力参数、上市时间、核心配置升级
+3. 去重合并：同一车型/事件的不同来源报道合并为一条
 
-新闻列表：
-${newsText}
+【摘要要求】
+每条新闻必须包含：
+- 核心价值：为什么这条新闻值得关注？（如"同级唯一...""价格下探至..."）
+- 关键数据：具体数字（价格、续航、功率、销量等）
+- 时效标签：今日上午/下午/晚间
 
-请按以下JSON格式输出：
+【输出格式】
+请返回 ${CONFIG.MAX_NEWS_PER_DAY} 条精选新闻，JSON格式：
 {
   "selected_news": [
     {
-      "title": "新闻标题",
-      "summary": "一句话核心亮点",
-      "sources": ["汽车之家", "懂车帝"],
-      "time": "今日 XX:XX"
+      "title": "简短有力的标题（15字内）",
+      "summary": "50字内，包含：亮点+关键数据+意义",
+      "sources": ["汽车之家", "懂车帝", "易车"],
+      "time": "今日 XX:XX",
+      "category": "新车/改款/政策/市场/技术"
     }
   ]
-}`;
+}
+
+【新闻源】
+${newsText}
+
+请确保摘要信息密度高，读者看了就能抓住重点。`;
 
   try {
     const response = await httpPost('https://api.moonshot.cn/v1/chat/completions', {
@@ -207,45 +214,87 @@ ${newsText}
 async function sendToFeishu(newsItems) {
   const today = new Date();
   const dateStr = `${today.getMonth() + 1}月${today.getDate()}日`;
+  const weekday = ['日', '一', '二', '三', '四', '五', '六'][today.getDay()];
   
-  const elements = [
-    {
-      tag: 'div',
-      text: {
-        tag: 'lark_md',
-        content: `**📅 ${dateStr} 汽车早报精选**\n\n为您精选今日最值得关注的 ${newsItems.length} 条汽车资讯：`
-      }
-    },
-    { tag: 'hr' }
-  ];
-
-  newsItems.forEach((news, index) => {
-    const sourceStr = news.sources ? news.sources.join(' | ') : news.source || '汽车之家';
-    const timeStr = news.time || '今日';
-    
-    elements.push({
-      tag: 'div',
-      text: {
-        tag: 'lark_md',
-        content: `**${index + 1}️⃣ ${news.title}**\n💡 ${news.summary}\n📎 ${sourceStr} | ⏱️ ${timeStr}`
-      }
-    });
-    if (index < newsItems.length - 1) {
+  const elements = [];
+  
+  // 分类统计
+  const categories = {};
+  newsItems.forEach(news => {
+    const cat = news.category || '资讯';
+    categories[cat] = (categories[cat] || 0) + 1;
+  });
+  const catStr = Object.entries(categories).map(([k, v]) => `${k}${v}条`).join(' · ');
+  
+  // 头部信息
+  elements.push({
+    tag: 'div',
+    text: {
+      tag: 'lark_md',
+      content: `**📅 ${dateStr} 周${weekday} | 汽车早报精选**\n\n📊 今日精选 **${newsItems.length}** 条重要资讯\n🏷️ ${catStr}\n\n💡 由 Kimi AI 分析整理，聚焦行业核心动态`
+    }
+  });
+  elements.push({ tag: 'hr' });
+  
+  // 按类别分组展示
+  const categoryOrder = ['新车', '改款', '技术', '政策', '市场', '资讯'];
+  const grouped = {};
+  newsItems.forEach(news => {
+    const cat = news.category || '资讯';
+    if (!grouped[cat]) grouped[cat] = [];
+    grouped[cat].push(news);
+  });
+  
+  categoryOrder.forEach(cat => {
+    if (grouped[cat]) {
+      // 类别标题
+      const catEmoji = {
+        '新车': '🚗', '改款': '✨', '技术': '🔧',
+        '政策': '📋', '市场': '📈', '资讯': '📰'
+      }[cat] || '📌';
+      
+      elements.push({
+        tag: 'div',
+        text: {
+          tag: 'lark_md',
+          content: `**${catEmoji} ${cat}动态**`
+        }
+      });
+      
+      // 该类别的新闻
+      grouped[cat].forEach((news, idx) => {
+        const sourceStr = news.sources ? news.sources.join('·') : news.source || '汽车之家';
+        const timeStr = news.time || '今日';
+        
+        elements.push({
+          tag: 'div',
+          text: {
+            tag: 'lark_md',
+            content: `**${news.title}**\n> ${news.summary}\n\n<font color="grey">📎 ${sourceStr} · ⏱️ ${timeStr}</font>`
+          }
+        });
+        
+        if (idx < grouped[cat].length - 1) {
+          elements.push({ tag: 'div', text: { tag: 'plain_text', content: '' } });
+        }
+      });
+      
       elements.push({ tag: 'hr' });
     }
   });
-
+  
+  // 底部信息
   elements.push({
     tag: 'note',
     elements: [
-      { tag: 'plain_text', content: '🤖 由 Kimi AI 智能生成 | 📌 仅供参考，以官方发布为准' }
+      { tag: 'plain_text', content: '🤖 内容由 Kimi AI 智能分析生成\n📌 数据来自汽车之家·懂车帝·易车\n⚠️ 仅供参考，以官方发布为准' }
     ]
   });
 
   const card = {
     config: { wide_screen_mode: true },
     header: {
-      title: { tag: 'plain_text', content: `📰 今日汽车精选（${dateStr}）` },
+      title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr}` },
       template: 'blue'
     },
     elements
