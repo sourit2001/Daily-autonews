@@ -1,6 +1,6 @@
 {
   "description": "记录已推送的汽车新闻URL，用于去重（汽车之家来源）",
-  "lastUpdated": "2025-02-11",
+  "lastUpdated": "2026-02-11",
   "source": "autohome",
   "pushedUrls": [
     "https://www.autohome.com.cn/news/202602/1312375.html",
@@ -18,6 +18,9 @@
     "https://www.autohome.com.cn/news/202602/1312370.html",
     "https://www.autohome.com.cn/news/202602/1312369.html",
     "https://www.autohome.com.cn/news/202602/1312368.html",
-    "https://www.autohome.com.cn/news/202602/1312196.html"
+    "https://www.autohome.com.cn/news/202602/1312196.html",
+    "https://www.autohome.com.cn/news/202602/1312265.html#pvareaid=102625",
+    "https://www.autohome.com.cn/news/202602/1312213.html#pvareaid=102625",
+    "https://www.autohome.com.cn/news/202602/1312183.html#pvareaid=102625"
   ]
 }

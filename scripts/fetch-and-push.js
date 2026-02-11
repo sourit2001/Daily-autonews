@@ -248,7 +248,7 @@ async function sendToFeishu(newsItems, dateStr) {
   });
 
   const card = {
-    config: { wide_screen_mode": true },
+    config: { wide_screen_mode: true },
     header: {
       title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr}` },
       template: 'blue'

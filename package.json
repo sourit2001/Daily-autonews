@@ -8,9 +8,15 @@
     "test": "node scripts/fetch-and-push.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.2.0"
   },
-  "keywords": ["汽车", "新闻", "AI", "Kimi", "飞书"],
+  "keywords": [
+    "汽车",
+    "新闻",
+    "AI",
+    "Kimi",
+    "飞书"
+  ],
   "author": "OpenClaw",
   "license": "MIT"
 }
