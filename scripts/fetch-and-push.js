@@ -461,6 +461,22 @@ async function main() {
       return;
     }
 
+    // 标题关键词过滤：跳过榜单/排名类旧闻
+    const skipKeywords = ['智驾天梯榜', '智驾大赛', '年度总榜', '年度奖项', '年度冠亚季军', '年度四小龙', '年度四大天王', '年度黑马', '年度榜单', '积分排行榜'];
+    const filteredNews = uniqueNews.filter(news => {
+      const shouldSkip = skipKeywords.some(kw => news.title.includes(kw));
+      if (shouldSkip) {
+        console.log(`  ⏭️ 跳过榜单类: ${news.title.slice(0, 35)}...`);
+      }
+      return !shouldSkip;
+    });
+    console.log(`📊 过滤后: ${filteredNews.length} 条（跳过${uniqueNews.length - filteredNews.length}条榜单类）`);
+
+    if (filteredNews.length === 0) {
+      console.log('⚠️ 过滤后无新闻可推送');
+      return;
+    }
+
     // 日期过滤：保留24小时内的新闻
     console.log(`\n📅 今天日期: ${getDisplayDate()}`);
     console.log('🔍 按日期过滤，保留24小时内的新闻...');
@@ -469,7 +485,7 @@ async function main() {
     const now = Date.now();
     const hours24 = 24 * 60 * 60 * 1000; // 24小时毫秒数
     
-    for (const news of uniqueNews) {
+    for (const news of filteredNews) {
       // 尝试抓取新闻详情页获取准确发布时间
       try {
         const detailHtml = await httpGet(news.url);
