@@ -72,26 +72,50 @@ function getDisplayDate() {
 
 // 解析日期字符串为时间戳
 function parseDate(dateStr) {
+  if (!dateStr) return null;
+  
+  // 清理字符串
+  const cleanStr = dateStr.trim();
+  
   // 尝试多种格式
   const formats = [
-    /(\d{4})-(\d{1,2})-(\d{1,2})/,  // 2026-02-11
-    /(\d{4})\/(\d{1,2})\/(\d{1,2})/,  // 2026/02/11
-    /(\d{4})年(\d{1,2})月(\d{1,2})日/, // 2026年02月11日
-    /(\d{1,2})月(\d{1,2})日/, // 02月11日
+    { regex: /(\d{4})-(\d{1,2})-(\d{1,2})/, hasYear: true },  // 2026-02-11
+    { regex: /(\d{4})\/(\d{1,2})\/(\d{1,2})/, hasYear: true },  // 2026/02/11
+    { regex: /(\d{4})年(\d{1,2})月(\d{1,2})日/, hasYear: true }, // 2026年02月11日
+    { regex: /(\d{1,2})月(\d{1,2})日/, hasYear: false }, // 02月11日
   ];
   
   for (const format of formats) {
-    const match = dateStr.match(format);
+    const match = cleanStr.match(format.regex);
     if (match) {
-      if (match.length === 4) {
-        return new Date(parseInt(match[1]), parseInt(match[2]) - 1, parseInt(match[3])).getTime();
-      } else if (match.length === 3) {
+      let year, month, day;
+      
+      if (format.hasYear) {
+        year = parseInt(match[1]);
+        month = parseInt(match[2]) - 1; // 月份从0开始
+        day = parseInt(match[3]);
+      } else {
         // 没有年份，使用当前年份
         const now = new Date();
-        return new Date(now.getFullYear(), parseInt(match[1]) - 1, parseInt(match[2])).getTime();
+        year = now.getFullYear();
+        month = parseInt(match[1]) - 1;
+        day = parseInt(match[2]);
+      }
+      
+      const date = new Date(year, month, day);
+      // 验证日期是否有效
+      if (date.getFullYear() === year && date.getMonth() === month && date.getDate() === day) {
+        return date.getTime();
       }
     }
   }
+  
+  // 尝试直接解析（ISO格式等）
+  const directParse = new Date(cleanStr);
+  if (!isNaN(directParse.getTime())) {
+    return directParse.getTime();
+  }
+  
   return null;
 }
 
@@ -471,16 +495,18 @@ async function main() {
           publishTimestamp = parseDate(publishTime);
           if (publishTimestamp) {
             const diff = now - publishTimestamp;
-            isRecent = diff <= hours24;
+            const daysAgo = Math.floor(diff / (24 * 60 * 60 * 1000));
+            isRecent = diff <= hours24 && diff >= -hours24; // 也排除未来时间
+            
+            if (!isRecent) {
+              console.log(`  ⏭️ 跳过旧新闻: ${news.title.slice(0, 30)}... (发布于${daysAgo}天前: ${new Date(publishTimestamp).toLocaleDateString('zh-CN')})`);
+            }
           }
         }
         
         if (isRecent) {
           news.publishTime = publishTime || '24小时内';
           recentNews.push(news);
-        } else {
-          const dateStr = publishTimestamp ? new Date(publishTimestamp).toLocaleDateString('zh-CN') : publishTime;
-          console.log(`  ⏭️ 跳过旧新闻: ${news.title.slice(0, 30)}... (${dateStr})`);
         }
         
         // 延迟避免请求过快
