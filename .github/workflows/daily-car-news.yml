@@ -20,11 +20,12 @@ jobs:
           node-version: '20'
           
       - name: 安装依赖
-        run: npm install cheerio axios
+        run: npm install cheerio
         
       - name: 执行新闻推送
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
         run: node scripts/fetch-and-push.js
         
       - name: 提交更新

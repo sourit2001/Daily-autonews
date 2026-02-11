@@ -1,0 +1,16 @@
+{
+  "name": "daily-car-news",
+  "version": "2.0.0",
+  "description": "每日汽车新闻智能推送 - 多源汇总 + Kimi AI 总结",
+  "main": "scripts/fetch-and-push.js",
+  "scripts": {
+    "start": "node scripts/fetch-and-push.js",
+    "test": "node scripts/fetch-and-push.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "keywords": ["汽车", "新闻", "AI", "Kimi", "飞书"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}
