@@ -173,12 +173,28 @@ function categorizeNews(newsList) {
     const text = news.title.toLowerCase();
     let assigned = false;
 
-    // 检查每个分类
-    for (const [category, keywords] of Object.entries(CONFIG.CATEGORIES)) {
-      if (keywords.some(kw => text.includes(kw.toLowerCase()))) {
-        categorized[category].push(news);
+    // 优先级1: 智能化（AI、智驾优先）
+    const smartKeywords = ['ai', '人工智能', '智驾', '自动驾驶', '算法', '大模型', '端到端', '视觉', '神经网络', '深度学习', '智能座舱', '车机', '语音', '芯片', '骁龙', '8295', '8155', '激光雷达', '毫米波雷达', '摄像头', '感知', '传感器', 'noa', '城市领航', '高速领航'];
+    if (smartKeywords.some(kw => text.includes(kw.toLowerCase()))) {
+      categorized['智能化'].push(news);
+      assigned = true;
+    }
+
+    // 优先级2: 国际化（出海、海外优先）
+    if (!assigned) {
+      const globalKeywords = ['出海', '出口', '海外', '全球化', '国际', '进军', '登陆', '亮相', '欧洲', '美国', '日本', '东南亚', '澳洲', '中东', '南美', '俄罗斯', '印度', '关税', '贸易', '壁垒', '建厂', '本地化', '进口', '合资', '宝马', '奔驰', '奥迪', '大众', '丰田', '本田', '现代', '起亚', '福特', '通用'];
+      if (globalKeywords.some(kw => text.includes(kw.toLowerCase()))) {
+        categorized['国际化'].push(news);
         assigned = true;
-        break;
+      }
+    }
+
+    // 优先级3: 电气化（新能源、电池）
+    if (!assigned) {
+      const evKeywords = ['纯电', '插混', '混动', 'phev', 'hev', 'ev', '增程', '新能源', '电动', '电池', '续航', '充电', '800v', '固态电池', 'ctb', '碳化硅', '电机', '电控', '电驱'];
+      if (evKeywords.some(kw => text.includes(kw.toLowerCase()))) {
+        categorized['电气化'].push(news);
+        assigned = true;
       }
     }
 
