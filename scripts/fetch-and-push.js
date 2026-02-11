@@ -221,16 +221,33 @@ async function fetchNewsDetail(url) {
 
 // 使用 Kimi 生成摘要
 async function generateSummary(title, content) {
-  if (!CONFIG.MOONSHOT_API_KEY || !content) {
+  if (!CONFIG.MOONSHOT_API_KEY) {
     return title;
   }
   
-  const prompt = `为以下汽车新闻生成一句话摘要（30-50字），突出关键数据：
+  // 针对EV晨报等特殊格式处理
+  const isEVMorning = title.includes('EV晨报') || title.includes('早报');
+  
+  let prompt;
+  if (isEVMorning && content) {
+    // EV晨报格式：提取多条新闻
+    prompt = `以下是EV晨报的内容，包含多条汽车新闻。请提取其中最重要的3-4条，用分号隔开，每条用一句话概括（包含关键数据）：
 
 标题：${title}
-内容：${content.slice(0, 500)}
+内容：${content.slice(0, 800)}
+
+格式示例：
+1. 蔚来计划2026年实现盈利，Q4毛利率达17.1%；2. 比亚迪1月销量30万辆同比增长50%；3. 小米SU7 Ultra预售价52.99万元
+
+请直接输出概括内容，用分号隔开。`;
+  } else {
+    prompt = `为以下汽车新闻生成一句话摘要（30-50字），突出关键数据：
+
+标题：${title}
+内容：${content ? content.slice(0, 500) : title}
 
 直接输出摘要。`;
+  }
 
   try {
     const response = await new Promise((resolve, reject) => {
@@ -238,7 +255,7 @@ async function generateSummary(title, content) {
         model: 'moonshot-v1-8k',
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.5,
-        max_tokens: 100
+        max_tokens: 150
       });
       
       const req = https.request('https://api.moonshot.cn/v1/chat/completions', {
@@ -267,7 +284,12 @@ async function generateSummary(title, content) {
     });
 
     if (response?.choices?.[0]) {
-      return response.choices[0].message.content.trim().replace(/^["']|["']$/g, '');
+      let summary = response.choices[0].message.content.trim().replace(/^["']|["']$/g, '');
+      // 对于EV晨报，清理格式
+      if (isEVMorning) {
+        summary = summary.replace(/^\d+\.\s*/gm, '').replace(/\n/g, '；').replace(/；；/g, '；');
+      }
+      return summary;
     }
   } catch (e) {
     console.log(`  ⚠️ 摘要生成失败: ${e.message}`);
