@@ -392,7 +392,7 @@ async function sendToFeishu(categorizedNews, dateStr) {
       tag: 'div',
       text: {
         tag: 'lark_md',
-        content: `**📅 ${dateStr} | 汽车新车早报**\n\n📊 今日新车动态汇总\n🚗 新车上市 · 🤖 智能电气 · 🌍 国际化`
+        content: `**📅 ${dateStr} | 汽车新闻速递**\n\n📊 实时动态汇总\n🚗 新车上市 · 🤖 智能电气 · 🌍 国际化`
       }
     },
     { tag: 'hr' }
@@ -445,7 +445,7 @@ async function sendToFeishu(categorizedNews, dateStr) {
   const card = {
     config: { wide_screen_mode: true },
     header: {
-      title: { tag: 'plain_text', content: `📰 汽车早报 | ${dateStr}` },
+      title: { tag: 'plain_text', content: `📰 新闻速递 | ${dateStr}` },
       template: 'blue'
     },
     elements
@@ -651,7 +651,8 @@ async function main() {
 
     // 推送到飞书
     console.log('\n📤 正在推送到飞书...');
-    const dateStr = `${new Date().getMonth() + 1}月${new Date().getDate()}日`;
+    const currentPushTime = new Date();
+    const dateStr = `${currentPushTime.getMonth() + 1}月${currentPushTime.getDate()}日 ${String(currentPushTime.getHours()).padStart(2, '0')}:${String(currentPushTime.getMinutes()).padStart(2, '0')}`;
     await sendToFeishu(categorized, dateStr);
 
     // 更新历史记录
