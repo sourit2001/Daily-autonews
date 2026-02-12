@@ -4,8 +4,8 @@
   "description": "每日汽车新闻智能推送 - 多源汇总 + Kimi AI 总结",
   "main": "scripts/fetch-and-push.js",
   "scripts": {
-    "start": "node scripts/fetch-and-push.js",
-    "test": "node scripts/fetch-and-push.js"
+    "start": "node --env-file=.env scripts/fetch-and-push.js",
+    "test": "node --env-file=.env scripts/fetch-and-push.js"
   },
   "dependencies": {
     "cheerio": "^1.2.0"

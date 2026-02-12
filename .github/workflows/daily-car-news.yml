@@ -2,13 +2,15 @@ name: 每日汽车新闻推送
 
 on:
   schedule:
-    # 每天早上7点（北京时间 = UTC 23:00）
-    - cron: '0 23 * * *'
+    # 每2小时运行一次
+    - cron: '0 */2 * * *'
   workflow_dispatch:  # 支持手动触发
 
 jobs:
   push-car-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: 检出代码
