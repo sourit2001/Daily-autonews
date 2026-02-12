@@ -55,19 +55,27 @@ const CONFIG = {
   }
 };
 
+// 获取特定时区的时间
+function getZonedDateTime() {
+  // 强制使用北京时间 (UTC+8)
+  const now = new Date();
+  const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+  return new Date(utc + (3600000 * 8));
+}
+
 // 获取今天的日期字符串 (YYYYMMDD)
 function getTodayStr() {
-  const now = new Date();
-  const year = now.getFullYear();
-  const month = String(now.getMonth() + 1).padStart(2, '0');
-  const day = String(now.getDate()).padStart(2, '0');
+  const bjNow = getZonedDateTime();
+  const year = bjNow.getFullYear();
+  const month = String(bjNow.getMonth() + 1).padStart(2, '0');
+  const day = String(bjNow.getDate()).padStart(2, '0');
   return `${year}${month}${day}`;
 }
 
 // 获取今天的日期用于显示
 function getDisplayDate() {
-  const now = new Date();
-  return `${now.getMonth() + 1}月${now.getDate()}日`;
+  const bjNow = getZonedDateTime();
+  return `${bjNow.getMonth() + 1}月${bjNow.getDate()}日`;
 }
 
 // 解析日期字符串为时间戳
@@ -651,14 +659,14 @@ async function main() {
 
     // 推送到飞书
     console.log('\n📤 正在推送到飞书...');
-    const currentPushTime = new Date();
-    const dateStr = `${currentPushTime.getMonth() + 1}月${currentPushTime.getDate()}日 ${String(currentPushTime.getHours()).padStart(2, '0')}:${String(currentPushTime.getMinutes()).padStart(2, '0')}`;
+    const bjNow = getZonedDateTime();
+    const dateStr = `${bjNow.getMonth() + 1}月${bjNow.getDate()}日 ${String(bjNow.getHours()).padStart(2, '0')}:${String(bjNow.getMinutes()).padStart(2, '0')}`;
     await sendToFeishu(categorized, dateStr);
 
     // 更新历史记录
     const allPushed = Object.values(categorized).flat();
     history.pushedUrls.push(...allPushed.map(n => n.url));
-    history.lastUpdated = new Date().toISOString().split('T')[0];
+    history.lastUpdated = `${bjNow.getFullYear()}-${String(bjNow.getMonth() + 1).padStart(2, '0')}-${String(bjNow.getDate()).padStart(2, '0')}`;
     fs.mkdirSync(path.dirname(CONFIG.HISTORY_FILE), { recursive: true });
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
 
