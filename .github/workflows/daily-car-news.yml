@@ -28,7 +28,7 @@ jobs:
       - name: 执行新闻推送
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: node scripts/fetch-and-push.js
         
       - name: 提交更新
