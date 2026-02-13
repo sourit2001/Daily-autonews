@@ -23,7 +23,7 @@ jobs:
           node-version: '20'
           
       - name: 安装依赖
-        run: npm install cheerio
+        run: npm install
         
       - name: 执行新闻推送
         env:
@@ -35,6 +35,16 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add memory/car-news-pushed.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update pushed news [$(date)]"
-          git push
+          # 仅添加历史记录文件
+          if [ -f memory/car-news-pushed.json ]; then
+            git add memory/car-news-pushed.json
+            # 只有当 staged 有变化时才提交
+            if ! git diff --staged --quiet; then
+              git commit -m "Update pushed news [$(date +'%Y-%m-%d %H:%M:%S')]"
+              git push
+            else
+              echo "No new news pushed, history unchanged. Skipping commit."
+            fi
+          else
+            echo "Memory file not found, skipping commit."
+          fi
