@@ -503,9 +503,10 @@
     "https://www.d1ev.com/newsflash/288653",
     "https://www.d1ev.com/newsflash/288655",
     "https://www.d1ev.com/newsflash/288654",
-    "https://www.d1ev.com/newsflash/288652"
+    "https://www.d1ev.com/newsflash/288652",
+    "https://www.d1ev.com/newsflash/288660"
   ],
-  "lastUpdated": "2026-02-22",
+  "lastUpdated": "2026-02-23",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288636",
@@ -644,6 +645,12 @@
       "title": "蔡明春晚“分身”机器人被赠予本人，松延动力技术突破引关注",
       "source": "第一电动",
       "pushedAt": 1771770105133
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288660",
+      "title": "OpenAI新推ChatGPTProLite，月费百美元享深度思考特权",
+      "source": "第一电动",
+      "pushedAt": 1771777389804
     }
   ]
 }
