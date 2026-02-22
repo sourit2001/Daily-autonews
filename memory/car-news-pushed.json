@@ -491,7 +491,12 @@
     "https://www.d1ev.com/news/qiye/288643",
     "https://www.d1ev.com/newsflash/288640",
     "https://www.d1ev.com/newsflash/288639",
-    "https://www.d1ev.com/newsflash/288638"
+    "https://www.d1ev.com/newsflash/288638",
+    "https://www.d1ev.com/newsflash/288647",
+    "https://www.d1ev.com/newsflash/288646",
+    "https://www.d1ev.com/newsflash/288645",
+    "https://www.d1ev.com/newsflash/288644",
+    "https://www.d1ev.com/newsflash/288648"
   ],
   "lastUpdated": "2026-02-22",
   "newsHistory": [
@@ -560,6 +565,36 @@
       "title": "特斯拉Robotaxi服务仍需司机监控，加州文件揭露运营真相",
       "source": "第一电动",
       "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288647",
+      "title": "比亚迪海狮06DM-i升级：纯电续航增至220公里，激光雷达可选",
+      "source": "第一电动",
+      "pushedAt": 1771755617231
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288646",
+      "title": "英伟达Rubin GPU或采用双速HBM4内存，提升AI算力与产能平衡",
+      "source": "第一电动",
+      "pushedAt": 1771755617231
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288645",
+      "title": "AI智能体自主运行时长翻倍，用户信任度提升显著",
+      "source": "第一电动",
+      "pushedAt": 1771755617231
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288644",
+      "title": "1月中国动力电池产量增25%，宁德比亚迪占67%市场份额",
+      "source": "第一电动",
+      "pushedAt": 1771755617231
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288648",
+      "title": "春节返程高峰来袭：高速堵哭，铁路客流持续高位",
+      "source": "第一电动",
+      "pushedAt": 1771755617231
     }
   ]
 }
