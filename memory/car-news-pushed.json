@@ -484,7 +484,14 @@
     "https://www.d1ev.com/newsflash/288636",
     "https://www.d1ev.com/newsflash/288633",
     "https://www.d1ev.com/newsflash/288635",
-    "https://www.d1ev.com/newsflash/288634"
+    "https://www.d1ev.com/newsflash/288634",
+    "https://www.d1ev.com/newsflash/288642",
+    "https://www.d1ev.com/newsflash/288637",
+    "https://www.d1ev.com/newsflash/288641",
+    "https://www.d1ev.com/news/qiye/288643",
+    "https://www.d1ev.com/newsflash/288640",
+    "https://www.d1ev.com/newsflash/288639",
+    "https://www.d1ev.com/newsflash/288638"
   ],
   "lastUpdated": "2026-02-22",
   "newsHistory": [
@@ -511,6 +518,48 @@
       "title": "阿里云CodingPlan新模型上线，首月优惠低至7.9元",
       "source": "第一电动",
       "pushedAt": 1771742427799
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288642",
+      "title": "丰田2026款bZWoodland电动SUV亮相：续航452公里，31.4万起",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288637",
+      "title": "AI宪法问世：Anthropic承认AI可能拥有意识，引发伦理新讨论",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288641",
+      "title": "中国品牌MG欧洲销量破百万，连续11年夺冠！",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288643",
+      "title": "175976次 蔚来换电连续四日创历史新高！0.5秒就有一台换电",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288640",
+      "title": "蔚来换电站单日换电破17.5万次，再创新高！",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288639",
+      "title": "“雅阁e:PHEV限量1000台13.88万起售，41%热效率引擎引领混动新风尚”",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288638",
+      "title": "特斯拉Robotaxi服务仍需司机监控，加州文件揭露运营真相",
+      "source": "第一电动",
+      "pushedAt": 1771748756907
     }
   ]
 }
