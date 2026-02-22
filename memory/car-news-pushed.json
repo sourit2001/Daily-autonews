@@ -496,7 +496,10 @@
     "https://www.d1ev.com/newsflash/288646",
     "https://www.d1ev.com/newsflash/288645",
     "https://www.d1ev.com/newsflash/288644",
-    "https://www.d1ev.com/newsflash/288648"
+    "https://www.d1ev.com/newsflash/288648",
+    "https://www.d1ev.com/newsflash/288650",
+    "https://www.d1ev.com/newsflash/288649",
+    "https://www.d1ev.com/newsflash/288651"
   ],
   "lastUpdated": "2026-02-22",
   "newsHistory": [
@@ -595,6 +598,24 @@
       "title": "春节返程高峰来袭：高速堵哭，铁路客流持续高位",
       "source": "第一电动",
       "pushedAt": 1771755617231
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288650",
+      "title": "比亚迪“海狮”系列SUV澳洲上市，本土化调校获好评",
+      "source": "第一电动",
+      "pushedAt": 1771763813501
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288649",
+      "title": "智谱公布新一代大模型GLM-5的技术细节，性能效率双提升",
+      "source": "第一电动",
+      "pushedAt": 1771763813501
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288651",
+      "title": "“雅阁e:PHEV限量1000台开抢！13.88万起，41%热效率引擎+豪华配置”",
+      "source": "第一电动",
+      "pushedAt": 1771763813501
     }
   ]
 }
