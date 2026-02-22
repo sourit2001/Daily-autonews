@@ -499,7 +499,11 @@
     "https://www.d1ev.com/newsflash/288648",
     "https://www.d1ev.com/newsflash/288650",
     "https://www.d1ev.com/newsflash/288649",
-    "https://www.d1ev.com/newsflash/288651"
+    "https://www.d1ev.com/newsflash/288651",
+    "https://www.d1ev.com/newsflash/288653",
+    "https://www.d1ev.com/newsflash/288655",
+    "https://www.d1ev.com/newsflash/288654",
+    "https://www.d1ev.com/newsflash/288652"
   ],
   "lastUpdated": "2026-02-22",
   "newsHistory": [
@@ -616,6 +620,30 @@
       "title": "“雅阁e:PHEV限量1000台开抢！13.88万起，41%热效率引擎+豪华配置”",
       "source": "第一电动",
       "pushedAt": 1771763813501
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288653",
+      "title": "AI编程助手ClaudeCodeSecurity问世，网络安全新突破！",
+      "source": "第一电动",
+      "pushedAt": 1771770105133
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288655",
+      "title": "Epic Games收购Meshcapade，3D数字人技术迈入新纪元",
+      "source": "第一电动",
+      "pushedAt": 1771770105133
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288654",
+      "title": "“雅阁e:PHEV老客户专享直降10万！限量1000台抢购中”",
+      "source": "第一电动",
+      "pushedAt": 1771770105133
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288652",
+      "title": "蔡明春晚“分身”机器人被赠予本人，松延动力技术突破引关注",
+      "source": "第一电动",
+      "pushedAt": 1771770105133
     }
   ]
 }
