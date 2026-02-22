@@ -8,6 +8,12 @@ const CONFIG = {
   DEEPSEEK_API_KEY: process.env.DEEPSEEK_API_KEY,
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
+  // 飞书 API 相关
+  FEISHU_APP_ID: process.env.FEISHU_APP_ID,
+  FEISHU_APP_SECRET: process.env.FEISHU_APP_SECRET,
+  FEISHU_BITABLE_APP_TOKEN: process.env.FEISHU_BITABLE_APP_TOKEN,
+  FEISHU_BITABLE_TABLE_ID: process.env.FEISHU_BITABLE_TABLE_ID,
+
   // 分类关键词
   CATEGORIES: {
     '电气化': [
@@ -491,6 +497,110 @@ async function sendToFeishu(categorizedNews, dateStr) {
   });
 }
 
+// 获取飞书 tenant_access_token
+async function getFeishuAccessToken() {
+  const postData = JSON.stringify({
+    app_id: CONFIG.FEISHU_APP_ID,
+    app_secret: CONFIG.FEISHU_APP_SECRET
+  });
+
+  return new Promise((resolve, reject) => {
+    const req = https.request('https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(postData)
+      }
+    }, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const result = JSON.parse(data);
+          if (result.code === 0) {
+            resolve(result.tenant_access_token);
+          } else {
+            reject(new Error(`获取Token失败: ${result.msg}`));
+          }
+        } catch (e) {
+          reject(e);
+        }
+      });
+    });
+    req.on('error', reject);
+    req.write(postData);
+    req.end();
+  });
+}
+
+// 同步到飞书多维表格
+async function syncToBitable(newsList) {
+  if (!CONFIG.FEISHU_APP_ID || !CONFIG.FEISHU_BITABLE_APP_TOKEN) {
+    console.log('⚠️ 未配置多维表格参数，跳过同步');
+    return;
+  }
+
+  console.log(`\n📊 正在同步 ${newsList.length} 条新闻到多维表格...`);
+  try {
+    const token = await getFeishuAccessToken();
+    const url = `https://open.feishu.cn/open-apis/bitable/v1/apps/${CONFIG.FEISHU_BITABLE_APP_TOKEN}/tables/${CONFIG.FEISHU_BITABLE_TABLE_ID}/records/batch_create`;
+
+    // 格式化数据，匹配 Bitable 的列名
+    const records = newsList.map(news => ({
+      fields: {
+        '标题': news.title,
+        '分类': news.category || '其他',
+        '摘要': news.summary || '',
+        '来源': news.source || '',
+        '链接': {
+          'link': news.url,
+          'text': '点击查看原文'
+        },
+        '日期': Date.now() // 时间戳
+      }
+    }));
+
+    // 分批写入（飞书 API 限制单次最多 100 条）
+    for (let i = 0; i < records.length; i += 100) {
+      const batch = records.slice(i, i + 100);
+      const postData = JSON.stringify({ records: batch });
+
+      await new Promise((resolve, reject) => {
+        const req = https.request(url, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`,
+            'Content-Length': Buffer.byteLength(postData)
+          }
+        }, (res) => {
+          let data = '';
+          res.on('data', chunk => data += chunk);
+          res.on('end', () => {
+            const result = JSON.parse(data);
+            if (result.code === 0) {
+              console.log(`  ✅ 成功写入 ${batch.length} 条记录`);
+              resolve();
+            } else {
+              console.error(`  ❌ 写入失败: ${result.msg}`);
+              resolve(); // 失败也继续，不阻断主流程
+            }
+          });
+        });
+        req.on('error', (e) => {
+          console.error(`  ❌ 请求错误: ${e.message}`);
+          resolve();
+        });
+        req.write(postData);
+        req.end();
+      });
+    }
+  } catch (e) {
+    console.error(`  ❌ 同步多维表格失败: ${e.message}`);
+  }
+}
+
+
 // 主函数
 async function main() {
   console.log('🚀 每日汽车新闻推送开始');
@@ -662,6 +772,18 @@ async function main() {
     const bjNow = getZonedDateTime();
     const dateStr = `${bjNow.getMonth() + 1}月${bjNow.getDate()}日 ${String(bjNow.getHours()).padStart(2, '0')}:${String(bjNow.getMinutes()).padStart(2, '0')}`;
     await sendToFeishu(categorized, dateStr);
+
+    // 将所有新闻打平准备写入表格
+    const newsToSync = [];
+    for (const category of Object.keys(categorized)) {
+      categorized[category].forEach(news => {
+        news.category = category; // 补充分类信息
+        newsToSync.push(news);
+      });
+    }
+    if (newsToSync.length > 0) {
+      await syncToBitable(newsToSync);
+    }
 
     // 更新历史记录
     const allPushed = Object.values(categorized).flat();
