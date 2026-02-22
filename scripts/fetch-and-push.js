@@ -665,7 +665,28 @@ async function main() {
 
     // 更新历史记录
     const allPushed = Object.values(categorized).flat();
-    history.pushedUrls.push(...allPushed.map(n => n.url));
+    const nowTs = Date.now();
+
+    // 初始化新格式字段
+    if (!history.newsHistory) history.newsHistory = [];
+
+    allPushed.forEach(n => {
+      history.pushedUrls.push(n.url);
+      history.newsHistory.push({
+        url: n.url,
+        title: n.title,
+        source: n.source,
+        pushedAt: nowTs
+      });
+    });
+
+    // 只保留最近 7 天的详细历史，避免文件过大
+    const sevenDaysMs = 7 * 24 * 60 * 60 * 1000;
+    history.newsHistory = history.newsHistory.filter(item => (nowTs - item.pushedAt) < sevenDaysMs);
+
+    // 去重冗余的 URL 记录 (可选，保持兼容)
+    history.pushedUrls = [...new Set(history.pushedUrls)].slice(-2000);
+
     history.lastUpdated = `${bjNow.getFullYear()}-${String(bjNow.getMonth() + 1).padStart(2, '0')}-${String(bjNow.getDate()).padStart(2, '0')}`;
     fs.mkdirSync(path.dirname(CONFIG.HISTORY_FILE), { recursive: true });
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));

@@ -1,0 +1,30 @@
+name: 每日汽车要闻总结
+
+on:
+  schedule:
+    # 每天北京时间 16:30 (UTC 08:30)
+    - cron: '30 8 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  daily-summary:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: 安装依赖
+        run: npm install
+        
+      - name: 执行要闻总结
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node scripts/daily-summary.js
