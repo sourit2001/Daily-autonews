@@ -480,7 +480,37 @@
     "https://www.d1ev.com/carnews/xinche/288631",
     "https://www.d1ev.com/newsflash/288632",
     "https://www.d1ev.com/newsflash/288629",
-    "https://www.d1ev.com/news/qiye/288630"
+    "https://www.d1ev.com/news/qiye/288630",
+    "https://www.d1ev.com/newsflash/288636",
+    "https://www.d1ev.com/newsflash/288633",
+    "https://www.d1ev.com/newsflash/288635",
+    "https://www.d1ev.com/newsflash/288634"
   ],
-  "lastUpdated": "2026-02-22"
+  "lastUpdated": "2026-02-22",
+  "newsHistory": [
+    {
+      "url": "https://www.d1ev.com/newsflash/288636",
+      "title": "AI淘金热催生“影子电网”：47个数据中心自建发电，碳排放与污染隐患重重",
+      "source": "第一电动",
+      "pushedAt": 1771742427799
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288633",
+      "title": "特斯拉FSD突破128亿公里：自动驾驶更近一步，识别手势信号如真人",
+      "source": "第一电动",
+      "pushedAt": 1771742427799
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288635",
+      "title": "特斯拉FSD新突破：欧洲路测精准识别手势信号",
+      "source": "第一电动",
+      "pushedAt": 1771742427799
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288634",
+      "title": "阿里云CodingPlan新模型上线，首月优惠低至7.9元",
+      "source": "第一电动",
+      "pushedAt": 1771742427799
+    }
+  ]
 }
