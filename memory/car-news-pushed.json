@@ -508,7 +508,12 @@
     "https://www.d1ev.com/carnews/xinche/288662",
     "https://www.d1ev.com/newsflash/288664",
     "https://www.d1ev.com/newsflash/288663",
-    "https://www.d1ev.com/newsflash/288661"
+    "https://www.d1ev.com/newsflash/288661",
+    "https://www.d1ev.com/newsflash/288668",
+    "https://www.d1ev.com/newsflash/288667",
+    "https://www.d1ev.com/newsflash/288669",
+    "https://www.d1ev.com/newsflash/288666",
+    "https://www.d1ev.com/newsflash/288665"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -679,6 +684,36 @@
       "title": "现代汽车集团豪掷481亿人民币，打造AI、氢能、机器人未来中心",
       "source": "第一电动",
       "pushedAt": 1771811108436
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288668",
+      "title": "广汽丰田威兰达AIR版即将上市，全球设计起步高配！",
+      "source": "第一电动",
+      "pushedAt": 1771820396532
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288667",
+      "title": "支付宝AI付用户破亿，千问App接入实现一句话点外卖",
+      "source": "第一电动",
+      "pushedAt": 1771820396532
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288669",
+      "title": "蔚来换电创纪录：日换电超17万次，全国超8600座充换电站助力绿色出行",
+      "source": "第一电动",
+      "pushedAt": 1771820396532
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288666",
+      "title": "蔚来换电单日破17万次！春节返程高峰全力护航",
+      "source": "第一电动",
+      "pushedAt": 1771820396532
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288665",
+      "title": "蔚来换电单日破17万次，刷新历史记录！",
+      "source": "第一电动",
+      "pushedAt": 1771820396532
     }
   ]
 }
