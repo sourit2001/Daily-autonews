@@ -526,7 +526,11 @@
     "https://www.d1ev.com/newsflash/288680",
     "https://www.d1ev.com/newsflash/288679",
     "https://www.d1ev.com/newsflash/288678",
-    "https://www.d1ev.com/newsflash/288675"
+    "https://www.d1ev.com/newsflash/288675",
+    "https://www.d1ev.com/newsflash/288685",
+    "https://www.d1ev.com/newsflash/288683",
+    "https://www.d1ev.com/newsflash/288686",
+    "https://www.d1ev.com/newsflash/288684"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -805,6 +809,30 @@
       "title": "春晚引爆机器人热潮，京东机器人产品销量翻番",
       "source": "第一电动",
       "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288685",
+      "title": "北京纯锂新能源2026年固态电池营收冲亿，布局机器人、无人机、汽车等领域",
+      "source": "第一电动",
+      "pushedAt": 1771843473048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288683",
+      "title": "韩国三大电视台联手起诉OpenAI：未经授权使用新闻内容",
+      "source": "第一电动",
+      "pushedAt": 1771843473048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288686",
+      "title": "机器人租赁市场火爆，春节订单量激增30%",
+      "source": "第一电动",
+      "pushedAt": 1771843473048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288684",
+      "title": "“月之暗面Kimi融资超12亿美元，估值破百亿成最快十角兽企业”",
+      "source": "第一电动",
+      "pushedAt": 1771843473048
     }
   ]
 }
