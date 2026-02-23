@@ -504,7 +504,11 @@
     "https://www.d1ev.com/newsflash/288655",
     "https://www.d1ev.com/newsflash/288654",
     "https://www.d1ev.com/newsflash/288652",
-    "https://www.d1ev.com/newsflash/288660"
+    "https://www.d1ev.com/newsflash/288660",
+    "https://www.d1ev.com/carnews/xinche/288662",
+    "https://www.d1ev.com/newsflash/288664",
+    "https://www.d1ev.com/newsflash/288663",
+    "https://www.d1ev.com/newsflash/288661"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -651,6 +655,30 @@
       "title": "OpenAI新推ChatGPTProLite，月费百美元享深度思考特权",
       "source": "第一电动",
       "pushedAt": 1771777389804
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288662",
+      "title": "全新日产轩逸2月24日上市：换新设计语言",
+      "source": "第一电动",
+      "pushedAt": 1771811108436
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288664",
+      "title": "贾跃亭宣布法拉第未来EAI机器人下周首批交付，与美经销商合作",
+      "source": "第一电动",
+      "pushedAt": 1771811108436
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288663",
+      "title": "OpenAI豪掷4万亿！2030年计算费用激增，AI市场格局生变",
+      "source": "第一电动",
+      "pushedAt": 1771811108436
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288661",
+      "title": "现代汽车集团豪掷481亿人民币，打造AI、氢能、机器人未来中心",
+      "source": "第一电动",
+      "pushedAt": 1771811108436
     }
   ]
 }
