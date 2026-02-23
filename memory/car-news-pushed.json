@@ -518,7 +518,15 @@
     "https://www.d1ev.com/newsflash/288671",
     "https://www.d1ev.com/newsflash/288673",
     "https://www.d1ev.com/newsflash/288672",
-    "https://www.d1ev.com/newsflash/288670"
+    "https://www.d1ev.com/newsflash/288670",
+    "https://www.d1ev.com/newsflash/288677",
+    "https://www.d1ev.com/newsflash/288676",
+    "https://www.d1ev.com/newsflash/288682",
+    "https://www.d1ev.com/newsflash/288681",
+    "https://www.d1ev.com/newsflash/288680",
+    "https://www.d1ev.com/newsflash/288679",
+    "https://www.d1ev.com/newsflash/288678",
+    "https://www.d1ev.com/newsflash/288675"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -749,6 +757,54 @@
       "title": "蚂蚁阿福App用户破亿，三线及以下城市用户占半壁江山",
       "source": "第一电动",
       "pushedAt": 1771829913551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288677",
+      "title": "奔驰“小G”越野车2027年亮相，纯电续航超700公里！",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288676",
+      "title": "银色问界M6路试曝光，华为巨鲸电池加持，纯电续航180-272公里",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288682",
+      "title": "2026年乘用车均价飙升至18.6万，新能源车消费结构巨变",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288681",
+      "title": "岚图泰山Ultra智驾升级：45.99万起售，华为激光雷达加持！",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288680",
+      "title": "宇树G1机器人天坛祈福，春晚武术跑酷刷新全球纪录",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288679",
+      "title": "智平方B轮融资超10亿，成全球融资最快具身智能企业",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288678",
+      "title": "春节新风尚：千问App一句话下单2亿次，60岁以上用户激增",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288675",
+      "title": "春晚引爆机器人热潮，京东机器人产品销量翻番",
+      "source": "第一电动",
+      "pushedAt": 1771836175809
     }
   ]
 }
