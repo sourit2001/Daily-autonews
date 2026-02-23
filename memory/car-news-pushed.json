@@ -513,7 +513,12 @@
     "https://www.d1ev.com/newsflash/288667",
     "https://www.d1ev.com/newsflash/288669",
     "https://www.d1ev.com/newsflash/288666",
-    "https://www.d1ev.com/newsflash/288665"
+    "https://www.d1ev.com/newsflash/288665",
+    "https://www.d1ev.com/newsflash/288674",
+    "https://www.d1ev.com/newsflash/288671",
+    "https://www.d1ev.com/newsflash/288673",
+    "https://www.d1ev.com/newsflash/288672",
+    "https://www.d1ev.com/newsflash/288670"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -714,6 +719,36 @@
       "title": "蔚来换电单日破17万次，刷新历史记录！",
       "source": "第一电动",
       "pushedAt": 1771820396532
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288674",
+      "title": "智平方科技B轮融资超10亿 估值破百亿冲击上市",
+      "source": "第一电动",
+      "pushedAt": 1771829913551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288671",
+      "title": "鸿蒙智行尊界SUV曝光，华为技术加持挑战高端市场",
+      "source": "第一电动",
+      "pushedAt": 1771829913551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288673",
+      "title": "自动驾驶新纪元：中美竞逐L4级技术革命，Robotaxi时代即将来临",
+      "source": "第一电动",
+      "pushedAt": 1771829913551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288672",
+      "title": "问界M9惠州起火事件：非车辆原因，无伤亡，官方积极调查",
+      "source": "第一电动",
+      "pushedAt": 1771829913551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288670",
+      "title": "蚂蚁阿福App用户破亿，三线及以下城市用户占半壁江山",
+      "source": "第一电动",
+      "pushedAt": 1771829913551
     }
   ]
 }
