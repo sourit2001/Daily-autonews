@@ -530,7 +530,13 @@
     "https://www.d1ev.com/newsflash/288685",
     "https://www.d1ev.com/newsflash/288683",
     "https://www.d1ev.com/newsflash/288686",
-    "https://www.d1ev.com/newsflash/288684"
+    "https://www.d1ev.com/newsflash/288684",
+    "https://www.d1ev.com/newsflash/288689",
+    "https://www.d1ev.com/newsflash/288687",
+    "https://www.d1ev.com/newsflash/288688",
+    "https://www.d1ev.com/newsflash/288691",
+    "https://www.d1ev.com/newsflash/288692",
+    "https://www.d1ev.com/newsflash/288690"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -833,6 +839,42 @@
       "title": "“月之暗面Kimi融资超12亿美元，估值破百亿成最快十角兽企业”",
       "source": "第一电动",
       "pushedAt": 1771843473048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288689",
+      "title": "荣耀MWC2026全球首发人形机器人，手机巨头跨界新纪元！",
+      "source": "第一电动",
+      "pushedAt": 1771851181100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288687",
+      "title": "日产LEAF聆风入门款取消美国上市，续航缩水不满足需求",
+      "source": "第一电动",
+      "pushedAt": 1771851181100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288688",
+      "title": "SK海力士瞄准AI“怪兽芯片”，产能提升或重塑全球产业结构",
+      "source": "第一电动",
+      "pushedAt": 1771851181100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288691",
+      "title": "中国品牌MG欧洲销量破百万，连续11年领跑！",
+      "source": "第一电动",
+      "pushedAt": 1771851181100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288692",
+      "title": "“问界M9惠州起火事件：初步调查排除车辆自身原因”",
+      "source": "第一电动",
+      "pushedAt": 1771851181100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288690",
+      "title": "惠州问界M9起火事件：非车辆自身原因，无人员伤亡",
+      "source": "第一电动",
+      "pushedAt": 1771851181100
     }
   ]
 }
