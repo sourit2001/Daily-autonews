@@ -536,7 +536,13 @@
     "https://www.d1ev.com/newsflash/288688",
     "https://www.d1ev.com/newsflash/288691",
     "https://www.d1ev.com/newsflash/288692",
-    "https://www.d1ev.com/newsflash/288690"
+    "https://www.d1ev.com/newsflash/288690",
+    "https://www.d1ev.com/newsflash/288696",
+    "https://www.d1ev.com/newsflash/288698",
+    "https://www.d1ev.com/newsflash/288695",
+    "https://www.d1ev.com/newsflash/288694",
+    "https://www.d1ev.com/newsflash/288697",
+    "https://www.d1ev.com/newsflash/288693"
   ],
   "lastUpdated": "2026-02-23",
   "newsHistory": [
@@ -875,6 +881,42 @@
       "title": "惠州问界M9起火事件：非车辆自身原因，无人员伤亡",
       "source": "第一电动",
       "pushedAt": 1771851181100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288696",
+      "title": "丰田RAV4 PHEV日本上市：纯电续航150km，售价26.8万起",
+      "source": "第一电动",
+      "pushedAt": 1771857747914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288698",
+      "title": "OpenAI联手甲骨文软银，5000亿美元“星际之门”项目重启",
+      "source": "第一电动",
+      "pushedAt": 1771857747914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288695",
+      "title": "“省钱攻略：新能源汽车充电成本直降40%秘籍”",
+      "source": "第一电动",
+      "pushedAt": 1771857747914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288694",
+      "title": "阿联酋成功抵御恐怖网络攻击，AI技术成攻击新手段",
+      "source": "第一电动",
+      "pushedAt": 1771857747914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288697",
+      "title": "兰博基尼取消2028年纯电车型计划，转向插混市场",
+      "source": "第一电动",
+      "pushedAt": 1771857747914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288693",
+      "title": "宝马7系升级版4月发布，取消L3辅助驾驶系统",
+      "source": "第一电动",
+      "pushedAt": 1771857747914
     }
   ]
 }
