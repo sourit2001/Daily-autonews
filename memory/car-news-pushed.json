@@ -669,7 +669,19 @@
     "https://www.d1ev.com/newsflash/288822",
     "https://www.d1ev.com/news/qiye/288818",
     "https://www.d1ev.com/news/qiye/288813",
-    "https://www.d1ev.com/newsflash/288812"
+    "https://www.d1ev.com/newsflash/288812",
+    "https://www.d1ev.com/newsflash/288845",
+    "https://www.d1ev.com/newsflash/288844",
+    "https://www.d1ev.com/news/shichang/288837",
+    "https://www.d1ev.com/newsflash/288835",
+    "https://www.d1ev.com/news/shichang/288846",
+    "https://www.d1ev.com/news/qiye/288836",
+    "https://www.d1ev.com/newsflash/288843",
+    "https://www.d1ev.com/news/qiye/288842",
+    "https://www.d1ev.com/news/qiye/288841",
+    "https://www.d1ev.com/newsflash/288840",
+    "https://www.d1ev.com/news/shichang/288839",
+    "https://www.d1ev.com/news/shichang/288838"
   ],
   "lastUpdated": "2026-02-24",
   "newsHistory": [
@@ -1806,6 +1818,78 @@
       "title": "豪车大降价！奔驰E级优惠13.5万，宝马7系直降27万",
       "source": "第一电动",
       "pushedAt": 1771929871370
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288845",
+      "title": "SambaNova发布第五代AI芯片：性能翻5倍，能效超英伟达8倍",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288844",
+      "title": "谷歌AI助手NotebookLM升级：幻灯片精准定制，PPTX格式支持",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288837",
+      "title": "宝马将在改款7系上取消L3“脱眼”自动驾驶功能",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288835",
+      "title": "宝马7系升级：L3自动驾驶系统被砍，L2系统成本大降功能增强",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288846",
+      "title": "何小鹏内部信：2026汽车海外销量翻倍，机器人、飞行汽车全部量产",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288836",
+      "title": "名爵成首个欧洲累计销量破百万的中国汽车品牌",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288843",
+      "title": "特斯拉Model3升级：16英寸2K屏+黑色车顶内衬即将来袭",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288842",
+      "title": "透过新春寄语，看吉利汽车2026年核心战略举措",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288841",
+      "title": "富豪压根不买账！兰博基尼官宣：纯电跑车Lanzador项目取消",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288840",
+      "title": "小米汽车春节暖心服务：免费救援、送车上门，车主感动称赞",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288839",
+      "title": "Hella Gutmann推出用于ADAS校准的CSC-Tool Pro",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288838",
+      "title": "中国研究人员发明新训练方法 使机器人手灵巧度逐步接近人类水平",
+      "source": "第一电动",
+      "pushedAt": 1771937652025
     }
   ]
 }
