@@ -681,7 +681,9 @@
     "https://www.d1ev.com/news/qiye/288841",
     "https://www.d1ev.com/newsflash/288840",
     "https://www.d1ev.com/news/shichang/288839",
-    "https://www.d1ev.com/news/shichang/288838"
+    "https://www.d1ev.com/news/shichang/288838",
+    "https://www.d1ev.com/newsflash/288847",
+    "https://www.d1ev.com/newsflash/288848"
   ],
   "lastUpdated": "2026-02-24",
   "newsHistory": [
@@ -1890,6 +1892,18 @@
       "title": "中国研究人员发明新训练方法 使机器人手灵巧度逐步接近人类水平",
       "source": "第一电动",
       "pushedAt": 1771937652025
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288847",
+      "title": "广汽昊铂A800携华为智驾3月4日上市，三电机四驱系统亮相",
+      "source": "第一电动",
+      "pushedAt": 1771944381176
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288848",
+      "title": "AI技术突破引发IBM股价25年最大跌幅",
+      "source": "第一电动",
+      "pushedAt": 1771944381176
     }
   ]
 }
