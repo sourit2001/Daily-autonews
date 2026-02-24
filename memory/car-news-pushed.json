@@ -542,9 +542,27 @@
     "https://www.d1ev.com/newsflash/288695",
     "https://www.d1ev.com/newsflash/288694",
     "https://www.d1ev.com/newsflash/288697",
-    "https://www.d1ev.com/newsflash/288693"
+    "https://www.d1ev.com/newsflash/288693",
+    "https://www.d1ev.com/newsflash/288715",
+    "https://www.d1ev.com/newsflash/288707",
+    "https://www.d1ev.com/newsflash/288704",
+    "https://www.d1ev.com/carnews/xinche/288703",
+    "https://www.d1ev.com/newsflash/288718",
+    "https://www.d1ev.com/newsflash/288709",
+    "https://www.d1ev.com/news/shichang/288708",
+    "https://www.d1ev.com/newsflash/288701",
+    "https://www.d1ev.com/newsflash/288719",
+    "https://www.d1ev.com/carnews/xinche/288717",
+    "https://www.d1ev.com/news/shichang/288716",
+    "https://www.d1ev.com/news/shichang/288714",
+    "https://www.d1ev.com/news/shichang/288713",
+    "https://www.d1ev.com/news/shichang/288712",
+    "https://www.d1ev.com/news/shichang/288711",
+    "https://www.d1ev.com/newsflash/288710",
+    "https://www.d1ev.com/news/shichang/288705",
+    "https://www.d1ev.com/news/shichang/288702"
   ],
-  "lastUpdated": "2026-02-23",
+  "lastUpdated": "2026-02-24",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288636",
@@ -917,6 +935,114 @@
       "title": "宝马7系升级版4月发布，取消L3辅助驾驶系统",
       "source": "第一电动",
       "pushedAt": 1771857747914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288715",
+      "title": "荣耀MWC2026全球发布会：MagicV6首发，人形机器人亮相，AI生态加速",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288707",
+      "title": "华为问界M6智慧SUV曝光：三种续航版本，春日发布！",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288704",
+      "title": "银色问界M6曝光：年轻化设计+激光雷达升级，增程纯电双版本来袭",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288703",
+      "title": "演绎跨界时尚 2026款雷诺Duster新车图解",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288718",
+      "title": "沃尔沃EX30全球召回4万+，疑因电池问题需更换模组",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288709",
+      "title": "美军或将替换Anthropic，xAI人工智能大模型Grok获五角大楼青睐",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288708",
+      "title": "从十几万到上百万全覆盖，到底多少车用上华为乾崑智驾了？",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288701",
+      "title": "特斯拉反击加州DMV：自动驾驶宣传非虚假，要求撤销裁定",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288719",
+      "title": "2026春节档票房破57亿！全球第一，《飞驰人生》领跑",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288717",
+      "title": "宝马X4 M或将回归 纯电版有望输出800马力",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288716",
+      "title": "Seeds｜规模超10亿元，智平方正式官宣完成B轮融资",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288714",
+      "title": "丰田计划两年内将混动车产销量提升近三成",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288713",
+      "title": "特斯拉调整辅助驾驶营销措辞 避免加州销售暂停",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288712",
+      "title": "“国家队”的智电时代话语权丨2026格局与趋势",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288711",
+      "title": "这是最好的时代，也是最坏的时代——这是宁德时代丨2026格局与趋势",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288710",
+      "title": "“问界M7高速遭追尾自燃，真相竟是燃油SUV起火殃及池鱼”",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288705",
+      "title": "2026，没有“新技术”？",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288702",
+      "title": "仁芯科技战略轮融资落地，上汽入股，全力推进SerDes规模量产",
+      "source": "第一电动",
+      "pushedAt": 1771896681081
     }
   ]
 }
