@@ -560,7 +560,52 @@
     "https://www.d1ev.com/news/shichang/288711",
     "https://www.d1ev.com/newsflash/288710",
     "https://www.d1ev.com/news/shichang/288705",
-    "https://www.d1ev.com/news/shichang/288702"
+    "https://www.d1ev.com/news/shichang/288702",
+    "https://www.d1ev.com/newsflash/288756",
+    "https://www.d1ev.com/newsflash/288748",
+    "https://www.d1ev.com/newsflash/288747",
+    "https://www.d1ev.com/newsflash/288743",
+    "https://www.d1ev.com/newsflash/288734",
+    "https://www.d1ev.com/newsflash/288732",
+    "https://www.d1ev.com/newsflash/288724",
+    "https://www.d1ev.com/carnews/xinche/288723",
+    "https://www.d1ev.com/carnews/xinche/288722",
+    "https://www.d1ev.com/carnews/xinche/288721",
+    "https://www.d1ev.com/newsflash/288766",
+    "https://www.d1ev.com/newsflash/288765",
+    "https://www.d1ev.com/news/shichang/288764",
+    "https://www.d1ev.com/newsflash/288760",
+    "https://www.d1ev.com/newsflash/288759",
+    "https://www.d1ev.com/newsflash/288757",
+    "https://www.d1ev.com/news/shichang/288755",
+    "https://www.d1ev.com/news/shichang/288754",
+    "https://www.d1ev.com/newsflash/288750",
+    "https://www.d1ev.com/newsflash/288746",
+    "https://www.d1ev.com/newsflash/288744",
+    "https://www.d1ev.com/newsflash/288741",
+    "https://www.d1ev.com/newsflash/288740",
+    "https://www.d1ev.com/news/qiye/288737",
+    "https://www.d1ev.com/newsflash/288735",
+    "https://www.d1ev.com/newsflash/288729",
+    "https://www.d1ev.com/news/shichang/288761",
+    "https://www.d1ev.com/newsflash/288751",
+    "https://www.d1ev.com/newsflash/288731",
+    "https://www.d1ev.com/news/shichang/288726",
+    "https://www.d1ev.com/news/shichang/288763",
+    "https://www.d1ev.com/news/shichang/288762",
+    "https://www.d1ev.com/newsflash/288758",
+    "https://www.d1ev.com/news/shichang/288753",
+    "https://www.d1ev.com/news/shichang/288752",
+    "https://www.d1ev.com/news/shichang/288745",
+    "https://www.d1ev.com/news/shichang/288742",
+    "https://www.d1ev.com/news/shichang/288739",
+    "https://www.d1ev.com/news/shichang/288738",
+    "https://www.d1ev.com/newsflash/288736",
+    "https://www.d1ev.com/newsflash/288730",
+    "https://www.d1ev.com/newsflash/288728",
+    "https://www.d1ev.com/carnews/xinche/288727",
+    "https://www.d1ev.com/news/qiye/288725",
+    "https://www.d1ev.com/news/qiye/288720"
   ],
   "lastUpdated": "2026-02-24",
   "newsHistory": [
@@ -1043,6 +1088,276 @@
       "title": "仁芯科技战略轮融资落地，上汽入股，全力推进SerDes规模量产",
       "source": "第一电动",
       "pushedAt": 1771896681081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288756",
+      "title": "广汽丰田威兰达AIR版上市：直降3.2万，14.78万起售！",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288748",
+      "title": "小米SU7新年红亮相，4月上市续航最高达902km！",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288747",
+      "title": "吉利汽车2026年大动作：G-ASDH7方案多车型搭载，甲醇混动车型量产上市",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288743",
+      "title": "广汽丰田威兰达AIR版SUV上市，13.78万起享多项智能配置",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288734",
+      "title": "吉利汽车新春贺词：极氪8X首发900V混动系统，甲醇混动车型即将量产",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288732",
+      "title": "小米开工首日发红包 新一代SU7赤霞红亮相4月发布",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288724",
+      "title": "小米SU7「赤霞红」亮相，智能驾驶升级，续航902km，15分钟充电670km",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288723",
+      "title": "采用专属套件 Jeep角斗士Whitecap官图发布",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288722",
+      "title": "日产取消2026款LEAF入门版在美上市计划",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288721",
+      "title": "明年发布 兰博基尼Urus性能版曝最新谍照",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288766",
+      "title": "特斯拉AI4硬件革命：双芯片独立运行，毫秒级故障切换保障安全",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288765",
+      "title": "芬兰DonutLab固态电池突破：9.5分钟充至80%，能量密度超400Wh/kg",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288764",
+      "title": "意法半导体推出首款具备边缘智能AI加速功能的汽车级微控制器",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288760",
+      "title": "极狐阿尔法S5新升级：增程版来袭，纯电续航175km！",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288759",
+      "title": "Uber发布自动驾驶新方案，助力Robotaxi全球商业化",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288757",
+      "title": "特斯拉第三代充电桩上线：7kW功率+智能防盗+5200元起",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288755",
+      "title": "马勒开发出热回收系统HeatX Range+ 可将电动汽车空调能耗降低20%",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288754",
+      "title": "受爱迪生启发 加利福尼亚大学洛杉矶分校开发出镍铁电池技术",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288750",
+      "title": "现代起亚降价迎战比亚迪，韩电动车市场迎价格战",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288746",
+      "title": "AI“记忆”版权作品引发法律争议，大模型训练数据泄露风险凸显",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288744",
+      "title": "沃尔沃全球召回超4万辆EX30，电池过热隐患或致火灾",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288741",
+      "title": "五菱扬光家族焕新升级！2026款续航增至440km，限时一口价6.98万起",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288740",
+      "title": "AI助手失控删除所有邮件，MetaAI研究员紧急手动干预",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288737",
+      "title": "现代与起亚在韩国大幅下调多款电动车售价，沃尔沃等品牌跟进降价",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288735",
+      "title": "印度AI企业Sarvam105B挑战谷歌，本土聊天机器人Indus测试版上线",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288729",
+      "title": "高通AI100加速器全球最大部署！沙特数据中心迎来1024个加速器",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288761",
+      "title": "美国特朗普政府将全球关税从10%提高至15%",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288751",
+      "title": "小鹏汽车2026年目标：全球首家量产机器人、飞行汽车、Robotaxi",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288731",
+      "title": "理想汽车加入欧盟中国商会，加速欧洲市场布局",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288726",
+      "title": "Lucid宣布裁减12%美国员工以提升盈利能力",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288763",
+      "title": "澳大利亚科学家探索从透锂长石中提取锂的工艺",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288762",
+      "title": "一张图看懂山东省汽车产业集群",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288758",
+      "title": "特斯拉FSD系统再获调查延期，面临海量数据提交挑战",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288753",
+      "title": "亚琛工业大学PEM团队将研发无磁电机",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288752",
+      "title": "机器人造车的核心悖论：当工人被取代，谁来为汽车买单？",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288745",
+      "title": "通用汽车追加6300万加元升级加拿大奥沙瓦工厂以生产新一代全尺寸皮卡",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288742",
+      "title": "Seeds｜宁德时代、京东组团下注！这家机器人公司刚融了20亿",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288739",
+      "title": "佑驾创新联手地上铁、壁虎科技 推进车规级无人物流车规模化落地",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288738",
+      "title": "特斯拉公布FSD监督模式最新安全数据，累计行驶里程超80亿英里",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288736",
+      "title": "荣耀前CMO郭锐加盟智界汽车，华为系高管助力品牌新发展",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288730",
+      "title": "华为前荣耀CMO郭锐加盟智界汽车任CEO，华为鸿蒙汽车生态再添猛将",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288728",
+      "title": "三星电子加速PCIe Gen6 SSD研发，2026年性能翻倍功耗仅25W",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288727",
+      "title": "保时捷将于2026年3月发布911 GT3敞篷版",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288725",
+      "title": "通用汽车召回超4.4万辆全尺寸SUV及千余辆皮卡",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288720",
+      "title": "Stellantis在加拿大温莎装配厂启动第三班次，新增1700个岗位",
+      "source": "第一电动",
+      "pushedAt": 1771906640624
     }
   ]
 }
