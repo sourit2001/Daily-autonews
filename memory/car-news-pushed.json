@@ -748,7 +748,29 @@
     "https://www.d1ev.com/newsflash/288913",
     "https://www.d1ev.com/news/shichang/288923",
     "https://www.d1ev.com/newsflash/288919",
-    "https://www.d1ev.com/news/shichang/288914"
+    "https://www.d1ev.com/news/shichang/288914",
+    "https://www.d1ev.com/newsflash/288945",
+    "https://www.d1ev.com/news/shichang/288939",
+    "https://www.d1ev.com/newsflash/288937",
+    "https://www.d1ev.com/news/qiye/288935",
+    "https://www.d1ev.com/newsflash/288934",
+    "https://www.d1ev.com/newsflash/288931",
+    "https://www.d1ev.com/newsflash/288929",
+    "https://www.d1ev.com/newsflash/288944",
+    "https://www.d1ev.com/newsflash/288943",
+    "https://www.d1ev.com/newsflash/288941",
+    "https://www.d1ev.com/newsflash/288936",
+    "https://www.d1ev.com/newsflash/288933",
+    "https://www.d1ev.com/newsflash/288930",
+    "https://www.d1ev.com/news/shichang/288928",
+    "https://www.d1ev.com/newsflash/288924",
+    "https://www.d1ev.com/newsflash/288942",
+    "https://www.d1ev.com/newsflash/288925",
+    "https://www.d1ev.com/news/shichang/288940",
+    "https://www.d1ev.com/news/qiye/288938",
+    "https://www.d1ev.com/news/shichang/288932",
+    "https://www.d1ev.com/news/qiye/288927",
+    "https://www.d1ev.com/news/qiye/288926"
   ],
   "lastUpdated": "2026-02-25",
   "newsHistory": [
@@ -2359,6 +2381,138 @@
       "title": "广汽高域，成立制造公司",
       "source": "第一电动",
       "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288945",
+      "title": "小鹏X9纯电版3月2日上市：续航750km+5C超充，全球充电性能第一",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288939",
+      "title": "零跑A10内饰官图公布",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288937",
+      "title": "极狐阿尔法S5开启预售，增程版续航175公里新选择",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288935",
+      "title": "10万级就配激光雷达 续航超500km！零跑A10内饰官图公布",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288934",
+      "title": "上汽名爵MG07谍照曝光：运动溜背设计搭载激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288931",
+      "title": "东风日产N6180Pro+新成员上市 11万起售 科技感十足",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288929",
+      "title": "东风日产十五代轩逸焕新上市，智能升级引领家轿新潮流",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288944",
+      "title": "华为加入AgenticAI基金会，推动AI智能体系统发展",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288943",
+      "title": "AI时代来临：未来10年机器人数量超人类，人类每周工作2天",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288941",
+      "title": "纽博格林赛道抖音首秀，中国新能源车挑战传奇赛道！",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288936",
+      "title": "东风本田销量五年暴跌近50万，新能源转型艰难",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288933",
+      "title": "春节出行大数据：问界汽车行驶8.2亿公里，华为智驾辅助超4.7亿公里",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288930",
+      "title": "西安市民除夕夜遭AI辱骂，元宝App紧急修复并道歉",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288928",
+      "title": "小马智行深圳订单量开年超越去年全年，自动驾驶商业化提速",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288924",
+      "title": "香港特区政府30亿港元力推AI产业化，陈茂波宣布成立AI+产业发展策略委员会",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288942",
+      "title": "美国FCC将大疆无人机列入管制清单，大疆上诉挑战禁令",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288925",
+      "title": "比亚迪销量飙升165%，特斯拉欧洲市场暴跌17%",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288940",
+      "title": "因悬架系统故障，福特召回41.27万辆探险者",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288938",
+      "title": "Lucid 2025年净亏损27亿美元，预计2026年产量增速将放缓",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288932",
+      "title": "湖北的“低空野心”藏不住了",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288927",
+      "title": "特斯拉已生产多辆Cybercab 航拍显示得克萨斯超级工厂内有3辆",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288926",
+      "title": "传现代汽车集团将在韩国启动数百亿美元投资计划",
+      "source": "第一电动",
+      "pushedAt": 1772009002013
     }
   ]
 }
