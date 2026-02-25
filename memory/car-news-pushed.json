@@ -798,7 +798,17 @@
     "https://www.d1ev.com/newsflash/288968",
     "https://www.d1ev.com/newsflash/288973",
     "https://www.d1ev.com/newsflash/288971",
-    "https://www.d1ev.com/newsflash/288970"
+    "https://www.d1ev.com/newsflash/288970",
+    "https://www.d1ev.com/newsflash/288978",
+    "https://www.d1ev.com/newsflash/288983",
+    "https://www.d1ev.com/newsflash/288982",
+    "https://www.d1ev.com/newsflash/288981",
+    "https://www.d1ev.com/newsflash/288976",
+    "https://www.d1ev.com/newsflash/288984",
+    "https://www.d1ev.com/newsflash/288980",
+    "https://www.d1ev.com/newsflash/288979",
+    "https://www.d1ev.com/newsflash/288977",
+    "https://www.d1ev.com/news/qiye/288975"
   ],
   "lastUpdated": "2026-02-25",
   "newsHistory": [
@@ -2709,6 +2719,66 @@
       "title": "成都小米汽车高速碰撞起火 司机酒后驾驶身亡责任待定",
       "source": "第一电动",
       "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288978",
+      "title": "蔚来ES9领衔，四款新车即将亮相，电动市场再掀波澜",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288983",
+      "title": "迪拜2026年迎空中出租车，Uber应用一键预订电动飞行新体验",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288982",
+      "title": "德国启用AI打击犯罪：金融犯罪、洗钱和毒品走私成重点",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288981",
+      "title": "宝马携手宁德时代深化合作，共推电动车碳足迹降低",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288976",
+      "title": "AI“克隆”CEO助员工轻松汇报，优步工程师打造职场新工具",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288984",
+      "title": "“半幅方向盘遭新规封杀，安全与创新的较量”",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288980",
+      "title": "比亚迪海洋网新年福利：3年0息、7年低息，置换补贴高达21000元！",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288979",
+      "title": "小米YU7三月限时福利：7年低息、3年0息，52000元权益大放送！",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288977",
+      "title": "马自达MX-5新动力方案：电气化或合成燃料，轻量化仍是关键",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288975",
+      "title": "比亚迪跟进 日供低至29元起！超20家车企推七年低息贷款",
+      "source": "第一电动",
+      "pushedAt": 1772030721946
     }
   ]
 }
