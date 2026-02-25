@@ -731,7 +731,24 @@
     "https://www.d1ev.com/carnews/xinche/288884",
     "https://www.d1ev.com/news/shichang/288883",
     "https://www.d1ev.com/newsflash/288882",
-    "https://www.d1ev.com/newsflash/288881"
+    "https://www.d1ev.com/newsflash/288881",
+    "https://www.d1ev.com/news/shichang/288922",
+    "https://www.d1ev.com/newsflash/288918",
+    "https://www.d1ev.com/carnews/xinche/288917",
+    "https://www.d1ev.com/carnews/xinche/288916",
+    "https://www.d1ev.com/carnews/xinche/288915",
+    "https://www.d1ev.com/newsflash/288908",
+    "https://www.d1ev.com/newsflash/288907",
+    "https://www.d1ev.com/newsflash/288906",
+    "https://www.d1ev.com/newsflash/288921",
+    "https://www.d1ev.com/newsflash/288920",
+    "https://www.d1ev.com/newsflash/288912",
+    "https://www.d1ev.com/newsflash/288911",
+    "https://www.d1ev.com/newsflash/288910",
+    "https://www.d1ev.com/newsflash/288913",
+    "https://www.d1ev.com/news/shichang/288923",
+    "https://www.d1ev.com/newsflash/288919",
+    "https://www.d1ev.com/news/shichang/288914"
   ],
   "lastUpdated": "2026-02-25",
   "newsHistory": [
@@ -2240,6 +2257,108 @@
       "title": "福特Mustang Mach-E前备厢成付费功能，495美元引争议",
       "source": "第一电动",
       "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288922",
+      "title": "何小鹏：2026款小鹏X9纯电版将于3月2日上市",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288918",
+      "title": "保时捷卡宴纯电轿跑版曝光，1200马力赛道新宠",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288917",
+      "title": "新款腾势Z9GT即将开启预售 性能全面提升",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288916",
+      "title": "配置丰富 比亚迪宋Ultra EV内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288915",
+      "title": "科技感十足 零跑A10内饰官图正式发布",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288908",
+      "title": "腾势Z9GT预售开启：比亚迪黑科技加持，续航突破1000km！",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288907",
+      "title": "零跑A10内饰曝光：科技感爆棚，续航超500km！",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288906",
+      "title": "比亚迪宋UltraEV内饰曝光：2840mm轴距，座椅秒变双人床！",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288921",
+      "title": "“龙虾之父”Peter Steinberger揭秘：AI编程如何颠覆创业与代码世界",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288920",
+      "title": "美国青少年拥抱AI：64%日常使用，51%认为对教育有益",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288912",
+      "title": "AI泡沫成投资者新忧虑，云服务商债券发行预期激增",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288911",
+      "title": "春节出行新趋势：华为智驾辅助功能使用激增，累计里程超4.7亿公里",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288910",
+      "title": "日本京都大学研发“佛机器人Plus”：AI僧侣能对话还能行礼",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288913",
+      "title": "欧洲车市遇冷，比亚迪销量飙升165%超特斯拉",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288923",
+      "title": "湖北抢造飞行汽车",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288919",
+      "title": "宝马iX1跳过中期改款，2027年迎来纯电“新世代”架构升级",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288914",
+      "title": "广汽高域，成立制造公司",
+      "source": "第一电动",
+      "pushedAt": 1772002674209
     }
   ]
 }
