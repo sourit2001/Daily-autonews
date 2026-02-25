@@ -809,7 +809,8 @@
     "https://www.d1ev.com/newsflash/288979",
     "https://www.d1ev.com/newsflash/288977",
     "https://www.d1ev.com/news/qiye/288975",
-    "https://www.d1ev.com/newsflash/288988"
+    "https://www.d1ev.com/newsflash/288988",
+    "https://www.d1ev.com/newsflash/288989"
   ],
   "lastUpdated": "2026-02-26",
   "newsHistory": [
@@ -2786,6 +2787,12 @@
       "title": "大一新生伊森·麦克坎纳加入特斯拉Robotaxi团队，马斯克招人不拘一格",
       "source": "第一电动",
       "pushedAt": 1772038979526
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288989",
+      "title": "谷歌新功能：三星Galaxy S26系列首发，诈骗检测升级！",
+      "source": "第一电动",
+      "pushedAt": 1772051402985
     }
   ]
 }
