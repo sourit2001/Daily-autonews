@@ -683,9 +683,33 @@
     "https://www.d1ev.com/news/shichang/288839",
     "https://www.d1ev.com/news/shichang/288838",
     "https://www.d1ev.com/newsflash/288847",
-    "https://www.d1ev.com/newsflash/288848"
+    "https://www.d1ev.com/newsflash/288848",
+    "https://www.d1ev.com/carnews/xinche/288880",
+    "https://www.d1ev.com/carnews/xinche/288871",
+    "https://www.d1ev.com/carnews/xinche/288869",
+    "https://www.d1ev.com/news/shichang/288867",
+    "https://www.d1ev.com/news/shichang/288863",
+    "https://www.d1ev.com/news/shichang/288862",
+    "https://www.d1ev.com/news/qiye/288856",
+    "https://www.d1ev.com/news/shichang/288877",
+    "https://www.d1ev.com/newsflash/288875",
+    "https://www.d1ev.com/newsflash/288874",
+    "https://www.d1ev.com/newsflash/288872",
+    "https://www.d1ev.com/news/shichang/288859",
+    "https://www.d1ev.com/newsflash/288858",
+    "https://www.d1ev.com/newsflash/288857",
+    "https://www.d1ev.com/carnews/xinche/288879",
+    "https://www.d1ev.com/newsflash/288865",
+    "https://www.d1ev.com/carnews/xinche/288878",
+    "https://www.d1ev.com/news/shichang/288876",
+    "https://www.d1ev.com/newsflash/288873",
+    "https://www.d1ev.com/carnews/xinche/288870",
+    "https://www.d1ev.com/news/shichang/288868",
+    "https://www.d1ev.com/news/shichang/288866",
+    "https://www.d1ev.com/news/shichang/288864",
+    "https://www.d1ev.com/news/shichang/288861"
   ],
-  "lastUpdated": "2026-02-24",
+  "lastUpdated": "2026-02-25",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288636",
@@ -1904,6 +1928,150 @@
       "title": "AI技术突破引发IBM股价25年最大跌幅",
       "source": "第一电动",
       "pushedAt": 1771944381176
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288880",
+      "title": "东风日产N7青春版上市 售价11.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288871",
+      "title": "全新日产轩逸正式上市 售价10.49万元起",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288869",
+      "title": "吉利新一代甲醇混动车将上市 每公里2毛钱",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288867",
+      "title": "同星智能GW2202/GW2204网关上市，重塑多场景通信体验！",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288863",
+      "title": "持续发力高端市场 尊界SUV最新谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288862",
+      "title": "采用全新三屏设计 红旗H9 PHEV内饰谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288856",
+      "title": "一次亮相4款！飞行汽车来了：湖北造、像开车一样简单",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288877",
+      "title": "传统车企上牌桌！各价位段智驾“三幻神”都有谁？",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288875",
+      "title": "Workday CEO：AI巨头Anthropic、谷歌、OpenAI都在用我们的产品",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288874",
+      "title": "中国新能源车全球领先：比亚迪销量超特斯拉2.5倍",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288872",
+      "title": "华为乾崑智驾春节护航：辅助驾驶里程超4.7亿公里，避免碰撞超10万次",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288859",
+      "title": "【盖世快讯】零跑汽车公司增资至55.58亿；特斯拉AI4芯片采用全冗余故障转移架构",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288858",
+      "title": "OpenAI新平台Frontier助力企业AI转型，印度市场成新焦点",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288857",
+      "title": "谷歌AI平台Antigravity禁用第三方开源智能体引发用户账号封禁风波",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288879",
+      "title": "奇瑞将推柴油插混皮卡 但美国市场无缘",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288865",
+      "title": "中国商务部对20家日企实施出口管制，涉及军事实力提升",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288878",
+      "title": "林肯或将推出基于Bronco的豪华越野SUV",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288876",
+      "title": "Seeds｜登上春晚的灵巧手，刚刚融了数亿元",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288873",
+      "title": "微软强化数据安全：2026年全面禁止Copilot处理机密文档",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288870",
+      "title": "新一代小米SU7全新配色赤霞红正式揭幕",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288868",
+      "title": "汽车制造商重夺定价权丨2026格局与趋势",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288866",
+      "title": "FPT × 高通达成战略合作，共推智能汽车技术创新",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288864",
+      "title": "2026年1月TOP30轿车销量投诉量对应点评",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288861",
+      "title": "价格战，熄火？",
+      "source": "第一电动",
+      "pushedAt": 1771984039679
     }
   ]
 }
