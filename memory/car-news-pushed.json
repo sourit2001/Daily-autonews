@@ -808,9 +808,10 @@
     "https://www.d1ev.com/newsflash/288980",
     "https://www.d1ev.com/newsflash/288979",
     "https://www.d1ev.com/newsflash/288977",
-    "https://www.d1ev.com/news/qiye/288975"
+    "https://www.d1ev.com/news/qiye/288975",
+    "https://www.d1ev.com/newsflash/288988"
   ],
-  "lastUpdated": "2026-02-25",
+  "lastUpdated": "2026-02-26",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288636",
@@ -2779,6 +2780,12 @@
       "title": "比亚迪跟进 日供低至29元起！超20家车企推七年低息贷款",
       "source": "第一电动",
       "pushedAt": 1772030721946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288988",
+      "title": "大一新生伊森·麦克坎纳加入特斯拉Robotaxi团队，马斯克招人不拘一格",
+      "source": "第一电动",
+      "pushedAt": 1772038979526
     }
   ]
 }
