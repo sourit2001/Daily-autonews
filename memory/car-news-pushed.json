@@ -707,7 +707,31 @@
     "https://www.d1ev.com/news/shichang/288868",
     "https://www.d1ev.com/news/shichang/288866",
     "https://www.d1ev.com/news/shichang/288864",
-    "https://www.d1ev.com/news/shichang/288861"
+    "https://www.d1ev.com/news/shichang/288861",
+    "https://www.d1ev.com/newsflash/288901",
+    "https://www.d1ev.com/newsflash/288896",
+    "https://www.d1ev.com/newsflash/288895",
+    "https://www.d1ev.com/newsflash/288887",
+    "https://www.d1ev.com/newsflash/288886",
+    "https://www.d1ev.com/carnews/xinche/288885",
+    "https://www.d1ev.com/newsflash/288905",
+    "https://www.d1ev.com/newsflash/288904",
+    "https://www.d1ev.com/newsflash/288903",
+    "https://www.d1ev.com/newsflash/288894",
+    "https://www.d1ev.com/newsflash/288892",
+    "https://www.d1ev.com/newsflash/288889",
+    "https://www.d1ev.com/newsflash/288897",
+    "https://www.d1ev.com/news/qiye/288890",
+    "https://www.d1ev.com/newsflash/288902",
+    "https://www.d1ev.com/news/qiye/288900",
+    "https://www.d1ev.com/news/qiye/288899",
+    "https://www.d1ev.com/carnews/xinche/288893",
+    "https://www.d1ev.com/newsflash/288891",
+    "https://www.d1ev.com/newsflash/288888",
+    "https://www.d1ev.com/carnews/xinche/288884",
+    "https://www.d1ev.com/news/shichang/288883",
+    "https://www.d1ev.com/newsflash/288882",
+    "https://www.d1ev.com/newsflash/288881"
   ],
   "lastUpdated": "2026-02-25",
   "newsHistory": [
@@ -2072,6 +2096,150 @@
       "title": "价格战，熄火？",
       "source": "第一电动",
       "pushedAt": 1771984039679
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288901",
+      "title": "小米SU7卡布里蓝第二批实车进店，7城同步亮相！",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288896",
+      "title": "零跑A10纯电SUV亮相广州车展，盲订开启，续航超500km！",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288895",
+      "title": "小鹏X9纯电版3月2日上市，续航750km全球最长5C大七座！",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288887",
+      "title": "比亚迪宋UltraEV内饰曝光：科技感与东方美学的融合",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288886",
+      "title": "小鹏X9纯电版MPV即将上市，续航750km，全球最长纯电大七座！",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288885",
+      "title": "广汽昊铂A800将3月4日上市 搭华为ADS 4.1",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288905",
+      "title": "奥迪E5 Sportback限时优惠3万！20.59万起售，700公里续航+3秒破百",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288904",
+      "title": "谷歌前工程师创立AI芯片企业MatX完成5亿美元B轮融资",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288903",
+      "title": "AI安全承诺生变：Anthropic放弃核心安全政策以应对竞争",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288894",
+      "title": "Waymo自动驾驶服务扩展至十城，目标每周百万次出行",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288892",
+      "title": "新能源车主春节返程：充电无忧，堵车心慌，食材险变质",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288889",
+      "title": "谷歌实验室推出ProducerAI：一键生成跨流派音乐神器",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288897",
+      "title": "“人工智能革命！WiseTech全球裁员2000人，软件行业大洗牌”",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288890",
+      "title": "人事变动 | 潘庆升任捷豹路虎全球采购董事，继续兼任中国总裁",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288902",
+      "title": "编程新突破！ClaudeCode移动端“远程控制”功能上线",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288900",
+      "title": "自驾游神器！比亚迪宋Ultra EV内饰公开：座椅秒变双人大床",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/288899",
+      "title": "直降3万！上汽奥迪E5 Sportback限时20.59万起购",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288893",
+      "title": "节后放福利！奥迪 E5 Sportback限时权益后20.59万起",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288891",
+      "title": "Wayve完成12亿美元D轮融资，估值达86亿美元，携手Uber推Robotaxi",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288888",
+      "title": "特斯拉矩阵大灯升级：智能调光更安全，无需硬件改动！",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288884",
+      "title": "特斯拉Model 3将升级16英寸2K中控屏",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288883",
+      "title": "浩思动力智能控制中心试验室正式投入运营",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288882",
+      "title": "阿里Qwen3.5开源家族再扩容，中小模型性能飞跃",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288881",
+      "title": "福特Mustang Mach-E前备厢成付费功能，495美元引争议",
+      "source": "第一电动",
+      "pushedAt": 1771993069779
     }
   ]
 }
