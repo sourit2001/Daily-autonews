@@ -791,7 +791,14 @@
     "https://www.d1ev.com/carnews/xinche/288959",
     "https://www.d1ev.com/newsflash/288953",
     "https://www.d1ev.com/newsflash/288951",
-    "https://www.d1ev.com/newsflash/288949"
+    "https://www.d1ev.com/newsflash/288949",
+    "https://www.d1ev.com/newsflash/288974",
+    "https://www.d1ev.com/newsflash/288972",
+    "https://www.d1ev.com/newsflash/288969",
+    "https://www.d1ev.com/newsflash/288968",
+    "https://www.d1ev.com/newsflash/288973",
+    "https://www.d1ev.com/newsflash/288971",
+    "https://www.d1ev.com/newsflash/288970"
   ],
   "lastUpdated": "2026-02-25",
   "newsHistory": [
@@ -2660,6 +2667,48 @@
       "title": "比亚迪也入局！26年开年至今超二十家车企纷纷加入七年低息“金融战”",
       "source": "第一电动",
       "pushedAt": 1772016381966
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288974",
+      "title": "极狐阿尔法S5即将上市：纯电增程双动力，科技内饰升级！",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288972",
+      "title": "上海AI独角兽阶跃星辰拟香港上市，募资5亿美元",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288969",
+      "title": "福建推汽车以旧换新补贴：新能源车最高补1.5万，燃油车1.3万",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288968",
+      "title": "上海车主充电被收停车费，公园回应“这是规定”",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288973",
+      "title": "小米YU7购车权益调整预警：2月末前享多重豪礼，现车最快1-5周提车！",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288971",
+      "title": "小米汽车春节出行报告：4亿公里里程，1亿公里辅助驾驶",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288970",
+      "title": "成都小米汽车高速碰撞起火 司机酒后驾驶身亡责任待定",
+      "source": "第一电动",
+      "pushedAt": 1772023989744
     }
   ]
 }
