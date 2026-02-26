@@ -863,7 +863,33 @@
     "https://www.d1ev.com/newsflash/289027",
     "https://www.d1ev.com/carnews/xinche/289024",
     "https://www.d1ev.com/carnews/xinche/289023",
-    "https://www.d1ev.com/news/shichang/289022"
+    "https://www.d1ev.com/news/shichang/289022",
+    "https://www.d1ev.com/newsflash/289071",
+    "https://www.d1ev.com/newsflash/289069",
+    "https://www.d1ev.com/carnews/xinche/289058",
+    "https://www.d1ev.com/carnews/xinche/289057",
+    "https://www.d1ev.com/newsflash/289070",
+    "https://www.d1ev.com/news/shichang/289067",
+    "https://www.d1ev.com/newsflash/289065",
+    "https://www.d1ev.com/news/shichang/289063",
+    "https://www.d1ev.com/newsflash/289060",
+    "https://www.d1ev.com/newsflash/289059",
+    "https://www.d1ev.com/newsflash/289054",
+    "https://www.d1ev.com/newsflash/289052",
+    "https://www.d1ev.com/newsflash/289046",
+    "https://www.d1ev.com/news/shichang/289047",
+    "https://www.d1ev.com/newsflash/289072",
+    "https://www.d1ev.com/news/shichang/289068",
+    "https://www.d1ev.com/news/qiye/289066",
+    "https://www.d1ev.com/news/shichang/289064",
+    "https://www.d1ev.com/news/shichang/289062",
+    "https://www.d1ev.com/news/qiye/289061",
+    "https://www.d1ev.com/news/qiye/289056",
+    "https://www.d1ev.com/newsflash/289055",
+    "https://www.d1ev.com/newsflash/289053",
+    "https://www.d1ev.com/newsflash/289051",
+    "https://www.d1ev.com/newsflash/289050",
+    "https://www.d1ev.com/news/shichang/289049"
   ],
   "lastUpdated": "2026-02-26",
   "newsHistory": [
@@ -3164,6 +3190,162 @@
       "title": "长安当打之年，直面这“两大赛点”",
       "source": "第一电动",
       "pushedAt": 1772079207946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289071",
+      "title": "OpenAI广告策略曝光：ChatGPT将如何平衡隐私与用户体验？",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289069",
+      "title": "小米汽车累计交付超60万台，新一代SU7四月上市",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289058",
+      "title": "全新前脸设计 新款克莱斯勒Pacifica曝光",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289057",
+      "title": "设计焕新 全新五菱宏光MINI EV官图发布",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289070",
+      "title": "亚马逊AI助手Alexa+升级：新增三种个性风格对话模式",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289067",
+      "title": "LG新能源将在美国工厂为特斯拉生产磷酸铁锂储能电池",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289065",
+      "title": "出海提速，AITO问界阿联酋收获200 台首批订单，迎来开门红",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289063",
+      "title": "FF EAI机器人2月27日启动交付",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289060",
+      "title": "法拉第未来EAI机器人首季交付启动，进军共享住宿领域",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289059",
+      "title": "谷歌整合Intrinsic，加速物理AI发展，助力先进制造业革新",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289054",
+      "title": "苹果AI大牛庞若鸣跳槽OpenAI，曾被Meta以2亿美元挖角",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289052",
+      "title": "加拿大警告OpenAI���不加强安全协议将立法干预",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289046",
+      "title": "英伟达2026财年Q4财报：营收681亿美元再创新高，黄仁勋称“AI智能体转折点已到”",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289047",
+      "title": "受美国关税与需求疲软影响，阿斯顿·马丁拟裁员20%",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289072",
+      "title": "“电车语音误操作酿车祸：夜间高速大灯全关险酿大祸”",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289068",
+      "title": "电子业务扛大旗，佛瑞亚海拉2025年业绩稳住了",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289066",
+      "title": "小鹏VLA，也能赚钱了",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289064",
+      "title": "汇聚核心力量丨2026北京车展联合展区展位招募中",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289062",
+      "title": "成都小米SU7 Ultra事故鉴定结果出炉，低压系统断电致车门无法开启",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289061",
+      "title": "零部件巨头断臂求生：博世中国开启裁员补偿N+4，燃油车项目成重灾区",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289056",
+      "title": "第五代宏光MINIEV玩趣登场",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289055",
+      "title": "“成都SU7Ultra事故真相：超速203公里/小时，电子门把手失灵”",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289053",
+      "title": "蔚来春节换电服务破纪录：17.7万次单日换电，超18万用户跨省自驾",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289051",
+      "title": "英伟达业绩超预期却股价微涨，中国市场前景成谜",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289050",
+      "title": "宏光MINIEV第五代发布：萌态新设计，城市代步新选择",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289049",
+      "title": "总投资4亿元，法奥机器人苏州总部基地正式动工",
+      "source": "第一电动",
+      "pushedAt": 1772088964413
     }
   ]
 }
