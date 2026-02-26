@@ -889,7 +889,37 @@
     "https://www.d1ev.com/newsflash/289053",
     "https://www.d1ev.com/newsflash/289051",
     "https://www.d1ev.com/newsflash/289050",
-    "https://www.d1ev.com/news/shichang/289049"
+    "https://www.d1ev.com/news/shichang/289049",
+    "https://www.d1ev.com/newsflash/289096",
+    "https://www.d1ev.com/news/qiye/289088",
+    "https://www.d1ev.com/newsflash/289079",
+    "https://www.d1ev.com/newsflash/289078",
+    "https://www.d1ev.com/carnews/xinche/289077",
+    "https://www.d1ev.com/carnews/xinche/289073",
+    "https://www.d1ev.com/newsflash/289102",
+    "https://www.d1ev.com/newsflash/289097",
+    "https://www.d1ev.com/newsflash/289095",
+    "https://www.d1ev.com/newsflash/289094",
+    "https://www.d1ev.com/newsflash/289092",
+    "https://www.d1ev.com/news/shichang/289091",
+    "https://www.d1ev.com/news/shichang/289090",
+    "https://www.d1ev.com/news/qiye/289089",
+    "https://www.d1ev.com/newsflash/289082",
+    "https://www.d1ev.com/newsflash/289080",
+    "https://www.d1ev.com/news/qiye/289074",
+    "https://www.d1ev.com/newsflash/289098",
+    "https://www.d1ev.com/news/shichang/289101",
+    "https://www.d1ev.com/news/shichang/289100",
+    "https://www.d1ev.com/news/shichang/289099",
+    "https://www.d1ev.com/newsflash/289093",
+    "https://www.d1ev.com/newsflash/289087",
+    "https://www.d1ev.com/news/shichang/289086",
+    "https://www.d1ev.com/news/shichang/289085",
+    "https://www.d1ev.com/news/shichang/289084",
+    "https://www.d1ev.com/news/qiye/289083",
+    "https://www.d1ev.com/newsflash/289081",
+    "https://www.d1ev.com/news/qiye/289076",
+    "https://www.d1ev.com/newsflash/289075"
   ],
   "lastUpdated": "2026-02-26",
   "newsHistory": [
@@ -3346,6 +3376,186 @@
       "title": "总投资4亿元，法奥机器人苏州总部基地正式动工",
       "source": "第一电动",
       "pushedAt": 1772088964413
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289096",
+      "title": "华为联手广汽打造30万级智能猎装轿跑，6月上市前全国布局超300家门店",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289088",
+      "title": "新车要上市了 商标还在别人手中！特斯拉起诉一苏打水公司",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289079",
+      "title": "保时捷新旗舰SUV K1将推燃油插混版，预计2028年英国上市",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289078",
+      "title": "2026款广汽传祺M8HEV混动MPV上市，19.78万起享豪华配置",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289077",
+      "title": "智己LS8一季度上市 增程动力+高阶智驾",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289073",
+      "title": "第五代宏光MINIEV官图发布 四门四座设计/轴距2190mm",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289102",
+      "title": "莲花CEO谈新能源转型：混动产品适配多元生活，降价风波深刻教训",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289097",
+      "title": "小鹏GX实现L4级自动驾驶，园区内自主行驶功能大突破",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289095",
+      "title": "DeepSeek V4Lite突破百万Token，AI图像生成能力飞跃提升",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289094",
+      "title": "硅谷恶作剧大师RileyWalz加盟OpenAI，探索AI新界面",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289092",
+      "title": "字节跳动调整AI服务，防止侵权动漫角色视频生成",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289091",
+      "title": "MIPI联盟发布UniPro v3.0和M-PHY v6.0 加速移动、PC和汽车领域边缘AI的JEDEC UFS性能",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289090",
+      "title": "Elektrobit和Mobileye合作开发自动驾驶汽车解决方案",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289089",
+      "title": "广州官宣全域开放自动驾驶，广汽华为联手打造“启境”品牌",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289082",
+      "title": "宝马争取欧盟关税豁免，电动MINI或享零关税待遇",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289080",
+      "title": "英伟达CEO黄仁勋：AI不会颠覆软件业，而是提升生产力",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289074",
+      "title": "雷军晒小米汽车2026春节出行数据：智驾占比近四分之一",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289098",
+      "title": "特斯拉被控系统性歧视美国员工，优先招聘H-1B签证外籍工程师",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289101",
+      "title": "恩智浦推出10BASE-T1S PMD收发器 实现边缘以太网连接",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289100",
+      "title": "利用“热约束”技术 研究人员研发下一代人工智能半导体",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289099",
+      "title": "德国总理默茨参访宇树科技，王兴兴：深感荣幸",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289093",
+      "title": "宝马Mini致敬61年前胜利，1965VictoryEdition限量版来袭",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289087",
+      "title": "春节蔚来换电站服务超327万次，单日换电破17.7万次创新高",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289086",
+      "title": "伯特利拟收购豫北转向控股权，交易对价不超11.21亿元",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289085",
+      "title": "Seeds | 原商汤工业机器人团队拆分创业获数千万元融资",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289084",
+      "title": "小鹏X9的“一石三鸟”",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289083",
+      "title": "特斯拉中国再推“变相降价”策略：全系享7年低息，Model 3月供仅1759元",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289081",
+      "title": "五菱宏光MINIEV五代焕新登场，携手Q宝打造个性化出行新选择",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289076",
+      "title": "雷军马年第一场直播来了：聊聊小米汽车的安全",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289075",
+      "title": "雷军直播揭秘：小米汽车安全体系大公开",
+      "source": "第一电动",
+      "pushedAt": 1772095389102
     }
   ]
 }
