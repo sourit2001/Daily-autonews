@@ -945,7 +945,22 @@
     "https://www.d1ev.com/newsflash/289115",
     "https://www.d1ev.com/newsflash/289108",
     "https://www.d1ev.com/news/shichang/289105",
-    "https://www.d1ev.com/news/shichang/289104"
+    "https://www.d1ev.com/news/shichang/289104",
+    "https://www.d1ev.com/newsflash/289136",
+    "https://www.d1ev.com/newsflash/289134",
+    "https://www.d1ev.com/newsflash/289130",
+    "https://www.d1ev.com/newsflash/289144",
+    "https://www.d1ev.com/newsflash/289135",
+    "https://www.d1ev.com/newsflash/289132",
+    "https://www.d1ev.com/news/shichang/289131",
+    "https://www.d1ev.com/news/shichang/289142",
+    "https://www.d1ev.com/news/shichang/289143",
+    "https://www.d1ev.com/news/qiye/289141",
+    "https://www.d1ev.com/newsflash/289140",
+    "https://www.d1ev.com/newsflash/289139",
+    "https://www.d1ev.com/newsflash/289138",
+    "https://www.d1ev.com/newsflash/289137",
+    "https://www.d1ev.com/carnews/xinche/289133"
   ],
   "lastUpdated": "2026-02-26",
   "newsHistory": [
@@ -3738,6 +3753,96 @@
       "title": "宝马与宁德时代为何此时加深绑定？",
       "source": "第一电动",
       "pushedAt": 1772102551668
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289136",
+      "title": "福特回归欧洲市场，2027年起推多款混动纯电新车",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289134",
+      "title": "上海杨浦区发1000万汽车消费券，买新车最高省3000元！",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289130",
+      "title": "本田纯电新车故障频发，车主质疑库存车未告知",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289144",
+      "title": "广汽集团2026年目标：200万辆产销，全固态电池投产，自主品牌出口增长",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289135",
+      "title": "中国车企强势崛起！比亚迪全球销量超460万辆，新能源汽车出口翻倍",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289132",
+      "title": "福特回归！欧洲市场将迎全新电动乘用车系列",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289131",
+      "title": "蔚来芯片子公司获超22亿元首轮融资，投后估值近百亿",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289142",
+      "title": "广汽集团定调2026：产销重回200万级，海外剑指20万辆",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289143",
+      "title": "广汽集团机器人业务独立运营，慧仑科技落地黄埔并发布GoMate Mini",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289141",
+      "title": "小米揭秘新一代SU7赤霞红配色：用精湛工艺还原破晓霞光",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289140",
+      "title": "荣耀林林预言：3C设备将迎“瘦终端大云端”革命",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289139",
+      "title": "领克Z20语音误关大灯问题已解决，优化方案云端推送",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289138",
+      "title": "领克Z20语音误操作关大灯酿事故，官方火速优化更新",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289137",
+      "title": "德国总理默茨点赞奔驰新一代S级轿车：中德技术合作成果惊艳",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289133",
+      "title": "昂科威Plus限时优惠6.5万，雅阁插混版直降10万，合资车企马年“开跑”",
+      "source": "第一电动",
+      "pushedAt": 1772110491850
     }
   ]
 }
