@@ -970,9 +970,12 @@
     "https://www.d1ev.com/newsflash/289151",
     "https://www.d1ev.com/newsflash/289149",
     "https://www.d1ev.com/newsflash/289148",
-    "https://www.d1ev.com/newsflash/289146"
+    "https://www.d1ev.com/newsflash/289146",
+    "https://www.d1ev.com/newsflash/289159",
+    "https://www.d1ev.com/newsflash/289157",
+    "https://www.d1ev.com/newsflash/289158"
   ],
-  "lastUpdated": "2026-02-26",
+  "lastUpdated": "2026-02-27",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288636",
@@ -3913,6 +3916,24 @@
       "title": "小鹏第二代VLA突破：Robotaxi公开路测成功，无人驾驶时代来临？",
       "source": "第一电动",
       "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289159",
+      "title": "知豆电动车顶开裂无人管，车主维权难上加难",
+      "source": "第一电动",
+      "pushedAt": 1772124777921
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289157",
+      "title": "AI智能体革命：编程方式巨变，自然语言即可生成代码",
+      "source": "第一电动",
+      "pushedAt": 1772124777921
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289158",
+      "title": "理想ONE增程器选择揭秘：三缸成过去，1.5T四缸新时代到来",
+      "source": "第一电动",
+      "pushedAt": 1772124777921
     }
   ]
 }
