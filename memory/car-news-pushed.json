@@ -810,7 +810,35 @@
     "https://www.d1ev.com/newsflash/288977",
     "https://www.d1ev.com/news/qiye/288975",
     "https://www.d1ev.com/newsflash/288988",
-    "https://www.d1ev.com/newsflash/288989"
+    "https://www.d1ev.com/newsflash/288989",
+    "https://www.d1ev.com/carnews/xinche/289015",
+    "https://www.d1ev.com/carnews/xinche/289014",
+    "https://www.d1ev.com/carnews/xinche/289013",
+    "https://www.d1ev.com/carnews/xinche/288994",
+    "https://www.d1ev.com/news/shichang/289009",
+    "https://www.d1ev.com/newsflash/289008",
+    "https://www.d1ev.com/newsflash/289007",
+    "https://www.d1ev.com/newsflash/288998",
+    "https://www.d1ev.com/newsflash/288997",
+    "https://www.d1ev.com/news/shichang/289004",
+    "https://www.d1ev.com/newsflash/289000",
+    "https://www.d1ev.com/newsflash/288990",
+    "https://www.d1ev.com/newsflash/289018",
+    "https://www.d1ev.com/newsflash/289017",
+    "https://www.d1ev.com/newsflash/289016",
+    "https://www.d1ev.com/news/shichang/289012",
+    "https://www.d1ev.com/newsflash/289011",
+    "https://www.d1ev.com/carnews/xinche/289010",
+    "https://www.d1ev.com/newsflash/289006",
+    "https://www.d1ev.com/newsflash/289005",
+    "https://www.d1ev.com/news/shichang/289003",
+    "https://www.d1ev.com/news/shichang/289002",
+    "https://www.d1ev.com/news/shichang/289001",
+    "https://www.d1ev.com/newsflash/288999",
+    "https://www.d1ev.com/news/shichang/288996",
+    "https://www.d1ev.com/newsflash/288993",
+    "https://www.d1ev.com/news/shichang/288992",
+    "https://www.d1ev.com/news/shichang/288991"
   ],
   "lastUpdated": "2026-02-26",
   "newsHistory": [
@@ -2793,6 +2821,174 @@
       "title": "谷歌新功能：三星Galaxy S26系列首发，诈骗检测升级！",
       "source": "第一电动",
       "pushedAt": 1772051402985
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289015",
+      "title": "福特将重返欧洲乘用车市场 推多款新车型",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289014",
+      "title": "蔚来ES9将于5月底上市 6月1日开启交付",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289013",
+      "title": "或命名卫士运动版 路虎全新SUV假想图曝光",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/288994",
+      "title": "年轻人的好选择 全新起亚Stonic新车图解",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289009",
+      "title": "内饰越级、智驾拉满，零跑A10打响开年第一枪",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289008",
+      "title": "AI新突破！PerplexityComputer整合多模型，一键完成复杂任务",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289007",
+      "title": "英伟达VeraRubin AI系统：130万零件打造，性能提升10倍，液冷节能新突破",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288998",
+      "title": "美国数据中心建设首降，AI算力需求激增难挡审批阻力",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288997",
+      "title": "百度萝卜快跑获香港跨区自动驾驶测试首批准，43.2公里路线贯通",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289004",
+      "title": "中国汽车给欧洲市场普及插混",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289000",
+      "title": "小鹏汽车携手天河区打造人形机器人量产基地，目标2026年全球首产",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288990",
+      "title": "Stellantis巨亏222亿欧，零跑出海计划或受阻",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289018",
+      "title": "上海交通大学突破罕见病诊断难题，DeepRare系统诊断准确率刷新世界纪录",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289017",
+      "title": "华为3月4日将发布鸿蒙智行新技术，汽车行业迎来变革？",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289016",
+      "title": "特斯拉中国再推超低息贷款购车政策，Model 3/Y首付7.99万起",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289012",
+      "title": "小鹏正式布局人形机器人全链条量产基地",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289011",
+      "title": "特斯拉中国推7年超低息贷款 销量承压下的变相降价策略",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289010",
+      "title": "奥迪正计划复活20年前“失败”车型A2",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289006",
+      "title": "成都小米汽车事故真相大白：超速167公里/小时酿悲剧",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289005",
+      "title": "小米汽车春节出行报告：总里程超4亿公里，智能驾驶成亮点",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289003",
+      "title": "复活一台20年前的“失败”车型，奥迪这次葫芦里卖的什么药？",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289002",
+      "title": "2026年1月TOP30 SUV销量投诉量对应点评",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289001",
+      "title": "合资开年大降价，今年谁都别想好过？",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288999",
+      "title": "雅阁50周年庆，老客户复购直降10万！日系车在华降价求生",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288996",
+      "title": "人形机器人，有了“新战场”",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/288993",
+      "title": "小米YU7购车权益大调整，2月28日前下定享55000元优惠！",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288992",
+      "title": "汽车供应链的“鄙视链”，正在反转？",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/288991",
+      "title": "【盖世快讯】超二十家汽车品牌推七年低息贷款；捷豹路虎中国高层变动",
+      "source": "第一电动",
+      "pushedAt": 1772069493773
     }
   ]
 }
