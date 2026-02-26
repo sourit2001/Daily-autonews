@@ -960,7 +960,17 @@
     "https://www.d1ev.com/newsflash/289139",
     "https://www.d1ev.com/newsflash/289138",
     "https://www.d1ev.com/newsflash/289137",
-    "https://www.d1ev.com/carnews/xinche/289133"
+    "https://www.d1ev.com/carnews/xinche/289133",
+    "https://www.d1ev.com/newsflash/289153",
+    "https://www.d1ev.com/news/qiye/289154",
+    "https://www.d1ev.com/newsflash/289152",
+    "https://www.d1ev.com/newsflash/289150",
+    "https://www.d1ev.com/newsflash/289145",
+    "https://www.d1ev.com/newsflash/289147",
+    "https://www.d1ev.com/newsflash/289151",
+    "https://www.d1ev.com/newsflash/289149",
+    "https://www.d1ev.com/newsflash/289148",
+    "https://www.d1ev.com/newsflash/289146"
   ],
   "lastUpdated": "2026-02-26",
   "newsHistory": [
@@ -3843,6 +3853,66 @@
       "title": "昂科威Plus限时优惠6.5万，雅阁插混版直降10万，合资车企马年“开跑”",
       "source": "第一电动",
       "pushedAt": 1772110491850
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289153",
+      "title": "路虎纯电“小卫士”谍照曝光，预计年底发布，价格亲民！",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289154",
+      "title": "被电动车坑惨！全球第四大车企去年巨亏1801亿元",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289152",
+      "title": "长安UNI-ZPHEV新款来袭：12.49万起，续航1200公里！",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289150",
+      "title": "汉堡王AI助手Patty进驻门店，智能服务提升效率",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289145",
+      "title": "特斯拉新专利突破：无线充电效率翻倍，兼容200V至1000V电压",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289147",
+      "title": "Stellantis拟联手零跑，欧洲市场首用中国车企技术",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289151",
+      "title": "Rivian烧钱250亿美元造车，CEO：为打造大型汽车公司必经之路",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289149",
+      "title": "阿联酋首单200台！问界汽车中东市场开门红",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289148",
+      "title": "阿里千问3.5新模型适配摩尔线程GPU，MUSA生态赋能开发者",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289146",
+      "title": "小鹏第二代VLA突破：Robotaxi公开路测成功，无人驾驶时代来临？",
+      "source": "第一电动",
+      "pushedAt": 1772117077124
     }
   ]
 }
