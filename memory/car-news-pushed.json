@@ -973,7 +973,10 @@
     "https://www.d1ev.com/newsflash/289146",
     "https://www.d1ev.com/newsflash/289159",
     "https://www.d1ev.com/newsflash/289157",
-    "https://www.d1ev.com/newsflash/289158"
+    "https://www.d1ev.com/newsflash/289158",
+    "https://www.d1ev.com/newsflash/289162",
+    "https://www.d1ev.com/newsflash/289161",
+    "https://www.d1ev.com/news/shichang/289160"
   ],
   "lastUpdated": "2026-02-27",
   "newsHistory": [
@@ -3934,6 +3937,24 @@
       "title": "理想ONE增程器选择揭秘：三缸成过去，1.5T四缸新时代到来",
       "source": "第一电动",
       "pushedAt": 1772124777921
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289162",
+      "title": "比亚迪宋UltraEV内饰曝光，18万级纯电SUV豪华感爆棚！",
+      "source": "第一电动",
+      "pushedAt": 1772131469897
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289161",
+      "title": "理想L9Livis焕新升级：1.5T四缸增程器突破油耗静音极限",
+      "source": "第一电动",
+      "pushedAt": 1772131469897
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289160",
+      "title": "别克开年让利：昂科威Plus 16.49万元起、君越 15.49万元起",
+      "source": "第一电动",
+      "pushedAt": 1772131469897
     }
   ]
 }
