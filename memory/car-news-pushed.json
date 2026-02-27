@@ -1121,7 +1121,8 @@
     "https://www.d1ev.com/newsflash/289304",
     "https://www.d1ev.com/newsflash/289325",
     "https://www.d1ev.com/newsflash/289327",
-    "https://www.d1ev.com/newsflash/289326"
+    "https://www.d1ev.com/newsflash/289326",
+    "https://www.d1ev.com/newsflash/289328"
   ],
   "lastUpdated": "2026-02-28",
   "newsHistory": [
@@ -4970,6 +4971,12 @@
       "title": "小米神秘跑车现身巴塞罗那，MWC2026前夜或将揭晓？",
       "source": "第一电动",
       "pushedAt": 1772210128273
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289328",
+      "title": "小米超跑概念车惊现巴塞罗那，MWC2026前夜或将揭晓神秘面纱！",
+      "source": "第一电动",
+      "pushedAt": 1772217295759
     }
   ]
 }
