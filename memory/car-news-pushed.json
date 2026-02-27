@@ -1032,7 +1032,26 @@
     "https://www.d1ev.com/newsflash/289192",
     "https://www.d1ev.com/carnews/xinche/289188",
     "https://www.d1ev.com/news/shichang/289187",
-    "https://www.d1ev.com/news/shichang/289186"
+    "https://www.d1ev.com/news/shichang/289186",
+    "https://www.d1ev.com/news/shichang/289241",
+    "https://www.d1ev.com/carnews/xinche/289235",
+    "https://www.d1ev.com/carnews/xinche/289234",
+    "https://www.d1ev.com/newsflash/289232",
+    "https://www.d1ev.com/carnews/xinche/289230",
+    "https://www.d1ev.com/newsflash/289226",
+    "https://www.d1ev.com/newsflash/289225",
+    "https://www.d1ev.com/newsflash/289223",
+    "https://www.d1ev.com/newsflash/289244",
+    "https://www.d1ev.com/newsflash/289243",
+    "https://www.d1ev.com/newsflash/289238",
+    "https://www.d1ev.com/news/shichang/289229",
+    "https://www.d1ev.com/newsflash/289228",
+    "https://www.d1ev.com/newsflash/289224",
+    "https://www.d1ev.com/news/shichang/289242",
+    "https://www.d1ev.com/news/shichang/289240",
+    "https://www.d1ev.com/news/shichang/289239",
+    "https://www.d1ev.com/news/shichang/289233",
+    "https://www.d1ev.com/news/qiye/289227"
   ],
   "lastUpdated": "2026-02-27",
   "newsHistory": [
@@ -4347,6 +4366,120 @@
       "title": "德国总理访华落幕，中德汽车“新合作时代”开启？",
       "source": "第一电动",
       "pushedAt": 1772165521144
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289241",
+      "title": "岚图泰山黑武士版更多官图发布，将于3月上市",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289235",
+      "title": "问界M6车身颜色公布 有望二季度上市",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289234",
+      "title": "岚图泰山黑武士版更多官图发布 将于3月上市",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289232",
+      "title": "启境汽车全系升级三银镀膜天幕，防晒隔热领先同级，6月首车上市在即！",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289230",
+      "title": "碳纤维材质 领克03大尾翼版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289226",
+      "title": "长安UNI-ZPHEV新内饰曝光：三辐方向盘+怀挡设计，明日上市",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289225",
+      "title": "2026款奥迪A6L亮相：加长92mm，轿跑造型+三屏联动，动力升级！",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289223",
+      "title": "比亚迪腾势Z9GT续航破千！全球最长纯电续航车型亮相",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289244",
+      "title": "微软CopilotTasks发布：AI助手自动执行任务，告别繁琐行政工作",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289243",
+      "title": "中国充电桩数量激增，2026年1月突破2069万个！",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289238",
+      "title": "快手AI视频生成模型全球夺冠，开启影视工业级视觉革命",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289229",
+      "title": "国轩高科董事长出席中德经济顾问委员会座谈会，共话新能源合作新路径",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289228",
+      "title": "杰克·多西金融科技公司Block裁员40%，拥抱AI革命",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289224",
+      "title": "长城魏牌V9X震撼登场：全尺寸SUV搭载2.0T Hi4电动四驱，4.4秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289242",
+      "title": "特斯拉，再打销量保卫战！",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289240",
+      "title": "裁员、跳票与转向：超豪华阵营集体“急刹车”",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289239",
+      "title": "英国1月汽车产量下滑8.2%",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289233",
+      "title": "德国总理默茨访华时间线",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289227",
+      "title": "Stellantis 2025年净亏损223亿欧元",
+      "source": "第一电动",
+      "pushedAt": 1772174811178
     }
   ]
 }
