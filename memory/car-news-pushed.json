@@ -1094,7 +1094,19 @@
     "https://www.d1ev.com/news/shichang/289279",
     "https://www.d1ev.com/newsflash/289276",
     "https://www.d1ev.com/news/shichang/289271",
-    "https://www.d1ev.com/news/qiye/289270"
+    "https://www.d1ev.com/news/qiye/289270",
+    "https://www.d1ev.com/newsflash/289303",
+    "https://www.d1ev.com/newsflash/289297",
+    "https://www.d1ev.com/newsflash/289295",
+    "https://www.d1ev.com/newsflash/289302",
+    "https://www.d1ev.com/newsflash/289298",
+    "https://www.d1ev.com/newsflash/289294",
+    "https://www.d1ev.com/news/qiye/289301",
+    "https://www.d1ev.com/newsflash/289300",
+    "https://www.d1ev.com/newsflash/289299",
+    "https://www.d1ev.com/newsflash/289296",
+    "https://www.d1ev.com/news/shichang/289293",
+    "https://www.d1ev.com/newsflash/289292"
   ],
   "lastUpdated": "2026-02-27",
   "newsHistory": [
@@ -4781,6 +4793,78 @@
       "title": "特斯拉高管再走一人 消息称Cybercab项目经理已宣布将离开",
       "source": "第一电动",
       "pushedAt": 1772188489738
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289303",
+      "title": "雷军直播揭秘：小米汽车事故调查全过程曝光",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289297",
+      "title": "春节充电高峰：理想汽车超充次数激增70%，热门高速充电站曝光",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289295",
+      "title": "小米超跑惊现巴塞罗那！MWC2026前夜神秘亮相",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289302",
+      "title": "小米汽车安全体系直播：140万次避免碰撞，强调辅助驾驶非自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289298",
+      "title": "10省市试点新能源车里程税？官方辟谣：未收到通知",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289294",
+      "title": "春节高速充电大升级：服务区充电次数激增，排队压力大幅缓解",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289301",
+      "title": "雷军称高度重视安全体系建设！小米专家：目标做同档最安全",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289300",
+      "title": "领克语音误关大灯事故引发关注，特斯拉小米安全措施受好评",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289299",
+      "title": "“车机语音关灯引发事故，特斯拉小米安全拦截，领克紧急优化”",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289296",
+      "title": "魅族暂停国内手机新品研发，转向合作模式【财新网】",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289293",
+      "title": "法雷奥2025年净利润增长23%，年内订单量增长38%",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289292",
+      "title": "车企春节后大促销：特斯拉Model3补贴8000元，比亚迪低息贷款来袭",
+      "source": "第一电动",
+      "pushedAt": 1772196340754
     }
   ]
 }
