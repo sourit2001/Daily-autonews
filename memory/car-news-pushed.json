@@ -1118,9 +1118,12 @@
     "https://www.d1ev.com/news/qiye/289309",
     "https://www.d1ev.com/newsflash/289308",
     "https://www.d1ev.com/newsflash/289306",
-    "https://www.d1ev.com/newsflash/289304"
+    "https://www.d1ev.com/newsflash/289304",
+    "https://www.d1ev.com/newsflash/289325",
+    "https://www.d1ev.com/newsflash/289327",
+    "https://www.d1ev.com/newsflash/289326"
   ],
-  "lastUpdated": "2026-02-27",
+  "lastUpdated": "2026-02-28",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288636",
@@ -4949,6 +4952,24 @@
       "title": "小米汽车安全体系大揭秘：铠甲车身+防弹涂层，打造行业最强防护",
       "source": "第一电动",
       "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289325",
+      "title": "丰田铂智7鸿蒙座舱流畅度夺冠，3月5日预售开启冲击20万级市场",
+      "source": "第一电动",
+      "pushedAt": 1772210128273
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289327",
+      "title": "小米汽车工厂直播揭秘：安全体系全面升级，新一代SU7亮点多",
+      "source": "第一电动",
+      "pushedAt": 1772210128273
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289326",
+      "title": "小米神秘跑车现身巴塞罗那，MWC2026前夜或将揭晓？",
+      "source": "第一电动",
+      "pushedAt": 1772210128273
     }
   ]
 }
