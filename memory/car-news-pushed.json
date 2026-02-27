@@ -1106,7 +1106,19 @@
     "https://www.d1ev.com/newsflash/289299",
     "https://www.d1ev.com/newsflash/289296",
     "https://www.d1ev.com/news/shichang/289293",
-    "https://www.d1ev.com/newsflash/289292"
+    "https://www.d1ev.com/newsflash/289292",
+    "https://www.d1ev.com/newsflash/289310",
+    "https://www.d1ev.com/newsflash/289305",
+    "https://www.d1ev.com/newsflash/289313",
+    "https://www.d1ev.com/newsflash/289312",
+    "https://www.d1ev.com/newsflash/289307",
+    "https://www.d1ev.com/newsflash/289315",
+    "https://www.d1ev.com/newsflash/289314",
+    "https://www.d1ev.com/newsflash/289311",
+    "https://www.d1ev.com/news/qiye/289309",
+    "https://www.d1ev.com/newsflash/289308",
+    "https://www.d1ev.com/newsflash/289306",
+    "https://www.d1ev.com/newsflash/289304"
   ],
   "lastUpdated": "2026-02-27",
   "newsHistory": [
@@ -4865,6 +4877,78 @@
       "title": "车企春节后大促销：特斯拉Model3补贴8000元，比亚迪低息贷款来袭",
       "source": "第一电动",
       "pushedAt": 1772196340754
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289310",
+      "title": "捷豹路虎新神行者E0V插混SUV将基于奇瑞平台2026年上市",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289305",
+      "title": "小米SU7新车门锁升级，机械把手+备用电源，安全新标准！",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289313",
+      "title": "蔚来芯片子公司融资超22亿 估值近百亿",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289312",
+      "title": "雷军直播揭秘：小米自研电池包，打造新能源汽车标杆工厂",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289307",
+      "title": "雷军直播揭秘：小米汽车安全体系与电池安全新动作",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289315",
+      "title": "玛莎拉蒂销量暴跌58%，品牌营销失败成主因",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289314",
+      "title": "谷歌Gemini3ProPreview将停用，开发者需迁移至3.1版以避免服务中断",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289311",
+      "title": "捷尼赛思2029年将在中国推MPV，年产1.8万辆瞄准高端市场",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289309",
+      "title": "雷军呼吁：上车时一定要系安全带 尤其是二排乘客",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289308",
+      "title": "小米SU7安全升级：机械门把手+备用电源，2027年国标先行体验",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289306",
+      "title": "小米SU7安全升级：防弹涂层+激光雷达 全系标配三重冗余车门",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289304",
+      "title": "小米汽车安全体系大揭秘：铠甲车身+防弹涂层，打造行业最强防护",
+      "source": "第一电动",
+      "pushedAt": 1772203094329
     }
   ]
 }
