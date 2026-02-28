@@ -551,7 +551,15 @@
     "https://www.d1ev.com/news/shichang/289351",
     "https://www.d1ev.com/newsflash/289350",
     "https://www.d1ev.com/carnews/xinche/289348",
-    "https://www.d1ev.com/news/shichang/289346"
+    "https://www.d1ev.com/news/shichang/289346",
+    "https://www.d1ev.com/newsflash/289372",
+    "https://www.d1ev.com/news/shichang/289378",
+    "https://www.d1ev.com/newsflash/289377",
+    "https://www.d1ev.com/newsflash/289373",
+    "https://www.d1ev.com/newsflash/289376",
+    "https://www.d1ev.com/news/shichang/289375",
+    "https://www.d1ev.com/newsflash/289374",
+    "https://www.d1ev.com/news/shichang/289371"
   ],
   "lastUpdated": "2026-02-28",
   "newsHistory": [
@@ -980,6 +988,54 @@
       "title": "30万以内，带头枕音响的车已经有这么多了？",
       "source": "第一电动",
       "pushedAt": 1772250787607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289372",
+      "title": "一汽零跑联手打造新车型，预计2026年亮相海外市场",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289378",
+      "title": "加拿大即将发放中国产电动车进口配额许可，首批规模2.45万辆",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289377",
+      "title": "ChatGPT用户破9亿！OpenAI融资1100亿美元创新高",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289373",
+      "title": "中兴通讯MWC2026将展示豆包AI助手努比亚M153手机",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289376",
+      "title": "小米超跑概念车现身巴塞罗那，MWC2026前夜神秘惊喜即将揭晓！",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289375",
+      "title": "2月中国汽车经销商库存预警指数为56.2%",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289374",
+      "title": "东风日产高管微博炮轰同城友商抄袭 呼吁良性竞争",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289371",
+      "title": "德国，盯上了杭州“硬科技”",
+      "source": "第一电动",
+      "pushedAt": 1772254335514
     }
   ]
 }
