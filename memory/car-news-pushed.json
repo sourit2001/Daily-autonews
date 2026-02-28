@@ -613,7 +613,15 @@
     "https://www.d1ev.com/newsflash/289425",
     "https://www.d1ev.com/news/qiye/289421",
     "https://www.d1ev.com/newsflash/289417",
-    "https://www.d1ev.com/news/qiye/289415"
+    "https://www.d1ev.com/news/qiye/289415",
+    "https://www.d1ev.com/newsflash/289439",
+    "https://www.d1ev.com/newsflash/289437",
+    "https://www.d1ev.com/newsflash/289434",
+    "https://www.d1ev.com/newsflash/289440",
+    "https://www.d1ev.com/newsflash/289435",
+    "https://www.d1ev.com/carnews/xinche/289441",
+    "https://www.d1ev.com/newsflash/289438",
+    "https://www.d1ev.com/news/shichang/289433"
   ],
   "lastUpdated": "2026-02-28",
   "newsHistory": [
@@ -1414,6 +1422,54 @@
       "title": "悬念拉满！长城汽车魏建军发布全新豪华旗舰车型预告",
       "source": "第一电动",
       "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289439",
+      "title": "上汽大众ID.ERA9X内饰官图发布：德系美学与东方哲学融合，大六座布局打造C位体验",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289437",
+      "title": "小米“昆仑”SUV谍照曝光！增程动力，纯电续航400-500公里",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289434",
+      "title": "比亚迪海豹07EV新色亮相，705公里续航成都市新ICON",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289440",
+      "title": "AI音乐平台Suno用户破200万，年收入达3亿美元！",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289435",
+      "title": "吉利千里浩瀚系统出海，中国智驾技术全球领先",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289441",
+      "title": "吉利淦家阅透露：千里浩瀚辅助驾驶将在今年实现出海",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289438",
+      "title": "小米汽车2月新增6家门店，全国门店达488家，3月再增2家",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289433",
+      "title": "具身智能的“城市战争”：国家队双核，地方军突围",
+      "source": "第一电动",
+      "pushedAt": 1772282055979
     }
   ]
 }
