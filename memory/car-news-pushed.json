@@ -629,7 +629,8 @@
     "https://www.d1ev.com/newsflash/289446",
     "https://www.d1ev.com/newsflash/289443",
     "https://www.d1ev.com/newsflash/289442",
-    "https://www.d1ev.com/newsflash/289451"
+    "https://www.d1ev.com/newsflash/289451",
+    "https://www.d1ev.com/newsflash/289452"
   ],
   "lastUpdated": "2026-03-01",
   "newsHistory": [
@@ -1526,6 +1527,12 @@
       "title": "OpenAI员工泄露机密信息被解雇，预测市场交易引发风波",
       "source": "第一电动",
       "pushedAt": 1772303119812
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289452",
+      "title": "小米VISIONGT概念车亮相MWC，携手《GranTurismo》打造速度新传奇",
+      "source": "第一电动",
+      "pushedAt": 1772309966421
     }
   ]
 }
