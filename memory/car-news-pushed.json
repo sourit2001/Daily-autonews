@@ -621,7 +621,14 @@
     "https://www.d1ev.com/newsflash/289435",
     "https://www.d1ev.com/carnews/xinche/289441",
     "https://www.d1ev.com/newsflash/289438",
-    "https://www.d1ev.com/news/shichang/289433"
+    "https://www.d1ev.com/news/shichang/289433",
+    "https://www.d1ev.com/newsflash/289445",
+    "https://www.d1ev.com/newsflash/289447",
+    "https://www.d1ev.com/newsflash/289444",
+    "https://www.d1ev.com/newsflash/289448",
+    "https://www.d1ev.com/newsflash/289446",
+    "https://www.d1ev.com/newsflash/289443",
+    "https://www.d1ev.com/newsflash/289442"
   ],
   "lastUpdated": "2026-02-28",
   "newsHistory": [
@@ -1470,6 +1477,48 @@
       "title": "具身智能的“城市战争”：国家队双核，地方军突围",
       "source": "第一电动",
       "pushedAt": 1772282055979
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289445",
+      "title": "奇瑞QQ3纯电动车3月10日预售，AI智舱+猎鹰500辅助驾驶，城市通勤新选择",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289447",
+      "title": "Meta自研AI芯片遇挫：放弃高端训练芯片，转向合作与外部供应",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289444",
+      "title": "小米汽车神秘超跑即将揭晓，或展示顶尖电动车技术",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289448",
+      "title": "德国总理默茨访华：中德经贸合作深化，汽车机械行业成焦点",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289446",
+      "title": "乐道春节出行报告：换电服务超65%，智能驾驶解放精力超46万小时",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289443",
+      "title": "阿维塔春节出行报告：辅助驾驶里程超5千万公里，避免碰撞1.17万次",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289442",
+      "title": "首付2.98万起，秦PLUS超级金融政策助力轻松购车！",
+      "source": "第一电动",
+      "pushedAt": 1772288269535
     }
   ]
 }
