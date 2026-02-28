@@ -572,7 +572,30 @@
     "https://www.d1ev.com/newsflash/289389",
     "https://www.d1ev.com/newsflash/289388",
     "https://www.d1ev.com/newsflash/289387",
-    "https://www.d1ev.com/newsflash/289380"
+    "https://www.d1ev.com/newsflash/289380",
+    "https://www.d1ev.com/newsflash/289414",
+    "https://www.d1ev.com/newsflash/289409",
+    "https://www.d1ev.com/newsflash/289404",
+    "https://www.d1ev.com/newsflash/289403",
+    "https://www.d1ev.com/newsflash/289402",
+    "https://www.d1ev.com/newsflash/289401",
+    "https://www.d1ev.com/newsflash/289395",
+    "https://www.d1ev.com/newsflash/289392",
+    "https://www.d1ev.com/news/shichang/289413",
+    "https://www.d1ev.com/news/qiye/289411",
+    "https://www.d1ev.com/news/shichang/289410",
+    "https://www.d1ev.com/newsflash/289408",
+    "https://www.d1ev.com/news/shichang/289400",
+    "https://www.d1ev.com/newsflash/289397",
+    "https://www.d1ev.com/news/shichang/289412",
+    "https://www.d1ev.com/news/shichang/289407",
+    "https://www.d1ev.com/news/shichang/289406",
+    "https://www.d1ev.com/news/shichang/289405",
+    "https://www.d1ev.com/news/shichang/289399",
+    "https://www.d1ev.com/news/shichang/289398",
+    "https://www.d1ev.com/newsflash/289396",
+    "https://www.d1ev.com/newsflash/289394",
+    "https://www.d1ev.com/news/shichang/289393"
   ],
   "lastUpdated": "2026-02-28",
   "newsHistory": [
@@ -1127,6 +1150,144 @@
       "title": "宝马莱比锡工厂引入AEON人形机器人，开启人机协作新篇章",
       "source": "第一电动",
       "pushedAt": 1772260316012
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289414",
+      "title": "东风风行星海T5纯电SUV上市，续航530公里售15.39万起",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289409",
+      "title": "广汽埃安i60新版本3月2日上市，入门级价格打造越级驾乘体验",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289404",
+      "title": "Rivian RAD部门亮相，探索电动车性能极限",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289403",
+      "title": "比亚迪新神器：车载充放电枪首发，露营办公两不误！",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289402",
+      "title": "小米YU9增程SUV曝光：30万级大六座/七座，续航超400km",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289401",
+      "title": "长城汽车新旗舰SUV“麒麟”亮相，东方美学融合现代科技",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289395",
+      "title": "大众品牌最大SUV ID.ERA9X亮相，纯电续航超400km！",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289392",
+      "title": "英伟达Groq芯片即将亮相，OpenAI成首批客户",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289413",
+      "title": "科大创新钙离子电池技术 大幅提升储能效率和可持续性",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289411",
+      "title": "特斯拉电动卡车将推向欧洲市场 CEO马斯克希望明年实现",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289410",
+      "title": "欧洲雄心勃勃的电池梦，为何难敌中国制造？",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289408",
+      "title": "马斯克炮轰OpenAI：AI安全失控，ChatGPT涉自杀争议",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289400",
+      "title": "中国科学家在《自然》发表塑料基有机电池技术，能量密度达250 Wh/kg",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289397",
+      "title": "AI引发裁员潮？亚马逊CEO：技术变革将创造新职业",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289412",
+      "title": "又一研发中心项目落地上海嘉定",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289407",
+      "title": "Stellantis新任CEO 2025年薪酬约637万美元",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289406",
+      "title": "MIT发明具备停车感知功能的导航系统 可以避免用户感到沮丧并减少排放",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289405",
+      "title": "宇树科技王兴兴：单任务成功率近100%，长任务规划仍待突破",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289399",
+      "title": "东芝推出新型高侧开关 可实现汽车系统中的安全电源控制",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289398",
+      "title": "艾迈斯欧司朗推出AS5173磁位置传感器",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289396",
+      "title": "问界M7春季购车权益升级，至高7万补贴限时抢！",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289394",
+      "title": "深圳推超长期特别国债：汽车家电换新补贴高达2万！",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289393",
+      "title": "胡峥楠回应网传小米Vision GT超跑图：实车帅多了",
+      "source": "第一电动",
+      "pushedAt": 1772267085086
     }
   ]
 }
