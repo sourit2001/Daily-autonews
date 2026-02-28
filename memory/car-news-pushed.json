@@ -628,9 +628,10 @@
     "https://www.d1ev.com/newsflash/289448",
     "https://www.d1ev.com/newsflash/289446",
     "https://www.d1ev.com/newsflash/289443",
-    "https://www.d1ev.com/newsflash/289442"
+    "https://www.d1ev.com/newsflash/289442",
+    "https://www.d1ev.com/newsflash/289451"
   ],
-  "lastUpdated": "2026-02-28",
+  "lastUpdated": "2026-03-01",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/288650",
@@ -1519,6 +1520,12 @@
       "title": "首付2.98万起，秦PLUS超级金融政策助力轻松购车！",
       "source": "第一电动",
       "pushedAt": 1772288269535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289451",
+      "title": "OpenAI员工泄露机密信息被解雇，预测市场交易引发风波",
+      "source": "第一电动",
+      "pushedAt": 1772303119812
     }
   ]
 }
