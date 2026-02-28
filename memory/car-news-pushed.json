@@ -595,7 +595,25 @@
     "https://www.d1ev.com/news/shichang/289398",
     "https://www.d1ev.com/newsflash/289396",
     "https://www.d1ev.com/newsflash/289394",
-    "https://www.d1ev.com/news/shichang/289393"
+    "https://www.d1ev.com/news/shichang/289393",
+    "https://www.d1ev.com/newsflash/289430",
+    "https://www.d1ev.com/newsflash/289429",
+    "https://www.d1ev.com/newsflash/289424",
+    "https://www.d1ev.com/newsflash/289423",
+    "https://www.d1ev.com/newsflash/289418",
+    "https://www.d1ev.com/news/shichang/289416",
+    "https://www.d1ev.com/news/shichang/289428",
+    "https://www.d1ev.com/newsflash/289427",
+    "https://www.d1ev.com/newsflash/289422",
+    "https://www.d1ev.com/newsflash/289420",
+    "https://www.d1ev.com/newsflash/289431",
+    "https://www.d1ev.com/news/shichang/289419",
+    "https://www.d1ev.com/news/shichang/289432",
+    "https://www.d1ev.com/newsflash/289426",
+    "https://www.d1ev.com/newsflash/289425",
+    "https://www.d1ev.com/news/qiye/289421",
+    "https://www.d1ev.com/newsflash/289417",
+    "https://www.d1ev.com/news/qiye/289415"
   ],
   "lastUpdated": "2026-02-28",
   "newsHistory": [
@@ -1288,6 +1306,114 @@
       "title": "胡峥楠回应网传小米Vision GT超跑图：实车帅多了",
       "source": "第一电动",
       "pushedAt": 1772267085086
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289430",
+      "title": "小米首款增程SUV谍照曝光，家族式设计细节首亮相",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289429",
+      "title": "小米YU7GT路试曝光：极速300km/h，预计45万起售",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289424",
+      "title": "广汽埃安i60新版本3月2日上市，增程动力升级更亲民！",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289423",
+      "title": "东风星海T5上市：15.39万起，530km纯电续航！",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289418",
+      "title": "比亚迪技术盛宴来袭：闪充2.0、刀片电池、DM6.0混动系统即将亮相",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289416",
+      "title": "埃安i60新版本官宣3月2日上市",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289428",
+      "title": "盖瑞特电动冷却压缩机重新定义中国电动客车与卡车的热管理效率与动力性能",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289427",
+      "title": "美国企业急追AI教育，沃尔玛等巨头启动大规模员工培训计划",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289422",
+      "title": "英国充电桩数量超加油站近两倍，电动车时代加速到来",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289420",
+      "title": "淘宝“白泽”AI模型免费开放，助力餐饮零售数字化治理升级",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289431",
+      "title": "极石汽车2月销量激增200%，全球扩张加速目标3万辆",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289419",
+      "title": "中德汽车链重塑：从“市场换技术”到“合规换全球”的战略转轨",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289432",
+      "title": "极石汽车2026年2月交付1298台，销量涨至上年200%",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289426",
+      "title": "比亚迪王朝网新春钜惠：7年低息+至高3万元置换补贴！",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289425",
+      "title": "特朗普下令联邦机构停用Anthropic技术，国防部响应限制业务往来",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289421",
+      "title": "长城汽车魏建军宣布：将推出麒麟元素全新旗舰SUV",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289417",
+      "title": "华为车位到车位2.0功能突破4000万次，智能泊车覆盖超百万停车场",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289415",
+      "title": "悬念拉满！长城汽车魏建军发布全新豪华旗舰车型预告",
+      "source": "第一电动",
+      "pushedAt": 1772273974570
     }
   ]
 }
