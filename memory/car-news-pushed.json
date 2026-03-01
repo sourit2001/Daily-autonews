@@ -715,7 +715,12 @@
     "https://www.d1ev.com/newsflash/289535",
     "https://www.d1ev.com/newsflash/289538",
     "https://www.d1ev.com/newsflash/289537",
-    "https://www.d1ev.com/newsflash/289534"
+    "https://www.d1ev.com/newsflash/289534",
+    "https://www.d1ev.com/newsflash/289543",
+    "https://www.d1ev.com/newsflash/289539",
+    "https://www.d1ev.com/news/shichang/289542",
+    "https://www.d1ev.com/newsflash/289540",
+    "https://www.d1ev.com/newsflash/289541"
   ],
   "lastUpdated": "2026-03-01",
   "newsHistory": [
@@ -2128,6 +2133,36 @@
       "title": "小米VisionGranTurismo概念车2026年MWC首秀，科技巨头跨界汽车设计",
       "source": "第一电动",
       "pushedAt": 1772368598873
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289543",
+      "title": "奕派科技销量激增37%，007闪现版3月亮相！",
+      "source": "第一电动",
+      "pushedAt": 1772374831652
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289539",
+      "title": "比亚迪海豹07EV内饰曝光：705公里续航，240kW电机，纯电新选择",
+      "source": "第一电动",
+      "pushedAt": 1772374831652
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289542",
+      "title": "累计出口突破600万！奇瑞2月销量背后的三大看点",
+      "source": "第一电动",
+      "pushedAt": 1772374831652
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289540",
+      "title": "GoPro对影石创新337调查落幕，产品出口美国不受限",
+      "source": "第一电动",
+      "pushedAt": 1772374831652
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289541",
+      "title": "鸿蒙智行问界2月交付量飙升，1-2月累计超5.8万台",
+      "source": "第一电动",
+      "pushedAt": 1772374831652
     }
   ]
 }
