@@ -630,7 +630,19 @@
     "https://www.d1ev.com/newsflash/289443",
     "https://www.d1ev.com/newsflash/289442",
     "https://www.d1ev.com/newsflash/289451",
-    "https://www.d1ev.com/newsflash/289452"
+    "https://www.d1ev.com/newsflash/289452",
+    "https://www.d1ev.com/newsflash/289462",
+    "https://www.d1ev.com/newsflash/289458",
+    "https://www.d1ev.com/carnews/xinche/289455",
+    "https://www.d1ev.com/newsflash/289456",
+    "https://www.d1ev.com/newsflash/289453",
+    "https://www.d1ev.com/newsflash/289464",
+    "https://www.d1ev.com/newsflash/289463",
+    "https://www.d1ev.com/newsflash/289461",
+    "https://www.d1ev.com/newsflash/289460",
+    "https://www.d1ev.com/news/qiye/289459",
+    "https://www.d1ev.com/news/shichang/289457",
+    "https://www.d1ev.com/news/shichang/289454"
   ],
   "lastUpdated": "2026-03-01",
   "newsHistory": [
@@ -1533,6 +1545,78 @@
       "title": "小米VISIONGT概念车亮相MWC，携手《GranTurismo》打造速度新传奇",
       "source": "第一电动",
       "pushedAt": 1772309966421
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289462",
+      "title": "零跑A10预售在即，纯电续航超500km，同级唯一油冷电驱总成！",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289458",
+      "title": "小米汽车月交付破2万，SU7新车型量产在即",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289455",
+      "title": "改款堪比换代 新款奔驰S级新车图解",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289456",
+      "title": "电动卡车6年省80万！加拿大实测揭示新能源省钱潜力",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289453",
+      "title": "OpenAI与美军达成新协议，禁止大规模监控和自主武器使用",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289464",
+      "title": "零跑2月销量下滑近4000台，2026年目标百万销量新势力首提",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289463",
+      "title": "蔚来乐道汽车三月钜惠：购置税全免，日供69元起！",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289461",
+      "title": "跨轮对话性能大降！新一代大语言模型遇挑战",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289460",
+      "title": "小米汽车2月交付量破2万，YU7成主力，新一代SU7蓄势待发",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289459",
+      "title": "小米汽车2月交付超20000台！雷军致谢春节在岗一线员工",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289457",
+      "title": "2026年2月重磅合资合作一览：博世与蔚来签署合作协议；采埃孚与宝马签署协议",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289454",
+      "title": "盖世周报 | 博世与蔚来签署战略合作协议；伯特利拟收购豫北转向控股权",
+      "source": "第一电动",
+      "pushedAt": 1772329867426
     }
   ]
 }
