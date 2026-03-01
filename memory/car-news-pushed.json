@@ -642,7 +642,29 @@
     "https://www.d1ev.com/newsflash/289460",
     "https://www.d1ev.com/news/qiye/289459",
     "https://www.d1ev.com/news/shichang/289457",
-    "https://www.d1ev.com/news/shichang/289454"
+    "https://www.d1ev.com/news/shichang/289454",
+    "https://www.d1ev.com/newsflash/289486",
+    "https://www.d1ev.com/newsflash/289485",
+    "https://www.d1ev.com/newsflash/289484",
+    "https://www.d1ev.com/newsflash/289482",
+    "https://www.d1ev.com/news/qiye/289481",
+    "https://www.d1ev.com/newsflash/289480",
+    "https://www.d1ev.com/newsflash/289473",
+    "https://www.d1ev.com/carnews/xinche/289470",
+    "https://www.d1ev.com/carnews/xinche/289469",
+    "https://www.d1ev.com/news/shichang/289468",
+    "https://www.d1ev.com/newsflash/289465",
+    "https://www.d1ev.com/newsflash/289483",
+    "https://www.d1ev.com/newsflash/289479",
+    "https://www.d1ev.com/newsflash/289474",
+    "https://www.d1ev.com/newsflash/289472",
+    "https://www.d1ev.com/news/shichang/289467",
+    "https://www.d1ev.com/newsflash/289478",
+    "https://www.d1ev.com/newsflash/289477",
+    "https://www.d1ev.com/newsflash/289476",
+    "https://www.d1ev.com/carnews/xinche/289475",
+    "https://www.d1ev.com/newsflash/289471",
+    "https://www.d1ev.com/news/shichang/289466"
   ],
   "lastUpdated": "2026-03-01",
   "newsHistory": [
@@ -1617,6 +1639,138 @@
       "title": "盖世周报 | 博世与蔚来签署战略合作协议；伯特利拟收购豫北转向控股权",
       "source": "第一电动",
       "pushedAt": 1772329867426
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289486",
+      "title": "小米VisionGT超跑亮相MWC，中国品牌首秀未来超跑概念",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289485",
+      "title": "小米VisionGranTurismo超跑亮相MWC2026，中国品牌首秀！",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289484",
+      "title": "奇瑞QQ3电动小车3月10日预售，AI智舱+猎鹰500辅助驾驶亮相",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289482",
+      "title": "小米VisionGranTurismo超跑亮相：未来科技与空气动力学的完美结合",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289481",
+      "title": "30万级唯一满血华为MPV！岚图梦想家冠军版预售 31.99万",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289480",
+      "title": "岚图梦想家限量冠军版预售开启，31.99万起纪念20万辆下线里程碑！",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289473",
+      "title": "上汽奥迪E7X纯电SUV亮相：灯厂设计，豪华宽绰空间",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289470",
+      "title": "小米Vision GT首发亮相 年轻人的第一款超跑",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289469",
+      "title": "小米YU9谍照曝光 竖状尾灯和无边框后视镜",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289468",
+      "title": "采用全新风格设计 全新MG07内饰谍照",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289465",
+      "title": "小米VisionGT超跑概念车亮相MWC，中国品牌首秀GT赛车游戏",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289483",
+      "title": "华为鸿蒙智驾春节护航：辅助驾驶里程超3.7亿公里，避免8万次碰撞",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289479",
+      "title": "10省市试点新能源汽车里程税？官方辟谣：假的！",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289474",
+      "title": "OpenAI与美国防部达成协议，设三条红线保障技术安全",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289472",
+      "title": "辟谣：10省市试点新能源汽车里程税？官方回应：未收到通知！",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289467",
+      "title": "这家美国新势力，还熬得过今年吗？",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289478",
+      "title": "比亚迪腾势D9豪华MPV登陆菲律宾，开启东南亚市场新篇章",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289477",
+      "title": "“领克Z20语音关灯事故引热议，蔚来二次确认功能更安全”",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289476",
+      "title": "理想汽车2月销量破2.6万，累计交付超159万！",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289475",
+      "title": "魏建军宣布：将推出麒麟元素全新旗舰SUV",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289471",
+      "title": "比亚迪汉唐家族开年钜惠：首付5.98万起，3年0息7年低息！",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289466",
+      "title": "15万以内，带NOA的车已经有这么多了？",
+      "source": "第一电动",
+      "pushedAt": 1772338829203
     }
   ]
 }
