@@ -695,7 +695,22 @@
     "https://www.d1ev.com/newsflash/289509",
     "https://www.d1ev.com/newsflash/289507",
     "https://www.d1ev.com/newsflash/289506",
-    "https://www.d1ev.com/newsflash/289505"
+    "https://www.d1ev.com/newsflash/289505",
+    "https://www.d1ev.com/newsflash/289533",
+    "https://www.d1ev.com/newsflash/289532",
+    "https://www.d1ev.com/news/qiye/289530",
+    "https://www.d1ev.com/newsflash/289528",
+    "https://www.d1ev.com/newsflash/289527",
+    "https://www.d1ev.com/news/qiye/289520",
+    "https://www.d1ev.com/news/qiye/289519",
+    "https://www.d1ev.com/newsflash/289518",
+    "https://www.d1ev.com/newsflash/289531",
+    "https://www.d1ev.com/newsflash/289529",
+    "https://www.d1ev.com/news/shichang/289526",
+    "https://www.d1ev.com/newsflash/289524",
+    "https://www.d1ev.com/newsflash/289522",
+    "https://www.d1ev.com/news/shichang/289525",
+    "https://www.d1ev.com/newsflash/289523"
   ],
   "lastUpdated": "2026-03-01",
   "newsHistory": [
@@ -1988,6 +2003,96 @@
       "title": "小米汽车工厂卡丁车体验中心开业！69元尝鲜价开启速度与激情",
       "source": "第一电动",
       "pushedAt": 1772353561849
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289533",
+      "title": "极狐阿尔法S5预售开启：11.28万起，续航1450km，3.7秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289532",
+      "title": "小鹏汽车2月销量破万，碳减排55万吨，X9纯电版即将上市",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289530",
+      "title": "蔚来公司2月交付同比增长57.6%，全新ES8完成第70,000台新车交付",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289528",
+      "title": "极狐阿尔法S5预售开启：6款新车型，11.28万起！",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289527",
+      "title": "极氪2月销量猛增70%，9X均价超53万，8X二季度上市！",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289520",
+      "title": "小鹏汽车2月交付新车15256台",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289519",
+      "title": "蔚来汽车2月交付新车20797台，同比增长57.6%",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289518",
+      "title": "极狐阿尔法S5预售开启：11.28万起，增程版续航175公里！",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289531",
+      "title": "郑州日产2月销量飙升51.5%，新能源车环比暴增95.5%！",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289529",
+      "title": "小鹏汽车2月交付超1.5万台，碳减排55万吨，迈向全球AI新十年",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289526",
+      "title": "E周看点 | 宁德时代与宝马推电池护照试点；小米超跑要来了？",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289524",
+      "title": "上汽集团2月销量下滑，新能源车产量销量双降",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289522",
+      "title": "北汽蓝谷2月销量大增18%，新能源汽车市场持续火热",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289525",
+      "title": "小智一周要闻| 广汽机器人业务独立；荣耀将推首款人形机器人",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289523",
+      "title": "比亚迪汉唐家族限时福利：首付6.98万起，3年0息7年低息购车优惠",
+      "source": "第一电动",
+      "pushedAt": 1772360490190
     }
   ]
 }
