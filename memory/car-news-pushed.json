@@ -858,7 +858,18 @@
     "https://www.d1ev.com/news/shichang/289678",
     "https://www.d1ev.com/newsflash/289673",
     "https://www.d1ev.com/news/shichang/289670",
-    "https://www.d1ev.com/news/qiye/289669"
+    "https://www.d1ev.com/news/qiye/289669",
+    "https://www.d1ev.com/newsflash/289699",
+    "https://www.d1ev.com/newsflash/289698",
+    "https://www.d1ev.com/newsflash/289696",
+    "https://www.d1ev.com/newsflash/289692",
+    "https://www.d1ev.com/newsflash/289689",
+    "https://www.d1ev.com/newsflash/289697",
+    "https://www.d1ev.com/newsflash/289694",
+    "https://www.d1ev.com/newsflash/289691",
+    "https://www.d1ev.com/news/qiye/289690",
+    "https://www.d1ev.com/newsflash/289695",
+    "https://www.d1ev.com/newsflash/289693"
   ],
   "lastUpdated": "2026-03-02",
   "newsHistory": [
@@ -2961,6 +2972,72 @@
       "title": "第二代VLA上车 通行效率比肩老司机！小鹏X9纯电版一图看懂",
       "source": "第一电动",
       "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289699",
+      "title": "小米VisionGT概念车亮相MWC2026，虚拟赛道上的中国速度！",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289698",
+      "title": "AI智能体+机器人亮相MWC2026，未来生活触手可及",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289696",
+      "title": "广汽埃安AIONi60国民增程版上市，10.28万起售，续航1240公里！",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289692",
+      "title": "小米VisionGT概念车亮相MWC2026，科幻外形震撼登场！",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289689",
+      "title": "宏光MINIEV第五代内饰曝光，复古新潮配色+20处储物空间，3月揭晓核心配置！",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289697",
+      "title": "钠电池崛起：安全领先锂电，2025年全球出货量预计达9GWh",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289694",
+      "title": "特斯拉告别“自动驾驶”标签，全面转向AI计算机时代",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289691",
+      "title": "欧洲电池生产崛起：成本差距有望缩小至30%",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289690",
+      "title": "2月新能源销量盘点：销量全跌，零跑领跑新势力、理想紧咬",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289695",
+      "title": "小米汽车出海欧洲：自信挑战高门槛市场，2027年见！",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289693",
+      "title": "中国企业闪耀MWC：大中华参展商增至近300家",
+      "source": "第一电动",
+      "pushedAt": 1772455489771
     }
   ]
 }
