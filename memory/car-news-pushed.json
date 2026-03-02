@@ -869,7 +869,13 @@
     "https://www.d1ev.com/newsflash/289691",
     "https://www.d1ev.com/news/qiye/289690",
     "https://www.d1ev.com/newsflash/289695",
-    "https://www.d1ev.com/newsflash/289693"
+    "https://www.d1ev.com/newsflash/289693",
+    "https://www.d1ev.com/newsflash/289704",
+    "https://www.d1ev.com/carnews/xinche/289703",
+    "https://www.d1ev.com/newsflash/289702",
+    "https://www.d1ev.com/newsflash/289705",
+    "https://www.d1ev.com/newsflash/289701",
+    "https://www.d1ev.com/newsflash/289700"
   ],
   "lastUpdated": "2026-03-02",
   "newsHistory": [
@@ -3038,6 +3044,42 @@
       "title": "中国企业闪耀MWC：大中华参展商增至近300家",
       "source": "第一电动",
       "pushedAt": 1772455489771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289704",
+      "title": "10.28万起！广汽埃安i60国民增程版上市，续航1240km，安全承诺“烧一赔三”",
+      "source": "第一电动",
+      "pushedAt": 1772462430527
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289703",
+      "title": "AION i60马到成功版上市 售价10.28万元",
+      "source": "第一电动",
+      "pushedAt": 1772462430527
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289702",
+      "title": "别克GL8家族推“金辉版”车型 2999元享3年战损置换新车权益",
+      "source": "第一电动",
+      "pushedAt": 1772462430527
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289705",
+      "title": "长安汽车2月销量环比增12.8%，新能源销量突破4万",
+      "source": "第一电动",
+      "pushedAt": 1772462430527
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289701",
+      "title": "长安汽车2月销量逆势增长，新能源海外市场双双发力",
+      "source": "第一电动",
+      "pushedAt": 1772462430527
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289700",
+      "title": "全球用户受影响！Anthropic Claude服务全球中断调查中",
+      "source": "第一电动",
+      "pushedAt": 1772462430527
     }
   ]
 }
