@@ -838,7 +838,27 @@
     "https://www.d1ev.com/newsflash/289655",
     "https://www.d1ev.com/news/shichang/289654",
     "https://www.d1ev.com/newsflash/289651",
-    "https://www.d1ev.com/newsflash/289650"
+    "https://www.d1ev.com/newsflash/289650",
+    "https://www.d1ev.com/carnews/xinche/289688",
+    "https://www.d1ev.com/newsflash/289679",
+    "https://www.d1ev.com/newsflash/289675",
+    "https://www.d1ev.com/newsflash/289674",
+    "https://www.d1ev.com/newsflash/289672",
+    "https://www.d1ev.com/news/shichang/289683",
+    "https://www.d1ev.com/newsflash/289682",
+    "https://www.d1ev.com/newsflash/289681",
+    "https://www.d1ev.com/newsflash/289677",
+    "https://www.d1ev.com/news/shichang/289671",
+    "https://www.d1ev.com/newsflash/289668",
+    "https://www.d1ev.com/news/qiye/289686",
+    "https://www.d1ev.com/news/shichang/289687",
+    "https://www.d1ev.com/newsflash/289685",
+    "https://www.d1ev.com/news/shichang/289684",
+    "https://www.d1ev.com/newsflash/289680",
+    "https://www.d1ev.com/news/shichang/289678",
+    "https://www.d1ev.com/newsflash/289673",
+    "https://www.d1ev.com/news/shichang/289670",
+    "https://www.d1ev.com/news/qiye/289669"
   ],
   "lastUpdated": "2026-03-02",
   "newsHistory": [
@@ -2821,6 +2841,126 @@
       "title": "小鹏第二代VLA：智能驾驶升级，妈妈也能安心开！",
       "source": "第一电动",
       "pushedAt": 1772440793077
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289688",
+      "title": "2026款小鹏X9正式上市 售价30.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289679",
+      "title": "路虎卫士运动版明年亮相：纯电SUV新成员即将登场",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289675",
+      "title": "别克GL8金辉版上市：3年车损超30%免费换新！",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289674",
+      "title": "小米首款超跑概念车亮相MWC2026，不量产将登《GT赛车》",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289672",
+      "title": "1036km超长续航！腾势Z9GT单电机版3月5日预售开启",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289683",
+      "title": "国轩高科：2GWh全固态电池产线设计完成",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289682",
+      "title": "全球新能源车销量激增，中国占66%市场，政策变革影响深远",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289681",
+      "title": "小鹏第二代VLA领先行业5倍，2027年全球交付，全自动驾驶未来已来",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289677",
+      "title": "AI揭秘罗马时代棋盘游戏：古老石块现真身",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289671",
+      "title": "智驾落地“加速度”：L3法规扫清障碍，L4在物流与出行端率先开花",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289668",
+      "title": "何小鹏：中国应跳过L3，直接从L2跨越到L4自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289686",
+      "title": "特斯拉Model Y新增7座版 已在欧洲市场推出",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289687",
+      "title": "人事变动 | 李方方将接替杨美虹任福特中国传播副总裁",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289685",
+      "title": "小鹏第二代VLA震撼发布：领先行业5倍，8月挑战特斯拉硅谷效果",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289684",
+      "title": "受伊朗危机影响，日本股市下挫",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289680",
+      "title": "银河通用机器人宣布完成25亿元新一轮融资",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289678",
+      "title": "过去十年日本车价大涨，车企何解？",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289673",
+      "title": "特斯拉Cybertruck AWD版10天涨价17%，售价飙升至48.1万元",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289670",
+      "title": "广汽集团定调2026年：重返200万辆产销",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289669",
+      "title": "第二代VLA上车 通行效率比肩老司机！小鹏X9纯电版一图看懂",
+      "source": "第一电动",
+      "pushedAt": 1772448071895
     }
   ]
 }
