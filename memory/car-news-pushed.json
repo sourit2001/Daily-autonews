@@ -875,9 +875,13 @@
     "https://www.d1ev.com/newsflash/289702",
     "https://www.d1ev.com/newsflash/289705",
     "https://www.d1ev.com/newsflash/289701",
-    "https://www.d1ev.com/newsflash/289700"
+    "https://www.d1ev.com/newsflash/289700",
+    "https://www.d1ev.com/newsflash/289714",
+    "https://www.d1ev.com/newsflash/289713",
+    "https://www.d1ev.com/newsflash/289711",
+    "https://www.d1ev.com/newsflash/289712"
   ],
-  "lastUpdated": "2026-03-02",
+  "lastUpdated": "2026-03-03",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/carnews/xinche/289342",
@@ -3080,6 +3084,30 @@
       "title": "全球用户受影响！Anthropic Claude服务全球中断调查中",
       "source": "第一电动",
       "pushedAt": 1772462430527
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289714",
+      "title": "比亚迪26年技术盛宴：仰望U7/U8/U8L携新电池技术震撼上市",
+      "source": "第一电动",
+      "pushedAt": 1772476750212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289713",
+      "title": "10.28万起！埃安i60国民增程版210公里纯电续航震撼上市",
+      "source": "第一电动",
+      "pushedAt": 1772476750212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289711",
+      "title": "小鹏第二代VLA惊艳亮相：无导航也能开，领先行业5倍！",
+      "source": "第一电动",
+      "pushedAt": 1772476750212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289712",
+      "title": "10万级新爆款！埃安i60国民增程210km续航，家庭用车新选择",
+      "source": "第一电动",
+      "pushedAt": 1772476750212
     }
   ]
 }
