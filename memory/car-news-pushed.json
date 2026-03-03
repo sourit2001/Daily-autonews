@@ -898,7 +898,30 @@
     "https://www.d1ev.com/news/shichang/289718",
     "https://www.d1ev.com/news/qiye/289717",
     "https://www.d1ev.com/news/qiye/289716",
-    "https://www.d1ev.com/newsflash/289715"
+    "https://www.d1ev.com/newsflash/289715",
+    "https://www.d1ev.com/newsflash/289757",
+    "https://www.d1ev.com/news/qiye/289754",
+    "https://www.d1ev.com/news/qiye/289753",
+    "https://www.d1ev.com/newsflash/289747",
+    "https://www.d1ev.com/carnews/xinche/289740",
+    "https://www.d1ev.com/newsflash/289738",
+    "https://www.d1ev.com/carnews/xinche/289737",
+    "https://www.d1ev.com/newsflash/289756",
+    "https://www.d1ev.com/newsflash/289751",
+    "https://www.d1ev.com/news/shichang/289749",
+    "https://www.d1ev.com/newsflash/289746",
+    "https://www.d1ev.com/newsflash/289743",
+    "https://www.d1ev.com/newsflash/289736",
+    "https://www.d1ev.com/newsflash/289750",
+    "https://www.d1ev.com/newsflash/289739",
+    "https://www.d1ev.com/newsflash/289758",
+    "https://www.d1ev.com/newsflash/289755",
+    "https://www.d1ev.com/newsflash/289752",
+    "https://www.d1ev.com/newsflash/289748",
+    "https://www.d1ev.com/news/shichang/289745",
+    "https://www.d1ev.com/newsflash/289744",
+    "https://www.d1ev.com/news/shichang/289741",
+    "https://www.d1ev.com/newsflash/289735"
   ],
   "lastUpdated": "2026-03-03",
   "newsHistory": [
@@ -3241,6 +3264,144 @@
       "title": "日本车在东南亚失守？中国品牌崛起抢占市场",
       "source": "第一电动",
       "pushedAt": 1772502409887
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289757",
+      "title": "小鹏X9纯电版MPV上市：全球最长续航750km，30.98万起",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289754",
+      "title": "比亚迪王朝首款D级旗舰SUV大唐官图发布 3月5日亮相",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/289753",
+      "title": "3月重磅新车一览：2026款小鹏X9纯电版、比亚迪大唐等强势来袭",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289747",
+      "title": "华为乾崑智能轿跑冬测曝光：三电机+悬架精准协调，冰雪路面急刹不跑偏",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289740",
+      "title": "比亚迪海豹07EV官图发布 将于3月5日上市 搭载比亚迪最新闪充技术",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289738",
+      "title": "比亚迪双星闪耀：秦MAX动感亮相，宋UltraEV续航超700km！",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289737",
+      "title": "全新动力 东风奕派eπ007闪现版3月内上市",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289756",
+      "title": "捷豹路虎销量暴跌，经销商退网潮起，新能源转型迫在眉睫",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289751",
+      "title": "阿里千问开源4款Qwen3.5小尺寸AI模型，马斯克点赞“智能密度”",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289749",
+      "title": "桩车增量比1:1.1，新能源补能网络追上产业节奏了？",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289746",
+      "title": "丰田RAV4搭载瑞萨R-CarV4H芯片，智能驾驶再升级！",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289743",
+      "title": "华为AI数据平台突破推理瓶颈，助力运营商业务智能化升级",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289736",
+      "title": "2025年新能源车销量将破2000万，存储器涨价未引发车价波动",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289750",
+      "title": "美国防部合作引发众怒，ChatGPT卸载量激增295%，Claude下载量飙升",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289739",
+      "title": "广汽集团1-2月销量增长3%，埃安销量激增48.69%，海外市场翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289758",
+      "title": "宝马7系将搭载全新V8引擎，M760徽标或回归",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289755",
+      "title": "宝马纯电M3赛道首秀，四电机超800马力震撼登场！",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289752",
+      "title": "鸿蒙智行2月交付创新高，累计突破128.2万辆！",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289748",
+      "title": "沃尔沃首现年度亏损：2025年营收下滑11%，中国市场销量微降营收暴跌23%",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289745",
+      "title": "爆款焦虑下的“减法”：埃安推i60丐版，10万起能救市吗？",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289744",
+      "title": "比亚迪大唐D级旗舰SUV即将发布，1000kW超充技术引领新潮流",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289741",
+      "title": "本田计划将两款美产车型引入日本",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289735",
+      "title": "华为鸿蒙智行新技术谜底揭晓在即，元宵节猜灯谜引爆期待！",
+      "source": "第一电动",
+      "pushedAt": 1772511186209
     }
   ]
 }
