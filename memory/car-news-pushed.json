@@ -996,7 +996,14 @@
     "https://www.d1ev.com/carnews/xinche/289822",
     "https://www.d1ev.com/news/shichang/289816",
     "https://www.d1ev.com/newsflash/289815",
-    "https://www.d1ev.com/news/shichang/289814"
+    "https://www.d1ev.com/news/shichang/289814",
+    "https://www.d1ev.com/newsflash/289843",
+    "https://www.d1ev.com/newsflash/289840",
+    "https://www.d1ev.com/carnews/xinche/289838",
+    "https://www.d1ev.com/news/shichang/289841",
+    "https://www.d1ev.com/newsflash/289839",
+    "https://www.d1ev.com/newsflash/289842",
+    "https://www.d1ev.com/news/shichang/289837"
   ],
   "lastUpdated": "2026-03-03",
   "newsHistory": [
@@ -3927,6 +3934,48 @@
       "title": "RemotiveLabs和Vayavya Labs启动合作 旨在提前推进ADS/ADAS的开发",
       "source": "第一电动",
       "pushedAt": 1772534165068
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289843",
+      "title": "智己LS8预告：半圈转向技术加持，3月亮相科技感爆棚",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289840",
+      "title": "小米昆仑SUV曝光：5.2米超长车身，增程续航400-500公里",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/289838",
+      "title": "iCAR V27将于3月13日上市 配备高阶智驾 综合续航1200km+",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289841",
+      "title": "端到端智驾仿真标杆！51Sim以53.5%市占率领跑中国高阶智驾仿真",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289839",
+      "title": "燃油车换新能源潮起！8成用户转向绿色出行",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/289842",
+      "title": "6G时代将至！高通CEO预测2029年商用，通信技术十年一迭代",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/289837",
+      "title": "Seeds | 大界机器人完成数亿元D轮融资，加码工业具身智能与高端制造场景深耕",
+      "source": "第一电动",
+      "pushedAt": 1772541769830
     }
   ]
 }
