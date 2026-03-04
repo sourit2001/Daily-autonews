@@ -1156,7 +1156,20 @@
     "https://www.d1ev.com/news/qiye/289986",
     "https://www.d1ev.com/newsflash/289985",
     "https://www.d1ev.com/newsflash/289984",
-    "https://www.d1ev.com/newsflash/289983"
+    "https://www.d1ev.com/newsflash/289983",
+    "https://www.d1ev.com/newsflash/290018",
+    "https://www.d1ev.com/newsflash/290012",
+    "https://www.d1ev.com/news/qiye/290009",
+    "https://www.d1ev.com/newsflash/290008",
+    "https://www.d1ev.com/newsflash/290013",
+    "https://www.d1ev.com/newsflash/290011",
+    "https://www.d1ev.com/newsflash/290006",
+    "https://www.d1ev.com/newsflash/290017",
+    "https://www.d1ev.com/newsflash/290007",
+    "https://www.d1ev.com/newsflash/290016",
+    "https://www.d1ev.com/newsflash/290015",
+    "https://www.d1ev.com/news/shichang/290014",
+    "https://www.d1ev.com/news/shichang/290010"
   ],
   "lastUpdated": "2026-03-04",
   "newsHistory": [
@@ -5047,6 +5060,84 @@
       "title": "沃尔沃250万辆汽车迎史上最大OTA升级，老款车功能焕新",
       "source": "第一电动",
       "pushedAt": 1772620436815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290018",
+      "title": "广汽昊铂A800豪华轿车上市：华为智驾加持，29.98万起售",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290012",
+      "title": "字节跳动Seedance2.0视频生成模型定价曝光：1元1秒！",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290009",
+      "title": "乐道L90申花特别版亮相，助阵上海申花迎战2026中超新赛季",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290008",
+      "title": "华为激光雷达技术新突破，岚图汽车多款新车搭载896线雷达系统",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290013",
+      "title": "Meta组建AI新部门，加速迈向超级智能时代",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290011",
+      "title": "特斯拉急增2nm AI芯片订单，三星电子全力配合产能提升",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290006",
+      "title": "广汽董事长冯兴亚建言：推动换电模式规模化，完善自动驾驶法规",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290017",
+      "title": "华为发布全球最高线数激光雷达，尊界S800/问界M9率先搭载",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290007",
+      "title": "华为激光雷达技术突破：阿维塔12将搭载全球最高896线雷达",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290016",
+      "title": "48小时账单飙升至8.2万美元！谷歌Gemini用户遭遇天价账单危机",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290015",
+      "title": "奥迪将推新双门跑车ConceptC，未来或基于兰博基尼平台开发",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290014",
+      "title": "如履薄冰：“欧盟制造”汽车规则，为何引发多方不满？",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290010",
+      "title": "给女性用户贴标签的昏招，还有人在用？",
+      "source": "第一电动",
+      "pushedAt": 1772628231893
     }
   ]
 }
