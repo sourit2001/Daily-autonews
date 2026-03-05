@@ -1384,9 +1384,12 @@
     "https://www.d1ev.com/newsflash/290228",
     "https://www.d1ev.com/news/shichang/290254",
     "https://www.d1ev.com/newsflash/290232",
-    "https://www.d1ev.com/news/qiye/290230"
+    "https://www.d1ev.com/news/qiye/290230",
+    "https://www.d1ev.com/newsflash/290269",
+    "https://www.d1ev.com/newsflash/290268",
+    "https://www.d1ev.com/newsflash/290270"
   ],
-  "lastUpdated": "2026-03-05",
+  "lastUpdated": "2026-03-06",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/carnews/xinche/289342",
@@ -6643,6 +6646,24 @@
       "title": "比亚迪发布闪充中国战略：年底建成20000座闪充站 车企第一",
       "source": "第一电动",
       "pushedAt": 1772721888218
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290269",
+      "title": "奔驰吉利联手打造全新电动车平台，预计2030年亮相",
+      "source": "第一电动",
+      "pushedAt": 1772733533485
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290268",
+      "title": "OpenAI新突破：BiDi语音模型让AI对话更自然",
+      "source": "第一电动",
+      "pushedAt": 1772733533485
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290270",
+      "title": "上汽大众ID.ERA9X宁波量产启动，高端增程SUV新标杆诞生",
+      "source": "第一电动",
+      "pushedAt": 1772733533485
     }
   ]
 }
