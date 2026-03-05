@@ -1387,7 +1387,8 @@
     "https://www.d1ev.com/news/qiye/290230",
     "https://www.d1ev.com/newsflash/290269",
     "https://www.d1ev.com/newsflash/290268",
-    "https://www.d1ev.com/newsflash/290270"
+    "https://www.d1ev.com/newsflash/290270",
+    "https://www.d1ev.com/newsflash/290271"
   ],
   "lastUpdated": "2026-03-06",
   "newsHistory": [
@@ -6664,6 +6665,12 @@
       "title": "上汽大众ID.ERA9X宁波量产启动，高端增程SUV新标杆诞生",
       "source": "第一电动",
       "pushedAt": 1772733533485
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290271",
+      "title": "比亚迪海豹07EV上市！705公里续航+天神之眼5.0技术",
+      "source": "第一电动",
+      "pushedAt": 1772749584135
     }
   ]
 }
