@@ -1305,7 +1305,31 @@
     "https://www.d1ev.com/news/shichang/290148",
     "https://www.d1ev.com/news/shichang/290146",
     "https://www.d1ev.com/newsflash/290145",
-    "https://www.d1ev.com/news/shichang/290140"
+    "https://www.d1ev.com/news/shichang/290140",
+    "https://www.d1ev.com/carnews/xinche/290195",
+    "https://www.d1ev.com/carnews/xinche/290187",
+    "https://www.d1ev.com/newsflash/290184",
+    "https://www.d1ev.com/newsflash/290177",
+    "https://www.d1ev.com/newsflash/290175",
+    "https://www.d1ev.com/news/qiye/290173",
+    "https://www.d1ev.com/newsflash/290172",
+    "https://www.d1ev.com/newsflash/290196",
+    "https://www.d1ev.com/news/shichang/290188",
+    "https://www.d1ev.com/newsflash/290186",
+    "https://www.d1ev.com/newsflash/290185",
+    "https://www.d1ev.com/newsflash/290183",
+    "https://www.d1ev.com/newsflash/290182",
+    "https://www.d1ev.com/news/qiye/290181",
+    "https://www.d1ev.com/newsflash/290180",
+    "https://www.d1ev.com/newsflash/290179",
+    "https://www.d1ev.com/newsflash/290178",
+    "https://www.d1ev.com/newsflash/290176",
+    "https://www.d1ev.com/news/shichang/290189",
+    "https://www.d1ev.com/news/shichang/290194",
+    "https://www.d1ev.com/newsflash/290193",
+    "https://www.d1ev.com/newsflash/290192",
+    "https://www.d1ev.com/newsflash/290191",
+    "https://www.d1ev.com/news/shichang/290174"
   ],
   "lastUpdated": "2026-03-05",
   "newsHistory": [
@@ -6090,6 +6114,150 @@
       "title": "Aria Sensing与Algorized发布新一代汽车儿童存在检测技术",
       "source": "第一电动",
       "pushedAt": 1772699932635
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290195",
+      "title": "广汽丰田铂智7开启预售 预售17.98-23.98万",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290187",
+      "title": "广汽丰田铂智7开启预售 限时15.68万起 搭载鸿蒙座舱5.0",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290184",
+      "title": "长城坦克700Hi4-Z新配色亮相，麒麟元素加持，纯电续航190km",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290177",
+      "title": "宝马全新i3即将首发：纯电轿车版iX3，续航超500英里",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290175",
+      "title": "吉利银河M7量产车下线，4月上市续航超1700公里！",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290173",
+      "title": "华为电机+鸿蒙座舱+小米生态！丰田铂智7预售：15.68万起",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290172",
+      "title": "广汽丰田铂智7预售开启，续航710km，搭载华为电驱技术",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290196",
+      "title": "奇瑞星途ET5官方指导价上调，15万级智驾SUV涨价5000元",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290188",
+      "title": "蔚来汽车电池研发基地落户上海嘉定",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290186",
+      "title": "奔驰联手吉利打造全新电动车平台，2030年量产入门级车型",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290185",
+      "title": "奇瑞星途ET5官方指导价上调，高配版增5000元，芯片涨价成主因",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290183",
+      "title": "华裔富豪廖凯原豪掷1.8亿美元增持英伟达，坚信AI非泡沫",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290182",
+      "title": "日本2月进口车销量下滑6%，比亚迪和现代电动汽车销量翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290181",
+      "title": "订单翻番？消息称特斯拉寻求三星电子更多产能代工AI6芯片",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290180",
+      "title": "欧盟力推“制造本土化”：电动车补贴需70%本地化部件",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290179",
+      "title": "谷歌与OpenAI近千名员工联名发表公开信，反对美军方放宽AI使用限制",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290178",
+      "title": "谷歌、微软、Meta等AI科技巨头巨头承诺自担数据中心电力成本",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290176",
+      "title": "比亚迪第二代刀片电池发布，王力宏现场助阵唱响“改变世界”",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290189",
+      "title": "莲花跑车全球技术发布会，浩思动力上车莲花首款插混车型For Me",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290194",
+      "title": "Seeds | 为具身智能打“地基”，睿尔曼智能完成近5亿元融资",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290193",
+      "title": "小鹏汇天陆地航母飞行器批量下线，低空出行迈入量产时代",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290192",
+      "title": "小鹏汇天陆地航母飞行器量产下线，低空出行新时代开启",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290191",
+      "title": "吉利银河M7首台量产车下线，37个月破200万辆销量纪录",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290174",
+      "title": "中东战火挡不住中国汽车",
+      "source": "第一电动",
+      "pushedAt": 1772707017605
     }
   ]
 }
