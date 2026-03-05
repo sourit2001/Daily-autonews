@@ -1191,9 +1191,30 @@
     "https://www.d1ev.com/carnews/xinche/290033",
     "https://www.d1ev.com/news/qiye/290032",
     "https://www.d1ev.com/carnews/xinche/290026",
-    "https://www.d1ev.com/newsflash/290021"
+    "https://www.d1ev.com/newsflash/290021",
+    "https://www.d1ev.com/carnews/xinche/290073",
+    "https://www.d1ev.com/carnews/xinche/290071",
+    "https://www.d1ev.com/newsflash/290066",
+    "https://www.d1ev.com/carnews/xinche/290059",
+    "https://www.d1ev.com/newsflash/290074",
+    "https://www.d1ev.com/newsflash/290070",
+    "https://www.d1ev.com/newsflash/290060",
+    "https://www.d1ev.com/newsflash/290065",
+    "https://www.d1ev.com/newsflash/290061",
+    "https://www.d1ev.com/newsflash/290058",
+    "https://www.d1ev.com/newsflash/290075",
+    "https://www.d1ev.com/carnews/xinche/290072",
+    "https://www.d1ev.com/carnews/xinche/290069",
+    "https://www.d1ev.com/news/shichang/290068",
+    "https://www.d1ev.com/news/shichang/290067",
+    "https://www.d1ev.com/news/shichang/290064",
+    "https://www.d1ev.com/news/qiye/290063",
+    "https://www.d1ev.com/newsflash/290057",
+    "https://www.d1ev.com/news/shichang/290056",
+    "https://www.d1ev.com/news/shichang/290055",
+    "https://www.d1ev.com/news/shichang/290054"
   ],
-  "lastUpdated": "2026-03-04",
+  "lastUpdated": "2026-03-05",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/carnews/xinche/289342",
@@ -5292,6 +5313,132 @@
       "title": "采埃孚新科技：底盘主动降噪，让胎噪“消失”在豪车之外",
       "source": "第一电动",
       "pushedAt": 1772635090516
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290073",
+      "title": "选择众多 欧拉5多动力版本将于4月内上市",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290071",
+      "title": "底盘雷达升级 新款阿维塔12于3月20日预售",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290066",
+      "title": "华为鸿蒙智行尚界Z7亮相：副驾新玩法，手办也能上“橱窗”",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290059",
+      "title": "仅10台 迈凯伦Artura Spider冠军版新车图解",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290074",
+      "title": "英伟达助力CoreWeave与AI初创Perplexity达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290070",
+      "title": "阿里巴巴千问大模型核心团队突现离职潮",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290060",
+      "title": "英国网红用500颗废弃电子烟电池打造电动车动力组",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290065",
+      "title": "插电混动车遭质疑：减碳效果差，欧洲加强监管",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290061",
+      "title": "华为发布全球最高896线激光雷达，视窗硬度提升25%",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290058",
+      "title": "华为发布全球最高896线激光雷达：3D成像时代来临！",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290075",
+      "title": "微软发布Phi-4-Reasoning-Vision-15B：视觉推理新突破，智能应用新高度",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290072",
+      "title": "项目并未终止 奥迪Concept C或推量产版本",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290069",
+      "title": "896线激光雷达 一文看懂昊铂A800配置差异",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290068",
+      "title": "34.4%！中国纯电汽车亚太市场“四年跃迁”",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290067",
+      "title": "2025年度国内轿车投诉分析报告",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290064",
+      "title": "规模退场：并购核心变成能力重组（中）| 晓莺说",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290063",
+      "title": "2026年车圈两会提案：当“制度供给”追不上技术狂飙",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290057",
+      "title": "马斯克星链覆盖超1600万用户，预计2026年月活用户破2500万",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290056",
+      "title": "尚界双车齐发，瞄准高端？",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290055",
+      "title": "小米汽车能否迈过“信任大考”？",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290054",
+      "title": "【盖世快讯】雷军建议提升智能网联汽车内容驾考权重；华为乾崑发布896线激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1772674339010
     }
   ]
 }
