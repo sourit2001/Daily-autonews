@@ -1485,7 +1485,35 @@
     "https://www.d1ev.com/carnews/xinche/290353",
     "https://www.d1ev.com/news/shichang/290352",
     "https://www.d1ev.com/news/shichang/290351",
-    "https://www.d1ev.com/carnews/xinche/290350"
+    "https://www.d1ev.com/carnews/xinche/290350",
+    "https://www.d1ev.com/newsflash/290402",
+    "https://www.d1ev.com/newsflash/290397",
+    "https://www.d1ev.com/newsflash/290396",
+    "https://www.d1ev.com/newsflash/290395",
+    "https://www.d1ev.com/carnews/xinche/290394",
+    "https://www.d1ev.com/newsflash/290386",
+    "https://www.d1ev.com/newsflash/290383",
+    "https://www.d1ev.com/newsflash/290379",
+    "https://www.d1ev.com/news/shichang/290377",
+    "https://www.d1ev.com/carnews/xinche/290376",
+    "https://www.d1ev.com/newsflash/290403",
+    "https://www.d1ev.com/newsflash/290389",
+    "https://www.d1ev.com/newsflash/290381",
+    "https://www.d1ev.com/newsflash/290387",
+    "https://www.d1ev.com/newsflash/290380",
+    "https://www.d1ev.com/newsflash/290405",
+    "https://www.d1ev.com/newsflash/290404",
+    "https://www.d1ev.com/newsflash/290401",
+    "https://www.d1ev.com/newsflash/290400",
+    "https://www.d1ev.com/newsflash/290399",
+    "https://www.d1ev.com/newsflash/290398",
+    "https://www.d1ev.com/news/shichang/290393",
+    "https://www.d1ev.com/newsflash/290392",
+    "https://www.d1ev.com/newsflash/290391",
+    "https://www.d1ev.com/newsflash/290390",
+    "https://www.d1ev.com/newsflash/290388",
+    "https://www.d1ev.com/newsflash/290385",
+    "https://www.d1ev.com/news/shichang/290378"
   ],
   "lastUpdated": "2026-03-06",
   "newsHistory": [
@@ -7350,6 +7378,174 @@
       "title": "第五代宏光MINIEV开启预订 与国漫IP“奶龙”联名",
       "source": "第一电动",
       "pushedAt": 1772786103094
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290402",
+      "title": "雷克萨斯ES纯电版美国起售价33.7万，4月中国上市",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290397",
+      "title": "小鹏G6增程版上市：续航1704km，算力2250TOPS，限时权益礼包来袭",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290396",
+      "title": "领克900大五座SUV亮相：1120mm二排空间+220km纯电续航",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290395",
+      "title": "领克07插混旅行版曝光：激光雷达加持，动力升级408马力！",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290394",
+      "title": "小鹏G6超级增程正式上市 售价18.68万元",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290386",
+      "title": "一汽奔腾2026款悦意03纯电SUV即将上市，续航超500km，终身质保！",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290383",
+      "title": "全球首款华为激光雷达SUV！岚图泰山3月17日震撼上市",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290379",
+      "title": "领克07旅行版预告发布，2026年亮相，激光雷达加持运动风",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290377",
+      "title": "广汽埃安官宣埃安RT换电版车型将于4月上市",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290376",
+      "title": "比亚迪海豹08首发亮相 搭载第二代刀片电池/闪充+后轮转向",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290403",
+      "title": "阿里千问3.8节大促：AI办事卡立减来袭，吃喝玩乐一网打尽！",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290389",
+      "title": "AI聊天机器人Claude用户破百万，Anthropic收入激增",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290381",
+      "title": "超能机器鼠将巡检LHC：AI技术助力粒子对撞实验",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290387",
+      "title": "华为发布全球最高线数激光雷达：4K级感知，驾驶更安全",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290380",
+      "title": "比亚迪2026海外销量目标130万，闪充技术全球领先",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290405",
+      "title": "奇瑞董事长尹同跃：320亿研发预算，不打价格战，专注技术品质创新",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290404",
+      "title": "五菱宏光MINIEV五代开启预订，联名“奶龙”送万元礼包！",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290401",
+      "title": "别克至境E7：豪华大五座插混SUV，科技感爆棚！",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290400",
+      "title": "腾讯云现场免费装OpenClaw，颁发“小龙虾出生证明”",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290399",
+      "title": "“中国新兴产业爆发：2025年产值近6万亿，2030年有望翻倍”",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290398",
+      "title": "奥迪A8在德停产倒计时？豪华轿车市场风云再起",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290393",
+      "title": "极狐与宁德时代巧克力换电达成合作",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290392",
+      "title": "上汽大众EA211增程器下线，理想汽车宣布迈入原生增程新时代",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290391",
+      "title": "领克07旅行版预告：2026年发布，1.5T插混动力，智能化升级",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290390",
+      "title": "理想汽车引领增程技术革新，告别“改造时代”迈入新时代",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290388",
+      "title": "魔法原子高层大调整：陈春玉续任CTO，李翔加盟任首席科学家",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290385",
+      "title": "极狐阿尔法S5换电版来袭：99秒满电，11.28万起售！",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290378",
+      "title": "刚刚，魔法原子管理层大调整",
+      "source": "第一电动",
+      "pushedAt": 1772793191817
     }
   ]
 }
