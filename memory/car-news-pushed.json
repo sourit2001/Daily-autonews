@@ -1520,7 +1520,17 @@
     "https://www.d1ev.com/newsflash/290407",
     "https://www.d1ev.com/newsflash/290413",
     "https://www.d1ev.com/newsflash/290411",
-    "https://www.d1ev.com/news/qiye/290408"
+    "https://www.d1ev.com/news/qiye/290408",
+    "https://www.d1ev.com/newsflash/290420",
+    "https://www.d1ev.com/newsflash/290417",
+    "https://www.d1ev.com/carnews/xinche/290416",
+    "https://www.d1ev.com/carnews/xinche/290423",
+    "https://www.d1ev.com/newsflash/290418",
+    "https://www.d1ev.com/carnews/xinche/290414",
+    "https://www.d1ev.com/carnews/xinche/290422",
+    "https://www.d1ev.com/news/shichang/290421",
+    "https://www.d1ev.com/news/shichang/290419",
+    "https://www.d1ev.com/newsflash/290415"
   ],
   "lastUpdated": "2026-03-06",
   "newsHistory": [
@@ -7595,6 +7605,66 @@
       "title": "魏牌广告被指抄袭路虎！魏建军道歉：的确抄袭了 愿担责",
       "source": "第一电动",
       "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290420",
+      "title": "AMG GT四门轿跑内饰曝光：纯电怪兽1341马力，5分钟充400km续航",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290417",
+      "title": "领克900旗舰SUV新色亮相，大五座混动版来袭！",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290416",
+      "title": "比亚迪海豹08惊艳亮相 颜值与实力双爆表",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290423",
+      "title": "全国人大代表、长安汽车董事长朱华荣：加快自动驾驶汽车规模化应用，推出适配保险产品",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290418",
+      "title": "小米AI助手Xiaomimiclaw开启内测：一句话控制手机、家电新体验",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290414",
+      "title": "全国人大代表、广汽集团董事长冯兴亚：建议将广东、广州打造为先行先试样板，让自动驾驶“跑”起来",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290422",
+      "title": "“广东是创业福地！”小鹏汽车何小鹏喊话：看遍东南西北中，投资创业来广东",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290421",
+      "title": "携手国家队，东升股份打造汽车零部件测试新高地",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290419",
+      "title": "博格华纳宁波园区成立二十周年：深耕动力技术，驱动创新未来",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290415",
+      "title": "长安汽车董事长两会建言：推动汽车产业数智化转型与高质量发展",
+      "source": "第一电动",
+      "pushedAt": 1772807672748
     }
   ]
 }
