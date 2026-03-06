@@ -1530,9 +1530,10 @@
     "https://www.d1ev.com/carnews/xinche/290422",
     "https://www.d1ev.com/news/shichang/290421",
     "https://www.d1ev.com/news/shichang/290419",
-    "https://www.d1ev.com/newsflash/290415"
+    "https://www.d1ev.com/newsflash/290415",
+    "https://www.d1ev.com/newsflash/290433"
   ],
-  "lastUpdated": "2026-03-06",
+  "lastUpdated": "2026-03-07",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/carnews/xinche/289342",
@@ -7665,6 +7666,12 @@
       "title": "长安汽车董事长两会建言：推动汽车产业数智化转型与高质量发展",
       "source": "第一电动",
       "pushedAt": 1772807672748
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290433",
+      "title": "阿维塔12遭集体投诉：73天大改款背刺老车主，官方回应",
+      "source": "第一电动",
+      "pushedAt": 1772822197125
     }
   ]
 }
