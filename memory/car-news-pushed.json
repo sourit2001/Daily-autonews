@@ -1513,7 +1513,14 @@
     "https://www.d1ev.com/newsflash/290390",
     "https://www.d1ev.com/newsflash/290388",
     "https://www.d1ev.com/newsflash/290385",
-    "https://www.d1ev.com/news/shichang/290378"
+    "https://www.d1ev.com/news/shichang/290378",
+    "https://www.d1ev.com/news/shichang/290406",
+    "https://www.d1ev.com/newsflash/290410",
+    "https://www.d1ev.com/newsflash/290409",
+    "https://www.d1ev.com/newsflash/290407",
+    "https://www.d1ev.com/newsflash/290413",
+    "https://www.d1ev.com/newsflash/290411",
+    "https://www.d1ev.com/news/qiye/290408"
   ],
   "lastUpdated": "2026-03-06",
   "newsHistory": [
@@ -7546,6 +7553,48 @@
       "title": "刚刚，魔法原子管理层大调整",
       "source": "第一电动",
       "pushedAt": 1772793191817
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290406",
+      "title": "破解车企焦虑？江波龙以集成技术与商业模式双重创新亮相2026德国嵌入式展",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290410",
+      "title": "极氪009焕新来袭：900V高压架构+NVIDIADRIVEThor-U芯片，纯电MPV新选择！",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290409",
+      "title": "岚图泰山L3级自动驾驶SUV首秀，智能驾驶新高度！",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290407",
+      "title": "小米SU7全国铺货，智能驾驶升级，续航902km新突破！",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290413",
+      "title": "帕西尼感知科技B轮融资超10亿 估值破百亿俱乐部新成员",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290411",
+      "title": "宝马iX3遭前设计师狠批：设计“迷失方向”",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290408",
+      "title": "魏牌广告被指抄袭路虎！魏建军道歉：的确抄袭了 愿担责",
+      "source": "第一电动",
+      "pushedAt": 1772800898823
     }
   ]
 }
