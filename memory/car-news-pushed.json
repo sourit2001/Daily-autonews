@@ -1543,88 +1543,14 @@
     "https://www.d1ev.com/newsflash/290440",
     "https://www.d1ev.com/newsflash/290439",
     "https://www.d1ev.com/newsflash/290438",
-    "https://www.d1ev.com/newsflash/290445"
+    "https://www.d1ev.com/newsflash/290445",
+    "https://www.d1ev.com/newsflash/290448",
+    "https://www.d1ev.com/newsflash/290447",
+    "https://www.d1ev.com/newsflash/290449",
+    "https://www.d1ev.com/newsflash/290446"
   ],
   "lastUpdated": "2026-03-07",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289386",
-      "title": "比亚迪新充放电枪上市：一枪双能，露营办公用电自由",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289384",
-      "title": "iCAR V27配置曝光 将于第一季度上市",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289383",
-      "title": "全新设计风格 鸿蒙智行尚界Z7实车曝光",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289382",
-      "title": "上汽大众ID.ERA 9X仙踪绿车色官图 3月预售",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289381",
-      "title": "极核AE4SE+电动摩托首发：4899元享80km/h极速体验",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289390",
-      "title": "深度求索V4大模型下周发布，国产AI芯片迎来新机遇",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289385",
-      "title": "中国电信领投面壁智能数亿融资，共拓AI技术新场景",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289379",
-      "title": "美国AI公司Anthropic拒五角大楼要求，面临供应链风险指控",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289391",
-      "title": "宝马在德国工厂启动人形机器人试点项目",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289389",
-      "title": "阿里云CoPaw工具开源：打造个性化智能助手新体验",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289388",
-      "title": "鸿蒙智行春节护航：辅助驾驶里程超70亿公里，安全防护8.1万次避免碰撞",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289387",
-      "title": "比亚迪秦PLUS大放价：3年0息首付2.98万起，日供仅31元！",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289380",
-      "title": "宝马莱比锡工厂引入AEON人形机器人，开启人机协作新篇章",
-      "source": "第一电动",
-      "pushedAt": 1772260316012
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289414",
       "title": "东风风行星海T5纯电SUV上市，续航530公里售15.39万起",
@@ -7450,6 +7376,30 @@
       "title": "上汽通用三年推十余款新车，别克至境家族纯电版3月17日上市",
       "source": "第一电动",
       "pushedAt": 1772859482764
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290448",
+      "title": "保时捷75周年庆典：四款定制车型亮相墨尔本大奖赛",
+      "source": "第一电动",
+      "pushedAt": 1772865194795
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290447",
+      "title": "比亚迪闪充桩革新：63岁老人轻松操作，5分钟续航500公里！",
+      "source": "第一电动",
+      "pushedAt": 1772865194795
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290449",
+      "title": "宝马AlpinaXB7Manufaktur限量版：120台珍稀豪车，北美专供！",
+      "source": "第一电动",
+      "pushedAt": 1772865194795
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290446",
+      "title": "纯电车型保值率大比拼：问界M9以82.1%夺冠，特斯拉ModelY紧随其后",
+      "source": "第一电动",
+      "pushedAt": 1772865194795
     }
   ]
 }
