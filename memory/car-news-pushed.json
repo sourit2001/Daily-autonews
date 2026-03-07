@@ -1542,58 +1542,11 @@
     "https://www.d1ev.com/newsflash/290442",
     "https://www.d1ev.com/newsflash/290440",
     "https://www.d1ev.com/newsflash/290439",
-    "https://www.d1ev.com/newsflash/290438"
+    "https://www.d1ev.com/newsflash/290438",
+    "https://www.d1ev.com/newsflash/290445"
   ],
   "lastUpdated": "2026-03-07",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289372",
-      "title": "一汽零跑联手打造新车型，预计2026年亮相海外市场",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289378",
-      "title": "加拿大即将发放中国产电动车进口配额许可，首批规模2.45万辆",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289377",
-      "title": "ChatGPT用户破9亿！OpenAI融资1100亿美元创新高",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289373",
-      "title": "中兴通讯MWC2026将展示豆包AI助手努比亚M153手机",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289376",
-      "title": "小米超跑概念车现身巴塞罗那，MWC2026前夜神秘惊喜即将揭晓！",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289375",
-      "title": "2月中国汽车经销商库存预警指数为56.2%",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289374",
-      "title": "东风日产高管微博炮轰同城友商抄袭 呼吁良性竞争",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289371",
-      "title": "德国，盯上了杭州“硬科技”",
-      "source": "第一电动",
-      "pushedAt": 1772254335514
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289386",
       "title": "比亚迪新充放电枪上市：一枪双能，露营办公用电自由",
@@ -7491,6 +7444,12 @@
       "title": "微软推E7企业版生产力套件，AI功能升级，月费高达99美元",
       "source": "第一电动",
       "pushedAt": 1772855769499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290445",
+      "title": "上汽通用三年推十余款新车，别克至境家族纯电版3月17日上市",
+      "source": "第一电动",
+      "pushedAt": 1772859482764
     }
   ]
 }
