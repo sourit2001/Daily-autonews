@@ -1563,166 +1563,19 @@
     "https://www.d1ev.com/newsflash/290464",
     "https://www.d1ev.com/newsflash/290463",
     "https://www.d1ev.com/newsflash/290461",
-    "https://www.d1ev.com/newsflash/290462"
+    "https://www.d1ev.com/newsflash/290462",
+    "https://www.d1ev.com/newsflash/290473",
+    "https://www.d1ev.com/newsflash/290470",
+    "https://www.d1ev.com/newsflash/290474",
+    "https://www.d1ev.com/newsflash/290472",
+    "https://www.d1ev.com/newsflash/290469",
+    "https://www.d1ev.com/newsflash/290471",
+    "https://www.d1ev.com/newsflash/290468",
+    "https://www.d1ev.com/newsflash/290467",
+    "https://www.d1ev.com/newsflash/290466"
   ],
   "lastUpdated": "2026-03-07",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289430",
-      "title": "小米首款增程SUV谍照曝光，家族式设计细节首亮相",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289429",
-      "title": "小米YU7GT路试曝光：极速300km/h，预计45万起售",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289424",
-      "title": "广汽埃安i60新版本3月2日上市，增程动力升级更亲民！",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289423",
-      "title": "东风星海T5上市：15.39万起，530km纯电续航！",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289418",
-      "title": "比亚迪技术盛宴来袭：闪充2.0、刀片电池、DM6.0混动系统即将亮相",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289416",
-      "title": "埃安i60新版本官宣3月2日上市",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289428",
-      "title": "盖瑞特电动冷却压缩机重新定义中国电动客车与卡车的热管理效率与动力性能",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289427",
-      "title": "美国企业急追AI教育，沃尔玛等巨头启动大规模员工培训计划",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289422",
-      "title": "英国充电桩数量超加油站近两倍，电动车时代加速到来",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289420",
-      "title": "淘宝“白泽”AI模型免费开放，助力餐饮零售数字化治理升级",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289431",
-      "title": "极石汽车2月销量激增200%，全球扩张加速目标3万辆",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289419",
-      "title": "中德汽车链重塑：从“市场换技术”到“合规换全球”的战略转轨",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289432",
-      "title": "极石汽车2026年2月交付1298台，销量涨至上年200%",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289426",
-      "title": "比亚迪王朝网新春钜惠：7年低息+至高3万元置换补贴！",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289425",
-      "title": "特朗普下令联邦机构停用Anthropic技术，国防部响应限制业务往来",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289421",
-      "title": "长城汽车魏建军宣布：将推出麒麟元素全新旗舰SUV",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289417",
-      "title": "华为车位到车位2.0功能突破4000万次，智能泊车覆盖超百万停车场",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289415",
-      "title": "悬念拉满！长城汽车魏建军发布全新豪华旗舰车型预告",
-      "source": "第一电动",
-      "pushedAt": 1772273974570
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289439",
-      "title": "上汽大众ID.ERA9X内饰官图发布：德系美学与东方哲学融合，大六座布局打造C位体验",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289437",
-      "title": "小米“昆仑”SUV谍照曝光！增程动力，纯电续航400-500公里",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289434",
-      "title": "比亚迪海豹07EV新色亮相，705公里续航成都市新ICON",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289440",
-      "title": "AI音乐平台Suno用户破200万，年收入达3亿美元！",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289435",
-      "title": "吉利千里浩瀚系统出海，中国智驾技术全球领先",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289441",
-      "title": "吉利淦家阅透露：千里浩瀚辅助驾驶将在今年实现出海",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289438",
-      "title": "小米汽车2月新增6家门店，全国门店达488家，3月再增2家",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289433",
-      "title": "具身智能的“城市战争”：国家队双核，地方军突围",
-      "source": "第一电动",
-      "pushedAt": 1772282055979
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289445",
       "title": "奇瑞QQ3纯电动车3月10日预售，AI智舱+猎鹰500辅助驾驶，城市通勤新选择",
@@ -7374,6 +7227,60 @@
       "title": "中国汽车消费高端化：超过30%的消费者下一辆车预赛30万以上",
       "source": "第一电动",
       "pushedAt": 1772878738232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290473",
+      "title": "比亚迪腾势Z9GT震撼上市：1036公里纯电续航，5分钟闪充70%！",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290470",
+      "title": "名爵MG2概念车7月亮相，2027年量产，欧洲市场新战车！",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290474",
+      "title": "美国国防部点名AI公司Anthropic：供应链风险实体指控引发争议",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290472",
+      "title": "特斯拉加州超级充电站将扩建至400桩，EddieWorld2规模翻倍",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290469",
+      "title": "上海AI产业规模突破6300亿！2026全球开发者先锋大会即将开幕",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290471",
+      "title": "雷军警告：智能驾驶睡觉危险，呼吁加强交通安全文明体系建设",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290468",
+      "title": "腾讯楼下排长队！千人争抢免费安装“龙虾”OpenClaw云服务",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290467",
+      "title": "人社部正在研究相关政策发挥人工智能在创造新岗位和赋能传统岗位的作用",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290466",
+      "title": "奇瑞捷途G600电混越野来袭，共创官招募开启定义未来座驾",
+      "source": "第一电动",
+      "pushedAt": 1772886957437
     }
   ]
 }
