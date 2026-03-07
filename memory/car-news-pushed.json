@@ -1575,16 +1575,11 @@
     "https://www.d1ev.com/newsflash/290466",
     "https://www.d1ev.com/newsflash/290476",
     "https://www.d1ev.com/newsflash/290475",
-    "https://www.d1ev.com/newsflash/290477"
+    "https://www.d1ev.com/newsflash/290477",
+    "https://www.d1ev.com/newsflash/290480"
   ],
-  "lastUpdated": "2026-03-07",
+  "lastUpdated": "2026-03-08",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289451",
-      "title": "OpenAI员工泄露机密信息被解雇，预测市场交易引发风波",
-      "source": "第一电动",
-      "pushedAt": 1772303119812
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289452",
       "title": "小米VISIONGT概念车亮相MWC，携手《GranTurismo》打造速度新传奇",
@@ -7260,6 +7255,12 @@
       "title": "中国脑机接口技术突破在即，未来3至5年有望普及应用",
       "source": "第一电动",
       "pushedAt": 1772893179905
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290480",
+      "title": "捷途G600硬核电混越野SUV，共创未来出行新生态！",
+      "source": "第一电动",
+      "pushedAt": 1772907972977
     }
   ]
 }
