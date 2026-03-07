@@ -1572,52 +1572,13 @@
     "https://www.d1ev.com/newsflash/290471",
     "https://www.d1ev.com/newsflash/290468",
     "https://www.d1ev.com/newsflash/290467",
-    "https://www.d1ev.com/newsflash/290466"
+    "https://www.d1ev.com/newsflash/290466",
+    "https://www.d1ev.com/newsflash/290476",
+    "https://www.d1ev.com/newsflash/290475",
+    "https://www.d1ev.com/newsflash/290477"
   ],
   "lastUpdated": "2026-03-07",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289445",
-      "title": "奇瑞QQ3纯电动车3月10日预售，AI智舱+猎鹰500辅助驾驶，城市通勤新选择",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289447",
-      "title": "Meta自研AI芯片遇挫：放弃高端训练芯片，转向合作与外部供应",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289444",
-      "title": "小米汽车神秘超跑即将揭晓，或展示顶尖电动车技术",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289448",
-      "title": "德国总理默茨访华：中德经贸合作深化，汽车机械行业成焦点",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289446",
-      "title": "乐道春节出行报告：换电服务超65%，智能驾驶解放精力超46万小时",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289443",
-      "title": "阿维塔春节出行报告：辅助驾驶里程超5千万公里，避免碰撞1.17万次",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289442",
-      "title": "首付2.98万起，秦PLUS超级金融政策助力轻松购车！",
-      "source": "第一电动",
-      "pushedAt": 1772288269535
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289451",
       "title": "OpenAI员工泄露机密信息被解雇，预测市场交易引发风波",
@@ -7281,6 +7242,24 @@
       "title": "奇瑞捷途G600电混越野来袭，共创官招募开启定义未来座驾",
       "source": "第一电动",
       "pushedAt": 1772886957437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290476",
+      "title": "长城V9X全球首秀！东方美学SUV，紫金双拼色亮相",
+      "source": "第一电动",
+      "pushedAt": 1772893179905
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290475",
+      "title": "莲花ForMe插混超跑3月10日开启预订，1416km续航+3.3s破百！",
+      "source": "第一电动",
+      "pushedAt": 1772893179905
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290477",
+      "title": "中国脑机接口技术突破在即，未来3至5年有望普及应用",
+      "source": "第一电动",
+      "pushedAt": 1772893179905
     }
   ]
 }
