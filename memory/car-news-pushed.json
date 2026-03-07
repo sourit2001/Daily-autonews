@@ -1558,7 +1558,12 @@
     "https://www.d1ev.com/newsflash/290453",
     "https://www.d1ev.com/newsflash/290450",
     "https://www.d1ev.com/newsflash/290460",
-    "https://www.d1ev.com/newsflash/290451"
+    "https://www.d1ev.com/newsflash/290451",
+    "https://www.d1ev.com/newsflash/290465",
+    "https://www.d1ev.com/newsflash/290464",
+    "https://www.d1ev.com/newsflash/290463",
+    "https://www.d1ev.com/newsflash/290461",
+    "https://www.d1ev.com/newsflash/290462"
   ],
   "lastUpdated": "2026-03-07",
   "newsHistory": [
@@ -7339,6 +7344,36 @@
       "title": "美团联想联手推出“小龙虾”远程服务，395元起全国覆盖！",
       "source": "第一电动",
       "pushedAt": 1772871916221
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290465",
+      "title": "上汽通用三年推十余款新车，纯电至境世家3月17日上市",
+      "source": "第一电动",
+      "pushedAt": 1772878738232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290464",
+      "title": "华为问界M6流光青色亮相，春日新选择！",
+      "source": "第一电动",
+      "pushedAt": 1772878738232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290463",
+      "title": "莲花超跑SUV FORME即将上市，3.3秒破百，续航超1400Km！",
+      "source": "第一电动",
+      "pushedAt": 1772878738232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290461",
+      "title": "腾讯QQ开放新功能：1分钟创建AI联动QQ机器人，支持多媒体消息收发！",
+      "source": "第一电动",
+      "pushedAt": 1772878738232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290462",
+      "title": "中国汽车消费高端化：超过30%的消费者下一辆车预赛30万以上",
+      "source": "第一电动",
+      "pushedAt": 1772878738232
     }
   ]
 }
