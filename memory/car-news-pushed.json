@@ -1576,16 +1576,19 @@
     "https://www.d1ev.com/newsflash/290476",
     "https://www.d1ev.com/newsflash/290475",
     "https://www.d1ev.com/newsflash/290477",
-    "https://www.d1ev.com/newsflash/290480"
+    "https://www.d1ev.com/newsflash/290480",
+    "https://www.d1ev.com/newsflash/290488",
+    "https://www.d1ev.com/newsflash/290484",
+    "https://www.d1ev.com/carnews/xinche/290483",
+    "https://www.d1ev.com/newsflash/290486",
+    "https://www.d1ev.com/newsflash/290481",
+    "https://www.d1ev.com/news/shichang/290482",
+    "https://www.d1ev.com/carnews/xinche/290489",
+    "https://www.d1ev.com/carnews/xinche/290487",
+    "https://www.d1ev.com/newsflash/290485"
   ],
   "lastUpdated": "2026-03-08",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289452",
-      "title": "小米VISIONGT概念车亮相MWC，携手《GranTurismo》打造速度新传奇",
-      "source": "第一电动",
-      "pushedAt": 1772309966421
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289462",
       "title": "零跑A10预售在即，纯电续航超500km，同级唯一油冷电驱总成！",
@@ -7261,6 +7264,60 @@
       "title": "捷途G600硬核电混越野SUV，共创未来出行新生态！",
       "source": "第一电动",
       "pushedAt": 1772907972977
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290488",
+      "title": "比亚迪闪充战略曝光：年底2万座充电站助力油转电加速",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290484",
+      "title": "法拉利Luce纯电超跑曝光：跨界设计、1000马力、续航超498公里！",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290483",
+      "title": "连接历史与现代 Bertone Runabout新车图解",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290486",
+      "title": "比亚迪“刀片”电池升级，9分钟充电90%效率赶超燃油车",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290481",
+      "title": "OpenAI再次推迟成人模式上线，聚焦智能体验升级",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290482",
+      "title": "盖世周报 | 中东局势扰乱多家车企汽车出口；政府工作报告聚焦具身智能、飞行汽车",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290489",
+      "title": "铂智3X之后，广丰铂智7还能打吗？",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290487",
+      "title": "亏掉数十亿美元！福特叫停下一代纯电皮卡",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290485",
+      "title": "理想汽车高管转变态度：800V5C超充成增程车“幸福指数”关键",
+      "source": "第一电动",
+      "pushedAt": 1772934183041
     }
   ]
 }
