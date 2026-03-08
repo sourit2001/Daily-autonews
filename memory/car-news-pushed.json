@@ -1628,40 +1628,16 @@
     "https://www.d1ev.com/newsflash/290531",
     "https://www.d1ev.com/newsflash/290530",
     "https://www.d1ev.com/newsflash/290529",
-    "https://www.d1ev.com/newsflash/290528"
+    "https://www.d1ev.com/newsflash/290528",
+    "https://www.d1ev.com/news/shichang/290539",
+    "https://www.d1ev.com/newsflash/290537",
+    "https://www.d1ev.com/carnews/xinche/290536",
+    "https://www.d1ev.com/newsflash/290535",
+    "https://www.d1ev.com/newsflash/290534",
+    "https://www.d1ev.com/newsflash/290538"
   ],
   "lastUpdated": "2026-03-08",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289543",
-      "title": "奕派科技销量激增37%，007闪现版3月亮相！",
-      "source": "第一电动",
-      "pushedAt": 1772374831652
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289539",
-      "title": "比亚迪海豹07EV内饰曝光：705公里续航，240kW电机，纯电新选择",
-      "source": "第一电动",
-      "pushedAt": 1772374831652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289542",
-      "title": "累计出口突破600万！奇瑞2月销量背后的三大看点",
-      "source": "第一电动",
-      "pushedAt": 1772374831652
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289540",
-      "title": "GoPro对影石创新337调查落幕，产品出口美国不受限",
-      "source": "第一电动",
-      "pushedAt": 1772374831652
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289541",
-      "title": "鸿蒙智行问界2月交付量飙升，1-2月累计超5.8万台",
-      "source": "第一电动",
-      "pushedAt": 1772374831652
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289570",
       "title": "华为鸿蒙智行S800首发全球最高线束激光雷达，70万级豪车销量飙升",
@@ -7109,6 +7085,42 @@
       "title": "零跑汽车携手浙江FC，2026年销量目标100万！",
       "source": "第一电动",
       "pushedAt": 1772973415522
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290539",
+      "title": "7.98万-11.99万 2026款奔腾悦意03上市",
+      "source": "第一电动",
+      "pushedAt": 1772979671573
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290537",
+      "title": "2026款悦意03上市：7.98万起，445km/565km续航，终身质保！",
+      "source": "第一电动",
+      "pushedAt": 1772979671573
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290536",
+      "title": "2026款一汽奔腾悦意03上市 售7.98-11.99万",
+      "source": "第一电动",
+      "pushedAt": 1772979671573
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290535",
+      "title": "院士周志华提案：AI引领科研范式变革，打造复合型人才新体系",
+      "source": "第一电动",
+      "pushedAt": 1772979671573
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290534",
+      "title": "AI学伴新突破：科大讯飞刘庆峰强调个性化教育重要性",
+      "source": "第一电动",
+      "pushedAt": 1772979671573
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290538",
+      "title": "“五菱携手华为，打造智能驾驶新标杆”",
+      "source": "第一电动",
+      "pushedAt": 1772979671573
     }
   ]
 }
