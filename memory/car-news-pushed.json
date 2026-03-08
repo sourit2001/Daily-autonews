@@ -1594,142 +1594,20 @@
     "https://www.d1ev.com/newsflash/290495",
     "https://www.d1ev.com/newsflash/290493",
     "https://www.d1ev.com/news/qiye/290496",
-    "https://www.d1ev.com/newsflash/290492"
+    "https://www.d1ev.com/newsflash/290492",
+    "https://www.d1ev.com/newsflash/290506",
+    "https://www.d1ev.com/newsflash/290505",
+    "https://www.d1ev.com/newsflash/290499",
+    "https://www.d1ev.com/newsflash/290507",
+    "https://www.d1ev.com/newsflash/290503",
+    "https://www.d1ev.com/newsflash/290501",
+    "https://www.d1ev.com/newsflash/290500",
+    "https://www.d1ev.com/news/qiye/290508",
+    "https://www.d1ev.com/newsflash/290504",
+    "https://www.d1ev.com/newsflash/290502"
   ],
   "lastUpdated": "2026-03-08",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289486",
-      "title": "小米VisionGT超跑亮相MWC，中国品牌首秀未来超跑概念",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289485",
-      "title": "小米VisionGranTurismo超跑亮相MWC2026，中国品牌首秀！",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289484",
-      "title": "奇瑞QQ3电动小车3月10日预售，AI智舱+猎鹰500辅助驾驶亮相",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289482",
-      "title": "小米VisionGranTurismo超跑亮相：未来科技与空气动力学的完美结合",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289481",
-      "title": "30万级唯一满血华为MPV！岚图梦想家冠军版预售 31.99万",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289480",
-      "title": "岚图梦想家限量冠军版预售开启，31.99万起纪念20万辆下线里程碑！",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289473",
-      "title": "上汽奥迪E7X纯电SUV亮相：灯厂设计，豪华宽绰空间",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289470",
-      "title": "小米Vision GT首发亮相 年轻人的第一款超跑",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289469",
-      "title": "小米YU9谍照曝光 竖状尾灯和无边框后视镜",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289468",
-      "title": "采用全新风格设计 全新MG07内饰谍照",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289465",
-      "title": "小米VisionGT超跑概念车亮相MWC，中国品牌首秀GT赛车游戏",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289483",
-      "title": "华为鸿蒙智驾春节护航：辅助驾驶里程超3.7亿公里，避免8万次碰撞",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289479",
-      "title": "10省市试点新能源汽车里程税？官方辟谣：假的！",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289474",
-      "title": "OpenAI与美国防部达成协议，设三条红线保障技术安全",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289472",
-      "title": "辟谣：10省市试点新能源汽车里程税？官方回应：未收到通知！",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289467",
-      "title": "这家美国新势力，还熬得过今年吗？",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289478",
-      "title": "比亚迪腾势D9豪华MPV登陆菲律宾，开启东南亚市场新篇章",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289477",
-      "title": "“领克Z20语音关灯事故引热议，蔚来二次确认功能更安全”",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289476",
-      "title": "理想汽车2月销量破2.6万，累计交付超159万！",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/289475",
-      "title": "魏建军宣布：将推出麒麟元素全新旗舰SUV",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289471",
-      "title": "比亚迪汉唐家族开年钜惠：首付5.98万起，3年0息7年低息！",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289466",
-      "title": "15万以内，带NOA的车已经有这么多了？",
-      "source": "第一电动",
-      "pushedAt": 1772338829203
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289504",
       "title": "小米跨界造车！XiaomiVisionGranTurismo超跑概念车全球首发",
@@ -7309,6 +7187,66 @@
       "title": "宝骏云海车主惊魂5分钟：车辆突断电趴窝，安全堪忧",
       "source": "第一电动",
       "pushedAt": 1772942848937
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290506",
+      "title": "领克06Relive暮光紫新色上市，限时优惠高达22000元！",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290505",
+      "title": "特斯拉Semi电动卡车阿拉斯加冬测曝光，2026年量产在即",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290499",
+      "title": "鸿蒙智行问界M6星夜紫官图发布，春日亮相展现年轻魅力",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290507",
+      "title": "10kV SiC MOSFET革新登场，99%效率颠覆AI数据中心电网！",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290503",
+      "title": "特斯拉充电网络再扩张：大陆超充站达2500+，全球超8000",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290501",
+      "title": "星途EX7全球首搭航空级EMB制动系统，飞鱼底盘3.0升级来袭",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290500",
+      "title": "欧拉品牌全面焕新：打造全球时尚精品汽车新标杆",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290508",
+      "title": "特斯拉半挂官宣阿拉斯加冬测！马斯克：今年将大规模量产",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290504",
+      "title": "比亚迪闪充革命：1500KW单枪快充，5分钟充至70%！",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290502",
+      "title": "小米汽车女性车主占比攀升，雷军预测未来或达40%-50%",
+      "source": "第一电动",
+      "pushedAt": 1772951815684
     }
   ]
 }
