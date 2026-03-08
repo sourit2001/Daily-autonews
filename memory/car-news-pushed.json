@@ -1622,130 +1622,16 @@
     "https://www.d1ev.com/newsflash/290524",
     "https://www.d1ev.com/newsflash/290525",
     "https://www.d1ev.com/news/shichang/290520",
-    "https://www.d1ev.com/newsflash/290519"
+    "https://www.d1ev.com/newsflash/290519",
+    "https://www.d1ev.com/newsflash/290533",
+    "https://www.d1ev.com/newsflash/290532",
+    "https://www.d1ev.com/newsflash/290531",
+    "https://www.d1ev.com/newsflash/290530",
+    "https://www.d1ev.com/newsflash/290529",
+    "https://www.d1ev.com/newsflash/290528"
   ],
   "lastUpdated": "2026-03-08",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289533",
-      "title": "极狐阿尔法S5预售开启：11.28万起，续航1450km，3.7秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289532",
-      "title": "小鹏汽车2月销量破万，碳减排55万吨，X9纯电版即将上市",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289530",
-      "title": "蔚来公司2月交付同比增长57.6%，全新ES8完成第70,000台新车交付",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289528",
-      "title": "极狐阿尔法S5预售开启：6款新车型，11.28万起！",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289527",
-      "title": "极氪2月销量猛增70%，9X均价超53万，8X二季度上市！",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289520",
-      "title": "小鹏汽车2月交付新车15256台",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289519",
-      "title": "蔚来汽车2月交付新车20797台，同比增长57.6%",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289518",
-      "title": "极狐阿尔法S5预售开启：11.28万起，增程版续航175公里！",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289531",
-      "title": "郑州日产2月销量飙升51.5%，新能源车环比暴增95.5%！",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289529",
-      "title": "小鹏汽车2月交付超1.5万台，碳减排55万吨，迈向全球AI新十年",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289526",
-      "title": "E周看点 | 宁德时代与宝马推电池护照试点；小米超跑要来了？",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289524",
-      "title": "上汽集团2月销量下滑，新能源车产量销量双降",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289522",
-      "title": "北汽蓝谷2月销量大增18%，新能源汽车市场持续火热",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289525",
-      "title": "小智一周要闻| 广汽机器人业务独立；荣耀将推首款人形机器人",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289523",
-      "title": "比亚迪汉唐家族限时福利：首付6.98万起，3年0息7年低息购车优惠",
-      "source": "第一电动",
-      "pushedAt": 1772360490190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289536",
-      "title": "比亚迪海豹07EV亮相：705公里续航+激光雷达，中型纯电轿车新标杆",
-      "source": "第一电动",
-      "pushedAt": 1772368598873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289535",
-      "title": "岚图汽车1-2月销量增18%，3月港股上市在即！",
-      "source": "第一电动",
-      "pushedAt": 1772368598873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289538",
-      "title": "Anthropic拒AI军用遭特朗普封杀，OpenAI抢单与国防部合作",
-      "source": "第一电动",
-      "pushedAt": 1772368598873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289537",
-      "title": "奇瑞集团2月销量下滑，新能源汽车销量逆势增长",
-      "source": "第一电动",
-      "pushedAt": 1772368598873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289534",
-      "title": "小米VisionGranTurismo概念车2026年MWC首秀，科技巨头跨界汽车设计",
-      "source": "第一电动",
-      "pushedAt": 1772368598873
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289543",
       "title": "奕派科技销量激增37%，007闪现版3月亮相！",
@@ -7187,6 +7073,42 @@
       "title": "飞书API免费额度大升级，月调用次数飙升至100万次！",
       "source": "第一电动",
       "pushedAt": 1772965252761
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290533",
+      "title": "2026款一汽奔腾悦意03纯电SUV新配色上市，续航高达565公里！",
+      "source": "第一电动",
+      "pushedAt": 1772973415522
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290532",
+      "title": "深圳福田AI数智员工2.0上线，公共场所卫生许可变更“当日提交，当日预审”",
+      "source": "第一电动",
+      "pushedAt": 1772973415522
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290531",
+      "title": "AI应用Kimi订阅订单激增，2月跃居全球支付平台第9位",
+      "source": "第一电动",
+      "pushedAt": 1772973415522
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290530",
+      "title": "AI聊天机器人成非法赌场引流工具，青少年面临高风险",
+      "source": "第一电动",
+      "pushedAt": 1772973415522
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290529",
+      "title": "2月新能源车降价风暴：平均降幅达13.5%，燃油车促销率微升",
+      "source": "第一电动",
+      "pushedAt": 1772973415522
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290528",
+      "title": "零跑汽车携手浙江FC，2026年销量目标100万！",
+      "source": "第一电动",
+      "pushedAt": 1772973415522
     }
   ]
 }
