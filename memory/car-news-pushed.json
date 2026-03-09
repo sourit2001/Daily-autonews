@@ -1781,9 +1781,13 @@
     "https://www.d1ev.com/newsflash/290691",
     "https://www.d1ev.com/newsflash/290690",
     "https://www.d1ev.com/newsflash/290689",
-    "https://www.d1ev.com/newsflash/290684"
+    "https://www.d1ev.com/newsflash/290684",
+    "https://www.d1ev.com/newsflash/290701",
+    "https://www.d1ev.com/newsflash/290699",
+    "https://www.d1ev.com/newsflash/290700",
+    "https://www.d1ev.com/newsflash/290698"
   ],
-  "lastUpdated": "2026-03-09",
+  "lastUpdated": "2026-03-10",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/289714",
@@ -7220,6 +7224,30 @@
       "title": "宇树科技联手港大，共推具身智能技术产业化新突破",
       "source": "第一电动",
       "pushedAt": 1773067586396
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290701",
+      "title": "超豪华品牌纷纷回归燃油车，电动化梦想破灭？",
+      "source": "第一电动",
+      "pushedAt": 1773075171158
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290699",
+      "title": "比亚迪汉唐车主专属福利：全国闪充站1年免费充电权益来袭！",
+      "source": "第一电动",
+      "pushedAt": 1773075171158
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290700",
+      "title": "政协委员提议：私家车年检制度或将取消，转向远程监测",
+      "source": "第一电动",
+      "pushedAt": 1773075171158
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290698",
+      "title": "龙岗区“千人龙虾大会”即将开幕，Kimi助力企业智能升级！",
+      "source": "第一电动",
+      "pushedAt": 1773075171158
     }
   ]
 }
