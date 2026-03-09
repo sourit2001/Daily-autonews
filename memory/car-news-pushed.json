@@ -1654,7 +1654,29 @@
     "https://www.d1ev.com/news/shichang/290546",
     "https://www.d1ev.com/newsflash/290545",
     "https://www.d1ev.com/newsflash/290544",
-    "https://www.d1ev.com/news/shichang/290542"
+    "https://www.d1ev.com/news/shichang/290542",
+    "https://www.d1ev.com/news/shichang/290586",
+    "https://www.d1ev.com/newsflash/290585",
+    "https://www.d1ev.com/newsflash/290580",
+    "https://www.d1ev.com/newsflash/290575",
+    "https://www.d1ev.com/newsflash/290574",
+    "https://www.d1ev.com/newsflash/290571",
+    "https://www.d1ev.com/newsflash/290566",
+    "https://www.d1ev.com/newsflash/290587",
+    "https://www.d1ev.com/newsflash/290583",
+    "https://www.d1ev.com/news/qiye/290576",
+    "https://www.d1ev.com/news/qiye/290573",
+    "https://www.d1ev.com/newsflash/290569",
+    "https://www.d1ev.com/newsflash/290565",
+    "https://www.d1ev.com/newsflash/290564",
+    "https://www.d1ev.com/news/qiye/290581",
+    "https://www.d1ev.com/newsflash/290570",
+    "https://www.d1ev.com/newsflash/290568",
+    "https://www.d1ev.com/newsflash/290584",
+    "https://www.d1ev.com/news/shichang/290582",
+    "https://www.d1ev.com/newsflash/290579",
+    "https://www.d1ev.com/news/shichang/290578",
+    "https://www.d1ev.com/news/shichang/290577"
   ],
   "lastUpdated": "2026-03-09",
   "newsHistory": [
@@ -7111,6 +7133,138 @@
       "title": "【盖世快讯】国内油价将迎大涨；比亚迪李云飞谈换电闪充之争称都挺好的",
       "source": "第一电动",
       "pushedAt": 1773020749606
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290586",
+      "title": "启境首款猎装轿跑定名为“启境GT7”，将于3月17日亮相",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290585",
+      "title": "吉利银河M7即将亮相：1.5L混动+225km纯电续航，A+级SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290580",
+      "title": "问界M6新配色“钛空银”亮相，未来感十足！",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290575",
+      "title": "极氪8X内饰曝光：45万级豪华大五座，纯电续航超300km！",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290574",
+      "title": "五菱荣光纯电版上市：6.98万起，310km续航，环保内饰升级！",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290571",
+      "title": "华为启境GT7：智能猎装轿跑新标杆，6月上市！",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290566",
+      "title": "吉利银河M7中级电混SUV即将亮相，续航超1700km！",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290587",
+      "title": "高速公路服务区升级：充电桩全覆盖，老人如厕更便利，司机之家暖心服务",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290583",
+      "title": "全国高速服务区充电设施覆盖率近99%，交通部推三大服务升级行动",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290576",
+      "title": "2026年1月轿车/SUV车型销量榜：双赛道发力，自主新能源强势登顶丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290573",
+      "title": "特斯拉中国超充站突破2500座 充电团队多岗位大扩招",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290569",
+      "title": "小米前高管李创奇创业车载光伏，携手小米共拓新能源赛道",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290565",
+      "title": "董明珠：拥抱AI，传统产业创新升级正当时",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290564",
+      "title": "青岛2.5亿汽车补贴来袭，新能源车最高补1.2万！",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290581",
+      "title": "抛弃液压刹车油 全球首搭EMB电子制动！星途EX7内饰公布",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290570",
+      "title": "奇瑞星途EX7全球首搭航空级EMB系统，豪华SUV新标杆即将发布",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290568",
+      "title": "中国人工智能专利全球领先，立法研究加强保护新领域",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290584",
+      "title": "日系品牌称霸台湾车市，丰田锐放成燃油车销量王",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290582",
+      "title": "陶琳：特斯拉中国超充站突破2500座",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290579",
+      "title": "雷军两会提案：智能汽车与机器人产业迎来新元年",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290578",
+      "title": "2026年1月乘用车自主品牌销量榜：市场集中特征凸显，头部三强均破12万丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290577",
+      "title": "2026年1月乘用车集团销量榜：吉利位居榜首，车市开年竞逐启新丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1773029684299
     }
   ]
 }
