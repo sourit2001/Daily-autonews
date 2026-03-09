@@ -1696,124 +1696,35 @@
     "https://www.d1ev.com/news/shichang/290600",
     "https://www.d1ev.com/news/shichang/290599",
     "https://www.d1ev.com/news/shichang/290590",
-    "https://www.d1ev.com/news/qiye/290589"
+    "https://www.d1ev.com/news/qiye/290589",
+    "https://www.d1ev.com/newsflash/290611",
+    "https://www.d1ev.com/newsflash/290631",
+    "https://www.d1ev.com/newsflash/290629",
+    "https://www.d1ev.com/news/shichang/290627",
+    "https://www.d1ev.com/newsflash/290624",
+    "https://www.d1ev.com/newsflash/290623",
+    "https://www.d1ev.com/carnews/xinche/290617",
+    "https://www.d1ev.com/newsflash/290616",
+    "https://www.d1ev.com/newsflash/290614",
+    "https://www.d1ev.com/newsflash/290613",
+    "https://www.d1ev.com/newsflash/290612",
+    "https://www.d1ev.com/newsflash/290610",
+    "https://www.d1ev.com/news/shichang/290626",
+    "https://www.d1ev.com/newsflash/290625",
+    "https://www.d1ev.com/news/qiye/290633",
+    "https://www.d1ev.com/newsflash/290632",
+    "https://www.d1ev.com/newsflash/290630",
+    "https://www.d1ev.com/newsflash/290628",
+    "https://www.d1ev.com/news/shichang/290622",
+    "https://www.d1ev.com/news/shichang/290621",
+    "https://www.d1ev.com/carnews/xinche/290620",
+    "https://www.d1ev.com/news/qiye/290619",
+    "https://www.d1ev.com/newsflash/290618",
+    "https://www.d1ev.com/newsflash/290615",
+    "https://www.d1ev.com/news/shichang/290609"
   ],
   "lastUpdated": "2026-03-09",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289667",
-      "title": "小鹏X9纯电版MPV上市：续航750km，30.98万起！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289665",
-      "title": "小鹏X9纯电版震撼上市！续航750km，售价30.98万起",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289664",
-      "title": "宏光MINIEV新内饰曝光：甜品风设计+百变造景空间，城市代步新选择",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289663",
-      "title": "小鹏第二代VLA智驾突破传统：全球首发2027年，效率提升30%",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289660",
-      "title": "小鹏X9纯电版上市：750km续航+5C超充，30.98万起！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289659",
-      "title": "别克至境世家纯电版预售开启，10分钟充电400公里续航！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289653",
-      "title": "OpenAI与五角大楼合作引争议，三大禁用领域曝光",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289649",
-      "title": "别克至境世家纯电版开启预售，双色哑光车漆+8屏互动科技感十足",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289658",
-      "title": "比亚迪腾势Z9GT续航破千公里，3月5日科技焕新发布",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289656",
-      "title": "欧洲电动汽车产业本土化遇挫，中国电池供应链难以替代",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289652",
-      "title": "OpenAI疑似收购GPT.com域名，访问跳转至ChatGPT官网",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289666",
-      "title": "BBA集体“向北”",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289662",
-      "title": "别克GL8家族新推金辉版，3年车损超30%免费换新！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289661",
-      "title": "启辰VX6、大VDD-i虎鲸推“硬核三重保” 购车立省3万！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289657",
-      "title": "小鹏第二代VLA正式发布：实测城区通行比导航预估的还快",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289655",
-      "title": "一汽丰田RAV4荣放2.0L双擎精英版15.18万起，超低油耗4.59L/100km！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289654",
-      "title": "腾势汽车正式登陆菲律宾",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289651",
-      "title": "小米机器人工厂“实习”：90.2%安装成功率，76秒产线节拍新突破",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289650",
-      "title": "小鹏第二代VLA：智能驾驶升级，妈妈也能安心开！",
-      "source": "第一电动",
-      "pushedAt": 1772440793077
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/289688",
       "title": "2026款小鹏X9正式上市 售价30.98万元起",
@@ -6961,6 +6872,156 @@
       "title": "小鹏，能成为下一个华为吗？",
       "source": "第一电动",
       "pushedAt": 1773039455544
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290611",
+      "title": "极氪8X内饰曝光：豪华感爆棚，性能旗舰版1400马力震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290631",
+      "title": "比亚迪兆瓦闪充桩现奇景：电动摩托也能“快充”？",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290629",
+      "title": "“换电VS超快充：李斌央视对话揭示新能源车补能新趋势”",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290627",
+      "title": "新能源车三年保值率，均低于70%",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290624",
+      "title": "AI技术成电信诈骗新利器，2025年审结案件增1.2%",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290623",
+      "title": "小鹏汽车何小鹏：未来五年推高品质汽车，全自动驾驶3年内落地",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290617",
+      "title": "建议设立“智能电动车辆”一级学科，两会代表委员热议自动驾驶：人才与政策缺一不可",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290616",
+      "title": "企业微信新突破：3步接入OpenClaw，AI助手“动手干活”时代来临",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290614",
+      "title": "腾讯全场景AI智能体WorkBuddy上线：一键办公自动化，效率翻倍！",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290613",
+      "title": "火山引擎ArkClaw云AI助手上线，7天免费体验主流模型！",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290612",
+      "title": "特斯拉加州扩建超级充电站：400桩位将成全球之最",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290610",
+      "title": "长城魏牌V9X首秀：6座豪华SUV，2.0T插混动力，续航达363公里",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290626",
+      "title": "蜂巢能源1-2月海外出货量占比提升至39%",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290625",
+      "title": "特斯拉旗舰Model S和X停产在即，美国市场优惠取消",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290633",
+      "title": "雷军：小米在辅助驾驶方面下了很大功夫 很快将推出L3、L4的驾驶",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290632",
+      "title": "保时捷大动作：Taycan与Panamera将合并，燃油、插混、纯电三合一。",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290630",
+      "title": "海上风力发电机变身数据中心，合气道科技2026年挪威北海首秀",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290628",
+      "title": "云服务巨头争推“小龙虾”安装服务，百度智能云免费线下助力",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290622",
+      "title": "20亿元智能机器人产业基金落地广东",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290621",
+      "title": "电装为何执意收购罗姆？",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290620",
+      "title": "每天3000万辆车跑高速、1亿人坐轨道交通！交通运输部部长：大力推动1小时通勤圈",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290619",
+      "title": "小鹏辅助驾驶突然触发减速绕行 车主接管靠近一看冷汗直流",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290618",
+      "title": "华为加持！五菱华境S旗舰SUV通过C-NCAP安全测试",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290615",
+      "title": "特斯拉凌晨闯祸！杭州停车场7车遭殃",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290609",
+      "title": "Seeds | 时隔两月，未来不远机器人再获数亿元融资",
+      "source": "第一电动",
+      "pushedAt": 1773045685478
     }
   ]
 }
