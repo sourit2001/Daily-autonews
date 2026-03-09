@@ -1785,34 +1785,11 @@
     "https://www.d1ev.com/newsflash/290701",
     "https://www.d1ev.com/newsflash/290699",
     "https://www.d1ev.com/newsflash/290700",
-    "https://www.d1ev.com/newsflash/290698"
+    "https://www.d1ev.com/newsflash/290698",
+    "https://www.d1ev.com/news/qiye/290702"
   ],
   "lastUpdated": "2026-03-10",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289714",
-      "title": "比亚迪26年技术盛宴：仰望U7/U8/U8L携新电池技术震撼上市",
-      "source": "第一电动",
-      "pushedAt": 1772476750212
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289713",
-      "title": "10.28万起！埃安i60国民增程版210公里纯电续航震撼上市",
-      "source": "第一电动",
-      "pushedAt": 1772476750212
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289711",
-      "title": "小鹏第二代VLA惊艳亮相：无导航也能开，领先行业5倍！",
-      "source": "第一电动",
-      "pushedAt": 1772476750212
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289712",
-      "title": "10万级新爆款！埃安i60国民增程210km续航，家庭用车新选择",
-      "source": "第一电动",
-      "pushedAt": 1772476750212
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/289732",
       "title": "纯电续航632km 别克至境世家纯电版开启预售",
@@ -7248,6 +7225,12 @@
       "title": "龙岗区“千人龙虾大会”即将开幕，Kimi助力企业智能升级！",
       "source": "第一电动",
       "pushedAt": 1773075171158
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290702",
+      "title": "行驶的几百万元！川A绿牌特斯拉Cybertruck现身郑州街头",
+      "source": "第一电动",
+      "pushedAt": 1773081821050
     }
   ]
 }
