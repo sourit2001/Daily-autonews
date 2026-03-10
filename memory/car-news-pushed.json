@@ -1926,76 +1926,22 @@
     "https://www.d1ev.com/news/qiye/290855",
     "https://www.d1ev.com/newsflash/290851",
     "https://www.d1ev.com/newsflash/290850",
-    "https://www.d1ev.com/newsflash/290847"
+    "https://www.d1ev.com/newsflash/290847",
+    "https://www.d1ev.com/carnews/xinche/290866",
+    "https://www.d1ev.com/newsflash/290863",
+    "https://www.d1ev.com/newsflash/290862",
+    "https://www.d1ev.com/carnews/xinche/290861",
+    "https://www.d1ev.com/newsflash/290857",
+    "https://www.d1ev.com/newsflash/290856",
+    "https://www.d1ev.com/newsflash/290858",
+    "https://www.d1ev.com/newsflash/290867",
+    "https://www.d1ev.com/news/shichang/290865",
+    "https://www.d1ev.com/newsflash/290864",
+    "https://www.d1ev.com/newsflash/290860",
+    "https://www.d1ev.com/carnews/xinche/290859"
   ],
   "lastUpdated": "2026-03-10",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289855",
-      "title": "蔚来ES9技术突破：全球首款线控转向SUV，4月9日亮相",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289854",
-      "title": "小米VisionGranTurismo概念车全球首发，中国设计闪耀模拟赛车舞台",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289850",
-      "title": "蔚来ES9旗舰SUV即将亮相，4月9日技���发布，新增辅助驾驶功能",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289846",
-      "title": "蔚来ES9即将亮相，旗舰SUV搭载激光雷达，续航超600km！",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/289852",
-      "title": "【全球汽车新技术观察】2月上期〡梅赛德斯-奔驰申请头部按摩座椅专利；比亚迪发布天神之眼5.0 ；研究团队将薰衣草废料转化为钠电池阳极材料",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289849",
-      "title": "AI模拟核危机：95%选择核武器，人类和平策略失效？",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289847",
-      "title": "小米SU7新世代来袭：续航破千公里，智能驾驶升级！",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289853",
-      "title": "美以冲突波及中东，亚马逊云服务遭重创",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289851",
-      "title": "江苏男子酒后开辅助驾驶酿车祸，被判拘役并罚4000元",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289848",
-      "title": "华为技术加持，启境猎装轿跑冰雪挑战成绩亮眼",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/289844",
-      "title": "雷军：3月4日起 小米新一代SU7实车陆续进店",
-      "source": "第一电动",
-      "pushedAt": 1772548907685
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289858",
       "title": "奥迪E5雪地作画创纪录，125091.66平方米轮胎画送祝福",
@@ -7467,6 +7413,78 @@
       "title": "尚界H5获20万内唯一超五星安全认证，C-NCAP得分93.8%",
       "source": "第一电动",
       "pushedAt": 1773146806577
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290866",
+      "title": "奇瑞QQ3开启预售 预售价6.892-8.9985万元",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290863",
+      "title": "莲花汽车首款混动SUV FORME预售，性能强悍售价52.8万起",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290862",
+      "title": "小米概念超跑XiaomiVisionGranTurismo设计手稿曝光，未来感十足",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290861",
+      "title": "奇瑞QQ3 EV预售价6.892万起 搭载AI灵犀智舱/猎鹰500辅助驾驶",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290857",
+      "title": "“7990元起！零际X7电摩全球首发，都市科技潮摩新选择”",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290856",
+      "title": "奇瑞QQ3EV预售开启！6.89万起，310-420km续航，智能配置丰富",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290858",
+      "title": "中国企业加速欧洲布局：生产研发中心成新趋势",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290867",
+      "title": "魏建军央视直播力挺长城V9X：打破豪车出身论，定义中国汽车新豪华",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290865",
+      "title": "不到7万元的奇瑞QQ3，要掀翻纯电小车市场？",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290864",
+      "title": "蔚来换电站突破3700座，1亿次换电节省超8000万小时！",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290860",
+      "title": "蔚来首季盈利12.5亿，李斌预言销量增40%-50%",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290859",
+      "title": "12.5亿元！蔚来11年首次季度盈利，换电站累计投入超180亿，李斌赌对了？",
+      "source": "第一电动",
+      "pushedAt": 1773153866620
     }
   ]
 }
