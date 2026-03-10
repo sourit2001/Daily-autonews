@@ -1786,7 +1786,29 @@
     "https://www.d1ev.com/newsflash/290699",
     "https://www.d1ev.com/newsflash/290700",
     "https://www.d1ev.com/newsflash/290698",
-    "https://www.d1ev.com/news/qiye/290702"
+    "https://www.d1ev.com/news/qiye/290702",
+    "https://www.d1ev.com/carnews/xinche/290724",
+    "https://www.d1ev.com/carnews/xinche/290722",
+    "https://www.d1ev.com/carnews/xinche/290709",
+    "https://www.d1ev.com/carnews/xinche/290723",
+    "https://www.d1ev.com/newsflash/290719",
+    "https://www.d1ev.com/newsflash/290718",
+    "https://www.d1ev.com/news/shichang/290712",
+    "https://www.d1ev.com/news/shichang/290707",
+    "https://www.d1ev.com/newsflash/290703",
+    "https://www.d1ev.com/news/shichang/290714",
+    "https://www.d1ev.com/newsflash/290725",
+    "https://www.d1ev.com/news/shichang/290721",
+    "https://www.d1ev.com/news/shichang/290720",
+    "https://www.d1ev.com/carnews/xinche/290717",
+    "https://www.d1ev.com/carnews/xinche/290716",
+    "https://www.d1ev.com/news/shichang/290715",
+    "https://www.d1ev.com/newsflash/290713",
+    "https://www.d1ev.com/newsflash/290711",
+    "https://www.d1ev.com/news/shichang/290708",
+    "https://www.d1ev.com/news/shichang/290706",
+    "https://www.d1ev.com/news/qiye/290705",
+    "https://www.d1ev.com/newsflash/290704"
   ],
   "lastUpdated": "2026-03-10",
   "newsHistory": [
@@ -7231,6 +7253,138 @@
       "title": "行驶的几百万元！川A绿牌特斯拉Cybertruck现身郑州街头",
       "source": "第一电动",
       "pushedAt": 1773081821050
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290724",
+      "title": "油价飙升推动电动车需求 多款新车将上市",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290722",
+      "title": "配副驾双联屏 极氪8X内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290709",
+      "title": "2026年第10周（3.2-3.8）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290723",
+      "title": "斯巴鲁第四款电动车今年下半年登陆北美",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290719",
+      "title": "宁德时代2025年净利润超722亿 动力电池全球市占率39.2%",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290718",
+      "title": "英伟达推NemoClaw AI平台：打破硬件绑定，企业级安全新选择",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290712",
+      "title": "从安徽到上海，蔚来“加码”电动汽车心脏",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290707",
+      "title": "梅赛德斯-奔驰联合非夕科技推出汽车自动充电新范式",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290703",
+      "title": "宁德时代2025年营收破4000亿 动力储能电池全球领先",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290714",
+      "title": "伊朗，对全球汽车影响这么大！",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290725",
+      "title": "小鹏第二代VLA开放试驾，智能驾驶新纪元来临！",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290721",
+      "title": "Seeds | 魔法原子官宣5亿新融资",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290720",
+      "title": "颠覆传统HIL！同星仿真测试方案如何帮车企大幅降本增效",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290717",
+      "title": "福特CEO称澳大利亚需要一款全新Ute",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290716",
+      "title": "Mustang Dark Horse SC起售价或超10万美元",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290715",
+      "title": "空气悬架“心”动力：保隆科技和博邦以无刷电机技术赋能ASU，重塑驾乘新体验​",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290713",
+      "title": "理想汽车第三代增程系统L9Livis即将发布，技术认知转变引关注",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290711",
+      "title": "大众“真香”增程技术：从质疑到量产的六年转变",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290708",
+      "title": "2026年，国内汽车零部件供应商扎堆并购？",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290706",
+      "title": "【盖世快讯】最高法明确醉酒后启用辅助驾驶要承担刑责；启境首款智能猎装车定名GT7",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290705",
+      "title": "增程怎没人喷了？理想高管：支持的品牌也做了 不好意思喷",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290704",
+      "title": "ChatGPT联手Shazam，音乐识别功能升级，听歌识曲更便捷！",
+      "source": "第一电动",
+      "pushedAt": 1773106085988
     }
   ]
 }
