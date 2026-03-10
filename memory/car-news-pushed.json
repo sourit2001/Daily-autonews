@@ -1938,22 +1938,13 @@
     "https://www.d1ev.com/news/shichang/290865",
     "https://www.d1ev.com/newsflash/290864",
     "https://www.d1ev.com/newsflash/290860",
-    "https://www.d1ev.com/carnews/xinche/290859"
+    "https://www.d1ev.com/carnews/xinche/290859",
+    "https://www.d1ev.com/newsflash/290874",
+    "https://www.d1ev.com/newsflash/290875",
+    "https://www.d1ev.com/newsflash/290873"
   ],
-  "lastUpdated": "2026-03-10",
+  "lastUpdated": "2026-03-11",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289858",
-      "title": "奥迪E5雪地作画创纪录，125091.66平方米轮胎画送祝福",
-      "source": "第一电动",
-      "pushedAt": 1772556009500
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/289857",
-      "title": "丰田利润暴跌43%，财务高管近健太接任CEO能否扭转乾坤？",
-      "source": "第一电动",
-      "pushedAt": 1772556009500
-    },
     {
       "url": "https://www.d1ev.com/newsflash/289859",
       "title": "蔚来乐道L90激光雷达版来袭，智能化升级，二季度见！",
@@ -7485,6 +7476,24 @@
       "title": "12.5亿元！蔚来11年首次季度盈利，换电站累计投入超180亿，李斌赌对了？",
       "source": "第一电动",
       "pushedAt": 1773153866620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290874",
+      "title": "鸿蒙智行2月销量解析：问界M7破万，M6即将上市提振销量",
+      "source": "第一电动",
+      "pushedAt": 1773161557423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290875",
+      "title": "谷歌AI助手Gemini升级：一键生成文档、表格、PPT！",
+      "source": "第一电动",
+      "pushedAt": 1773161557423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290873",
+      "title": "新能源车险降价，燃油车主保费却上涨！车险定价逻辑大变",
+      "source": "第一电动",
+      "pushedAt": 1773161557423
     }
   ]
 }
