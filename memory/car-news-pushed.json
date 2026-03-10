@@ -1941,7 +1941,8 @@
     "https://www.d1ev.com/carnews/xinche/290859",
     "https://www.d1ev.com/newsflash/290874",
     "https://www.d1ev.com/newsflash/290875",
-    "https://www.d1ev.com/newsflash/290873"
+    "https://www.d1ev.com/newsflash/290873",
+    "https://www.d1ev.com/newsflash/290876"
   ],
   "lastUpdated": "2026-03-11",
   "newsHistory": [
@@ -7494,6 +7495,12 @@
       "title": "新能源车险降价，燃油车主保费却上涨！车险定价逻辑大变",
       "source": "第一电动",
       "pushedAt": 1773161557423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290876",
+      "title": "MG4X纯电SUV亮相：510km续航+半固态电池，10万级新选择",
+      "source": "第一电动",
+      "pushedAt": 1773167987837
     }
   ]
 }
