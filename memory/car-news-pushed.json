@@ -1942,16 +1942,29 @@
     "https://www.d1ev.com/newsflash/290874",
     "https://www.d1ev.com/newsflash/290875",
     "https://www.d1ev.com/newsflash/290873",
-    "https://www.d1ev.com/newsflash/290876"
+    "https://www.d1ev.com/newsflash/290876",
+    "https://www.d1ev.com/carnews/xinche/290896",
+    "https://www.d1ev.com/newsflash/290889",
+    "https://www.d1ev.com/newsflash/290886",
+    "https://www.d1ev.com/newsflash/290881",
+    "https://www.d1ev.com/carnews/xinche/290879",
+    "https://www.d1ev.com/news/qiye/290877",
+    "https://www.d1ev.com/carnews/xinche/290895",
+    "https://www.d1ev.com/news/shichang/290894",
+    "https://www.d1ev.com/newsflash/290893",
+    "https://www.d1ev.com/newsflash/290892",
+    "https://www.d1ev.com/newsflash/290890",
+    "https://www.d1ev.com/newsflash/290885",
+    "https://www.d1ev.com/newsflash/290884",
+    "https://www.d1ev.com/newsflash/290882",
+    "https://www.d1ev.com/newsflash/290880",
+    "https://www.d1ev.com/news/shichang/290887",
+    "https://www.d1ev.com/news/shichang/290891",
+    "https://www.d1ev.com/news/shichang/290888",
+    "https://www.d1ev.com/news/shichang/290878"
   ],
   "lastUpdated": "2026-03-11",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/289859",
-      "title": "蔚来乐道L90激光雷达版来袭，智能化升级，二季度见！",
-      "source": "第一电动",
-      "pushedAt": 1772563209177
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/289878",
       "title": "定位旗舰大型SUV 蔚来ES9将于4月9日亮相",
@@ -7501,6 +7514,120 @@
       "title": "MG4X纯电SUV亮相：510km续航+半固态电池，10万级新选择",
       "source": "第一电动",
       "pushedAt": 1773167987837
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290896",
+      "title": "全新奇瑞QQ3预售2小时 订单破两万台",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290889",
+      "title": "蔚来一季度销量预增40%-50%，三款新车型即将上市",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290886",
+      "title": "小米VGT跑车手稿曝光：未来科技感爆棚的纯电动智能超跑",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290881",
+      "title": "莲花科技ForMe旗舰SUV预售开启，52.8万起，性能超兰博基尼Urus！",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290879",
+      "title": "性能驾趣再进阶 全新AMG GLC 53新车图解",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/290877",
+      "title": "一代国民神车回归！全新奇瑞QQ3预售2小时 订单破两万",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/290895",
+      "title": "纯电续航超700km 奔驰VLE正式发布",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290894",
+      "title": "全球新能源畅销榜：小米YU7首次摘银，吉利再超特斯拉",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290893",
+      "title": "AI赋能教育变革：北邮校长徐坤谈智慧成长空间构建",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290892",
+      "title": "奔驰VLE纯电MPV登场：续航超700km，豪华与科技兼备！",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290890",
+      "title": "谷歌AI智能体助力美军，300万人员将部署GeminiAI",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290885",
+      "title": "Patreon CEO炮轰AI巨头：创作者权益被忽视，呼吁合理报酬机制",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290884",
+      "title": "美国员工信心下滑，科技行业情绪低迷：AI冲击就业前景？",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290882",
+      "title": "奔驰2028款VLE发布：豪华大型座驾，700km续航，支持8K娱乐系统",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/290880",
+      "title": "甲骨文董事长：AI不会引发SaaS末日，我们正成为颠覆者",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290887",
+      "title": "晓莺说 | 欧洲：迟疑、阵痛与再平衡",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290891",
+      "title": "辅助驾驶功能受限 政策与技术的错位之痛",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290888",
+      "title": "896线激光雷达上车后，尊界S800主动安全到底多强？",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/290878",
+      "title": "【盖世快讯】宁德时代2025年净利润722亿元；李鹏程将任大众安徽首席营销官",
+      "source": "第一电动",
+      "pushedAt": 1773192453956
     }
   ]
 }
