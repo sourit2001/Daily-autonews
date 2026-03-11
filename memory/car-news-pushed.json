@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/288202",
     "https://www.d1ev.com/news/shichang/288196",
     "https://www.d1ev.com/news/shichang/288195",
     "https://www.d1ev.com/news/shichang/288194",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/291018",
     "https://www.d1ev.com/carnews/xinche/291016",
     "https://www.d1ev.com/newsflash/291035",
-    "https://www.d1ev.com/newsflash/291034"
+    "https://www.d1ev.com/newsflash/291034",
+    "https://www.d1ev.com/newsflash/291036"
   ],
   "lastUpdated": "2026-03-12",
   "newsHistory": [
@@ -7378,6 +7378,12 @@
       "title": "荣耀MagicPad3Pro升级：一键Linux环境+PC模式新体验",
       "source": "第一电动",
       "pushedAt": 1773247484941
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291036",
+      "title": "保时捷2025财年营收利润双降，中国市场大跌26%，全球销量下滑10%",
+      "source": "第一电动",
+      "pushedAt": 1773254804128
     }
   ]
 }
