@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/288205",
-    "https://www.d1ev.com/news/qiye/288204",
     "https://www.d1ev.com/news/qiye/288202",
     "https://www.d1ev.com/news/shichang/288196",
     "https://www.d1ev.com/news/shichang/288195",
@@ -1999,9 +1997,11 @@
     "https://www.d1ev.com/newsflash/291023",
     "https://www.d1ev.com/newsflash/291019",
     "https://www.d1ev.com/newsflash/291018",
-    "https://www.d1ev.com/carnews/xinche/291016"
+    "https://www.d1ev.com/carnews/xinche/291016",
+    "https://www.d1ev.com/newsflash/291035",
+    "https://www.d1ev.com/newsflash/291034"
   ],
-  "lastUpdated": "2026-03-11",
+  "lastUpdated": "2026-03-12",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/carnews/xinche/290073",
@@ -7366,6 +7366,18 @@
       "title": "专访全国人大代表姚佐平：汽车产业智能化转型升级已成生存发展“必答题”",
       "source": "第一电动",
       "pushedAt": 1773240177098
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291035",
+      "title": "保时捷在华销量连跌四年，经销门店将大幅缩减至80家",
+      "source": "第一电动",
+      "pushedAt": 1773247484941
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291034",
+      "title": "荣耀MagicPad3Pro升级：一键Linux环境+PC模式新体验",
+      "source": "第一电动",
+      "pushedAt": 1773247484941
     }
   ]
 }
