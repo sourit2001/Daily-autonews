@@ -1,23 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/288196",
-    "https://www.d1ev.com/news/shichang/288195",
-    "https://www.d1ev.com/news/shichang/288194",
-    "https://www.d1ev.com/newsflash/288217",
-    "https://www.d1ev.com/carnews/xinche/288216",
-    "https://www.d1ev.com/carnews/xinche/288215",
-    "https://www.d1ev.com/newsflash/288214",
-    "https://www.d1ev.com/carnews/xinche/288221",
-    "https://www.d1ev.com/newsflash/288219",
-    "https://www.d1ev.com/newsflash/288218",
-    "https://www.d1ev.com/newsflash/288213",
-    "https://www.d1ev.com/news/shichang/288220",
-    "https://www.d1ev.com/news/shichang/288227",
-    "https://www.d1ev.com/newsflash/288224",
-    "https://www.d1ev.com/newsflash/288222",
-    "https://www.d1ev.com/newsflash/288239",
-    "https://www.d1ev.com/news/shichang/288230",
-    "https://www.d1ev.com/newsflash/288228",
     "https://www.d1ev.com/news/shichang/288241",
     "https://www.d1ev.com/news/qiye/288233",
     "https://www.d1ev.com/news/shichang/288229",
@@ -1999,7 +1981,25 @@
     "https://www.d1ev.com/carnews/xinche/291016",
     "https://www.d1ev.com/newsflash/291035",
     "https://www.d1ev.com/newsflash/291034",
-    "https://www.d1ev.com/newsflash/291036"
+    "https://www.d1ev.com/newsflash/291036",
+    "https://www.d1ev.com/carnews/xinche/291052",
+    "https://www.d1ev.com/newsflash/291041",
+    "https://www.d1ev.com/carnews/xinche/291040",
+    "https://www.d1ev.com/newsflash/291055",
+    "https://www.d1ev.com/news/shichang/291051",
+    "https://www.d1ev.com/newsflash/291049",
+    "https://www.d1ev.com/newsflash/291048",
+    "https://www.d1ev.com/newsflash/291046",
+    "https://www.d1ev.com/newsflash/291045",
+    "https://www.d1ev.com/newsflash/291043",
+    "https://www.d1ev.com/news/shichang/291039",
+    "https://www.d1ev.com/news/shichang/291038",
+    "https://www.d1ev.com/newsflash/291037",
+    "https://www.d1ev.com/carnews/xinche/291054",
+    "https://www.d1ev.com/carnews/xinche/291053",
+    "https://www.d1ev.com/news/shichang/291050",
+    "https://www.d1ev.com/news/qiye/291047",
+    "https://www.d1ev.com/newsflash/291042"
   ],
   "lastUpdated": "2026-03-12",
   "newsHistory": [
@@ -7384,6 +7384,114 @@
       "title": "保时捷2025财年营收利润双降，中国市场大跌26%，全球销量下滑10%",
       "source": "第一电动",
       "pushedAt": 1773254804128
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291052",
+      "title": "岚图泰山X8将于3月19日亮相 配四激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291041",
+      "title": "长城魏牌V9X六座SUV内饰曝光：豪华配置堪比移动豪宅",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291040",
+      "title": "更具可玩性 丰田YARIS Z URBANO新车图解",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291055",
+      "title": "比亚迪二代刀片电池闪充技术：5分钟充电70%，领先全球！",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291051",
+      "title": "波斯湾烽火，验证中国新能源汽车真正价值",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291049",
+      "title": "AI项目经理来袭：Perplexity推出全天候云端智能体服务",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291048",
+      "title": "英伟达20亿美元注资Nebius 共拓AI云服务新纪元",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291046",
+      "title": "“车电分离”车险新模式：新能源车险市场迎来变革",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291045",
+      "title": "百度萝卜快跑将搭载千线激光雷达，自动驾驶迈入新时代",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291043",
+      "title": "英伟达发布1200亿参数AI大模型Nemotron3Super：性能翻倍，推理加速3倍！",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291039",
+      "title": "【盖世快讯】追觅发布三款芯片，涵盖自动驾驶领域；比亚迪加入国际汽车工作组",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291038",
+      "title": "运费40万美元/天、新能源多卖36万辆？中车“中东战场”得与失",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291037",
+      "title": "英伟达豪掷260亿美元！AI芯片霸主转型顶尖AI实验室",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291054",
+      "title": "Ram将于2027年重启小型商用车兼顾实用性",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291053",
+      "title": "保时捷或将推出定位高于911的新旗舰跑车",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291050",
+      "title": "雷诺新战略没有中国，却越来越离不开中国",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291047",
+      "title": "复活后的奇瑞QQ，决定换个方向",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291042",
+      "title": "北京亦庄半程马拉松开启“人机共跑”新时代，京东助力机器人竞技",
+      "source": "第一电动",
+      "pushedAt": 1773278841240
     }
   ]
 }
