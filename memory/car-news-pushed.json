@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288388",
-    "https://www.d1ev.com/news/qiye/288387",
-    "https://www.d1ev.com/newsflash/288386",
-    "https://www.d1ev.com/news/shichang/288392",
     "https://www.d1ev.com/newsflash/288398",
     "https://www.d1ev.com/news/shichang/288393",
     "https://www.d1ev.com/newsflash/288391",
@@ -1999,9 +1995,13 @@
     "https://www.d1ev.com/newsflash/291204",
     "https://www.d1ev.com/newsflash/291202",
     "https://www.d1ev.com/newsflash/291200",
-    "https://www.d1ev.com/newsflash/291197"
+    "https://www.d1ev.com/newsflash/291197",
+    "https://www.d1ev.com/newsflash/291215",
+    "https://www.d1ev.com/newsflash/291212",
+    "https://www.d1ev.com/newsflash/291214",
+    "https://www.d1ev.com/newsflash/291213"
   ],
-  "lastUpdated": "2026-03-12",
+  "lastUpdated": "2026-03-13",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/290269",
@@ -7210,6 +7210,30 @@
       "title": "特斯拉Optimus3夏季投产，马斯克预言年产1000万台机器人时代将至",
       "source": "第一电动",
       "pushedAt": 1773326694955
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291215",
+      "title": "理想汽车2026年目标20万销量，L9搭载800V平台及自研芯片",
+      "source": "第一电动",
+      "pushedAt": 1773334537970
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291212",
+      "title": "Stellantis寻求中国资本注入欧洲业务，小米小鹏或入股玛莎拉蒂",
+      "source": "第一电动",
+      "pushedAt": 1773334537970
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291214",
+      "title": "比亚迪宣布2026年前全国建2万座闪充站，覆盖90%城区区域",
+      "source": "第一电动",
+      "pushedAt": 1773334537970
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291213",
+      "title": "宁德时代财报亮眼：营收4237亿，净利润722亿超车企总和",
+      "source": "第一电动",
+      "pushedAt": 1773334537970
     }
   ]
 }
