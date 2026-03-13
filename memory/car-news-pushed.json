@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288548",
-    "https://www.d1ev.com/newsflash/288556",
     "https://www.d1ev.com/newsflash/288555",
     "https://www.d1ev.com/newsflash/288554",
     "https://www.d1ev.com/newsflash/288552",
@@ -1999,9 +1997,11 @@
     "https://www.d1ev.com/newsflash/291368",
     "https://www.d1ev.com/newsflash/291366",
     "https://www.d1ev.com/newsflash/291364",
-    "https://www.d1ev.com/newsflash/291363"
+    "https://www.d1ev.com/newsflash/291363",
+    "https://www.d1ev.com/news/shichang/291384",
+    "https://www.d1ev.com/newsflash/291383"
   ],
-  "lastUpdated": "2026-03-13",
+  "lastUpdated": "2026-03-14",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/290433",
@@ -7228,6 +7228,18 @@
       "title": "宝马2025年营收利润双降，中国销量跌至四年最低",
       "source": "第一电动",
       "pushedAt": 1773412901461
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291384",
+      "title": "不懂赛车，也能看懂F1上海站吗？零基础看懂全攻略",
+      "source": "第一电动",
+      "pushedAt": 1773426849836
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291383",
+      "title": "吉利银河M7震撼下线：200万里程碑，A+级SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1773426849836
     }
   ]
 }
