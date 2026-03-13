@@ -1,27 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288398",
-    "https://www.d1ev.com/news/shichang/288393",
-    "https://www.d1ev.com/newsflash/288391",
-    "https://www.d1ev.com/newsflash/288397",
-    "https://www.d1ev.com/newsflash/288396",
-    "https://www.d1ev.com/newsflash/288395",
-    "https://www.d1ev.com/newsflash/288402",
-    "https://www.d1ev.com/newsflash/288401",
-    "https://www.d1ev.com/newsflash/288399",
-    "https://www.d1ev.com/newsflash/288403",
-    "https://www.d1ev.com/news/shichang/288400",
-    "https://www.d1ev.com/newsflash/288405",
-    "https://www.d1ev.com/newsflash/288404",
-    "https://www.d1ev.com/newsflash/288411",
-    "https://www.d1ev.com/newsflash/288414",
-    "https://www.d1ev.com/newsflash/288413",
-    "https://www.d1ev.com/newsflash/288409",
-    "https://www.d1ev.com/newsflash/288410",
-    "https://www.d1ev.com/newsflash/288421",
-    "https://www.d1ev.com/newsflash/288419",
-    "https://www.d1ev.com/newsflash/288418",
-    "https://www.d1ev.com/newsflash/288415",
     "https://www.d1ev.com/newsflash/288423",
     "https://www.d1ev.com/newsflash/288422",
     "https://www.d1ev.com/newsflash/288417",
@@ -1999,34 +1977,32 @@
     "https://www.d1ev.com/newsflash/291215",
     "https://www.d1ev.com/newsflash/291212",
     "https://www.d1ev.com/newsflash/291214",
-    "https://www.d1ev.com/newsflash/291213"
+    "https://www.d1ev.com/newsflash/291213",
+    "https://www.d1ev.com/carnews/xinche/291237",
+    "https://www.d1ev.com/newsflash/291230",
+    "https://www.d1ev.com/carnews/xinche/291228",
+    "https://www.d1ev.com/newsflash/291232",
+    "https://www.d1ev.com/newsflash/291229",
+    "https://www.d1ev.com/news/qiye/291225",
+    "https://www.d1ev.com/news/shichang/291223",
+    "https://www.d1ev.com/news/shichang/291218",
+    "https://www.d1ev.com/newsflash/291219",
+    "https://www.d1ev.com/carnews/xinche/291238",
+    "https://www.d1ev.com/carnews/xinche/291236",
+    "https://www.d1ev.com/news/shichang/291235",
+    "https://www.d1ev.com/news/shichang/291234",
+    "https://www.d1ev.com/news/shichang/291233",
+    "https://www.d1ev.com/newsflash/291231",
+    "https://www.d1ev.com/carnews/xinche/291227",
+    "https://www.d1ev.com/carnews/xinche/291226",
+    "https://www.d1ev.com/newsflash/291224",
+    "https://www.d1ev.com/news/shichang/291222",
+    "https://www.d1ev.com/news/shichang/291221",
+    "https://www.d1ev.com/news/shichang/291217",
+    "https://www.d1ev.com/news/shichang/291216"
   ],
   "lastUpdated": "2026-03-13",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290269",
-      "title": "奔驰吉利联手打造全新电动车平台，预计2030年亮相",
-      "source": "第一电动",
-      "pushedAt": 1772733533485
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290268",
-      "title": "OpenAI新突破：BiDi语音模型让AI对话更自然",
-      "source": "第一电动",
-      "pushedAt": 1772733533485
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290270",
-      "title": "上汽大众ID.ERA9X宁波量产启动，高端增程SUV新标杆诞生",
-      "source": "第一电动",
-      "pushedAt": 1772733533485
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290271",
-      "title": "比亚迪海豹07EV上市！705公里续航+天神之眼5.0技术",
-      "source": "第一电动",
-      "pushedAt": 1772749584135
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290296",
       "title": "小米雷军两会发声：2000亿投AI芯片，新一代SU7即将亮相",
@@ -7234,6 +7210,138 @@
       "title": "宁德时代财报亮眼：营收4237亿，净利润722亿超车企总和",
       "source": "第一电动",
       "pushedAt": 1773334537970
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291237",
+      "title": "大众ID.3大改款定名ID.3 Neo 下半年上市",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291230",
+      "title": "Lucid发布中型电动SUV平台，三款新车型亮相，起价低于5万美元",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291228",
+      "title": "设计师曝光阿尔法·罗密欧五款夭折车型",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291232",
+      "title": "小米SU7新世代来袭：续航升级，智能豪华全面进化！",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291229",
+      "title": "理想汽车2026年车型将全面采用双电池路线，月交付能力有望达2万台",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291225",
+      "title": "造出固态电池，用上2nm芯片！追觅造车真有活？",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291223",
+      "title": "闭环了！机器人，给机器人造电池",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291218",
+      "title": "2月乘用车市场遇阶段性低谷，新能源板块“内冷外热”",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291219",
+      "title": "伊朗瞄准美国科技巨头中东办事处：谷歌、亚马逊等成新目标",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291238",
+      "title": "沃尔沃EX90与ES90正式登陆菲律宾市场",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291236",
+      "title": "颜色小清新 保时捷Taycan旅行特别版发布",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291235",
+      "title": "新势力高管们去了更新的势力",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291234",
+      "title": "Seeds | 瞬恒智能连续完成三轮融资",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291233",
+      "title": "汽车销售：“以前骗消费者，现在骗自己”",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291231",
+      "title": "小米SU7本月发布：22.99万起，智能驾驶全面升级！",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291227",
+      "title": "余承东官宣智界V9四款配色 经得起细品",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291226",
+      "title": "宝马首款硬派豪华SUV预计2029投产",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291224",
+      "title": "寒武纪年报出炉：营收暴增453%，净利润扭亏为盈达20亿",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291222",
+      "title": "中国Robotaxi，与特斯拉、Waymo终有一战",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291221",
+      "title": "2026的关键战，“打”在人上",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291217",
+      "title": "宝马集团2025年财报：德系三强中唯一的利润“守城者”",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291216",
+      "title": "【盖世快讯】2026年1月中国占世界汽车份额33%；曝追觅汽车60万起售",
+      "source": "第一电动",
+      "pushedAt": 1773365521933
     }
   ]
 }
