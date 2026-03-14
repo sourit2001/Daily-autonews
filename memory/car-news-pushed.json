@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288555",
-    "https://www.d1ev.com/newsflash/288554",
     "https://www.d1ev.com/newsflash/288552",
     "https://www.d1ev.com/newsflash/288551",
     "https://www.d1ev.com/newsflash/288550",
@@ -1999,40 +1997,12 @@
     "https://www.d1ev.com/newsflash/291364",
     "https://www.d1ev.com/newsflash/291363",
     "https://www.d1ev.com/news/shichang/291384",
-    "https://www.d1ev.com/newsflash/291383"
+    "https://www.d1ev.com/newsflash/291383",
+    "https://www.d1ev.com/news/qiye/291386",
+    "https://www.d1ev.com/newsflash/291385"
   ],
   "lastUpdated": "2026-03-14",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290433",
-      "title": "阿维塔12遭集体投诉：73天大改款背刺老车主，官方回应",
-      "source": "第一电动",
-      "pushedAt": 1772822197125
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/290434",
-      "title": "配置微调智能出众 奥迪Q6 e-tron新车图解",
-      "source": "第一电动",
-      "pushedAt": 1772846714355
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290436",
-      "title": "武汉高速惊魂：司机开“智驾”犯困撞施工区，安全带保命",
-      "source": "第一电动",
-      "pushedAt": 1772846714355
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290435",
-      "title": "软银拟400亿美元贷款注资OpenAI，孙正义AI豪赌再升级",
-      "source": "第一电动",
-      "pushedAt": 1772846714355
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290437",
-      "title": "Meta或接手Stargate数据中心，英伟达1.5亿定金助力谈判",
-      "source": "第一电动",
-      "pushedAt": 1772846714355
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290441",
       "title": "问界M6新配色“流光青”亮相，春日活力与科技感并存",
@@ -7240,6 +7210,18 @@
       "title": "吉利银河M7震撼下线：200万里程碑，A+级SUV新标杆",
       "source": "第一电动",
       "pushedAt": 1773426849836
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291386",
+      "title": "起步半固态能跑500多公里！10万级纯电SUV上汽MG 4X申报",
+      "source": "第一电动",
+      "pushedAt": 1773451670473
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291385",
+      "title": "AI升级！ChatGPT与Claude变身交互式学习工具，数学科学概念直观体验",
+      "source": "第一电动",
+      "pushedAt": 1773451670473
     }
   ]
 }
