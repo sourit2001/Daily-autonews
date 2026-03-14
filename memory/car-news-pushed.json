@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288576",
-    "https://www.d1ev.com/newsflash/288582",
-    "https://www.d1ev.com/newsflash/288581",
-    "https://www.d1ev.com/newsflash/288584",
     "https://www.d1ev.com/newsflash/288583",
     "https://www.d1ev.com/newsflash/288589",
     "https://www.d1ev.com/carnews/xinche/288594",
@@ -1999,40 +1995,14 @@
     "https://www.d1ev.com/newsflash/291409",
     "https://www.d1ev.com/newsflash/291407",
     "https://www.d1ev.com/newsflash/291406",
-    "https://www.d1ev.com/newsflash/291413"
+    "https://www.d1ev.com/newsflash/291413",
+    "https://www.d1ev.com/newsflash/291419",
+    "https://www.d1ev.com/newsflash/291417",
+    "https://www.d1ev.com/newsflash/291416",
+    "https://www.d1ev.com/newsflash/291418"
   ],
   "lastUpdated": "2026-03-14",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290465",
-      "title": "上汽通用三年推十余款新车，纯电至境世家3月17日上市",
-      "source": "第一电动",
-      "pushedAt": 1772878738232
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290464",
-      "title": "华为问界M6流光青色亮相，春日新选择！",
-      "source": "第一电动",
-      "pushedAt": 1772878738232
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290463",
-      "title": "莲花超跑SUV FORME即将上市，3.3秒破百，续航超1400Km！",
-      "source": "第一电动",
-      "pushedAt": 1772878738232
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290461",
-      "title": "腾讯QQ开放新功能：1分钟创建AI联动QQ机器人，支持多媒体消息收发！",
-      "source": "第一电动",
-      "pushedAt": 1772878738232
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290462",
-      "title": "中国汽车消费高端化：超过30%的消费者下一辆车预赛30万以上",
-      "source": "第一电动",
-      "pushedAt": 1772878738232
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290473",
       "title": "比亚迪腾势Z9GT震撼上市：1036公里纯电续航，5分钟闪充70%！",
@@ -7246,6 +7216,30 @@
       "title": "90后车主超六成！问界M7累计交付破43万台，华为技术加持",
       "source": "第一电动",
       "pushedAt": 1773477002558
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291419",
+      "title": "小米SU7新配色靛石绿曝光，雷军携手设计师共揭神秘面纱",
+      "source": "第一电动",
+      "pushedAt": 1773483757159
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291417",
+      "title": "上汽MG4X纯电SUV亮相：510公里续航，搭载半固态电池！",
+      "source": "第一电动",
+      "pushedAt": 1773483757159
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291416",
+      "title": "奇瑞风云A9纯电轿跑亮相：178kW电机+磷酸铁锂，智能驾驶辅助加持",
+      "source": "第一电动",
+      "pushedAt": 1773483757159
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291418",
+      "title": "美国数据中心争议加剧：AI热潮下民众负面看法增多",
+      "source": "第一电动",
+      "pushedAt": 1773483757159
     }
   ]
 }
