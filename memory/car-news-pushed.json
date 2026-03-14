@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288552",
-    "https://www.d1ev.com/newsflash/288551",
-    "https://www.d1ev.com/newsflash/288550",
-    "https://www.d1ev.com/newsflash/288553",
-    "https://www.d1ev.com/newsflash/288557",
-    "https://www.d1ev.com/carnews/xinche/288562",
-    "https://www.d1ev.com/carnews/xinche/288561",
-    "https://www.d1ev.com/newsflash/288560",
     "https://www.d1ev.com/newsflash/288558",
     "https://www.d1ev.com/carnews/xinche/288559",
     "https://www.d1ev.com/newsflash/288566",
@@ -1999,52 +1991,18 @@
     "https://www.d1ev.com/news/shichang/291384",
     "https://www.d1ev.com/newsflash/291383",
     "https://www.d1ev.com/news/qiye/291386",
-    "https://www.d1ev.com/newsflash/291385"
+    "https://www.d1ev.com/newsflash/291385",
+    "https://www.d1ev.com/newsflash/291391",
+    "https://www.d1ev.com/newsflash/291390",
+    "https://www.d1ev.com/newsflash/291389",
+    "https://www.d1ev.com/newsflash/291387",
+    "https://www.d1ev.com/newsflash/291393",
+    "https://www.d1ev.com/newsflash/291392",
+    "https://www.d1ev.com/newsflash/291394",
+    "https://www.d1ev.com/carnews/xinche/291388"
   ],
   "lastUpdated": "2026-03-14",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290441",
-      "title": "问界M6新配色“流光青”亮相，春日活力与科技感并存",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290444",
-      "title": "谷歌开源新工具，AI智能体一键操作Gmail、Drive等办公数据",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290443",
-      "title": "岚图汽车OTA升级：华为智驾ADS4.1助力泊车领航新体验",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290442",
-      "title": "比亚迪大唐D级旗舰SUV：950km纯电续航，5分钟闪充，3.9秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290440",
-      "title": "武汉高速惊魂：司机依赖智驾酿事故，智能辅助非万能！",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290439",
-      "title": "OpenAI发布CodexSecurityAI：AI助力代码安全审查，漏洞发现效率大提升",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290438",
-      "title": "微软推E7企业版生产力套件，AI功能升级，月费高达99美元",
-      "source": "第一电动",
-      "pushedAt": 1772855769499
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290445",
       "title": "上汽通用三年推十余款新车，别克至境家族纯电版3月17日上市",
@@ -7222,6 +7180,54 @@
       "title": "AI升级！ChatGPT与Claude变身交互式学习工具，数学科学概念直观体验",
       "source": "第一电动",
       "pushedAt": 1773451670473
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291391",
+      "title": "紫慕白问界M6内饰曝光，年轻三口之家新选择",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291390",
+      "title": "华为问界M6内饰曝光：双拼色座舱+随动屏设计，增程版纯电续航达272公里",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291389",
+      "title": "华为享界S9T“星莓粉”亮相AWE2026，秋季将推硬派越野SUV和家用MPV",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291387",
+      "title": "坦克300新车型亮相：硬派越野升级，插混动力+激光雷达！",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291393",
+      "title": "华为巨鲸电池加持！尚界Z7纯电续航突破900km，挑战小米SU7",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291392",
+      "title": "鸿蒙智行尚界Z7：华为巨鲸电池加持，续航905km新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291394",
+      "title": "华为问界M8销量破16万，40万级SUV新销冠诞生",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291388",
+      "title": "大众与小鹏首款合作车型与众08量产下线",
+      "source": "第一电动",
+      "pushedAt": 1773461250252
     }
   ]
 }
