@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288602",
-    "https://www.d1ev.com/newsflash/288603",
     "https://www.d1ev.com/newsflash/288601",
     "https://www.d1ev.com/newsflash/288609",
     "https://www.d1ev.com/newsflash/288605",
@@ -1999,9 +1997,11 @@
     "https://www.d1ev.com/newsflash/291428",
     "https://www.d1ev.com/newsflash/291427",
     "https://www.d1ev.com/newsflash/291432",
-    "https://www.d1ev.com/newsflash/291426"
+    "https://www.d1ev.com/newsflash/291426",
+    "https://www.d1ev.com/newsflash/291437",
+    "https://www.d1ev.com/newsflash/291436"
   ],
-  "lastUpdated": "2026-03-14",
+  "lastUpdated": "2026-03-15",
   "newsHistory": [
     {
       "url": "https://www.d1ev.com/newsflash/290480",
@@ -7246,6 +7246,18 @@
       "title": "谷歌Genie3 AI技术：游戏世界生成仍面临稳定性挑战",
       "source": "第一电动",
       "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291437",
+      "title": "腾势N8L长续航版亮相：430km纯电续航+比亚迪刀片电池技术",
+      "source": "第一电动",
+      "pushedAt": 1773505456514
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291436",
+      "title": "AI聊天机器人或加剧精神病风险，专家呼吁临床评估",
+      "source": "第一电动",
+      "pushedAt": 1773505456514
     }
   ]
 }
