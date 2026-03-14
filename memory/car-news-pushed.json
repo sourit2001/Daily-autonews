@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288590",
-    "https://www.d1ev.com/news/qiye/288596",
-    "https://www.d1ev.com/newsflash/288600",
-    "https://www.d1ev.com/newsflash/288599",
-    "https://www.d1ev.com/newsflash/288597",
-    "https://www.d1ev.com/newsflash/288595",
-    "https://www.d1ev.com/newsflash/288598",
     "https://www.d1ev.com/newsflash/288602",
     "https://www.d1ev.com/newsflash/288603",
     "https://www.d1ev.com/newsflash/288601",
@@ -1999,28 +1992,17 @@
     "https://www.d1ev.com/newsflash/291421",
     "https://www.d1ev.com/newsflash/291424",
     "https://www.d1ev.com/newsflash/291423",
-    "https://www.d1ev.com/newsflash/291420"
+    "https://www.d1ev.com/newsflash/291420",
+    "https://www.d1ev.com/newsflash/291431",
+    "https://www.d1ev.com/newsflash/291430",
+    "https://www.d1ev.com/newsflash/291429",
+    "https://www.d1ev.com/newsflash/291428",
+    "https://www.d1ev.com/newsflash/291427",
+    "https://www.d1ev.com/newsflash/291432",
+    "https://www.d1ev.com/newsflash/291426"
   ],
   "lastUpdated": "2026-03-14",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290476",
-      "title": "长城V9X全球首秀！东方美学SUV，紫金双拼色亮相",
-      "source": "第一电动",
-      "pushedAt": 1772893179905
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290475",
-      "title": "莲花ForMe插混超跑3月10日开启预订，1416km续航+3.3s破百！",
-      "source": "第一电动",
-      "pushedAt": 1772893179905
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290477",
-      "title": "中国脑机接口技术突破在即，未来3至5年有望普及应用",
-      "source": "第一电动",
-      "pushedAt": 1772893179905
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290480",
       "title": "捷途G600硬核电混越野SUV，共创未来出行新生态！",
@@ -7222,6 +7204,48 @@
       "title": "卡塔尔能源停产LNG 半导体关键氦气供应受冲击",
       "source": "第一电动",
       "pushedAt": 1773491901360
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291431",
+      "title": "北京越野享野700增程SUV申报：1.5T动力+激光雷达新配置",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291430",
+      "title": "比亚迪技术加持，腾势N8L长续航版亮相工信部",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291429",
+      "title": "东风奕派008新色预订开启，007闪现版3月28日上市",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291428",
+      "title": "东风奕派春日派对：极光红新车色、007闪现版、纳米01Cross改装车亮相",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291427",
+      "title": "鸿蒙智行尚界Z7T曝光：华为电池加持，双电机版性能强劲",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291432",
+      "title": "AI智能体“龙虾”OpenClaw月烧Token超10万亿，钱包hold得住吗？",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291426",
+      "title": "谷歌Genie3 AI技术：游戏世界生成仍面临稳定性挑战",
+      "source": "第一电动",
+      "pushedAt": 1773498250316
     }
   ]
 }
