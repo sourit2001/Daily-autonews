@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288558",
-    "https://www.d1ev.com/carnews/xinche/288559",
-    "https://www.d1ev.com/newsflash/288566",
-    "https://www.d1ev.com/newsflash/288565",
-    "https://www.d1ev.com/newsflash/288564",
-    "https://www.d1ev.com/newsflash/288563",
-    "https://www.d1ev.com/newsflash/288567",
-    "https://www.d1ev.com/newsflash/288571",
     "https://www.d1ev.com/newsflash/288572",
     "https://www.d1ev.com/newsflash/288568",
     "https://www.d1ev.com/newsflash/288569",
@@ -1999,40 +1991,18 @@
     "https://www.d1ev.com/newsflash/291393",
     "https://www.d1ev.com/newsflash/291392",
     "https://www.d1ev.com/newsflash/291394",
-    "https://www.d1ev.com/carnews/xinche/291388"
+    "https://www.d1ev.com/carnews/xinche/291388",
+    "https://www.d1ev.com/newsflash/291402",
+    "https://www.d1ev.com/news/shichang/291395",
+    "https://www.d1ev.com/newsflash/291401",
+    "https://www.d1ev.com/newsflash/291400",
+    "https://www.d1ev.com/news/shichang/291399",
+    "https://www.d1ev.com/news/qiye/291398",
+    "https://www.d1ev.com/news/qiye/291397",
+    "https://www.d1ev.com/newsflash/291396"
   ],
   "lastUpdated": "2026-03-14",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290445",
-      "title": "上汽通用三年推十余款新车，别克至境家族纯电版3月17日上市",
-      "source": "第一电动",
-      "pushedAt": 1772859482764
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290448",
-      "title": "保时捷75周年庆典：四款定制车型亮相墨尔本大奖赛",
-      "source": "第一电动",
-      "pushedAt": 1772865194795
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290447",
-      "title": "比亚迪闪充桩革新：63岁老人轻松操作，5分钟续航500公里！",
-      "source": "第一电动",
-      "pushedAt": 1772865194795
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290449",
-      "title": "宝马AlpinaXB7Manufaktur限量版：120台珍稀豪车，北美专供！",
-      "source": "第一电动",
-      "pushedAt": 1772865194795
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290446",
-      "title": "纯电车型保值率大比拼：问界M9以82.1%夺冠，特斯拉ModelY紧随其后",
-      "source": "第一电动",
-      "pushedAt": 1772865194795
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290458",
       "title": "广汽丰田铂智7预售开启，华为DriveONE电驱加持，智能座舱亮点多",
@@ -7228,6 +7198,54 @@
       "title": "大众与小鹏首款合作车型与众08量产下线",
       "source": "第一电动",
       "pushedAt": 1773461250252
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291402",
+      "title": "汇天航空近2亿美元融资，小鹏飞行汽车或迎上市前夜",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291395",
+      "title": "插混市场“卷”向技术深水区银，吉利银河M7携三大核心数据亮相",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291401",
+      "title": "固态电池小规模测试在即，欧阳明高院士：无需等待，现有电动车已足够好",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291400",
+      "title": "本田电动化战略受挫：放弃三款电动车型开发，损失高达1082亿",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291399",
+      "title": "地平线HSD再下一城：iCAR V27把智驾装进“方盒子”",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291398",
+      "title": "11年，蔚来终于赚钱了，然后呢？",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291397",
+      "title": "从三电、底盘到智能化，追觅星空计划在AWE扔出了多少“王炸”？",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291396",
+      "title": "90后家庭新宠！问界M7销量破43万，安全与科技成购车关键词",
+      "source": "第一电动",
+      "pushedAt": 1773470405206
     }
   ]
 }
