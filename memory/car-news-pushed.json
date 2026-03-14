@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288583",
-    "https://www.d1ev.com/newsflash/288589",
-    "https://www.d1ev.com/carnews/xinche/288594",
-    "https://www.d1ev.com/carnews/xinche/288593",
-    "https://www.d1ev.com/newsflash/288592",
-    "https://www.d1ev.com/carnews/xinche/288591",
     "https://www.d1ev.com/newsflash/288590",
     "https://www.d1ev.com/news/qiye/288596",
     "https://www.d1ev.com/newsflash/288600",
@@ -1999,64 +1993,16 @@
     "https://www.d1ev.com/newsflash/291419",
     "https://www.d1ev.com/newsflash/291417",
     "https://www.d1ev.com/newsflash/291416",
-    "https://www.d1ev.com/newsflash/291418"
+    "https://www.d1ev.com/newsflash/291418",
+    "https://www.d1ev.com/newsflash/291425",
+    "https://www.d1ev.com/newsflash/291422",
+    "https://www.d1ev.com/newsflash/291421",
+    "https://www.d1ev.com/newsflash/291424",
+    "https://www.d1ev.com/newsflash/291423",
+    "https://www.d1ev.com/newsflash/291420"
   ],
   "lastUpdated": "2026-03-14",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290473",
-      "title": "比亚迪腾势Z9GT震撼上市：1036公里纯电续航，5分钟闪充70%！",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290470",
-      "title": "名爵MG2概念车7月亮相，2027年量产，欧洲市场新战车！",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290474",
-      "title": "美国国防部点名AI公司Anthropic：供应链风险实体指控引发争议",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290472",
-      "title": "特斯拉加州超级充电站将扩建至400桩，EddieWorld2规模翻倍",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290469",
-      "title": "上海AI产业规模突破6300亿！2026全球开发者先锋大会即将开幕",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290471",
-      "title": "雷军警告：智能驾驶睡觉危险，呼吁加强交通安全文明体系建设",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290468",
-      "title": "腾讯楼下排长队！千人争抢免费安装“龙虾”OpenClaw云服务",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290467",
-      "title": "人社部正在研究相关政策发挥人工智能在创造新岗位和赋能传统岗位的作用",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290466",
-      "title": "奇瑞捷途G600电混越野来袭，共创官招募开启定义未来座驾",
-      "source": "第一电动",
-      "pushedAt": 1772886957437
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290476",
       "title": "长城V9X全球首秀！东方美学SUV，紫金双拼色亮相",
@@ -7240,6 +7186,42 @@
       "title": "美国数据中心争议加剧：AI热潮下民众负面看法增多",
       "source": "第一电动",
       "pushedAt": 1773483757159
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291425",
+      "title": "领克10纯电版亮相工信部公告，双电机四驱+激光雷达配置曝光",
+      "source": "第一电动",
+      "pushedAt": 1773491901360
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291422",
+      "title": "星际穿越新能源S10亮相AWE，1.8秒破百，续航1250公里！",
+      "source": "第一电动",
+      "pushedAt": 1773491901360
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291421",
+      "title": "大众小鹏联手造车！首款车型大众安徽投产 2026年上市",
+      "source": "第一电动",
+      "pushedAt": 1773491901360
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291424",
+      "title": "优必选上海建“六个一”项目，WalkerS2机器人年产能将破3000台",
+      "source": "第一电动",
+      "pushedAt": 1773491901360
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291423",
+      "title": "消息称Kimi正在进行新一轮10亿美元融资，估值已飙升至180亿美元",
+      "source": "第一电动",
+      "pushedAt": 1773491901360
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291420",
+      "title": "卡塔尔能源停产LNG 半导体关键氦气供应受冲击",
+      "source": "第一电动",
+      "pushedAt": 1773491901360
     }
   ]
 }
