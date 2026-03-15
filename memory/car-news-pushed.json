@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288608",
-    "https://www.d1ev.com/newsflash/288607",
-    "https://www.d1ev.com/newsflash/288606",
-    "https://www.d1ev.com/newsflash/288613",
     "https://www.d1ev.com/newsflash/288614",
     "https://www.d1ev.com/newsflash/288615",
     "https://www.d1ev.com/carnews/xinche/288617",
@@ -1999,64 +1995,14 @@
     "https://www.d1ev.com/newsflash/291441",
     "https://www.d1ev.com/carnews/xinche/291439",
     "https://www.d1ev.com/carnews/xinche/291440",
-    "https://www.d1ev.com/news/qiye/291438"
+    "https://www.d1ev.com/news/qiye/291438",
+    "https://www.d1ev.com/newsflash/291449",
+    "https://www.d1ev.com/newsflash/291448",
+    "https://www.d1ev.com/newsflash/291447",
+    "https://www.d1ev.com/newsflash/291446"
   ],
   "lastUpdated": "2026-03-15",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290497",
-      "title": "岚图梦想家冠军版3月10日上市，预售价31.99万起，20万辆下线",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290494",
-      "title": "鸿蒙智行问界M92025款47.98万起，搭载896线激光雷达震撼上市！",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290491",
-      "title": "华为问界M6星夜紫亮相，增程版纯电续航达272公里",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290498",
-      "title": "华为智驾加持！岚图梦想家冠军版31.99万起售，30万级MPV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290490",
-      "title": "“油电共进”呼声高涨，代表建议燃油车与新能源车同享补贴政策",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290495",
-      "title": "全球首款千线激光雷达EM4量产，速腾聚创技术突破助力智能驾驶",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290493",
-      "title": "奇瑞星途EX7全球首搭航空级EMB技术，制动响应快50ms！",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290496",
-      "title": "比亚迪李云飞谈换电闪充之争：都挺好的 是殊途同归",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290492",
-      "title": "宝骏云海车主惊魂5分钟：车辆突断电趴窝，安全堪忧",
-      "source": "第一电动",
-      "pushedAt": 1772942848937
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290506",
       "title": "领克06Relive暮光紫新色上市，限时优惠高达22000元！",
@@ -7240,6 +7186,30 @@
       "title": "盖世周报 | 宁德时代2025年日赚近2亿；采埃孚新项目落地武汉",
       "source": "第一电动",
       "pushedAt": 1773539636466
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291449",
+      "title": "尚界Z7T轿跑旅行车亮相：华为技术加持，动力强劲颜值高",
+      "source": "第一电动",
+      "pushedAt": 1773548966211
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291448",
+      "title": "宝马德国工厂启用AI机器人“打螺丝” 助力电动汽车生产",
+      "source": "第一电动",
+      "pushedAt": 1773548966211
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291447",
+      "title": "欧阳明高：固态电池不用等，电动车已很好，产业化还需3-5年",
+      "source": "第一电动",
+      "pushedAt": 1773548966211
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291446",
+      "title": "特斯拉新配件：85美元4合1USB-C集线器即将登陆中国市场",
+      "source": "第一电动",
+      "pushedAt": 1773548966211
     }
   ]
 }
