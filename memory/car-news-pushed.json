@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288614",
-    "https://www.d1ev.com/newsflash/288615",
-    "https://www.d1ev.com/carnews/xinche/288617",
-    "https://www.d1ev.com/newsflash/288616",
     "https://www.d1ev.com/newsflash/288619",
     "https://www.d1ev.com/newsflash/288620",
     "https://www.d1ev.com/news/qiye/288618",
@@ -1999,70 +1995,14 @@
     "https://www.d1ev.com/newsflash/291449",
     "https://www.d1ev.com/newsflash/291448",
     "https://www.d1ev.com/newsflash/291447",
-    "https://www.d1ev.com/newsflash/291446"
+    "https://www.d1ev.com/newsflash/291446",
+    "https://www.d1ev.com/newsflash/291450",
+    "https://www.d1ev.com/newsflash/291453",
+    "https://www.d1ev.com/newsflash/291452",
+    "https://www.d1ev.com/news/qiye/291451"
   ],
   "lastUpdated": "2026-03-15",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290506",
-      "title": "领克06Relive暮光紫新色上市，限时优惠高达22000元！",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290505",
-      "title": "特斯拉Semi电动卡车阿拉斯加冬测曝光，2026年量产在即",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290499",
-      "title": "鸿蒙智行问界M6星夜紫官图发布，春日亮相展现年轻魅力",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290507",
-      "title": "10kV SiC MOSFET革新登场，99%效率颠覆AI数据中心电网！",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290503",
-      "title": "特斯拉充电网络再扩张：大陆超充站达2500+，全球超8000",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290501",
-      "title": "星途EX7全球首搭航空级EMB制动系统，飞鱼底盘3.0升级来袭",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290500",
-      "title": "欧拉品牌全面焕新：打造全球时尚精品汽车新标杆",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290508",
-      "title": "特斯拉半挂官宣阿拉斯加冬测！马斯克：今年将大规模量产",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290504",
-      "title": "比亚迪闪充革命：1500KW单枪快充，5分钟充至70%！",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290502",
-      "title": "小米汽车女性车主占比攀升，雷军预测未来或达40%-50%",
-      "source": "第一电动",
-      "pushedAt": 1772951815684
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290511",
       "title": "小米“昆仑”增程SUV谍照曝光，YU9或年内发布",
@@ -7210,6 +7150,30 @@
       "title": "特斯拉新配件：85美元4合1USB-C集线器即将登陆中国市场",
       "source": "第一电动",
       "pushedAt": 1773548966211
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291450",
+      "title": "万元增程器让电动车续航翻倍？安全隐患不容忽视！",
+      "source": "第一电动",
+      "pushedAt": 1773557415278
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291453",
+      "title": "比亚迪一周建358座闪充站，全国累计4597座覆盖279城",
+      "source": "第一电动",
+      "pushedAt": 1773557415278
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291452",
+      "title": "杭州315车展现车企人员拦截维权车主，现场“碰瓷”逼退车主",
+      "source": "第一电动",
+      "pushedAt": 1773557415278
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291451",
+      "title": "聚焦3.15 | 去年3月至今，车企召回图鉴",
+      "source": "第一电动",
+      "pushedAt": 1773557415278
     }
   ]
 }
