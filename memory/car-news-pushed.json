@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288619",
-    "https://www.d1ev.com/newsflash/288620",
-    "https://www.d1ev.com/news/qiye/288618",
-    "https://www.d1ev.com/carnews/xinche/288628",
-    "https://www.d1ev.com/newsflash/288623",
-    "https://www.d1ev.com/newsflash/288626",
-    "https://www.d1ev.com/newsflash/288624",
     "https://www.d1ev.com/newsflash/288622",
     "https://www.d1ev.com/newsflash/288627",
     "https://www.d1ev.com/newsflash/288625",
@@ -1999,58 +1992,17 @@
     "https://www.d1ev.com/newsflash/291450",
     "https://www.d1ev.com/newsflash/291453",
     "https://www.d1ev.com/newsflash/291452",
-    "https://www.d1ev.com/news/qiye/291451"
+    "https://www.d1ev.com/news/qiye/291451",
+    "https://www.d1ev.com/newsflash/291460",
+    "https://www.d1ev.com/newsflash/291459",
+    "https://www.d1ev.com/newsflash/291457",
+    "https://www.d1ev.com/newsflash/291455",
+    "https://www.d1ev.com/newsflash/291461",
+    "https://www.d1ev.com/newsflash/291456",
+    "https://www.d1ev.com/newsflash/291458"
   ],
   "lastUpdated": "2026-03-15",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290511",
-      "title": "小米“昆仑”增程SUV谍照曝光，YU9或年内发布",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290516",
-      "title": "90后导演AI短片《霍去病》爆红，3000元成本引热议",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290515",
-      "title": "宣传72V200安锂电池到手200型 四轮电动车续航缩水超六成",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290514",
-      "title": "AI智能体开发失衡：忽视92%劳动力市场，聚焦少数领域",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290513",
-      "title": "“2026年1月全球电池装机量增10.7%，宁德时代、比亚迪稳居前二”",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290512",
-      "title": "比亚迪第二代刀片电池：5分钟充70%，安全耐用新突破",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290510",
-      "title": "中国品牌汽车在英国销量飙升，市占率突破10%大关",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290509",
-      "title": "华为联手东风打造奕境SUV，全系标配896线激光雷达震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1772958335972
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290527",
       "title": "比亚迪仰望U8内饰曝光：百万级豪华配置，PHEV动力超880kW",
@@ -7174,6 +7126,48 @@
       "title": "聚焦3.15 | 去年3月至今，车企召回图鉴",
       "source": "第一电动",
       "pushedAt": 1773557415278
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291460",
+      "title": "比亚迪全新腾势Z9GT震撼上市，CLTC续航破千公里！",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291459",
+      "title": "小米SU7新配色靛石绿亮相，本月发布预售价22.99万起",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291457",
+      "title": "尚界Z7T谍照曝光：流光大灯+华为技术，3月底亮相！",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291455",
+      "title": "“7万起宽体双侧滑门商务车！东风风行菱智PLUS即将上市”",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291461",
+      "title": "理想MEGA电池召回超97.5%完成，283位车主待换",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291456",
+      "title": "吉利汽车集团获欧洲通行证，莲花品牌车型2026年上路",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291458",
+      "title": "中国互金协会警告：OpenClaw智能体存安全风险，金融消费者需谨慎安装",
+      "source": "第一电动",
+      "pushedAt": 1773563500519
     }
   ]
 }
