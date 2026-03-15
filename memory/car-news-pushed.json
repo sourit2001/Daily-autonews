@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288622",
-    "https://www.d1ev.com/newsflash/288627",
-    "https://www.d1ev.com/newsflash/288625",
-    "https://www.d1ev.com/carnews/xinche/288631",
-    "https://www.d1ev.com/newsflash/288632",
-    "https://www.d1ev.com/newsflash/288629",
-    "https://www.d1ev.com/news/qiye/288630",
-    "https://www.d1ev.com/newsflash/288650",
     "https://www.d1ev.com/newsflash/288642",
     "https://www.d1ev.com/newsflash/288658",
     "https://www.d1ev.com/newsflash/288657",
@@ -1999,70 +1991,18 @@
     "https://www.d1ev.com/newsflash/291455",
     "https://www.d1ev.com/newsflash/291461",
     "https://www.d1ev.com/newsflash/291456",
-    "https://www.d1ev.com/newsflash/291458"
+    "https://www.d1ev.com/newsflash/291458",
+    "https://www.d1ev.com/newsflash/291466",
+    "https://www.d1ev.com/newsflash/291465",
+    "https://www.d1ev.com/newsflash/291469",
+    "https://www.d1ev.com/newsflash/291467",
+    "https://www.d1ev.com/newsflash/291462",
+    "https://www.d1ev.com/newsflash/291468",
+    "https://www.d1ev.com/news/shichang/291464",
+    "https://www.d1ev.com/news/shichang/291463"
   ],
   "lastUpdated": "2026-03-15",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290527",
-      "title": "比亚迪仰望U8内饰曝光：百万级豪华配置，PHEV动力超880kW",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/290526",
-      "title": "小智一周要闻|小米机器人已在汽车工厂“实习”；何小鹏称今年是自动驾驶研发的分水岭时刻",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290523",
-      "title": "特斯拉充电网络扩张：中国大陆超充站突破2500座，全球超8000站！",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290522",
-      "title": "“警惕！OpenClaw AI智能体现安全漏洞，或引发网络攻击与信息泄露”",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290521",
-      "title": "三星联手AI巨头，Galaxy S26系列将集成多模型智能体验",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290517",
-      "title": "2026年新能源车降价力度加大，2月促销回升至10.4%",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290524",
-      "title": "东风华为联手打造奕境SUV，全球最高规格激光雷达首秀北京车展",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290525",
-      "title": "深圳龙岗区重磅扶持OpenClaw与OPC，最高补贴千万！",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/290520",
-      "title": "E周看点｜尊界S800累计交付15000辆；小米概念超跑Vision GT不会量产",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290519",
-      "title": "飞书API免费额度大升级，月调用次数飙升至100万次！",
-      "source": "第一电动",
-      "pushedAt": 1772965252761
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290533",
       "title": "2026款一汽奔腾悦意03纯电SUV新配色上市，续航高达565公里！",
@@ -7168,6 +7108,54 @@
       "title": "中国互金协会警告：OpenClaw智能体存安全风险，金融消费者需谨慎安装",
       "source": "第一电动",
       "pushedAt": 1773563500519
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291466",
+      "title": "小米SU7新色“靛石绿”亮相，智能驾驶升级22.99万起",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291465",
+      "title": "比亚迪元PLUS新车型曝光：后驱纯电平台+闪充技术，续航升级！",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291469",
+      "title": "理想MEGA电池召回完成率超97.5%，仅剩283辆未换",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291467",
+      "title": "55%年轻人愿与AI亲密互动：舒适探索新自我",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291462",
+      "title": "AI科技引领未来：2026家电博览会聚焦智慧生活新趋势",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291468",
+      "title": "腾讯云全国免费“养虾”行动启动，OpenClaw部署服务覆盖12城",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291464",
+      "title": "小智一周要闻|特斯拉Optimus 3将投产；理想前高管做机器人融了20亿",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291463",
+      "title": "E周看点 | “宁王”日赚近2亿元；大众与小鹏首款合作车型量产下线",
+      "source": "第一电动",
+      "pushedAt": 1773570306097
     }
   ]
 }
