@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/288642",
-    "https://www.d1ev.com/newsflash/288658",
-    "https://www.d1ev.com/newsflash/288657",
-    "https://www.d1ev.com/newsflash/288653",
-    "https://www.d1ev.com/newsflash/288649",
-    "https://www.d1ev.com/newsflash/288647",
-    "https://www.d1ev.com/newsflash/288646",
     "https://www.d1ev.com/newsflash/288645",
     "https://www.d1ev.com/newsflash/288644",
     "https://www.d1ev.com/newsflash/288637",
@@ -1999,46 +1992,17 @@
     "https://www.d1ev.com/newsflash/291462",
     "https://www.d1ev.com/newsflash/291468",
     "https://www.d1ev.com/news/shichang/291464",
-    "https://www.d1ev.com/news/shichang/291463"
+    "https://www.d1ev.com/news/shichang/291463",
+    "https://www.d1ev.com/newsflash/291477",
+    "https://www.d1ev.com/newsflash/291473",
+    "https://www.d1ev.com/newsflash/291470",
+    "https://www.d1ev.com/newsflash/291475",
+    "https://www.d1ev.com/newsflash/291476",
+    "https://www.d1ev.com/newsflash/291474",
+    "https://www.d1ev.com/newsflash/291471"
   ],
   "lastUpdated": "2026-03-15",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290533",
-      "title": "2026款一汽奔腾悦意03纯电SUV新配色上市，续航高达565公里！",
-      "source": "第一电动",
-      "pushedAt": 1772973415522
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290532",
-      "title": "深圳福田AI数智员工2.0上线，公共场所卫生许可变更“当日提交，当日预审”",
-      "source": "第一电动",
-      "pushedAt": 1772973415522
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290531",
-      "title": "AI应用Kimi订阅订单激增，2月跃居全球支付平台第9位",
-      "source": "第一电动",
-      "pushedAt": 1772973415522
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290530",
-      "title": "AI聊天机器人成非法赌场引流工具，青少年面临高风险",
-      "source": "第一电动",
-      "pushedAt": 1772973415522
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290529",
-      "title": "2月新能源车降价风暴：平均降幅达13.5%，燃油车促销率微升",
-      "source": "第一电动",
-      "pushedAt": 1772973415522
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290528",
-      "title": "零跑汽车携手浙江FC，2026年销量目标100万！",
-      "source": "第一电动",
-      "pushedAt": 1772973415522
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/290539",
       "title": "7.98万-11.99万 2026款奔腾悦意03上市",
@@ -7156,6 +7120,48 @@
       "title": "E周看点 | “宁王”日赚近2亿元；大众与小鹏首款合作车型量产下线",
       "source": "第一电动",
       "pushedAt": 1773570306097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291477",
+      "title": "AI诈骗激增！六国超1.2万消费者受害，每周7.4通骚扰来电",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291473",
+      "title": "“2026年2月新能源车均价18.8万元，中国汽车消费结构性变化显现”",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291470",
+      "title": "“1036km续航+9分钟满电！腾势Z9GT开启交付，售价26.98万起”",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291475",
+      "title": "字节跳动暂停全球发布Seedance2.0，因版权纠纷与好莱坞制片厂冲突",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291476",
+      "title": "“中科天算”亿元融资助力2030年万卡级天基数据中心建设",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291474",
+      "title": "汽车迭代纠纷激增82倍！工信部新规规范市场",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291471",
+      "title": "坦克300新升级：黑标更酷，尺寸加大，插混动力更强劲！",
+      "source": "第一电动",
+      "pushedAt": 1773578393696
     }
   ]
 }
