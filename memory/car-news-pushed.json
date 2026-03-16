@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/289486",
-    "https://www.d1ev.com/newsflash/289485",
-    "https://www.d1ev.com/newsflash/289484",
-    "https://www.d1ev.com/newsflash/289482",
-    "https://www.d1ev.com/news/qiye/289481",
-    "https://www.d1ev.com/newsflash/289480",
-    "https://www.d1ev.com/newsflash/289473",
-    "https://www.d1ev.com/carnews/xinche/289470",
     "https://www.d1ev.com/carnews/xinche/289469",
     "https://www.d1ev.com/news/shichang/289468",
     "https://www.d1ev.com/newsflash/289465",
@@ -1999,34 +1991,18 @@
     "https://www.d1ev.com/newsflash/291627",
     "https://www.d1ev.com/newsflash/291628",
     "https://www.d1ev.com/newsflash/291638",
-    "https://www.d1ev.com/carnews/xinche/291630"
+    "https://www.d1ev.com/carnews/xinche/291630",
+    "https://www.d1ev.com/newsflash/291654",
+    "https://www.d1ev.com/newsflash/291650",
+    "https://www.d1ev.com/newsflash/291653",
+    "https://www.d1ev.com/newsflash/291652",
+    "https://www.d1ev.com/newsflash/291657",
+    "https://www.d1ev.com/newsflash/291656",
+    "https://www.d1ev.com/newsflash/291655",
+    "https://www.d1ev.com/newsflash/291651"
   ],
-  "lastUpdated": "2026-03-16",
+  "lastUpdated": "2026-03-17",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290701",
-      "title": "超豪华品牌纷纷回归燃油车，电动化梦想破灭？",
-      "source": "第一电动",
-      "pushedAt": 1773075171158
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290699",
-      "title": "比亚迪汉唐车主专属福利：全国闪充站1年免费充电权益来袭！",
-      "source": "第一电动",
-      "pushedAt": 1773075171158
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290700",
-      "title": "政协委员提议：私家车年检制度或将取消，转向远程监测",
-      "source": "第一电动",
-      "pushedAt": 1773075171158
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290698",
-      "title": "龙岗区“千人龙虾大会”即将开幕，Kimi助力企业智能升级！",
-      "source": "第一电动",
-      "pushedAt": 1773075171158
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/290702",
       "title": "行驶的几百万元！川A绿牌特斯拉Cybertruck现身郑州街头",
@@ -7168,6 +7144,54 @@
       "title": "今年要卖100万辆车！零跑汽车2025年净赚5.4亿元，朱江明想打造世界级车企",
       "source": "第一电动",
       "pushedAt": 1773673910347
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291654",
+      "title": "极氪8X技术发布，预售价37.68万起，高阶辅助驾驶系统加持",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291650",
+      "title": "华为乾崑智驾公开赛3月19日开启，31款搭载车型亮相",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291653",
+      "title": "小鹏汽车何小鹏：中美智驾同处第一梯队，中国道路挑战更大",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291652",
+      "title": "本田面临69年来首次亏损：电动化转型遇挫，中国市场销量连年下滑",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291657",
+      "title": "零跑汽车2025年销量翻倍，净利润首破5亿，领跑新势力品牌",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291656",
+      "title": "小鹏第二代VLA智能驾驶体验领先行业5倍，重刹清零获媒体好评",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291655",
+      "title": "问界M7新推“夜紫”配色，42%车主期待！",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291651",
+      "title": "小鹏第二代VLA智能驾驶系统升级 3月19日首批推送",
+      "source": "第一电动",
+      "pushedAt": 1773680293879
     }
   ]
 }
