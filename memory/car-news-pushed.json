@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/289469",
-    "https://www.d1ev.com/news/shichang/289468",
-    "https://www.d1ev.com/newsflash/289465",
     "https://www.d1ev.com/newsflash/289483",
     "https://www.d1ev.com/newsflash/289479",
     "https://www.d1ev.com/newsflash/289474",
@@ -1999,16 +1996,13 @@
     "https://www.d1ev.com/newsflash/291657",
     "https://www.d1ev.com/newsflash/291656",
     "https://www.d1ev.com/newsflash/291655",
-    "https://www.d1ev.com/newsflash/291651"
+    "https://www.d1ev.com/newsflash/291651",
+    "https://www.d1ev.com/newsflash/291661",
+    "https://www.d1ev.com/newsflash/291660",
+    "https://www.d1ev.com/newsflash/291659"
   ],
   "lastUpdated": "2026-03-17",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/290702",
-      "title": "行驶的几百万元！川A绿牌特斯拉Cybertruck现身郑州街头",
-      "source": "第一电动",
-      "pushedAt": 1773081821050
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/290724",
       "title": "油价飙升推动电动车需求 多款新车将上市",
@@ -7192,6 +7186,24 @@
       "title": "小鹏第二代VLA智能驾驶系统升级 3月19日首批推送",
       "source": "第一电动",
       "pushedAt": 1773680293879
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291661",
+      "title": "英伟达GTC2026大会发布NemoClaw：一键部署AI智能体新纪元",
+      "source": "第一电动",
+      "pushedAt": 1773700050634
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291660",
+      "title": "英伟达GTC大会推多模态AI模型，加速智能体和医疗科研发展",
+      "source": "第一电动",
+      "pushedAt": 1773700050634
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291659",
+      "title": "英伟达携手比亚迪等车企打造L4级自动驾驶，2028年全球28城推Robotaxi",
+      "source": "第一电动",
+      "pushedAt": 1773700050634
     }
   ]
 }
