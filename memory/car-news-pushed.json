@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/289585",
-    "https://www.d1ev.com/news/shichang/289583",
-    "https://www.d1ev.com/newsflash/289582",
-    "https://www.d1ev.com/newsflash/289580",
-    "https://www.d1ev.com/newsflash/289579",
     "https://www.d1ev.com/carnews/xinche/289577",
     "https://www.d1ev.com/news/shichang/289575",
     "https://www.d1ev.com/newsflash/289574",
@@ -1999,28 +1994,15 @@
     "https://www.d1ev.com/newsflash/291795",
     "https://www.d1ev.com/newsflash/291804",
     "https://www.d1ev.com/newsflash/291797",
-    "https://www.d1ev.com/news/shichang/291794"
+    "https://www.d1ev.com/news/shichang/291794",
+    "https://www.d1ev.com/newsflash/291820",
+    "https://www.d1ev.com/news/shichang/291818",
+    "https://www.d1ev.com/newsflash/291816",
+    "https://www.d1ev.com/newsflash/291819",
+    "https://www.d1ev.com/newsflash/291817"
   ],
-  "lastUpdated": "2026-03-17",
+  "lastUpdated": "2026-03-18",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290874",
-      "title": "鸿蒙智行2月销量解析：问界M7破万，M6即将上市提振销量",
-      "source": "第一电动",
-      "pushedAt": 1773161557423
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290875",
-      "title": "谷歌AI助手Gemini升级：一键生成文档、表格、PPT！",
-      "source": "第一电动",
-      "pushedAt": 1773161557423
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290873",
-      "title": "新能源车险降价，燃油车主保费却上涨！车险定价逻辑大变",
-      "source": "第一电动",
-      "pushedAt": 1773161557423
-    },
     {
       "url": "https://www.d1ev.com/newsflash/290876",
       "title": "MG4X纯电SUV亮相：510km续航+半固态电池，10万级新选择",
@@ -7090,6 +7072,36 @@
       "title": "魏建军：先立公信力才能立业",
       "source": "第一电动",
       "pushedAt": 1773759167986
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291820",
+      "title": "奥迪CEO高德诺：坚持双合作伙伴战略，上汽奥迪E5Sportback已上市",
+      "source": "第一电动",
+      "pushedAt": 1773766816462
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291818",
+      "title": "别克至境世家纯电版上市，售价48.99万元",
+      "source": "第一电动",
+      "pushedAt": 1773766816462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291816",
+      "title": "别克至境世家纯电版上市，续航601公里，10分钟快充400公里！",
+      "source": "第一电动",
+      "pushedAt": 1773766816462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291819",
+      "title": "小米汽车首销大回馈：冰箱贴勋章免费送，15万份限时领！",
+      "source": "第一电动",
+      "pushedAt": 1773766816462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291817",
+      "title": "小米汽车两周年庆：老车主专享纪念勋章及定制冰箱贴福利来袭",
+      "source": "第一电动",
+      "pushedAt": 1773766816462
     }
   ]
 }
