@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/289572",
-    "https://www.d1ev.com/newsflash/289622",
-    "https://www.d1ev.com/newsflash/289621",
-    "https://www.d1ev.com/newsflash/289619",
-    "https://www.d1ev.com/news/shichang/289618",
-    "https://www.d1ev.com/newsflash/289615",
-    "https://www.d1ev.com/news/shichang/289610",
-    "https://www.d1ev.com/news/shichang/289608",
-    "https://www.d1ev.com/newsflash/289603",
-    "https://www.d1ev.com/newsflash/289602",
-    "https://www.d1ev.com/newsflash/289592",
-    "https://www.d1ev.com/newsflash/289581",
-    "https://www.d1ev.com/news/qiye/289616",
-    "https://www.d1ev.com/newsflash/289611",
     "https://www.d1ev.com/news/shichang/289609",
     "https://www.d1ev.com/news/qiye/289607",
     "https://www.d1ev.com/news/qiye/289606",
@@ -1999,88 +1985,24 @@
     "https://www.d1ev.com/newsflash/291764",
     "https://www.d1ev.com/news/shichang/291763",
     "https://www.d1ev.com/news/qiye/291762",
-    "https://www.d1ev.com/newsflash/291758"
+    "https://www.d1ev.com/newsflash/291758",
+    "https://www.d1ev.com/newsflash/291792",
+    "https://www.d1ev.com/newsflash/291789",
+    "https://www.d1ev.com/newsflash/291781",
+    "https://www.d1ev.com/newsflash/291780",
+    "https://www.d1ev.com/news/qiye/291779",
+    "https://www.d1ev.com/newsflash/291791",
+    "https://www.d1ev.com/newsflash/291787",
+    "https://www.d1ev.com/newsflash/291786",
+    "https://www.d1ev.com/news/shichang/291785",
+    "https://www.d1ev.com/newsflash/291778",
+    "https://www.d1ev.com/news/qiye/291790",
+    "https://www.d1ev.com/news/shichang/291784",
+    "https://www.d1ev.com/news/qiye/291783",
+    "https://www.d1ev.com/news/qiye/291782"
   ],
   "lastUpdated": "2026-03-17",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290852",
-      "title": "奇瑞QQ3EV预售开启，6.89万起售，纯电续航最高达420km！",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290846",
-      "title": "岚图梦想家冠军版上市，售价30.99万",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290845",
-      "title": "MG品牌新车亮相：510km半固态电池SUV与新能源轿跑即将来袭",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290854",
-      "title": "新能源车市涨价潮来袭：芯片短缺、原材料成本上涨成主因",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290853",
-      "title": "小龙虾AI闯祸不断：误转账、删邮件，安全漏洞引发监管预警",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290849",
-      "title": "“芯片涨价潮来袭，新能源汽车成本激增，终端售价或将上涨”",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290848",
-      "title": "AI工具超负荷使用引发“脑疲劳”，员工效率反降",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290844",
-      "title": "何小鹏预言：2026年AI跨入物理世界，自动驾驶L4时代来临",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290843",
-      "title": "腾讯云CodingPlan大模型服务上新，首月优惠价7.9元起！",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290855",
-      "title": "蔚来发布2025Q4及全年财报，Q4实现经营利润12.5亿元",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290851",
-      "title": "“小龙虾”应用OpenClaw存严重安全风险，用户需谨慎使用",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290850",
-      "title": "蔚来汽车2025年Q4首次盈利，全年交付量增近半，开启新增长周期",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290847",
-      "title": "尚界H5获20万内唯一超五星安全认证，C-NCAP得分93.8%",
-      "source": "第一电动",
-      "pushedAt": 1773146806577
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/290866",
       "title": "奇瑞QQ3开启预售 预售价6.892-8.9985万元",
@@ -7078,6 +7000,90 @@
       "title": "雷军回应SU7停售：不背刺老用户，新一代SU7力求突破",
       "source": "第一电动",
       "pushedAt": 1773744350106
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291792",
+      "title": "广汽华为联手打造“启境”品牌，首车GT7智能猎装车亮相",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291789",
+      "title": "广汽华为联手打造“启境”品牌，AISTALAND智能猎装GT7首发亮相",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291781",
+      "title": "岚图泰山“黑武士版”上市！50.99万起，全尺寸SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291780",
+      "title": "奥迪A2e-tron电动新贵，致敬经典MPV风格，2027年欧洲上市",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291779",
+      "title": "全新一代896线激光雷达旗舰SUV，岚图泰山黑武士版上市，9系SUV迎",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291791",
+      "title": "“1036公里超长续航！腾势Z9GT全球纯电车型续航冠军来袭”",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291787",
+      "title": "七部门辟谣：AI安全治理三年行动计划系虚假信息！",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291786",
+      "title": "微信直连AI助手QClaw公测开启，一键安装覆盖5000+技能",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291785",
+      "title": "特斯拉宣布启动“特拉法布”AI芯片制造项目",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291778",
+      "title": "PenguinSolutions发布11TB内存AI服务器，专为低延迟推理而生",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291790",
+      "title": "第二家“上岸”的新势力，为什么是零跑？",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291784",
+      "title": "2026款Ram 1500 BackCountry越野版正式发布",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291783",
+      "title": "现代汽车暂停销售并召回68500辆2026款帕里斯帝",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291782",
+      "title": "Ram推出2026款1500 BackCountry车型",
+      "source": "第一电动",
+      "pushedAt": 1773752424647
     }
   ]
 }
