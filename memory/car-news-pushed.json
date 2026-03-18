@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/289795",
-    "https://www.d1ev.com/carnews/xinche/289804",
-    "https://www.d1ev.com/news/qiye/289803",
     "https://www.d1ev.com/news/qiye/289802",
     "https://www.d1ev.com/newsflash/289800",
     "https://www.d1ev.com/newsflash/289797",
@@ -1999,22 +1996,13 @@
     "https://www.d1ev.com/newsflash/291983",
     "https://www.d1ev.com/newsflash/291980",
     "https://www.d1ev.com/newsflash/291979",
-    "https://www.d1ev.com/news/shichang/291973"
+    "https://www.d1ev.com/news/shichang/291973",
+    "https://www.d1ev.com/news/qiye/292020",
+    "https://www.d1ev.com/newsflash/292016",
+    "https://www.d1ev.com/newsflash/292017"
   ],
-  "lastUpdated": "2026-03-18",
+  "lastUpdated": "2026-03-19",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/291035",
-      "title": "保时捷在华销量连跌四年，经销门店将大幅缩减至80家",
-      "source": "第一电动",
-      "pushedAt": 1773247484941
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291034",
-      "title": "荣耀MagicPad3Pro升级：一键Linux环境+PC模式新体验",
-      "source": "第一电动",
-      "pushedAt": 1773247484941
-    },
     {
       "url": "https://www.d1ev.com/newsflash/291036",
       "title": "保时捷2025财年营收利润双降，中国市场大跌26%，全球销量下滑10%",
@@ -7282,6 +7270,24 @@
       "title": "阿尔派计划2030年前推出两款纯电敞篷车",
       "source": "第一电动",
       "pushedAt": 1773846178259
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292020",
+      "title": "一代国民神车回归！奇瑞QQ3预售订单超3.5万台：月底上市",
+      "source": "第一电动",
+      "pushedAt": 1773852895013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292016",
+      "title": "亿纬锂能全固态电池成都基地下线，开启安全高能量新纪元",
+      "source": "第一电动",
+      "pushedAt": 1773852895013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292017",
+      "title": "小米SU7震撼发布：蛟龙底盘加持，智能驾驶新体验！",
+      "source": "第一电动",
+      "pushedAt": 1773852895013
     }
   ]
 }
