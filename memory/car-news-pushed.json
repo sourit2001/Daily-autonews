@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/289802",
-    "https://www.d1ev.com/newsflash/289800",
-    "https://www.d1ev.com/newsflash/289797",
-    "https://www.d1ev.com/newsflash/289794",
     "https://www.d1ev.com/newsflash/289785",
     "https://www.d1ev.com/news/shichang/289783",
     "https://www.d1ev.com/news/shichang/289830",
@@ -1999,16 +1995,14 @@
     "https://www.d1ev.com/news/shichang/291973",
     "https://www.d1ev.com/news/qiye/292020",
     "https://www.d1ev.com/newsflash/292016",
-    "https://www.d1ev.com/newsflash/292017"
+    "https://www.d1ev.com/newsflash/292017",
+    "https://www.d1ev.com/newsflash/292022",
+    "https://www.d1ev.com/newsflash/292024",
+    "https://www.d1ev.com/newsflash/292021",
+    "https://www.d1ev.com/news/shichang/292023"
   ],
   "lastUpdated": "2026-03-19",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/291036",
-      "title": "保时捷2025财年营收利润双降，中国市场大跌26%，全球销量下滑10%",
-      "source": "第一电动",
-      "pushedAt": 1773254804128
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/291052",
       "title": "岚图泰山X8将于3月19日亮相 配四激光雷达",
@@ -7288,6 +7282,30 @@
       "title": "小米SU7震撼发布：蛟龙底盘加持，智能驾驶新体验！",
       "source": "第一电动",
       "pushedAt": 1773852895013
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292022",
+      "title": "9.98万起售！极狐阿尔法S5纯电增程双动力上市",
+      "source": "第一电动",
+      "pushedAt": 1773859976415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292024",
+      "title": "小米发布三款大模型，开启智能Agent新时代！",
+      "source": "第一电动",
+      "pushedAt": 1773859976415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292021",
+      "title": "华为乾崑智驾公开赛报名开启，多款热门车型等你来战！",
+      "source": "第一电动",
+      "pushedAt": 1773859976415
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292023",
+      "title": "星途EX7开启盲订，全球首搭航空级EMB技术",
+      "source": "第一电动",
+      "pushedAt": 1773859976415
     }
   ]
 }
