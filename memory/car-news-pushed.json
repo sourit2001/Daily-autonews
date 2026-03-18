@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/289738",
-    "https://www.d1ev.com/carnews/xinche/289737",
-    "https://www.d1ev.com/newsflash/289756",
-    "https://www.d1ev.com/newsflash/289751",
-    "https://www.d1ev.com/news/shichang/289749",
-    "https://www.d1ev.com/newsflash/289746",
-    "https://www.d1ev.com/newsflash/289743",
-    "https://www.d1ev.com/newsflash/289736",
-    "https://www.d1ev.com/newsflash/289750",
-    "https://www.d1ev.com/newsflash/289739",
-    "https://www.d1ev.com/newsflash/289758",
-    "https://www.d1ev.com/newsflash/289755",
-    "https://www.d1ev.com/newsflash/289752",
-    "https://www.d1ev.com/newsflash/289748",
-    "https://www.d1ev.com/news/shichang/289745",
-    "https://www.d1ev.com/newsflash/289744",
-    "https://www.d1ev.com/news/shichang/289741",
-    "https://www.d1ev.com/newsflash/289735",
-    "https://www.d1ev.com/newsflash/289782",
-    "https://www.d1ev.com/news/shichang/289779",
-    "https://www.d1ev.com/newsflash/289775",
     "https://www.d1ev.com/news/qiye/289774",
     "https://www.d1ev.com/carnews/xinche/289773",
     "https://www.d1ev.com/newsflash/289769",
@@ -1999,112 +1978,31 @@
     "https://www.d1ev.com/newsflash/291924",
     "https://www.d1ev.com/newsflash/291922",
     "https://www.d1ev.com/newsflash/291920",
-    "https://www.d1ev.com/news/shichang/291919"
+    "https://www.d1ev.com/news/shichang/291919",
+    "https://www.d1ev.com/newsflash/291950",
+    "https://www.d1ev.com/newsflash/291945",
+    "https://www.d1ev.com/news/shichang/291964",
+    "https://www.d1ev.com/news/qiye/291961",
+    "https://www.d1ev.com/news/shichang/291954",
+    "https://www.d1ev.com/news/qiye/291952",
+    "https://www.d1ev.com/news/qiye/291951",
+    "https://www.d1ev.com/news/shichang/291949",
+    "https://www.d1ev.com/carnews/xinche/291965",
+    "https://www.d1ev.com/carnews/xinche/291963",
+    "https://www.d1ev.com/news/shichang/291962",
+    "https://www.d1ev.com/newsflash/291960",
+    "https://www.d1ev.com/newsflash/291959",
+    "https://www.d1ev.com/newsflash/291958",
+    "https://www.d1ev.com/newsflash/291957",
+    "https://www.d1ev.com/news/shichang/291956",
+    "https://www.d1ev.com/newsflash/291955",
+    "https://www.d1ev.com/news/shichang/291953",
+    "https://www.d1ev.com/news/shichang/291948",
+    "https://www.d1ev.com/news/qiye/291947",
+    "https://www.d1ev.com/news/qiye/291946"
   ],
   "lastUpdated": "2026-03-18",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/290993",
-      "title": "岚图泰山X8携华为激光雷达亮相，智能座舱升级新体验",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/290996",
-      "title": "“龙虾”上桌、智驾落地，谁来守护数据安全？两会代表委员呼吁：用AI对抗AI",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290991",
-      "title": "马斯克AI公司扩张引争议：密西西比州批准41台燃气轮机运行",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/290988",
-      "title": "韩国公平交易委员会对梅赛德斯-奔驰处以112亿韩元罚款，因其在EQE、EQS电动车电池供应商信息上误导消费者",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290987",
-      "title": "TechWeb微晚报：第一批小红书“养虾人”已被封号，微信正秘密研发AI智能体",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/290983",
-      "title": "智驾要有中国标准！专访全国人大代表姚佐平：要鼓励智能驾驶加速普及",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290982",
-      "title": "蔚来ES6五年行驶里程一百万公里！车主：没担心过电池衰减",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/290981",
-      "title": "特斯拉NACS加速全球渗透，日本本土充电标准格局将生变？",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290980",
-      "title": "比亚迪二代刀片电池：500次快充后钢针穿刺不起火",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290997",
-      "title": "蔚来李斌：2025年Q4首次盈利，2026年力争全年盈利",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/290995",
-      "title": "埃安i60累计销量突破28000台",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290992",
-      "title": "比亚迪兆瓦闪充革命：9分钟充饱，最多连充10台车！",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290990",
-      "title": "小米YU7连续6月销量冠军，2月销量破2万，稳居中大型SUV市场榜首",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290989",
-      "title": "大众汽车2025年业绩下滑 计划2030年前德国裁减5万岗位",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290986",
-      "title": "极狐阿尔法S（L3版）上路实测超万公里，二季度开放预约体验",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/290985",
-      "title": "特斯拉上海工厂2月销量飙升91%，Model Y国内销冠！",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/290979",
-      "title": "比亚迪年内要建2万座闪充站，覆盖3公里生活圈",
-      "source": "第一电动",
-      "pushedAt": 1773225323348
-    },
     {
       "url": "https://www.d1ev.com/newsflash/291014",
       "title": "长城坦克700Hi4-Z内饰曝光，2.0T混动+190公里纯电续航",
@@ -7174,6 +7072,132 @@
       "title": "告别第一代小米SU7：一款开山之作的理想与现实",
       "source": "第一电动",
       "pushedAt": 1773823449042
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291950",
+      "title": "保时捷联手奥迪打造全新燃油跨界车，预计2028年亮相",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291945",
+      "title": "极狐阿尔法S5新车型上市，补贴价9.98万起，续航高达1450公里！",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291964",
+      "title": "英国政府拨款支持采购484辆新电动公交车",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291961",
+      "title": "特斯拉超级充电桩全面转向V4 最后一台V3机柜已下线",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291954",
+      "title": "终结5年涨势！欧盟电动车，被政策逼进平价时代",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291952",
+      "title": "Uber自动驾驶前高管使用特斯拉FSD遭遇车祸 车辆全毁人也受伤",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291951",
+      "title": "现代汽车集团与Uber启动自动驾驶出租车服务",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291949",
+      "title": "特斯拉与LG新能源签署43亿美元电池供应协议",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291965",
+      "title": "海外赚的比国内多？奇瑞汽车营收首破3000亿元，过半来自海外",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/291963",
+      "title": "华为乾崑四大资源All in，启境GT7开启盲订",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291962",
+      "title": "岚图汽车技术焕新，泰山Ultra启动量产交付",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291960",
+      "title": "阿斯顿马丁与本田合作破裂，F1夺冠梦碎或对簿公堂",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291959",
+      "title": "比亚迪或4月召开智能驾驶技术发布会",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291958",
+      "title": "吉利汽车2025年业绩亮眼：销量超300万辆，智能驾驶力拼特斯拉",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291957",
+      "title": "宾利裁员6%应对业绩滑坡，超豪华车市寒冬加剧",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291956",
+      "title": "奇瑞2025年：钱从哪来，花往哪去？",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/291955",
+      "title": "比亚迪仰望汽车总经理透露：百万级豪车技术突破，浮水功能成亮点",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291953",
+      "title": "小牛、高通携手，开启两轮出行智能化元年",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/291948",
+      "title": "越南市场燃油车销量大幅下滑，混合动力车型成增长亮点",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291947",
+      "title": "大众汽车召回超6.1万辆新款捷达",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/291946",
+      "title": "奥迪A8停产，32年旗舰轿车产品线正式终止",
+      "source": "第一电动",
+      "pushedAt": 1773830882497
     }
   ]
 }
