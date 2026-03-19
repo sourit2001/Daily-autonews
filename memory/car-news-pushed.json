@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/289880",
-    "https://www.d1ev.com/newsflash/289879",
-    "https://www.d1ev.com/news/shichang/289875",
-    "https://www.d1ev.com/news/shichang/289874",
-    "https://www.d1ev.com/newsflash/289869",
-    "https://www.d1ev.com/newsflash/289868",
-    "https://www.d1ev.com/news/shichang/289867",
-    "https://www.d1ev.com/news/shichang/289866",
-    "https://www.d1ev.com/newsflash/289860",
-    "https://www.d1ev.com/newsflash/289913",
-    "https://www.d1ev.com/newsflash/289911",
-    "https://www.d1ev.com/newsflash/289910",
-    "https://www.d1ev.com/news/shichang/289909",
     "https://www.d1ev.com/newsflash/289908",
     "https://www.d1ev.com/news/qiye/289906",
     "https://www.d1ev.com/newsflash/289903",
@@ -1999,100 +1986,23 @@
     "https://www.d1ev.com/news/qiye/292064",
     "https://www.d1ev.com/newsflash/292060",
     "https://www.d1ev.com/news/shichang/292058",
-    "https://www.d1ev.com/news/shichang/292057"
+    "https://www.d1ev.com/news/shichang/292057",
+    "https://www.d1ev.com/carnews/xinche/292096",
+    "https://www.d1ev.com/newsflash/292095",
+    "https://www.d1ev.com/carnews/xinche/292090",
+    "https://www.d1ev.com/carnews/xinche/292089",
+    "https://www.d1ev.com/newsflash/292088",
+    "https://www.d1ev.com/newsflash/292086",
+    "https://www.d1ev.com/newsflash/292098",
+    "https://www.d1ev.com/newsflash/292094",
+    "https://www.d1ev.com/carnews/xinche/292097",
+    "https://www.d1ev.com/news/shichang/292091",
+    "https://www.d1ev.com/news/shichang/292093",
+    "https://www.d1ev.com/newsflash/292092",
+    "https://www.d1ev.com/news/qiye/292085"
   ],
   "lastUpdated": "2026-03-19",
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/291111",
-      "title": "小鹏P7全新配色星曜红官图 将于3月18日发布",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/291109",
-      "title": "搭载插电混动系统 全新MG S9官图发布",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/291108",
-      "title": "官方改装 纵横G700顶火鸣镝版官图发布",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291105",
-      "title": "极狐阿尔法S5即将上市，11万起售，纯电增程双动力来袭！",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291103",
-      "title": "追觅星空计划震撼发布：首款SUV概念车Nebula Next 01X亮相，搭载全球首款60Ah全固态电池",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291102",
-      "title": "追觅固态电池亮相AWE2026，超奢SUV对标劳斯莱斯，2027年上市",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291099",
-      "title": "上汽大众ID.ERA9X亮相：6色可选，超400km纯电续航，3月16日技术发布",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291112",
-      "title": "小米“手机龙虾”来袭：AI交互新体验，Xiaomi 17系列独享",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291110",
-      "title": "特斯拉正打造“实体+数字”双Optimus体系，Optimus3今夏启动生产，AI系统可模拟整家公司",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/291107",
-      "title": "追觅发布全固态动力电池：今年小批量交付 明年大规模量产",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291106",
-      "title": "岚图泰山Ultra携华为896线激光雷达，L3自动驾驶3月17日交付",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/291101",
-      "title": "马斯克公布特斯拉与xAI联合项目Macrohard，瞄准软件领域变革",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291113",
-      "title": "Lucid Gravity SUV新增Apple CarPlay与Android Auto支持，北美车主今日起可升级",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/291104",
-      "title": "红旗HS6PHEV与天工06荣耀赠予徐梦桃夫妇，共庆体育辉煌",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/291098",
-      "title": "打破欧美车企主导“规则圈”！比亚迪正式成为IATF核心成员",
-      "source": "第一电动",
-      "pushedAt": 1773298100706
-    },
     {
       "url": "https://www.d1ev.com/newsflash/291132",
       "title": "OPPO“龙虾”小布Claw曝光：跨端协同、安全智能新体验",
@@ -7282,6 +7192,84 @@
       "title": "奔驰、现代落子上海，外资车企加码中国研发布局",
       "source": "第一电动",
       "pushedAt": 1773894140977
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292096",
+      "title": "全新荣威i6内饰官图发布 将于4月份上市",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292095",
+      "title": "吉利博越REV长续航增程SUV即将预售，纯电续航375km综合1525km",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292090",
+      "title": "定位中型SUV 奇瑞风云T9L将于3月25日预售",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292089",
+      "title": "二代刀片电池+闪充 新款腾势D9官图发布",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292088",
+      "title": "岚图汽车香港上市，中国高端新能源品牌开启全球化新征程",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292086",
+      "title": "奥迪A5L全域智混版quattro上市，32.48万起售，搭载第五代EA888发动机",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292098",
+      "title": "别克至境L7焕新升级：更安全智能豪华，续航1420km支持快充！",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292094",
+      "title": "谷歌Stitch升级：AI助力设计，一键生成交互式原型！",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292097",
+      "title": "吉利汽车2025年营收首破3400亿，今年冲刺345万辆，海外市场谋求50%以上销量增长",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292091",
+      "title": "车联天下发布欧洲战略，加码智能计算平台与全球化协同",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292093",
+      "title": "小马智行向如祺出行交付首批超百辆Robotaxi",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292092",
+      "title": "董明珠力挺国产豪华品牌，个人及团队共购9辆极氪009",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292085",
+      "title": "在无人驾驶出租车竞赛中 Uber前CEO认为Waymo领先特斯拉",
+      "source": "第一电动",
+      "pushedAt": 1773903195232
     }
   ]
 }
