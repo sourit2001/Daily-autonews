@@ -57,7 +57,8 @@
     "https://www.d1ev.com/newsflash/292473",
     "https://www.d1ev.com/newsflash/292471",
     "https://www.d1ev.com/newsflash/292469",
-    "https://www.d1ev.com/newsflash/292467"
+    "https://www.d1ev.com/newsflash/292467",
+    "https://www.d1ev.com/newsflash/292480"
   ],
   "newsHistory": [
     {
@@ -407,7 +408,13 @@
       "title": "比亚迪腾势Z超跑征名大战开启，创意命名赢大奖！",
       "source": "第一电动",
       "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292480",
+      "title": "中国车企销量首超日本，比亚迪纯电全球第一",
+      "source": "第一电动",
+      "pushedAt": 1774110158362
     }
   ],
-  "lastUpdated": "2026-03-21"
+  "lastUpdated": "2026-03-22"
 }
