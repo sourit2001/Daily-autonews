@@ -48,7 +48,16 @@
     "https://www.d1ev.com/newsflash/292453",
     "https://www.d1ev.com/newsflash/292465",
     "https://www.d1ev.com/newsflash/292466",
-    "https://www.d1ev.com/newsflash/292463"
+    "https://www.d1ev.com/newsflash/292463",
+    "https://www.d1ev.com/newsflash/292472",
+    "https://www.d1ev.com/newsflash/292470",
+    "https://www.d1ev.com/newsflash/292468",
+    "https://www.d1ev.com/newsflash/292475",
+    "https://www.d1ev.com/newsflash/292474",
+    "https://www.d1ev.com/newsflash/292473",
+    "https://www.d1ev.com/newsflash/292471",
+    "https://www.d1ev.com/newsflash/292469",
+    "https://www.d1ev.com/newsflash/292467"
   ],
   "newsHistory": [
     {
@@ -344,6 +353,60 @@
       "title": "国内首个“路空一体”测试基地启用 低空飞行器试飞更便捷",
       "source": "第一电动",
       "pushedAt": 1774096570840
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292472",
+      "title": "比亚迪ATTO3Evo英国上市：309hp动力升级，续航增至508km！",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292470",
+      "title": "OpenAI扩张计划曝光：2026年员工翻倍至8000人，估值8400亿美元！",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292468",
+      "title": "马斯克“数字擎天柱”即将上线，AI革命来袭！",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292475",
+      "title": "小鹏汽车海外扩张加速，墨西哥市场将迎G6和G9车型",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292474",
+      "title": "极星汽车坚持纯电路线，CEO：未来出行必须零排放",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292473",
+      "title": "小鹏汽车首次季度盈利3.8亿，营收增长38.2%达222.5亿",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292471",
+      "title": "小米新一代SU7湿滑路面智能提醒，265mm宽胎提升稳定性",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292469",
+      "title": "腾讯云发布KiKi助手：一句话搞定资源配置和应用部署",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292467",
+      "title": "比亚迪腾势Z超跑征名大战开启，创意命名赢大奖！",
+      "source": "第一电动",
+      "pushedAt": 1774102958624
     }
   ],
   "lastUpdated": "2026-03-21"
