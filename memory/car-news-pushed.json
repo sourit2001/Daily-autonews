@@ -45,7 +45,10 @@
     "https://www.d1ev.com/newsflash/292459",
     "https://www.d1ev.com/newsflash/292462",
     "https://www.d1ev.com/newsflash/292460",
-    "https://www.d1ev.com/newsflash/292453"
+    "https://www.d1ev.com/newsflash/292453",
+    "https://www.d1ev.com/newsflash/292465",
+    "https://www.d1ev.com/newsflash/292466",
+    "https://www.d1ev.com/newsflash/292463"
   ],
   "newsHistory": [
     {
@@ -323,6 +326,24 @@
       "title": "MiniMax M2.7模型爆火！平台高峰时段将限流保稳定",
       "source": "第一电动",
       "pushedAt": 1774088529181
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292465",
+      "title": "小米SU7新车型23日交付，长续航Pro版902km仅24.99万！",
+      "source": "第一电动",
+      "pushedAt": 1774096570840
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292466",
+      "title": "小米SU7全国交付启动，雷军直播答疑，起售价21.99万",
+      "source": "第一电动",
+      "pushedAt": 1774096570840
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292463",
+      "title": "国内首个“路空一体”测试基地启用 低空飞行器试飞更便捷",
+      "source": "第一电动",
+      "pushedAt": 1774096570840
     }
   ],
   "lastUpdated": "2026-03-21"
