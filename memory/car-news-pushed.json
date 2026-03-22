@@ -93,7 +93,12 @@
     "https://www.d1ev.com/newsflash/292508",
     "https://www.d1ev.com/newsflash/292515",
     "https://www.d1ev.com/newsflash/292510",
-    "https://www.d1ev.com/newsflash/292507"
+    "https://www.d1ev.com/newsflash/292507",
+    "https://www.d1ev.com/news/shichang/292521",
+    "https://www.d1ev.com/newsflash/292519",
+    "https://www.d1ev.com/newsflash/292518",
+    "https://www.d1ev.com/newsflash/292516",
+    "https://www.d1ev.com/news/qiye/292520"
   ],
   "newsHistory": [
     {
@@ -659,6 +664,36 @@
       "title": "特斯拉Model S车门把手隐患引发诉讼，车主索赔并要求修改设计",
       "source": "第一电动",
       "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292521",
+      "title": "E周看点｜小鹏汽车首次实现单季度盈利；岚图汽车港股上市",
+      "source": "第一电动",
+      "pushedAt": 1774174920437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292519",
+      "title": "Reddit CEO看好AI时代：应届生成抢手货，工程岗位需求激增",
+      "source": "第一电动",
+      "pushedAt": 1774174920437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292518",
+      "title": "OpenAI将向ChatGPT用户展示广告，广告主需承诺高额预算",
+      "source": "第一电动",
+      "pushedAt": 1774174920437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292516",
+      "title": "零跑汽车缅甸工厂B10下线，全球战略车型加速东南亚市场布局",
+      "source": "第一电动",
+      "pushedAt": 1774174920437
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292520",
+      "title": "“蔚小理”集体跨过“生死盈亏线”",
+      "source": "第一电动",
+      "pushedAt": 1774174920437
     }
   ],
   "lastUpdated": "2026-03-22"
