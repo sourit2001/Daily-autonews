@@ -78,7 +78,13 @@
     "https://www.d1ev.com/newsflash/292497",
     "https://www.d1ev.com/news/shichang/292496",
     "https://www.d1ev.com/newsflash/292495",
-    "https://www.d1ev.com/news/qiye/292493"
+    "https://www.d1ev.com/news/qiye/292493",
+    "https://www.d1ev.com/newsflash/292506",
+    "https://www.d1ev.com/newsflash/292504",
+    "https://www.d1ev.com/newsflash/292501",
+    "https://www.d1ev.com/newsflash/292505",
+    "https://www.d1ev.com/newsflash/292503",
+    "https://www.d1ev.com/newsflash/292502"
   ],
   "newsHistory": [
     {
@@ -554,6 +560,42 @@
       "title": "曝某新势力车企整顿贪腐：设1个月纠错期 主动上交受贿的既往不咎",
       "source": "第一电动",
       "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292506",
+      "title": "吉利星耀8远航家预售开启，纯电续航225公里，综合续航1725公里！",
+      "source": "第一电动",
+      "pushedAt": 1774161823117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292504",
+      "title": "岚图泰山X8亮相港交所，华为智能座舱加持革新大五座SUV市场",
+      "source": "第一电动",
+      "pushedAt": 1774161823117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292501",
+      "title": "问界M6内饰曝光：可旋转中控屏+冰箱+后排娱乐屏，3月23日全国亮相",
+      "source": "第一电动",
+      "pushedAt": 1774161823117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292505",
+      "title": "“此芯科技发布螯芯系列处理器，Armv9.2架构AI算力高达80TOPS”",
+      "source": "第一电动",
+      "pushedAt": 1774161823117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292503",
+      "title": "零跑B10缅甸首车下线，海外市场拓展至40国超900店",
+      "source": "第一电动",
+      "pushedAt": 1774161823117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292502",
+      "title": "大众CEO呼吁向中国学习：面对激烈竞争，大众在华销量下滑8%",
+      "source": "第一电动",
+      "pushedAt": 1774161823117
     }
   ],
   "lastUpdated": "2026-03-22"
