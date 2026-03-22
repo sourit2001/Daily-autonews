@@ -105,7 +105,12 @@
     "https://www.d1ev.com/newsflash/292522",
     "https://www.d1ev.com/newsflash/292527",
     "https://www.d1ev.com/newsflash/292526",
-    "https://www.d1ev.com/newsflash/292523"
+    "https://www.d1ev.com/newsflash/292523",
+    "https://www.d1ev.com/newsflash/292530",
+    "https://www.d1ev.com/newsflash/292532",
+    "https://www.d1ev.com/newsflash/292534",
+    "https://www.d1ev.com/newsflash/292531",
+    "https://www.d1ev.com/newsflash/292529"
   ],
   "newsHistory": [
     {
@@ -743,6 +748,36 @@
       "title": "国家发布OpenClaw安全指南，保护用户远离网络风险",
       "source": "第一电动",
       "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292530",
+      "title": "小米SU7限时改配今晚截止，卡布里蓝特别版轮毂亮相！",
+      "source": "第一电动",
+      "pushedAt": 1774189377455
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292532",
+      "title": "特斯拉前AI主管：AI一夜找到人类易漏的调优参数",
+      "source": "第一电动",
+      "pushedAt": 1774189377455
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292534",
+      "title": "大众汽车集团主席看好中国市场，承诺加大投入助力中国“十五五”发展",
+      "source": "第一电动",
+      "pushedAt": 1774189377455
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292531",
+      "title": "比亚迪腾势Z超跑全网征名，网友创意命名引爆热议",
+      "source": "第一电动",
+      "pushedAt": 1774189377455
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292529",
+      "title": "丰配友无锡马拉松再创佳绩，携手东风风神开启“零压”舒适之旅",
+      "source": "第一电动",
+      "pushedAt": 1774189377455
     }
   ],
   "lastUpdated": "2026-03-22"
