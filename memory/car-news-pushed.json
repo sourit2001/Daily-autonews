@@ -70,7 +70,15 @@
     "https://www.d1ev.com/newsflash/292484",
     "https://www.d1ev.com/news/shichang/292483",
     "https://www.d1ev.com/newsflash/292482",
-    "https://www.d1ev.com/newsflash/292481"
+    "https://www.d1ev.com/newsflash/292481",
+    "https://www.d1ev.com/newsflash/292499",
+    "https://www.d1ev.com/newsflash/292494",
+    "https://www.d1ev.com/newsflash/292500",
+    "https://www.d1ev.com/newsflash/292498",
+    "https://www.d1ev.com/newsflash/292497",
+    "https://www.d1ev.com/news/shichang/292496",
+    "https://www.d1ev.com/newsflash/292495",
+    "https://www.d1ev.com/news/qiye/292493"
   ],
   "newsHistory": [
     {
@@ -498,6 +506,54 @@
       "title": "蔚来五代换电站即将上线，今年目标新增千站8.5%",
       "source": "第一电动",
       "pushedAt": 1774144102822
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292499",
+      "title": "华为春季新品发布：问界M7焕新升级，夜紫新色亮相",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292494",
+      "title": "小米SU7正式上市！21.99万起售，央视点赞中国品牌新经典",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292500",
+      "title": "微信ClawBot插件上线，腾讯龙虾特工队全面适配新功能",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292498",
+      "title": "小米SU7新配色来袭，限时改配今晚截止！",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292497",
+      "title": "理想L9Livis首推60万内800V全主动悬架，技术突破引领行业变革",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292496",
+      "title": "博格华纳芜湖新工厂开业，主要配套奇瑞",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292495",
+      "title": "雷军亲推小米SU7：21.99万起售，3月23日交付仪式直播",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292493",
+      "title": "曝某新势力车企整顿贪腐：设1个月纠错期 主动上交受贿的既往不咎",
+      "source": "第一电动",
+      "pushedAt": 1774152923309
     }
   ],
   "lastUpdated": "2026-03-22"
