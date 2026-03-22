@@ -98,7 +98,14 @@
     "https://www.d1ev.com/newsflash/292519",
     "https://www.d1ev.com/newsflash/292518",
     "https://www.d1ev.com/newsflash/292516",
-    "https://www.d1ev.com/news/qiye/292520"
+    "https://www.d1ev.com/news/qiye/292520",
+    "https://www.d1ev.com/newsflash/292528",
+    "https://www.d1ev.com/newsflash/292525",
+    "https://www.d1ev.com/newsflash/292524",
+    "https://www.d1ev.com/newsflash/292522",
+    "https://www.d1ev.com/newsflash/292527",
+    "https://www.d1ev.com/newsflash/292526",
+    "https://www.d1ev.com/newsflash/292523"
   ],
   "newsHistory": [
     {
@@ -694,6 +701,48 @@
       "title": "“蔚小理”集体跨过“生死盈亏线”",
       "source": "第一电动",
       "pushedAt": 1774174920437
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292528",
+      "title": "吉利博越REV预售开启，续航1525公里，海洋美学设计亮眼",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292525",
+      "title": "小米“龙虾”手机AI助手亮相，雷军透露电脑版即将登场",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292524",
+      "title": "问界M6内饰官图曝光：个性化智能座舱，增程纯电双版本来袭",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292522",
+      "title": "数学家陶哲轩：AI改变研究，但不应取代人类探索",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292527",
+      "title": "零跑汽车反腐风暴：员工主动上交违规所得，千万以上已上缴",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292526",
+      "title": "科技巨头筑牢护城河，人工智能热潮难撼动市场地位",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292523",
+      "title": "国家发布OpenClaw安全指南，保护用户远离网络风险",
+      "source": "第一电动",
+      "pushedAt": 1774183135083
     }
   ],
   "lastUpdated": "2026-03-22"
