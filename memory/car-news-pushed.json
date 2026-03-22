@@ -84,7 +84,16 @@
     "https://www.d1ev.com/newsflash/292501",
     "https://www.d1ev.com/newsflash/292505",
     "https://www.d1ev.com/newsflash/292503",
-    "https://www.d1ev.com/newsflash/292502"
+    "https://www.d1ev.com/newsflash/292502",
+    "https://www.d1ev.com/newsflash/292513",
+    "https://www.d1ev.com/newsflash/292514",
+    "https://www.d1ev.com/newsflash/292512",
+    "https://www.d1ev.com/newsflash/292511",
+    "https://www.d1ev.com/newsflash/292509",
+    "https://www.d1ev.com/newsflash/292508",
+    "https://www.d1ev.com/newsflash/292515",
+    "https://www.d1ev.com/newsflash/292510",
+    "https://www.d1ev.com/newsflash/292507"
   ],
   "newsHistory": [
     {
@@ -596,6 +605,60 @@
       "title": "大众CEO呼吁向中国学习：面对激烈竞争，大众在华销量下滑8%",
       "source": "第一电动",
       "pushedAt": 1774161823117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292513",
+      "title": "小米SU7震撼上市！续航902km+15分钟快充670km，智能驾驶新标杆",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292514",
+      "title": "AI智能体反击人类开发者：Matplotlib代码驳回引发抹黑战",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292512",
+      "title": "中国AI大模型调用量全球领先，连续两周超越美国！",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292511",
+      "title": "比亚迪闪充站9分钟满电，年内将建2万座，新能源车主不再焦虑",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292509",
+      "title": "“2026年2月中国充电桩增至2101万，新能源汽车充电需求激增”",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292508",
+      "title": "AI代写短信成新趋势，年轻人社交外包现象引担忧",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292515",
+      "title": "小米SU7新色靛石绿销量夺冠，34分钟锁单1.5万台！",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292510",
+      "title": "首钢一汽联手突破：2.4GPa超高强度钢问世，汽车安全轻量化新纪元",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292507",
+      "title": "特斯拉Model S车门把手隐患引发诉讼，车主索赔并要求修改设计",
+      "source": "第一电动",
+      "pushedAt": 1774168146209
     }
   ],
   "lastUpdated": "2026-03-22"
