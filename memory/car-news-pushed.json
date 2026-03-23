@@ -134,7 +134,44 @@
     "https://www.d1ev.com/newsflash/292546",
     "https://www.d1ev.com/newsflash/292544",
     "https://www.d1ev.com/newsflash/292542",
-    "https://www.d1ev.com/newsflash/292539"
+    "https://www.d1ev.com/newsflash/292539",
+    "https://www.d1ev.com/newsflash/292593",
+    "https://www.d1ev.com/newsflash/292588",
+    "https://www.d1ev.com/newsflash/292579",
+    "https://www.d1ev.com/news/shichang/292573",
+    "https://www.d1ev.com/carnews/xinche/292566",
+    "https://www.d1ev.com/carnews/xinche/292565",
+    "https://www.d1ev.com/carnews/xinche/292564",
+    "https://www.d1ev.com/news/qiye/292597",
+    "https://www.d1ev.com/news/shichang/292592",
+    "https://www.d1ev.com/newsflash/292582",
+    "https://www.d1ev.com/newsflash/292580",
+    "https://www.d1ev.com/newsflash/292578",
+    "https://www.d1ev.com/newsflash/292576",
+    "https://www.d1ev.com/news/shichang/292575",
+    "https://www.d1ev.com/news/shichang/292572",
+    "https://www.d1ev.com/news/qiye/292571",
+    "https://www.d1ev.com/newsflash/292569",
+    "https://www.d1ev.com/news/shichang/292563",
+    "https://www.d1ev.com/newsflash/292603",
+    "https://www.d1ev.com/news/shichang/292602",
+    "https://www.d1ev.com/news/shichang/292600",
+    "https://www.d1ev.com/newsflash/292599",
+    "https://www.d1ev.com/newsflash/292598",
+    "https://www.d1ev.com/news/qiye/292596",
+    "https://www.d1ev.com/news/qiye/292595",
+    "https://www.d1ev.com/news/shichang/292594",
+    "https://www.d1ev.com/news/qiye/292591",
+    "https://www.d1ev.com/newsflash/292590",
+    "https://www.d1ev.com/news/shichang/292587",
+    "https://www.d1ev.com/news/shichang/292586",
+    "https://www.d1ev.com/newsflash/292585",
+    "https://www.d1ev.com/newsflash/292584",
+    "https://www.d1ev.com/newsflash/292583",
+    "https://www.d1ev.com/newsflash/292577",
+    "https://www.d1ev.com/news/shichang/292574",
+    "https://www.d1ev.com/newsflash/292568",
+    "https://www.d1ev.com/newsflash/292567"
   ],
   "newsHistory": [
     {
@@ -946,6 +983,228 @@
       "title": "首钢一汽合作突破：2.4GPa超高强度钢助力汽车安全升级",
       "source": "第一电动",
       "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292593",
+      "title": "2026北京亦庄半马升级：人形机器人自主导航赛队亮相，技术突破加速��",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292588",
+      "title": "华为激光雷达技术突破：896线双光路全球首发，多款新车搭载亮相",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292579",
+      "title": "瑞风RF8中大型MPV即将上市，2000元抵10000元购车优惠来袭！",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292573",
+      "title": "英国新车上路��到一年贬值37%",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292566",
+      "title": "采用6座布局 小鹏GX最新实车照曝光",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292565",
+      "title": "吉利博越REV开启预售 预售价12.79万元起",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292564",
+      "title": "外观内饰焕新 新款Jeep Avenger假想图曝光",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292597",
+      "title": "马斯克砸场半导体，特斯拉 SpaceX 合建 Terafab 芯片工厂",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292592",
+      "title": "曝加拿大消费者对电动汽车兴趣减弱，更青睐燃油车",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292582",
+      "title": "小米SU7首批交付开启！34分钟订单破1.5万，智能座舱升级，续航高达902km",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292580",
+      "title": "比亚迪市值破万亿，新能源车优势凸显",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292578",
+      "title": "瑞莎智核AICoreDX-M1M：3W功耗25TOPS算力，嵌入式AI加速新选择",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292576",
+      "title": "马斯克跨界合作：特斯拉联手SpaceX打造1万亿瓦AI芯片工厂",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292575",
+      "title": "Seeds | 轻舟智航完成1亿美元D轮融资，加速L4及物理AI布局",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292572",
+      "title": "3月车市“前低后高”蓄力回暖，新能源渗透率预计重回52.9%",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292571",
+      "title": "马斯克：特斯拉与SpaceX将新建两座高端芯片工厂",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292569",
+      "title": "欧洲AI企业呼吁征税：为公平竞争和文化产业投资",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292563",
+      "title": "科络达出席2026第七届软件定义汽车论坛，共探AI时代汽车软件新生态",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292603",
+      "title": "小鹏汽车进军Robotaxi，下半年开启载客示范运营",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292602",
+      "title": "SEC结束对FF五年调查，未予处罚",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292600",
+      "title": "东南亚车市｜菲律宾2月汽车销量下滑8%",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292599",
+      "title": "小米SU7发布会大咖云集：王传福、李想、何小鹏等车圈大佬站台",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292598",
+      "title": "小米SU7锁单破3万！靛石绿配色大受欢迎",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292596",
+      "title": "美光：每辆汽车将需要300GB内存 或将引发新一轮短缺",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292595",
+      "title": "小鹏汽车成立Robotaxi业务部",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292594",
+      "title": "重仓入局增程，五问上汽大众：后来者如何突围？",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292591",
+      "title": "捷豹路虎设计总监将离任",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292590",
+      "title": "华为激光雷达技术突破：20万至100万车型全覆盖",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292587",
+      "title": "宇树科技IPO，迎来关键进展",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292586",
+      "title": "大众CEO：中国经验值得德国借鉴",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292585",
+      "title": "小鹏MONAM03焕新登场！罗兰紫牛油果绿引领潮流新色",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292584",
+      "title": "小米汽车携手三大顶级赛事，SU7Ultra、YU7成官方安全车",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292583",
+      "title": "小米SU7新一代车型提前交付，雷军现场交车承诺一周内提车",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292577",
+      "title": "小米汽车冠名三大顶级赛事，SU7Ultra和YU7成官方安全车",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292574",
+      "title": "走进北汽 | 构建多元产业生态，共探智能化转型新路径",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292568",
+      "title": "小米SU7门把手升级：三重电源保障，2027新国标先行",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292567",
+      "title": "阿里千问打车新功能：一句话预约，个性化需求全满足",
+      "source": "第一电动",
+      "pushedAt": 1774240080681
     }
   ],
   "lastUpdated": "2026-03-23"
