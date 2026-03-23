@@ -222,7 +222,15 @@
     "https://www.d1ev.com/newsflash/292656",
     "https://www.d1ev.com/news/shichang/292649",
     "https://www.d1ev.com/news/qiye/292648",
-    "https://www.d1ev.com/news/shichang/292646"
+    "https://www.d1ev.com/news/shichang/292646",
+    "https://www.d1ev.com/newsflash/292663",
+    "https://www.d1ev.com/newsflash/292661",
+    "https://www.d1ev.com/newsflash/292660",
+    "https://www.d1ev.com/newsflash/292659",
+    "https://www.d1ev.com/news/shichang/292658",
+    "https://www.d1ev.com/newsflash/292657",
+    "https://www.d1ev.com/newsflash/292664",
+    "https://www.d1ev.com/newsflash/292662"
   ],
   "newsHistory": [
     {
@@ -1562,6 +1570,54 @@
       "title": "车市风向转变：买车“等等党”集体失算？",
       "source": "第一电动",
       "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292663",
+      "title": "比亚迪方程豹再升级：智能座舱焕新，哨兵模式升级，泊车更智能！",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292661",
+      "title": "国际油价飙升，中国新能源车海外销量激增",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292660",
+      "title": "合肥首开无人机送车牌服务，新能源车主1小时拿牌",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292659",
+      "title": "iPhone 17 Pro挑战极限：4000亿参数大模型也能跑！",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292658",
+      "title": "油价飙升下，亚太地区电动车市场迎“东风”",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292657",
+      "title": "“Token调用量两年增长千倍，中国数据价值释放年加速AI融合实体经济”",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292664",
+      "title": "大疆诉影石专利侵权，无人机技术战火升级",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292662",
+      "title": "文远知行2025年营收翻倍增长，Robotaxi用户激增900%",
+      "source": "第一电动",
+      "pushedAt": 1774270509607
     }
   ],
   "lastUpdated": "2026-03-23"
