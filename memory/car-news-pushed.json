@@ -249,7 +249,10 @@
     "https://www.d1ev.com/newsflash/292669",
     "https://www.d1ev.com/newsflash/292668",
     "https://www.d1ev.com/newsflash/292688",
-    "https://www.d1ev.com/newsflash/292687"
+    "https://www.d1ev.com/newsflash/292687",
+    "https://www.d1ev.com/newsflash/292690",
+    "https://www.d1ev.com/newsflash/292691",
+    "https://www.d1ev.com/newsflash/292689"
   ],
   "newsHistory": [
     {
@@ -1751,6 +1754,24 @@
       "title": "理想增程3.0系统专为SUV设计，轿车无缘搭载",
       "source": "第一电动",
       "pushedAt": 1774284775807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292690",
+      "title": "华为联手广汽打造智能猎装车，启境GT7开启AI出行新时代",
+      "source": "第一电动",
+      "pushedAt": 1774291493386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292691",
+      "title": "智界R7激光雷达版全国交付，25.98万起售享7.4万权益！",
+      "source": "第一电动",
+      "pushedAt": 1774291493386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292689",
+      "title": "别克至境世家纯电版：MPV安全新标杆，极限测试全胜！",
+      "source": "第一电动",
+      "pushedAt": 1774291493386
     }
   ],
   "lastUpdated": "2026-03-24"
