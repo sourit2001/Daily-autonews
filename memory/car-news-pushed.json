@@ -110,7 +110,31 @@
     "https://www.d1ev.com/newsflash/292532",
     "https://www.d1ev.com/newsflash/292534",
     "https://www.d1ev.com/newsflash/292531",
-    "https://www.d1ev.com/newsflash/292529"
+    "https://www.d1ev.com/newsflash/292529",
+    "https://www.d1ev.com/carnews/xinche/292558",
+    "https://www.d1ev.com/carnews/xinche/292552",
+    "https://www.d1ev.com/newsflash/292551",
+    "https://www.d1ev.com/newsflash/292549",
+    "https://www.d1ev.com/newsflash/292545",
+    "https://www.d1ev.com/newsflash/292561",
+    "https://www.d1ev.com/newsflash/292554",
+    "https://www.d1ev.com/newsflash/292553",
+    "https://www.d1ev.com/newsflash/292550",
+    "https://www.d1ev.com/newsflash/292543",
+    "https://www.d1ev.com/newsflash/292540",
+    "https://www.d1ev.com/news/shichang/292538",
+    "https://www.d1ev.com/newsflash/292562",
+    "https://www.d1ev.com/newsflash/292560",
+    "https://www.d1ev.com/newsflash/292559",
+    "https://www.d1ev.com/carnews/xinche/292557",
+    "https://www.d1ev.com/carnews/xinche/292556",
+    "https://www.d1ev.com/newsflash/292555",
+    "https://www.d1ev.com/news/shichang/292548",
+    "https://www.d1ev.com/news/shichang/292547",
+    "https://www.d1ev.com/newsflash/292546",
+    "https://www.d1ev.com/newsflash/292544",
+    "https://www.d1ev.com/newsflash/292542",
+    "https://www.d1ev.com/newsflash/292539"
   ],
   "newsHistory": [
     {
@@ -778,7 +802,151 @@
       "title": "丰配友无锡马拉松再创佳绩，携手东风风神开启“零压”舒适之旅",
       "source": "第一电动",
       "pushedAt": 1774189377455
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292558",
+      "title": "预售15.68万起 广汽丰田铂智7上市定档",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292552",
+      "title": "会转头的中控屏 问界M6内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292551",
+      "title": "“问界M6智慧SUV开启预售，续航760km大五座家庭新选择”",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292549",
+      "title": "吉利博越REV预售开启：12.79万起，续航超1400km增程SUV来袭！",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292545",
+      "title": "雅迪冠能白鲨II电摩震撼上市：58km/h极速、-20℃稳定续航！",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292561",
+      "title": "小鹏MONA03新色来袭：罗兰紫牛油果绿，续航高达640km！",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292554",
+      "title": "小米SU7今日开启首批交付，续航高达902km！",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292553",
+      "title": "美光CEO预测：L4自动驾驶车内存需求将超300GB",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292550",
+      "title": "AI教父辛顿警告：超级智能可能导致人类灭绝风险高达20%",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292543",
+      "title": "Meta全面拥抱AI：每个员工将拥有AI助手，效率革命来袭",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292540",
+      "title": "小米SU7Pro续航挑战成功：1173公里跨城仅充一次电",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292538",
+      "title": "【盖世快讯】大众CEO称德国车企应借鉴中国的规划模式；中国车企全球销量首超日本居榜首",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292562",
+      "title": "“油价五连涨！92号汽油逼近9元大关，加满一箱油多花百元”",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292560",
+      "title": "华为激光雷达加持，尚界Z7系列20万起售挑战特斯拉Model3",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292559",
+      "title": "小米SU7首批交付开启！一周提车告别长等周期",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292557",
+      "title": "29.99万起 新款阿维塔12配置差异一文看懂",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292556",
+      "title": "马自达发售CX-60/CX-80改良版车型",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292555",
+      "title": "小米新一代SU7底盘升级：操控性与舒适性双提升",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292548",
+      "title": "2026年，车圈终于流行卷技术了？",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292547",
+      "title": "荣威和MG，再无退路",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292546",
+      "title": "法拉第未来获SEC“清白”：贾跃亭胜诉华尔街，FF迎来新生",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292544",
+      "title": "小米SU7升级：56英寸HUD功能大增，老车主也能享受新科技",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292542",
+      "title": "法拉第未来摆脱SEC调查，股价仍面临摘牌风险",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292539",
+      "title": "首钢一汽合作突破：2.4GPa超高强度钢助力汽车安全升级",
+      "source": "第一电动",
+      "pushedAt": 1774230670240
     }
   ],
-  "lastUpdated": "2026-03-22"
+  "lastUpdated": "2026-03-23"
 }
