@@ -230,7 +230,24 @@
     "https://www.d1ev.com/news/shichang/292658",
     "https://www.d1ev.com/newsflash/292657",
     "https://www.d1ev.com/newsflash/292664",
-    "https://www.d1ev.com/newsflash/292662"
+    "https://www.d1ev.com/newsflash/292662",
+    "https://www.d1ev.com/carnews/xinche/292679",
+    "https://www.d1ev.com/carnews/xinche/292678",
+    "https://www.d1ev.com/newsflash/292676",
+    "https://www.d1ev.com/carnews/xinche/292675",
+    "https://www.d1ev.com/newsflash/292672",
+    "https://www.d1ev.com/newsflash/292666",
+    "https://www.d1ev.com/newsflash/292665",
+    "https://www.d1ev.com/newsflash/292671",
+    "https://www.d1ev.com/newsflash/292667",
+    "https://www.d1ev.com/newsflash/292681",
+    "https://www.d1ev.com/news/shichang/292674",
+    "https://www.d1ev.com/newsflash/292680",
+    "https://www.d1ev.com/news/shichang/292677",
+    "https://www.d1ev.com/news/shichang/292673",
+    "https://www.d1ev.com/newsflash/292670",
+    "https://www.d1ev.com/newsflash/292669",
+    "https://www.d1ev.com/newsflash/292668"
   ],
   "newsHistory": [
     {
@@ -1618,6 +1635,108 @@
       "title": "文远知行2025年营收翻倍增长，Robotaxi用户激增900%",
       "source": "第一电动",
       "pushedAt": 1774270509607
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292679",
+      "title": "新款问界M7上市 售价30.98-38.98万元",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292678",
+      "title": "新款问界M8上市 售价36.98-45.98万元",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292676",
+      "title": "华为春季新品发布：尚界Z7/Z7T轿跑预售价22.98万起，3小时订单破1.8万台",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292675",
+      "title": "新款雪铁龙凡尔赛C5 X上市 售14.17万元起",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292672",
+      "title": "阿维塔06T首发大师漂移模式，华为激光雷达加持，续航高达741km",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292666",
+      "title": "华为技术加持，阿维塔12预售29.99万起，智能驾驶性能全面升级",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292665",
+      "title": "华为问界M6预售开启！增程版26.98万起，纯电版28.98万起",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292671",
+      "title": "西门子RXD大会聚焦工业AI革命：AI赋能汽车车间高效生产",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292667",
+      "title": "国际油价飙升，澳大利亚民众纷纷转向中国电动车",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292681",
+      "title": "中国汽车销量首超日本，全球竞争新阶段开启",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292674",
+      "title": "Mobileye获美国车企DMS订单",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292680",
+      "title": "小米SU7全国64家门店开售，锁单量破3万！",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292677",
+      "title": "时驾科技平湖工厂开业，全主动悬架等四款产品齐发",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292673",
+      "title": "文远知行2025年营收6.9亿元同比增90% Robotaxi收入增长超两倍",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292670",
+      "title": "小米SU7首批交付启动，全国64家门店同步开启！",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292669",
+      "title": "合肥蔚来体验中心首飞无人机送车牌，一小时到手！",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292668",
+      "title": "华为鸿蒙智界R7首批交付，双光路激光雷达版25.98万起",
+      "source": "第一电动",
+      "pushedAt": 1774277601807
     }
   ],
   "lastUpdated": "2026-03-23"
