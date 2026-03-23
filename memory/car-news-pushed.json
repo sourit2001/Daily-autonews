@@ -171,7 +171,19 @@
     "https://www.d1ev.com/newsflash/292577",
     "https://www.d1ev.com/news/shichang/292574",
     "https://www.d1ev.com/newsflash/292568",
-    "https://www.d1ev.com/newsflash/292567"
+    "https://www.d1ev.com/newsflash/292567",
+    "https://www.d1ev.com/newsflash/292612",
+    "https://www.d1ev.com/carnews/xinche/292611",
+    "https://www.d1ev.com/newsflash/292607",
+    "https://www.d1ev.com/carnews/xinche/292606",
+    "https://www.d1ev.com/newsflash/292604",
+    "https://www.d1ev.com/newsflash/292615",
+    "https://www.d1ev.com/newsflash/292614",
+    "https://www.d1ev.com/newsflash/292609",
+    "https://www.d1ev.com/newsflash/292608",
+    "https://www.d1ev.com/newsflash/292605",
+    "https://www.d1ev.com/news/shichang/292613",
+    "https://www.d1ev.com/news/shichang/292610"
   ],
   "newsHistory": [
     {
@@ -1205,6 +1217,78 @@
       "title": "阿里千问打车新功能：一句话预约，个性化需求全满足",
       "source": "第一电动",
       "pushedAt": 1774240080681
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292612",
+      "title": "阿里云无影团队发力硬件市场，JVSBook与JVSBox即将亮相！",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292611",
+      "title": "全新揽巡将3月31日上市 定位硬核大五座SUV",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292607",
+      "title": "阿里云无影团队发力硬件！JVSBook笔记本与JVSBox迷你主机即将亮相",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292606",
+      "title": "定位大型SUV 小鹏GX将于二季度上市",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292604",
+      "title": "小鹏MONA系列新SUV谍照曝光，MONAD03轿跑SUV即将登场！",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292615",
+      "title": "《勇者斗恶龙10》引入AI伙伴“话痨史莱姆”，谷歌技术助力游戏体验升级",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292614",
+      "title": "Meta AI助手全球上线，5秒响应用户Facebook、Instagram问题",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292609",
+      "title": "深蓝3月订单破2000，新能源市场回暖，L06智能驾驶升级",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292608",
+      "title": "智元机器人发布长续航四足机器人D1MAX，30公里穿越极限地形！",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292605",
+      "title": "劳斯莱斯电动化不动摇，V12发动机将延续至2030年后",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292613",
+      "title": "均普智能机器人业务再落子，普智未来成立无锡子公司",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292610",
+      "title": "零跑B10在缅甸SKD工厂正式下线，首批车辆完成交付",
+      "source": "第一电动",
+      "pushedAt": 1774249463428
     }
   ],
   "lastUpdated": "2026-03-23"
