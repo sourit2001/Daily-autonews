@@ -247,7 +247,9 @@
     "https://www.d1ev.com/news/shichang/292673",
     "https://www.d1ev.com/newsflash/292670",
     "https://www.d1ev.com/newsflash/292669",
-    "https://www.d1ev.com/newsflash/292668"
+    "https://www.d1ev.com/newsflash/292668",
+    "https://www.d1ev.com/newsflash/292688",
+    "https://www.d1ev.com/newsflash/292687"
   ],
   "newsHistory": [
     {
@@ -1737,7 +1739,19 @@
       "title": "华为鸿蒙智界R7首批交付，双光路激光雷达版25.98万起",
       "source": "第一电动",
       "pushedAt": 1774277601807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292688",
+      "title": "充电站价格战激烈：年收入从50万跌至6万，行业利润缩水严重",
+      "source": "第一电动",
+      "pushedAt": 1774284775807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292687",
+      "title": "理想增程3.0系统专为SUV设计，轿车无缘搭载",
+      "source": "第一电动",
+      "pushedAt": 1774284775807
     }
   ],
-  "lastUpdated": "2026-03-23"
+  "lastUpdated": "2026-03-24"
 }
