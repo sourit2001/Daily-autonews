@@ -211,7 +211,18 @@
     "https://www.d1ev.com/newsflash/292621",
     "https://www.d1ev.com/news/shichang/292620",
     "https://www.d1ev.com/newsflash/292618",
-    "https://www.d1ev.com/news/qiye/292616"
+    "https://www.d1ev.com/news/qiye/292616",
+    "https://www.d1ev.com/newsflash/292655",
+    "https://www.d1ev.com/newsflash/292654",
+    "https://www.d1ev.com/newsflash/292653",
+    "https://www.d1ev.com/newsflash/292652",
+    "https://www.d1ev.com/newsflash/292651",
+    "https://www.d1ev.com/newsflash/292650",
+    "https://www.d1ev.com/news/shichang/292647",
+    "https://www.d1ev.com/newsflash/292656",
+    "https://www.d1ev.com/news/shichang/292649",
+    "https://www.d1ev.com/news/qiye/292648",
+    "https://www.d1ev.com/news/shichang/292646"
   ],
   "newsHistory": [
     {
@@ -1485,6 +1496,72 @@
       "title": "劳斯莱斯撤回2030年全面纯电计划：V12发动机将再战10年",
       "source": "第一电动",
       "pushedAt": 1774255918565
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292655",
+      "title": "阿里AI千问App上线打车服务 一键满足个性化出行需求",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292654",
+      "title": "国际油价飙升，新能源汽车市场迎来转机",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292653",
+      "title": "华为乾崑智驾累计使用超5000万次，辅助驾驶新里程碑！",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292652",
+      "title": "36亿南方试验场启用，新能源汽车检测加速升级",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292651",
+      "title": "韩国AI巨头Upstage联手AMD，加速自主AI技术发展",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292650",
+      "title": "AI商品贸易激增42%，亚洲占全球62%，WTO预测2026年成关键增长点",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292647",
+      "title": "“要么建成，要么无芯可用”：马斯克的芯片豪赌",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292656",
+      "title": "美五大行业组织施压特朗普：封堵中国汽车入美市场",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292649",
+      "title": "Seeds | 金钢科技获近亿元A轮融资",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292648",
+      "title": "22.98万起 小米SU7国产强敌！鸿蒙智行尚界Z7/Z7T一图看懂",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292646",
+      "title": "车市风向转变：买车“等等党”集体失算？",
+      "source": "第一电动",
+      "pushedAt": 1774262945773
     }
   ],
   "lastUpdated": "2026-03-23"
