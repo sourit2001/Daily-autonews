@@ -252,7 +252,30 @@
     "https://www.d1ev.com/newsflash/292687",
     "https://www.d1ev.com/newsflash/292690",
     "https://www.d1ev.com/newsflash/292691",
-    "https://www.d1ev.com/newsflash/292689"
+    "https://www.d1ev.com/newsflash/292689",
+    "https://www.d1ev.com/carnews/xinche/292717",
+    "https://www.d1ev.com/carnews/xinche/292716",
+    "https://www.d1ev.com/news/qiye/292714",
+    "https://www.d1ev.com/carnews/xinche/292713",
+    "https://www.d1ev.com/carnews/xinche/292712",
+    "https://www.d1ev.com/news/shichang/292705",
+    "https://www.d1ev.com/news/shichang/292703",
+    "https://www.d1ev.com/news/qiye/292698",
+    "https://www.d1ev.com/carnews/xinche/292697",
+    "https://www.d1ev.com/newsflash/292709",
+    "https://www.d1ev.com/news/shichang/292707",
+    "https://www.d1ev.com/newsflash/292700",
+    "https://www.d1ev.com/newsflash/292708",
+    "https://www.d1ev.com/news/qiye/292715",
+    "https://www.d1ev.com/carnews/xinche/292711",
+    "https://www.d1ev.com/news/qiye/292710",
+    "https://www.d1ev.com/news/shichang/292704",
+    "https://www.d1ev.com/news/shichang/292702",
+    "https://www.d1ev.com/newsflash/292701",
+    "https://www.d1ev.com/news/shichang/292696",
+    "https://www.d1ev.com/news/shichang/292695",
+    "https://www.d1ev.com/newsflash/292694",
+    "https://www.d1ev.com/news/qiye/292693"
   ],
   "newsHistory": [
     {
@@ -1772,6 +1795,144 @@
       "title": "别克至境世家纯电版：MPV安全新标杆，极限测试全胜！",
       "source": "第一电动",
       "pushedAt": 1774291493386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292717",
+      "title": "将于二季度上市 领克10+官图发布",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292716",
+      "title": "搭千里浩瀚H3 博越L新车型将于3月底上市",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292714",
+      "title": "尚界Z7双车开启预订，预售价22.98万起，解锁科技轿跑新体验",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292713",
+      "title": "全新鸿蒙智行问界M6预售：26.98万起",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292712",
+      "title": "配备2.5K大屏 全新荣威i6内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292705",
+      "title": "内饰采用三联屏 新款奥迪Q4 e-tron谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292703",
+      "title": "进入冬测阶段 新款奇瑞瑞虎9官方谍照",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292698",
+      "title": "26.98万元起，新锐智慧SUV问界M6开启预售",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292697",
+      "title": "2026年第12周（3.16-3.22）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292709",
+      "title": "OpenAI ChatGPT新增“云端图书馆”功能，付费用户独享文件存储便利",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292707",
+      "title": "线控转向，要成为新能源车的必选项了？",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292700",
+      "title": "新疆霍尔果斯口岸新能源汽车出口激增，创历史新高",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292708",
+      "title": "A股三大指数暴跌超3%，沪指险守3800点；美国禁止进口外国制造路由器",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292715",
+      "title": "问界M8焕新升级36.98万起售，搭载896线双光路图像级激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292711",
+      "title": "雪佛兰明确否认C8科尔维特将推手动挡车型",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292710",
+      "title": "问界 M7 新增搭载896线双光路图像级激光雷达，30.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292704",
+      "title": "终结日本25年霸权，汽车产业进入中国时刻",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292702",
+      "title": "油价重回9元！0点调价，你的车还开得起吗？",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292701",
+      "title": "小米SU7Max新亮点：双分区智能调光天幕，防晒隔热新体验",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292696",
+      "title": "81.9%价格倒挂，汽车经销商困在卖车里",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292695",
+      "title": "【盖世快讯】国家发展改革委对成品油价格采取临时调控措施；鸿蒙智行累计交付超130万",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292694",
+      "title": "阿里巴巴蔡崇信：大语言模型变身“网红科技博主”幕后推手",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292693",
+      "title": "新SU7双代言人苏炳添/舒淇语音彩蛋上线 全程陪你开车",
+      "source": "第一电动",
+      "pushedAt": 1774315868842
     }
   ],
   "lastUpdated": "2026-03-24"
