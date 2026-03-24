@@ -359,7 +359,22 @@
     "https://www.d1ev.com/newsflash/292786",
     "https://www.d1ev.com/news/shichang/292783",
     "https://www.d1ev.com/news/qiye/292781",
-    "https://www.d1ev.com/news/shichang/292779"
+    "https://www.d1ev.com/news/shichang/292779",
+    "https://www.d1ev.com/newsflash/292823",
+    "https://www.d1ev.com/newsflash/292813",
+    "https://www.d1ev.com/newsflash/292824",
+    "https://www.d1ev.com/newsflash/292822",
+    "https://www.d1ev.com/newsflash/292815",
+    "https://www.d1ev.com/news/qiye/292814",
+    "https://www.d1ev.com/newsflash/292809",
+    "https://www.d1ev.com/newsflash/292821",
+    "https://www.d1ev.com/news/shichang/292820",
+    "https://www.d1ev.com/news/shichang/292819",
+    "https://www.d1ev.com/news/shichang/292816",
+    "https://www.d1ev.com/newsflash/292812",
+    "https://www.d1ev.com/newsflash/292811",
+    "https://www.d1ev.com/news/shichang/292810",
+    "https://www.d1ev.com/news/shichang/292808"
   ],
   "newsHistory": [
     {
@@ -2521,6 +2536,96 @@
       "title": "泽景电子正式登陆港交所",
       "source": "第一电动",
       "pushedAt": 1774349280043
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292823",
+      "title": "鸿蒙智行尚界Z7/Z7T预售24小时订单破25000，华为技术加持迎战特斯拉Model3/Y",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292813",
+      "title": "东风奕派eπ007闪现版3月28日上市，纳米01Cross同步开启预售",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292824",
+      "title": "甲骨文CEO伦敦发布全球最大AI云：AI工具助力企业效率飞跃",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292822",
+      "title": "小米2025年财报亮眼：汽车业务破千亿，AIoT生态领跑全球",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292815",
+      "title": "小米汽车2025年大爆发：年交付超41万辆，AI业务收入翻倍",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292814",
+      "title": "无感补能时代开启！理想自动充电站即将落地：全程不用下车",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292809",
+      "title": "特斯拉Semi卡车将支持1.2兆瓦充电 未来或实现自动充电",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292821",
+      "title": "文远知行2025年财报亮眼：Robotaxi业务收入翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292820",
+      "title": "沙基推出两款全新特种材料 用于提升汽车设计、功能和循环利用",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292819",
+      "title": "重量不足2磅 韩国Tesollo公司推出灵巧度堪比人手的机器人手",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292816",
+      "title": "以色列科学家发明激光制造的硅-石墨烯阳极 可在2000次循环后保持98%的容量",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292812",
+      "title": "华为问界M6预订首日破6万，增程纯电双版本震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292811",
+      "title": "领克900春日购车季：至高5.5万补贴，置换用户专享优惠！",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292810",
+      "title": "汽车业务收入首超千亿！小米集团2025年财报出炉",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292808",
+      "title": "禾赛发布2025Q4及全年财报：交付量净增至三倍，26年翻番超300万",
+      "source": "第一电动",
+      "pushedAt": 1774357241625
     }
   ],
   "lastUpdated": "2026-03-24"
