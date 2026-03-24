@@ -299,7 +299,24 @@
     "https://www.d1ev.com/news/shichang/292730",
     "https://www.d1ev.com/news/shichang/292727",
     "https://www.d1ev.com/carnews/xinche/292725",
-    "https://www.d1ev.com/newsflash/292719"
+    "https://www.d1ev.com/newsflash/292719",
+    "https://www.d1ev.com/newsflash/292762",
+    "https://www.d1ev.com/carnews/xinche/292752",
+    "https://www.d1ev.com/carnews/xinche/292749",
+    "https://www.d1ev.com/newsflash/292761",
+    "https://www.d1ev.com/newsflash/292760",
+    "https://www.d1ev.com/news/shichang/292757",
+    "https://www.d1ev.com/newsflash/292756",
+    "https://www.d1ev.com/news/shichang/292744",
+    "https://www.d1ev.com/newsflash/292753",
+    "https://www.d1ev.com/news/qiye/292746",
+    "https://www.d1ev.com/news/shichang/292758",
+    "https://www.d1ev.com/news/qiye/292755",
+    "https://www.d1ev.com/carnews/xinche/292751",
+    "https://www.d1ev.com/news/qiye/292748",
+    "https://www.d1ev.com/news/shichang/292747",
+    "https://www.d1ev.com/newsflash/292745",
+    "https://www.d1ev.com/newsflash/292742"
   ],
   "newsHistory": [
     {
@@ -2101,6 +2118,108 @@
       "title": "美五大汽车组织联名施压特朗普：维持对华汽车进口限制",
       "source": "第一电动",
       "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292762",
+      "title": "奥迪Q4e-tron全新升级，2026年亮相，续航性能大提升！",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292752",
+      "title": "2026款小鹏MONA M03内饰官图 将于春季上市",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292749",
+      "title": "深蓝S09新车型上市 售价25.99万元",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292761",
+      "title": "“2025电动两轮车销量激增16.6%，九号小牛线上称霸”",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292760",
+      "title": "国际油价飙升！美国消费者加速转向电动车",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292757",
+      "title": "德州仪器推出高性能隔离式电源模块 提升数据中心和电动汽车的功率密度",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292756",
+      "title": "阿里AI智能体AccioWork海外上线，30分钟打造网店神器",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292744",
+      "title": "Bosch Limited与TACO宣布成立合资企业，加速电动汽车领域发展",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292753",
+      "title": "美国禁令来袭：海外制造路由器禁止进口",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292746",
+      "title": "高额关税拦路！美国消费者相中3款中国电车：心急却买不到",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292758",
+      "title": "2026年2月乘用车自主品牌销量榜：奇瑞跃升次席，零跑跻身前十丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292755",
+      "title": "享界S9T、享界S9焕新版31.98 万起，搭载 896 线双光路图像级激光",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292751",
+      "title": "Freelander神行者系列首车3月31日发布",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292748",
+      "title": "智界双7焕新896线激光雷达23.98万起，智界V9展车4月下旬到店",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292747",
+      "title": "新款凡尔赛C5 X ，价格下探至11万元",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292745",
+      "title": "一汽-大众35周年庆：千万家庭信赖，品质严选好礼限时回馈",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292742",
+      "title": "中国车企底盘技术突破：蔚来ES9、理想L9引领智能底盘新时代",
+      "source": "第一电动",
+      "pushedAt": 1774335569562
     }
   ],
   "lastUpdated": "2026-03-24"
