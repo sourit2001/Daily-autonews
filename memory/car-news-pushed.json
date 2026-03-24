@@ -374,7 +374,11 @@
     "https://www.d1ev.com/newsflash/292812",
     "https://www.d1ev.com/newsflash/292811",
     "https://www.d1ev.com/news/shichang/292810",
-    "https://www.d1ev.com/news/shichang/292808"
+    "https://www.d1ev.com/news/shichang/292808",
+    "https://www.d1ev.com/newsflash/292827",
+    "https://www.d1ev.com/newsflash/292826",
+    "https://www.d1ev.com/newsflash/292828",
+    "https://www.d1ev.com/newsflash/292825"
   ],
   "newsHistory": [
     {
@@ -2626,6 +2630,30 @@
       "title": "禾赛发布2025Q4及全年财报：交付量净增至三倍，26年翻番超300万",
       "source": "第一电动",
       "pushedAt": 1774357241625
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292827",
+      "title": "比亚迪宋UltraEV 3月26日上市，预售价15.5万起，B级纯电闪充SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1774364011686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292826",
+      "title": "蔚来Firefly右舵版泰国上市，16.9万起售续航330km",
+      "source": "第一电动",
+      "pushedAt": 1774364011686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292828",
+      "title": "2027款梅赛德斯-迈巴赫S级：豪华新标杆，科技与奢华的极致融合",
+      "source": "第一电动",
+      "pushedAt": 1774364011686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292825",
+      "title": "沃兹尼亚克：人工智能太枯燥，缺乏人类情感",
+      "source": "第一电动",
+      "pushedAt": 1774364011686
     }
   ],
   "lastUpdated": "2026-03-24"
