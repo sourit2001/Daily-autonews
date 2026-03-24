@@ -378,7 +378,9 @@
     "https://www.d1ev.com/newsflash/292827",
     "https://www.d1ev.com/newsflash/292826",
     "https://www.d1ev.com/newsflash/292828",
-    "https://www.d1ev.com/newsflash/292825"
+    "https://www.d1ev.com/newsflash/292825",
+    "https://www.d1ev.com/newsflash/292834",
+    "https://www.d1ev.com/newsflash/292835"
   ],
   "newsHistory": [
     {
@@ -2654,7 +2656,19 @@
       "title": "沃兹尼亚克：人工智能太枯燥，缺乏人类情感",
       "source": "第一电动",
       "pushedAt": 1774364011686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292834",
+      "title": "华为联手广汽打造启境GT7，6月上市开启智能出行新境界",
+      "source": "第一电动",
+      "pushedAt": 1774371344076
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292835",
+      "title": "商汤科技年收入破50亿创新高，2026年推第二代NEO架构新模型",
+      "source": "第一电动",
+      "pushedAt": 1774371344076
     }
   ],
-  "lastUpdated": "2026-03-24"
+  "lastUpdated": "2026-03-25"
 }
