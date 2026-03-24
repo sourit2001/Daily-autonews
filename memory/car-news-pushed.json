@@ -275,7 +275,31 @@
     "https://www.d1ev.com/news/shichang/292696",
     "https://www.d1ev.com/news/shichang/292695",
     "https://www.d1ev.com/newsflash/292694",
-    "https://www.d1ev.com/news/qiye/292693"
+    "https://www.d1ev.com/news/qiye/292693",
+    "https://www.d1ev.com/newsflash/292736",
+    "https://www.d1ev.com/newsflash/292718",
+    "https://www.d1ev.com/newsflash/292739",
+    "https://www.d1ev.com/newsflash/292737",
+    "https://www.d1ev.com/newsflash/292732",
+    "https://www.d1ev.com/news/qiye/292729",
+    "https://www.d1ev.com/news/qiye/292724",
+    "https://www.d1ev.com/news/qiye/292723",
+    "https://www.d1ev.com/newsflash/292721",
+    "https://www.d1ev.com/newsflash/292720",
+    "https://www.d1ev.com/news/shichang/292740",
+    "https://www.d1ev.com/news/shichang/292734",
+    "https://www.d1ev.com/newsflash/292728",
+    "https://www.d1ev.com/newsflash/292726",
+    "https://www.d1ev.com/news/qiye/292722",
+    "https://www.d1ev.com/news/shichang/292741",
+    "https://www.d1ev.com/news/shichang/292738",
+    "https://www.d1ev.com/news/shichang/292735",
+    "https://www.d1ev.com/news/shichang/292733",
+    "https://www.d1ev.com/news/shichang/292731",
+    "https://www.d1ev.com/news/shichang/292730",
+    "https://www.d1ev.com/news/shichang/292727",
+    "https://www.d1ev.com/carnews/xinche/292725",
+    "https://www.d1ev.com/newsflash/292719"
   ],
   "newsHistory": [
     {
@@ -1933,6 +1957,150 @@
       "title": "新SU7双代言人苏炳添/舒淇语音彩蛋上线 全程陪你开车",
       "source": "第一电动",
       "pushedAt": 1774315868842
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292736",
+      "title": "奇瑞捷豹路虎联手打造，FREELANDER神行者新能源SUV月底亮相",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292718",
+      "title": "吉利博越L小蓝灯版月底上市，搭载千里浩瀚辅助驾驶H3方案",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292739",
+      "title": "英伟达GTC2026大动作：MGX机架开放兼容谷歌AMD芯片",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292737",
+      "title": "长安深蓝S09新推后驱Ultra超长续航版，25.99万起售！",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292732",
+      "title": "理想汽车超充网络覆盖280城，开启自动充电新纪元",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292729",
+      "title": "瞄准2nm先进制程 特斯拉招募资深芯片工程师",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292724",
+      "title": "欲打破三足鼎立！特斯拉招募资深芯片工程师 需十年以上开发经验",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292723",
+      "title": "通用汽车将于本周在公共道路测试“脱手脱眼”自动驾驶技术，计划2028年推出",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292721",
+      "title": "全球首款AI车机电动车小牛NXT2开售，智能出行新体验！",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292720",
+      "title": "全球首款AI车机电动自行车小牛NXT2开售，售价5299元起",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292740",
+      "title": "四分之一欧洲汽车零部件供应商预计年内将出现亏损",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292734",
+      "title": "美国关税利刃高悬：2025年欧洲主流车企或折损超60亿美元",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292728",
+      "title": "丰田豪掷68.96亿扩产美国，凯美瑞RAV4产能大增",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292726",
+      "title": "西湖大学发布全球首个GAE身外化身系统机器人“泰坦o1”：孙悟空般的“分身术”成现实",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292722",
+      "title": "丰田将向美国工厂投资10亿美元 扩充纯电及混动车型产能",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292741",
+      "title": "鸿蒙智行的市场“阳谋”",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292738",
+      "title": "继北美召回之后，现代在韩国再召回5.8万辆帕里斯帝SUV",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292735",
+      "title": "敏实集团2025年业绩创新高，净利润增速超营收增速",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292733",
+      "title": "​油价“9元”时代，暂未全面到来",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292731",
+      "title": "特斯拉计划进军印度储能市场",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292730",
+      "title": "拓普集团2025年营收295.8亿元，新赛道布局重塑成长逻辑",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292727",
+      "title": "天然气供应紧张波及印度汽车制造业，部分工厂产能下滑",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292725",
+      "title": "奔驰第五代A-Class将于2028年推出",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292719",
+      "title": "美五大汽车组织联名施压特朗普：维持对华汽车进口限制",
+      "source": "第一电动",
+      "pushedAt": 1774325733301
     }
   ],
   "lastUpdated": "2026-03-24"
