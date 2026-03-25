@@ -497,7 +497,8 @@
     "https://www.d1ev.com/newsflash/292950",
     "https://www.d1ev.com/newsflash/292957",
     "https://www.d1ev.com/news/shichang/292955",
-    "https://www.d1ev.com/newsflash/292968"
+    "https://www.d1ev.com/newsflash/292968",
+    "https://www.d1ev.com/newsflash/292969"
   ],
   "newsHistory": [
     {
@@ -3487,6 +3488,12 @@
       "title": "华为小艺Claw智能助手预约开启，199元体验AI新生活",
       "source": "第一电动",
       "pushedAt": 1774457853448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292969",
+      "title": "“9系”旗舰车型激战高端市场，自主品牌挑战BBA地位",
+      "source": "第一电动",
+      "pushedAt": 1774464585665
     }
   ],
   "lastUpdated": "2026-03-26"
