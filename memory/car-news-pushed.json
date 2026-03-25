@@ -380,7 +380,29 @@
     "https://www.d1ev.com/newsflash/292828",
     "https://www.d1ev.com/newsflash/292825",
     "https://www.d1ev.com/newsflash/292834",
-    "https://www.d1ev.com/newsflash/292835"
+    "https://www.d1ev.com/newsflash/292835",
+    "https://www.d1ev.com/news/shichang/292854",
+    "https://www.d1ev.com/newsflash/292852",
+    "https://www.d1ev.com/carnews/xinche/292845",
+    "https://www.d1ev.com/newsflash/292844",
+    "https://www.d1ev.com/carnews/xinche/292838",
+    "https://www.d1ev.com/news/shichang/292855",
+    "https://www.d1ev.com/news/shichang/292853",
+    "https://www.d1ev.com/newsflash/292850",
+    "https://www.d1ev.com/newsflash/292849",
+    "https://www.d1ev.com/newsflash/292848",
+    "https://www.d1ev.com/newsflash/292847",
+    "https://www.d1ev.com/newsflash/292843",
+    "https://www.d1ev.com/newsflash/292842",
+    "https://www.d1ev.com/news/shichang/292841",
+    "https://www.d1ev.com/news/shichang/292836",
+    "https://www.d1ev.com/carnews/xinche/292851",
+    "https://www.d1ev.com/carnews/xinche/292858",
+    "https://www.d1ev.com/carnews/xinche/292857",
+    "https://www.d1ev.com/carnews/xinche/292856",
+    "https://www.d1ev.com/carnews/xinche/292846",
+    "https://www.d1ev.com/news/shichang/292840",
+    "https://www.d1ev.com/news/shichang/292837"
   ],
   "newsHistory": [
     {
@@ -2668,6 +2690,138 @@
       "title": "商汤科技年收入破50亿创新高，2026年推第二代NEO架构新模型",
       "source": "第一电动",
       "pushedAt": 1774371344076
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292854",
+      "title": "商汤科技2025年营收超50亿元，下半年EBITDA上市后首转正",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292852",
+      "title": "小米SU7新车热销：3.5万台锁单，年轻女性成主力军",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292845",
+      "title": "搭载12缸发动机 新款迈巴赫S级全球首发",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292844",
+      "title": "Arm自研AI芯片亮相，预计5年增收150亿美元",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292838",
+      "title": "多维度进化 全新丰田汉兰达纯电版新车图解",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292855",
+      "title": "提雅智行携手英伟达 加速L4级自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292853",
+      "title": "MIT利用生成式AI改进能够穿透障碍物的无线视觉系统",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292850",
+      "title": "ChatGPT新功能：AI直接比价购物，电商新赛道开启！",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292849",
+      "title": "AI工具LiteLLM遭供应链投毒，数千企业面临数据泄露风险",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292848",
+      "title": "宁德时代再夺半壁江山！2026年一季度动力电池市场份额超50%",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292847",
+      "title": "京东快递员新装备：AI助手助力业务决策，物流行业迈入新阶段",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292843",
+      "title": "Databricks融资50亿美元后，推出AI驱动安全产品Lakewatch并收购两家初创公司",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292842",
+      "title": "Arm强势入局AI芯片市场，发布136核AGICPU挑战英伟达",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292841",
+      "title": "新能源车的尽头是MPV",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292836",
+      "title": "【盖世快讯】中国新能源汽车备受中亚五国及俄罗斯青睐；泽景股份登陆港交所",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292851",
+      "title": "蔚来萤火虫右舵版登陆泰国 售79.9万泰铢",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292858",
+      "title": "宝马下一代i5将采用专属纯电平台",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292857",
+      "title": "马自达下一代Miata整备质量将低于2200磅",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292856",
+      "title": "丰田完成对丰田自动织机私有化加速集团整合",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292846",
+      "title": "兰博基尼将推插混GT跑车 放弃纯电Lanzador",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292840",
+      "title": "东风汽车首个EMB量产项目完成冬标验收",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292837",
+      "title": "Seeds | 法奥机器人完成近1亿美元C轮融资",
+      "source": "第一电动",
+      "pushedAt": 1774403338815
     }
   ],
   "lastUpdated": "2026-03-25"
