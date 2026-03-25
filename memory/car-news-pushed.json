@@ -426,7 +426,22 @@
     "https://www.d1ev.com/news/shichang/292864",
     "https://www.d1ev.com/news/shichang/292863",
     "https://www.d1ev.com/newsflash/292860",
-    "https://www.d1ev.com/newsflash/292859"
+    "https://www.d1ev.com/newsflash/292859",
+    "https://www.d1ev.com/newsflash/292901",
+    "https://www.d1ev.com/carnews/xinche/292898",
+    "https://www.d1ev.com/carnews/xinche/292896",
+    "https://www.d1ev.com/carnews/xinche/292895",
+    "https://www.d1ev.com/news/shichang/292902",
+    "https://www.d1ev.com/news/shichang/292894",
+    "https://www.d1ev.com/newsflash/292892",
+    "https://www.d1ev.com/newsflash/292891",
+    "https://www.d1ev.com/newsflash/292888",
+    "https://www.d1ev.com/newsflash/292886",
+    "https://www.d1ev.com/newsflash/292884",
+    "https://www.d1ev.com/newsflash/292900",
+    "https://www.d1ev.com/news/shichang/292893",
+    "https://www.d1ev.com/news/shichang/292890",
+    "https://www.d1ev.com/newsflash/292887"
   ],
   "newsHistory": [
     {
@@ -2990,6 +3005,96 @@
       "title": "比亚迪加速布局加拿大市场，首年计划开设20家经销店",
       "source": "第一电动",
       "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292901",
+      "title": "劳斯莱斯推出顶级客户专属定制系列，首发纯电动车型4月揭晓",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292898",
+      "title": "2026款郑州日产Z9家族将于3月26日上市",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292896",
+      "title": "深蓝G318四驱旷野版上市 售价18.59万元",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292895",
+      "title": "首发非晶合金电驱 广汽埃安N60开启盲订",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292902",
+      "title": "大众因电池问题将召回近10万辆电动汽车",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292894",
+      "title": "麦格纳推出用于增程型电动汽车的DHD REX混合动力驱动系统",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292892",
+      "title": "小米SU7首批交付获赞：颜值智能全面升级，续航900km告别焦虑",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292891",
+      "title": "宁德时代钠离子电池即将量产，北京车展将揭神秘面纱",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292888",
+      "title": "阿里巴巴蔡崇信：AI驱动未来，云服务支撑全球智能体发展",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292886",
+      "title": "广汽埃安N60盲订开启：99元定金享5088元好礼，续航610km，智能驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292884",
+      "title": "华为巨鲸电池平台3.0五大升级，助力新能源汽车安全高效发展",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292900",
+      "title": "乐道汽车L60/L90升级：QQ音乐高品质专区、网易云音乐全屏体验来袭",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292893",
+      "title": "Microchip推出车规级系统级封装混合型MCU",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292890",
+      "title": "双林股份2025年营收54.84亿元，机器人业务蓄势待发",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292887",
+      "title": "宇树科技半年内将实现机器人动作自由生成，智能化水平大提升",
+      "source": "第一电动",
+      "pushedAt": 1774421861581
     }
   ],
   "lastUpdated": "2026-03-25"
