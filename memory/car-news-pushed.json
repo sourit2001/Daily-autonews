@@ -402,7 +402,31 @@
     "https://www.d1ev.com/carnews/xinche/292856",
     "https://www.d1ev.com/carnews/xinche/292846",
     "https://www.d1ev.com/news/shichang/292840",
-    "https://www.d1ev.com/news/shichang/292837"
+    "https://www.d1ev.com/news/shichang/292837",
+    "https://www.d1ev.com/news/shichang/292882",
+    "https://www.d1ev.com/news/qiye/292878",
+    "https://www.d1ev.com/news/qiye/292874",
+    "https://www.d1ev.com/carnews/xinche/292873",
+    "https://www.d1ev.com/newsflash/292870",
+    "https://www.d1ev.com/newsflash/292868",
+    "https://www.d1ev.com/newsflash/292866",
+    "https://www.d1ev.com/newsflash/292862",
+    "https://www.d1ev.com/newsflash/292881",
+    "https://www.d1ev.com/newsflash/292876",
+    "https://www.d1ev.com/news/shichang/292875",
+    "https://www.d1ev.com/news/shichang/292872",
+    "https://www.d1ev.com/newsflash/292867",
+    "https://www.d1ev.com/news/shichang/292865",
+    "https://www.d1ev.com/newsflash/292861",
+    "https://www.d1ev.com/news/shichang/292883",
+    "https://www.d1ev.com/news/shichang/292879",
+    "https://www.d1ev.com/newsflash/292877",
+    "https://www.d1ev.com/newsflash/292871",
+    "https://www.d1ev.com/news/shichang/292869",
+    "https://www.d1ev.com/news/shichang/292864",
+    "https://www.d1ev.com/news/shichang/292863",
+    "https://www.d1ev.com/newsflash/292860",
+    "https://www.d1ev.com/newsflash/292859"
   ],
   "newsHistory": [
     {
@@ -2822,6 +2846,150 @@
       "title": "Seeds | 法奥机器人完成近1亿美元C轮融资",
       "source": "第一电动",
       "pushedAt": 1774403338815
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292882",
+      "title": "2月欧洲新车销量同比增长1.7%",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292878",
+      "title": "女车主奇多 新款小鹏MONA M03官图发布：全方位大升级",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292874",
+      "title": "全球首发非晶合金电驱1度电多跑1公里 广汽埃安N60开启盲订",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292873",
+      "title": "收入破千亿元、毛利率超24%！小米汽车首次实现年度盈利，新车交付提速至90天",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292870",
+      "title": "华为技术加持，启境GT7智能轿跑6月震撼上市！",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292868",
+      "title": "天钡MACO470迷你主机4月1日上市：AMD锐龙AI9HX470加持，6XX9元起售",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292866",
+      "title": "蔚来ES9旗舰SUV曝光：尺寸超劳斯莱斯，搭载尖端科技配置",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292862",
+      "title": "比亚迪宋UltraEV上市即交付，续航高达710km，支持5分钟闪充！",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292881",
+      "title": "AI需求激增引发存储芯片短缺，车企成本压力山大",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292876",
+      "title": "AI编程新革命：Mozilla推出“cq”项目共建知识库",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292875",
+      "title": "动力电池不是稀土，这张“王牌”该如何打？",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292872",
+      "title": "Zoox在迈阿密、奥斯汀开启自动驾驶出租车测试",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292867",
+      "title": "广汽埃安AIONN60盲订开启，国民智驾好车新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292865",
+      "title": "韩国研究人员开发高性能磷酸铁锂阴极材料 有望延长电动汽车续航里程",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292861",
+      "title": "比亚迪电池外供小米汽车占比超17%，宁德时代稳居市场第一",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292883",
+      "title": "Seeds | 艾利特机器人完成6亿元D+轮融资",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292879",
+      "title": "法雷奥将投资2.25亿美元在美建厂，为通用提供技术配套",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292877",
+      "title": "小米新一代SU7开售3天锁单超3万，iPhone用户占比近60%",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292871",
+      "title": "阿里云JVSClaw全面开放：语音输入、文件共建等新功能上线",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292869",
+      "title": "撑起小鹏半壁江山的那款车，要上新了",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292864",
+      "title": "松下汽车系统新开发的IVI首次应用于新款丰田RAV4",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292863",
+      "title": "丰田集团对丰田自动织机的收购要约已获通过",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292860",
+      "title": "亚马逊再出手！5万美元人形机器人Fauna加入亚马逊机器人家族",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292859",
+      "title": "比亚迪加速布局加拿大市场，首年计划开设20家经销店",
+      "source": "第一电动",
+      "pushedAt": 1774412261952
     }
   ],
   "lastUpdated": "2026-03-25"
