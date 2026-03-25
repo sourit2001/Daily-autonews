@@ -486,7 +486,17 @@
     "https://www.d1ev.com/newsflash/292946",
     "https://www.d1ev.com/newsflash/292944",
     "https://www.d1ev.com/newsflash/292942",
-    "https://www.d1ev.com/newsflash/292939"
+    "https://www.d1ev.com/newsflash/292939",
+    "https://www.d1ev.com/carnews/xinche/292956",
+    "https://www.d1ev.com/news/shichang/292952",
+    "https://www.d1ev.com/newsflash/292951",
+    "https://www.d1ev.com/news/qiye/292949",
+    "https://www.d1ev.com/newsflash/292948",
+    "https://www.d1ev.com/newsflash/292954",
+    "https://www.d1ev.com/newsflash/292953",
+    "https://www.d1ev.com/newsflash/292950",
+    "https://www.d1ev.com/newsflash/292957",
+    "https://www.d1ev.com/news/shichang/292955"
   ],
   "newsHistory": [
     {
@@ -3410,6 +3420,66 @@
       "title": "大众回归实体按键，触控滑动条将成历史",
       "source": "第一电动",
       "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/292956",
+      "title": "奇瑞风云T9L开启预售 预售价13.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292952",
+      "title": "全新奥迪 A6L家族上市，售价32.29 万元起",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292951",
+      "title": "奔驰VLS迈巴赫版曝光：豪华MPV新标杆，65英寸大屏+42扬声器音响",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292949",
+      "title": "家族首次油换电 续航785km！奥迪A6L e-tron预售：31.3万起",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292948",
+      "title": "奇瑞风云T9L预售开启，13.99万起售，纯电续航230km！",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292954",
+      "title": "迪士尼与OpenAI合作告吹，10亿美元AI视频项目意外终止",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292953",
+      "title": "索尼本田终止Afeela电动汽车项目，电动化战略大调整",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292950",
+      "title": "快手可灵AI业务25年Q4实现营收3.4亿元， CEO称对今年实现收入同比翻倍以上增长保持较强信心",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292957",
+      "title": "深蓝G318四驱版18.59万起售，越野性能升级！",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292955",
+      "title": "速腾聚创2025年单季首度盈利，机器人业务占比近半",
+      "source": "第一电动",
+      "pushedAt": 1774450521569
     }
   ],
   "lastUpdated": "2026-03-25"
