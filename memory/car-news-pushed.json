@@ -475,7 +475,18 @@
     "https://www.d1ev.com/newsflash/292927",
     "https://www.d1ev.com/newsflash/292926",
     "https://www.d1ev.com/news/shichang/292925",
-    "https://www.d1ev.com/newsflash/292924"
+    "https://www.d1ev.com/newsflash/292924",
+    "https://www.d1ev.com/news/qiye/292947",
+    "https://www.d1ev.com/newsflash/292945",
+    "https://www.d1ev.com/newsflash/292943",
+    "https://www.d1ev.com/newsflash/292941",
+    "https://www.d1ev.com/newsflash/292937",
+    "https://www.d1ev.com/newsflash/292940",
+    "https://www.d1ev.com/newsflash/292938",
+    "https://www.d1ev.com/newsflash/292946",
+    "https://www.d1ev.com/newsflash/292944",
+    "https://www.d1ev.com/newsflash/292942",
+    "https://www.d1ev.com/newsflash/292939"
   ],
   "newsHistory": [
     {
@@ -3333,6 +3344,72 @@
       "title": "比亚迪成国内顶尖大学毕业生“收割机”，民营企业就业去向中排名第二",
       "source": "第一电动",
       "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292947",
+      "title": "降价超10万 华为乾崑智驾上车！全新奥迪A6L上市：32.29万",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292945",
+      "title": "奥迪A6L焕新上市！轴距加长42mm，华为智驾加持，3.0T加速4.6秒",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292943",
+      "title": "保时捷纯电718项目曝光：接近量产，秋季将披露更多信息",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292941",
+      "title": "奥迪A6Le-tron预售开启，续航785km配华为辅助驾驶",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292937",
+      "title": "第二代腾势D9预售在即，新设计+刀片电池+闪充技术震撼来袭",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292940",
+      "title": "英伟达CEO黄仁勋：AI时代来临，各行各业需拥抱技术变革",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292938",
+      "title": "小鹏X9泰国交付破55000台！智能电动SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292946",
+      "title": "“星链服务全球超1600万用户，卫星互联网市场迎来新机遇”",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292944",
+      "title": "小鹏GX首搭华为DLP大灯，礼让行人标识投影地面",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292942",
+      "title": "Lyft CEO亲测百度萝卜快跑：无人驾驶技术令人惊叹",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292939",
+      "title": "大众回归实体按键，触控滑动条将成历史",
+      "source": "第一电动",
+      "pushedAt": 1774443466583
     }
   ],
   "lastUpdated": "2026-03-25"
