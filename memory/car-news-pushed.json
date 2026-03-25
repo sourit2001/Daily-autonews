@@ -458,7 +458,24 @@
     "https://www.d1ev.com/newsflash/292910",
     "https://www.d1ev.com/news/qiye/292906",
     "https://www.d1ev.com/newsflash/292905",
-    "https://www.d1ev.com/newsflash/292903"
+    "https://www.d1ev.com/newsflash/292903",
+    "https://www.d1ev.com/newsflash/292936",
+    "https://www.d1ev.com/newsflash/292929",
+    "https://www.d1ev.com/newsflash/292928",
+    "https://www.d1ev.com/news/shichang/292935",
+    "https://www.d1ev.com/news/shichang/292933",
+    "https://www.d1ev.com/news/qiye/292932",
+    "https://www.d1ev.com/newsflash/292923",
+    "https://www.d1ev.com/newsflash/292922",
+    "https://www.d1ev.com/newsflash/292921",
+    "https://www.d1ev.com/newsflash/292920",
+    "https://www.d1ev.com/newsflash/292934",
+    "https://www.d1ev.com/newsflash/292931",
+    "https://www.d1ev.com/newsflash/292930",
+    "https://www.d1ev.com/newsflash/292927",
+    "https://www.d1ev.com/newsflash/292926",
+    "https://www.d1ev.com/news/shichang/292925",
+    "https://www.d1ev.com/newsflash/292924"
   ],
   "newsHistory": [
     {
@@ -3214,6 +3231,108 @@
       "title": "特斯拉Model3标准版或将20万内起售，中国市场新生产线建成",
       "source": "第一电动",
       "pushedAt": 1774428282654
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292936",
+      "title": "特斯拉新专利曝光：双电池系统助力Cybertruck续航升级",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292929",
+      "title": "AMD锐龙加持，希未AideaMiniR10迷你主机仅879元上市",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292928",
+      "title": "蔚来ES9实车亮相：家族设计+激光雷达，4月9日技术发布",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292935",
+      "title": "3月前三周乘用车零售同比降16%，新能源渗透率超50%",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292933",
+      "title": "曝索尼本田合资公司考虑暂停电动汽车开发",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/292932",
+      "title": "两人编造车企销量下滑谣言：AI洗稿70余万篇 获利8万多被抓",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292923",
+      "title": "AI智能体普及加速，技术突破引领未来生产力革命",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292922",
+      "title": "腾讯AI应用元宝派电脑版上线：多端同步办公新体验",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292921",
+      "title": "禾赛ATX激光雷达助力一汽奔腾销量突破20万，新能源渗透率达86%",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292920",
+      "title": "奔驰迈巴赫S级轿车搭载多模态大模型技术，开启智能交互新篇章",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292934",
+      "title": "亚马逊Zoox Robotaxi宣布服务扩张，不到一年已为超过35万人提供服务",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292931",
+      "title": "特斯拉发布Optimus人形机器人相关岗位招聘信息，目标加速大规模量产进程",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292930",
+      "title": "本田索尼合资企业SHM宣布终止AFEELA1及第二款车型开发计划",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292927",
+      "title": "特斯拉欧盟销量回暖：2月销量同比增29.1%",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292926",
+      "title": "大众回归实体按键，ID系列车型内饰升级在即",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/292925",
+      "title": "禾赛激光雷达获一汽奔腾新一代车型定点",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292924",
+      "title": "比亚迪成国内顶尖大学毕业生“收割机”，民营企业就业去向中排名第二",
+      "source": "第一电动",
+      "pushedAt": 1774435478590
     }
   ],
   "lastUpdated": "2026-03-25"
