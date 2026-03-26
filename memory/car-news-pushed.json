@@ -636,7 +636,11 @@
     "https://www.d1ev.com/newsflash/293117",
     "https://www.d1ev.com/newsflash/293122",
     "https://www.d1ev.com/newsflash/293121",
-    "https://www.d1ev.com/newsflash/293116"
+    "https://www.d1ev.com/newsflash/293116",
+    "https://www.d1ev.com/newsflash/293126",
+    "https://www.d1ev.com/newsflash/293125",
+    "https://www.d1ev.com/news/qiye/293123",
+    "https://www.d1ev.com/newsflash/293124"
   ],
   "newsHistory": [
     {
@@ -4460,6 +4464,30 @@
       "title": "油价上涨催生车市促销潮，广汽传祺等品牌推油费补贴政策",
       "source": "第一电动",
       "pushedAt": 1774544196217
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293126",
+      "title": "比亚迪宋UltraEV震撼上市！15.19万起，续航高达710km",
+      "source": "第一电动",
+      "pushedAt": 1774551528373
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293125",
+      "title": "大众与小鹏联手打造！与众08预售开启，23.99万起售",
+      "source": "第一电动",
+      "pushedAt": 1774551528373
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293123",
+      "title": "最智能的大众车来了！与众08开启预售，23.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1774551528373
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293124",
+      "title": "3000台启辰VX6成都交付，西南出行市场迎来绿色新动力",
+      "source": "第一电动",
+      "pushedAt": 1774551528373
     }
   ],
   "lastUpdated": "2026-03-27"
