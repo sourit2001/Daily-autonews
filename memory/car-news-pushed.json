@@ -543,7 +543,21 @@
     "https://www.d1ev.com/news/shichang/293014",
     "https://www.d1ev.com/news/shichang/293012",
     "https://www.d1ev.com/newsflash/293005",
-    "https://www.d1ev.com/news/qiye/293000"
+    "https://www.d1ev.com/news/qiye/293000",
+    "https://www.d1ev.com/carnews/xinche/293027",
+    "https://www.d1ev.com/carnews/xinche/293024",
+    "https://www.d1ev.com/carnews/xinche/293021",
+    "https://www.d1ev.com/newsflash/293031",
+    "https://www.d1ev.com/newsflash/293026",
+    "https://www.d1ev.com/newsflash/293025",
+    "https://www.d1ev.com/newsflash/293020",
+    "https://www.d1ev.com/newsflash/293030",
+    "https://www.d1ev.com/news/shichang/293029",
+    "https://www.d1ev.com/news/qiye/293028",
+    "https://www.d1ev.com/news/shichang/293023",
+    "https://www.d1ev.com/news/shichang/293019",
+    "https://www.d1ev.com/news/shichang/293018",
+    "https://www.d1ev.com/news/shichang/293017"
   ],
   "newsHistory": [
     {
@@ -3809,6 +3823,90 @@
       "title": "2026年2月轿车/SUV车型销量榜：自主崛起，合资份额持续缩水丨盖世汽车研究院",
       "source": "第一电动",
       "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293027",
+      "title": "全新五菱缤果Pro官图发布 提供多种车身颜色",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293024",
+      "title": "性能感十足 2026款兰博基尼Urus SE官图发布",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293021",
+      "title": "二代刀片电池+闪充 新款腾势D9预售定档",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293031",
+      "title": "Meta启动中小企业计划，扎克伯格力挺AI创业新浪潮",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293026",
+      "title": "比亚迪夏3月OTA升级来袭：16项新功能+10项优化，智能座舱UI焕新体验！",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293025",
+      "title": "马斯克xAI再失大将，联合创始人仅剩一人坚守",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293020",
+      "title": "阿里千问AI首上车！红旗HS6PHEV搭载“灵犀座舱”智能出行新体验",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293030",
+      "title": "斯柯达2026年中退出中国，大众强调中国市场核心地位",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293029",
+      "title": "通用汽车将向韩国子公司投资6亿美元",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293028",
+      "title": "雷军：团队发现租/借车事故率较高 专门开发了车主管理模式",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293023",
+      "title": "2026 SATA世达首届嘉年华在沪举行",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293019",
+      "title": "上海：构建开源“大脑”与数字生态池",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293018",
+      "title": "2026，上汽的“交卷时刻”？",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293017",
+      "title": "斯柯达品牌将于年内退出中国市场",
+      "source": "第一电动",
+      "pushedAt": 1774508557233
     }
   ],
   "lastUpdated": "2026-03-26"
