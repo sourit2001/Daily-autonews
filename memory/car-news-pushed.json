@@ -524,7 +524,26 @@
     "https://www.d1ev.com/carnews/xinche/292987",
     "https://www.d1ev.com/news/shichang/292980",
     "https://www.d1ev.com/newsflash/292974",
-    "https://www.d1ev.com/newsflash/292970"
+    "https://www.d1ev.com/newsflash/292970",
+    "https://www.d1ev.com/newsflash/293008",
+    "https://www.d1ev.com/newsflash/293006",
+    "https://www.d1ev.com/carnews/xinche/293004",
+    "https://www.d1ev.com/carnews/xinche/293003",
+    "https://www.d1ev.com/newsflash/292999",
+    "https://www.d1ev.com/newsflash/292997",
+    "https://www.d1ev.com/news/qiye/293016",
+    "https://www.d1ev.com/news/shichang/293013",
+    "https://www.d1ev.com/newsflash/293011",
+    "https://www.d1ev.com/newsflash/293010",
+    "https://www.d1ev.com/newsflash/293009",
+    "https://www.d1ev.com/newsflash/293007",
+    "https://www.d1ev.com/news/shichang/293002",
+    "https://www.d1ev.com/newsflash/292998",
+    "https://www.d1ev.com/newsflash/293015",
+    "https://www.d1ev.com/news/shichang/293014",
+    "https://www.d1ev.com/news/shichang/293012",
+    "https://www.d1ev.com/newsflash/293005",
+    "https://www.d1ev.com/news/qiye/293000"
   ],
   "newsHistory": [
     {
@@ -3676,6 +3695,120 @@
       "title": "小米SU7Max：新手友好，智能安全新升级，驾驭轻松自如",
       "source": "第一电动",
       "pushedAt": 1774490098473
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293008",
+      "title": "五菱缤果Pro亮相：精致座驾新成员，最高车速130km/h！",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293006",
+      "title": "鸿蒙智行尊界MPV谍照曝光：超5.3米豪华座驾，激光雷达加持",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293004",
+      "title": "奇瑞路虎神行者实车图曝光：六座设计",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293003",
+      "title": "小米YU7 GT实车亮相：尾部灯光有变化",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292999",
+      "title": "奇瑞路虎联手打造新能源硬派SUV，神行者FREELANDER即将亮相",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292997",
+      "title": "比亚迪腾势D9新突破：5分钟快充，续航达800km，3月29日预售开启！",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293016",
+      "title": "广汽在麦格纳奥地利工厂投产AION UT",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293013",
+      "title": "特斯拉申请双电池管理系统专利",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293011",
+      "title": "特斯拉加州Robotaxi业务被定性：非自动驾驶，监管灰色地带？",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293010",
+      "title": "5款新能源车安全测评全优！蔚来ES8、理想i6等表现亮眼",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293009",
+      "title": "谷歌TurboQuant算法突破AI内存瓶颈，存储芯片股暴跌",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293007",
+      "title": "阿里AI助手千问入驻红旗HS6PHEV，语音操控开启智能出行新体验",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293002",
+      "title": "2026年2月燃油车型/新能源车型销量榜：奇瑞瑞虎7/7Plus登顶燃油车，小米YU7跻身新能源前三丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/292998",
+      "title": "中国新能源车出口激增88%，插混皮卡成新亮点",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293015",
+      "title": "斯柯达2026年退出中国市场：销量暴跌95%，转向印度东南亚市场",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293014",
+      "title": "日本研究人员发明仿生昆虫机器人 即使只有一根工作“天线”也能追踪气味",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293012",
+      "title": "思瑞浦车规级高边开关TPW4020DQ，以硬核技术，重塑高端智能功率控制",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293005",
+      "title": "特斯拉Model3标准版将入华，起售价或低于20万",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293000",
+      "title": "2026年2月轿车/SUV车型销量榜：自主崛起，合资份额持续缩水丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1774499503582
     }
   ],
   "lastUpdated": "2026-03-26"
