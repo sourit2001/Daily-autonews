@@ -631,7 +631,12 @@
     "https://www.d1ev.com/newsflash/293088",
     "https://www.d1ev.com/newsflash/293095",
     "https://www.d1ev.com/newsflash/293094",
-    "https://www.d1ev.com/newsflash/293091"
+    "https://www.d1ev.com/newsflash/293091",
+    "https://www.d1ev.com/newsflash/293118",
+    "https://www.d1ev.com/newsflash/293117",
+    "https://www.d1ev.com/newsflash/293122",
+    "https://www.d1ev.com/newsflash/293121",
+    "https://www.d1ev.com/newsflash/293116"
   ],
   "newsHistory": [
     {
@@ -4425,7 +4430,37 @@
       "title": "长城魏牌CEO赵永坡：智能驾驶，多传感器非越多越好，内耗抵消技术优势",
       "source": "第一电动",
       "pushedAt": 1774537256078
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293118",
+      "title": "奔驰“小G”谍照曝光，纯电版或搭载1.5T混动引擎",
+      "source": "第一电动",
+      "pushedAt": 1774544196217
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293117",
+      "title": "智己LS8预售45分钟破万！30万级享百万底盘配置，4秒破百续航超1600km",
+      "source": "第一电动",
+      "pushedAt": 1774544196217
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293122",
+      "title": "北京车展前瞻：舱驾一体芯片战火点燃，智能汽车新引擎之争一触即发",
+      "source": "第一电动",
+      "pushedAt": 1774544196217
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293121",
+      "title": "6.58万起！零跑A10携激光雷达+500km续航颠覆10万级纯电SUV市场",
+      "source": "第一电动",
+      "pushedAt": 1774544196217
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293116",
+      "title": "油价上涨催生车市促销潮，广汽传祺等品牌推油费补贴政策",
+      "source": "第一电动",
+      "pushedAt": 1774544196217
     }
   ],
-  "lastUpdated": "2026-03-26"
+  "lastUpdated": "2026-03-27"
 }
