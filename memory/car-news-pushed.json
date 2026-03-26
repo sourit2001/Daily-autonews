@@ -575,7 +575,23 @@
     "https://www.d1ev.com/newsflash/293042",
     "https://www.d1ev.com/newsflash/293040",
     "https://www.d1ev.com/news/shichang/293039",
-    "https://www.d1ev.com/newsflash/293037"
+    "https://www.d1ev.com/newsflash/293037",
+    "https://www.d1ev.com/news/qiye/293061",
+    "https://www.d1ev.com/newsflash/293060",
+    "https://www.d1ev.com/newsflash/293055",
+    "https://www.d1ev.com/newsflash/293053",
+    "https://www.d1ev.com/newsflash/293050",
+    "https://www.d1ev.com/newsflash/293064",
+    "https://www.d1ev.com/newsflash/293063",
+    "https://www.d1ev.com/news/shichang/293066",
+    "https://www.d1ev.com/newsflash/293062",
+    "https://www.d1ev.com/newsflash/293059",
+    "https://www.d1ev.com/newsflash/293057",
+    "https://www.d1ev.com/newsflash/293052",
+    "https://www.d1ev.com/newsflash/293051",
+    "https://www.d1ev.com/news/shichang/293065",
+    "https://www.d1ev.com/newsflash/293058",
+    "https://www.d1ev.com/newsflash/293054"
   ],
   "newsHistory": [
     {
@@ -4033,6 +4049,102 @@
       "title": "斯柯达2026年中退出中国 专注印度东盟市场",
       "source": "第一电动",
       "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293061",
+      "title": "特斯拉或在准备新车型 马斯克透露比小型货车炫酷的多",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293060",
+      "title": "现代汽车雄心勃勃：中国销量翻倍，北美推36款新车型",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293055",
+      "title": "广汽丰田铂智7携鸿蒙座舱亮相，预售价15.68万起",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293053",
+      "title": "风云T9L开启预售，13.99万起打造15万级智能大五座SUV新时代",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293050",
+      "title": "东风奕派007闪现版3月28日上市，电御紫猎装轿跑来袭",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293064",
+      "title": "22岁辍学生创办KledAI：全球民众卖数据月入数千美元",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293063",
+      "title": "广州2030年AI产业目标：万亿级生态圈，智能终端普及率超90%",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293066",
+      "title": "小马智行联手Uber与Verne，将在克罗地亚推出欧洲首个商业化Robotaxi服务",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293062",
+      "title": "“俄乌战场现美国造人形机器人，未来战争走向机械化？”",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293059",
+      "title": "大众CEO炮轰增程式技术：欧洲无用，成本高昂！",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293057",
+      "title": "“增程混动难达标欧7，欧洲市场或将放弃增程技术”",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293052",
+      "title": "大众乘用车和MG在欧洲市场选择插混路线，放弃增程技术",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293051",
+      "title": "小马智行与Uber、Verne达成战略合作，将在克罗地亚推出欧洲首个商业化Robotaxi服务",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293065",
+      "title": "小马智行发布2025年财报：Robotaxi收入翻番",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293058",
+      "title": "“2999元/月起，芝麻信用800分用户享蔚来乐道汽车订阅服务”",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293054",
+      "title": "芝麻信用800分用户专享：乐道L60、L90汽车订阅服务2999元起",
+      "source": "第一电动",
+      "pushedAt": 1774522157642
     }
   ],
   "lastUpdated": "2026-03-26"
