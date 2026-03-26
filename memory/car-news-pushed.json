@@ -557,7 +557,25 @@
     "https://www.d1ev.com/news/shichang/293023",
     "https://www.d1ev.com/news/shichang/293019",
     "https://www.d1ev.com/news/shichang/293018",
-    "https://www.d1ev.com/news/shichang/293017"
+    "https://www.d1ev.com/news/shichang/293017",
+    "https://www.d1ev.com/newsflash/293035",
+    "https://www.d1ev.com/newsflash/293032",
+    "https://www.d1ev.com/news/shichang/293047",
+    "https://www.d1ev.com/newsflash/293045",
+    "https://www.d1ev.com/newsflash/293044",
+    "https://www.d1ev.com/news/shichang/293043",
+    "https://www.d1ev.com/newsflash/293041",
+    "https://www.d1ev.com/newsflash/293038",
+    "https://www.d1ev.com/newsflash/293036",
+    "https://www.d1ev.com/news/qiye/293034",
+    "https://www.d1ev.com/newsflash/293033",
+    "https://www.d1ev.com/newsflash/293049",
+    "https://www.d1ev.com/news/shichang/293048",
+    "https://www.d1ev.com/newsflash/293046",
+    "https://www.d1ev.com/newsflash/293042",
+    "https://www.d1ev.com/newsflash/293040",
+    "https://www.d1ev.com/news/shichang/293039",
+    "https://www.d1ev.com/newsflash/293037"
   ],
   "newsHistory": [
     {
@@ -3907,6 +3925,114 @@
       "title": "斯柯达品牌将于年内退出中国市场",
       "source": "第一电动",
       "pushedAt": 1774508557233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293035",
+      "title": "特斯拉Cybercab亮相：尺寸更紧凑，未来销量有望超越ModelY",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293032",
+      "title": "特斯拉新车型曝光：赛博SUV或将颠覆传统？",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293047",
+      "title": "电动化赛道博弈：欧洲若放缓，恐落后于中国",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293045",
+      "title": "AI失业潮来袭？美国启动30万美元基本收入计划援助受影响劳动者",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293044",
+      "title": "成都路灯变身充电桩，夜间停车充电两不误！",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293043",
+      "title": "AI掌舵，汽车业洗牌？",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293041",
+      "title": "极氪8X增程技术：120km/h高速续航，电量越跑越多",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293038",
+      "title": "东南亚油荒加剧，电动车成新宠",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293036",
+      "title": "AI技能差距加剧经济不平等，未来五年或致全球失业率飙升至20%",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293034",
+      "title": "五款新能源车C-IASI测评出炉",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293033",
+      "title": "岚图卢放：四激光雷达成自动驾驶安全新标配",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293049",
+      "title": "特斯拉Model YL现身得州工厂，或将填补三排SUV市场空缺",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293048",
+      "title": "秘鲁对中国轮胎挥出反倾销“重锤”，行业如何应对？",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293046",
+      "title": "小米SU7Max天幕革新：分区调光玻璃隔热降温，驾驶更舒适",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293042",
+      "title": "小米SU7搭载蛟龙底盘，双腔空气弹簧+CDC减振器，驾驶体验升级",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293040",
+      "title": "岚图CEO卢放：四激光雷达，智能驾驶安全新高度",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293039",
+      "title": "一汽红旗联手阿里云，千问智能体上车",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293037",
+      "title": "斯柯达2026年中退出中国 专注印度东盟市场",
+      "source": "第一电动",
+      "pushedAt": 1774514945345
     }
   ],
   "lastUpdated": "2026-03-26"
