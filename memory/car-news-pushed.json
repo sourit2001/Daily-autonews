@@ -772,7 +772,8 @@
     "https://www.d1ev.com/news/qiye/293262",
     "https://www.d1ev.com/news/shichang/293259",
     "https://www.d1ev.com/newsflash/293257",
-    "https://www.d1ev.com/newsflash/293274"
+    "https://www.d1ev.com/newsflash/293274",
+    "https://www.d1ev.com/newsflash/293276"
   ],
   "newsHistory": [
     {
@@ -5412,6 +5413,12 @@
       "title": "保时捷卡宴新世代：燃油混动并存，2028年亮相！",
       "source": "第一电动",
       "pushedAt": 1774630044123
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293276",
+      "title": "特斯拉Model3标准版国内上市传闻被官方否认",
+      "source": "第一电动",
+      "pushedAt": 1774643534536
     }
   ],
   "lastUpdated": "2026-03-28"
