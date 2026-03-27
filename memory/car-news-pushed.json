@@ -771,7 +771,8 @@
     "https://www.d1ev.com/newsflash/293264",
     "https://www.d1ev.com/news/qiye/293262",
     "https://www.d1ev.com/news/shichang/293259",
-    "https://www.d1ev.com/newsflash/293257"
+    "https://www.d1ev.com/newsflash/293257",
+    "https://www.d1ev.com/newsflash/293274"
   ],
   "newsHistory": [
     {
@@ -5405,7 +5406,13 @@
       "title": "深蓝电驱突破百万大关，新一代超集电驱94%效率革新登场",
       "source": "第一电动",
       "pushedAt": 1774622736214
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293274",
+      "title": "保时捷卡宴新世代：燃油混动并存，2028年亮相！",
+      "source": "第一电动",
+      "pushedAt": 1774630044123
     }
   ],
-  "lastUpdated": "2026-03-27"
+  "lastUpdated": "2026-03-28"
 }
