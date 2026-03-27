@@ -695,7 +695,26 @@
     "https://www.d1ev.com/news/shichang/293168",
     "https://www.d1ev.com/news/shichang/293164",
     "https://www.d1ev.com/news/shichang/293161",
-    "https://www.d1ev.com/news/shichang/293158"
+    "https://www.d1ev.com/news/shichang/293158",
+    "https://www.d1ev.com/newsflash/293202",
+    "https://www.d1ev.com/newsflash/293195",
+    "https://www.d1ev.com/carnews/xinche/293194",
+    "https://www.d1ev.com/carnews/xinche/293193",
+    "https://www.d1ev.com/carnews/xinche/293191",
+    "https://www.d1ev.com/newsflash/293201",
+    "https://www.d1ev.com/newsflash/293200",
+    "https://www.d1ev.com/newsflash/293199",
+    "https://www.d1ev.com/newsflash/293197",
+    "https://www.d1ev.com/newsflash/293196",
+    "https://www.d1ev.com/newsflash/293186",
+    "https://www.d1ev.com/news/shichang/293205",
+    "https://www.d1ev.com/news/shichang/293204",
+    "https://www.d1ev.com/news/shichang/293203",
+    "https://www.d1ev.com/news/shichang/293190",
+    "https://www.d1ev.com/news/shichang/293189",
+    "https://www.d1ev.com/news/qiye/293188",
+    "https://www.d1ev.com/newsflash/293187",
+    "https://www.d1ev.com/news/shichang/293185"
   ],
   "newsHistory": [
     {
@@ -4873,6 +4892,120 @@
       "title": "伊朗局势推高金属成本 印度多家车企上调售价",
       "source": "第一电动",
       "pushedAt": 1774585985733
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293202",
+      "title": "鸿蒙智行V9亮相：2+2+3七座布局，增程版续航超200km！",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293195",
+      "title": "比亚迪海豹06GT与DM-i旅行版亮相，5分钟闪充续航超600公里！",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293194",
+      "title": "全面升级 比亚迪2026款海豹06家族上市定档",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293193",
+      "title": "大众全新速腾S开启盲订 将于3月31日上市",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293191",
+      "title": "提供更多选择 江铃羿驰05神行版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293201",
+      "title": "中美AI应用差异巨大：中国企业强制使用，美国因安全担忧限制",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293200",
+      "title": "“能仔1号”上岗！上汽通用人形机器人革新电池产线",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293199",
+      "title": "小鹏MONAM03升级：750TOPS算力+640公里续航，2万美元内智能驾驶新标杆",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293197",
+      "title": "“老头乐”模仿理想SUV，装饰“智驾灯”引网友热议",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293196",
+      "title": "美团发布LongCat-Next：AI新突破，图像语音文本一网打尽！",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293186",
+      "title": "Meta收购中国AI企业Manus引争议，外交部回应高管离境禁令",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293205",
+      "title": "强化自主可控，零跑汽车成立热控公司",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293204",
+      "title": "长安汽车巴西工厂正式投产，阿维塔拉美市场布局再深化",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293203",
+      "title": "上汽首位人形机器人员工正式“上岗”",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293190",
+      "title": "2026商用车产业发展会议在十堰启幕，闭门会议代表共绘“十五五”高质量发展蓝图",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293189",
+      "title": "绿智融合谋新局，2026商用车产业发展会议在十堰召开",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293188",
+      "title": "丰田将氢能计划转向卡车 因消费者对清洁燃料乘用车兴趣低迷",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293187",
+      "title": "前苹果设计师卷入技术剽窃案，iyO指控TangTan窃取商业机密",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293185",
+      "title": "雷诺和RMC BFM推出人工智能个性化车载收音机",
+      "source": "第一电动",
+      "pushedAt": 1774594961982
     }
   ],
   "lastUpdated": "2026-03-27"
