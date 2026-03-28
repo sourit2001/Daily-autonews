@@ -806,63 +806,11 @@
     "https://www.d1ev.com/newsflash/293311",
     "https://www.d1ev.com/newsflash/293310",
     "https://www.d1ev.com/newsflash/293309",
-    "https://www.d1ev.com/newsflash/293306"
+    "https://www.d1ev.com/newsflash/293306",
+    "https://www.d1ev.com/newsflash/293312",
+    "https://www.d1ev.com/newsflash/293313"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292472",
-      "title": "比亚迪ATTO3Evo英国上市：309hp动力升级，续航增至508km！",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292470",
-      "title": "OpenAI扩张计划曝光：2026年员工翻倍至8000人，估值8400亿美元！",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292468",
-      "title": "马斯克“数字擎天柱”即将上线，AI革命来袭！",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292475",
-      "title": "小鹏汽车海外扩张加速，墨西哥市场将迎G6和G9车型",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292474",
-      "title": "极星汽车坚持纯电路线，CEO：未来出行必须零排放",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292473",
-      "title": "小鹏汽车首次季度盈利3.8亿，营收增长38.2%达222.5亿",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292471",
-      "title": "小米新一代SU7湿滑路面智能提醒，265mm宽胎提升稳定性",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292469",
-      "title": "腾讯云发布KiKi助手：一句话搞定资源配置和应用部署",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292467",
-      "title": "比亚迪腾势Z超跑征名大战开启，创意命名赢大奖！",
-      "source": "第一电动",
-      "pushedAt": 1774102958624
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292480",
       "title": "中国车企销量首超日本，比亚迪纯电全球第一",
@@ -5356,6 +5304,18 @@
       "title": "韦德布什分析师大胆预测：特斯拉和SpaceX或2027年合并",
       "source": "第一电动",
       "pushedAt": 1774701712915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293312",
+      "title": "江淮瑞风RF8悦享系列MPV焕新上市，19.99万起售，综合续航1150km！",
+      "source": "第一电动",
+      "pushedAt": 1774708050274
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293313",
+      "title": "雪佛兰科尔维特GrandSport混动版归来，6.7L V8引擎535马力震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1774708050274
     }
   ],
   "lastUpdated": "2026-03-28"
