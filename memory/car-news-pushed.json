@@ -773,7 +773,12 @@
     "https://www.d1ev.com/news/shichang/293259",
     "https://www.d1ev.com/newsflash/293257",
     "https://www.d1ev.com/newsflash/293274",
-    "https://www.d1ev.com/newsflash/293276"
+    "https://www.d1ev.com/newsflash/293276",
+    "https://www.d1ev.com/carnews/xinche/293280",
+    "https://www.d1ev.com/news/qiye/293278",
+    "https://www.d1ev.com/newsflash/293277",
+    "https://www.d1ev.com/newsflash/293281",
+    "https://www.d1ev.com/newsflash/293279"
   ],
   "newsHistory": [
     {
@@ -5419,6 +5424,36 @@
       "title": "特斯拉Model3标准版国内上市传闻被官方否认",
       "source": "第一电动",
       "pushedAt": 1774643534536
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293280",
+      "title": "新一代五菱宏光MINIEV上市：4.48万起",
+      "source": "第一电动",
+      "pushedAt": 1774662307122
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293278",
+      "title": "微型代步车之王焕新！新一代五菱宏光MINIEV上市：4.48万起",
+      "source": "第一电动",
+      "pushedAt": 1774662307122
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293277",
+      "title": "小米SU7Ultra新色暮光玫瑰亮相，碳纤维尾翼增续航",
+      "source": "第一电动",
+      "pushedAt": 1774662307122
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293281",
+      "title": "AI新巨头Anthropic泄露最强模型ClaudeMythos，网络安全股暴跌",
+      "source": "第一电动",
+      "pushedAt": 1774662307122
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293279",
+      "title": "AI聊天机器人被曝收集敏感数据，70%应用获取用户位置信息",
+      "source": "第一电动",
+      "pushedAt": 1774662307122
     }
   ],
   "lastUpdated": "2026-03-28"
