@@ -800,27 +800,15 @@
     "https://www.d1ev.com/newsflash/293302",
     "https://www.d1ev.com/newsflash/293301",
     "https://www.d1ev.com/newsflash/293300",
-    "https://www.d1ev.com/newsflash/293304"
+    "https://www.d1ev.com/newsflash/293304",
+    "https://www.d1ev.com/newsflash/293305",
+    "https://www.d1ev.com/newsflash/293308",
+    "https://www.d1ev.com/newsflash/293311",
+    "https://www.d1ev.com/newsflash/293310",
+    "https://www.d1ev.com/newsflash/293309",
+    "https://www.d1ev.com/newsflash/293306"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292465",
-      "title": "小米SU7新车型23日交付，长续航Pro版902km仅24.99万！",
-      "source": "第一电动",
-      "pushedAt": 1774096570840
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292466",
-      "title": "小米SU7全国交付启动，雷军直播答疑，起售价21.99万",
-      "source": "第一电动",
-      "pushedAt": 1774096570840
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292463",
-      "title": "国内首个“路空一体”测试基地启用 低空飞行器试飞更便捷",
-      "source": "第一电动",
-      "pushedAt": 1774096570840
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292472",
       "title": "比亚迪ATTO3Evo英国上市：309hp动力升级，续航增至508km！",
@@ -5332,6 +5320,42 @@
       "title": "特斯拉重庆高速服务区55座超充站启用，15分钟续航250公里",
       "source": "第一电动",
       "pushedAt": 1774693649069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293305",
+      "title": "200人抗议AI发展：要求暂停研发，防止人类灭绝风险",
+      "source": "第一电动",
+      "pushedAt": 1774701712915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293308",
+      "title": "五菱缤果Pro全球首秀：复古美学与摩登色彩的碰撞",
+      "source": "第一电动",
+      "pushedAt": 1774701712915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293311",
+      "title": "柯尼赛格Gemera超级跑车量产在即，2300马力四座猛兽即将交付",
+      "source": "第一电动",
+      "pushedAt": 1774701712915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293310",
+      "title": "全国最大人形机器人训练基地升级扩容，石景山具身智能实训场三期揭牌",
+      "source": "第一电动",
+      "pushedAt": 1774701712915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293309",
+      "title": "亿纬锂能2025年业绩亮眼：营收增26% 四季度盈利大增近50%",
+      "source": "第一电动",
+      "pushedAt": 1774701712915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293306",
+      "title": "韦德布什分析师大胆预测：特斯拉和SpaceX或2027年合并",
+      "source": "第一电动",
+      "pushedAt": 1774701712915
     }
   ],
   "lastUpdated": "2026-03-28"
