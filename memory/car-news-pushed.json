@@ -795,87 +795,14 @@
     "https://www.d1ev.com/newsflash/293296",
     "https://www.d1ev.com/newsflash/293294",
     "https://www.d1ev.com/newsflash/293293",
-    "https://www.d1ev.com/newsflash/293297"
+    "https://www.d1ev.com/newsflash/293297",
+    "https://www.d1ev.com/newsflash/293303",
+    "https://www.d1ev.com/newsflash/293302",
+    "https://www.d1ev.com/newsflash/293301",
+    "https://www.d1ev.com/newsflash/293300",
+    "https://www.d1ev.com/newsflash/293304"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292461",
-      "title": "吉利银河星耀8预售开启，14.28万起售，续航超1700km！",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292458",
-      "title": "奥迪Q4e-tron改款曝光：封闭式前脸+全新中控布局升级",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292452",
-      "title": "吉利银河星耀8远航家预售开启，14.28万起享豪华旗舰配置！",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292451",
-      "title": "鸿蒙智行尚界Z7T亮相：华为技术加持，多彩设计3月23日预订开启",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292457",
-      "title": "马斯克xAI上门服务抢客户，Shift4弃ChatGPT转投Grok",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292456",
-      "title": "广州首飞成功！广汽高域GOVYAirCab飞行汽车即将量产",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/292455",
-      "title": "小鹏四季度扭亏为盈，加码70亿元竞速物理AI",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292454",
-      "title": "小米MiMo-V2系列大模型发布，全球开发者免费试用一周！",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292450",
-      "title": "“8大企业入驻国家人工智能中试基地，电力AI技术加速规模化应用”",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292459",
-      "title": "理想L9 Livis终极版55.98万起，全球首搭60万内800V全主动悬架",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292462",
-      "title": "超跑新风尚！腾势Z征名启动，3.9秒破百插混动力来袭",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292460",
-      "title": "特斯拉FSD安全受质疑：NHTSA启动工程分析调查320万辆车",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292453",
-      "title": "MiniMax M2.7模型爆火！平台高峰时段将限流保稳定",
-      "source": "第一电动",
-      "pushedAt": 1774088529181
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292465",
       "title": "小米SU7新车型23日交付，长续航Pro版902km仅24.99万！",
@@ -5375,6 +5302,36 @@
       "title": "京东物流“异狼”机械臂升级：双臂协同提升分拣效率，成本大降",
       "source": "第一电动",
       "pushedAt": 1774686797767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293303",
+      "title": "极氪007GT现款售罄，新一代车型二季度亮相",
+      "source": "第一电动",
+      "pushedAt": 1774693649069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293302",
+      "title": "“东风奕派007闪现版上市，14.49万起售，限时优惠+多重补贴”",
+      "source": "第一电动",
+      "pushedAt": 1774693649069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293301",
+      "title": "东风纳米01Cross开启预售：无框车门+高通8155芯片，Q2上市",
+      "source": "第一电动",
+      "pushedAt": 1774693649069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293300",
+      "title": "比亚迪腾势D9内饰曝光，三排布局+双续航突破400km/800km",
+      "source": "第一电动",
+      "pushedAt": 1774693649069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293304",
+      "title": "特斯拉重庆高速服务区55座超充站启用，15分钟续航250公里",
+      "source": "第一电动",
+      "pushedAt": 1774693649069
     }
   ],
   "lastUpdated": "2026-03-28"
