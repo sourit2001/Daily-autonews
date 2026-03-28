@@ -778,7 +778,12 @@
     "https://www.d1ev.com/news/qiye/293278",
     "https://www.d1ev.com/newsflash/293277",
     "https://www.d1ev.com/newsflash/293281",
-    "https://www.d1ev.com/newsflash/293279"
+    "https://www.d1ev.com/newsflash/293279",
+    "https://www.d1ev.com/news/qiye/293286",
+    "https://www.d1ev.com/newsflash/293285",
+    "https://www.d1ev.com/newsflash/293283",
+    "https://www.d1ev.com/newsflash/293282",
+    "https://www.d1ev.com/newsflash/293284"
   ],
   "newsHistory": [
     {
@@ -5454,6 +5459,36 @@
       "title": "AI聊天机器人被曝收集敏感数据，70%应用获取用户位置信息",
       "source": "第一电动",
       "pushedAt": 1774662307122
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293286",
+      "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
+      "source": "第一电动",
+      "pushedAt": 1774671323128
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293285",
+      "title": "特斯拉Model S里程破270万公里，电动车耐用性惊人",
+      "source": "第一电动",
+      "pushedAt": 1774671323128
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293283",
+      "title": "Meta新AI模型TRIBEv2：无需测量，精准预测大脑反应",
+      "source": "第一电动",
+      "pushedAt": 1774671323128
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293282",
+      "title": "AI音乐革命！Suno v5.5大模型让音乐更懂你",
+      "source": "第一电动",
+      "pushedAt": 1774671323128
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293284",
+      "title": "小米SU7Ultra新升级：暮光玫瑰漆+碳纤维尾翼，性能与颜值双提升！",
+      "source": "第一电动",
+      "pushedAt": 1774671323128
     }
   ],
   "lastUpdated": "2026-03-28"
