@@ -808,87 +808,13 @@
     "https://www.d1ev.com/newsflash/293309",
     "https://www.d1ev.com/newsflash/293306",
     "https://www.d1ev.com/newsflash/293312",
-    "https://www.d1ev.com/newsflash/293313"
+    "https://www.d1ev.com/newsflash/293313",
+    "https://www.d1ev.com/newsflash/293323",
+    "https://www.d1ev.com/newsflash/293322",
+    "https://www.d1ev.com/newsflash/293321",
+    "https://www.d1ev.com/news/shichang/293320"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292480",
-      "title": "中国车企销量首超日本，比亚迪纯电全球第一",
-      "source": "第一电动",
-      "pushedAt": 1774110158362
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292491",
-      "title": "华为问界M6续航760km，3月23日全国200+门店亮相",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292489",
-      "title": "小鹏GX大型6座SUV即将上市，续航750km+L4级自动驾驶！",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292486",
-      "title": "鸿蒙智行旗舰轿旅双车新色来袭，享界S9/S9T即将上市",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292490",
-      "title": "美伊冲突催生亚太电动车销售热潮，比亚迪领跑海外市场",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292492",
-      "title": "中国车企全球销量首超日本，比亚迪纯电销量全球第一",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/292488",
-      "title": "菲亚特推出600燃油版车型",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292487",
-      "title": "新势力车企整顿廉洁合规，千万违规款主动上交免责期截止",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292485",
-      "title": "无人驾驶出租车佛山试水：乘客急眼，安全第一却效率堪忧",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292484",
-      "title": "Cursor新编程模型Composer-2被指侵权，疑似月之暗面KimiK2.5微调版",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292483",
-      "title": "盖世周报 | 2025年超半数经销商未达标；长城汽车拟在南非布产",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292482",
-      "title": "大众CEO布鲁姆：德国汽车业应学中国产业规划，2030年前德国裁减5万岗位",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292481",
-      "title": "蔚来五代换电站即将上线，今年目标新增千站8.5%",
-      "source": "第一电动",
-      "pushedAt": 1774144102822
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292499",
       "title": "华为春季新品发布：问界M7焕新升级，夜紫新色亮相",
@@ -5316,7 +5242,31 @@
       "title": "雪佛兰科尔维特GrandSport混动版归来，6.7L V8引擎535马力震撼登场",
       "source": "第一电动",
       "pushedAt": 1774708050274
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293323",
+      "title": "小米SU7首周交付四五千辆，雷军承诺的交付速度兑现！",
+      "source": "第一电动",
+      "pushedAt": 1774749352643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293322",
+      "title": "小米SU7首周交付四五千辆，1.6万辆备产目标能否达成？",
+      "source": "第一电动",
+      "pushedAt": 1774749352643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293321",
+      "title": "中美共识引领2026科技革命加速爆发",
+      "source": "第一电动",
+      "pushedAt": 1774749352643
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293320",
+      "title": "盖世周报 | 敏实集团2025年净利增长16%；安波福新项目落户嘉兴",
+      "source": "第一电动",
+      "pushedAt": 1774749352643
     }
   ],
-  "lastUpdated": "2026-03-28"
+  "lastUpdated": "2026-03-29"
 }
