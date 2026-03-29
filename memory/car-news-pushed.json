@@ -812,57 +812,16 @@
     "https://www.d1ev.com/newsflash/293323",
     "https://www.d1ev.com/newsflash/293322",
     "https://www.d1ev.com/newsflash/293321",
-    "https://www.d1ev.com/news/shichang/293320"
+    "https://www.d1ev.com/news/shichang/293320",
+    "https://www.d1ev.com/newsflash/293329",
+    "https://www.d1ev.com/newsflash/293324",
+    "https://www.d1ev.com/newsflash/293330",
+    "https://www.d1ev.com/newsflash/293328",
+    "https://www.d1ev.com/newsflash/293327",
+    "https://www.d1ev.com/newsflash/293326",
+    "https://www.d1ev.com/carnews/xinche/293325"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292499",
-      "title": "华为春季新品发布：问界M7焕新升级，夜紫新色亮相",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292494",
-      "title": "小米SU7正式上市！21.99万起售，央视点赞中国品牌新经典",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292500",
-      "title": "微信ClawBot插件上线，腾讯龙虾特工队全面适配新功能",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292498",
-      "title": "小米SU7新配色来袭，限时改配今晚截止！",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292497",
-      "title": "理想L9Livis首推60万内800V全主动悬架，技术突破引领行业变革",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292496",
-      "title": "博格华纳芜湖新工厂开业，主要配套奇瑞",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292495",
-      "title": "雷军亲推小米SU7：21.99万起售，3月23日交付仪式直播",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/292493",
-      "title": "曝某新势力车企整顿贪腐：设1个月纠错期 主动上交受贿的既往不咎",
-      "source": "第一电动",
-      "pushedAt": 1774152923309
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292506",
       "title": "吉利星耀8远航家预售开启，纯电续航225公里，综合续航1725公里！",
@@ -5266,6 +5225,48 @@
       "title": "盖世周报 | 敏实集团2025年净利增长16%；安波福新项目落户嘉兴",
       "source": "第一电动",
       "pushedAt": 1774749352643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293329",
+      "title": "长城坦克700开启预售，敦煌青配色+麒麟元素，185kW动力来袭",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293324",
+      "title": "英国布里斯托尔路灯充电桩费用高昂 民众质疑换电车划算吗？",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293330",
+      "title": "雷军微博互动引发奥迪车主换购小米SU7，网友点赞诚信兑现",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293328",
+      "title": "理想L9铝合金部件揭秘：减重才是硬道理，安全非铝量决定！",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293327",
+      "title": "“以租代购”购车遭意外：晁女士出险被索2600元折旧费",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293326",
+      "title": "蔚来首进拉美！哥斯达黎加三品牌门店盛大开业",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293325",
+      "title": "99元下订享多重好礼 纳米01Cross开启预订",
+      "source": "第一电动",
+      "pushedAt": 1774758900255
     }
   ],
   "lastUpdated": "2026-03-29"
