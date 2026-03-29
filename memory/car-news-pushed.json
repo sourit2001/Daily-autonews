@@ -844,51 +844,15 @@
     "https://www.d1ev.com/newsflash/293353",
     "https://www.d1ev.com/newsflash/293352",
     "https://www.d1ev.com/newsflash/293351",
-    "https://www.d1ev.com/news/shichang/293350"
+    "https://www.d1ev.com/news/shichang/293350",
+    "https://www.d1ev.com/newsflash/293365",
+    "https://www.d1ev.com/newsflash/293361",
+    "https://www.d1ev.com/newsflash/293360",
+    "https://www.d1ev.com/newsflash/293359",
+    "https://www.d1ev.com/newsflash/293358",
+    "https://www.d1ev.com/newsflash/293364"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292528",
-      "title": "吉利博越REV预售开启，续航1525公里，海洋美学设计亮眼",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292525",
-      "title": "小米“龙虾”手机AI助手亮相，雷军透露电脑版即将登场",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292524",
-      "title": "问界M6内饰官图曝光：个性化智能座舱，增程纯电双版本来袭",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292522",
-      "title": "数学家陶哲轩：AI改变研究，但不应取代人类探索",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292527",
-      "title": "零跑汽车反腐风暴：员工主动上交违规所得，千万以上已上缴",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292526",
-      "title": "科技巨头筑牢护城河，人工智能热潮难撼动市场地位",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292523",
-      "title": "国家发布OpenClaw安全指南，保护用户远离网络风险",
-      "source": "第一电动",
-      "pushedAt": 1774183135083
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292530",
       "title": "小米SU7限时改配今晚截止，卡布里蓝特别版轮毂亮相！",
@@ -5322,6 +5286,42 @@
       "title": "E周看点 | 小鹏汽车将更名；理想10亿美元回购股票",
       "source": "第一电动",
       "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293365",
+      "title": "江铃大道皮卡震撼上市！2.5T动力+智能座舱，11.28万起售",
+      "source": "第一电动",
+      "pushedAt": 1774788148710
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293361",
+      "title": "鸿蒙智行尚界Z7/Z7T内饰曝光：健康座舱2.0+零重力座椅，预售22.98万起",
+      "source": "第一电动",
+      "pushedAt": 1774788148710
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293360",
+      "title": "莲花ForMe超混SUV震撼上市，50.8万起，3.3秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1774788148710
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293359",
+      "title": "华为加持！启境GT7智能猎装车6月上市，7月交付",
+      "source": "第一电动",
+      "pushedAt": 1774788148710
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293358",
+      "title": "华为问界M6全系标配曝光：激光雷达+巨鲸电池，24小时订单破6万",
+      "source": "第一电动",
+      "pushedAt": 1774788148710
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293364",
+      "title": "蔚来萤火虫11个月交付破5万，加速中高端市场布局",
+      "source": "第一电动",
+      "pushedAt": 1774788148710
     }
   ],
   "lastUpdated": "2026-03-29"
