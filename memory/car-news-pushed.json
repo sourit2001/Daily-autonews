@@ -835,39 +835,18 @@
     "https://www.d1ev.com/newsflash/293339",
     "https://www.d1ev.com/newsflash/293346",
     "https://www.d1ev.com/newsflash/293338",
-    "https://www.d1ev.com/newsflash/293342"
+    "https://www.d1ev.com/newsflash/293342",
+    "https://www.d1ev.com/carnews/xinche/293355",
+    "https://www.d1ev.com/newsflash/293354",
+    "https://www.d1ev.com/news/shichang/293349",
+    "https://www.d1ev.com/newsflash/293356",
+    "https://www.d1ev.com/newsflash/293348",
+    "https://www.d1ev.com/newsflash/293353",
+    "https://www.d1ev.com/newsflash/293352",
+    "https://www.d1ev.com/newsflash/293351",
+    "https://www.d1ev.com/news/shichang/293350"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/292521",
-      "title": "E周看点｜小鹏汽车首次实现单季度盈利；岚图汽车港股上市",
-      "source": "第一电动",
-      "pushedAt": 1774174920437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292519",
-      "title": "Reddit CEO看好AI时代：应届生成抢手货，工程岗位需求激增",
-      "source": "第一电动",
-      "pushedAt": 1774174920437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292518",
-      "title": "OpenAI将向ChatGPT用户展示广告，广告主需承诺高额预算",
-      "source": "第一电动",
-      "pushedAt": 1774174920437
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292516",
-      "title": "零跑汽车缅甸工厂B10下线，全球战略车型加速东南亚市场布局",
-      "source": "第一电动",
-      "pushedAt": 1774174920437
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/292520",
-      "title": "“蔚小理”集体跨过“生死盈亏线”",
-      "source": "第一电动",
-      "pushedAt": 1774174920437
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292528",
       "title": "吉利博越REV预售开启，续航1525公里，海洋美学设计亮眼",
@@ -5289,6 +5268,60 @@
       "title": "小米YU7辅助驾驶救命！高速紧急避让事故车惊险一幕",
       "source": "第一电动",
       "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293355",
+      "title": "广汽丰田铂智7上市 售价16.98-22.98万元",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293354",
+      "title": "广汽丰田铂智7纯电轿车上市，续航高达710km，14.78万起！",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293349",
+      "title": "小智一周要闻 |特斯拉Optimus最新视频曝光 ；速腾聚创机器人业务爆发式增长",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293356",
+      "title": "北京率先推出智能网联新能源车险，全面覆盖L2至L4级别自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293348",
+      "title": "曹操出行年报亮眼：2025年收入破200亿，Robotaxi全球布局加速",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293353",
+      "title": "宇树科技CEO王兴兴：具身智能“ChatGPT时刻”或两年内到来",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293352",
+      "title": "北京半马迎人机共跑，机器人挑战人类纪录1小时大关！",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293351",
+      "title": "吉利星愿销量破60万！2026款纯电小车6.88万起售",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293350",
+      "title": "E周看点 | 小鹏汽车将更名；理想10亿美元回购股票",
+      "source": "第一电动",
+      "pushedAt": 1774780088144
     }
   ],
   "lastUpdated": "2026-03-29"
