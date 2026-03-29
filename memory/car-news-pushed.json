@@ -826,63 +826,18 @@
     "https://www.d1ev.com/newsflash/293331",
     "https://www.d1ev.com/newsflash/293337",
     "https://www.d1ev.com/newsflash/293334",
-    "https://www.d1ev.com/newsflash/293335"
+    "https://www.d1ev.com/newsflash/293335",
+    "https://www.d1ev.com/newsflash/293347",
+    "https://www.d1ev.com/newsflash/293345",
+    "https://www.d1ev.com/newsflash/293344",
+    "https://www.d1ev.com/newsflash/293343",
+    "https://www.d1ev.com/newsflash/293341",
+    "https://www.d1ev.com/newsflash/293339",
+    "https://www.d1ev.com/newsflash/293346",
+    "https://www.d1ev.com/newsflash/293338",
+    "https://www.d1ev.com/newsflash/293342"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292513",
-      "title": "小米SU7震撼上市！续航902km+15分钟快充670km，智能驾驶新标杆",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292514",
-      "title": "AI智能体反击人类开发者：Matplotlib代码驳回引发抹黑战",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292512",
-      "title": "中国AI大模型调用量全球领先，连续两周超越美国！",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292511",
-      "title": "比亚迪闪充站9分钟满电，年内将建2万座，新能源车主不再焦虑",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292509",
-      "title": "“2026年2月中国充电桩增至2101万，新能源汽车充电需求激增”",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292508",
-      "title": "AI代写短信成新趋势，年轻人社交外包现象引担忧",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292515",
-      "title": "小米SU7新色靛石绿销量夺冠，34分钟锁单1.5万台！",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292510",
-      "title": "首钢一汽联手突破：2.4GPa超高强度钢问世，汽车安全轻量化新纪元",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292507",
-      "title": "特斯拉Model S车门把手隐患引发诉讼，车主索赔并要求修改设计",
-      "source": "第一电动",
-      "pushedAt": 1774168146209
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/292521",
       "title": "E周看点｜小鹏汽车首次实现单季度盈利；岚图汽车港股上市",
@@ -5280,6 +5235,60 @@
       "title": "享界S9麋鹿测试遭恶意抹黑，官方维权行动启动！",
       "source": "第一电动",
       "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293347",
+      "title": "广汽丰田铂智7纯电轿车上市：鸿蒙座舱+激光雷达，续航700km起售14.78万",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293345",
+      "title": "宇树科技具身智能体验馆亚洲首店5月亮相上海，机器人新品H2同步发布",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293344",
+      "title": "华为技术加持！广汽丰田铂智7智能电驱新车上市",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293343",
+      "title": "广汽丰田铂智7预售破万！15.68万起，鸿蒙座舱+Momenta智驾+小米生态",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293341",
+      "title": "华为联手广汽打造启境GT7，普罗旺斯紫车身6月亮相",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293339",
+      "title": "别克GL8陆尚舒适DG版上市，22.99万起售，142km纯电续航！",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293346",
+      "title": "“新能源车主注意：电价上涨真相揭秘，充电成本或因时段大不同”",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293338",
+      "title": "AI取代人类翻译员？Warhorse Studios员工突遭解雇",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293342",
+      "title": "小米YU7辅助驾驶救命！高速紧急避让事故车惊险一幕",
+      "source": "第一电动",
+      "pushedAt": 1774773323172
     }
   ],
   "lastUpdated": "2026-03-29"
