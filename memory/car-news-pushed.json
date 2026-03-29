@@ -819,45 +819,16 @@
     "https://www.d1ev.com/newsflash/293328",
     "https://www.d1ev.com/newsflash/293327",
     "https://www.d1ev.com/newsflash/293326",
-    "https://www.d1ev.com/carnews/xinche/293325"
+    "https://www.d1ev.com/carnews/xinche/293325",
+    "https://www.d1ev.com/newsflash/293336",
+    "https://www.d1ev.com/newsflash/293333",
+    "https://www.d1ev.com/newsflash/293332",
+    "https://www.d1ev.com/newsflash/293331",
+    "https://www.d1ev.com/newsflash/293337",
+    "https://www.d1ev.com/newsflash/293334",
+    "https://www.d1ev.com/newsflash/293335"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292506",
-      "title": "吉利星耀8远航家预售开启，纯电续航225公里，综合续航1725公里！",
-      "source": "第一电动",
-      "pushedAt": 1774161823117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292504",
-      "title": "岚图泰山X8亮相港交所，华为智能座舱加持革新大五座SUV市场",
-      "source": "第一电动",
-      "pushedAt": 1774161823117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292501",
-      "title": "问界M6内饰曝光：可旋转中控屏+冰箱+后排娱乐屏，3月23日全国亮相",
-      "source": "第一电动",
-      "pushedAt": 1774161823117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292505",
-      "title": "“此芯科技发布螯芯系列处理器，Armv9.2架构AI算力高达80TOPS”",
-      "source": "第一电动",
-      "pushedAt": 1774161823117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292503",
-      "title": "零跑B10缅甸首车下线，海外市场拓展至40国超900店",
-      "source": "第一电动",
-      "pushedAt": 1774161823117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292502",
-      "title": "大众CEO呼吁向中国学习：面对激烈竞争，大众在华销量下滑8%",
-      "source": "第一电动",
-      "pushedAt": 1774161823117
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292513",
       "title": "小米SU7震撼上市！续航902km+15分钟快充670km，智能驾驶新标杆",
@@ -5267,6 +5238,48 @@
       "title": "99元下订享多重好礼 纳米01Cross开启预订",
       "source": "第一电动",
       "pushedAt": 1774758900255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293336",
+      "title": "别克GL8PHEV新车型上市，22.99万起售，纯电续航142公里！",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293333",
+      "title": "第二代腾势D9预售开启，纯电续航800公里，5分钟闪充70%电量！",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293332",
+      "title": "第二代腾势D9预售开启，38.98万起，搭载刀片电池及闪充技术",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293331",
+      "title": "比亚迪腾势D9MPV预售开启，38.98万起售，混动纯电同价！",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293337",
+      "title": "25岁天才少女洪乐潼创立AI独角兽Axiom，估值16亿美元",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293334",
+      "title": "特斯拉FSD升级：AI预判行人意图，自动驾驶迈入新阶段",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293335",
+      "title": "享界S9麋鹿测试遭恶意抹黑，官方维权行动启动！",
+      "source": "第一电动",
+      "pushedAt": 1774767459462
     }
   ],
   "lastUpdated": "2026-03-29"
