@@ -994,7 +994,10 @@
     "https://www.d1ev.com/newsflash/293519",
     "https://www.d1ev.com/newsflash/293512",
     "https://www.d1ev.com/newsflash/293511",
-    "https://www.d1ev.com/newsflash/293510"
+    "https://www.d1ev.com/newsflash/293510",
+    "https://www.d1ev.com/newsflash/293542",
+    "https://www.d1ev.com/newsflash/293541",
+    "https://www.d1ev.com/newsflash/293540"
   ],
   "newsHistory": [
     {
@@ -5478,7 +5481,25 @@
       "title": "“力箭二号”首飞成功，中科宇航开启可回收火箭新纪元",
       "source": "第一电动",
       "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293542",
+      "title": "英伟达智驾方案助力奔驰CLA，圣何塞试驾展现自动驾驶新高度",
+      "source": "第一电动",
+      "pushedAt": 1774889485658
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293541",
+      "title": "澳大利亚油价飙升，比亚迪电动车销量激增50%",
+      "source": "第一电动",
+      "pushedAt": 1774889485658
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293540",
+      "title": "Waymo自动驾驶纽约测试临到期，未来命运悬而未决",
+      "source": "第一电动",
+      "pushedAt": 1774889485658
     }
   ],
-  "lastUpdated": "2026-03-30"
+  "lastUpdated": "2026-03-31"
 }
