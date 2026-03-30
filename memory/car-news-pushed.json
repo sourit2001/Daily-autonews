@@ -977,111 +977,26 @@
     "https://www.d1ev.com/newsflash/293504",
     "https://www.d1ev.com/carnews/xinche/293497",
     "https://www.d1ev.com/news/shichang/293496",
-    "https://www.d1ev.com/newsflash/293495"
+    "https://www.d1ev.com/newsflash/293495",
+    "https://www.d1ev.com/news/shichang/293527",
+    "https://www.d1ev.com/newsflash/293523",
+    "https://www.d1ev.com/newsflash/293518",
+    "https://www.d1ev.com/newsflash/293517",
+    "https://www.d1ev.com/carnews/xinche/293516",
+    "https://www.d1ev.com/news/shichang/293515",
+    "https://www.d1ev.com/newsflash/293514",
+    "https://www.d1ev.com/news/qiye/293513",
+    "https://www.d1ev.com/newsflash/293524",
+    "https://www.d1ev.com/newsflash/293522",
+    "https://www.d1ev.com/newsflash/293521",
+    "https://www.d1ev.com/news/shichang/293526",
+    "https://www.d1ev.com/newsflash/293520",
+    "https://www.d1ev.com/newsflash/293519",
+    "https://www.d1ev.com/newsflash/293512",
+    "https://www.d1ev.com/newsflash/293511",
+    "https://www.d1ev.com/newsflash/293510"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/292679",
-      "title": "新款问界M7上市 售价30.98-38.98万元",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/292678",
-      "title": "新款问界M8上市 售价36.98-45.98万元",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292676",
-      "title": "华为春季新品发布：尚界Z7/Z7T轿跑预售价22.98万起，3小时订单破1.8万台",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/292675",
-      "title": "新款雪铁龙凡尔赛C5 X上市 售14.17万元起",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292672",
-      "title": "阿维塔06T首发大师漂移模式，华为激光雷达加持，续航高达741km",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292666",
-      "title": "华为技术加持，阿维塔12预售29.99万起，智能驾驶性能全面升级",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292665",
-      "title": "华为问界M6预售开启！增程版26.98万起，纯电版28.98万起",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292671",
-      "title": "西门子RXD大会聚焦工业AI革命：AI赋能汽车车间高效生产",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292667",
-      "title": "国际油价飙升，澳大利亚民众纷纷转向中国电动车",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292681",
-      "title": "中国汽车销量首超日本，全球竞争新阶段开启",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292674",
-      "title": "Mobileye获美国车企DMS订单",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292680",
-      "title": "小米SU7全国64家门店开售，锁单量破3万！",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292677",
-      "title": "时驾科技平湖工厂开业，全主动悬架等四款产品齐发",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292673",
-      "title": "文远知行2025年营收6.9亿元同比增90% Robotaxi收入增长超两倍",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292670",
-      "title": "小米SU7首批交付启动，全国64家门店同步开启！",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292669",
-      "title": "合肥蔚来体验中心首飞无人机送车牌，一小时到手！",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292668",
-      "title": "华为鸿蒙智界R7首批交付，双光路激光雷达版25.98万起",
-      "source": "第一电动",
-      "pushedAt": 1774277601807
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292688",
       "title": "充电站价格战激烈：年收入从50万跌至6万，行业利润缩水严重",
@@ -5461,6 +5376,108 @@
       "title": "小米造车五周年：累计投入超400亿，SU7系列销量超特斯拉Model3",
       "source": "第一电动",
       "pushedAt": 1774876076112
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293527",
+      "title": "合资的反攻，上汽大众ID. ERA 9X开启预售",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293523",
+      "title": "奇瑞QQ3EV焕新上市，5.89万起售，A0级电动新黑马来袭！",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293518",
+      "title": "奇瑞QQ3焕新上市！5.89万起售，纯电续航高达420km",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293517",
+      "title": "上汽大通皮卡家族焕新上市，星际EV续航515km，星际L动力领先同级",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293516",
+      "title": "上汽大众ID.ERA 9X预售 预售价32.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293515",
+      "title": "款款皆“满配”！上汽大众“增程新王”ID. ERA 9X预售32.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293514",
+      "title": "长城坦克700Hi4预售开启，硬派越野新旗舰登场",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293513",
+      "title": "上汽大众“增程新王” ID. ERA 9X 预售 32.98 万元起",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293524",
+      "title": "MistralAI宣布完成了总额8.3亿美元的债务融资，所得资金将在法建设一座AI数据中心",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293522",
+      "title": "阿里千问发布全新全模态大模型Qwen3.5-Omni：能够无缝理解文本、图片、音频及音视频输入",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293521",
+      "title": "赛力斯2025年营收增13.63%，新能源车销量超47万，问界M9蝉联销冠",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293526",
+      "title": "不到6万起售：纯电QQ3能否续写国民小车传奇？",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293520",
+      "title": "长安汽车蓝鲸超擎动力发布：家轿油耗2L/SUV油耗3L时代来临",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293519",
+      "title": "阿维塔12升级来袭：华为激光雷达加持，2.71秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293512",
+      "title": "东风资管启动岚图汽车H股增持计划，累计不超过2.5亿",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293511",
+      "title": "文远知行获Uber增持至5.82%，同步斥资1亿美元回购股份",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293510",
+      "title": "“力箭二号”首飞成功，中科宇航开启可回收火箭新纪元",
+      "source": "第一电动",
+      "pushedAt": 1774882854479
     }
   ],
   "lastUpdated": "2026-03-30"
