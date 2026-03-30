@@ -997,39 +997,11 @@
     "https://www.d1ev.com/newsflash/293510",
     "https://www.d1ev.com/newsflash/293542",
     "https://www.d1ev.com/newsflash/293541",
-    "https://www.d1ev.com/newsflash/293540"
+    "https://www.d1ev.com/newsflash/293540",
+    "https://www.d1ev.com/newsflash/293544",
+    "https://www.d1ev.com/newsflash/293543"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292688",
-      "title": "充电站价格战激烈：年收入从50万跌至6万，行业利润缩水严重",
-      "source": "第一电动",
-      "pushedAt": 1774284775807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292687",
-      "title": "理想增程3.0系统专为SUV设计，轿车无缘搭载",
-      "source": "第一电动",
-      "pushedAt": 1774284775807
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292690",
-      "title": "华为联手广汽打造智能猎装车，启境GT7开启AI出行新时代",
-      "source": "第一电动",
-      "pushedAt": 1774291493386
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292691",
-      "title": "智界R7激光雷达版全国交付，25.98万起售享7.4万权益！",
-      "source": "第一电动",
-      "pushedAt": 1774291493386
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292689",
-      "title": "别克至境世家纯电版：MPV安全新标杆，极限测试全胜！",
-      "source": "第一电动",
-      "pushedAt": 1774291493386
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/292717",
       "title": "将于二季度上市 领克10+官图发布",
@@ -5499,6 +5471,18 @@
       "title": "Waymo自动驾驶纽约测试临到期，未来命运悬而未决",
       "source": "第一电动",
       "pushedAt": 1774889485658
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293544",
+      "title": "苹果意外上线AI功能后迅速下架，原因竟是谷歌搜索？",
+      "source": "第一电动",
+      "pushedAt": 1774903161941
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293543",
+      "title": "苹果国行Beta版上线：Siri升级为Apple智能，新增多项AI功能！",
+      "source": "第一电动",
+      "pushedAt": 1774903161941
     }
   ],
   "lastUpdated": "2026-03-31"
