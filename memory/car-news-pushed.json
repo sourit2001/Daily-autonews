@@ -1102,33 +1102,17 @@
     "https://www.d1ev.com/newsflash/293651",
     "https://www.d1ev.com/newsflash/293642",
     "https://www.d1ev.com/newsflash/293650",
-    "https://www.d1ev.com/carnews/xinche/293649"
+    "https://www.d1ev.com/carnews/xinche/293649",
+    "https://www.d1ev.com/newsflash/293659",
+    "https://www.d1ev.com/newsflash/293657",
+    "https://www.d1ev.com/newsflash/293656",
+    "https://www.d1ev.com/newsflash/293652",
+    "https://www.d1ev.com/newsflash/293653",
+    "https://www.d1ev.com/newsflash/293658",
+    "https://www.d1ev.com/newsflash/293655",
+    "https://www.d1ev.com/news/qiye/293654"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292827",
-      "title": "比亚迪宋UltraEV 3月26日上市，预售价15.5万起，B级纯电闪充SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1774364011686
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292826",
-      "title": "蔚来Firefly右舵版泰国上市，16.9万起售续航330km",
-      "source": "第一电动",
-      "pushedAt": 1774364011686
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292828",
-      "title": "2027款梅赛德斯-迈巴赫S级：豪华新标杆，科技与奢华的极致融合",
-      "source": "第一电动",
-      "pushedAt": 1774364011686
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292825",
-      "title": "沃兹尼亚克：人工智能太枯燥，缺乏人类情感",
-      "source": "第一电动",
-      "pushedAt": 1774364011686
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292834",
       "title": "华为联手广汽打造启境GT7，6月上市开启智能出行新境界",
@@ -5472,6 +5456,54 @@
       "title": "营收达1650.5亿元创新高，净利润59.6亿元！赛力斯2025年交出高质量答卷",
       "source": "第一电动",
       "pushedAt": 1774962339396
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293659",
+      "title": "一汽-大众全新探岳LPHEV中型SUV二季度上市，双外观+插混动力",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293657",
+      "title": "岚图泰山X8携华为大屏来袭，2026年上市预定未来科技座驾",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293656",
+      "title": "华为启境GT7智能猎装车6月上市，搭载十大尖端科技！",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293652",
+      "title": "捷豹路虎联手奇瑞，神行者品牌独立升级，5年6款新车计划启动",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293653",
+      "title": "日本新能源汽车补贴新政：本土品牌最高补贴130万日元",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293658",
+      "title": "越野新贵！纵横G700顶火鸣镝版39.99万起，性能升级震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293655",
+      "title": "GitHub Copilot被曝擅自插入广告，引发开发者强烈反对后紧急调整",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293654",
+      "title": "高通盛况谈FREELANDER神行者",
+      "source": "第一电动",
+      "pushedAt": 1774969057145
     }
   ],
   "lastUpdated": "2026-03-31"
