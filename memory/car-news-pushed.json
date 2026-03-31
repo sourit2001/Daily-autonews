@@ -1113,7 +1113,8 @@
     "https://www.d1ev.com/news/qiye/293654",
     "https://www.d1ev.com/newsflash/293666",
     "https://www.d1ev.com/newsflash/293667",
-    "https://www.d1ev.com/newsflash/293665"
+    "https://www.d1ev.com/newsflash/293665",
+    "https://www.d1ev.com/newsflash/293669"
   ],
   "newsHistory": [
     {
@@ -5513,6 +5514,12 @@
       "title": "武汉萝卜快跑无人驾驶出租车集体故障，交通大堵塞！",
       "source": "第一电动",
       "pushedAt": 1774983274861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293669",
+      "title": "“FREELANDER神行者全球战略启动，未来5年六款新车亮相”",
+      "source": "第一电动",
+      "pushedAt": 1774996174210
     }
   ],
   "lastUpdated": "2026-04-01"
