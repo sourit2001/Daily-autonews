@@ -1110,21 +1110,12 @@
     "https://www.d1ev.com/newsflash/293653",
     "https://www.d1ev.com/newsflash/293658",
     "https://www.d1ev.com/newsflash/293655",
-    "https://www.d1ev.com/news/qiye/293654"
+    "https://www.d1ev.com/news/qiye/293654",
+    "https://www.d1ev.com/newsflash/293666",
+    "https://www.d1ev.com/newsflash/293667",
+    "https://www.d1ev.com/newsflash/293665"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292834",
-      "title": "华为联手广汽打造启境GT7，6月上市开启智能出行新境界",
-      "source": "第一电动",
-      "pushedAt": 1774371344076
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292835",
-      "title": "商汤科技年收入破50亿创新高，2026年推第二代NEO架构新模型",
-      "source": "第一电动",
-      "pushedAt": 1774371344076
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/292854",
       "title": "商汤科技2025年营收超50亿元，下半年EBITDA上市后首转正",
@@ -5504,7 +5495,25 @@
       "title": "高通盛况谈FREELANDER神行者",
       "source": "第一电动",
       "pushedAt": 1774969057145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293666",
+      "title": "大众ID.ERA9X震撼预售：增程SUV新旗舰，智能底盘+高阶智驾革新登场",
+      "source": "第一电动",
+      "pushedAt": 1774983274861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293667",
+      "title": "武汉“萝卜快跑”车辆集体故障，交通大堵塞！",
+      "source": "第一电动",
+      "pushedAt": 1774983274861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293665",
+      "title": "武汉萝卜快跑无人驾驶出租车集体故障，交通大堵塞！",
+      "source": "第一电动",
+      "pushedAt": 1774983274861
     }
   ],
-  "lastUpdated": "2026-03-31"
+  "lastUpdated": "2026-04-01"
 }
