@@ -1259,69 +1259,20 @@
     "https://www.d1ev.com/newsflash/293819",
     "https://www.d1ev.com/newsflash/293815",
     "https://www.d1ev.com/newsflash/293812",
-    "https://www.d1ev.com/newsflash/293809"
+    "https://www.d1ev.com/newsflash/293809",
+    "https://www.d1ev.com/newsflash/293834",
+    "https://www.d1ev.com/newsflash/293830",
+    "https://www.d1ev.com/newsflash/293827",
+    "https://www.d1ev.com/newsflash/293826",
+    "https://www.d1ev.com/newsflash/293825",
+    "https://www.d1ev.com/newsflash/293824",
+    "https://www.d1ev.com/newsflash/293833",
+    "https://www.d1ev.com/news/shichang/293832",
+    "https://www.d1ev.com/newsflash/293831",
+    "https://www.d1ev.com/news/qiye/293829",
+    "https://www.d1ev.com/newsflash/293828"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/292956",
-      "title": "奇瑞风云T9L开启预售 预售价13.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292952",
-      "title": "全新奥迪 A6L家族上市，售价32.29 万元起",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292951",
-      "title": "奔驰VLS迈巴赫版曝光：豪华MPV新标杆，65英寸大屏+42扬声器音响",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/292949",
-      "title": "家族首次油换电 续航785km！奥迪A6L e-tron预售：31.3万起",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292948",
-      "title": "奇瑞风云T9L预售开启，13.99万起售，纯电续航230km！",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292954",
-      "title": "迪士尼与OpenAI合作告吹，10亿美元AI视频项目意外终止",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292953",
-      "title": "索尼本田终止Afeela电动汽车项目，电动化战略大调整",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292950",
-      "title": "快手可灵AI业务25年Q4实现营收3.4亿元， CEO称对今年实现收入同比翻倍以上增长保持较强信心",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292957",
-      "title": "深蓝G318四驱版18.59万起售，越野性能升级！",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292955",
-      "title": "速腾聚创2025年单季首度盈利，机器人业务占比近半",
-      "source": "第一电动",
-      "pushedAt": 1774450521569
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292968",
       "title": "华为小艺Claw智能助手预约开启，199元体验AI新生活",
@@ -5899,6 +5850,72 @@
       "title": "特斯拉停产Model S/X，全力转向Optimus机器人生产线",
       "source": "第一电动",
       "pushedAt": 1775048921547
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293834",
+      "title": "华为启境GT7「茶卡银」官图曝光，6月上市搭载十大智能技术",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293830",
+      "title": "赛力斯2025年研发成果亮眼：超级增程技术突破，新能源汽车销量大增",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293827",
+      "title": "smart精灵#6EHD全球首秀，1.5T混动超1000公里续航！",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293826",
+      "title": "六部门新规实施：新能源车报废须车电一体，违规最高罚5万",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293825",
+      "title": "比亚迪海外首条云轨在巴西圣保罗正式通车运营",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293824",
+      "title": "奇瑞集团3月销量破24万，一季度累计60.2万辆，出口创新高",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293833",
+      "title": "武汉萝卜快跑Robotaxi突发“宕机” 多车停路中引发混乱",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293832",
+      "title": "Traton和Applied Intuition联合推出软件定义车辆平台Traton One OS",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293831",
+      "title": "理想汽车汤靖揭秘：增程器热效率非卖点，用户价值才是王道",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293829",
+      "title": "吉利汽车一季度销量突破70.9万辆，创同期新高",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293828",
+      "title": "蔚来ES8限时旗舰礼遇：10,000元补贴+5年NOP+低息金融方案",
+      "source": "第一电动",
+      "pushedAt": 1775055633015
     }
   ],
   "lastUpdated": "2026-04-01"
