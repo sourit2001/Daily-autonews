@@ -1208,111 +1208,25 @@
     "https://www.d1ev.com/newsflash/293764",
     "https://www.d1ev.com/news/shichang/293762",
     "https://www.d1ev.com/news/shichang/293757",
-    "https://www.d1ev.com/news/shichang/293756"
+    "https://www.d1ev.com/news/shichang/293756",
+    "https://www.d1ev.com/newsflash/293784",
+    "https://www.d1ev.com/news/qiye/293783",
+    "https://www.d1ev.com/newsflash/293780",
+    "https://www.d1ev.com/newsflash/293779",
+    "https://www.d1ev.com/newsflash/293778",
+    "https://www.d1ev.com/newsflash/293777",
+    "https://www.d1ev.com/newsflash/293776",
+    "https://www.d1ev.com/newsflash/293774",
+    "https://www.d1ev.com/news/shichang/293773",
+    "https://www.d1ev.com/newsflash/293768",
+    "https://www.d1ev.com/newsflash/293769",
+    "https://www.d1ev.com/newsflash/293785",
+    "https://www.d1ev.com/newsflash/293775",
+    "https://www.d1ev.com/newsflash/293772",
+    "https://www.d1ev.com/newsflash/293771",
+    "https://www.d1ev.com/newsflash/293770"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292918",
-      "title": "奔驰EQ系列新成员曝光：AMG版E级纯电轿车谍照首现！",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292911",
-      "title": "宝马i3M曝光！全新设计引热议，四电机布局或成纯电驾驶新宠",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292909",
-      "title": "鸿蒙智行问界M6预售开启，全球最高896线激光雷达成标配",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292908",
-      "title": "宝马iM3谍照曝光：四电机驱动，千匹马力纯电轿跑来袭",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292916",
-      "title": "小鹏MONAM03升级：20万级配置+图灵AI芯片，售价11.98万起",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292914",
-      "title": "名爵发布全新SolidCore电池和Hybrid+技术",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/292907",
-      "title": "比亚迪今年前两个月在欧洲销量同比大增 也高于特斯拉",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292904",
-      "title": "特斯拉Model S/X韩国停售，全球停产在即，Model 3/Y/Cybertruck成主力",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292919",
-      "title": "雷军微博互动引爆SU7预订，34分钟锁单1.5万台！",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292917",
-      "title": "重塑市场信心，理想10亿美元回购股票",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292915",
-      "title": "硬核五星安全！方程豹豹5澳洲碰撞测试获高分",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292913",
-      "title": "佛瑞亚海拉开发汽车前端模块Front Phygital Shield 用于新款BMW iX3",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292912",
-      "title": "特斯拉Model3标准版即将登陆中国，预计售价低于20万！",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292910",
-      "title": "兰博基尼新GT车型将放弃纯电 转向插混动力",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/292906",
-      "title": "魏牌CEO：传感器不是越多越好 堆3、4个雷达是对用户不负责",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292905",
-      "title": "深蓝G318四驱旷野版18.59万起售，现金礼、换购礼、0息贷款等多重优惠来袭！",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292903",
-      "title": "特斯拉Model3标准版或将20万内起售，中国市场新生产线建成",
-      "source": "第一电动",
-      "pushedAt": 1774428282654
-    },
     {
       "url": "https://www.d1ev.com/newsflash/292936",
       "title": "特斯拉新专利曝光：双电池系统助力Cybertruck续航升级",
@@ -5812,6 +5726,102 @@
       "title": "曹操出行获批，可在杭州开展无安全员智能网联汽车道路测试",
       "source": "第一电动",
       "pushedAt": 1775027644379
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293784",
+      "title": "极氪3月交付量飙升90%，累计交付近72万辆新车！",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293783",
+      "title": "极氪9X疯狂收割BBA用户！极氪3月交付新车29318辆 暴增90%",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293780",
+      "title": "奇瑞捷豹路虎神行者97概念车全球首秀，全系标配华为智驾ADSV4.1",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293779",
+      "title": "岚图汽车3月销量激增80%，高端新能源市场再添新动力",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293778",
+      "title": "上汽集团2025年销量大增12.3%，新能源车销量超160万",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293777",
+      "title": "阿里巴巴Wan2.7-Image发布：AI生图告别标准脸，实现千人千面色彩精准",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293776",
+      "title": "AI重现81192战机荣耀，歼-8Ⅱ与歼-35、歼-15共翱翔海空",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293774",
+      "title": "雅迪宣布2026年4月起全品类电动车涨价300元起",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293773",
+      "title": "法国为何豪掷15亿欧元，执意引台企建电池厂？",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293768",
+      "title": "钠电池成本逼近磷酸铁锂，2026年或实现价格交汇",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293769",
+      "title": "高德开源全球首个机器人“通用大脑”ABot-M0，效率提升30%！",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293785",
+      "title": "理想汽车3月交付量破4万，累计交付超163万！",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293775",
+      "title": "Anthropic回应ClaudeCode源码泄露：50万行代码外泄，无用户数据泄露",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293772",
+      "title": "猛士汽车3月销量飙升：环比增长97.1%，连续三月攀升！",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293771",
+      "title": "特斯拉Model S/X停产，Model 3/Y成新宠",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293770",
+      "title": "东风奕派3月销量激增30%，连续三月同比大增！",
+      "source": "第一电动",
+      "pushedAt": 1775033962201
     }
   ],
   "lastUpdated": "2026-04-01"
