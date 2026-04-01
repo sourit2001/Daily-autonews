@@ -1270,7 +1270,8 @@
     "https://www.d1ev.com/news/shichang/293832",
     "https://www.d1ev.com/newsflash/293831",
     "https://www.d1ev.com/news/qiye/293829",
-    "https://www.d1ev.com/newsflash/293828"
+    "https://www.d1ev.com/newsflash/293828",
+    "https://www.d1ev.com/newsflash/293839"
   ],
   "newsHistory": [
     {
@@ -5916,7 +5917,13 @@
       "title": "蔚来ES8限时旗舰礼遇：10,000元补贴+5年NOP+低息金融方案",
       "source": "第一电动",
       "pushedAt": 1775055633015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293839",
+      "title": "小米SU7智能减震新突破：毫秒级调节，操控舒适双升级",
+      "source": "第一电动",
+      "pushedAt": 1775062043314
     }
   ],
-  "lastUpdated": "2026-04-01"
+  "lastUpdated": "2026-04-02"
 }
