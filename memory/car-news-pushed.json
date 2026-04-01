@@ -1224,111 +1224,29 @@
     "https://www.d1ev.com/newsflash/293775",
     "https://www.d1ev.com/newsflash/293772",
     "https://www.d1ev.com/newsflash/293771",
-    "https://www.d1ev.com/newsflash/293770"
+    "https://www.d1ev.com/newsflash/293770",
+    "https://www.d1ev.com/news/qiye/293801",
+    "https://www.d1ev.com/news/qiye/293792",
+    "https://www.d1ev.com/newsflash/293804",
+    "https://www.d1ev.com/newsflash/293803",
+    "https://www.d1ev.com/newsflash/293800",
+    "https://www.d1ev.com/newsflash/293796",
+    "https://www.d1ev.com/news/shichang/293802",
+    "https://www.d1ev.com/newsflash/293794",
+    "https://www.d1ev.com/newsflash/293807",
+    "https://www.d1ev.com/newsflash/293806",
+    "https://www.d1ev.com/newsflash/293805",
+    "https://www.d1ev.com/newsflash/293798",
+    "https://www.d1ev.com/news/shichang/293797",
+    "https://www.d1ev.com/newsflash/293795",
+    "https://www.d1ev.com/news/shichang/293793",
+    "https://www.d1ev.com/newsflash/293790",
+    "https://www.d1ev.com/newsflash/293789",
+    "https://www.d1ev.com/newsflash/293788",
+    "https://www.d1ev.com/newsflash/293787",
+    "https://www.d1ev.com/newsflash/293786"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292936",
-      "title": "特斯拉新专利曝光：双电池系统助力Cybertruck续航升级",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292929",
-      "title": "AMD锐龙加持，希未AideaMiniR10迷你主机仅879元上市",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292928",
-      "title": "蔚来ES9实车亮相：家族设计+激光雷达，4月9日技术发布",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292935",
-      "title": "3月前三周乘用车零售同比降16%，新能源渗透率超50%",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292933",
-      "title": "曝索尼本田合资公司考虑暂停电动汽车开发",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/292932",
-      "title": "两人编造车企销量下滑谣言：AI洗稿70余万篇 获利8万多被抓",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292923",
-      "title": "AI智能体普及加速，技术突破引领未来生产力革命",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292922",
-      "title": "腾讯AI应用元宝派电脑版上线：多端同步办公新体验",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292921",
-      "title": "禾赛ATX激光雷达助力一汽奔腾销量突破20万，新能源渗透率达86%",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292920",
-      "title": "奔驰迈巴赫S级轿车搭载多模态大模型技术，开启智能交互新篇章",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292934",
-      "title": "亚马逊Zoox Robotaxi宣布服务扩张，不到一年已为超过35万人提供服务",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292931",
-      "title": "特斯拉发布Optimus人形机器人相关岗位招聘信息，目标加速大规模量产进程",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292930",
-      "title": "本田索尼合资企业SHM宣布终止AFEELA1及第二款车型开发计划",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292927",
-      "title": "特斯拉欧盟销量回暖：2月销量同比增29.1%",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292926",
-      "title": "大众回归实体按键，ID系列车型内饰升级在即",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/292925",
-      "title": "禾赛激光雷达获一汽奔腾新一代车型定点",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292924",
-      "title": "比亚迪成国内顶尖大学毕业生“收割机”，民营企业就业去向中排名第二",
-      "source": "第一电动",
-      "pushedAt": 1774435478590
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/292947",
       "title": "降价超10万 华为乾崑智驾上车！全新奥迪A6L上市：32.29万",
@@ -5822,6 +5740,126 @@
       "title": "东风奕派3月销量激增30%，连续三月同比大增！",
       "source": "第一电动",
       "pushedAt": 1775033962201
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293801",
+      "title": "蔚来3月交付新车35486台，同比增136%",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293792",
+      "title": "极氪3月交付新车29318辆，同环比双增",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293804",
+      "title": "长城汽车3月销量破10万，新能源车增势强劲",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293803",
+      "title": "赛力斯3月销量飙升47%！新能源车市占率再创新高",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293800",
+      "title": "比亚迪3月销量超30万夺冠，新能源车累计销量破1580万",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293796",
+      "title": "苹果AI意外上线后紧急撤回，国行版文件远程删除",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293802",
+      "title": "深蓝汽车3月全球销量破三万，环比增长87.8%",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293794",
+      "title": "吉利汽车3月销量持平，极氪品牌同比增长90%，出口大增120%",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293807",
+      "title": "极氪3月销量劲增90%，一季度交付超7.7万辆创新高！",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293806",
+      "title": "理想汽车3月销量破4万，i6超2.4万领跑纯电SUV市场",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293805",
+      "title": "蔚来3月销量激增136%，全新ES8连续三月销量冠军",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293798",
+      "title": "蔚来3月销量激增136%，一季度交付超8万台创新高",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293797",
+      "title": "小鹏汽车3月交付环比涨80%",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293795",
+      "title": "魏牌V9X NVH测试超劳斯莱斯幻影，50万级SUV媲美1500万豪车！",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293793",
+      "title": "理想汽车3月交付41,053辆，理想i6占比过半",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293790",
+      "title": "理想汽车月交付量破4万，累计销量超160万，i6成销量主力",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293789",
+      "title": "腾讯QQ接入OpenClaw，最新版本可养龙虾！",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293788",
+      "title": "雷军赌赢奥迪车主换小米SU7，上汽奥迪霸气回应挑战性能SUV",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293787",
+      "title": "中国动物疫病防控迈入智能时代：670种疫病在线诊断平台发布",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293786",
+      "title": "小鹏汽车3月交付量激增80%，启动拉丁美洲扩张计划",
+      "source": "第一电动",
+      "pushedAt": 1775040718112
     }
   ],
   "lastUpdated": "2026-04-01"
