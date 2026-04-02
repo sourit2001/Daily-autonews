@@ -1406,39 +1406,14 @@
     "https://www.d1ev.com/news/shichang/293983",
     "https://www.d1ev.com/newsflash/293982",
     "https://www.d1ev.com/newsflash/293986",
-    "https://www.d1ev.com/newsflash/293995"
+    "https://www.d1ev.com/newsflash/293995",
+    "https://www.d1ev.com/news/qiye/293996",
+    "https://www.d1ev.com/newsflash/294000",
+    "https://www.d1ev.com/newsflash/293999",
+    "https://www.d1ev.com/newsflash/293997",
+    "https://www.d1ev.com/newsflash/293998"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293118",
-      "title": "奔驰“小G”谍照曝光，纯电版或搭载1.5T混动引擎",
-      "source": "第一电动",
-      "pushedAt": 1774544196217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293117",
-      "title": "智己LS8预售45分钟破万！30万级享百万底盘配置，4秒破百续航超1600km",
-      "source": "第一电动",
-      "pushedAt": 1774544196217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293122",
-      "title": "北京车展前瞻：舱驾一体芯片战火点燃，智能汽车新引擎之争一触即发",
-      "source": "第一电动",
-      "pushedAt": 1774544196217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293121",
-      "title": "6.58万起！零跑A10携激光雷达+500km续航颠覆10万级纯电SUV市场",
-      "source": "第一电动",
-      "pushedAt": 1774544196217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293116",
-      "title": "油价上涨催生车市促销潮，广汽传祺等品牌推油费补贴政策",
-      "source": "第一电动",
-      "pushedAt": 1774544196217
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293126",
       "title": "比亚迪宋UltraEV震撼上市！15.19万起，续航高达710km",
@@ -6058,6 +6033,36 @@
       "title": "小米SU7全面拆解直播：3.5小时深度解析，7000台闪电交付创纪录",
       "source": "第一电动",
       "pushedAt": 1775148742107
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293996",
+      "title": "2026款小鹏MONA M03上市，11.98万元起搭载第二代VLA智驾",
+      "source": "第一电动",
+      "pushedAt": 1775155816541
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294000",
+      "title": "小鹏MONAM03焕新登场：11.98万起售，续航高达640km！",
+      "source": "第一电动",
+      "pushedAt": 1775155816541
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293999",
+      "title": "腾势Z9/Z9GT升级：智驾大模型加持，泊车辅助升级，座舱更智能",
+      "source": "第一电动",
+      "pushedAt": 1775155816541
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293997",
+      "title": "2026年3月汽车销量榜：上汽集团破百万，比亚迪新能源累计超1580万",
+      "source": "第一电动",
+      "pushedAt": 1775155816541
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293998",
+      "title": "特斯拉2026年Q1全球销量增6.5%，Model Y连续三年全球销冠",
+      "source": "第一电动",
+      "pushedAt": 1775155816541
     }
   ],
   "lastUpdated": "2026-04-03"
