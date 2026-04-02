@@ -1328,207 +1328,26 @@
     "https://www.d1ev.com/newsflash/293875",
     "https://www.d1ev.com/newsflash/293874",
     "https://www.d1ev.com/news/shichang/293873",
-    "https://www.d1ev.com/news/qiye/293870"
+    "https://www.d1ev.com/news/qiye/293870",
+    "https://www.d1ev.com/newsflash/293913",
+    "https://www.d1ev.com/carnews/xinche/293911",
+    "https://www.d1ev.com/carnews/xinche/293910",
+    "https://www.d1ev.com/carnews/xinche/293909",
+    "https://www.d1ev.com/newsflash/293901",
+    "https://www.d1ev.com/newsflash/293919",
+    "https://www.d1ev.com/newsflash/293916",
+    "https://www.d1ev.com/newsflash/293912",
+    "https://www.d1ev.com/newsflash/293908",
+    "https://www.d1ev.com/newsflash/293918",
+    "https://www.d1ev.com/newsflash/293917",
+    "https://www.d1ev.com/newsflash/293914",
+    "https://www.d1ev.com/news/shichang/293905",
+    "https://www.d1ev.com/news/qiye/293904",
+    "https://www.d1ev.com/newsflash/293903",
+    "https://www.d1ev.com/newsflash/293902",
+    "https://www.d1ev.com/newsflash/293900"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293008",
-      "title": "五菱缤果Pro亮相：精致座驾新成员，最高车速130km/h！",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293006",
-      "title": "鸿蒙智行尊界MPV谍照曝光：超5.3米豪华座驾，激光雷达加持",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293004",
-      "title": "奇瑞路虎神行者实车图曝光：六座设计",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293003",
-      "title": "小米YU7 GT实车亮相：尾部灯光有变化",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292999",
-      "title": "奇瑞路虎联手打造新能源硬派SUV，神行者FREELANDER即将亮相",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292997",
-      "title": "比亚迪腾势D9新突破：5分钟快充，续航达800km，3月29日预售开启！",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293016",
-      "title": "广汽在麦格纳奥地利工厂投产AION UT",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293013",
-      "title": "特斯拉申请双电池管理系统专利",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293011",
-      "title": "特斯拉加州Robotaxi业务被定性：非自动驾驶，监管灰色地带？",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293010",
-      "title": "5款新能源车安全测评全优！蔚来ES8、理想i6等表现亮眼",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293009",
-      "title": "谷歌TurboQuant算法突破AI内存瓶颈，存储芯片股暴跌",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293007",
-      "title": "阿里AI助手千问入驻红旗HS6PHEV，语音操控开启智能出行新体验",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293002",
-      "title": "2026年2月燃油车型/新能源车型销量榜：奇瑞瑞虎7/7Plus登顶燃油车，小米YU7跻身新能源前三丨盖世汽车研究院",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292998",
-      "title": "中国新能源车出口激增88%，插混皮卡成新亮点",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293015",
-      "title": "斯柯达2026年退出中国市场：销量暴跌95%，转向印度东南亚市场",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293014",
-      "title": "日本研究人员发明仿生昆虫机器人 即使只有一根工作“天线”也能追踪气味",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293012",
-      "title": "思瑞浦车规级高边开关TPW4020DQ，以硬核技术，重塑高端智能功率控制",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293005",
-      "title": "特斯拉Model3标准版将入华，起售价或低于20万",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293000",
-      "title": "2026年2月轿车/SUV车型销量榜：自主崛起，合资份额持续缩水丨盖世汽车研究院",
-      "source": "第一电动",
-      "pushedAt": 1774499503582
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293027",
-      "title": "全新五菱缤果Pro官图发布 提供多种车身颜色",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293024",
-      "title": "性能感十足 2026款兰博基尼Urus SE官图发布",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293021",
-      "title": "二代刀片电池+闪充 新款腾势D9预售定档",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293031",
-      "title": "Meta启动中小企业计划，扎克伯格力挺AI创业新浪潮",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293026",
-      "title": "比亚迪夏3月OTA升级来袭：16项新功能+10项优化，智能座舱UI焕新体验！",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293025",
-      "title": "马斯克xAI再失大将，联合创始人仅剩一人坚守",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293020",
-      "title": "阿里千问AI首上车！红旗HS6PHEV搭载“灵犀座舱”智能出行新体验",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293030",
-      "title": "斯柯达2026年中退出中国，大众强调中国市场核心地位",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293029",
-      "title": "通用汽车将向韩国子公司投资6亿美元",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293028",
-      "title": "雷军：团队发现租/借车事故率较高 专门开发了车主管理模式",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293023",
-      "title": "2026 SATA世达首届嘉年华在沪举行",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293019",
-      "title": "上海：构建开源“大脑”与数字生态池",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293018",
-      "title": "2026，上汽的“交卷时刻”？",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293017",
-      "title": "斯柯达品牌将于年内退出中国市场",
-      "source": "第一电动",
-      "pushedAt": 1774508557233
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293035",
       "title": "特斯拉Cybercab亮相：尺寸更紧凑，未来销量有望超越ModelY",
@@ -6154,6 +5973,108 @@
       "title": "长安3月销量破27万辆，阿维塔却仅卖5千",
       "source": "第一电动",
       "pushedAt": 1775104172540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293913",
+      "title": "宝马X1中期改款谍照曝光，2027年亮相预计售价36.6万起",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293911",
+      "title": "2026纽约车展 新款大众Atlas官图发布",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293910",
+      "title": "新款CROSSTREK旭豹正式上市 售价19.98万起",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293909",
+      "title": "内外全面升级 福特烈马RTR内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293901",
+      "title": "蔚来2026款ES6、EC6全新升级上市，续航超630km起售33.8万！",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293919",
+      "title": "AI新突破！Step3.5Flash2603模型上线，推理效率大幅提升",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293916",
+      "title": "Anthropic推全天候AI智能体Conway，24小时自动化响应新时代",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293912",
+      "title": "四川充电设施大升级：2027年建成205万个充电桩，覆盖400万辆电动汽车",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293908",
+      "title": "谷歌AIPro订阅升级：5TB云存储免费，功能大增强！",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293918",
+      "title": "国家药监局发布“人工智能+药品监管”实施意见，2035年构建智慧化药品安全治理新格局",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293917",
+      "title": "小米CEO雷军5小时拆车直播，揭秘SU7六大核心亮点！",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293914",
+      "title": "大众汽车中国新战略：ID.UX系列将入驻一汽-大众经销商",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293905",
+      "title": "前荣耀CMO郭锐出任智界汽车董事长兼CEO",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293904",
+      "title": "大众在华启动经销商网络战略合作，与众08将入驻一汽-大众“店中",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293903",
+      "title": "福特将推30000美元中型纯电皮卡 挑战特斯拉Model3/Y",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293902",
+      "title": "阿里云发布Qwen3.6-Plus：智能体编程能力大跃升，性价比超K2.5/GLM5",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293900",
+      "title": "火山引擎Seedance2.0公测开启，视频生成技术突破120万亿Token大关",
+      "source": "第一电动",
+      "pushedAt": 1775113642302
     }
   ],
   "lastUpdated": "2026-04-02"
