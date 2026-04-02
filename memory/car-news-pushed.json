@@ -1271,21 +1271,33 @@
     "https://www.d1ev.com/newsflash/293831",
     "https://www.d1ev.com/news/qiye/293829",
     "https://www.d1ev.com/newsflash/293828",
-    "https://www.d1ev.com/newsflash/293839"
+    "https://www.d1ev.com/newsflash/293839",
+    "https://www.d1ev.com/carnews/xinche/293862",
+    "https://www.d1ev.com/carnews/xinche/293858",
+    "https://www.d1ev.com/carnews/xinche/293848",
+    "https://www.d1ev.com/news/shichang/293847",
+    "https://www.d1ev.com/newsflash/293863",
+    "https://www.d1ev.com/newsflash/293859",
+    "https://www.d1ev.com/news/shichang/293856",
+    "https://www.d1ev.com/newsflash/293852",
+    "https://www.d1ev.com/newsflash/293846",
+    "https://www.d1ev.com/newsflash/293864",
+    "https://www.d1ev.com/newsflash/293849",
+    "https://www.d1ev.com/news/shichang/293844",
+    "https://www.d1ev.com/carnews/xinche/293861",
+    "https://www.d1ev.com/carnews/xinche/293860",
+    "https://www.d1ev.com/newsflash/293857",
+    "https://www.d1ev.com/news/shichang/293854",
+    "https://www.d1ev.com/news/qiye/293853",
+    "https://www.d1ev.com/newsflash/293851",
+    "https://www.d1ev.com/newsflash/293850",
+    "https://www.d1ev.com/newsflash/293845",
+    "https://www.d1ev.com/news/shichang/293843",
+    "https://www.d1ev.com/newsflash/293842",
+    "https://www.d1ev.com/newsflash/293841",
+    "https://www.d1ev.com/newsflash/293840"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/292968",
-      "title": "华为小艺Claw智能助手预约开启，199元体验AI新生活",
-      "source": "第一电动",
-      "pushedAt": 1774457853448
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/292969",
-      "title": "“9系”旗舰车型激战高端市场，自主品牌挑战BBA地位",
-      "source": "第一电动",
-      "pushedAt": 1774464585665
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/292996",
       "title": "全新奥迪A6L正式上市 售价32.29-43.59万元",
@@ -5923,6 +5935,150 @@
       "title": "小米SU7智能减震新突破：毫秒级调节，操控舒适双升级",
       "source": "第一电动",
       "pushedAt": 1775062043314
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293862",
+      "title": "零百加速2.9s 玛莎拉蒂MCPURA中国首发亮相",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293858",
+      "title": "福特Expedition 30周年纪念版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293848",
+      "title": "V8邂逅敞篷 法拉利Amalfi Spider新车图解",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293847",
+      "title": "纯电钢炮换新颜，新款Cupra Born新车图解",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293863",
+      "title": "广西柳州钢铁集团携手华为、中国移动发布“玄铁”大模型，钢铁行业数智化转型加速",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293859",
+      "title": "智谱发布GLM-5V-Turbo：AI视觉编程新突破，代码生成进入视觉时代",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293856",
+      "title": "欧洲Robotaxi元年开启 巨头竞逐自动驾驶新战场",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293852",
+      "title": "米其林推两款纯电车专用轮胎，续航提升10%，性能全面优化",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293846",
+      "title": "东风本田迎新掌门！土屋宣明上任，力推电动化转型新征程",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293864",
+      "title": "smart精灵#6EHD全球首秀，北京车展见证豪华电混轿车新纪元",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293849",
+      "title": "现代汽车纽约车展亮剑：Boulder概念车剑指美国皮卡SUV市场",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293844",
+      "title": "中国车企出海加拿大，能否复刻澳洲奇迹？",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293861",
+      "title": "定位硬派越野SUV 现代发布Boulder概念车",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293860",
+      "title": "丰田汉兰达姊妹车 斯巴鲁全新纯电SUV发布",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293857",
+      "title": "特斯拉“王牌厂长”宋钢加盟小米汽车，助力2026年55万辆交付目标",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293854",
+      "title": "长安天枢智能机器人公司成立",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/293853",
+      "title": "起亚狮铂拓界新老款车型对比",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293851",
+      "title": "特斯拉前副总裁宋钢加盟小米汽车，或任厂长搭档季国伟",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293850",
+      "title": "Anthropic误删GitHub仓库8100个，源代码泄露风波再起",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293845",
+      "title": "2026新势力销量榜：零跑首破5万夺冠，小米汽车2.8万紧追其后",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293843",
+      "title": "【盖世快讯】零跑3月交付重回5万关口；法拉第未来2025年净资产转正",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293842",
+      "title": "北京亦庄机器人挑战赛即将开赛，人形、四足机器人同台竞技",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293841",
+      "title": "奥迪SQ9震撼登场：4.0T V8双涡轮，超600马力重塑豪华SUV市场",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293840",
+      "title": "比亚迪云轨17号线巴西圣保罗通车，绿色交通新纪元开启",
+      "source": "第一电动",
+      "pushedAt": 1775094761708
     }
   ],
   "lastUpdated": "2026-04-02"
