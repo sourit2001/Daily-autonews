@@ -1383,105 +1383,23 @@
     "https://www.d1ev.com/news/shichang/293953",
     "https://www.d1ev.com/news/shichang/293952",
     "https://www.d1ev.com/news/shichang/293946",
-    "https://www.d1ev.com/news/shichang/293944"
+    "https://www.d1ev.com/news/shichang/293944",
+    "https://www.d1ev.com/newsflash/293975",
+    "https://www.d1ev.com/newsflash/293972",
+    "https://www.d1ev.com/carnews/xinche/293965",
+    "https://www.d1ev.com/carnews/xinche/293964",
+    "https://www.d1ev.com/newsflash/293977",
+    "https://www.d1ev.com/newsflash/293976",
+    "https://www.d1ev.com/newsflash/293973",
+    "https://www.d1ev.com/newsflash/293970",
+    "https://www.d1ev.com/newsflash/293966",
+    "https://www.d1ev.com/news/shichang/293967",
+    "https://www.d1ev.com/newsflash/293974",
+    "https://www.d1ev.com/newsflash/293971",
+    "https://www.d1ev.com/news/shichang/293968",
+    "https://www.d1ev.com/news/shichang/293963"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/293061",
-      "title": "特斯拉或在准备新车型 马斯克透露比小型货车炫酷的多",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293060",
-      "title": "现代汽车雄心勃勃：中国销量翻倍，北美推36款新车型",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293055",
-      "title": "广汽丰田铂智7携鸿蒙座舱亮相，预售价15.68万起",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293053",
-      "title": "风云T9L开启预售，13.99万起打造15万级智能大五座SUV新时代",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293050",
-      "title": "东风奕派007闪现版3月28日上市，电御紫猎装轿跑来袭",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293064",
-      "title": "22岁辍学生创办KledAI：全球民众卖数据月入数千美元",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293063",
-      "title": "广州2030年AI产业目标：万亿级生态圈，智能终端普及率超90%",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293066",
-      "title": "小马智行联手Uber与Verne，将在克罗地亚推出欧洲首个商业化Robotaxi服务",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293062",
-      "title": "“俄乌战场现美国造人形机器人，未来战争走向机械化？”",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293059",
-      "title": "大众CEO炮轰增程式技术：欧洲无用，成本高昂！",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293057",
-      "title": "“增程混动难达标欧7，欧洲市场或将放弃增程技术”",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293052",
-      "title": "大众乘用车和MG在欧洲市场选择插混路线，放弃增程技术",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293051",
-      "title": "小马智行与Uber、Verne达成战略合作，将在克罗地亚推出欧洲首个商业化Robotaxi服务",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293065",
-      "title": "小马智行发布2025年财报：Robotaxi收入翻番",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293058",
-      "title": "“2999元/月起，芝麻信用800分用户享蔚来乐道汽车订阅服务”",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293054",
-      "title": "芝麻信用800分用户专享：乐道L60、L90汽车订阅服务2999元起",
-      "source": "第一电动",
-      "pushedAt": 1774522157642
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293084",
       "title": "零跑A10上市：激光雷达加持，高阶辅助驾驶，空间设计亮点多",
@@ -6233,6 +6151,90 @@
       "title": "拟投资1亿元，又一项目落地上海嘉定",
       "source": "第一电动",
       "pushedAt": 1775126914933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293975",
+      "title": "广汽埃安N60预售开启，15万内享L4级智驾，续航610km！",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293972",
+      "title": "小米汽车“百色计划”启动，新一代SU7三款车漆亮相",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293965",
+      "title": "新款比亚迪海豹06旅行版上市 售价11.19万起",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/293964",
+      "title": "新款海豹06GT正式上市 售价12.89-16.99万元",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293977",
+      "title": "特斯拉Model 3全球销量破300万，中国充电网络再升级",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293976",
+      "title": "猛士M817电动越野车限时钜惠，最高59999元购车礼遇来袭！",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293973",
+      "title": "阿里巴巴Wan2.7-Image革新AI生图，精准色彩控制引领创作新潮流",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293970",
+      "title": "凯翼拾月Max开启预订，4万级纯电小车续航310km！",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293966",
+      "title": "甲骨文裁员风暴来袭：AI部门成新宠，软件开发部门受冲击",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293967",
+      "title": "风挡变身光影屏！经纬恒润P-HUD喜获国际头部车企平台项目定点！",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293974",
+      "title": "乐道L90激光雷达版即将发布，智能驾驶体验全面升级",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/293971",
+      "title": "比亚迪腾势Z9/Z9GT OTA升级：智能驾驶新突破，车家互联更便捷",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293968",
+      "title": "意优科技机器人关节智造基地落户锡山",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/293963",
+      "title": "曝雷诺董事长将于2027年卸任",
+      "source": "第一电动",
+      "pushedAt": 1775134878097
     }
   ],
   "lastUpdated": "2026-04-02"
