@@ -1411,33 +1411,38 @@
     "https://www.d1ev.com/newsflash/294000",
     "https://www.d1ev.com/newsflash/293999",
     "https://www.d1ev.com/newsflash/293997",
-    "https://www.d1ev.com/newsflash/293998"
+    "https://www.d1ev.com/newsflash/293998",
+    "https://www.d1ev.com/carnews/xinche/294030",
+    "https://www.d1ev.com/carnews/xinche/294029",
+    "https://www.d1ev.com/carnews/xinche/294028",
+    "https://www.d1ev.com/carnews/xinche/294024",
+    "https://www.d1ev.com/carnews/xinche/294022",
+    "https://www.d1ev.com/newsflash/294012",
+    "https://www.d1ev.com/carnews/xinche/294004",
+    "https://www.d1ev.com/newsflash/294031",
+    "https://www.d1ev.com/newsflash/294020",
+    "https://www.d1ev.com/newsflash/294017",
+    "https://www.d1ev.com/newsflash/294014",
+    "https://www.d1ev.com/newsflash/294013",
+    "https://www.d1ev.com/news/shichang/294010",
+    "https://www.d1ev.com/news/shichang/294008",
+    "https://www.d1ev.com/news/shichang/294027",
+    "https://www.d1ev.com/newsflash/294016",
+    "https://www.d1ev.com/newsflash/294015",
+    "https://www.d1ev.com/news/qiye/294026",
+    "https://www.d1ev.com/news/qiye/294025",
+    "https://www.d1ev.com/carnews/xinche/294023",
+    "https://www.d1ev.com/news/qiye/294021",
+    "https://www.d1ev.com/newsflash/294019",
+    "https://www.d1ev.com/newsflash/294018",
+    "https://www.d1ev.com/news/shichang/294011",
+    "https://www.d1ev.com/news/shichang/294009",
+    "https://www.d1ev.com/news/shichang/294007",
+    "https://www.d1ev.com/newsflash/294006",
+    "https://www.d1ev.com/newsflash/294003",
+    "https://www.d1ev.com/newsflash/294002"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293126",
-      "title": "比亚迪宋UltraEV震撼上市！15.19万起，续航高达710km",
-      "source": "第一电动",
-      "pushedAt": 1774551528373
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293125",
-      "title": "大众与小鹏联手打造！与众08预售开启，23.99万起售",
-      "source": "第一电动",
-      "pushedAt": 1774551528373
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293123",
-      "title": "最智能的大众车来了！与众08开启预售，23.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1774551528373
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293124",
-      "title": "3000台启辰VX6成都交付，西南出行市场迎来绿色新动力",
-      "source": "第一电动",
-      "pushedAt": 1774551528373
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/293157",
       "title": "比亚迪宋Ultra EV上市 售价15.19-17.99万",
@@ -6063,6 +6068,180 @@
       "title": "特斯拉2026年Q1全球销量增6.5%，Model Y连续三年全球销冠",
       "source": "第一电动",
       "pushedAt": 1775155816541
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294030",
+      "title": "4月10日亮相 五菱星光L内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294029",
+      "title": "三电机加持 捷豹全新纯电四门GT将于9月首发",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294028",
+      "title": "专属拉花 道奇Durango GT特别版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294024",
+      "title": "租电仅19万起 2026款蔚来ET5/ET5T上市",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294022",
+      "title": "提供多个版本 新款大众开迪官图发布",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294012",
+      "title": "法拉利Luce电动车内饰曝光：乔尼·艾维打造复古现代融合设计",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294004",
+      "title": "与时俱进 2026款日产奇骏新车图解",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294031",
+      "title": "韩国AI芯片FuriosaAI第二代RNGD性能超英伟达 产能将增至2万颗",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294020",
+      "title": "AI冲击就业市场：科技行业裁员潮起，AI投资成裁员新因素",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294017",
+      "title": "微软发力AI新突破：语音转录模型11种语言领先竞品",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294014",
+      "title": "宝马高管团访长城汽车，共探新能源合作新机遇",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294013",
+      "title": "谷歌发布Gemma4大模型，AI推理能力突破新高度！",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294010",
+      "title": "新能源汽车的“后顾之忧”，如何解？",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294008",
+      "title": "大型新能源SUV的“体重博弈”，最轻和最重差了1吨多？",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294027",
+      "title": "伯特利获全球头部车企新定点，系该公司最大规模海外合同",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294016",
+      "title": "优必选全球招募首席科学家，年薪1500万起，人形机器人业务爆发增长",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294015",
+      "title": "美国337调查剑指海信等企业，智能电视行业再起波澜",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294026",
+      "title": "特斯拉一季度产量交付量同比双双增加 但环比有下滑",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294025",
+      "title": "一季度交付量不及预期 特斯拉股价跌逾5%",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294023",
+      "title": "日产下一代GT-R或于2030年前回归",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294021",
+      "title": "雷军造的千匹马力“怪物”！小米YU7 GT纽北近距离实拍流出",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294019",
+      "title": "黑客利用开源事件泄露代码传播Vidar恶意软件，GitHub虚假仓库成新威胁",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294018",
+      "title": "宝马坚持实体按键，法拉利新内饰设计引发触感反馈重视",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294011",
+      "title": "又一家车企，踏上“造人”之路",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294009",
+      "title": "2026年3月国内汽车投诉排行及分析报告",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294007",
+      "title": "质选车：比亚迪海豹07 EV定义全能新标准",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294006",
+      "title": "奔驰EQS大改款：Yoke方向盘+线控转向，800V快充来袭！",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294003",
+      "title": "大众CEO强调：高尔夫GTI和R将继续存在，非SUV不可替代",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294002",
+      "title": "比亚迪闪充站全国扩张：年底将达2万座，5分钟充至70%电量",
+      "source": "第一电动",
+      "pushedAt": 1775181286875
     }
   ],
   "lastUpdated": "2026-04-03"
