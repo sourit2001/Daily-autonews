@@ -1440,189 +1440,21 @@
     "https://www.d1ev.com/news/shichang/294007",
     "https://www.d1ev.com/newsflash/294006",
     "https://www.d1ev.com/newsflash/294003",
-    "https://www.d1ev.com/newsflash/294002"
+    "https://www.d1ev.com/newsflash/294002",
+    "https://www.d1ev.com/news/shichang/294042",
+    "https://www.d1ev.com/news/shichang/294040",
+    "https://www.d1ev.com/news/shichang/294039",
+    "https://www.d1ev.com/newsflash/294035",
+    "https://www.d1ev.com/news/shichang/294034",
+    "https://www.d1ev.com/news/shichang/294033",
+    "https://www.d1ev.com/newsflash/294032",
+    "https://www.d1ev.com/newsflash/294043",
+    "https://www.d1ev.com/news/qiye/294045",
+    "https://www.d1ev.com/news/shichang/294041",
+    "https://www.d1ev.com/carnews/xinche/294038",
+    "https://www.d1ev.com/news/qiye/294036"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293157",
-      "title": "比亚迪宋Ultra EV上市 售价15.19-17.99万",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293155",
-      "title": "2026款路虎揽胜运动上市 售价89.8万元起",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293153",
-      "title": "智己LS8开启预售 预售价27.18万元起",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293146",
-      "title": "奔驰入门级“小G”实车曝光：方盒子造型",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293134",
-      "title": "序列开篇之作 上汽大众ID.ERA 9X新车图解",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293128",
-      "title": "有望配备四电机系统 宝马iM3谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293127",
-      "title": "或2028年发布 AMG纯电E级轿车谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293141",
-      "title": "3月LAB续航榜：油价涨上天，纯电车的好日子真来了？",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293140",
-      "title": "中创新航打造 最大放电功率25C！小鹏飞行汽车电池量产下线",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293136",
-      "title": "韩国研究团队开发原子无序策略 以延长高容量电池使用寿命",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293135",
-      "title": "GRAS推出头部和躯干仿真器45BD AutoKEMAR 专为汽车座舱声学测试而设计",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293130",
-      "title": "新能源车充电涨价真相：电价波动非因用油发电",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293129",
-      "title": "谷歌GeminiAI新增“记忆导入”功能，一键迁移其他AI助手数据",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293156",
-      "title": "特斯拉Model Y长轴版现身得州工厂",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293154",
-      "title": "特斯拉Model3标准版暂不入华，上海工厂专注现有车型生产",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293152",
-      "title": "巴斯夫在华全新一体化基地全面投产",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293151",
-      "title": "宝马新世代Alpina首批车型5月15日首秀",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293150",
-      "title": "潍柴动力2025年营收突破2300亿元",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293149",
-      "title": "暗战与破局，中国汽车远征非洲新大陆",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293148",
-      "title": "博泰车联股份回购授权获股东会通过",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293147",
-      "title": "美团2025年巨亏234亿，外卖激战致核心业务亏损",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293145",
-      "title": "小鹏汽车发布拉美三年战略，携G6、G9正式进军墨西哥市场",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293144",
-      "title": "珩创纳米13万吨磷酸锰铁锂项目一期在银川开工",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293143",
-      "title": "苹果豪掷百万奖金留人才，防Meta等巨头挖角工程师",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293142",
-      "title": "沙迦大学开发新型机器学习模型 可在上路前标记高风险驾驶员",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293139",
-      "title": "丰田、日产接连宣布减产，日本车的命脉在伊朗？",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293137",
-      "title": "田纳西大学开发解决方案 提高嵌段共聚物的离子电导率",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293133",
-      "title": "【盖世快讯】一汽红旗联手阿里云；岚图CEO卢放谈视觉和激光雷达之争",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293132",
-      "title": "奥托立夫与楚能汽车达成战略合作",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293131",
-      "title": "小鹏第二代VLA首次外供 大众安徽与众08开售：23.99万起",
-      "source": "第一电动",
-      "pushedAt": 1774576552716
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293172",
       "title": "比亚迪海豹06GT/DM-i旅行版4月2日上市，搭载第二代刀片电池及闪充技术",
@@ -6242,6 +6074,78 @@
       "title": "比亚迪闪充站全国扩张：年底将达2万座，5分钟充至70%电量",
       "source": "第一电动",
       "pushedAt": 1775181286875
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294042",
+      "title": "富采光电推出像素化车用光源平台Touch Taiwan",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294040",
+      "title": "印度3月电动车销量创纪录",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294039",
+      "title": "2026年Q1美国新电动车销量同比下滑28%",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294035",
+      "title": "广汽本田P7升级：AI大模型、声音复刻功能来袭，19.99万起售",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294034",
+      "title": "孚能科技斩获西欧客车企业新一代高端电动巴士电池包项目",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294033",
+      "title": "新型电解液能确保电池在极寒条件下高效运行",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294032",
+      "title": "宁德时代携手申通快递，共推绿色物流与电动化发展",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294043",
+      "title": "福特GTMkIV刷新纽北纪录，成最快美国纯燃油车！",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294045",
+      "title": "走进江汽 | 以技术交流为桥，共探低功耗电气新路径",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294041",
+      "title": "eSOL推出用于人机界面和高级驾驶辅助系统的实时3D引擎",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294038",
+      "title": "千匹马力 小米YU7 GT纽北近距离实拍图",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294036",
+      "title": "广汽集团向控股股东转让锂矿股权 回笼资金19.2亿元",
+      "source": "第一电动",
+      "pushedAt": 1775190464196
     }
   ],
   "lastUpdated": "2026-04-03"
