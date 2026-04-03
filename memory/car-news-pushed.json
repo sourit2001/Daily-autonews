@@ -1485,105 +1485,10 @@
     "https://www.d1ev.com/news/shichang/294075",
     "https://www.d1ev.com/news/shichang/294079",
     "https://www.d1ev.com/news/qiye/294073",
-    "https://www.d1ev.com/news/qiye/294072"
+    "https://www.d1ev.com/news/qiye/294072",
+    "https://www.d1ev.com/news/qiye/294083"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293234",
-      "title": "奔驰AMG版GLCEQ纯电SUV曝光：900马力，3秒破百，10月巴黎车展亮相",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293228",
-      "title": "金标大众旗舰纯电SUV“与众08”开启预售，预售价23.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293224",
-      "title": "特斯拉新车型曝光：Cybertruck风格三排座SUV或将登场",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293239",
-      "title": "AI写作渗透新闻界？《纽约时报》专栏被疑AI代笔",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293236",
-      "title": "小鹏汽车升级为“小鹏集团”，官方称开启物理AI全球新征途",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293230",
-      "title": "小米MiMo负责人盛赞OpenClaw：开源革命引领AI框架新高度",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293229",
-      "title": "Meta转型AI公司：65%工程师将用AI写代码",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293227",
-      "title": "特斯拉盯上韩国芯片人才 提供高额薪水和多种福利",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293225",
-      "title": "智元机器人第1万台人形机器人A3量产下线，全球市场份额领先",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293241",
-      "title": "特斯拉一季度交付量仅增8%，市场预期保守增长",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293240",
-      "title": "小鹏汽车更名",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293238",
-      "title": "小马智行Robotaxi业务爆发：2025年四季度收入同比增159.5%",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293233",
-      "title": "小鹏汽车中文名变更为“小鹏集团”",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293232",
-      "title": "又一造车新势力爆雷！员工发布联名维权信：工资被长期拖欠",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293231",
-      "title": "阿里云桌面Agent应用QoderWork打通钉钉、微信和飞书",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293226",
-      "title": "蔚来萤火虫换电站5月全国首推，持续升级不止步",
-      "source": "第一电动",
-      "pushedAt": 1774608221180
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293256",
       "title": "6.58万起！零跑A10携激光雷达领航辅助驾驶上市",
@@ -6011,6 +5916,12 @@
       "title": "小米车主网暴专项援助首胜！侵权人赔偿3000元并致歉",
       "source": "第一电动",
       "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294083",
+      "title": "上市当年就夺得大型纯电SUV销冠！乐道L90第5万台交付达成",
+      "source": "第一电动",
+      "pushedAt": 1775220739174
     }
   ],
   "lastUpdated": "2026-04-03"
