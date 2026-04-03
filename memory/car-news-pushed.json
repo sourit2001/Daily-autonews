@@ -1476,7 +1476,16 @@
     "https://www.d1ev.com/news/shichang/294069",
     "https://www.d1ev.com/news/qiye/294068",
     "https://www.d1ev.com/news/qiye/294066",
-    "https://www.d1ev.com/news/qiye/294064"
+    "https://www.d1ev.com/news/qiye/294064",
+    "https://www.d1ev.com/newsflash/294082",
+    "https://www.d1ev.com/newsflash/294081",
+    "https://www.d1ev.com/news/qiye/294074",
+    "https://www.d1ev.com/newsflash/294080",
+    "https://www.d1ev.com/news/shichang/294078",
+    "https://www.d1ev.com/news/shichang/294075",
+    "https://www.d1ev.com/news/shichang/294079",
+    "https://www.d1ev.com/news/qiye/294073",
+    "https://www.d1ev.com/news/qiye/294072"
   ],
   "newsHistory": [
     {
@@ -5948,6 +5957,60 @@
       "title": "11.99万，燃油车的高阶辅助驾驶终于不缺席了",
       "source": "第一电动",
       "pushedAt": 1775205945550
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294082",
+      "title": "2026款东风风神L7EV上市：续航530km+3C快充，12.99万起售！",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294081",
+      "title": "吉利银河M7即将预售，中级电混SUV续航超1700km！",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294074",
+      "title": "第四代博越L小蓝灯版正式上市 11.99万元开启燃油SUV\"油电同智\"新",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294080",
+      "title": "蔚来法务部严打AI造谣案，多平台造谣者被判赔偿道歉",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294078",
+      "title": "2026年1-2月，中国乘用车出口到哪了：俄罗斯领跑整体出口，巴西登顶新能源榜丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294075",
+      "title": "2026年1-2月比亚迪乘用车出口TOP10国家：巴西5.2万辆领跑，中东三国跻身前十丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294079",
+      "title": "破局激光雷达内卷，图达通有了“新解法”",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294073",
+      "title": "蔚来：犯罪嫌疑人拿4000余账号抹黑蔚来 已被抓",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294072",
+      "title": "小米车主网暴专项援助首胜！侵权人赔偿3000元并致歉",
+      "source": "第一电动",
+      "pushedAt": 1775212721743
     }
   ],
   "lastUpdated": "2026-04-03"
