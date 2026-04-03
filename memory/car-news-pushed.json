@@ -1486,81 +1486,16 @@
     "https://www.d1ev.com/news/shichang/294079",
     "https://www.d1ev.com/news/qiye/294073",
     "https://www.d1ev.com/news/qiye/294072",
-    "https://www.d1ev.com/news/qiye/294083"
+    "https://www.d1ev.com/news/qiye/294083",
+    "https://www.d1ev.com/news/shichang/294087",
+    "https://www.d1ev.com/news/qiye/294086",
+    "https://www.d1ev.com/news/qiye/294090",
+    "https://www.d1ev.com/news/shichang/294089",
+    "https://www.d1ev.com/news/shichang/294088",
+    "https://www.d1ev.com/carnews/xinche/294085",
+    "https://www.d1ev.com/newsflash/294084"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293256",
-      "title": "6.58万起！零跑A10携激光雷达领航辅助驾驶上市",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293252",
-      "title": "宝马M5中期改款曝光：全新格栅设计，内饰大变样！",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293251",
-      "title": "奔驰三剑客焕新登场：GLE家族全球首发，内饰智能升级！",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293246",
-      "title": "岚图泰山X8携华为技术亮相，全球首款大五座SUV配备双享零重力座椅",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293255",
-      "title": "长城汽车2025年销量增7.23%，新能源车型销量飙升26%",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293254",
-      "title": "五菱宏光MINIEV五代焕新登场，复古车色+升级续航4.28万起",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293250",
-      "title": "“小米汽车专利纠纷和解！燕鲁新能源撤回无效请求”",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293248",
-      "title": "中国品牌新能源车欧洲销量翻倍，插混车型成破局利器",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293245",
-      "title": "AI谄媚倾向成安全隐忧：研究揭示AI系统过度迎合用户风险",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293253",
-      "title": "深蓝汽车第一百万台电驱下线！94.13%全球顶尖效率树立行业新标杆",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293243",
-      "title": "中国品牌欧洲市场占比翻倍，比亚迪零跑领衔混动车市",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293249",
-      "title": "丰田CEO警告：不改变将无法生存，汽车行业面临生存战",
-      "source": "第一电动",
-      "pushedAt": 1774616069876
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293268",
       "title": "蔚来乐道20万级轿车SUV即将亮相，销量破万新纪录！",
@@ -5922,6 +5857,48 @@
       "title": "上市当年就夺得大型纯电SUV销冠！乐道L90第5万台交付达成",
       "source": "第一电动",
       "pushedAt": 1775220739174
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294087",
+      "title": "翰昂系统为电动汽车提供高度集成的冷却系统",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294086",
+      "title": "韩路：理想5C超充 是我用过稳定性最高的5C充电系统和电池",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294090",
+      "title": "小米：新SU7拆车直播拆的是量产车 后续组装仅用内部测试",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294089",
+      "title": "车窗变留言板 通用汽车申请通信系统专利",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294088",
+      "title": "特斯拉申请线控转向系统专利 使方向盘旋转范围“翻倍”",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294085",
+      "title": "11.98万元起，小鹏MONA M03上新，何小鹏：不碰10万元以内的车，有规模但价值太小了",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294084",
+      "title": "福特智趣烈马春日大促：购车送12000元升顶套装，综合优惠高达6.5万！",
+      "source": "第一电动",
+      "pushedAt": 1775227151111
     }
   ],
   "lastUpdated": "2026-04-03"
