@@ -1500,7 +1500,9 @@
     "https://www.d1ev.com/carnews/xinche/294092",
     "https://www.d1ev.com/carnews/xinche/294097",
     "https://www.d1ev.com/carnews/xinche/294094",
-    "https://www.d1ev.com/carnews/xinche/294093"
+    "https://www.d1ev.com/carnews/xinche/294093",
+    "https://www.d1ev.com/newsflash/294100",
+    "https://www.d1ev.com/news/qiye/294101"
   ],
   "newsHistory": [
     {
@@ -5834,6 +5836,18 @@
       "title": "比亚迪宋PLUS退市依旧热销 3月销量2.5万台",
       "source": "第一电动",
       "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294100",
+      "title": "比亚迪宋UltraEV首周订单破3.7万，续航710km新标杆",
+      "source": "第一电动",
+      "pushedAt": 1775275948326
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294101",
+      "title": "特斯拉一季度库存超过5万辆 与Model 3和Model Y有关",
+      "source": "第一电动",
+      "pushedAt": 1775275948326
     }
   ],
   "lastUpdated": "2026-04-04"
