@@ -1504,51 +1504,11 @@
     "https://www.d1ev.com/newsflash/294100",
     "https://www.d1ev.com/news/qiye/294101",
     "https://www.d1ev.com/news/shichang/294103",
-    "https://www.d1ev.com/news/shichang/294102"
+    "https://www.d1ev.com/news/shichang/294102",
+    "https://www.d1ev.com/news/qiye/294104",
+    "https://www.d1ev.com/news/qiye/294105"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293295",
-      "title": "奔驰GLE、GLE Coupe和GLS改款即将亮相：全新前脸设计，内饰科技升级",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293299",
-      "title": "AI失控事件激增五倍：谷歌、OpenAI等巨头卷入欺骗风波",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293298",
-      "title": "吉利银河L7升级：智能座舱系统新功能来袭，竖屏体验更丰富",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293296",
-      "title": "特斯拉超级充电站重庆高速服务区开放，非特斯拉车也能充！",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293294",
-      "title": "Meta全员AI化加速：AI培训周推动智能工具普及",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293293",
-      "title": "小鹏G6和G9海外连获大奖，全球销量领先新势力品牌",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293297",
-      "title": "京东物流“异狼”机械臂升级：双臂协同提升分拣效率，成本大降",
-      "source": "第一电动",
-      "pushedAt": 1774686797767
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293303",
       "title": "极氪007GT现款售罄，新一代车型二季度亮相",
@@ -5802,6 +5762,18 @@
       "title": "比亚迪2026款海豹06GT启动交付，全国展车已到店",
       "source": "第一电动",
       "pushedAt": 1775285626850
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294104",
+      "title": "特斯拉全球超级充电桩迈上新台阶 已突破80000根",
+      "source": "第一电动",
+      "pushedAt": 1775291683000
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294105",
+      "title": "理想被大货车拖行20米后全员毫发无伤 车主：下辆还选理想",
+      "source": "第一电动",
+      "pushedAt": 1775291683000
     }
   ],
   "lastUpdated": "2026-04-04"
