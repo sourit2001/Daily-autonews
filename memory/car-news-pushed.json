@@ -1506,7 +1506,8 @@
     "https://www.d1ev.com/news/shichang/294103",
     "https://www.d1ev.com/news/shichang/294102",
     "https://www.d1ev.com/news/qiye/294104",
-    "https://www.d1ev.com/news/qiye/294105"
+    "https://www.d1ev.com/news/qiye/294105",
+    "https://www.d1ev.com/newsflash/294106"
   ],
   "newsHistory": [
     {
@@ -5774,6 +5775,12 @@
       "title": "理想被大货车拖行20米后全员毫发无伤 车主：下辆还选理想",
       "source": "第一电动",
       "pushedAt": 1775291683000
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294106",
+      "title": "问界M6预售24小时订单破6万，增程纯电双版本来袭！",
+      "source": "第一电动",
+      "pushedAt": 1775298428882
     }
   ],
   "lastUpdated": "2026-04-04"
