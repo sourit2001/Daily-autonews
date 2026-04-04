@@ -1502,69 +1502,11 @@
     "https://www.d1ev.com/carnews/xinche/294094",
     "https://www.d1ev.com/carnews/xinche/294093",
     "https://www.d1ev.com/newsflash/294100",
-    "https://www.d1ev.com/news/qiye/294101"
+    "https://www.d1ev.com/news/qiye/294101",
+    "https://www.d1ev.com/news/shichang/294103",
+    "https://www.d1ev.com/news/shichang/294102"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/293286",
-      "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
-      "source": "第一电动",
-      "pushedAt": 1774671323128
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293285",
-      "title": "特斯拉Model S里程破270万公里，电动车耐用性惊人",
-      "source": "第一电动",
-      "pushedAt": 1774671323128
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293283",
-      "title": "Meta新AI模型TRIBEv2：无需测量，精准预测大脑反应",
-      "source": "第一电动",
-      "pushedAt": 1774671323128
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293282",
-      "title": "AI音乐革命！Suno v5.5大模型让音乐更懂你",
-      "source": "第一电动",
-      "pushedAt": 1774671323128
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293284",
-      "title": "小米SU7Ultra新升级：暮光玫瑰漆+碳纤维尾翼，性能与颜值双提升！",
-      "source": "第一电动",
-      "pushedAt": 1774671323128
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293292",
-      "title": "东风日产NX8增程SUV来袭：20万级智慧舒享，2026年4月上市！",
-      "source": "第一电动",
-      "pushedAt": 1774680762694
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293291",
-      "title": "广汽丰田铂智7纯电轿车明日上市，华为电驱+鸿蒙座舱+小米生态，20万内空悬新选择",
-      "source": "第一电动",
-      "pushedAt": 1774680762694
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293289",
-      "title": "岚图泰山X8：全球首款双光路激光雷达SUV，2026年上市",
-      "source": "第一电动",
-      "pushedAt": 1774680762694
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293288",
-      "title": "奇瑞QQ3新车型3月30日上市，预售价6.89万起，订单破3.5万",
-      "source": "第一电动",
-      "pushedAt": 1774680762694
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293287",
-      "title": "小米SU7Ultra新色开售！2025年财报亮眼，汽车业务首超千亿",
-      "source": "第一电动",
-      "pushedAt": 1774680762694
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293295",
       "title": "奔驰GLE、GLE Coupe和GLS改款即将亮相：全新前脸设计，内饰科技升级",
@@ -5848,6 +5790,18 @@
       "title": "特斯拉一季度库存超过5万辆 与Model 3和Model Y有关",
       "source": "第一电动",
       "pushedAt": 1775275948326
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294103",
+      "title": "比亚迪2026款海豹06GT上市即交付",
+      "source": "第一电动",
+      "pushedAt": 1775285626850
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294102",
+      "title": "比亚迪2026款海豹06GT启动交付，全国展车已到店",
+      "source": "第一电动",
+      "pushedAt": 1775285626850
     }
   ],
   "lastUpdated": "2026-04-04"
