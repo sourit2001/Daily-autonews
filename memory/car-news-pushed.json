@@ -1493,123 +1493,16 @@
     "https://www.d1ev.com/news/shichang/294089",
     "https://www.d1ev.com/news/shichang/294088",
     "https://www.d1ev.com/carnews/xinche/294085",
-    "https://www.d1ev.com/newsflash/294084"
+    "https://www.d1ev.com/newsflash/294084",
+    "https://www.d1ev.com/carnews/xinche/294098",
+    "https://www.d1ev.com/carnews/xinche/294096",
+    "https://www.d1ev.com/carnews/xinche/294095",
+    "https://www.d1ev.com/carnews/xinche/294092",
+    "https://www.d1ev.com/carnews/xinche/294097",
+    "https://www.d1ev.com/carnews/xinche/294094",
+    "https://www.d1ev.com/carnews/xinche/294093"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293268",
-      "title": "蔚来乐道20万级轿车SUV即将亮相，销量破万新纪录！",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293263",
-      "title": "置换补贴4.28万起 五菱第五代宏光MINIEV上市",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293267",
-      "title": "五菱宏光MINIEV升级归来！4.28万起售，续航达301km，微型电动车新标杆。",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293266",
-      "title": "摩尔线程AI芯片突破：1TTokens训练验证成功，性能超越行业标杆！",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293261",
-      "title": "国产AI骨科手术机器人ROPA6获注册证，开启全场景平台化新时代",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293260",
-      "title": "比亚迪2025年营收破8000亿，新能源车销量460万创纪录",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293258",
-      "title": "山东燕鲁新能源撤回小米专利无效请求，双方将携手合作",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293265",
-      "title": "智谱发布GLM-5.1模型，CodingPlan用户全面升级体验！",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293264",
-      "title": "长安汽车巴西工厂投产，首辆本土UNI-T下线",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293262",
-      "title": "营收首破8000亿元创史上新高！比亚迪2025年净赚326.2亿元",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293259",
-      "title": "长安以本地化，攻入巴西",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293257",
-      "title": "深蓝电驱突破百万大关，新一代超集电驱94%效率革新登场",
-      "source": "第一电动",
-      "pushedAt": 1774622736214
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293274",
-      "title": "保时捷卡宴新世代：燃油混动并存，2028年亮相！",
-      "source": "第一电动",
-      "pushedAt": 1774630044123
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293276",
-      "title": "特斯拉Model3标准版国内上市传闻被官方否认",
-      "source": "第一电动",
-      "pushedAt": 1774643534536
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293280",
-      "title": "新一代五菱宏光MINIEV上市：4.48万起",
-      "source": "第一电动",
-      "pushedAt": 1774662307122
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293278",
-      "title": "微型代步车之王焕新！新一代五菱宏光MINIEV上市：4.48万起",
-      "source": "第一电动",
-      "pushedAt": 1774662307122
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293277",
-      "title": "小米SU7Ultra新色暮光玫瑰亮相，碳纤维尾翼增续航",
-      "source": "第一电动",
-      "pushedAt": 1774662307122
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293281",
-      "title": "AI新巨头Anthropic泄露最强模型ClaudeMythos，网络安全股暴跌",
-      "source": "第一电动",
-      "pushedAt": 1774662307122
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293279",
-      "title": "AI聊天机器人被曝收集敏感数据，70%应用获取用户位置信息",
-      "source": "第一电动",
-      "pushedAt": 1774662307122
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/293286",
       "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -5899,7 +5792,49 @@
       "title": "福特智趣烈马春日大促：购车送12000元升顶套装，综合优惠高达6.5万！",
       "source": "第一电动",
       "pushedAt": 1775227151111
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294098",
+      "title": "极氪001五周年纪念版更多信息曝光",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294096",
+      "title": "埃安N60将于4月16日开启预售 标配高阶智驾",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294095",
+      "title": "刘翔为品牌代言人 智己LS8定档4月16日上市",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294092",
+      "title": "移动贵宾厅 奔驰VLE新车图解",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294097",
+      "title": "吉利第五代帝豪6.59万元起 还可享万元补贴",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294094",
+      "title": "大型SUV销冠 乐道L90第5万台交付里程碑达成",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294093",
+      "title": "比亚迪宋PLUS退市依旧热销 3月销量2.5万台",
+      "source": "第一电动",
+      "pushedAt": 1775267155904
     }
   ],
-  "lastUpdated": "2026-04-03"
+  "lastUpdated": "2026-04-04"
 }
