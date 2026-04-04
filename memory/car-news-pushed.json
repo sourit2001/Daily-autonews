@@ -1507,87 +1507,19 @@
     "https://www.d1ev.com/news/shichang/294102",
     "https://www.d1ev.com/news/qiye/294104",
     "https://www.d1ev.com/news/qiye/294105",
-    "https://www.d1ev.com/newsflash/294106"
+    "https://www.d1ev.com/newsflash/294106",
+    "https://www.d1ev.com/newsflash/294119",
+    "https://www.d1ev.com/newsflash/294116",
+    "https://www.d1ev.com/newsflash/294122",
+    "https://www.d1ev.com/newsflash/294121",
+    "https://www.d1ev.com/newsflash/294118",
+    "https://www.d1ev.com/newsflash/294115",
+    "https://www.d1ev.com/newsflash/294114",
+    "https://www.d1ev.com/newsflash/294120",
+    "https://www.d1ev.com/newsflash/294117",
+    "https://www.d1ev.com/newsflash/294113"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293303",
-      "title": "极氪007GT现款售罄，新一代车型二季度亮相",
-      "source": "第一电动",
-      "pushedAt": 1774693649069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293302",
-      "title": "“东风奕派007闪现版上市，14.49万起售，限时优惠+多重补贴”",
-      "source": "第一电动",
-      "pushedAt": 1774693649069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293301",
-      "title": "东风纳米01Cross开启预售：无框车门+高通8155芯片，Q2上市",
-      "source": "第一电动",
-      "pushedAt": 1774693649069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293300",
-      "title": "比亚迪腾势D9内饰曝光，三排布局+双续航突破400km/800km",
-      "source": "第一电动",
-      "pushedAt": 1774693649069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293304",
-      "title": "特斯拉重庆高速服务区55座超充站启用，15分钟续航250公里",
-      "source": "第一电动",
-      "pushedAt": 1774693649069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293305",
-      "title": "200人抗议AI发展：要求暂停研发，防止人类灭绝风险",
-      "source": "第一电动",
-      "pushedAt": 1774701712915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293308",
-      "title": "五菱缤果Pro全球首秀：复古美学与摩登色彩的碰撞",
-      "source": "第一电动",
-      "pushedAt": 1774701712915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293311",
-      "title": "柯尼赛格Gemera超级跑车量产在即，2300马力四座猛兽即将交付",
-      "source": "第一电动",
-      "pushedAt": 1774701712915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293310",
-      "title": "全国最大人形机器人训练基地升级扩容，石景山具身智能实训场三期揭牌",
-      "source": "第一电动",
-      "pushedAt": 1774701712915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293309",
-      "title": "亿纬锂能2025年业绩亮眼：营收增26% 四季度盈利大增近50%",
-      "source": "第一电动",
-      "pushedAt": 1774701712915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293306",
-      "title": "韦德布什分析师大胆预测：特斯拉和SpaceX或2027年合并",
-      "source": "第一电动",
-      "pushedAt": 1774701712915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293312",
-      "title": "江淮瑞风RF8悦享系列MPV焕新上市，19.99万起售，综合续航1150km！",
-      "source": "第一电动",
-      "pushedAt": 1774708050274
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293313",
-      "title": "雪佛兰科尔维特GrandSport混动版归来，6.7L V8引擎535马力震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1774708050274
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293323",
       "title": "小米SU7首周交付四五千辆，雷军承诺的交付速度兑现！",
@@ -5781,7 +5713,67 @@
       "title": "问界M6预售24小时订单破6万，增程纯电双版本来袭！",
       "source": "第一电动",
       "pushedAt": 1775298428882
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294119",
+      "title": "小鹏MONA 2026款上市：11.98万起，智能驾驶全覆盖，续航640公里",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294116",
+      "title": "奥迪A6Le-tron预售开启：华为智驾加持，31.3万起售",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294122",
+      "title": "4亿美元收购AI生物技术公司，Anthropic加速新药研发进程",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294121",
+      "title": "千问AI眼镜携手蚂蚁GPASS，语音解锁骑行停车新体验",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294118",
+      "title": "茅盾文学奖得主刘亮程怒斥AI仿写侵权：文学创作岂容机器篡改！",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294115",
+      "title": "小鹏集团转型科技公司，何小鹏预言未来10年新能源智能变革",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294114",
+      "title": "工信部联手供销社，电动自行车锂电池回收体系升级！",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294120",
+      "title": "奥迪E5 Sportback全景驾驶升级，智能辅助功能大爆发",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294117",
+      "title": "华为汽车业务2025年营收激增72.1%，智能汽车解决方案成增长引擎",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294113",
+      "title": "深圳夜间路权开放！京东无人车跨区配送迈入新阶段",
+      "source": "第一电动",
+      "pushedAt": 1775320163997
     }
   ],
-  "lastUpdated": "2026-04-04"
+  "lastUpdated": "2026-04-05"
 }
