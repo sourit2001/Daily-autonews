@@ -1522,63 +1522,11 @@
     "https://www.d1ev.com/news/qiye/294123",
     "https://www.d1ev.com/carnews/xinche/294125",
     "https://www.d1ev.com/carnews/xinche/294124",
-    "https://www.d1ev.com/news/qiye/294127"
+    "https://www.d1ev.com/news/qiye/294127",
+    "https://www.d1ev.com/newsflash/294129",
+    "https://www.d1ev.com/newsflash/294128"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293347",
-      "title": "广汽丰田铂智7纯电轿车上市：鸿蒙座舱+激光雷达，续航700km起售14.78万",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293345",
-      "title": "宇树科技具身智能体验馆亚洲首店5月亮相上海，机器人新品H2同步发布",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293344",
-      "title": "华为技术加持！广汽丰田铂智7智能电驱新车上市",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293343",
-      "title": "广汽丰田铂智7预售破万！15.68万起，鸿蒙座舱+Momenta智驾+小米生态",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293341",
-      "title": "华为联手广汽打造启境GT7，普罗旺斯紫车身6月亮相",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293339",
-      "title": "别克GL8陆尚舒适DG版上市，22.99万起售，142km纯电续航！",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293346",
-      "title": "“新能源车主注意：电价上涨真相揭秘，充电成本或因时段大不同”",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293338",
-      "title": "AI取代人类翻译员？Warhorse Studios员工突遭解雇",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293342",
-      "title": "小米YU7辅助驾驶救命！高速紧急避让事故车惊险一幕",
-      "source": "第一电动",
-      "pushedAt": 1774773323172
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/293355",
       "title": "广汽丰田铂智7上市 售价16.98-22.98万元",
@@ -5700,6 +5648,18 @@
       "title": "特斯拉严打“FSD越狱”：用户将承担事故全责并失去保修",
       "source": "第一电动",
       "pushedAt": 1775372338177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294129",
+      "title": "小鹏X9香港上市799900港元起，续航750km+5C超充AI电池",
+      "source": "第一电动",
+      "pushedAt": 1775378247148
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294128",
+      "title": "小米SU7Max版电池挑战成功：高温针刺不起火不爆炸！",
+      "source": "第一电动",
+      "pushedAt": 1775378247148
     }
   ],
   "lastUpdated": "2026-04-05"
