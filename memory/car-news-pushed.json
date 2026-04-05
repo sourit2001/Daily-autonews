@@ -1521,93 +1521,10 @@
     "https://www.d1ev.com/news/qiye/294126",
     "https://www.d1ev.com/news/qiye/294123",
     "https://www.d1ev.com/carnews/xinche/294125",
-    "https://www.d1ev.com/carnews/xinche/294124"
+    "https://www.d1ev.com/carnews/xinche/294124",
+    "https://www.d1ev.com/news/qiye/294127"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293329",
-      "title": "长城坦克700开启预售，敦煌青配色+麒麟元素，185kW动力来袭",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293324",
-      "title": "英国布里斯托尔路灯充电桩费用高昂 民众质疑换电车划算吗？",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293330",
-      "title": "雷军微博互动引发奥迪车主换购小米SU7，网友点赞诚信兑现",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293328",
-      "title": "理想L9铝合金部件揭秘：减重才是硬道理，安全非铝量决定！",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293327",
-      "title": "“以租代购”购车遭意外：晁女士出险被索2600元折旧费",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293326",
-      "title": "蔚来首进拉美！哥斯达黎加三品牌门店盛大开业",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293325",
-      "title": "99元下订享多重好礼 纳米01Cross开启预订",
-      "source": "第一电动",
-      "pushedAt": 1774758900255
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293336",
-      "title": "别克GL8PHEV新车型上市，22.99万起售，纯电续航142公里！",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293333",
-      "title": "第二代腾势D9预售开启，纯电续航800公里，5分钟闪充70%电量！",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293332",
-      "title": "第二代腾势D9预售开启，38.98万起，搭载刀片电池及闪充技术",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293331",
-      "title": "比亚迪腾势D9MPV预售开启，38.98万起售，混动纯电同价！",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293337",
-      "title": "25岁天才少女洪乐潼创立AI独角兽Axiom，估值16亿美元",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293334",
-      "title": "特斯拉FSD升级：AI预判行人意图，自动驾驶迈入新阶段",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293335",
-      "title": "享界S9麋鹿测试遭恶意抹黑，官方维权行动启动！",
-      "source": "第一电动",
-      "pushedAt": 1774767459462
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293347",
       "title": "广汽丰田铂智7纯电轿车上市：鸿蒙座舱+激光雷达，续航700km起售14.78万",
@@ -5777,6 +5694,12 @@
       "title": "比亚迪宋Ultra EV累计订单37216台",
       "source": "第一电动",
       "pushedAt": 1775354246907
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294127",
+      "title": "特斯拉严打“FSD越狱”：用户将承担事故全责并失去保修",
+      "source": "第一电动",
+      "pushedAt": 1775372338177
     }
   ],
   "lastUpdated": "2026-04-05"
