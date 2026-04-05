@@ -1517,33 +1517,13 @@
     "https://www.d1ev.com/newsflash/294114",
     "https://www.d1ev.com/newsflash/294120",
     "https://www.d1ev.com/newsflash/294117",
-    "https://www.d1ev.com/newsflash/294113"
+    "https://www.d1ev.com/newsflash/294113",
+    "https://www.d1ev.com/news/qiye/294126",
+    "https://www.d1ev.com/news/qiye/294123",
+    "https://www.d1ev.com/carnews/xinche/294125",
+    "https://www.d1ev.com/carnews/xinche/294124"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293323",
-      "title": "小米SU7首周交付四五千辆，雷军承诺的交付速度兑现！",
-      "source": "第一电动",
-      "pushedAt": 1774749352643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293322",
-      "title": "小米SU7首周交付四五千辆，1.6万辆备产目标能否达成？",
-      "source": "第一电动",
-      "pushedAt": 1774749352643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293321",
-      "title": "中美共识引领2026科技革命加速爆发",
-      "source": "第一电动",
-      "pushedAt": 1774749352643
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293320",
-      "title": "盖世周报 | 敏实集团2025年净利增长16%；安波福新项目落户嘉兴",
-      "source": "第一电动",
-      "pushedAt": 1774749352643
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293329",
       "title": "长城坦克700开启预售，敦煌青配色+麒麟元素，185kW动力来袭",
@@ -5773,6 +5753,30 @@
       "title": "深圳夜间路权开放！京东无人车跨区配送迈入新阶段",
       "source": "第一电动",
       "pushedAt": 1775320163997
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294126",
+      "title": "华为智驾+匈牙利电机 奥迪A6L纯电版将上市：预售31.3万起",
+      "source": "第一电动",
+      "pushedAt": 1775354246907
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294123",
+      "title": "盖世周报 | 曝奇瑞计划启用南非工厂；保隆科技泰国园区投产",
+      "source": "第一电动",
+      "pushedAt": 1775354246907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294125",
+      "title": "11.99万 燃油车高阶辅助驾驶终于不缺席了",
+      "source": "第一电动",
+      "pushedAt": 1775354246907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294124",
+      "title": "比亚迪宋Ultra EV累计订单37216台",
+      "source": "第一电动",
+      "pushedAt": 1775354246907
     }
   ],
   "lastUpdated": "2026-04-05"
