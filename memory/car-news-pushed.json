@@ -1527,45 +1527,12 @@
     "https://www.d1ev.com/newsflash/294128",
     "https://www.d1ev.com/newsflash/294131",
     "https://www.d1ev.com/news/shichang/294130",
-    "https://www.d1ev.com/news/shichang/294132"
+    "https://www.d1ev.com/news/shichang/294132",
+    "https://www.d1ev.com/newsflash/294135",
+    "https://www.d1ev.com/newsflash/294134",
+    "https://www.d1ev.com/newsflash/294133"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293365",
-      "title": "江铃大道皮卡震撼上市！2.5T动力+智能座舱，11.28万起售",
-      "source": "第一电动",
-      "pushedAt": 1774788148710
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293361",
-      "title": "鸿蒙智行尚界Z7/Z7T内饰曝光：健康座舱2.0+零重力座椅，预售22.98万起",
-      "source": "第一电动",
-      "pushedAt": 1774788148710
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293360",
-      "title": "莲花ForMe超混SUV震撼上市，50.8万起，3.3秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1774788148710
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293359",
-      "title": "华为加持！启境GT7智能猎装车6月上市，7月交付",
-      "source": "第一电动",
-      "pushedAt": 1774788148710
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293358",
-      "title": "华为问界M6全系标配曝光：激光雷达+巨鲸电池，24小时订单破6万",
-      "source": "第一电动",
-      "pushedAt": 1774788148710
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293364",
-      "title": "蔚来萤火虫11个月交付破5万，加速中高端市场布局",
-      "source": "第一电动",
-      "pushedAt": 1774788148710
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293370",
       "title": "莲花FORME超混架构首款车型上市，售价50.8万起，3.3秒破百",
@@ -5627,6 +5594,24 @@
       "title": "小智一周要闻 | 智元第1万台通用具身机器人下线;星海图再融20亿",
       "source": "第一电动",
       "pushedAt": 1775384903462
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294135",
+      "title": "阿维塔06T即将预售，搭载华为896线激光雷达，全场景运动轿车来袭",
+      "source": "第一电动",
+      "pushedAt": 1775393035117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294134",
+      "title": "消息称Meta正秘密组建超级智能硬件团队，打造多形态AI智能体生态",
+      "source": "第一电动",
+      "pushedAt": 1775393035117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294133",
+      "title": "中东战火推高油价至110美元以上，中国电动车全球需求激增",
+      "source": "第一电动",
+      "pushedAt": 1775393035117
     }
   ],
   "lastUpdated": "2026-04-05"
