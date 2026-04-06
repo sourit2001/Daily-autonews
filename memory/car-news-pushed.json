@@ -1530,39 +1530,26 @@
     "https://www.d1ev.com/news/shichang/294132",
     "https://www.d1ev.com/newsflash/294135",
     "https://www.d1ev.com/newsflash/294134",
-    "https://www.d1ev.com/newsflash/294133"
+    "https://www.d1ev.com/newsflash/294133",
+    "https://www.d1ev.com/carnews/xinche/294152",
+    "https://www.d1ev.com/carnews/xinche/294151",
+    "https://www.d1ev.com/newsflash/294145",
+    "https://www.d1ev.com/newsflash/294144",
+    "https://www.d1ev.com/newsflash/294143",
+    "https://www.d1ev.com/newsflash/294142",
+    "https://www.d1ev.com/newsflash/294140",
+    "https://www.d1ev.com/newsflash/294138",
+    "https://www.d1ev.com/newsflash/294137",
+    "https://www.d1ev.com/newsflash/294153",
+    "https://www.d1ev.com/newsflash/294149",
+    "https://www.d1ev.com/newsflash/294147",
+    "https://www.d1ev.com/newsflash/294139",
+    "https://www.d1ev.com/newsflash/294148",
+    "https://www.d1ev.com/carnews/xinche/294150",
+    "https://www.d1ev.com/newsflash/294146",
+    "https://www.d1ev.com/newsflash/294141"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293370",
-      "title": "莲花FORME超混架构首款车型上市，售价50.8万起，3.3秒破百",
-      "source": "第一电动",
-      "pushedAt": 1774794592634
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293368",
-      "title": "50.8万元起 全新莲花For Me正式上市",
-      "source": "第一电动",
-      "pushedAt": 1774794592634
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293366",
-      "title": "“2026北京亦庄半马开跑在即，人机共赛创新模式亮相”",
-      "source": "第一电动",
-      "pushedAt": 1774794592634
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293371",
-      "title": "吉利星愿销量破60万，樱花粉新色来袭！",
-      "source": "第一电动",
-      "pushedAt": 1774794592634
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293369",
-      "title": "广汽丰田铂智7纯电轿车销量破3100台，补贴后14.78万起",
-      "source": "第一电动",
-      "pushedAt": 1774794592634
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/293411",
       "title": "鸿蒙智行首款MPV 智界V9实车正式曝光",
@@ -5612,7 +5599,109 @@
       "title": "中东战火推高油价至110美元以上，中国电动车全球需求激增",
       "source": "第一电动",
       "pushedAt": 1775393035117
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294152",
+      "title": "匈牙利进口电机 奥迪A6L e-tron上市定档",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294151",
+      "title": "前驱实锤 特斯拉Cybercab机舱曝光",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294145",
+      "title": "广汽埃安AIONRT换电版4月8日上市，99秒疾速换电新体验",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294144",
+      "title": "smart豪华掀背轿车内饰曝光，2026北京车展全球首秀！",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294143",
+      "title": "华为携手五菱打造华境S大六座SUV，城区领航辅助功能今日上市！",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294142",
+      "title": "小米SU7新功能曝光：车外语音交互升级，座椅通风更舒适！",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294140",
+      "title": "特斯拉FSD欧洲版亮相：界面升级，变道提示更直观！",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294138",
+      "title": "宝马iX7纯电旗舰SUV曝光，预计2027年上市起售价超10万美元",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294137",
+      "title": "OpenAI内讧曝光：6000亿美元烧钱计划与上市分歧引爆争议",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294153",
+      "title": "苹果开放英伟达eGPU驱动，AI大模型运算迎来新突破",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294149",
+      "title": "油价飙升催热新能源车市，泰国民众青睐电动出行",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294147",
+      "title": "小米笔记本Pro14抢先体验“超级小爱”AI服务，1.08kg轻薄设计6799元起",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294139",
+      "title": "青岛汽车产业新目标：2026年新能源车产量冲刺45万辆",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294148",
+      "title": "英国政府力邀Anthropic扩大本土业务，对抗美国国防部禁令",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294150",
+      "title": "战神归来 日产官宣2030年前推出GT-R R36",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294146",
+      "title": "纽约车展现纯电车型热潮：日韩车企积极布局，市场回暖有望",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294141",
+      "title": "鸿蒙智行3月辅助驾驶里程超6亿，累计交付破130万创新纪录",
+      "source": "第一电动",
+      "pushedAt": 1775440794585
     }
   ],
-  "lastUpdated": "2026-04-05"
+  "lastUpdated": "2026-04-06"
 }
