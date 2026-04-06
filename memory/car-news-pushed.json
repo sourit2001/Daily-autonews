@@ -1550,171 +1550,13 @@
     "https://www.d1ev.com/newsflash/294141",
     "https://www.d1ev.com/newsflash/294155",
     "https://www.d1ev.com/newsflash/294154",
-    "https://www.d1ev.com/newsflash/294156"
+    "https://www.d1ev.com/newsflash/294156",
+    "https://www.d1ev.com/newsflash/294160",
+    "https://www.d1ev.com/newsflash/294159",
+    "https://www.d1ev.com/newsflash/294158",
+    "https://www.d1ev.com/newsflash/294157"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293435",
-      "title": "奇瑞路虎联手华为，神行者新能源SUV搭载全球最强激光雷达亮相",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293432",
-      "title": "宝马iX3长轴距版官图发布，上半年上市，续航超900公里！",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293426",
-      "title": "吉利整合欧洲工程业务以加速全球车型上市",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293425",
-      "title": "时隔五年，英菲尼迪在北美发布全新车型",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293422",
-      "title": "宝马i3长轴距版2026年北京车展亮相，下半年上市，续航超900km",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293421",
-      "title": "零跑D19旗舰SUV即将上市：6/7座布局，3秒破百，续航达720km！",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293415",
-      "title": "东风日产NX8将于2026年4月8日上市并交付",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293439",
-      "title": "腾讯企业微信CLI开源，AI办公新体验一键开启！",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293438",
-      "title": "宾理汽车停摆危机：员工联名讨薪，豪华电动车梦碎？",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293437",
-      "title": "油电切换，爱玛科技踩中两轮电动车新周期",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293431",
-      "title": "新能源车电池衰减危机：非法改装成“移动炸弹”？",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293430",
-      "title": "AI挑战人类作家？刘慈欣：科幻创作是现实的延伸",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293418",
-      "title": "德国汽车制造商将受益于对澳大利亚的零关税准入",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293440",
-      "title": "质量目标超额达成，福特CEO年薪涨至2700万美元",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293436",
-      "title": "2026轮胎经销商年度认可产品“金轮奖”颁奖典礼圆满成功",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293434",
-      "title": "伊朗冲突升级加剧石油风险 日本股市下挫",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293429",
-      "title": "智元机器人第1万台量产下线，迈向通用智能新时代",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293428",
-      "title": "理想L9悬架非全铝引争议，汤靖回应：铝含量与安全无关",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293427",
-      "title": "Seeds |智元继续加注，灵猴机器人完成数亿元B轮融资",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293424",
-      "title": "招商银行布局未来：2025年营收微增，目标打造智能银行新标杆",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293423",
-      "title": "零跑A10周末订单超9000台，A10+D19成爆款新宠",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293420",
-      "title": "科技巨头碳中和目��遇挑战：数据中心能耗激增，天然气依赖加剧",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293419",
-      "title": "Robotaxi的账，终于算明白了？",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293417",
-      "title": "一封表扬信的背后｜TAGAL践行全链路价值创造，擦亮品牌之魂",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293416",
-      "title": "DeepSeek服务瘫痪12小时后恢复，用户数据安全引关注",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293414",
-      "title": "特斯拉计划将日本服务中心数量翻倍",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293413",
-      "title": "当丰田开始“答用户问”，20万级纯电市场迎来怎样的变量？",
-      "source": "第一电动",
-      "pushedAt": 1774846142284
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293460",
       "title": "理想汽车自研芯片马赫100获ISCA认可，L9将首发搭载",
@@ -5530,6 +5372,30 @@
       "title": "AI浪潮来袭：职场人如何面对“被取代”焦虑？",
       "source": "第一电动",
       "pushedAt": 1775450823860
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294160",
+      "title": "鸿蒙智行2026款问界M9亮相街头，全新设计搭载华为激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1775460136038
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294159",
+      "title": "长城哈弗旗舰方盒子SUV即将亮相，硬派风格搭配激光雷达！",
+      "source": "第一电动",
+      "pushedAt": 1775460136038
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294158",
+      "title": "AI购物助手出错，塔吉特沃尔玛让用户买单？",
+      "source": "第一电动",
+      "pushedAt": 1775460136038
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294157",
+      "title": "AI编程革命：苹果AppStore应用提交量激增84%",
+      "source": "第一电动",
+      "pushedAt": 1775460136038
     }
   ],
   "lastUpdated": "2026-04-06"
