@@ -1590,7 +1590,32 @@
     "https://www.d1ev.com/carnews/xinche/294187",
     "https://www.d1ev.com/carnews/xinche/294186",
     "https://www.d1ev.com/newsflash/294182",
-    "https://www.d1ev.com/news/shichang/294181"
+    "https://www.d1ev.com/news/shichang/294181",
+    "https://www.d1ev.com/newsflash/294221",
+    "https://www.d1ev.com/newsflash/294219",
+    "https://www.d1ev.com/newsflash/294215",
+    "https://www.d1ev.com/news/qiye/294210",
+    "https://www.d1ev.com/newsflash/294206",
+    "https://www.d1ev.com/newsflash/294204",
+    "https://www.d1ev.com/news/shichang/294202",
+    "https://www.d1ev.com/news/shichang/294224",
+    "https://www.d1ev.com/newsflash/294223",
+    "https://www.d1ev.com/newsflash/294220",
+    "https://www.d1ev.com/newsflash/294216",
+    "https://www.d1ev.com/newsflash/294214",
+    "https://www.d1ev.com/news/qiye/294218",
+    "https://www.d1ev.com/newsflash/294208",
+    "https://www.d1ev.com/news/shichang/294226",
+    "https://www.d1ev.com/news/shichang/294225",
+    "https://www.d1ev.com/newsflash/294222",
+    "https://www.d1ev.com/news/qiye/294217",
+    "https://www.d1ev.com/news/shichang/294213",
+    "https://www.d1ev.com/newsflash/294212",
+    "https://www.d1ev.com/news/shichang/294211",
+    "https://www.d1ev.com/newsflash/294207",
+    "https://www.d1ev.com/newsflash/294205",
+    "https://www.d1ev.com/news/shichang/294203",
+    "https://www.d1ev.com/news/qiye/294201"
   ],
   "newsHistory": [
     {
@@ -5030,6 +5055,156 @@
       "title": "【盖世快讯】小鹏回应澳大利亚独家经销商合作破裂；青岛推动57个过亿元汽车产业项目建设",
       "source": "第一电动",
       "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294221",
+      "title": "奥迪Q6Le-tron家族升级：672km续航+智能座舱，4月10日上市",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294219",
+      "title": "极氪8X中大型SUV 4月17日上市，预售价37.68万起",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294215",
+      "title": "轻舟智航21款新车型搭载智能辅助驾驶系统，累计辅助驾驶里程超25亿公里",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294210",
+      "title": "37.68万起 顶配三电机超1400马力！极氪8X定档4 月17日上市",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294206",
+      "title": "五菱缤果Pro纯电小车预售在即，续航高达403公里！",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294204",
+      "title": "极氪8X电混SUV即将上市：37.68万起，1400马力，410公里纯电续航！",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294202",
+      "title": "2026款途观L PRO新增300TSI智悦版上市，售价21.38万元",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294224",
+      "title": "日本Q1电动车销量同比大涨80%",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294223",
+      "title": "Meta新AI模型将开源：社交平台优势或成竞争利器",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294220",
+      "title": "深蓝S07华为版升级：智能驾驶大提升，续航630km支持超充",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294216",
+      "title": "欧洲AI巨头MistralAI访韩，与三星探讨AI芯片合作",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294214",
+      "title": "深蓝S07华为乾崑激光版发布：智能驾驶升级 续航630公里",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294218",
+      "title": "2026年1-2月，中国车企出口新动态：比亚迪拉美领跑，吉利欧洲加速突破丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294208",
+      "title": "特斯拉上海工厂3月交付量激增46%，占全球交付近60%",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294226",
+      "title": "Seeds | 造出《逆水寒》仿生机器人的公司，再获数亿元融资",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294225",
+      "title": "三菱汽车将于2028年在菲律宾投产混动车型",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294222",
+      "title": "千问App升级：财经分析新模块，1.3万股票实时行情免费开放！",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294217",
+      "title": "人事变动｜奕境汽车官宣核心管理层：汪俊君任董事长，曾清林为总经理",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294213",
+      "title": "伯特利2025年报解读：百亿营收背后，智能底盘与第二曲线双轮驱动",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294212",
+      "title": "江苏悦达起亚紧急召回381辆EV5，软件升级消除安全隐患",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294211",
+      "title": "霍尔木兹海峡通航受阻 马自达暂停中东车型生产至5月",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294207",
+      "title": "张雪机车819cc三缸破局：国产动力自主崛起，赛道夺冠见证实力",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294205",
+      "title": "国产动力破局！张雪机车自研三缸机获17项专利",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294203",
+      "title": "伯特利2025年营收破120亿，同比增21%",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294201",
+      "title": "丰田连续六年击败大众，难道燃油车是对的？",
+      "source": "第一电动",
+      "pushedAt": 1775536318507
     }
   ],
   "lastUpdated": "2026-04-07"
