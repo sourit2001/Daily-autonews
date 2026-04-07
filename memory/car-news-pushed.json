@@ -1685,7 +1685,10 @@
     "https://www.d1ev.com/newsflash/294287",
     "https://www.d1ev.com/newsflash/294296",
     "https://www.d1ev.com/newsflash/294289",
-    "https://www.d1ev.com/newsflash/294298"
+    "https://www.d1ev.com/newsflash/294298",
+    "https://www.d1ev.com/newsflash/294306",
+    "https://www.d1ev.com/newsflash/294303",
+    "https://www.d1ev.com/newsflash/294305"
   ],
   "newsHistory": [
     {
@@ -5137,7 +5140,25 @@
       "title": "小米汽车小爱同学新功能：三条件提醒手机忘车内",
       "source": "第一电动",
       "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294306",
+      "title": "奔驰Smart精灵#6内饰曝光，豪华掀背轿车夏季上市",
+      "source": "第一电动",
+      "pushedAt": 1775580689186
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294303",
+      "title": "东风汽车突破！国产车规级MCU芯片DF30量产在即，打破国外垄断",
+      "source": "第一电动",
+      "pushedAt": 1775580689186
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294305",
+      "title": "索尼本田合作生变：AFEELA1车型发布叫停，预定费用全额退还",
+      "source": "第一电动",
+      "pushedAt": 1775580689186
     }
   ],
-  "lastUpdated": "2026-04-07"
+  "lastUpdated": "2026-04-08"
 }
