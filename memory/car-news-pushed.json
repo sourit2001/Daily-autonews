@@ -1641,117 +1641,23 @@
     "https://www.d1ev.com/news/qiye/294248",
     "https://www.d1ev.com/newsflash/294246",
     "https://www.d1ev.com/news/qiye/294242",
-    "https://www.d1ev.com/newsflash/294241"
+    "https://www.d1ev.com/newsflash/294241",
+    "https://www.d1ev.com/newsflash/294267",
+    "https://www.d1ev.com/news/shichang/294258",
+    "https://www.d1ev.com/news/shichang/294257",
+    "https://www.d1ev.com/newsflash/294255",
+    "https://www.d1ev.com/news/qiye/294265",
+    "https://www.d1ev.com/news/shichang/294259",
+    "https://www.d1ev.com/newsflash/294256",
+    "https://www.d1ev.com/news/qiye/294253",
+    "https://www.d1ev.com/newsflash/294266",
+    "https://www.d1ev.com/newsflash/294263",
+    "https://www.d1ev.com/news/shichang/294262",
+    "https://www.d1ev.com/news/shichang/294261",
+    "https://www.d1ev.com/news/shichang/294260",
+    "https://www.d1ev.com/newsflash/294254"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293638",
-      "title": "小米YU7GT无伪装亮相纽北赛道，冲击“最速SUV”称号",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293635",
-      "title": "新能源车险赔付率超100%，亏损56亿背后真相曝光",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293633",
-      "title": "一汽-大众全新揽巡上市 售24.69-26.69万元",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293632",
-      "title": "一汽大众全新揽巡上市：24.69万起，动力升级，智能驾驶新体验",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293629",
-      "title": "一汽-大众全新速腾S上市 售7.98-10.58万元",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293628",
-      "title": "行业首发！华为双联屏“首秀”给了岚图泰山X8",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293627",
-      "title": "全新迈腾PHEV第二季度上市，卓驭行泊一体系统全球首搭",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293624",
-      "title": "一汽-大众全新揽巡大五座SUV上市，24.69万起售！",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293623",
-      "title": "小米YU7GT无伪装现身纽北赛道，极速300km/h高性能SUV曝光",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293631",
-      "title": "营收增长3.8%，净利却增超50%！卖零部件赚钱的五菱汽车，也要押注AI？",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293630",
-      "title": "小米MiMo-V2-Pro AI模型全球领先，OpenRouter周月双榜夺冠",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293622",
-      "title": "L3刚上牌，L4又获批：长安“双线并进”的自动驾驶野心",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293637",
-      "title": "安森美5000万美元加码中国，打造全球创新引擎",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293626",
-      "title": "比亚迪2025年财报亮眼：ESG评级AA级，碳中和目标明确，全球销量冠军",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293639",
-      "title": "站上百元油价关口，车市新拐点真的来了？",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293636",
-      "title": "小米汽车加速扩张：全国274家网点，新一代SU7开放试驾",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293634",
-      "title": "阿里CoPaw1.0发布：本地部署、安全升级，智能体协作新突破！",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293625",
-      "title": "安森美发布中国战略，将上海设为大中华区总部",
-      "source": "第一电动",
-      "pushedAt": 1774954256345
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293648",
       "title": "神行者全球首秀：骁龙8397芯片+宁德时代电池+华为激光雷达震撼亮相",
@@ -5051,6 +4957,90 @@
       "title": "理想汽车携手绿联，车主中控屏畅享私有云影音【新体验】",
       "source": "第一电动",
       "pushedAt": 1775552238153
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294267",
+      "title": "2026款问界M9路测曝光：星际蓝灯+华为激光雷达，外观升级更霸气",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294258",
+      "title": "轻舟智航推进21款新车型交付，智驾方案覆盖多元车企阵营",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294257",
+      "title": "油价上涨加剧市场波动，美国3月新车销量下滑14%",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294255",
+      "title": "岚图泰山X8大五座SUV：华为智能座舱加持，革新体验即将上市",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294265",
+      "title": "TechWeb微晚报：比亚迪海外需求大增 滴滴回应打专车喝到“化学味饮用水”",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294259",
+      "title": "2026年1-2月，中国乘用车出海，谁在领航：欧洲奇瑞领跑，中南美全线高增丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294256",
+      "title": "小米挖角中欧地区交付运营高级经理，或为2027年进军欧洲市场做准备",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294253",
+      "title": "消息称比亚迪海外需求大增 部分市场1天销量相当于此前两周",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294266",
+      "title": "小米MiMo负责人罗福莉谈Token价格战：低价TOKEN是“陷阱”，高效利用算力是关键",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294263",
+      "title": "广汽科技日将揭幕：全新混动技术引领油耗革命",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294262",
+      "title": "金杯汽车、自变量机器人成立合资公司",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294261",
+      "title": "科思创、Marquardt和E Ink合作将显示屏嵌入汽车内饰中",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294260",
+      "title": "威世推出新型汽车级光伏MOSFET驱动器",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294254",
+      "title": "小鹏汽车回应四川广元事故：恶意造谣将追责，提醒驾驶安全",
+      "source": "第一电动",
+      "pushedAt": 1775559113028
     }
   ],
   "lastUpdated": "2026-04-07"
