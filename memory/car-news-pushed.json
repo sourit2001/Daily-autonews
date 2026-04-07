@@ -1572,249 +1572,27 @@
     "https://www.d1ev.com/newsflash/294173",
     "https://www.d1ev.com/newsflash/294172",
     "https://www.d1ev.com/newsflash/294176",
-    "https://www.d1ev.com/newsflash/294179"
+    "https://www.d1ev.com/newsflash/294179",
+    "https://www.d1ev.com/carnews/xinche/294199",
+    "https://www.d1ev.com/carnews/xinche/294198",
+    "https://www.d1ev.com/carnews/xinche/294194",
+    "https://www.d1ev.com/carnews/xinche/294193",
+    "https://www.d1ev.com/news/shichang/294192",
+    "https://www.d1ev.com/carnews/xinche/294195",
+    "https://www.d1ev.com/newsflash/294185",
+    "https://www.d1ev.com/newsflash/294183",
+    "https://www.d1ev.com/news/shichang/294189",
+    "https://www.d1ev.com/news/shichang/294188",
+    "https://www.d1ev.com/news/shichang/294197",
+    "https://www.d1ev.com/newsflash/294196",
+    "https://www.d1ev.com/news/shichang/294191",
+    "https://www.d1ev.com/news/shichang/294190",
+    "https://www.d1ev.com/carnews/xinche/294187",
+    "https://www.d1ev.com/carnews/xinche/294186",
+    "https://www.d1ev.com/newsflash/294182",
+    "https://www.d1ev.com/news/shichang/294181"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/293527",
-      "title": "合资的反攻，上汽大众ID. ERA 9X开启预售",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293523",
-      "title": "奇瑞QQ3EV焕新上市，5.89万起售，A0级电动新黑马来袭！",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293518",
-      "title": "奇瑞QQ3焕新上市！5.89万起售，纯电续航高达420km",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293517",
-      "title": "上汽大通皮卡家族焕新上市，星际EV续航515km，星际L动力领先同级",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293516",
-      "title": "上汽大众ID.ERA 9X预售 预售价32.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293515",
-      "title": "款款皆“满配”！上汽大众“增程新王”ID. ERA 9X预售32.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293514",
-      "title": "长城坦克700Hi4预售开启，硬派越野新旗舰登场",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293513",
-      "title": "上汽大众“增程新王” ID. ERA 9X 预售 32.98 万元起",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293524",
-      "title": "MistralAI宣布完成了总额8.3亿美元的债务融资，所得资金将在法建设一座AI数据中心",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293522",
-      "title": "阿里千问发布全新全模态大模型Qwen3.5-Omni：能够无缝理解文本、图片、音频及音视频输入",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293521",
-      "title": "赛力斯2025年营收增13.63%，新能源车销量超47万，问界M9蝉联销冠",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293526",
-      "title": "不到6万起售：纯电QQ3能否续写国民小车传奇？",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293520",
-      "title": "长安汽车蓝鲸超擎动力发布：家轿油耗2L/SUV油耗3L时代来临",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293519",
-      "title": "阿维塔12升级来袭：华为激光雷达加持，2.71秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293512",
-      "title": "东风资管启动岚图汽车H股增持计划，累计不超过2.5亿",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293511",
-      "title": "文远知行获Uber增持至5.82%，同步斥资1亿美元回购股份",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293510",
-      "title": "“力箭二号”首飞成功，中科宇航开启可回收火箭新纪元",
-      "source": "第一电动",
-      "pushedAt": 1774882854479
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293542",
-      "title": "英伟达智驾方案助力奔驰CLA，圣何塞试驾展现自动驾驶新高度",
-      "source": "第一电动",
-      "pushedAt": 1774889485658
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293541",
-      "title": "澳大利亚油价飙升，比亚迪电动车销量激增50%",
-      "source": "第一电动",
-      "pushedAt": 1774889485658
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293540",
-      "title": "Waymo自动驾驶纽约测试临到期，未来命运悬而未决",
-      "source": "第一电动",
-      "pushedAt": 1774889485658
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293544",
-      "title": "苹果意外上线AI功能后迅速下架，原因竟是谷歌搜索？",
-      "source": "第一电动",
-      "pushedAt": 1774903161941
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293543",
-      "title": "苹果国行Beta版上线：Siri升级为Apple智能，新增多项AI功能！",
-      "source": "第一电动",
-      "pushedAt": 1774903161941
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293563",
-      "title": "现代汽车将在纽约车展全球首发重磅新车",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293559",
-      "title": "首搭蓝鲸混动 长安CS75 PLUS HEV首发亮相",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293558",
-      "title": "新款坦克700新能源开启预售 预售价43.8万起",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293548",
-      "title": "上汽大众ID.ERA9X预售开启，32.98万起大型增程SUV即将上市",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293547",
-      "title": "2026年第13周（3.23-3.29）上市新车汇总",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293560",
-      "title": "AI音乐制作成行业新宠？超半数采样嘻哈曲目AI生成",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293554",
-      "title": "赛力斯问界系列销量超42.6万辆，新能源汽车毛利率达28.8%，业绩创历史新高！",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293549",
-      "title": "超四分之三美国人不信任AI：担忧就业与监管滞后",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293564",
-      "title": "均胜电子2025年净利润大增39%，全球新订单达970亿元",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293561",
-      "title": "全球交付模式助力快速落地 AUTOSAR MCAL开发周期缩短33%",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293562",
-      "title": "丰田中置引擎跑车进展顺利 MR2或强势回归",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293557",
-      "title": "日本最大收购案落定：丰田提价拿下子公司，外资基金赚足离场",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293556",
-      "title": "汽车博主“PQ-管仲窥豹”因侵权赛力斯公开道歉",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293555",
-      "title": "特斯拉高管接连离职，核心团队面临人才危机",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293553",
-      "title": "一体化 SoC 时代，性能与安全的双向奔赴——华山 A2000 “3L” 安全架构解析",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293550",
-      "title": "小米SU7防晒隔热升级，无需额外贴膜？",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293546",
-      "title": "剑指30万级超级增程SUV，智己LS8核心零部件配套供应商一览",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293545",
-      "title": "【盖世快讯】市场监管总局发文综合整治“内卷式”竞争；宾理汽车被曝全面停摆",
-      "source": "第一电动",
-      "pushedAt": 1774922129557
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293579",
       "title": "智界V9旗舰MPV亮相：鸿蒙智行加持，1250公里超长续航！",
@@ -5144,7 +4922,115 @@
       "title": "吉利银河星耀7亮相：5.4秒破百、豪华电混B级车来袭",
       "source": "第一电动",
       "pushedAt": 1775486501634
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294199",
+      "title": "基于800V架构打造 宝马iX7最新谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294198",
+      "title": "智能潮酷 奇瑞瑞虎5运动版将于4月8日上市",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294194",
+      "title": "广汽埃安RT换电版4月8日上市 支持99秒换电",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294193",
+      "title": "广汽传祺硬派SUV谍照发布 北京车展亮相",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294192",
+      "title": "一天发布8款新车，等于没有新车发布",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294195",
+      "title": "小米YU7推出Maison Margiela联名涂装版",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294185",
+      "title": "OpenAI提案重塑智能时代财富与就业，聚焦AI驱动繁荣分配",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294183",
+      "title": "苹果被诉窃取YouTube视频数据训练AI，集体诉讼索赔千万",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294189",
+      "title": "中国汽车出海，能否绕过日系踩过的坑",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294188",
+      "title": "“价格62万元起”，美国再阻击中国车",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294197",
+      "title": "Seeds｜30天融30亿，千寻智能再“进账”10亿元",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294196",
+      "title": "特斯拉智能辅助避险：高速烟雾中惊险避撞奥迪车",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294191",
+      "title": "一季度车市下跌17%，请继续刮骨疗毒",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294190",
+      "title": "一年研发投入两百亿？智能车就是这么烧钱",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294187",
+      "title": "英国小众跑车品牌Marcos计划重启",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294186",
+      "title": "道奇CEO称品牌仍在考虑推出平价性能车",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294182",
+      "title": "特斯拉“真智能召唤”功能调查结束：罕见低速碰撞无重大伤亡",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294181",
+      "title": "【盖世快讯】小鹏回应澳大利亚独家经销商合作破裂；青岛推动57个过亿元汽车产业项目建设",
+      "source": "第一电动",
+      "pushedAt": 1775526959272
     }
   ],
-  "lastUpdated": "2026-04-06"
+  "lastUpdated": "2026-04-07"
 }
