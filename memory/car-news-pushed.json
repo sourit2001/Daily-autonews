@@ -1691,15 +1691,10 @@
     "https://www.d1ev.com/newsflash/294305",
     "https://www.d1ev.com/newsflash/294307",
     "https://www.d1ev.com/newsflash/294308",
-    "https://www.d1ev.com/newsflash/294309"
+    "https://www.d1ev.com/newsflash/294309",
+    "https://www.d1ev.com/newsflash/294310"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293669",
-      "title": "“FREELANDER神行者全球战略启动，未来5年六款新车亮相”",
-      "source": "第一电动",
-      "pushedAt": 1774996174210
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/293702",
       "title": "吉利博越REV正式上市 售价11.39-12.69万元",
@@ -5161,6 +5156,12 @@
       "title": "领克10+山路圈速超越TaycanGT，刷新亚洲赛道记录！",
       "source": "第一电动",
       "pushedAt": 1775588193141
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294310",
+      "title": "“萤火虫焕新版上市：11.98万起，120kW动力升级，420km续航”",
+      "source": "第一电动",
+      "pushedAt": 1775601190071
     }
   ],
   "lastUpdated": "2026-04-08"
