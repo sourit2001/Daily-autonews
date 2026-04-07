@@ -1673,57 +1673,21 @@
     "https://www.d1ev.com/newsflash/294275",
     "https://www.d1ev.com/newsflash/294273",
     "https://www.d1ev.com/newsflash/294272",
-    "https://www.d1ev.com/newsflash/294270"
+    "https://www.d1ev.com/newsflash/294270",
+    "https://www.d1ev.com/newsflash/294299",
+    "https://www.d1ev.com/newsflash/294297",
+    "https://www.d1ev.com/newsflash/294295",
+    "https://www.d1ev.com/newsflash/294294",
+    "https://www.d1ev.com/newsflash/294293",
+    "https://www.d1ev.com/newsflash/294291",
+    "https://www.d1ev.com/newsflash/294290",
+    "https://www.d1ev.com/newsflash/294288",
+    "https://www.d1ev.com/newsflash/294287",
+    "https://www.d1ev.com/newsflash/294296",
+    "https://www.d1ev.com/newsflash/294289",
+    "https://www.d1ev.com/newsflash/294298"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293659",
-      "title": "一汽-大众全新探岳LPHEV中型SUV二季度上市，双外观+插混动力",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293657",
-      "title": "岚图泰山X8携华为大屏来袭，2026年上市预定未来科技座驾",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293656",
-      "title": "华为启境GT7智能猎装车6月上市，搭载十大尖端科技！",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293652",
-      "title": "捷豹路虎联手奇瑞，神行者品牌独立升级，5年6款新车计划启动",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293653",
-      "title": "日本新能源汽车补贴新政：本土品牌最高补贴130万日元",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293658",
-      "title": "越野新贵！纵横G700顶火鸣镝版39.99万起，性能升级震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293655",
-      "title": "GitHub Copilot被曝擅自插入广告，引发开发者强烈反对后紧急调整",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293654",
-      "title": "高通盛况谈FREELANDER神行者",
-      "source": "第一电动",
-      "pushedAt": 1774969057145
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293666",
       "title": "大众ID.ERA9X震撼预售：增程SUV新旗舰，智能底盘+高阶智驾革新登场",
@@ -5101,6 +5065,78 @@
       "title": "谷歌Gemini升级：3000万美元投入心理健康支持，一键求助热线上线",
       "source": "第一电动",
       "pushedAt": 1775567330653
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294299",
+      "title": "长城魏牌V9X预售在即：2.0T混动+240km纯电续航，科技感爆棚！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294297",
+      "title": "蔚来焕新版萤火虫升级上市，售价11.98万起，续航420km！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294295",
+      "title": "奇瑞风云T9L大五座SUV即将上市，预售价13.99万起",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294294",
+      "title": "荣威i6新车型来袭：15.6英寸大屏+1.5L动力，4月13日预售开启！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294293",
+      "title": "长城汽车新旗舰SUV曝光：方正造型+激光雷达，命名待你定！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294291",
+      "title": "比亚迪腾势N9闪充版预售开启，5分钟充电420km续航！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294290",
+      "title": "smart精灵#6EHD内饰曝光，豪华掀背轿车4月22日亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294288",
+      "title": "大众新电动SUV 4月16日上市，续航超700公里，5分钟充电150km！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294287",
+      "title": "华境S领航科技品鉴会：华为合作旗舰SUV亮相，1000抵5000购车金！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294296",
+      "title": "吉利汽车联手紫光展锐打造智能座舱及AI芯片，共推汽车产业升级",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294289",
+      "title": "领克10+全球首秀：3.2秒破百，充电速度全球最快！",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294298",
+      "title": "小米汽车小爱同学新功能：三条件提醒手机忘车内",
+      "source": "第一电动",
+      "pushedAt": 1775574240202
     }
   ],
   "lastUpdated": "2026-04-07"
