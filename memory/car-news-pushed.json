@@ -1833,15 +1833,12 @@
     "https://www.d1ev.com/newsflash/294452",
     "https://www.d1ev.com/news/shichang/294440",
     "https://www.d1ev.com/newsflash/294436",
-    "https://www.d1ev.com/news/shichang/294429"
+    "https://www.d1ev.com/news/shichang/294429",
+    "https://www.d1ev.com/newsflash/294467",
+    "https://www.d1ev.com/newsflash/294464",
+    "https://www.d1ev.com/newsflash/294465"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293839",
-      "title": "小米SU7智能减震新突破：毫秒级调节，操控舒适双升级",
-      "source": "第一电动",
-      "pushedAt": 1775062043314
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/293862",
       "title": "零百加速2.9s 玛莎拉蒂MCPURA中国首发亮相",
@@ -5213,7 +5210,25 @@
       "title": "Stellantis与零跑又酝酿新合作",
       "source": "第一电动",
       "pushedAt": 1775660869918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294467",
+      "title": "理想L9Livis震撼上市：60万内首搭800V全主动悬架，续航超1500公里！",
+      "source": "第一电动",
+      "pushedAt": 1775667370917
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294464",
+      "title": "东风日产NX8上市半小时订单破8000，14.99万起售大五座SUV来袭",
+      "source": "第一电动",
+      "pushedAt": 1775667370917
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294465",
+      "title": "福特GTMKIV刷新纽北纪录，燃油车力压电动车夺第三",
+      "source": "第一电动",
+      "pushedAt": 1775667370917
     }
   ],
-  "lastUpdated": "2026-04-08"
+  "lastUpdated": "2026-04-09"
 }
