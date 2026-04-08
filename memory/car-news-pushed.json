@@ -1788,99 +1788,27 @@
     "https://www.d1ev.com/newsflash/294405",
     "https://www.d1ev.com/news/shichang/294403",
     "https://www.d1ev.com/news/shichang/294402",
-    "https://www.d1ev.com/news/shichang/294401"
+    "https://www.d1ev.com/news/shichang/294401",
+    "https://www.d1ev.com/carnews/xinche/294425",
+    "https://www.d1ev.com/newsflash/294422",
+    "https://www.d1ev.com/newsflash/294421",
+    "https://www.d1ev.com/carnews/xinche/294420",
+    "https://www.d1ev.com/carnews/xinche/294419",
+    "https://www.d1ev.com/carnews/xinche/294418",
+    "https://www.d1ev.com/newsflash/294417",
+    "https://www.d1ev.com/newsflash/294416",
+    "https://www.d1ev.com/newsflash/294414",
+    "https://www.d1ev.com/newsflash/294413",
+    "https://www.d1ev.com/newsflash/294411",
+    "https://www.d1ev.com/newsflash/294427",
+    "https://www.d1ev.com/newsflash/294426",
+    "https://www.d1ev.com/newsflash/294423",
+    "https://www.d1ev.com/news/shichang/294412",
+    "https://www.d1ev.com/newsflash/294410",
+    "https://www.d1ev.com/newsflash/294424",
+    "https://www.d1ev.com/newsflash/294415"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/293818",
-      "title": "蔚来品牌3月交付新车22,490台，同比增长120.1%",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293822",
-      "title": "六部门新规实施：新能源车报废需车电一体，违规最高罚5万",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293821",
-      "title": "华为鸿蒙系统升级：智慧助手·今天带来AI新体验",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293817",
-      "title": "美国AI巨头Anthropic代码泄露，ClaudeCode源码外泄引发关注",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293811",
-      "title": "清明假期出行高峰，公安部警示：勿将辅助驾驶当自动驾驶！",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293810",
-      "title": "电动车品牌集体涨价，涨幅100-300元！",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293816",
-      "title": "赛力斯海外销量目标30%，问界品牌技术领先市场",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293814",
-      "title": "比亚迪月销量再超30万，出口量增长65.2%",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293813",
-      "title": "比亚迪3月销量破30万，海外销量激增65.2%！",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293823",
-      "title": "腾讯龙虾特攻队产品全线通过云端OpenClaw能力评估",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293820",
-      "title": "乐道汽车3月销量飙升42.7%，L90成纯电SUV销量冠军",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293819",
-      "title": "长安汽车成立天枢智能机器人公司，布局未来出行生态",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293815",
-      "title": "TCL科技豪掷93亿收购广州华星45%股权 国资平台套现46亿",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293812",
-      "title": "小米汽车4月权益大放送：现车选购优惠高达63000元！",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293809",
-      "title": "特斯拉停产Model S/X，全力转向Optimus机器人生产线",
-      "source": "第一电动",
-      "pushedAt": 1775048921547
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293834",
       "title": "华为启境GT7「茶卡银」官图曝光，6月上市搭载十大智能技术",
@@ -5054,6 +4982,114 @@
       "title": "本田中国3月销量降34%：2000万辆里程碑下的转型阵痛",
       "source": "第一电动",
       "pushedAt": 1775645597908
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294425",
+      "title": "东风日产NX8正式上市 售价15.99-20.99万元",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294422",
+      "title": "东风日产NX8增程SUV上市：800V快充+7种型号，14.99万起",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294421",
+      "title": "东风日产NX8新能源SUV震撼上市，15.99万起售，限时优惠1万！",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294420",
+      "title": "2026款奇瑞瑞虎7正式上市 售价7.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294419",
+      "title": "2026款奇瑞瑞虎7L正式上市 售8.59万元起",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294418",
+      "title": "奇瑞瑞虎5运动版正式上市 售价7.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294417",
+      "title": "零跑Lafa5Ultra顶配版亮相，4月上市，运动套件加持性能升级",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294416",
+      "title": "广汽埃安AION RT换电版上市：8.88万起，99秒换电，续航520-650公里",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294414",
+      "title": "埃安RT换电版上市：99秒换电，续航650公里，8.88万起！",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294413",
+      "title": "东风日产NX8中大型SUV上市，15.99万起售，增程纯电双动力可选",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294411",
+      "title": "小鹏GX旗舰SUV震撼亮相：梅里雪山灵感车色，科技旗舰新高度！",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294427",
+      "title": "华为激光雷达加持！阿维塔12新能源车29.39万起售",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294426",
+      "title": "比亚迪方程豹钛7EV闪充版开启预订，全球首款闪充纯电大方盒，续航高达755公里！",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294423",
+      "title": "DeepSeek突推专家模式，AI对话新升级引发热议",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294412",
+      "title": "泰矽微车规级高压直驱超声波传感芯片 TCAU33宣布量产",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294410",
+      "title": "AI时代来临：Peter Yang鼓励孩子跳过大学直接创业",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294424",
+      "title": "奇瑞瑞虎5运动版7.99万起，L2辅助驾驶+1.5T动力，紧凑型SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294415",
+      "title": "零跑Lafa5Ultra震撼登场：运动套件+智能配置，轿跑新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1775653867264
     }
   ],
   "lastUpdated": "2026-04-08"
