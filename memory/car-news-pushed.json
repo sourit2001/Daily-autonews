@@ -1761,75 +1761,23 @@
     "https://www.d1ev.com/news/qiye/294381",
     "https://www.d1ev.com/news/shichang/294373",
     "https://www.d1ev.com/news/shichang/294369",
-    "https://www.d1ev.com/news/shichang/294365"
+    "https://www.d1ev.com/news/shichang/294365",
+    "https://www.d1ev.com/newsflash/294394",
+    "https://www.d1ev.com/newsflash/294390",
+    "https://www.d1ev.com/newsflash/294396",
+    "https://www.d1ev.com/newsflash/294393",
+    "https://www.d1ev.com/newsflash/294389",
+    "https://www.d1ev.com/newsflash/294387",
+    "https://www.d1ev.com/newsflash/294383",
+    "https://www.d1ev.com/newsflash/294395",
+    "https://www.d1ev.com/news/qiye/294392",
+    "https://www.d1ev.com/newsflash/294391",
+    "https://www.d1ev.com/newsflash/294388",
+    "https://www.d1ev.com/news/shichang/294386",
+    "https://www.d1ev.com/news/shichang/294385",
+    "https://www.d1ev.com/newsflash/294384"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/293763",
-      "title": "销量破局、上市落子：岚图交出了什么答卷？",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293760",
-      "title": "奇瑞星途揽月五周年限定版上市，银黑双拼外观升级，动力强劲！",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293758",
-      "title": "星途揽月五周年限定版上市 售价20.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293766",
-      "title": "通用汽车延长停产至4月13日，电动车市场遇冷裁员1300人",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293765",
-      "title": "丰田将加入戴姆勒卡车与沃尔沃合资燃料电池企业cellcentric",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293761",
-      "title": "特斯拉Model 3发布十周年 全球销量已突破300万辆",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293767",
-      "title": "微涨的东风本田重回牌桌？",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293764",
-      "title": "小米汽车再添猛将：特斯拉前高管孔艳双加盟助力零售体系升级",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293762",
-      "title": "天齐锂业2025年净利扭亏为盈",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293757",
-      "title": "岚图汽车3月交付量破1.5万辆，环比增近八成",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293756",
-      "title": "曹操出行获批，可在杭州开展无安全员智能网联汽车道路测试",
-      "source": "第一电动",
-      "pushedAt": 1775027644379
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293784",
       "title": "极氪3月交付量飙升90%，累计交付近72万辆新车！",
@@ -5147,6 +5095,90 @@
       "title": "上汽集团投资的氢能企业，主动终止IPO",
       "source": "第一电动",
       "pushedAt": 1775632350967
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294394",
+      "title": "凯美瑞运动PLUS版磨砂金上市，20.98万起售，油耗低至4.5L/100km",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294390",
+      "title": "广汽丰田凯美瑞运动PLUS版磨砂金上市，售价20.98万",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294396",
+      "title": "新能源车险市场“量增亏减”，2025年保费收入增至1900亿",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294393",
+      "title": "AI新突破！Anthropic发布自主发现漏洞网络安全大模型",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294389",
+      "title": "Stellantis联手零跑打造电动SUV，预计2028年投产",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294387",
+      "title": "中国碳核算新突破：“磐石·禹衡”大模型发布，全球碳排放精准核算",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294383",
+      "title": "成都程序员开发AI违章举报App，一键上传助力道路安全",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294395",
+      "title": "华为ADSPro智能驾驶包限时优惠，最高省6000元！",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294392",
+      "title": "意大利登顶之后，零跑的百万征程才刚开局",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294391",
+      "title": "广汽昊铂S600轿跑SUV将发布，纯电增程双动力高端定位",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294388",
+      "title": "村田制作所7款MLCC新品量产，小体积大容量助力汽车电子升级",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294386",
+      "title": "德国车市上演“权力交接”？",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294385",
+      "title": "理想汽车3月新增19座理想超充站",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294384",
+      "title": "华为加持！五菱旗舰SUV华境S开启预订 19万起售",
+      "source": "第一电动",
+      "pushedAt": 1775638581443
     }
   ],
   "lastUpdated": "2026-04-08"
