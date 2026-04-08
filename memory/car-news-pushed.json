@@ -1836,7 +1836,9 @@
     "https://www.d1ev.com/news/shichang/294429",
     "https://www.d1ev.com/newsflash/294467",
     "https://www.d1ev.com/newsflash/294464",
-    "https://www.d1ev.com/newsflash/294465"
+    "https://www.d1ev.com/newsflash/294465",
+    "https://www.d1ev.com/newsflash/294470",
+    "https://www.d1ev.com/newsflash/294469"
   ],
   "newsHistory": [
     {
@@ -5228,6 +5230,18 @@
       "title": "福特GTMKIV刷新纽北纪录，燃油车力压电动车夺第三",
       "source": "第一电动",
       "pushedAt": 1775667370917
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294470",
+      "title": "阿维塔12升级上市！华为激光雷达加持，2.71秒破百动力强劲",
+      "source": "第一电动",
+      "pushedAt": 1775675254081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294469",
+      "title": "小米汽车行车记录功能升级：紧急事故自动保存视频，哨兵模式语音驱离保障安全",
+      "source": "第一电动",
+      "pushedAt": 1775675254081
     }
   ],
   "lastUpdated": "2026-04-09"
