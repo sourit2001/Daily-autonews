@@ -1713,213 +1713,38 @@
     "https://www.d1ev.com/news/shichang/294318",
     "https://www.d1ev.com/newsflash/294317",
     "https://www.d1ev.com/news/shichang/294312",
-    "https://www.d1ev.com/news/shichang/294311"
+    "https://www.d1ev.com/news/shichang/294311",
+    "https://www.d1ev.com/newsflash/294357",
+    "https://www.d1ev.com/newsflash/294356",
+    "https://www.d1ev.com/newsflash/294340",
+    "https://www.d1ev.com/news/shichang/294334",
+    "https://www.d1ev.com/newsflash/294362",
+    "https://www.d1ev.com/newsflash/294355",
+    "https://www.d1ev.com/newsflash/294354",
+    "https://www.d1ev.com/news/shichang/294351",
+    "https://www.d1ev.com/news/qiye/294350",
+    "https://www.d1ev.com/newsflash/294348",
+    "https://www.d1ev.com/news/shichang/294347",
+    "https://www.d1ev.com/news/shichang/294343",
+    "https://www.d1ev.com/news/shichang/294341",
+    "https://www.d1ev.com/news/shichang/294338",
+    "https://www.d1ev.com/newsflash/294337",
+    "https://www.d1ev.com/newsflash/294358",
+    "https://www.d1ev.com/news/qiye/294345",
+    "https://www.d1ev.com/news/qiye/294344",
+    "https://www.d1ev.com/news/shichang/294361",
+    "https://www.d1ev.com/news/qiye/294360",
+    "https://www.d1ev.com/news/qiye/294359",
+    "https://www.d1ev.com/news/shichang/294353",
+    "https://www.d1ev.com/news/shichang/294352",
+    "https://www.d1ev.com/news/qiye/294349",
+    "https://www.d1ev.com/news/shichang/294346",
+    "https://www.d1ev.com/news/shichang/294342",
+    "https://www.d1ev.com/news/shichang/294339",
+    "https://www.d1ev.com/news/shichang/294336",
+    "https://www.d1ev.com/news/shichang/294335"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293702",
-      "title": "吉利博越REV正式上市 售价11.39-12.69万元",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293701",
-      "title": "增加激光雷达 新款领克Z20谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293700",
-      "title": "纵横700顶火鸣镝版上市 售价42.49万元",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293695",
-      "title": "一汽-大众全新探岳L PHEV二季度上市",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293679",
-      "title": "吉利博越REV上市：11万起售，增程电驱系统热效率47.26%，续航超1400km",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293671",
-      "title": "纯电钢炮换新颜 新款Cupra Born新车图解",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293697",
-      "title": "AI芯片革命：内存主导架构将取代英伟达GPU时代",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293689",
-      "title": "宝马iX3开启用户驾驶数据采集，优化自动驾驶功能",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293688",
-      "title": "营收涨16%、亏损翻倍，这家智驾公司的钱花哪了？",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293678",
-      "title": "“动力电池溯源平台上线！新能源汽车产业迈入数字化新时代”",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293677",
-      "title": "丰田联手戴姆勒沃尔沃，加码商用燃料电池技术突破",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293673",
-      "title": "智能体工具风险提示：专利申请信息泄露，AI撰写或引发严重后果",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293704",
-      "title": "智谱2025年营收翻倍增长，付费开发者超24万，API调用价涨83%仍火爆",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293703",
-      "title": "法拉第未来2025年业绩亮眼：净资产转正，机器人业务大增",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293699",
-      "title": "领克900旗舰SUV新版本来袭：大五座+大六座，豪华升级！",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293698",
-      "title": "曹操出行获杭州首张无安全员Robotaxi测试牌照，2025年业绩亮眼",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293696",
-      "title": "2027款大众Atlas发布：全面升级设计与配置",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293694",
-      "title": "Jeep或重启手动挡Gladiator皮卡",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293693",
-      "title": "华为2025年营收8809亿元，净利润680亿元",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293692",
-      "title": "警方通报“萝卜快跑武汉停摆”：系统故障所致",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293691",
-      "title": "谷歌DeepMind推Veo3.1Lite：视频生成成本砍半，速度不变！",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293690",
-      "title": "华为2025年业绩增速大幅放缓，净利润逆势增长",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293687",
-      "title": "智元与香港中文大学共建具身智能产学研平台",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293686",
-      "title": "萝卜快跑迪拜启动全无人驾驶商业化运营",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293685",
-      "title": "低端电车崩了，跑步入场的零跑奇瑞怎么办",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293684",
-      "title": "新老ES同堂销售 雷克萨斯以稳求进",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293682",
-      "title": "中科宇航IPO获受理，估值149亿冲击科创板“商业火箭第一股”",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293681",
-      "title": "特斯拉Robotaxi遇难题：远程人工接管成最后手段",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293680",
-      "title": "营收56亿、净利翻倍，亚太股份的“第二增长曲线”成了？",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293676",
-      "title": "华为2025年销售增速放缓至2.2% 净利润逆势增长8.73%",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293675",
-      "title": "奔驰GLE家族全面升级，新增3000项零部件，内饰科技感爆棚！",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293674",
-      "title": "华为双联屏加持！岚图泰山X8五座SUV科技感爆棚",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293672",
-      "title": "ChatGPT升级支持CarPlay，语音助手直接上中控屏！",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293670",
-      "title": "小米汽车：新一代SU7能识别石头等一定尺寸异形障碍物了",
-      "source": "第一电动",
-      "pushedAt": 1775009147869
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293755",
       "title": "岚图泰山X8预售在即，华为技术加持打造智能大五座SUV",
@@ -5309,6 +5134,180 @@
       "title": "【盖世快讯】国家继续实施调控，成品油价格适当调整；奕境汽车核心管理层落定",
       "source": "第一电动",
       "pushedAt": 1775613446901
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294357",
+      "title": "广汽传祺M8新车型发布：18.98万起，智能升级，动力强劲！",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294356",
+      "title": "坦克700震撼上市！43.8万起，2.0T插混动力，纯电续航190km",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294340",
+      "title": "老人恶意划伤特斯拉新车，监控记录全过程，维修费高达8300元",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294334",
+      "title": "英国3月新车销量创新高 奇瑞Jaecoo 7成最畅销车型",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294362",
+      "title": "AI音乐版权战升级：Suno与环球音乐谈判僵局难破",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294355",
+      "title": "京东美团AI大动作：自研模型取代外部AI，快递员AI助手上线",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294354",
+      "title": "新能源车现尴尬：深蓝S09暴雨中“车内下小雨”",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294351",
+      "title": "美国汽油均价突破4美元 电动车使用成本优势凸显",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294350",
+      "title": "东风一季度销量涨12.3%，新能源增52%：自主向上，合资分化",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294348",
+      "title": "国产AI新突破！智谱GLM-5.1开源模型8小时自主工作超越Opus4.6",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294347",
+      "title": "3月澳大利亚电动汽车市占率近乎翻倍",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294343",
+      "title": "因电动汽车补贴退坡，LG新能源亏损超预期",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294341",
+      "title": "英特尔将加入特斯拉AI芯片制造项目",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294338",
+      "title": "东风车规级MCU芯片DF30稳步推进量产上车",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294337",
+      "title": "十部门联合发布AI伦理审查办法，规范人工智能科技活动",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294358",
+      "title": "中国汽车欧洲市场销量破百万，市场份额飙升至7%",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294345",
+      "title": "挖走特斯拉中欧高管！小米汽车为进军欧洲做准备 卢伟冰表态正实现",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294344",
+      "title": "小米汽车再挖特斯拉高管：中欧市场交付操盘手入职，2027出海计划提速",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294361",
+      "title": "前理想高管陈伟、张骁联合创业，获老东家投资",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294360",
+      "title": "消息称特斯拉Model S和Model X 交付超过61万辆",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294359",
+      "title": "现代汽车将重启帕里斯帝SUV车型销售",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294353",
+      "title": "宁德时代，为何请“一代金王”出山？",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294352",
+      "title": "零跑3月登顶意大利纯电市场销量榜首",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294349",
+      "title": "三菱汽车CEO：中东冲突未导致公司停产",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294346",
+      "title": "小鹏GX：把Robotaxi、飞行汽车、机器人揉进一台SUV",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294342",
+      "title": "亿纬锂能Q1业绩预告：净利润同比增长25%-35%",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294339",
+      "title": "Seeds | 地瓜机器人完成1.5亿美元B2轮融资",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294336",
+      "title": "Seeds | 珈钠能源完成A+轮融资，亿纬锂能入股",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294335",
+      "title": "2026年1-2月ADAS供应商装机量排行榜：多赛道协同发力，国产优势扩大丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1775622982195
     }
   ],
   "lastUpdated": "2026-04-08"
