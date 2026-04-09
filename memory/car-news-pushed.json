@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292445",
-    "https://www.d1ev.com/newsflash/292442",
-    "https://www.d1ev.com/newsflash/292441",
     "https://www.d1ev.com/newsflash/292437",
     "https://www.d1ev.com/newsflash/292428",
     "https://www.d1ev.com/newsflash/292424",
@@ -1999,15 +1996,12 @@
     "https://www.d1ev.com/newsflash/294644",
     "https://www.d1ev.com/newsflash/294642",
     "https://www.d1ev.com/news/shichang/294640",
-    "https://www.d1ev.com/news/qiye/294639"
+    "https://www.d1ev.com/news/qiye/294639",
+    "https://www.d1ev.com/newsflash/294663",
+    "https://www.d1ev.com/newsflash/294662",
+    "https://www.d1ev.com/newsflash/294661"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293995",
-      "title": "小米SU7全面拆解直播：3.5小时深度解析，7000台闪电交付创纪录",
-      "source": "第一电动",
-      "pushedAt": 1775148742107
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/293996",
       "title": "2026款小鹏MONA M03上市，11.98万元起搭载第二代VLA智驾",
@@ -5649,7 +5643,25 @@
       "title": "全民皆爱野，捷途XWD技术体验日开幕，捷途旅行者PLUS双车开启预",
       "source": "第一电动",
       "pushedAt": 1775747958246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294663",
+      "title": "小米YU7新版本曝光：减重115公斤，续航超600km，价格或降至24万级",
+      "source": "第一电动",
+      "pushedAt": 1775754093603
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294662",
+      "title": "奥迪A6L降价10万，纯电版A6Le-tron预售价31.3万，豪华轿车市场新战局。",
+      "source": "第一电动",
+      "pushedAt": 1775754093603
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294661",
+      "title": "蔚来ES9预售开启！52.8万起，家族旗舰轿车ET9同级智能驾驶",
+      "source": "第一电动",
+      "pushedAt": 1775754093603
     }
   ],
-  "lastUpdated": "2026-04-09"
+  "lastUpdated": "2026-04-10"
 }
