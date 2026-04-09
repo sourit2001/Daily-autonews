@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292437",
-    "https://www.d1ev.com/newsflash/292428",
-    "https://www.d1ev.com/newsflash/292424",
     "https://www.d1ev.com/newsflash/292421",
     "https://www.d1ev.com/newsflash/292418",
     "https://www.d1ev.com/newsflash/292416",
@@ -1999,39 +1996,12 @@
     "https://www.d1ev.com/news/qiye/294639",
     "https://www.d1ev.com/newsflash/294663",
     "https://www.d1ev.com/newsflash/294662",
-    "https://www.d1ev.com/newsflash/294661"
+    "https://www.d1ev.com/newsflash/294661",
+    "https://www.d1ev.com/newsflash/294664",
+    "https://www.d1ev.com/newsflash/294666",
+    "https://www.d1ev.com/newsflash/294665"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/293996",
-      "title": "2026款小鹏MONA M03上市，11.98万元起搭载第二代VLA智驾",
-      "source": "第一电动",
-      "pushedAt": 1775155816541
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294000",
-      "title": "小鹏MONAM03焕新登场：11.98万起售，续航高达640km！",
-      "source": "第一电动",
-      "pushedAt": 1775155816541
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293999",
-      "title": "腾势Z9/Z9GT升级：智驾大模型加持，泊车辅助升级，座舱更智能",
-      "source": "第一电动",
-      "pushedAt": 1775155816541
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293997",
-      "title": "2026年3月汽车销量榜：上汽集团破百万，比亚迪新能源累计超1580万",
-      "source": "第一电动",
-      "pushedAt": 1775155816541
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293998",
-      "title": "特斯拉2026年Q1全球销量增6.5%，Model Y连续三年全球销冠",
-      "source": "第一电动",
-      "pushedAt": 1775155816541
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/294030",
       "title": "4月10日亮相 五菱星光L内饰官图发布",
@@ -5661,6 +5631,24 @@
       "title": "蔚来ES9预售开启！52.8万起，家族旗舰轿车ET9同级智能驾驶",
       "source": "第一电动",
       "pushedAt": 1775754093603
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294664",
+      "title": "国产宝马iX3加长轴距亮相，续航超900公里，搭载鸿蒙生态！",
+      "source": "第一电动",
+      "pushedAt": 1775761010362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294666",
+      "title": "小米SU7全系升级：700TOPS算力芯片加持，多模态辅助驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1775761010362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294665",
+      "title": "特斯拉新动作：欣旺达成第五大动力电池供应商，降本增效再进一步",
+      "source": "第一电动",
+      "pushedAt": 1775761010362
     }
   ],
   "lastUpdated": "2026-04-10"
