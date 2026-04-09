@@ -1930,135 +1930,29 @@
     "https://www.d1ev.com/news/shichang/294547",
     "https://www.d1ev.com/news/shichang/294545",
     "https://www.d1ev.com/news/qiye/294544",
-    "https://www.d1ev.com/newsflash/294543"
+    "https://www.d1ev.com/newsflash/294543",
+    "https://www.d1ev.com/news/qiye/294591",
+    "https://www.d1ev.com/newsflash/294582",
+    "https://www.d1ev.com/news/shichang/294579",
+    "https://www.d1ev.com/newsflash/294578",
+    "https://www.d1ev.com/newsflash/294576",
+    "https://www.d1ev.com/newsflash/294572",
+    "https://www.d1ev.com/newsflash/294570",
+    "https://www.d1ev.com/newsflash/294590",
+    "https://www.d1ev.com/newsflash/294583",
+    "https://www.d1ev.com/newsflash/294580",
+    "https://www.d1ev.com/newsflash/294574",
+    "https://www.d1ev.com/newsflash/294571",
+    "https://www.d1ev.com/news/shichang/294588",
+    "https://www.d1ev.com/news/shichang/294589",
+    "https://www.d1ev.com/news/qiye/294587",
+    "https://www.d1ev.com/news/qiye/294586",
+    "https://www.d1ev.com/news/qiye/294585",
+    "https://www.d1ev.com/newsflash/294584",
+    "https://www.d1ev.com/newsflash/294581",
+    "https://www.d1ev.com/newsflash/294573"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/293941",
-      "title": "高成本与伊朗冲突交织 美国新车销量承压",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293939",
-      "title": "比亚迪海豹06GT/DM-i旅行版上市：12.89万起，续航升级至620公里",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293937",
-      "title": "比亚迪海豹06GT/DM-i旅行版上市，售价11.19万起，闪充技术加持",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293930",
-      "title": "阿维塔3月销量破五千，新12系列4月8日预售开启",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293928",
-      "title": "别克至境E7携豆包大模型亮相，智能驾驶新体验4月10日预售开启",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293927",
-      "title": "特斯拉Model S和Model X已停产 全球库存新车不到600辆",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293925",
-      "title": "东风日产NX8广告被指抄袭极氪9X和尚界H5创意，细节对比曝光！",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293920",
-      "title": "五菱星光L中大型SUV即将亮相，2+2+2座椅布局引领家用新风尚",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293938",
-      "title": "上汽集团一季度销量破百万，新能源车销量激增214.6%",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293935",
-      "title": "杰米·戴蒙预言：AI将让人类每周工作三天半，寿命达百岁",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293932",
-      "title": "九成德国人担忧AI深度伪造风险高，年轻人更乐观",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293929",
-      "title": "AI冲击下，传统软件巨头积极转型，市场恐慌过度？",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293924",
-      "title": "沃尔沃一季度全球销量下滑11%，电动车型占比近半",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293940",
-      "title": "人形机器人，欧洲在全球科技赛道的“最后一张牌”？",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293936",
-      "title": "深蓝汽车全球销量激增，3月销量破3万，累计销量超19万辆！",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293934",
-      "title": "美团发布革命性TTS技术，音色克隆新突破！",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293933",
-      "title": "走进东风 | 同源共链创新技术展暨智能化论坛圆满落幕",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293931",
-      "title": "中国汽车首次超越日本 成澳大利亚最大进口来源国",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/293926",
-      "title": "智界CEO谈亏本卖车：不认可这种说法 这不就成钢材搬运工了",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293922",
-      "title": "上汽集团2025年净利增超500%！自主品牌销量占比超6成，合资品牌表现分化",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293921",
-      "title": "华为鸿蒙智行新动作：江淮汽车全资成立尊界智行科技",
-      "source": "第一电动",
-      "pushedAt": 1775119982169
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/293959",
       "title": "比亚迪2026款海豹06GT与海豹06DM-i旅行版上市，售价11.19-16.99万元",
@@ -5442,6 +5336,126 @@
       "title": "DeepSeek“专家模式”升级！支持上传50个文件OCR识别文字",
       "source": "第一电动",
       "pushedAt": 1775719050713
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294591",
+      "title": "比亚迪腾势Z9GT欧洲上市：售价超90万元 是国内3倍多",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294582",
+      "title": "理想新车“刹车失灵”惊魂一幕，地下车库环氧地坪成隐患",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294579",
+      "title": "奇瑞威麟R08 PRO即将上市",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294578",
+      "title": "岚图泰山X8内饰曝光：华为双屏+鸿蒙系统，庭院级大五座SUV即将上市",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294576",
+      "title": "福特烈马2026款谍照曝光：混动版重启，越野性能升级！",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294572",
+      "title": "小米YU7GT赛道曝光：1526马力高性能SUV，极速300km/h！",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294570",
+      "title": "比亚迪腾势欧洲上市！Z9GT预售价91.8万，5分钟快充技术亮相",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294590",
+      "title": "比亚迪新能源积分领跑，多家车企百万积分榜上有名",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294583",
+      "title": "比亚迪OTA更新全球领先，中国新能源车功能进化如手机",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294580",
+      "title": "微信支付推出AI支付接入新技能，一键速通支付接入流程！",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294574",
+      "title": "蔚来ES9旗舰SUV今晚发布：激光雷达+双电机，续航620公里！",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294571",
+      "title": "宝马氢能技术突破：新一代X5续航750公里，5分钟快充！",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294588",
+      "title": "原油大跌，美国加油费却纹丝不动？",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294589",
+      "title": "英特尔加入马斯克Terafab项目",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294587",
+      "title": "特斯拉Cybercab为何“返祖”装舵？说好的无方向盘呢？",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294586",
+      "title": "多家华尔街投行下调特斯拉目标价",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294585",
+      "title": "马斯克称特斯拉FSD可减少90%车祸死亡",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294584",
+      "title": "中国速度震撼世界！张雪机车葡萄牙赛道夺冠创历史",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294581",
+      "title": "蔚来ES9今晚发布：中国文化美学融合，超劳斯莱斯尺寸，豪华配置全拉满",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294573",
+      "title": "比亚迪海狮6日本销量破900辆，插混SUV性价比超本土品牌",
+      "source": "第一电动",
+      "pushedAt": 1775725416620
     }
   ],
   "lastUpdated": "2026-04-09"
