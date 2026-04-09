@@ -1950,111 +1950,26 @@
     "https://www.d1ev.com/news/qiye/294585",
     "https://www.d1ev.com/newsflash/294584",
     "https://www.d1ev.com/newsflash/294581",
-    "https://www.d1ev.com/newsflash/294573"
+    "https://www.d1ev.com/newsflash/294573",
+    "https://www.d1ev.com/newsflash/294605",
+    "https://www.d1ev.com/newsflash/294603",
+    "https://www.d1ev.com/newsflash/294599",
+    "https://www.d1ev.com/newsflash/294598",
+    "https://www.d1ev.com/newsflash/294597",
+    "https://www.d1ev.com/newsflash/294594",
+    "https://www.d1ev.com/newsflash/294592",
+    "https://www.d1ev.com/newsflash/294611",
+    "https://www.d1ev.com/newsflash/294607",
+    "https://www.d1ev.com/carnews/xinche/294606",
+    "https://www.d1ev.com/newsflash/294596",
+    "https://www.d1ev.com/newsflash/294604",
+    "https://www.d1ev.com/newsflash/294600",
+    "https://www.d1ev.com/newsflash/294610",
+    "https://www.d1ev.com/newsflash/294609",
+    "https://www.d1ev.com/newsflash/294608",
+    "https://www.d1ev.com/newsflash/294602"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/293959",
-      "title": "比亚迪2026款海豹06GT与海豹06DM-i旅行版上市，售价11.19-16.99万元",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293958",
-      "title": "2026款海豹06GT与海豹06DM-i旅行版上市",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293945",
-      "title": "维智捷完成从安波福分拆，于纽交所独立上市",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293943",
-      "title": "比亚迪海豹06GT/DM-i旅行版上市：5分钟充400km 性能家用双升级",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293954",
-      "title": "2026年3月新能源车销量飙升：比亚迪、吉利、特斯拉前三甲",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293951",
-      "title": "调查显示三分之二英国教师认为：生过于依赖AI，导致思维能力下降",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293950",
-      "title": "AI侵权频发，中国广电联合会演员委员会发严正声明维护权益",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293949",
-      "title": "广汽集团3月销量微增，新能源车销量同比激增72.58%！",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293947",
-      "title": "清明假期高速免费通行，新能源汽车流量激增29%",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293942",
-      "title": "火山引擎携手OpenClaw，共建AI智能体部署新生态",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293961",
-      "title": "深蓝汽车3月销量激增87.8%，S05全球销量破19万",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293960",
-      "title": "江淮在上海设立尊界新公司",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293955",
-      "title": "不到9万元配激光雷达，A0级纯电小车卖爆了？有门店销售称：周末订出19台车",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293953",
-      "title": "两个月进账30亿、估值突破200亿，星海图凭什么？",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293952",
-      "title": "一张图看懂陕西省汽车产业集群",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293946",
-      "title": "上汽集团第一季度销量达97.3万辆",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293944",
-      "title": "拟投资1亿元，又一项目落地上海嘉定",
-      "source": "第一电动",
-      "pushedAt": 1775126914933
-    },
     {
       "url": "https://www.d1ev.com/newsflash/293975",
       "title": "广汽埃安N60预售开启，15万内享L4级智驾，续航610km！",
@@ -5456,6 +5371,108 @@
       "title": "比亚迪海狮6日本销量破900辆，插混SUV性价比超本土品牌",
       "source": "第一电动",
       "pushedAt": 1775725416620
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294605",
+      "title": "吉利银河星舰M7预售开启，13.98万起，续航1730km领先同级！",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294603",
+      "title": "比亚迪海狮08北京车展首发：1000km续航+5分钟充400km，30万级SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294599",
+      "title": "岚图泰山X8内饰亮相：6.1平米座舱+华为智慧双联屏，豪华配置抢先看",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294598",
+      "title": "吉利银河M7预售开启，1.5L插混动力续航超1700km！",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294597",
+      "title": "奇瑞瑞虎5运动版全球上市，智能科技加持7.99万起",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294594",
+      "title": "吉利银河M7开启预售，1.5L混动续航1730公里，13.98万起",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294592",
+      "title": "腾讯云QClawV2大版本发布：多Agent协作、跨应用直连、业内首发“龙虾管家”",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294611",
+      "title": "3月新能源车销量激增，比亚迪、吉利、特斯拉中国领跑市场",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294607",
+      "title": "3月新能源车销量飙升，比亚迪宋夺冠特斯拉紧随其后",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294606",
+      "title": "CR-V月销过万也带不动？本田一季度在华销量跌超22%，仍待新能源“神车”",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294596",
+      "title": "比亚迪腾势D9全量推送天神之眼5.0，新增基于强化学习的端到端大模型",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294604",
+      "title": "梅赛德斯-奔驰Q1全球销量下滑6%降至49.97万辆，中国市场暴跌27%，美国市场反弹20%",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294600",
+      "title": "零跑C10全球销量破26万，限时豪礼45816元！",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294610",
+      "title": "小米汽车销量稳步增长，一季度突破8万辆大关",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294609",
+      "title": "特斯拉Cybercab被爆量产正式启动：约60台量产车现身工厂，方向盘依然还在",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294608",
+      "title": "华为小艺Claw升级：一键唤醒智能助手，多端协同新体验",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294602",
+      "title": "长安逸动蓝鲸超擎混动版下线，百公里油耗仅2.98L",
+      "source": "第一电动",
+      "pushedAt": 1775732143174
     }
   ],
   "lastUpdated": "2026-04-09"
