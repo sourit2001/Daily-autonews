@@ -1967,93 +1967,33 @@
     "https://www.d1ev.com/newsflash/294610",
     "https://www.d1ev.com/newsflash/294609",
     "https://www.d1ev.com/newsflash/294608",
-    "https://www.d1ev.com/newsflash/294602"
+    "https://www.d1ev.com/newsflash/294602",
+    "https://www.d1ev.com/newsflash/294634",
+    "https://www.d1ev.com/newsflash/294632",
+    "https://www.d1ev.com/newsflash/294631",
+    "https://www.d1ev.com/newsflash/294630",
+    "https://www.d1ev.com/newsflash/294628",
+    "https://www.d1ev.com/newsflash/294627",
+    "https://www.d1ev.com/newsflash/294625",
+    "https://www.d1ev.com/news/qiye/294624",
+    "https://www.d1ev.com/newsflash/294622",
+    "https://www.d1ev.com/newsflash/294621",
+    "https://www.d1ev.com/newsflash/294620",
+    "https://www.d1ev.com/news/shichang/294619",
+    "https://www.d1ev.com/newsflash/294617",
+    "https://www.d1ev.com/newsflash/294616",
+    "https://www.d1ev.com/newsflash/294615",
+    "https://www.d1ev.com/newsflash/294614",
+    "https://www.d1ev.com/newsflash/294613",
+    "https://www.d1ev.com/newsflash/294623",
+    "https://www.d1ev.com/news/shichang/294612",
+    "https://www.d1ev.com/newsflash/294635",
+    "https://www.d1ev.com/news/shichang/294633",
+    "https://www.d1ev.com/newsflash/294629",
+    "https://www.d1ev.com/newsflash/294626",
+    "https://www.d1ev.com/newsflash/294618"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/293975",
-      "title": "广汽埃安N60预售开启，15万内享L4级智驾，续航610km！",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293972",
-      "title": "小米汽车“百色计划”启动，新一代SU7三款车漆亮相",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293965",
-      "title": "新款比亚迪海豹06旅行版上市 售价11.19万起",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/293964",
-      "title": "新款海豹06GT正式上市 售价12.89-16.99万元",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293977",
-      "title": "特斯拉Model 3全球销量破300万，中国充电网络再升级",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293976",
-      "title": "猛士M817电动越野车限时钜惠，最高59999元购车礼遇来袭！",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293973",
-      "title": "阿里巴巴Wan2.7-Image革新AI生图，精准色彩控制引领创作新潮流",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293970",
-      "title": "凯翼拾月Max开启预订，4万级纯电小车续航310km！",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293966",
-      "title": "甲骨文裁员风暴来袭：AI部门成新宠，软件开发部门受冲击",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293967",
-      "title": "风挡变身光影屏！经纬恒润P-HUD喜获国际头部车企平台项目定点！",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293974",
-      "title": "乐道L90激光雷达版即将发布，智能驾驶体验全面升级",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/293971",
-      "title": "比亚迪腾势Z9/Z9GT OTA升级：智能驾驶新突破，车家互联更便捷",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293968",
-      "title": "意优科技机器人关节智造基地落户锡山",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/293963",
-      "title": "曝雷诺董事长将于2027年卸任",
-      "source": "第一电动",
-      "pushedAt": 1775134878097
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/293984",
       "title": "2026款小鹏MONA M03正式上市 售价11.98万起",
@@ -5473,6 +5413,150 @@
       "title": "长安逸动蓝鲸超擎混动版下线，百公里油耗仅2.98L",
       "source": "第一电动",
       "pushedAt": 1775732143174
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294634",
+      "title": "智己L6纯电轿车亮相：多版本动力可选，最高时速268km/h",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294632",
+      "title": "奇瑞风云A9增程版轿车亮相：5座大空间，纯电续航175km，油耗仅1.01L/100km",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294631",
+      "title": "红旗H7新轿车亮相工信部：1.5T插混动力，家族设计焕新颜",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294630",
+      "title": "哈弗新旗舰方正SUV曝光：1.5T/2.0T插混动力，尺寸超5米",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294628",
+      "title": "长安启源Q06E中型SUV亮相：225千瓦单电机+磷酸铁锂电池",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294627",
+      "title": "“捷途旅行者PLUS系列开启预售，18.99万起，2.0T+8AT动力强劲”",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294625",
+      "title": "华晨宝马iX3长轴距版申报完成，800V架构电驱技术上半年上市",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294624",
+      "title": "13.98万元起，吉利银河M7正式开启全球预售",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294622",
+      "title": "魏牌V8X/V9X新车型亮相：大五座设计，续航超300km！",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294621",
+      "title": "小鹏L03纯电SUV亮相：15万起，500km续航，1500TOPS算力！",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294620",
+      "title": "理想L8Livis亮相！轴距超3米，纯电续航335公里，增程式新选择",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294619",
+      "title": "2027上海车展明春4月精彩亮相",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294617",
+      "title": "广汽埃安启境GT7亮相工信部：5座新能源轿跑，峰值功率250kW",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294616",
+      "title": "比亚迪腾势Z9纯电轿车亮相：5座设计，最高时速270km/h！",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294615",
+      "title": "小鹏MONA L03 SUV曝光：2026年发布，动感溜背设计，续航180km/h",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294614",
+      "title": "奔驰S级轿车中国首秀，纯电GLC SUV全球亮相，科技豪华新标杆",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294613",
+      "title": "启境GT7猎装轿跑6月上市，800V高压快充1秒1公里！",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294623",
+      "title": "理想L8变身大五座，旗舰SUV三季度交付，续航343km",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294612",
+      "title": "3月乘用车零售同比下滑15%，自主分化、出口亮眼",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294635",
+      "title": "蔚来ES9震撼发布，6座旗舰SUV挑战MPV市场新格局！",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294633",
+      "title": "驾驶辅助订阅席卷车市，为何用户不愿买单？",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294629",
+      "title": "蔚来ES9震撼发布：足底按摩+智能隐私车窗，豪华纯电SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294626",
+      "title": "小米YU7推新入门级版本，重量减轻性能升级！",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294618",
+      "title": "小米SU7顶配辅助驾驶：激光雷达+4D雷达，全方位感知新突破",
+      "source": "第一电动",
+      "pushedAt": 1775740537048
     }
   ],
   "lastUpdated": "2026-04-09"
