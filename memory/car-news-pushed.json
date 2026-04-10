@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292576",
-    "https://www.d1ev.com/news/shichang/292575",
-    "https://www.d1ev.com/news/shichang/292572",
-    "https://www.d1ev.com/news/qiye/292571",
-    "https://www.d1ev.com/newsflash/292569",
-    "https://www.d1ev.com/news/shichang/292563",
-    "https://www.d1ev.com/newsflash/292603",
-    "https://www.d1ev.com/news/shichang/292602",
-    "https://www.d1ev.com/news/shichang/292600",
     "https://www.d1ev.com/newsflash/292599",
     "https://www.d1ev.com/newsflash/292598",
     "https://www.d1ev.com/news/qiye/292596",
@@ -1999,51 +1990,18 @@
     "https://www.d1ev.com/newsflash/294793",
     "https://www.d1ev.com/newsflash/294797",
     "https://www.d1ev.com/newsflash/294794",
-    "https://www.d1ev.com/newsflash/294791"
+    "https://www.d1ev.com/newsflash/294791",
+    "https://www.d1ev.com/newsflash/294812",
+    "https://www.d1ev.com/newsflash/294810",
+    "https://www.d1ev.com/newsflash/294809",
+    "https://www.d1ev.com/newsflash/294808",
+    "https://www.d1ev.com/newsflash/294807",
+    "https://www.d1ev.com/newsflash/294806",
+    "https://www.d1ev.com/newsflash/294805",
+    "https://www.d1ev.com/newsflash/294804",
+    "https://www.d1ev.com/newsflash/294811"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/294087",
-      "title": "翰昂系统为电动汽车提供高度集成的冷却系统",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294086",
-      "title": "韩路：理想5C超充 是我用过稳定性最高的5C充电系统和电池",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294090",
-      "title": "小米：新SU7拆车直播拆的是量产车 后续组装仅用内部测试",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294089",
-      "title": "车窗变留言板 通用汽车申请通信系统专利",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294088",
-      "title": "特斯拉申请线控转向系统专利 使方向盘旋转范围“翻倍”",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294085",
-      "title": "11.98万元起，小鹏MONA M03上新，何小鹏：不碰10万元以内的车，有规模但价值太小了",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294084",
-      "title": "福特智趣烈马春日大促：购车送12000元升顶套装，综合优惠高达6.5万！",
-      "source": "第一电动",
-      "pushedAt": 1775227151111
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/294098",
       "title": "极氪001五周年纪念版更多信息曝光",
@@ -5961,6 +5919,60 @@
       "title": "亿咖通科技全面接管FlymeOS，吉利集团智能出行生态再升级",
       "source": "第一电动",
       "pushedAt": 1775825940611
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294812",
+      "title": "奥迪A6Le-tron震撼上市！800V高压电架构，续航高达815km",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294810",
+      "title": "奥迪A6Le-tron震撼上市，续航815公里快充20分钟！",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294809",
+      "title": "极氪001五周年纪念版震撼上市，36.5万起售，性能与豪华并存！",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294808",
+      "title": "腾势N8L闪充版预售开启！35万起，430公里纯电续航+5分钟快充",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294807",
+      "title": "魏牌新摩卡Hi4Max版上市！18.58万起，4.7秒破百，纯电续航165公里",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294806",
+      "title": "广汽昊铂S600官图发布，中大型轿跑SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294805",
+      "title": "奥迪Q6Le-tron家族上市，续航高达709公里，支持270kW快充！",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294804",
+      "title": "长城魏牌V9X标轴版4月16日预售，4秒级加速混动新标杆",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294811",
+      "title": "北汽极狐问道V9：1330公里续航，15分钟快充，高端MPV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1775832230171
     }
   ],
   "lastUpdated": "2026-04-10"
