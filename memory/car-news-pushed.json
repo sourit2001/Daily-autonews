@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292599",
-    "https://www.d1ev.com/newsflash/292598",
     "https://www.d1ev.com/news/qiye/292596",
     "https://www.d1ev.com/news/qiye/292595",
     "https://www.d1ev.com/news/shichang/292594",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/294806",
     "https://www.d1ev.com/newsflash/294805",
     "https://www.d1ev.com/newsflash/294804",
-    "https://www.d1ev.com/newsflash/294811"
+    "https://www.d1ev.com/newsflash/294811",
+    "https://www.d1ev.com/newsflash/294826",
+    "https://www.d1ev.com/newsflash/294825"
   ],
   "newsHistory": [
     {
@@ -5973,7 +5973,19 @@
       "title": "北汽极狐问道V9：1330公里续航，15分钟快充，高端MPV新标杆",
       "source": "第一电动",
       "pushedAt": 1775832230171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294826",
+      "title": "奥迪Q6Le-tron系列新车型上市，售价26.98万起，CLTC续航高达672km",
+      "source": "第一电动",
+      "pushedAt": 1775839450270
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294825",
+      "title": "小米汽车XLA架构揭秘：智能驾驶技术新突破，模拟驾驶场景提升辅助驾驶能力",
+      "source": "第一电动",
+      "pushedAt": 1775839450270
     }
   ],
-  "lastUpdated": "2026-04-10"
+  "lastUpdated": "2026-04-11"
 }
