@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292656",
-    "https://www.d1ev.com/news/shichang/292649",
-    "https://www.d1ev.com/news/qiye/292648",
-    "https://www.d1ev.com/news/shichang/292646",
-    "https://www.d1ev.com/newsflash/292663",
-    "https://www.d1ev.com/newsflash/292661",
     "https://www.d1ev.com/newsflash/292660",
     "https://www.d1ev.com/newsflash/292659",
     "https://www.d1ev.com/news/shichang/292658",
@@ -1999,15 +1993,15 @@
     "https://www.d1ev.com/newsflash/294882",
     "https://www.d1ev.com/newsflash/294881",
     "https://www.d1ev.com/newsflash/294887",
-    "https://www.d1ev.com/newsflash/294884"
+    "https://www.d1ev.com/newsflash/294884",
+    "https://www.d1ev.com/newsflash/294895",
+    "https://www.d1ev.com/newsflash/294894",
+    "https://www.d1ev.com/newsflash/294891",
+    "https://www.d1ev.com/newsflash/294893",
+    "https://www.d1ev.com/newsflash/294892",
+    "https://www.d1ev.com/newsflash/294890"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294106",
-      "title": "问界M6预售24小时订单破6万，增程纯电双版本来袭！",
-      "source": "第一电动",
-      "pushedAt": 1775298428882
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294119",
       "title": "小鹏MONA 2026款上市：11.98万起，智能驾驶全覆盖，续航640公里",
@@ -6273,6 +6267,42 @@
       "title": "长安汽车赵非：汽车产业竞争转向生态价值，3月销量环比大增",
       "source": "第一电动",
       "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294895",
+      "title": "鸿蒙SUV问界M6预售破10万，年轻家庭新宠儿！",
+      "source": "第一电动",
+      "pushedAt": 1775903381103
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294894",
+      "title": "华为与卓驭CEO激辩智驾演进方向：L3是必经之路还是可以跨越？",
+      "source": "第一电动",
+      "pushedAt": 1775903381103
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294891",
+      "title": "问界汽车五年突破百万用户，充电行驶里程占比超70%",
+      "source": "第一电动",
+      "pushedAt": 1775903381103
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294893",
+      "title": "问界M6预订破10万！26.98万起售，华为激光雷达加持",
+      "source": "第一电动",
+      "pushedAt": 1775903381103
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294892",
+      "title": "京东联手新主机厂打造国民好车，4月13日揭晓！",
+      "source": "第一电动",
+      "pushedAt": 1775903381103
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294890",
+      "title": "广汽海尔强强联手，共筑“人车家”智慧生态新篇章",
+      "source": "第一电动",
+      "pushedAt": 1775903381103
     }
   ],
   "lastUpdated": "2026-04-11"
