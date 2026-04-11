@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292681",
     "https://www.d1ev.com/news/shichang/292674",
     "https://www.d1ev.com/newsflash/292680",
     "https://www.d1ev.com/news/shichang/292677",
@@ -1999,69 +1998,10 @@
     "https://www.d1ev.com/newsflash/294901",
     "https://www.d1ev.com/newsflash/294900",
     "https://www.d1ev.com/newsflash/294905",
-    "https://www.d1ev.com/newsflash/294902"
+    "https://www.d1ev.com/newsflash/294902",
+    "https://www.d1ev.com/news/shichang/294913"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294119",
-      "title": "小鹏MONA 2026款上市：11.98万起，智能驾驶全覆盖，续航640公里",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294116",
-      "title": "奥迪A6Le-tron预售开启：华为智驾加持，31.3万起售",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294122",
-      "title": "4亿美元收购AI生物技术公司，Anthropic加速新药研发进程",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294121",
-      "title": "千问AI眼镜携手蚂蚁GPASS，语音解锁骑行停车新体验",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294118",
-      "title": "茅盾文学奖得主刘亮程怒斥AI仿写侵权：文学创作岂容机器篡改！",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294115",
-      "title": "小鹏集团转型科技公司，何小鹏预言未来10年新能源智能变革",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294114",
-      "title": "工信部联手供销社，电动自行车锂电池回收体系升级！",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294120",
-      "title": "奥迪E5 Sportback全景驾驶升级，智能辅助功能大爆发",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294117",
-      "title": "华为汽车业务2025年营收激增72.1%，智能汽车解决方案成增长引擎",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294113",
-      "title": "深圳夜间路权开放！京东无人车跨区配送迈入新阶段",
-      "source": "第一电动",
-      "pushedAt": 1775320163997
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/294126",
       "title": "华为智驾+匈牙利电机 奥迪A6L纯电版将上市：预售31.3万起",
@@ -6393,7 +6333,13 @@
       "title": "理想汽车强硬反击：将追责恶意比对帖文幕后黑手",
       "source": "第一电动",
       "pushedAt": 1775917993135
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294913",
+      "title": "智能电动2026｜廉玉波：新能源汽车产业确定性与不确定性并存，技术创新锚定用户真实体验",
+      "source": "第一电动",
+      "pushedAt": 1775932580848
     }
   ],
-  "lastUpdated": "2026-04-11"
+  "lastUpdated": "2026-04-12"
 }
