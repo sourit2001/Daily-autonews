@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292612",
-    "https://www.d1ev.com/carnews/xinche/292611",
-    "https://www.d1ev.com/newsflash/292607",
-    "https://www.d1ev.com/carnews/xinche/292606",
-    "https://www.d1ev.com/newsflash/292604",
-    "https://www.d1ev.com/newsflash/292615",
-    "https://www.d1ev.com/newsflash/292614",
-    "https://www.d1ev.com/newsflash/292609",
-    "https://www.d1ev.com/newsflash/292608",
-    "https://www.d1ev.com/newsflash/292605",
-    "https://www.d1ev.com/news/shichang/292613",
-    "https://www.d1ev.com/news/shichang/292610",
-    "https://www.d1ev.com/newsflash/292645",
-    "https://www.d1ev.com/newsflash/292643",
-    "https://www.d1ev.com/newsflash/292640",
     "https://www.d1ev.com/newsflash/292639",
     "https://www.d1ev.com/newsflash/292638",
     "https://www.d1ev.com/newsflash/292630",
@@ -1999,21 +1984,24 @@
     "https://www.d1ev.com/carnews/xinche/294833",
     "https://www.d1ev.com/newsflash/294830",
     "https://www.d1ev.com/newsflash/294829",
-    "https://www.d1ev.com/news/shichang/294828"
+    "https://www.d1ev.com/news/shichang/294828",
+    "https://www.d1ev.com/newsflash/294856",
+    "https://www.d1ev.com/news/shichang/294854",
+    "https://www.d1ev.com/news/shichang/294853",
+    "https://www.d1ev.com/newsflash/294852",
+    "https://www.d1ev.com/newsflash/294851",
+    "https://www.d1ev.com/newsflash/294850",
+    "https://www.d1ev.com/news/shichang/294849",
+    "https://www.d1ev.com/newsflash/294848",
+    "https://www.d1ev.com/newsflash/294847",
+    "https://www.d1ev.com/newsflash/294846",
+    "https://www.d1ev.com/news/shichang/294845",
+    "https://www.d1ev.com/newsflash/294844",
+    "https://www.d1ev.com/news/shichang/294842",
+    "https://www.d1ev.com/newsflash/294855",
+    "https://www.d1ev.com/newsflash/294843"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294100",
-      "title": "比亚迪宋UltraEV首周订单破3.7万，续航710km新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775275948326
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294101",
-      "title": "特斯拉一季度库存超过5万辆 与Model 3和Model Y有关",
-      "source": "第一电动",
-      "pushedAt": 1775275948326
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/294103",
       "title": "比亚迪2026款海豹06GT上市即交付",
@@ -6027,6 +6015,96 @@
       "title": "广汽集团与海尔集团战略签约",
       "source": "第一电动",
       "pushedAt": 1775872269061
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294856",
+      "title": "长安汽车遭起诉：网约车电池故障频发，损失超千万",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294854",
+      "title": "李斌：蔚来高峰时一年要买3亿美元的英伟达芯片",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294853",
+      "title": "智能电动2026 | 国家制造强国建设战略咨询委副主任，工业和信息化部原党组副书记、副部长 苏波：“十五五”是新能源汽车发展重要转折期",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294852",
+      "title": "蔚来自研芯片省下数亿成本，智能驾驶芯片“神玑NX9031”流片成功",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294851",
+      "title": "“长安汽车回应网约车电池故障争议：将坚决维权”",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294850",
+      "title": "蔚来自研5nm智驾芯片神玑NX9031全面上车，性能超英伟达Orin-X四倍！",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294849",
+      "title": "李斌：电池标准化与芯片归一化可为行业提供超千亿元降本机会",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294848",
+      "title": "李斌：蔚来专注自动驾驶技术，不入局Robotaxi市场",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294847",
+      "title": "2030年新能源汽车市场占比超70%，中国有望提前建成汽车强国",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294846",
+      "title": "博世高通联手突破千万套车载电脑，2028年自动驾驶车将上路",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294845",
+      "title": "欧阳明高：新能源汽车生产力革命催生五大生产关系变革模式",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294844",
+      "title": "特斯拉引领风潮！自动驾驶订阅制成车市新宠",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294842",
+      "title": "欧阳明高：新能源汽车行业正从“卷价格”转向“卷价值”",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294855",
+      "title": "华为不做车，要做汽车产业的“电子螺丝钉”！",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294843",
+      "title": "F1新混动规则引争议，FIA紧急会议拟修复缺陷",
+      "source": "第一电动",
+      "pushedAt": 1775881106609
     }
   ],
   "lastUpdated": "2026-04-11"
