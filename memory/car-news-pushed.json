@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292660",
-    "https://www.d1ev.com/newsflash/292659",
-    "https://www.d1ev.com/news/shichang/292658",
-    "https://www.d1ev.com/newsflash/292657",
     "https://www.d1ev.com/newsflash/292664",
     "https://www.d1ev.com/newsflash/292662",
     "https://www.d1ev.com/carnews/xinche/292679",
@@ -1999,7 +1995,11 @@
     "https://www.d1ev.com/newsflash/294891",
     "https://www.d1ev.com/newsflash/294893",
     "https://www.d1ev.com/newsflash/294892",
-    "https://www.d1ev.com/newsflash/294890"
+    "https://www.d1ev.com/newsflash/294890",
+    "https://www.d1ev.com/newsflash/294896",
+    "https://www.d1ev.com/news/shichang/294899",
+    "https://www.d1ev.com/news/shichang/294898",
+    "https://www.d1ev.com/newsflash/294897"
   ],
   "newsHistory": [
     {
@@ -6303,6 +6303,30 @@
       "title": "广汽海尔强强联手，共筑“人车家”智慧生态新篇章",
       "source": "第一电动",
       "pushedAt": 1775903381103
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294896",
+      "title": "汽车行业竞争加剧，蔚来李斌：新车难热销超一年",
+      "source": "第一电动",
+      "pushedAt": 1775911419588
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294899",
+      "title": "智能电动2026｜李克强：车路云一体化可破解智能安全瓶颈等问题",
+      "source": "第一电动",
+      "pushedAt": 1775911419588
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294898",
+      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
+      "source": "第一电动",
+      "pushedAt": 1775911419588
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294897",
+      "title": "京东联手长安深蓝，4月13日揭晓国民好车新合作！",
+      "source": "第一电动",
+      "pushedAt": 1775911419588
     }
   ],
   "lastUpdated": "2026-04-11"
