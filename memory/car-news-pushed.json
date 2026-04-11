@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292618",
-    "https://www.d1ev.com/news/qiye/292616",
-    "https://www.d1ev.com/newsflash/292655",
-    "https://www.d1ev.com/newsflash/292654",
-    "https://www.d1ev.com/newsflash/292653",
-    "https://www.d1ev.com/newsflash/292652",
-    "https://www.d1ev.com/newsflash/292651",
-    "https://www.d1ev.com/newsflash/292650",
-    "https://www.d1ev.com/news/shichang/292647",
     "https://www.d1ev.com/newsflash/292656",
     "https://www.d1ev.com/news/shichang/292649",
     "https://www.d1ev.com/news/qiye/292648",
@@ -1999,21 +1990,18 @@
     "https://www.d1ev.com/news/shichang/294866",
     "https://www.d1ev.com/news/shichang/294865",
     "https://www.d1ev.com/newsflash/294863",
-    "https://www.d1ev.com/news/qiye/294859"
+    "https://www.d1ev.com/news/qiye/294859",
+    "https://www.d1ev.com/newsflash/294889",
+    "https://www.d1ev.com/newsflash/294888",
+    "https://www.d1ev.com/newsflash/294886",
+    "https://www.d1ev.com/newsflash/294885",
+    "https://www.d1ev.com/carnews/xinche/294883",
+    "https://www.d1ev.com/newsflash/294882",
+    "https://www.d1ev.com/newsflash/294881",
+    "https://www.d1ev.com/newsflash/294887",
+    "https://www.d1ev.com/newsflash/294884"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/294104",
-      "title": "特斯拉全球超级充电桩迈上新台阶 已突破80000根",
-      "source": "第一电动",
-      "pushedAt": 1775291683000
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294105",
-      "title": "理想被大货车拖行20米后全员毫发无伤 车主：下辆还选理想",
-      "source": "第一电动",
-      "pushedAt": 1775291683000
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294106",
       "title": "问界M6预售24小时订单破6万，增程纯电双版本来袭！",
@@ -6231,6 +6219,60 @@
       "title": "专家称超充闪充是在安全边界游走：需要特别注意",
       "source": "第一电动",
       "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294889",
+      "title": "苹果数字车钥匙功能将扩展至雷克萨斯新车型",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294888",
+      "title": "普京强调：俄罗斯AI发展须自主可控，2030年全面应用",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294886",
+      "title": "中国首颗舱驾融合芯片“星空”将发布，车企成本大降",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294885",
+      "title": "Framework CEO警告：AI浪潮或终结个人计算时代",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294883",
+      "title": "一季度新能源汽车出口暴增130%，广汽董事长：出海下半场核心有2件事",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294882",
+      "title": "比亚迪廉玉波：新能源汽车产业迎来“四化”新阶段",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294881",
+      "title": "2030年新能源车将占市场70%，县级市场渗透率不足20%",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294887",
+      "title": "长城哈弗方盒子征名投票开启，12佳候选名揭晓！",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294884",
+      "title": "长安汽车赵非：汽车产业竞争转向生态价值，3月销量环比大增",
+      "source": "第一电动",
+      "pushedAt": 1775896637313
     }
   ],
   "lastUpdated": "2026-04-11"
