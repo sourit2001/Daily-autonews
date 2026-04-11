@@ -1,28 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292639",
-    "https://www.d1ev.com/newsflash/292638",
-    "https://www.d1ev.com/newsflash/292630",
-    "https://www.d1ev.com/newsflash/292629",
-    "https://www.d1ev.com/newsflash/292627",
-    "https://www.d1ev.com/newsflash/292626",
-    "https://www.d1ev.com/newsflash/292619",
-    "https://www.d1ev.com/newsflash/292644",
-    "https://www.d1ev.com/news/shichang/292617",
-    "https://www.d1ev.com/newsflash/292637",
-    "https://www.d1ev.com/newsflash/292622",
-    "https://www.d1ev.com/newsflash/292642",
-    "https://www.d1ev.com/news/shichang/292641",
-    "https://www.d1ev.com/newsflash/292636",
-    "https://www.d1ev.com/newsflash/292633",
-    "https://www.d1ev.com/newsflash/292632",
-    "https://www.d1ev.com/newsflash/292631",
-    "https://www.d1ev.com/newsflash/292628",
-    "https://www.d1ev.com/news/shichang/292625",
-    "https://www.d1ev.com/newsflash/292624",
-    "https://www.d1ev.com/newsflash/292623",
-    "https://www.d1ev.com/newsflash/292621",
-    "https://www.d1ev.com/news/shichang/292620",
     "https://www.d1ev.com/newsflash/292618",
     "https://www.d1ev.com/news/qiye/292616",
     "https://www.d1ev.com/newsflash/292655",
@@ -1999,21 +1976,32 @@
     "https://www.d1ev.com/newsflash/294844",
     "https://www.d1ev.com/news/shichang/294842",
     "https://www.d1ev.com/newsflash/294855",
-    "https://www.d1ev.com/newsflash/294843"
+    "https://www.d1ev.com/newsflash/294843",
+    "https://www.d1ev.com/newsflash/294879",
+    "https://www.d1ev.com/newsflash/294874",
+    "https://www.d1ev.com/newsflash/294873",
+    "https://www.d1ev.com/news/shichang/294867",
+    "https://www.d1ev.com/newsflash/294861",
+    "https://www.d1ev.com/newsflash/294878",
+    "https://www.d1ev.com/newsflash/294876",
+    "https://www.d1ev.com/newsflash/294872",
+    "https://www.d1ev.com/newsflash/294870",
+    "https://www.d1ev.com/newsflash/294869",
+    "https://www.d1ev.com/newsflash/294862",
+    "https://www.d1ev.com/news/shichang/294860",
+    "https://www.d1ev.com/news/qiye/294858",
+    "https://www.d1ev.com/newsflash/294864",
+    "https://www.d1ev.com/newsflash/294880",
+    "https://www.d1ev.com/newsflash/294877",
+    "https://www.d1ev.com/newsflash/294875",
+    "https://www.d1ev.com/newsflash/294871",
+    "https://www.d1ev.com/newsflash/294868",
+    "https://www.d1ev.com/news/shichang/294866",
+    "https://www.d1ev.com/news/shichang/294865",
+    "https://www.d1ev.com/newsflash/294863",
+    "https://www.d1ev.com/news/qiye/294859"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/294103",
-      "title": "比亚迪2026款海豹06GT上市即交付",
-      "source": "第一电动",
-      "pushedAt": 1775285626850
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294102",
-      "title": "比亚迪2026款海豹06GT启动交付，全国展车已到店",
-      "source": "第一电动",
-      "pushedAt": 1775285626850
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/294104",
       "title": "特斯拉全球超级充电桩迈上新台阶 已突破80000根",
@@ -6105,6 +6093,144 @@
       "title": "F1新混动规则引争议，FIA紧急会议拟修复缺陷",
       "source": "第一电动",
       "pushedAt": 1775881106609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294879",
+      "title": "梅赛德斯-AMG CLA Shooting Brake EQ电动旅行车曝光：500马力+高性能套件",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294874",
+      "title": "蔚来乐道L90搭载神玑NX9031芯片，4月21日上市",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294873",
+      "title": "嘉兴交警新装备亮相：智能无人车巡逻高速，空中鹰眼守护安全",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294867",
+      "title": "型于外 智于心 新奢智电旗舰奥迪A6L e-tron正式上市",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294861",
+      "title": "鸿蒙智行春季新品来袭，问界M6/尚界Z7家族亮相，预售订单火爆！",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294878",
+      "title": "加州太阳能快充站免费开放，未来充电站新趋势？",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294876",
+      "title": "特斯拉Semi新电池技术：垂直堆叠4680电池，抗寒续航提升",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294872",
+      "title": "OpenAI紧急更新：苹果Mac用户需立即升级ChatGPT等应用防安全漏洞",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294870",
+      "title": "华为靳玉志：2026年或成全球自动驾驶元年，不造车专注赋能",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294869",
+      "title": "华为副总裁：2026年或成全球自动驾驶元年，L3是必经阶段",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294862",
+      "title": "长安汽车2025年销量创新高：新能源销量翻倍 海外市场激增",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294860",
+      "title": "智能电动2026 | 吉利控股集团高级副总裁 杨学良：吉利以极氪为先锋实现价值领航",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294858",
+      "title": "智能电动2026 | 广汽集团党委书记、董事长 冯兴亚：竞争逻辑已变，广汽将从规模扩张转向价值深耕",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294864",
+      "title": "吉利i-HEV混动技术4月13日发布，目标超越日系混动，出口目标上调至75万辆",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294880",
+      "title": "岚图董事长卢放：智能驾驶体验不应被数字绑架",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294877",
+      "title": "阿里巴巴实习生招聘火爆，北京学子挤爆宣讲会现场",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294875",
+      "title": "岚图董事长卢放：与华为合作默契，保持独立发展是关键",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294871",
+      "title": "滴滴Robotaxi服务落地广州，7×24小时全无人出行成现实",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294868",
+      "title": "“岚图汽车卢放：技术创新和管理提效应对原材料涨价挑战”",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294866",
+      "title": "XPANCEO公司开发高精度被动式眼动追踪技术 用于智能隐形眼镜",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294865",
+      "title": "智电向新而行 进取再启新篇 一汽奥迪智电科技日暨智电旗舰新品发布会在长春举行",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294863",
+      "title": "华为不造车，要做智能汽车时代的“电子螺丝钉”",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/294859",
+      "title": "专家称超充闪充是在安全边界游走：需要特别注意",
+      "source": "第一电动",
+      "pushedAt": 1775890632147
     }
   ],
   "lastUpdated": "2026-04-11"
