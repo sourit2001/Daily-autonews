@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292760",
-    "https://www.d1ev.com/news/shichang/292757",
-    "https://www.d1ev.com/newsflash/292756",
     "https://www.d1ev.com/news/shichang/292744",
     "https://www.d1ev.com/newsflash/292753",
     "https://www.d1ev.com/news/qiye/292746",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/294977",
     "https://www.d1ev.com/newsflash/294973",
     "https://www.d1ev.com/newsflash/294971",
-    "https://www.d1ev.com/newsflash/294969"
+    "https://www.d1ev.com/newsflash/294969",
+    "https://www.d1ev.com/newsflash/294982",
+    "https://www.d1ev.com/news/shichang/294981",
+    "https://www.d1ev.com/newsflash/294980"
   ],
   "newsHistory": [
     {
@@ -6639,6 +6639,24 @@
       "title": "蔚来换电站成本优势明显，2026年计划新建1000座换电站",
       "source": "第一电动",
       "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294982",
+      "title": "“无人车助力快递业升级：6亿美元融资聚焦AI，青岛无人配送车将增至3000辆”",
+      "source": "第一电动",
+      "pushedAt": 1776004604680
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294981",
+      "title": "爱芯元智以开放生态定义智驾普惠方案",
+      "source": "第一电动",
+      "pushedAt": 1776004604680
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294980",
+      "title": "芯片价格飙升，汽车成本激增数千元，车企成本管控面临挑战",
+      "source": "第一电动",
+      "pushedAt": 1776004604680
     }
   ],
   "lastUpdated": "2026-04-12"
