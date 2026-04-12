@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/292702",
-    "https://www.d1ev.com/newsflash/292701",
-    "https://www.d1ev.com/news/shichang/292696",
-    "https://www.d1ev.com/news/shichang/292695",
-    "https://www.d1ev.com/newsflash/292694",
-    "https://www.d1ev.com/news/qiye/292693",
     "https://www.d1ev.com/newsflash/292736",
     "https://www.d1ev.com/newsflash/292718",
     "https://www.d1ev.com/newsflash/292739",
@@ -1999,15 +1993,15 @@
     "https://www.d1ev.com/carnews/xinche/294928",
     "https://www.d1ev.com/newsflash/294927",
     "https://www.d1ev.com/newsflash/294925",
-    "https://www.d1ev.com/newsflash/294923"
+    "https://www.d1ev.com/newsflash/294923",
+    "https://www.d1ev.com/newsflash/294951",
+    "https://www.d1ev.com/newsflash/294950",
+    "https://www.d1ev.com/newsflash/294949",
+    "https://www.d1ev.com/newsflash/294944",
+    "https://www.d1ev.com/newsflash/294943",
+    "https://www.d1ev.com/newsflash/294945"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/294127",
-      "title": "特斯拉严打“FSD越狱”：用户将承担事故全责并失去保修",
-      "source": "第一电动",
-      "pushedAt": 1775372338177
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294129",
       "title": "小鹏X9香港上市799900港元起，续航750km+5C超充AI电池",
@@ -6489,6 +6483,42 @@
       "title": "岚图董事长卢放：原材料涨价或推高车价，华为合作助力智能驾驶发展",
       "source": "第一电动",
       "pushedAt": 1775973199176
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294951",
+      "title": "英国34亿巨资助力塔塔集团建欧洲最大电池厂，捷豹路虎将受益",
+      "source": "第一电动",
+      "pushedAt": 1775977652705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294950",
+      "title": "长城汽车智能化转型：AI智能体化引领未来出行新趋势",
+      "source": "第一电动",
+      "pushedAt": 1775977652705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294949",
+      "title": "宝马iX3 M60xDrive 2027年投产，双电机620-630马力，10分钟充电300公里续航",
+      "source": "第一电动",
+      "pushedAt": 1775977652705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294944",
+      "title": "美国大学研发新型凯夫拉锌电池 低成本高安全储能新选择",
+      "source": "第一电动",
+      "pushedAt": 1775977652705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294943",
+      "title": "三一重卡电动化领先：新能源重卡销量连续四年居首",
+      "source": "第一电动",
+      "pushedAt": 1775977652705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294945",
+      "title": "理想汽车李想怒斥“日系品牌黑水军”：反内卷成果遭破坏",
+      "source": "第一电动",
+      "pushedAt": 1775977652705
     }
   ],
   "lastUpdated": "2026-04-12"
