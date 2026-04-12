@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/292735",
-    "https://www.d1ev.com/news/shichang/292733",
-    "https://www.d1ev.com/news/shichang/292731",
-    "https://www.d1ev.com/news/shichang/292730",
-    "https://www.d1ev.com/news/shichang/292727",
-    "https://www.d1ev.com/carnews/xinche/292725",
-    "https://www.d1ev.com/newsflash/292719",
-    "https://www.d1ev.com/newsflash/292762",
-    "https://www.d1ev.com/carnews/xinche/292752",
-    "https://www.d1ev.com/carnews/xinche/292749",
-    "https://www.d1ev.com/newsflash/292761",
     "https://www.d1ev.com/newsflash/292760",
     "https://www.d1ev.com/news/shichang/292757",
     "https://www.d1ev.com/newsflash/292756",
@@ -1999,27 +1988,20 @@
     "https://www.d1ev.com/newsflash/294967",
     "https://www.d1ev.com/newsflash/294966",
     "https://www.d1ev.com/newsflash/294965",
-    "https://www.d1ev.com/news/shichang/294961"
+    "https://www.d1ev.com/news/shichang/294961",
+    "https://www.d1ev.com/newsflash/294970",
+    "https://www.d1ev.com/news/shichang/294978",
+    "https://www.d1ev.com/newsflash/294976",
+    "https://www.d1ev.com/newsflash/294975",
+    "https://www.d1ev.com/newsflash/294974",
+    "https://www.d1ev.com/news/shichang/294972",
+    "https://www.d1ev.com/newsflash/294979",
+    "https://www.d1ev.com/newsflash/294977",
+    "https://www.d1ev.com/newsflash/294973",
+    "https://www.d1ev.com/newsflash/294971",
+    "https://www.d1ev.com/newsflash/294969"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294135",
-      "title": "阿维塔06T即将预售，搭载华为896线激光雷达，全场景运动轿车来袭",
-      "source": "第一电动",
-      "pushedAt": 1775393035117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294134",
-      "title": "消息称Meta正秘密组建超级智能硬件团队，打造多形态AI智能体生态",
-      "source": "第一电动",
-      "pushedAt": 1775393035117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294133",
-      "title": "中东战火推高油价至110美元以上，中国电动车全球需求激增",
-      "source": "第一电动",
-      "pushedAt": 1775393035117
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/294152",
       "title": "匈牙利进口电机 奥迪A6L e-tron上市定档",
@@ -6591,6 +6573,72 @@
       "title": "小智一周要闻 | 理想系高管联手再创业；具身智能十亿融资再添两单",
       "source": "第一电动",
       "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294970",
+      "title": "中国特种机器人技术突破：智能工兵、海缆探测、智能平仓机器人亮相实际应用",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294978",
+      "title": "智能电动2026 |智能电动汽车发展高层论坛首日大咖云集，共话“十五五”汽车产业发展新趋势",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294976",
+      "title": "广汽丰田三月三冠王：新能源、MPV、中型轿车销量领跑",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294975",
+      "title": "阿里云桌面Agent CoPaw升级更名QwenPaw，打造个性化AI助手新生态",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294974",
+      "title": "特斯拉Model S/X Plaid签名版限量发售，售价超百万元！",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294972",
+      "title": "智能电动2026 | 轻舟智航联合创始人、董事长兼CEO于骞：物理AI，智驾的下一个战场",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294979",
+      "title": "宇通李高鹏：大客车不宜无人驾驶，人机共驾更安全",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294977",
+      "title": "智能驾驶市场规模超千亿，城市NOA用户黏性仅两成",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294973",
+      "title": "华为问界M系列升级激光雷达，1万元提升智能驾驶体验",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294971",
+      "title": "智能汽车发展论坛聚焦：行业需打破壁垒，共筑智能化未来",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294969",
+      "title": "蔚来换电站成本优势明显，2026年计划新建1000座换电站",
+      "source": "第一电动",
+      "pushedAt": 1775998272981
     }
   ],
   "lastUpdated": "2026-04-12"
