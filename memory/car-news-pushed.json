@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/292744",
     "https://www.d1ev.com/newsflash/292753",
     "https://www.d1ev.com/news/qiye/292746",
     "https://www.d1ev.com/news/shichang/292758",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/294969",
     "https://www.d1ev.com/newsflash/294982",
     "https://www.d1ev.com/news/shichang/294981",
-    "https://www.d1ev.com/newsflash/294980"
+    "https://www.d1ev.com/newsflash/294980",
+    "https://www.d1ev.com/newsflash/294989"
   ],
   "newsHistory": [
     {
@@ -6657,7 +6657,13 @@
       "title": "芯片价格飙升，汽车成本激增数千元，车企成本管控面临挑战",
       "source": "第一电动",
       "pushedAt": 1776004604680
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294989",
+      "title": "广汽科技日：星源动力系统获十佳，国产芯片车规级生态新突破",
+      "source": "第一电动",
+      "pushedAt": 1776019132760
     }
   ],
-  "lastUpdated": "2026-04-12"
+  "lastUpdated": "2026-04-13"
 }
