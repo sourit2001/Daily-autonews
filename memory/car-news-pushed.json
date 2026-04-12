@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/292674",
-    "https://www.d1ev.com/newsflash/292680",
-    "https://www.d1ev.com/news/shichang/292677",
-    "https://www.d1ev.com/news/shichang/292673",
-    "https://www.d1ev.com/newsflash/292670",
-    "https://www.d1ev.com/newsflash/292669",
-    "https://www.d1ev.com/newsflash/292668",
-    "https://www.d1ev.com/newsflash/292688",
-    "https://www.d1ev.com/newsflash/292687",
     "https://www.d1ev.com/newsflash/292690",
     "https://www.d1ev.com/newsflash/292691",
     "https://www.d1ev.com/newsflash/292689",
@@ -1999,33 +1990,18 @@
     "https://www.d1ev.com/newsflash/294900",
     "https://www.d1ev.com/newsflash/294905",
     "https://www.d1ev.com/newsflash/294902",
-    "https://www.d1ev.com/news/shichang/294913"
+    "https://www.d1ev.com/news/shichang/294913",
+    "https://www.d1ev.com/newsflash/294919",
+    "https://www.d1ev.com/newsflash/294917",
+    "https://www.d1ev.com/newsflash/294920",
+    "https://www.d1ev.com/newsflash/294918",
+    "https://www.d1ev.com/newsflash/294922",
+    "https://www.d1ev.com/newsflash/294916",
+    "https://www.d1ev.com/news/shichang/294915",
+    "https://www.d1ev.com/newsflash/294921",
+    "https://www.d1ev.com/news/shichang/294914"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/294126",
-      "title": "华为智驾+匈牙利电机 奥迪A6L纯电版将上市：预售31.3万起",
-      "source": "第一电动",
-      "pushedAt": 1775354246907
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294123",
-      "title": "盖世周报 | 曝奇瑞计划启用南非工厂；保隆科技泰国园区投产",
-      "source": "第一电动",
-      "pushedAt": 1775354246907
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294125",
-      "title": "11.99万 燃油车高阶辅助驾驶终于不缺席了",
-      "source": "第一电动",
-      "pushedAt": 1775354246907
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294124",
-      "title": "比亚迪宋Ultra EV累计订单37216台",
-      "source": "第一电动",
-      "pushedAt": 1775354246907
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/294127",
       "title": "特斯拉严打“FSD越狱”：用户将承担事故全责并失去保修",
@@ -6339,6 +6315,60 @@
       "title": "智能电动2026｜廉玉波：新能源汽车产业确定性与不确定性并存，技术创新锚定用户真实体验",
       "source": "第一电动",
       "pushedAt": 1775932580848
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294919",
+      "title": "别克至境E7高端新能源SUV，16万起售，4月22日震撼上市！",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294917",
+      "title": "中国首发！地平线星空系列芯片实现舱驾一体，成本大降1500元",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294920",
+      "title": "华为乾崑智驾2025年装车量达140万套，2026年或迎自动驾驶元年",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294918",
+      "title": "大众汽车加速智能化：2027年L3自动驾驶，2029年L4级自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294922",
+      "title": "国内首座高原汽车测试场昆明启用，助力汽车出口增长",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294916",
+      "title": "北京亦庄将举办全球首个人形机器人马拉松，4月19日开跑！",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294915",
+      "title": "盖世周报 | 奇瑞首个海外运营中心落成；保隆科技斩获多个项目定点",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294921",
+      "title": "“内卷”降温！中国汽车行业竞争回归健康轨道",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294914",
+      "title": "深耕中国三十载，曼胡默尔锚定“十五五”增长新引擎",
+      "source": "第一电动",
+      "pushedAt": 1775959348056
     }
   ],
   "lastUpdated": "2026-04-12"
