@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292736",
-    "https://www.d1ev.com/newsflash/292718",
-    "https://www.d1ev.com/newsflash/292739",
-    "https://www.d1ev.com/newsflash/292737",
-    "https://www.d1ev.com/newsflash/292732",
-    "https://www.d1ev.com/news/qiye/292729",
-    "https://www.d1ev.com/news/qiye/292724",
     "https://www.d1ev.com/news/qiye/292723",
     "https://www.d1ev.com/newsflash/292721",
     "https://www.d1ev.com/newsflash/292720",
@@ -1999,21 +1992,16 @@
     "https://www.d1ev.com/newsflash/294949",
     "https://www.d1ev.com/newsflash/294944",
     "https://www.d1ev.com/newsflash/294943",
-    "https://www.d1ev.com/newsflash/294945"
+    "https://www.d1ev.com/newsflash/294945",
+    "https://www.d1ev.com/newsflash/294957",
+    "https://www.d1ev.com/newsflash/294954",
+    "https://www.d1ev.com/newsflash/294953",
+    "https://www.d1ev.com/carnews/xinche/294956",
+    "https://www.d1ev.com/newsflash/294955",
+    "https://www.d1ev.com/newsflash/294958",
+    "https://www.d1ev.com/carnews/xinche/294952"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294129",
-      "title": "小鹏X9香港上市799900港元起，续航750km+5C超充AI电池",
-      "source": "第一电动",
-      "pushedAt": 1775378247148
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294128",
-      "title": "小米SU7Max版电池挑战成功：高温针刺不起火不爆炸！",
-      "source": "第一电动",
-      "pushedAt": 1775378247148
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294131",
       "title": "AI智能体引发巨头围堵：谷歌、Anthropic、Meta先后“封杀”OpenClaw",
@@ -6519,6 +6507,48 @@
       "title": "理想汽车李想怒斥“日系品牌黑水军”：反内卷成果遭破坏",
       "source": "第一电动",
       "pushedAt": 1775977652705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294957",
+      "title": "鸿蒙智行尚界Z7/Z7T预售火爆，6万台小订彰显市场热情",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294954",
+      "title": "长安启源A06震撼上市，纯电续航630km，增程超2120km！",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294953",
+      "title": "广汽华为联手打造！启境GT7“梅里白”智能猎装车6月上市",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294956",
+      "title": "电动卡车越来越好卖？三一重卡董事长梁林河：比燃油卡车更好用、更划算",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294955",
+      "title": "“全球甲醇电动生态联盟”成立，吉利领衔推进甲醇技术普及",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294958",
+      "title": "阿里云CodingPlanLite套餐将停续费，新用户仅能购买Pro版",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/294952",
+      "title": "百亿研发还不够？车企巨头紧盯“高端化”，赛力斯何利扬：兼顾新老用户是关键",
+      "source": "第一电动",
+      "pushedAt": 1775983273461
     }
   ],
   "lastUpdated": "2026-04-12"
