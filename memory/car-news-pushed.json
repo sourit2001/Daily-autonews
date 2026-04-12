@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/292723",
-    "https://www.d1ev.com/newsflash/292721",
-    "https://www.d1ev.com/newsflash/292720",
-    "https://www.d1ev.com/news/shichang/292740",
-    "https://www.d1ev.com/news/shichang/292734",
-    "https://www.d1ev.com/newsflash/292728",
-    "https://www.d1ev.com/newsflash/292726",
-    "https://www.d1ev.com/news/qiye/292722",
-    "https://www.d1ev.com/news/shichang/292741",
-    "https://www.d1ev.com/news/shichang/292738",
     "https://www.d1ev.com/news/shichang/292735",
     "https://www.d1ev.com/news/shichang/292733",
     "https://www.d1ev.com/news/shichang/292731",
@@ -1999,27 +1989,19 @@
     "https://www.d1ev.com/carnews/xinche/294956",
     "https://www.d1ev.com/newsflash/294955",
     "https://www.d1ev.com/newsflash/294958",
-    "https://www.d1ev.com/carnews/xinche/294952"
+    "https://www.d1ev.com/carnews/xinche/294952",
+    "https://www.d1ev.com/newsflash/294964",
+    "https://www.d1ev.com/newsflash/294968",
+    "https://www.d1ev.com/newsflash/294963",
+    "https://www.d1ev.com/newsflash/294962",
+    "https://www.d1ev.com/newsflash/294960",
+    "https://www.d1ev.com/news/shichang/294959",
+    "https://www.d1ev.com/newsflash/294967",
+    "https://www.d1ev.com/newsflash/294966",
+    "https://www.d1ev.com/newsflash/294965",
+    "https://www.d1ev.com/news/shichang/294961"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294131",
-      "title": "AI智能体引发巨头围堵：谷歌、Anthropic、Meta先后“封杀”OpenClaw",
-      "source": "第一电动",
-      "pushedAt": 1775384903462
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294130",
-      "title": "E周看点｜零跑3月交付重回5万；特斯拉Q1全球交付量不及市场预期",
-      "source": "第一电动",
-      "pushedAt": 1775384903462
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294132",
-      "title": "小智一周要闻 | 智元第1万台通用具身机器人下线;星海图再融20亿",
-      "source": "第一电动",
-      "pushedAt": 1775384903462
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294135",
       "title": "阿维塔06T即将预售，搭载华为896线激光雷达，全场景运动轿车来袭",
@@ -6549,6 +6531,66 @@
       "title": "百亿研发还不够？车企巨头紧盯“高端化”，赛力斯何利扬：兼顾新老用户是关键",
       "source": "第一电动",
       "pushedAt": 1775983273461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294964",
+      "title": "华为智擎品牌亮相北京车展，引领新能源汽车智能化新纪元",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294968",
+      "title": "MiniMax M2.7模型开源：AI自我进化新突破，性能提升30%",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294963",
+      "title": "宝马iX3 M60xDrive 2027年投产，双电机620-630hp，10分钟充电300km续航！",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294962",
+      "title": "吉利新能源技术突破：极氪009成论坛官方用车，新一代i-HEV混动技术即将发布",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294960",
+      "title": "硅谷企业家沉迷AI模型，妄想症发作引发跟踪骚扰案",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294959",
+      "title": "E周看点 | 港股固态电池第一股来了；大众汽车今年推13款新能源车",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294967",
+      "title": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松，全球首次终端大厂机器人挑战",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294966",
+      "title": "吉利4月13日推i-HEV混动技术，百公里油耗仅3升",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/294965",
+      "title": "奇瑞销量暴涨481.6%，中国品牌抢占英国车市15%份额",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/294961",
+      "title": "小智一周要闻 | 理想系高管联手再创业；具身智能十亿融资再添两单",
+      "source": "第一电动",
+      "pushedAt": 1775990057517
     }
   ],
   "lastUpdated": "2026-04-12"
