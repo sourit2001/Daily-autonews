@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/292872",
-    "https://www.d1ev.com/newsflash/292867",
-    "https://www.d1ev.com/news/shichang/292865",
-    "https://www.d1ev.com/newsflash/292861",
-    "https://www.d1ev.com/news/shichang/292883",
-    "https://www.d1ev.com/news/shichang/292879",
-    "https://www.d1ev.com/newsflash/292877",
     "https://www.d1ev.com/newsflash/292871",
     "https://www.d1ev.com/news/shichang/292869",
     "https://www.d1ev.com/news/shichang/292864",
@@ -1999,15 +1992,16 @@
     "https://www.d1ev.com/newsflash/295061",
     "https://www.d1ev.com/newsflash/295057",
     "https://www.d1ev.com/news/shichang/295056",
-    "https://www.d1ev.com/news/shichang/295052"
+    "https://www.d1ev.com/news/shichang/295052",
+    "https://www.d1ev.com/newsflash/295109",
+    "https://www.d1ev.com/news/qiye/295105",
+    "https://www.d1ev.com/newsflash/295108",
+    "https://www.d1ev.com/news/qiye/295104",
+    "https://www.d1ev.com/newsflash/295107",
+    "https://www.d1ev.com/news/shichang/295106",
+    "https://www.d1ev.com/newsflash/295103"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294171",
-      "title": "贾跃亭宣布：FF一季度实现正毛利，2026年目标交付1000+机器人",
-      "source": "第一电动",
-      "pushedAt": 1775472658081
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294178",
       "title": "2026款问界M9曝光：华为激光雷达加持，外观更硬朗大气",
@@ -7101,6 +7095,48 @@
       "title": "3.6万元起，未来不远发布新一代家用机器人F2",
       "source": "第一电动",
       "pushedAt": 1776074114931
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295109",
+      "title": "理想L9Livis预售开启！55.98万全尺寸SUV搭载800V全主动悬架",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295105",
+      "title": "凯迪拉克全尺寸纯电公路旗舰SUV凯威德将于4月22日上市",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295108",
+      "title": "京东独家销售深蓝L06增程版，300万法拉利同款悬架，3纳米芯片加持",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295104",
+      "title": "梅赛德斯-奔驰将携40款重磅车型及前沿AI创新闪耀北京车展",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295107",
+      "title": "智元机器人宣布其远征A3机器人完成首批交付，负责智能导览、沉浸式演艺和智慧运营等任务",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295106",
+      "title": "零跑将于北京车展推出Lafa 5 Ultra车型",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295103",
+      "title": "特斯拉试乘出事故，顾客索赔8000元精神抚慰金遭拒",
+      "source": "第一电动",
+      "pushedAt": 1776078828591
     }
   ],
   "lastUpdated": "2026-04-13"
