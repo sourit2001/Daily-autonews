@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292915",
-    "https://www.d1ev.com/news/shichang/292913",
-    "https://www.d1ev.com/newsflash/292912",
     "https://www.d1ev.com/newsflash/292910",
     "https://www.d1ev.com/news/qiye/292906",
     "https://www.d1ev.com/newsflash/292905",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/295132",
     "https://www.d1ev.com/newsflash/295131",
     "https://www.d1ev.com/news/qiye/295127",
-    "https://www.d1ev.com/newsflash/295125"
+    "https://www.d1ev.com/newsflash/295125",
+    "https://www.d1ev.com/newsflash/295148",
+    "https://www.d1ev.com/newsflash/295150",
+    "https://www.d1ev.com/newsflash/295149"
   ],
   "newsHistory": [
     {
@@ -7275,7 +7275,25 @@
       "title": "2026年一季度乘用车销量暴跌22%，消费者观望情绪浓厚",
       "source": "第一电动",
       "pushedAt": 1776093266254
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295148",
+      "title": "吉利i-HEV混动技术全球首发：48.41%热效率，油耗低至2.22L！",
+      "source": "第一电动",
+      "pushedAt": 1776099724416
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295150",
+      "title": "特斯拉ModelY车祸关键证物失踪，卑尔根案件调查公正性受质疑",
+      "source": "第一电动",
+      "pushedAt": 1776099724416
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295149",
+      "title": "理想i6智能驾驶评测四项满分，家用出行新标杆诞生",
+      "source": "第一电动",
+      "pushedAt": 1776099724416
     }
   ],
-  "lastUpdated": "2026-04-13"
+  "lastUpdated": "2026-04-14"
 }
