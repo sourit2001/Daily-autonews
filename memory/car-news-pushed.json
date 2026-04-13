@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/292910",
     "https://www.d1ev.com/news/qiye/292906",
     "https://www.d1ev.com/newsflash/292905",
     "https://www.d1ev.com/newsflash/292903",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/295125",
     "https://www.d1ev.com/newsflash/295148",
     "https://www.d1ev.com/newsflash/295150",
-    "https://www.d1ev.com/newsflash/295149"
+    "https://www.d1ev.com/newsflash/295149",
+    "https://www.d1ev.com/newsflash/295151"
   ],
   "newsHistory": [
     {
@@ -7293,6 +7293,12 @@
       "title": "理想i6智能驾驶评测四项满分，家用出行新标杆诞生",
       "source": "第一电动",
       "pushedAt": 1776099724416
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295151",
+      "title": "奇瑞风云T9L震撼上市，12.99万起售，智能驾驶+超能电混！",
+      "source": "第一电动",
+      "pushedAt": 1776107209693
     }
   ],
   "lastUpdated": "2026-04-14"
