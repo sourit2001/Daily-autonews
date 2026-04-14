@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293076",
     "https://www.d1ev.com/newsflash/293072",
     "https://www.d1ev.com/newsflash/293086",
     "https://www.d1ev.com/newsflash/293085",
@@ -1999,27 +1998,10 @@
     "https://www.d1ev.com/newsflash/295298",
     "https://www.d1ev.com/newsflash/295294",
     "https://www.d1ev.com/newsflash/295296",
-    "https://www.d1ev.com/newsflash/295293"
+    "https://www.d1ev.com/newsflash/295293",
+    "https://www.d1ev.com/newsflash/295300"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294306",
-      "title": "奔驰Smart精灵#6内饰曝光，豪华掀背轿车夏季上市",
-      "source": "第一电动",
-      "pushedAt": 1775580689186
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294303",
-      "title": "东风汽车突破！国产车规级MCU芯片DF30量产在即，打破国外垄断",
-      "source": "第一电动",
-      "pushedAt": 1775580689186
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294305",
-      "title": "索尼本田合作生变：AFEELA1车型发布叫停，预定费用全额退还",
-      "source": "第一电动",
-      "pushedAt": 1775580689186
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294307",
       "title": "小鹏MONAO3上市，欧阳娜娜助阵引爆科技新潮流",
@@ -7467,7 +7449,13 @@
       "title": "吉利i-HEV混动技术突破：油耗2.22L创纪录，日系混动地位受挑战",
       "source": "第一电动",
       "pushedAt": 1776179414951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295300",
+      "title": "问界M6安全升级：前备箱锁扣细节曝光，预订量破10万",
+      "source": "第一电动",
+      "pushedAt": 1776185992818
     }
   ],
-  "lastUpdated": "2026-04-14"
+  "lastUpdated": "2026-04-15"
 }
