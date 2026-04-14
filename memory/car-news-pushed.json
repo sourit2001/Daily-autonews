@@ -1,29 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/292906",
-    "https://www.d1ev.com/newsflash/292905",
-    "https://www.d1ev.com/newsflash/292903",
-    "https://www.d1ev.com/newsflash/292936",
-    "https://www.d1ev.com/newsflash/292929",
-    "https://www.d1ev.com/newsflash/292928",
-    "https://www.d1ev.com/news/shichang/292935",
-    "https://www.d1ev.com/news/shichang/292933",
-    "https://www.d1ev.com/news/qiye/292932",
-    "https://www.d1ev.com/newsflash/292923",
-    "https://www.d1ev.com/newsflash/292922",
-    "https://www.d1ev.com/newsflash/292921",
-    "https://www.d1ev.com/newsflash/292920",
-    "https://www.d1ev.com/newsflash/292934",
-    "https://www.d1ev.com/newsflash/292931",
-    "https://www.d1ev.com/newsflash/292930",
-    "https://www.d1ev.com/newsflash/292927",
-    "https://www.d1ev.com/newsflash/292926",
-    "https://www.d1ev.com/news/shichang/292925",
-    "https://www.d1ev.com/newsflash/292924",
-    "https://www.d1ev.com/news/qiye/292947",
-    "https://www.d1ev.com/newsflash/292945",
-    "https://www.d1ev.com/newsflash/292943",
-    "https://www.d1ev.com/newsflash/292941",
     "https://www.d1ev.com/newsflash/292937",
     "https://www.d1ev.com/newsflash/292940",
     "https://www.d1ev.com/newsflash/292938",
@@ -1999,117 +1975,33 @@
     "https://www.d1ev.com/newsflash/295148",
     "https://www.d1ev.com/newsflash/295150",
     "https://www.d1ev.com/newsflash/295149",
-    "https://www.d1ev.com/newsflash/295151"
+    "https://www.d1ev.com/newsflash/295151",
+    "https://www.d1ev.com/carnews/xinche/295173",
+    "https://www.d1ev.com/carnews/xinche/295172",
+    "https://www.d1ev.com/carnews/xinche/295171",
+    "https://www.d1ev.com/newsflash/295170",
+    "https://www.d1ev.com/newsflash/295169",
+    "https://www.d1ev.com/carnews/xinche/295167",
+    "https://www.d1ev.com/carnews/xinche/295156",
+    "https://www.d1ev.com/newsflash/295175",
+    "https://www.d1ev.com/newsflash/295168",
+    "https://www.d1ev.com/newsflash/295163",
+    "https://www.d1ev.com/news/shichang/295162",
+    "https://www.d1ev.com/newsflash/295153",
+    "https://www.d1ev.com/newsflash/295176",
+    "https://www.d1ev.com/newsflash/295158",
+    "https://www.d1ev.com/news/qiye/295154",
+    "https://www.d1ev.com/newsflash/295174",
+    "https://www.d1ev.com/carnews/xinche/295166",
+    "https://www.d1ev.com/carnews/xinche/295165",
+    "https://www.d1ev.com/news/shichang/295164",
+    "https://www.d1ev.com/newsflash/295161",
+    "https://www.d1ev.com/news/qiye/295160",
+    "https://www.d1ev.com/newsflash/295159",
+    "https://www.d1ev.com/news/shichang/295155",
+    "https://www.d1ev.com/newsflash/295152"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294199",
-      "title": "基于800V架构打造 宝马iX7最新谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294198",
-      "title": "智能潮酷 奇瑞瑞虎5运动版将于4月8日上市",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294194",
-      "title": "广汽埃安RT换电版4月8日上市 支持99秒换电",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294193",
-      "title": "广汽传祺硬派SUV谍照发布 北京车展亮相",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294192",
-      "title": "一天发布8款新车，等于没有新车发布",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294195",
-      "title": "小米YU7推出Maison Margiela联名涂装版",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294185",
-      "title": "OpenAI提案重塑智能时代财富与就业，聚焦AI驱动繁荣分配",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294183",
-      "title": "苹果被诉窃取YouTube视频数据训练AI，集体诉讼索赔千万",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294189",
-      "title": "中国汽车出海，能否绕过日系踩过的坑",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294188",
-      "title": "“价格62万元起”，美国再阻击中国车",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294197",
-      "title": "Seeds｜30天融30亿，千寻智能再“进账”10亿元",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294196",
-      "title": "特斯拉智能辅助避险：高速烟雾中惊险避撞奥迪车",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294191",
-      "title": "一季度车市下跌17%，请继续刮骨疗毒",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294190",
-      "title": "一年研发投入两百亿？智能车就是这么烧钱",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294187",
-      "title": "英国小众跑车品牌Marcos计划重启",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294186",
-      "title": "道奇CEO称品牌仍在考虑推出平价性能车",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294182",
-      "title": "特斯拉“真智能召唤”功能调查结束：罕见低速碰撞无重大伤亡",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294181",
-      "title": "【盖世快讯】小鹏回应澳大利亚独家经销商合作破裂；青岛推动57个过亿元汽车产业项目建设",
-      "source": "第一电动",
-      "pushedAt": 1775526959272
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294221",
       "title": "奥迪Q6Le-tron家族升级：672km续航+智能座舱，4月10日上市",
@@ -7299,6 +7191,150 @@
       "title": "奇瑞风云T9L震撼上市，12.99万起售，智能驾驶+超能电混！",
       "source": "第一电动",
       "pushedAt": 1776107209693
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295173",
+      "title": "或为换代测试 新玛莎拉蒂Grecale谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295172",
+      "title": "小鹏旗舰GX内饰官图公布 头等舱体验",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295171",
+      "title": "凯迪拉克全新纯电SUV“凯威德”4月22日上市",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295170",
+      "title": "沃尔沃99周年庆典：EX90领衔三款新车型亮相，电动时代新篇章开启",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295169",
+      "title": "小鹏GX内饰曝光：2+2+2六座布局，40万内旗舰SUV即将上市",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295167",
+      "title": "动力更强 零跑Lafa5 Ultra将于北京车展上市",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295156",
+      "title": "2026年第15周（4.6-4.12）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295175",
+      "title": "日产Skyline荣耀归来，未来产品线大调整聚焦混动与AI技术",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295168",
+      "title": "网易云音乐AI广告被吐槽，官方回应将改进",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295163",
+      "title": "OpenAI CEO豪宅两遭袭击，旧金山警方逮捕嫌疑人",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295162",
+      "title": "中国新能源汽车，接住了这泼天富贵",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295153",
+      "title": "奔驰EQS电动轿车2027款升级：800V架构、更长续航、线控转向革新登场",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295176",
+      "title": "“智在无界发布第三代旗舰模型，全球领先跨场景通用世界模型问世”",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295158",
+      "title": "2035年Robotaxi市场规模将达1.15万亿，中美引领全球车队部署",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295154",
+      "title": "一箱油贵出35欧，全球开始“弃油投电”？",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295174",
+      "title": "比亚迪坪山园区车库突发火灾，火势已扑灭无伤亡",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295166",
+      "title": "日产确认将于2027年前半推出新一代Skyline",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295165",
+      "title": "雷克萨斯或推出GX 550h混动版车型",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295164",
+      "title": "标定毫秒级底盘自救：爆胎模拟系统如何实现高保真“极限复现”？",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295161",
+      "title": "理想AEB显神威：120km/h高速避险成功避免追尾",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295160",
+      "title": "理想和东风日产的事儿，仅仅是因为水军吗？",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295159",
+      "title": "斯坦福报告：人工智能引发公众焦虑，专家与民众看法分歧加剧",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295155",
+      "title": "【盖世快讯】小鹏华为合作再升级；亿咖通科技正式承接Flyme OS全业务",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295152",
+      "title": "微软新动作：365Copilot将整合类OpenClaw功能，安全升级",
+      "source": "第一电动",
+      "pushedAt": 1776132222889
     }
   ],
   "lastUpdated": "2026-04-14"
