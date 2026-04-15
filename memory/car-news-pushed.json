@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293164",
-    "https://www.d1ev.com/news/shichang/293161",
-    "https://www.d1ev.com/news/shichang/293158",
-    "https://www.d1ev.com/newsflash/293202",
-    "https://www.d1ev.com/newsflash/293195",
-    "https://www.d1ev.com/carnews/xinche/293194",
-    "https://www.d1ev.com/carnews/xinche/293193",
-    "https://www.d1ev.com/carnews/xinche/293191",
-    "https://www.d1ev.com/newsflash/293201",
-    "https://www.d1ev.com/newsflash/293200",
-    "https://www.d1ev.com/newsflash/293199",
-    "https://www.d1ev.com/newsflash/293197",
-    "https://www.d1ev.com/newsflash/293196",
-    "https://www.d1ev.com/newsflash/293186",
     "https://www.d1ev.com/news/shichang/293205",
     "https://www.d1ev.com/news/shichang/293204",
     "https://www.d1ev.com/news/shichang/293203",
@@ -1999,87 +1985,23 @@
     "https://www.d1ev.com/newsflash/295399",
     "https://www.d1ev.com/newsflash/295394",
     "https://www.d1ev.com/news/shichang/295391",
-    "https://www.d1ev.com/newsflash/295385"
+    "https://www.d1ev.com/newsflash/295385",
+    "https://www.d1ev.com/newsflash/295415",
+    "https://www.d1ev.com/newsflash/295410",
+    "https://www.d1ev.com/newsflash/295403",
+    "https://www.d1ev.com/newsflash/295414",
+    "https://www.d1ev.com/newsflash/295408",
+    "https://www.d1ev.com/newsflash/295402",
+    "https://www.d1ev.com/news/shichang/295407",
+    "https://www.d1ev.com/news/qiye/295406",
+    "https://www.d1ev.com/newsflash/295413",
+    "https://www.d1ev.com/news/shichang/295412",
+    "https://www.d1ev.com/news/shichang/295411",
+    "https://www.d1ev.com/newsflash/295409",
+    "https://www.d1ev.com/newsflash/295405",
+    "https://www.d1ev.com/newsflash/295404"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294407",
-      "title": "比亚迪仰望U8L四座版北京车展亮相，130万起售，续航升级！",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294399",
-      "title": "荣威M7黑马版亮相：约瑟夫·卡班设计，插电混动续航160公里",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294408",
-      "title": "Melexis推出使用简便的高性能电机驱动芯片，助力三相风扇实现快速、免代码设计",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294406",
-      "title": "电动滑板车成乌军新利器：隐蔽机动，战场新趋势",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294404",
-      "title": "宁德时代携手张雪机车，电动摩托合作项目启动在即",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294400",
-      "title": "日本放宽数据共享限制，助力AI发展",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294398",
-      "title": "戴尔CEO预测：AI加速器内存需求2028年将暴增625倍",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294397",
-      "title": "华为乾崑智驾ADSPro限时优惠来袭：最高省6000元！",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294409",
-      "title": "中国车企闯加拿大，为何拟纯电、混动、插混齐上阵？",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294405",
-      "title": "蔚来萤火虫小车升级：误加速抑制、循迹倒车、游戏投屏新体验",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294403",
-      "title": "德承推出高阶性能紧凑型工控机DX-1300",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294402",
-      "title": "氢能企业IPO之困",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294401",
-      "title": "本田中国3月销量降34%：2000万辆里程碑下的转型阵痛",
-      "source": "第一电动",
-      "pushedAt": 1775645597908
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/294425",
       "title": "东风日产NX8正式上市 售价15.99-20.99万元",
@@ -7503,6 +7425,90 @@
       "title": "“北京亦庄半程马拉松开跑在即，宇树科技人形机器人H1挑战极限速度”",
       "source": "第一电动",
       "pushedAt": 1776244511294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295415",
+      "title": "华为乾崑启境GT7猎装车“尼斯蓝”首发，智能技术全面升级！",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295410",
+      "title": "凯翼拾月MAX预售开启！4.59万起，310km续航+全景影像",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295403",
+      "title": "全球首台陆空两栖飞行汽车亮相！小鹏汇天“陆地航母”下半年量产",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295414",
+      "title": "比亚迪汉EV闪充版来袭：705公里续航+5分钟快充！",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295408",
+      "title": "特斯拉AI5芯片流片成功，性能飞跃40倍挑战英伟达",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295402",
+      "title": "比亚迪智驾里程超地球到太阳距离，数据优势助力驾驶更安全",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295407",
+      "title": "延锋国际与银河通用机器人达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295406",
+      "title": "混动车型需求增加推动 3月份韩国汽车出口额超过60亿美元",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295413",
+      "title": "谷歌DeepMind发布Gemini Robotics-ER 1.6，聚焦于“具身推理”",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295412",
+      "title": "图达通与伯镭科技达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295411",
+      "title": "速腾聚创E平台累计交付超30万台",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295409",
+      "title": "比亚迪香港销量夺冠，元UP车型登记量领先",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295405",
+      "title": "Anthropic推出大型语言模型Claude身份验证功能，保障平台安全合规",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295404",
+      "title": "比亚迪3月销量破30万，辅助驾驶车型保有量超285万辆",
+      "source": "第一电动",
+      "pushedAt": 1776250573808
     }
   ],
   "lastUpdated": "2026-04-15"
