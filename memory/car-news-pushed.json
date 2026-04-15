@@ -1,24 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293205",
-    "https://www.d1ev.com/news/shichang/293204",
-    "https://www.d1ev.com/news/shichang/293203",
-    "https://www.d1ev.com/news/shichang/293190",
-    "https://www.d1ev.com/news/shichang/293189",
-    "https://www.d1ev.com/news/qiye/293188",
-    "https://www.d1ev.com/newsflash/293187",
-    "https://www.d1ev.com/news/shichang/293185",
-    "https://www.d1ev.com/news/shichang/293222",
-    "https://www.d1ev.com/newsflash/293214",
-    "https://www.d1ev.com/newsflash/293213",
-    "https://www.d1ev.com/newsflash/293212",
-    "https://www.d1ev.com/news/qiye/293221",
-    "https://www.d1ev.com/newsflash/293220",
-    "https://www.d1ev.com/newsflash/293217",
-    "https://www.d1ev.com/newsflash/293216",
-    "https://www.d1ev.com/newsflash/293211",
-    "https://www.d1ev.com/news/shichang/293209",
-    "https://www.d1ev.com/newsflash/293208",
     "https://www.d1ev.com/newsflash/293207",
     "https://www.d1ev.com/newsflash/293219",
     "https://www.d1ev.com/newsflash/293218",
@@ -1999,117 +1980,28 @@
     "https://www.d1ev.com/news/shichang/295411",
     "https://www.d1ev.com/newsflash/295409",
     "https://www.d1ev.com/newsflash/295405",
-    "https://www.d1ev.com/newsflash/295404"
+    "https://www.d1ev.com/newsflash/295404",
+    "https://www.d1ev.com/newsflash/295434",
+    "https://www.d1ev.com/newsflash/295433",
+    "https://www.d1ev.com/newsflash/295431",
+    "https://www.d1ev.com/newsflash/295430",
+    "https://www.d1ev.com/newsflash/295429",
+    "https://www.d1ev.com/news/qiye/295428",
+    "https://www.d1ev.com/newsflash/295427",
+    "https://www.d1ev.com/newsflash/295426",
+    "https://www.d1ev.com/newsflash/295423",
+    "https://www.d1ev.com/newsflash/295420",
+    "https://www.d1ev.com/newsflash/295417",
+    "https://www.d1ev.com/newsflash/295416",
+    "https://www.d1ev.com/newsflash/295432",
+    "https://www.d1ev.com/newsflash/295425",
+    "https://www.d1ev.com/newsflash/295424",
+    "https://www.d1ev.com/newsflash/295422",
+    "https://www.d1ev.com/newsflash/295421",
+    "https://www.d1ev.com/news/shichang/295419",
+    "https://www.d1ev.com/newsflash/295418"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294425",
-      "title": "东风日产NX8正式上市 售价15.99-20.99万元",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294422",
-      "title": "东风日产NX8增程SUV上市：800V快充+7种型号，14.99万起",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294421",
-      "title": "东风日产NX8新能源SUV震撼上市，15.99万起售，限时优惠1万！",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294420",
-      "title": "2026款奇瑞瑞虎7正式上市 售价7.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294419",
-      "title": "2026款奇瑞瑞虎7L正式上市 售8.59万元起",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294418",
-      "title": "奇瑞瑞虎5运动版正式上市 售价7.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294417",
-      "title": "零跑Lafa5Ultra顶配版亮相，4月上市，运动套件加持性能升级",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294416",
-      "title": "广汽埃安AION RT换电版上市：8.88万起，99秒换电，续航520-650公里",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294414",
-      "title": "埃安RT换电版上市：99秒换电，续航650公里，8.88万起！",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294413",
-      "title": "东风日产NX8中大型SUV上市，15.99万起售，增程纯电双动力可选",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294411",
-      "title": "小鹏GX旗舰SUV震撼亮相：梅里雪山灵感车色，科技旗舰新高度！",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294427",
-      "title": "华为激光雷达加持！阿维塔12新能源车29.39万起售",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294426",
-      "title": "比亚迪方程豹钛7EV闪充版开启预订，全球首款闪充纯电大方盒，续航高达755公里！",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294423",
-      "title": "DeepSeek突推专家模式，AI对话新升级引发热议",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294412",
-      "title": "泰矽微车规级高压直驱超声波传感芯片 TCAU33宣布量产",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294410",
-      "title": "AI时代来临：Peter Yang鼓励孩子跳过大学直接创业",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294424",
-      "title": "奇瑞瑞虎5运动版7.99万起，L2辅助驾驶+1.5T动力，紧凑型SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294415",
-      "title": "零跑Lafa5Ultra震撼登场：运动套件+智能配置，轿跑新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1775653867264
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294454",
       "title": "一汽-大众ID.AURA序列首秀：T6中型纯电SUV亮相北京车展",
@@ -7509,6 +7401,120 @@
       "title": "比亚迪3月销量破30万，辅助驾驶车型保有量超285万辆",
       "source": "第一电动",
       "pushedAt": 1776250573808
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295434",
+      "title": "小鹏GX预售开启：智能家居搬进SUV，舒适实用智能全到位",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295433",
+      "title": "小鹏GX预售开启！39.98万起，中大型SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295431",
+      "title": "小鹏GX全尺寸豪华SUV开启预售，39.98万元起，续航高达1585km！",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295430",
+      "title": "零跑A05亮相：405km至510km续航，70kW/90kW双电机选择",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295429",
+      "title": "华为鸿蒙智行春季新品来袭：六款重磅车型即将亮相",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295428",
+      "title": "全新坦克500黑武士上市36.5万元起，双混动架构限量500台",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295427",
+      "title": "坦克500黑武士震撼上市，36.5万起售，强悍越野新选择！",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295426",
+      "title": "比亚迪元PLUS亮相：540km至630km纯电续航，200kW至240kW双电机可选",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295423",
+      "title": "极狐S3亮相北京车展：纯电增程换电三动力，续航550-650公里",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295420",
+      "title": "坦克500黑武士限量版上市，36.5万起售，越野新选择！",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295417",
+      "title": "比亚迪元PLUS曝光：540km/630km续航，北京车展见！",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295416",
+      "title": "零跑A05曝光：405km至510km续航，双电机功率可选",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295432",
+      "title": "小鹏GX震撼发布：L4级自动驾驶SUV，3000TOPS算力引领智驾新纪元",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295425",
+      "title": "大众ID.3Neo重磅升级：续航增强，取消触摸滑块回归实体键！",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295424",
+      "title": "腾讯视频AI长剧来袭：第三季度见！",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295422",
+      "title": "福特CEO警告：中国电动车威胁美国市场，福特新平台迎战",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295421",
+      "title": "“别克回应蔚来挑战：MPV舒适体验不可替代，销量口碑双丰收”",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295419",
+      "title": "李云飞公布比亚迪辅助驾驶保有量超285万辆",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295418",
+      "title": "小米SU7新功能“通透模式”：不开窗也能听世界，语音交互更自然",
+      "source": "第一电动",
+      "pushedAt": 1776258866918
     }
   ],
   "lastUpdated": "2026-04-15"
