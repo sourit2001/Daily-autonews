@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293230",
-    "https://www.d1ev.com/newsflash/293229",
-    "https://www.d1ev.com/news/qiye/293227",
     "https://www.d1ev.com/newsflash/293225",
     "https://www.d1ev.com/newsflash/293241",
     "https://www.d1ev.com/news/qiye/293240",
@@ -1999,189 +1996,12 @@
     "https://www.d1ev.com/newsflash/295436",
     "https://www.d1ev.com/news/qiye/295438",
     "https://www.d1ev.com/newsflash/295447",
-    "https://www.d1ev.com/newsflash/295441"
+    "https://www.d1ev.com/newsflash/295441",
+    "https://www.d1ev.com/news/qiye/295456",
+    "https://www.d1ev.com/newsflash/295455",
+    "https://www.d1ev.com/newsflash/295454"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294454",
-      "title": "一汽-大众ID.AURA序列首秀：T6中型纯电SUV亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294451",
-      "title": "大众ID.AURAT6伪装车亮相，激光雷达加持智能驾驶新高度",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294450",
-      "title": "阿维塔06开启预售，华为激光雷达加持，22.99万起！",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294449",
-      "title": "阿维塔06T开启预售 预售价22.99-27.99万起",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294447",
-      "title": "大众汽车携与众08、ID. ERA 9X和ID. AURA T6三车亮相品牌之夜",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294446",
-      "title": "大众汽车品牌启动在华最大新能源产品攻势，2026年将推13款新车",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294443",
-      "title": "埃安RTsuper换电版上市：99秒满电续航505km，月租399元起",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294442",
-      "title": "新款阿维塔12上市 售价29.39-43.39万元",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294438",
-      "title": "阿维塔06T旅行车预售开启：22.99万起，增程纯电双版本，3.74秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294435",
-      "title": "“传祺M8 2.0T新车型上市，豪华MPV新选择，智能化升级更亲民”",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294434",
-      "title": "阿维塔06T预售开启，22.99万起，华为技术加持未来美学新选择",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294433",
-      "title": "段奕宏力荐！阿维塔12携华为智驾技术震撼上市",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294430",
-      "title": "奇瑞瑞虎7L与全新瑞虎7全球上市，限时优惠价6.99万起！",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294428",
-      "title": "五菱缤果Pro即将预售！新复古设计+亲民价格，续航超330km",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294448",
-      "title": "递表港交，清陶能源冲刺“固态电池港股第一股”",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294445",
-      "title": "“烟台警方破获网络水军团伙，8000账号炒作新能源汽车负面信息”",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294444",
-      "title": "8.88万起！广汽埃安AION RT超快充换电，续航自由新体验",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294441",
-      "title": "伟巴斯特推出针对电动车的全新遮阳技术",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294432",
-      "title": "阿维塔12焕新登场：激光雷达升级，纯电续航最高735km！",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294431",
-      "title": "领克10+全球首秀：3.2秒破百，4分半极速充电，纯电运动新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294455",
-      "title": "华为云发布智谱GLM-5.1：全球最强开源模型，性能提升30%",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294437",
-      "title": "1亿美元投入！Anthropic启动ProjectGlasswing加强全球软件安全",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294453",
-      "title": "小米汽车新功能：行车记录仪一键导出，哨兵模式升级",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294452",
-      "title": "比亚迪联手肯德基，方程豹钛7EV闪充版开启智能出行新体验",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294440",
-      "title": "卓驭科技与立昇科技达成战略合作，聚焦智能驾驶量产与供应链协同",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294436",
-      "title": "阿维塔12全新升级：华为激光雷达加持，智能驾驶新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294429",
-      "title": "Stellantis与零跑又酝酿新合作",
-      "source": "第一电动",
-      "pushedAt": 1775660869918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294467",
-      "title": "理想L9Livis震撼上市：60万内首搭800V全主动悬架，续航超1500公里！",
-      "source": "第一电动",
-      "pushedAt": 1775667370917
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294464",
-      "title": "东风日产NX8上市半小时订单破8000，14.99万起售大五座SUV来袭",
-      "source": "第一电动",
-      "pushedAt": 1775667370917
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294465",
-      "title": "福特GTMKIV刷新纽北纪录，燃油车力压电动车夺第三",
-      "source": "第一电动",
-      "pushedAt": 1775667370917
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294470",
       "title": "阿维塔12升级上市！华为激光雷达加持，2.71秒破百动力强劲",
@@ -7581,7 +7401,25 @@
       "title": "阿维塔科技升级服务：周三延时至晚8点，携手华为打造七星级体验",
       "source": "第一电动",
       "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295456",
+      "title": "面向L4时代的全尺寸SUV来了，小鹏GX预售价39.98万元",
+      "source": "第一电动",
+      "pushedAt": 1776272229076
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295455",
+      "title": "领汇e7纯电轿车上市：5分钟闪充70%电量，9.58万起售",
+      "source": "第一电动",
+      "pushedAt": 1776272229076
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295454",
+      "title": "特斯拉新动作：欣旺达电池入局，挑战宁德时代地位？",
+      "source": "第一电动",
+      "pushedAt": 1776272229076
     }
   ],
-  "lastUpdated": "2026-04-15"
+  "lastUpdated": "2026-04-16"
 }
