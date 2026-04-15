@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293225",
-    "https://www.d1ev.com/newsflash/293241",
     "https://www.d1ev.com/news/qiye/293240",
     "https://www.d1ev.com/newsflash/293238",
     "https://www.d1ev.com/newsflash/293233",
@@ -1999,21 +1997,11 @@
     "https://www.d1ev.com/newsflash/295441",
     "https://www.d1ev.com/news/qiye/295456",
     "https://www.d1ev.com/newsflash/295455",
-    "https://www.d1ev.com/newsflash/295454"
+    "https://www.d1ev.com/newsflash/295454",
+    "https://www.d1ev.com/news/shichang/295458",
+    "https://www.d1ev.com/newsflash/295457"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294470",
-      "title": "阿维塔12升级上市！华为激光雷达加持，2.71秒破百动力强劲",
-      "source": "第一电动",
-      "pushedAt": 1775675254081
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294469",
-      "title": "小米汽车行车记录功能升级：紧急事故自动保存视频，哨兵模式语音驱离保障安全",
-      "source": "第一电动",
-      "pushedAt": 1775675254081
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/294495",
       "title": "AION RT super正式上市 售价12.88万元",
@@ -7419,6 +7407,18 @@
       "title": "特斯拉新动作：欣旺达电池入局，挑战宁德时代地位？",
       "source": "第一电动",
       "pushedAt": 1776272229076
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295458",
+      "title": "沃尔沃ES90与EX90开启预售 XC70感恩版同步上市",
+      "source": "第一电动",
+      "pushedAt": 1776280065537
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295457",
+      "title": "大众ID.3Neo焕新登场：升级续航、内饰，取消触摸滑块回归实体键！",
+      "source": "第一电动",
+      "pushedAt": 1776280065537
     }
   ],
   "lastUpdated": "2026-04-16"
