@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293207",
-    "https://www.d1ev.com/newsflash/293219",
-    "https://www.d1ev.com/newsflash/293218",
-    "https://www.d1ev.com/news/shichang/293215",
-    "https://www.d1ev.com/news/shichang/293210",
-    "https://www.d1ev.com/news/shichang/293206",
-    "https://www.d1ev.com/newsflash/293234",
-    "https://www.d1ev.com/carnews/xinche/293228",
-    "https://www.d1ev.com/newsflash/293224",
-    "https://www.d1ev.com/newsflash/293239",
-    "https://www.d1ev.com/newsflash/293236",
     "https://www.d1ev.com/newsflash/293230",
     "https://www.d1ev.com/newsflash/293229",
     "https://www.d1ev.com/news/qiye/293227",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/295422",
     "https://www.d1ev.com/newsflash/295421",
     "https://www.d1ev.com/news/shichang/295419",
-    "https://www.d1ev.com/newsflash/295418"
+    "https://www.d1ev.com/newsflash/295418",
+    "https://www.d1ev.com/newsflash/295446",
+    "https://www.d1ev.com/newsflash/295445",
+    "https://www.d1ev.com/news/qiye/295444",
+    "https://www.d1ev.com/newsflash/295442",
+    "https://www.d1ev.com/newsflash/295440",
+    "https://www.d1ev.com/newsflash/295439",
+    "https://www.d1ev.com/newsflash/295437",
+    "https://www.d1ev.com/newsflash/295436",
+    "https://www.d1ev.com/news/qiye/295438",
+    "https://www.d1ev.com/newsflash/295447",
+    "https://www.d1ev.com/newsflash/295441"
   ],
   "newsHistory": [
     {
@@ -7515,6 +7515,72 @@
       "title": "小米SU7新功能“通透模式”：不开窗也能听世界，语音交互更自然",
       "source": "第一电动",
       "pushedAt": 1776258866918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295446",
+      "title": "沃尔沃双星闪耀：全新EX90、ES90开启预售，预售价43万起",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295445",
+      "title": "沃尔沃XC70感恩版上市：24.99万起，1.5T混动+116km纯电续航！",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295444",
+      "title": "面向L4时代的全尺寸SUV登场，小鹏GX预售价39.98万元",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295442",
+      "title": "沃尔沃EX90纯电旗舰SUV预售开启，53.99万起，续航超700km！",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295440",
+      "title": "哈弗H10旗舰SUV亮相：方正造型+激光雷达，1.5T/2.0T插混动力",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295439",
+      "title": "沃尔沃EX90纯电旗舰SUV预售开启，53.99万元起续航达756公里",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295437",
+      "title": "沃尔沃ES90纯电旗舰轿车预售开启，续航高达848公里！",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295436",
+      "title": "小鹏GX旗舰SUV预售开启，39.98万起售，L4自动驾驶标准打造！",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295438",
+      "title": "特斯拉最新一代AI5芯片成功流片：马斯克首次公开实物照",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295447",
+      "title": "亚马逊豪掷115.7亿美元收购Globalstar，布局卫星直连服务",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295441",
+      "title": "阿维塔科技升级服务：周三延时至晚8点，携手华为打造七星级体验",
+      "source": "第一电动",
+      "pushedAt": 1776265412235
     }
   ],
   "lastUpdated": "2026-04-15"
