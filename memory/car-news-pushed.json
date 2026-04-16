@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/293410",
-    "https://www.d1ev.com/newsflash/293402",
-    "https://www.d1ev.com/carnews/xinche/293401",
-    "https://www.d1ev.com/carnews/xinche/293400",
-    "https://www.d1ev.com/newsflash/293398",
-    "https://www.d1ev.com/carnews/xinche/293396",
-    "https://www.d1ev.com/carnews/xinche/293395",
-    "https://www.d1ev.com/newsflash/293384",
-    "https://www.d1ev.com/newsflash/293408",
-    "https://www.d1ev.com/newsflash/293407",
-    "https://www.d1ev.com/newsflash/293406",
-    "https://www.d1ev.com/newsflash/293404",
-    "https://www.d1ev.com/newsflash/293394",
-    "https://www.d1ev.com/newsflash/293391",
     "https://www.d1ev.com/newsflash/293390",
     "https://www.d1ev.com/newsflash/293389",
     "https://www.d1ev.com/newsflash/293381",
@@ -1999,153 +1985,23 @@
     "https://www.d1ev.com/news/qiye/295567",
     "https://www.d1ev.com/newsflash/295565",
     "https://www.d1ev.com/newsflash/295562",
-    "https://www.d1ev.com/newsflash/295560"
+    "https://www.d1ev.com/newsflash/295560",
+    "https://www.d1ev.com/newsflash/295591",
+    "https://www.d1ev.com/newsflash/295590",
+    "https://www.d1ev.com/newsflash/295589",
+    "https://www.d1ev.com/newsflash/295588",
+    "https://www.d1ev.com/newsflash/295587",
+    "https://www.d1ev.com/news/qiye/295586",
+    "https://www.d1ev.com/newsflash/295585",
+    "https://www.d1ev.com/newsflash/295583",
+    "https://www.d1ev.com/newsflash/295580",
+    "https://www.d1ev.com/newsflash/295579",
+    "https://www.d1ev.com/newsflash/295584",
+    "https://www.d1ev.com/newsflash/295582",
+    "https://www.d1ev.com/newsflash/295592",
+    "https://www.d1ev.com/newsflash/295581"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294634",
-      "title": "智己L6纯电轿车亮相：多版本动力可选，最高时速268km/h",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294632",
-      "title": "奇瑞风云A9增程版轿车亮相：5座大空间，纯电续航175km，油耗仅1.01L/100km",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294631",
-      "title": "红旗H7新轿车亮相工信部：1.5T插混动力，家族设计焕新颜",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294630",
-      "title": "哈弗新旗舰方正SUV曝光：1.5T/2.0T插混动力，尺寸超5米",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294628",
-      "title": "长安启源Q06E中型SUV亮相：225千瓦单电机+磷酸铁锂电池",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294627",
-      "title": "“捷途旅行者PLUS系列开启预售，18.99万起，2.0T+8AT动力强劲”",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294625",
-      "title": "华晨宝马iX3长轴距版申报完成，800V架构电驱技术上半年上市",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294624",
-      "title": "13.98万元起，吉利银河M7正式开启全球预售",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294622",
-      "title": "魏牌V8X/V9X新车型亮相：大五座设计，续航超300km！",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294621",
-      "title": "小鹏L03纯电SUV亮相：15万起，500km续航，1500TOPS算力！",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294620",
-      "title": "理想L8Livis亮相！轴距超3米，纯电续航335公里，增程式新选择",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294619",
-      "title": "2027上海车展明春4月精彩亮相",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294617",
-      "title": "广汽埃安启境GT7亮相工信部：5座新能源轿跑，峰值功率250kW",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294616",
-      "title": "比亚迪腾势Z9纯电轿车亮相：5座设计，最高时速270km/h！",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294615",
-      "title": "小鹏MONA L03 SUV曝光：2026年发布，动感溜背设计，续航180km/h",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294614",
-      "title": "奔驰S级轿车中国首秀，纯电GLC SUV全球亮相，科技豪华新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294613",
-      "title": "启境GT7猎装轿跑6月上市，800V高压快充1秒1公里！",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294623",
-      "title": "理想L8变身大五座，旗舰SUV三季度交付，续航343km",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294612",
-      "title": "3月乘用车零售同比下滑15%，自主分化、出口亮眼",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294635",
-      "title": "蔚来ES9震撼发布，6座旗舰SUV挑战MPV市场新格局！",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294633",
-      "title": "驾驶辅助订阅席卷车市，为何用户不愿买单？",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294629",
-      "title": "蔚来ES9震撼发布：足底按摩+智能隐私车窗，豪华纯电SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294626",
-      "title": "小米YU7推新入门级版本，重量减轻性能升级！",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294618",
-      "title": "小米SU7顶配辅助驾驶：激光雷达+4D雷达，全方位感知新突破",
-      "source": "第一电动",
-      "pushedAt": 1775740537048
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294657",
       "title": "小米SU7新功能曝光：车主模式、萌宠车机功能即将上线",
@@ -7335,6 +7191,90 @@
       "title": "问界M8一年销量破17万，智能豪华新标杆！",
       "source": "第一电动",
       "pushedAt": 1776337194100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295591",
+      "title": "坦克500黑武士版震撼上市，36.5万起限量500台，黑化升级引领越野新风尚",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295590",
+      "title": "广汽埃安N60纯电SUV预售开启，11.58万起配激光雷达+弹匣电池2.0",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295589",
+      "title": "华为技术加持，深蓝S07激光版4月20日上市，智能驾驶新突破！",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295588",
+      "title": "零跑D19全尺寸旗舰SUV上市，21.98万起售，纯电增程双动力！",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295587",
+      "title": "埃安N60预售开启：11.58万起，高阶智能辅助驾驶标配，续航达610km",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295586",
+      "title": "首发非晶合金电驱比特斯拉省 广汽埃安N60开售：11.58万起",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295585",
+      "title": "零跑D19旗舰SUV震撼上市，21.98万起售，增程纯电双动力！",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295583",
+      "title": "智己LS8中大型增程SUV上市，24.98万起售，续航超1500公里",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295580",
+      "title": "零跑D19旗舰SUV上市，21.98万起售，6座7座可选",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295579",
+      "title": "全国首台“AI防汛勇士”机器人亮相杭州，智能防汛新突破",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295584",
+      "title": "小鹏GX新款SUV登场，新能源大六座市场再添新军",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295582",
+      "title": "雷军亲测小米SU7续航，北京至上海直播全程15小时",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295592",
+      "title": "4.55亿美金创纪录！它石智航完成中国具身智能最高单轮融资",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295581",
+      "title": "吉利i-HEV智擎混动技术突破：油耗低至2.22L，48.41%热效率刷新纪录",
+      "source": "第一电动",
+      "pushedAt": 1776345629675
     }
   ],
   "lastUpdated": "2026-04-16"
