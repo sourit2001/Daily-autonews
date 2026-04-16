@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293435",
-    "https://www.d1ev.com/newsflash/293432",
-    "https://www.d1ev.com/news/shichang/293426",
-    "https://www.d1ev.com/news/shichang/293425",
-    "https://www.d1ev.com/newsflash/293422",
-    "https://www.d1ev.com/newsflash/293421",
     "https://www.d1ev.com/carnews/xinche/293415",
     "https://www.d1ev.com/newsflash/293439",
     "https://www.d1ev.com/newsflash/293438",
@@ -1999,27 +1993,15 @@
     "https://www.d1ev.com/newsflash/295603",
     "https://www.d1ev.com/newsflash/295602",
     "https://www.d1ev.com/newsflash/295599",
-    "https://www.d1ev.com/newsflash/295595"
+    "https://www.d1ev.com/newsflash/295595",
+    "https://www.d1ev.com/newsflash/295622",
+    "https://www.d1ev.com/newsflash/295620",
+    "https://www.d1ev.com/news/qiye/295617",
+    "https://www.d1ev.com/newsflash/295621",
+    "https://www.d1ev.com/newsflash/295619",
+    "https://www.d1ev.com/newsflash/295618"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294663",
-      "title": "小米YU7新版本曝光：减重115公斤，续航超600km，价格或降至24万级",
-      "source": "第一电动",
-      "pushedAt": 1775754093603
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294662",
-      "title": "奥迪A6L降价10万，纯电版A6Le-tron预售价31.3万，豪华轿车市场新战局。",
-      "source": "第一电动",
-      "pushedAt": 1775754093603
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294661",
-      "title": "蔚来ES9预售开启！52.8万起，家族旗舰轿车ET9同级智能驾驶",
-      "source": "第一电动",
-      "pushedAt": 1775754093603
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294664",
       "title": "国产宝马iX3加长轴距亮相，续航超900公里，搭载鸿蒙生态！",
@@ -7245,7 +7227,43 @@
       "title": "DeepL突破语言障碍！96%专家首选其实时口语翻译技术",
       "source": "第一电动",
       "pushedAt": 1776353058016
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295622",
+      "title": "极狐S3预售在即，销量飙升178%，全国门店增至680家！",
+      "source": "第一电动",
+      "pushedAt": 1776359336099
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295620",
+      "title": "吉利银河星耀7电混轿车预售开启，11.28万起售，5秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1776359336099
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295617",
+      "title": "小鹏第二代VLA首次外供 大众安徽与众08上市：22.99万起",
+      "source": "第一电动",
+      "pushedAt": 1776359336099
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295621",
+      "title": "大众联手小鹏打造全新SUV，与众08售价22.99万起",
+      "source": "第一电动",
+      "pushedAt": 1776359336099
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295619",
+      "title": "泼水节狂欢意外：广汽丰田纯电SUV遭泼水现“白烟”紧急检修",
+      "source": "第一电动",
+      "pushedAt": 1776359336099
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295618",
+      "title": "“理想L8换代升级，新势力SUV市场再掀波澜”",
+      "source": "第一电动",
+      "pushedAt": 1776359336099
     }
   ],
-  "lastUpdated": "2026-04-16"
+  "lastUpdated": "2026-04-17"
 }
