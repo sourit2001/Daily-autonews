@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293347",
-    "https://www.d1ev.com/newsflash/293345",
-    "https://www.d1ev.com/newsflash/293344",
-    "https://www.d1ev.com/newsflash/293343",
-    "https://www.d1ev.com/newsflash/293341",
-    "https://www.d1ev.com/newsflash/293339",
-    "https://www.d1ev.com/newsflash/293346",
-    "https://www.d1ev.com/newsflash/293338",
-    "https://www.d1ev.com/newsflash/293342",
-    "https://www.d1ev.com/carnews/xinche/293355",
-    "https://www.d1ev.com/newsflash/293354",
-    "https://www.d1ev.com/news/shichang/293349",
     "https://www.d1ev.com/newsflash/293356",
     "https://www.d1ev.com/newsflash/293348",
     "https://www.d1ev.com/newsflash/293353",
@@ -1999,129 +1987,21 @@
     "https://www.d1ev.com/news/shichang/295534",
     "https://www.d1ev.com/news/shichang/295533",
     "https://www.d1ev.com/news/qiye/295532",
-    "https://www.d1ev.com/news/shichang/295531"
+    "https://www.d1ev.com/news/shichang/295531",
+    "https://www.d1ev.com/news/qiye/295555",
+    "https://www.d1ev.com/newsflash/295553",
+    "https://www.d1ev.com/news/shichang/295549",
+    "https://www.d1ev.com/news/qiye/295558",
+    "https://www.d1ev.com/newsflash/295556",
+    "https://www.d1ev.com/news/shichang/295559",
+    "https://www.d1ev.com/newsflash/295557",
+    "https://www.d1ev.com/news/shichang/295554",
+    "https://www.d1ev.com/newsflash/295552",
+    "https://www.d1ev.com/newsflash/295551",
+    "https://www.d1ev.com/news/shichang/295548",
+    "https://www.d1ev.com/news/shichang/295547"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/294591",
-      "title": "比亚迪腾势Z9GT欧洲上市：售价超90万元 是国内3倍多",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294582",
-      "title": "理想新车“刹车失灵”惊魂一幕，地下车库环氧地坪成隐患",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294579",
-      "title": "奇瑞威麟R08 PRO即将上市",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294578",
-      "title": "岚图泰山X8内饰曝光：华为双屏+鸿蒙系统，庭院级大五座SUV即将上市",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294576",
-      "title": "福特烈马2026款谍照曝光：混动版重启，越野性能升级！",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294572",
-      "title": "小米YU7GT赛道曝光：1526马力高性能SUV，极速300km/h！",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294570",
-      "title": "比亚迪腾势欧洲上市！Z9GT预售价91.8万，5分钟快充技术亮相",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294590",
-      "title": "比亚迪新能源积分领跑，多家车企百万积分榜上有名",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294583",
-      "title": "比亚迪OTA更新全球领先，中国新能源车功能进化如手机",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294580",
-      "title": "微信支付推出AI支付接入新技能，一键速通支付接入流程！",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294574",
-      "title": "蔚来ES9旗舰SUV今晚发布：激光雷达+双电机，续航620公里！",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294571",
-      "title": "宝马氢能技术突破：新一代X5续航750公里，5分钟快充！",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294588",
-      "title": "原油大跌，美国加油费却纹丝不动？",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294589",
-      "title": "英特尔加入马斯克Terafab项目",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294587",
-      "title": "特斯拉Cybercab为何“返祖”装舵？说好的无方向盘呢？",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294586",
-      "title": "多家华尔街投行下调特斯拉目标价",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/294585",
-      "title": "马斯克称特斯拉FSD可减少90%车祸死亡",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294584",
-      "title": "中国速度震撼世界！张雪机车葡萄牙赛道夺冠创历史",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294581",
-      "title": "蔚来ES9今晚发布：中国文化美学融合，超劳斯莱斯尺寸，豪华配置全拉满",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294573",
-      "title": "比亚迪海狮6日本销量破900辆，插混SUV性价比超本土品牌",
-      "source": "第一电动",
-      "pushedAt": 1775725416620
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294605",
       "title": "吉利银河星舰M7预售开启，13.98万起，续航1730km领先同级！",
@@ -7377,6 +7257,78 @@
       "title": "问界M8交付量破17万台",
       "source": "第一电动",
       "pushedAt": 1776325938138
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295555",
+      "title": "TechWeb微晚报：小米史上最大电池手机曝光，海外明星AI项目被曝抄袭中国团队",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295553",
+      "title": "问界M9L曝光：5.4米行政级SUV，华为激光雷达加持，续航超650km！",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295549",
+      "title": "奕境曾清林：奕境汽车百强经销商落定，超300家“奕境的家”将陆续亮相",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295558",
+      "title": "消息称零跑汽车在意大利大卖 Q1电动汽车市场份额接近30%",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295556",
+      "title": "雷军亲测！小米SU7北京到上海15小时续航直播即将开启",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295559",
+      "title": "算力租赁板块持续走高：供需失衡下的价值重估浪潮",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295557",
+      "title": "雷军直播挑战：小米SU7一电横跨京沪1265公里！",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295554",
+      "title": "比亚迪去年推送200次车机软件更新，丰田8次更新几乎可忽略不计",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295552",
+      "title": "ASML一季度业绩超预期：净销售额88亿欧元创新高",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295551",
+      "title": "特斯拉FSD开启即满分！安全评分3.0助车主省保费",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295548",
+      "title": "汉高推出无PFAS涂层 用于汽车显示屏",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295547",
+      "title": "Hall Lidar推出低成本声学传感无人机探测技术 专用于反无人机系统及隐蔽监控",
+      "source": "第一电动",
+      "pushedAt": 1776330859890
     }
   ],
   "lastUpdated": "2026-04-16"
