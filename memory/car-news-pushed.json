@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293599",
-    "https://www.d1ev.com/newsflash/293598",
-    "https://www.d1ev.com/carnews/xinche/293596",
     "https://www.d1ev.com/news/shichang/293594",
     "https://www.d1ev.com/newsflash/293590",
     "https://www.d1ev.com/newsflash/293592",
@@ -1999,21 +1996,12 @@
     "https://www.d1ev.com/newsflash/295770",
     "https://www.d1ev.com/news/shichang/295775",
     "https://www.d1ev.com/news/qiye/295772",
-    "https://www.d1ev.com/newsflash/295766"
+    "https://www.d1ev.com/newsflash/295766",
+    "https://www.d1ev.com/news/qiye/295783",
+    "https://www.d1ev.com/newsflash/295781",
+    "https://www.d1ev.com/newsflash/295782"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294826",
-      "title": "奥迪Q6Le-tron系列新车型上市，售价26.98万起，CLTC续航高达672km",
-      "source": "第一电动",
-      "pushedAt": 1775839450270
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294825",
-      "title": "小米汽车XLA架构揭秘：智能驾驶技术新突破，模拟驾驶场景提升辅助驾驶能力",
-      "source": "第一电动",
-      "pushedAt": 1775839450270
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/294840",
       "title": "别克至境E7预售：全系都配真龙插混Pro",
@@ -7305,7 +7293,25 @@
       "title": "本田Insight纯电SUV日本开售，中国制造逆向进口首例",
       "source": "第一电动",
       "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295783",
+      "title": "预售22.98万起 鸿蒙智行尚界Z7/Z7T预定已破7万：下周上市",
+      "source": "第一电动",
+      "pushedAt": 1776444643475
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295781",
+      "title": "零跑D19全尺寸SUV震撼上市，21.98万起售，500公里纯电续航挑战市场！",
+      "source": "第一电动",
+      "pushedAt": 1776444643475
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295782",
+      "title": "乐道新智驾方案引发老车主贬值担忧，官方补偿方案出炉",
+      "source": "第一电动",
+      "pushedAt": 1776444643475
     }
   ],
-  "lastUpdated": "2026-04-17"
+  "lastUpdated": "2026-04-18"
 }
