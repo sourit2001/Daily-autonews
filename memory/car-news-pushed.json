@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293574",
-    "https://www.d1ev.com/news/shichang/293585",
-    "https://www.d1ev.com/news/shichang/293578",
-    "https://www.d1ev.com/news/qiye/293577",
-    "https://www.d1ev.com/newsflash/293572",
-    "https://www.d1ev.com/newsflash/293571",
-    "https://www.d1ev.com/carnews/xinche/293570",
-    "https://www.d1ev.com/news/qiye/293569",
-    "https://www.d1ev.com/news/shichang/293565",
-    "https://www.d1ev.com/newsflash/293600",
     "https://www.d1ev.com/newsflash/293599",
     "https://www.d1ev.com/newsflash/293598",
     "https://www.d1ev.com/carnews/xinche/293596",
@@ -1999,63 +1989,19 @@
     "https://www.d1ev.com/newsflash/295752",
     "https://www.d1ev.com/newsflash/295760",
     "https://www.d1ev.com/newsflash/295756",
-    "https://www.d1ev.com/newsflash/295753"
+    "https://www.d1ev.com/newsflash/295753",
+    "https://www.d1ev.com/carnews/xinche/295776",
+    "https://www.d1ev.com/newsflash/295773",
+    "https://www.d1ev.com/newsflash/295771",
+    "https://www.d1ev.com/newsflash/295769",
+    "https://www.d1ev.com/newsflash/295767",
+    "https://www.d1ev.com/newsflash/295765",
+    "https://www.d1ev.com/newsflash/295770",
+    "https://www.d1ev.com/news/shichang/295775",
+    "https://www.d1ev.com/news/qiye/295772",
+    "https://www.d1ev.com/newsflash/295766"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294812",
-      "title": "奥迪A6Le-tron震撼上市！800V高压电架构，续航高达815km",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294810",
-      "title": "奥迪A6Le-tron震撼上市，续航815公里快充20分钟！",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294809",
-      "title": "极氪001五周年纪念版震撼上市，36.5万起售，性能与豪华并存！",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294808",
-      "title": "腾势N8L闪充版预售开启！35万起，430公里纯电续航+5分钟快充",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294807",
-      "title": "魏牌新摩卡Hi4Max版上市！18.58万起，4.7秒破百，纯电续航165公里",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294806",
-      "title": "广汽昊铂S600官图发布，中大型轿跑SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294805",
-      "title": "奥迪Q6Le-tron家族上市，续航高达709公里，支持270kW快充！",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294804",
-      "title": "长城魏牌V9X标轴版4月16日预售，4秒级加速混动新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294811",
-      "title": "北汽极狐问道V9：1330公里续航，15分钟快充，高端MPV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1775832230171
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294826",
       "title": "奥迪Q6Le-tron系列新车型上市，售价26.98万起，CLTC续航高达672km",
@@ -7299,6 +7245,66 @@
       "title": "东风本田否认工厂关闭传闻，产能优化应对销量下滑",
       "source": "第一电动",
       "pushedAt": 1776431258655
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295776",
+      "title": "魏牌V9X开启预售 预售价37.18-41.18万元",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295773",
+      "title": "“日均3.5款新车上市！零跑CEO：规模比盈利更重要”",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295771",
+      "title": "长城魏牌V9X豪华插混SUV开启预售，37万起售！",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295769",
+      "title": "极氪8X中型SUV震撼上市，35.68万起售，零百加速仅2.96秒！",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295767",
+      "title": "魏牌V9X开启预售，37.18万起的AI豪华六座旗舰混动SUV！",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295765",
+      "title": "极氪8X旗舰电混SUV震撼上市，35.68万起享首发权益！",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295770",
+      "title": "雷军亲测小米SU7Pro：15小时1313公里续航挑战成功！",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295775",
+      "title": "奇瑞正式发布15万级硬派越野皮卡威麟R08 PRO",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295772",
+      "title": "吉利发布中国首个舱驾融合超级智能体，极氪8X首搭",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295766",
+      "title": "本田Insight纯电SUV日本开售，中国制造逆向进口首例",
+      "source": "第一电动",
+      "pushedAt": 1776437537372
     }
   ],
   "lastUpdated": "2026-04-17"
