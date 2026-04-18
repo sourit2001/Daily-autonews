@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293639",
-    "https://www.d1ev.com/newsflash/293636",
-    "https://www.d1ev.com/newsflash/293634",
-    "https://www.d1ev.com/news/shichang/293625",
-    "https://www.d1ev.com/newsflash/293648",
-    "https://www.d1ev.com/newsflash/293646",
-    "https://www.d1ev.com/newsflash/293645",
-    "https://www.d1ev.com/newsflash/293643",
-    "https://www.d1ev.com/newsflash/293647",
     "https://www.d1ev.com/newsflash/293644",
     "https://www.d1ev.com/newsflash/293641",
     "https://www.d1ev.com/newsflash/293651",
@@ -1999,45 +1990,18 @@
     "https://www.d1ev.com/newsflash/295829",
     "https://www.d1ev.com/newsflash/295828",
     "https://www.d1ev.com/newsflash/295825",
-    "https://www.d1ev.com/newsflash/295824"
+    "https://www.d1ev.com/newsflash/295824",
+    "https://www.d1ev.com/newsflash/295838",
+    "https://www.d1ev.com/news/shichang/295837",
+    "https://www.d1ev.com/newsflash/295832",
+    "https://www.d1ev.com/newsflash/295836",
+    "https://www.d1ev.com/newsflash/295833",
+    "https://www.d1ev.com/newsflash/295831",
+    "https://www.d1ev.com/news/shichang/295835",
+    "https://www.d1ev.com/newsflash/295834",
+    "https://www.d1ev.com/news/shichang/295830"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294895",
-      "title": "鸿蒙SUV问界M6预售破10万，年轻家庭新宠儿！",
-      "source": "第一电动",
-      "pushedAt": 1775903381103
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294894",
-      "title": "华为与卓驭CEO激辩智驾演进方向：L3是必经之路还是可以跨越？",
-      "source": "第一电动",
-      "pushedAt": 1775903381103
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294891",
-      "title": "问界汽车五年突破百万用户，充电行驶里程占比超70%",
-      "source": "第一电动",
-      "pushedAt": 1775903381103
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294893",
-      "title": "问界M6预订破10万！26.98万起售，华为激光雷达加持",
-      "source": "第一电动",
-      "pushedAt": 1775903381103
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294892",
-      "title": "京东联手新主机厂打造国民好车，4月13日揭晓！",
-      "source": "第一电动",
-      "pushedAt": 1775903381103
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294890",
-      "title": "广汽海尔强强联手，共筑“人车家”智慧生态新篇章",
-      "source": "第一电动",
-      "pushedAt": 1775903381103
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294896",
       "title": "汽车行业竞争加剧，蔚来李斌：新车难热销超一年",
@@ -7215,6 +7179,60 @@
       "title": "蔚来ES9隐藏门把手安全升级，破冰开门新体验！",
       "source": "第一电动",
       "pushedAt": 1776501740482
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295838",
+      "title": "Cerebras挑战英伟达：750兆瓦AI芯片助力OpenAI，拟纳斯达克上市",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295837",
+      "title": "加拿大一季度新车销量微降，是市场疲软，还是回归常态？",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295832",
+      "title": "高德地图首款“机器狗”机器人亮相北京马拉松大赛",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295836",
+      "title": "索尼获日本政府巨额补贴，AI图像传感器产能大增",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295833",
+      "title": "AI争议升级：美国选民对AI看法两极化，就业市场影响尚不明显",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295831",
+      "title": "华为ADS5智驾系统实测：城区辅助驾驶效率大提升",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295835",
+      "title": "200亿关税退款即将开申！美国车企的“及时雨”，还是“空头支票”？",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295834",
+      "title": "本田在华燃油车产能将大幅削减，广本部分产线2026年停产",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295830",
+      "title": "激光雷达的尽头不是卷价格，而是6D全彩？",
+      "source": "第一电动",
+      "pushedAt": 1776508573491
     }
   ],
   "lastUpdated": "2026-04-18"
