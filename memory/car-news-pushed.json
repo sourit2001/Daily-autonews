@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293623",
-    "https://www.d1ev.com/carnews/xinche/293631",
-    "https://www.d1ev.com/newsflash/293630",
-    "https://www.d1ev.com/news/shichang/293622",
-    "https://www.d1ev.com/newsflash/293637",
-    "https://www.d1ev.com/newsflash/293626",
     "https://www.d1ev.com/news/shichang/293639",
     "https://www.d1ev.com/newsflash/293636",
     "https://www.d1ev.com/newsflash/293634",
@@ -1999,63 +1993,15 @@
     "https://www.d1ev.com/newsflash/295817",
     "https://www.d1ev.com/newsflash/295815",
     "https://www.d1ev.com/newsflash/295822",
-    "https://www.d1ev.com/newsflash/295820"
+    "https://www.d1ev.com/newsflash/295820",
+    "https://www.d1ev.com/newsflash/295827",
+    "https://www.d1ev.com/newsflash/295826",
+    "https://www.d1ev.com/newsflash/295829",
+    "https://www.d1ev.com/newsflash/295828",
+    "https://www.d1ev.com/newsflash/295825",
+    "https://www.d1ev.com/newsflash/295824"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294889",
-      "title": "苹果数字车钥匙功能将扩展至雷克萨斯新车型",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294888",
-      "title": "普京强调：俄罗斯AI发展须自主可控，2030年全面应用",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294886",
-      "title": "中国首颗舱驾融合芯片“星空”将发布，车企成本大降",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294885",
-      "title": "Framework CEO警告：AI浪潮或终结个人计算时代",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294883",
-      "title": "一季度新能源汽车出口暴增130%，广汽董事长：出海下半场核心有2件事",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294882",
-      "title": "比亚迪廉玉波：新能源汽车产业迎来“四化”新阶段",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294881",
-      "title": "2030年新能源车将占市场70%，县级市场渗透率不足20%",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294887",
-      "title": "长城哈弗方盒子征名投票开启，12佳候选名揭晓！",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294884",
-      "title": "长安汽车赵非：汽车产业竞争转向生态价值，3月销量环比大增",
-      "source": "第一电动",
-      "pushedAt": 1775896637313
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294895",
       "title": "鸿蒙SUV问界M6预售破10万，年轻家庭新宠儿！",
@@ -7233,6 +7179,42 @@
       "title": "智界V9车载冰箱突破技术瓶颈，12小时断电保冷引领高端MPV新标杆",
       "source": "第一电动",
       "pushedAt": 1776495685814
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295827",
+      "title": "AI设计神器ClaudeDesign：25分钟耗尽80%周配额，小白也能出专业作品",
+      "source": "第一电动",
+      "pushedAt": 1776501740482
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295826",
+      "title": "赵明跨界汽车智能驾驶，千里科技智驾技术挑战特斯拉",
+      "source": "第一电动",
+      "pushedAt": 1776501740482
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295829",
+      "title": "南京虚拟电厂规模激增，车主卖电赚钱新潮流！",
+      "source": "第一电动",
+      "pushedAt": 1776501740482
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295828",
+      "title": "蔚来ES9隐藏门把手合规性获官方确认：安全防护机制详解",
+      "source": "第一电动",
+      "pushedAt": 1776501740482
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295825",
+      "title": "法拉第未来获4500万美元融资，2026年机器人出货目标超1000台",
+      "source": "第一电动",
+      "pushedAt": 1776501740482
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295824",
+      "title": "蔚来ES9隐藏门把手安全升级，破冰开门新体验！",
+      "source": "第一电动",
+      "pushedAt": 1776501740482
     }
   ],
   "lastUpdated": "2026-04-18"
