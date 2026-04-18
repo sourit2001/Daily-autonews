@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293594",
-    "https://www.d1ev.com/newsflash/293590",
-    "https://www.d1ev.com/newsflash/293592",
-    "https://www.d1ev.com/newsflash/293591",
-    "https://www.d1ev.com/newsflash/293587",
-    "https://www.d1ev.com/news/shichang/293597",
-    "https://www.d1ev.com/news/shichang/293595",
-    "https://www.d1ev.com/news/shichang/293593",
-    "https://www.d1ev.com/carnews/xinche/293589",
-    "https://www.d1ev.com/newsflash/293586",
-    "https://www.d1ev.com/newsflash/293619",
-    "https://www.d1ev.com/newsflash/293615",
-    "https://www.d1ev.com/newsflash/293610",
     "https://www.d1ev.com/newsflash/293609",
     "https://www.d1ev.com/newsflash/293602",
     "https://www.d1ev.com/newsflash/293601",
@@ -1999,93 +1986,22 @@
     "https://www.d1ev.com/newsflash/295766",
     "https://www.d1ev.com/news/qiye/295783",
     "https://www.d1ev.com/newsflash/295781",
-    "https://www.d1ev.com/newsflash/295782"
+    "https://www.d1ev.com/newsflash/295782",
+    "https://www.d1ev.com/newsflash/295796",
+    "https://www.d1ev.com/carnews/xinche/295791",
+    "https://www.d1ev.com/news/shichang/295789",
+    "https://www.d1ev.com/news/qiye/295787",
+    "https://www.d1ev.com/newsflash/295784",
+    "https://www.d1ev.com/carnews/xinche/295794",
+    "https://www.d1ev.com/newsflash/295793",
+    "https://www.d1ev.com/newsflash/295785",
+    "https://www.d1ev.com/newsflash/295792",
+    "https://www.d1ev.com/newsflash/295790",
+    "https://www.d1ev.com/newsflash/295786",
+    "https://www.d1ev.com/carnews/xinche/295795",
+    "https://www.d1ev.com/news/shichang/295788"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294840",
-      "title": "别克至境E7预售：全系都配真龙插混Pro",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294839",
-      "title": "五菱再造亲民六座大车 星光L官图发布",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294838",
-      "title": "比亚迪腾势N8L闪充版预售：35万元起",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294835",
-      "title": "新款长安启源Q05上市：8.99万起",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294827",
-      "title": "巅峰之上再重塑 新款迈巴赫S级新车图解",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294831",
-      "title": "特斯拉FSD获荷兰批准，欧洲市场推广加速",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294841",
-      "title": "特斯拉Model Y销量飙升，3月国内销量近4万辆夺冠",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294837",
-      "title": "“龙虾”创始人账号疑遭Anthropic封禁，疑因OpenClaw工具使用冲突",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294836",
-      "title": "小米SU7新功能5月OTA推送，XLA技术与世界模型共进化",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294834",
-      "title": "欧盟审查ChatGPT：月活跃用户超1.2亿，监管风暴来袭？",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294833",
-      "title": "特斯拉推出2026款改款Model Y 新增风暴轮毂",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294830",
-      "title": "特斯拉Model Y再升级：黑化车标+新轮毂+内饰颜色可选",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294829",
-      "title": "科技巨头联手核能，小型模块化反应堆成新宠",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294828",
-      "title": "广汽集团与海尔集团战略签约",
-      "source": "第一电动",
-      "pushedAt": 1775872269061
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294856",
       "title": "长安汽车遭起诉：网约车电池故障频发，损失超千万",
@@ -7311,6 +7227,84 @@
       "title": "乐道新智驾方案引发老车主贬值担忧，官方补偿方案出炉",
       "source": "第一电动",
       "pushedAt": 1776444643475
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295796",
+      "title": "“2026北京车展：全球最大车展开幕，1451台展车震撼亮相”",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295791",
+      "title": "福特纯电SUV原型车曝光 定位“高铁”座驾",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295789",
+      "title": "V8加持 曝阿斯顿·马丁Vantage性能版谍照",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/295787",
+      "title": "理想看了沉默 福特纯电SUV原型车曝光：定位“高铁级”座驾",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295784",
+      "title": "福特曝光取消项目：未来纯电SUV原型车亮相",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295794",
+      "title": "本田从中国“反向进口”电动车 续航535k",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295793",
+      "title": "Cloudflare邮件服务公测开启，AI智能体邮件收发新体验！",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295785",
+      "title": "AI设计革命！ClaudeDesign工具让非设计师也能快速产出视觉作品",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295792",
+      "title": "Meta大裁员风暴来袭：全球10%员工或将失业",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295790",
+      "title": "比亚迪申请加入欧洲汽车制造商协会，有望成首家中国车企！",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295786",
+      "title": "福特CEO：借鉴中国车企优势，阻止其进入美国市场",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295795",
+      "title": "均为双拼色 新一代问界M9三款新配色公布",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295788",
+      "title": "2026年一季度国内热销SUV质量排行",
+      "source": "第一电动",
+      "pushedAt": 1776477251295
     }
   ],
   "lastUpdated": "2026-04-18"
