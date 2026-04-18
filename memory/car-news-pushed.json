@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293650",
     "https://www.d1ev.com/carnews/xinche/293649",
     "https://www.d1ev.com/newsflash/293659",
     "https://www.d1ev.com/newsflash/293657",
@@ -1999,75 +1998,10 @@
     "https://www.d1ev.com/newsflash/295842",
     "https://www.d1ev.com/carnews/xinche/295839",
     "https://www.d1ev.com/newsflash/295843",
-    "https://www.d1ev.com/newsflash/295840"
+    "https://www.d1ev.com/newsflash/295840",
+    "https://www.d1ev.com/newsflash/295844"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294910",
-      "title": "滴滴张博：L4自动驾驶技术落地，混合网络成商业应用新路径",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294909",
-      "title": "智能电动2026｜马智欣：日产会将更多中国造车型推向全球市场",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294908",
-      "title": "智能电动2026｜高大鹏：坚持长期主义，推动中国汽车产业链协同出海",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294907",
-      "title": "智能电动2026｜石清华：汽车行业已进入算力荒，全量推理时代到来",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294906",
-      "title": "智能电动2026｜缪钦：京东汽车不 “造车”，要做新能源全生命周期服务增量",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294904",
-      "title": "智能电动2026｜韩三楚： 大众本土研发体系迎来规模化量产落地",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294903",
-      "title": "智能2026电动｜王琅：全球化新定位，打造本土型中国车企",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294901",
-      "title": "蔚来2026款L90搭载5nm智能芯片，引领智能驾驶新纪元",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294900",
-      "title": "比亚迪领汇e7即将发布：5分钟闪充，450km/550km续航新选择",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294905",
-      "title": "特斯拉车主DIY：3.5英寸软盘驱动器成功播放MP3音乐",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294902",
-      "title": "理想汽车强硬反击：将追责恶意比对帖文幕后黑手",
-      "source": "第一电动",
-      "pushedAt": 1775917993135
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/294913",
       "title": "智能电动2026｜廉玉波：新能源汽车产业确定性与不确定性并存，技术创新锚定用户真实体验",
@@ -7233,6 +7167,12 @@
       "title": "比亚迪珠峰小镇闪充站全球海拔最高，5分钟快充奇迹！",
       "source": "第一电动",
       "pushedAt": 1776516703141
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295844",
+      "title": "AI通信协议MCP现重大漏洞，多语言支持项目面临安全风险",
+      "source": "第一电动",
+      "pushedAt": 1776522986668
     }
   ],
   "lastUpdated": "2026-04-18"
