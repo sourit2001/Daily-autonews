@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293644",
-    "https://www.d1ev.com/newsflash/293641",
-    "https://www.d1ev.com/newsflash/293651",
-    "https://www.d1ev.com/newsflash/293642",
     "https://www.d1ev.com/newsflash/293650",
     "https://www.d1ev.com/carnews/xinche/293649",
     "https://www.d1ev.com/newsflash/293659",
@@ -1999,33 +1995,13 @@
     "https://www.d1ev.com/newsflash/295831",
     "https://www.d1ev.com/news/shichang/295835",
     "https://www.d1ev.com/newsflash/295834",
-    "https://www.d1ev.com/news/shichang/295830"
+    "https://www.d1ev.com/news/shichang/295830",
+    "https://www.d1ev.com/newsflash/295842",
+    "https://www.d1ev.com/carnews/xinche/295839",
+    "https://www.d1ev.com/newsflash/295843",
+    "https://www.d1ev.com/newsflash/295840"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294896",
-      "title": "汽车行业竞争加剧，蔚来李斌：新车难热销超一年",
-      "source": "第一电动",
-      "pushedAt": 1775911419588
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294899",
-      "title": "智能电动2026｜李克强：车路云一体化可破解智能安全瓶颈等问题",
-      "source": "第一电动",
-      "pushedAt": 1775911419588
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294898",
-      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
-      "source": "第一电动",
-      "pushedAt": 1775911419588
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294897",
-      "title": "京东联手长安深蓝，4月13日揭晓国民好车新合作！",
-      "source": "第一电动",
-      "pushedAt": 1775911419588
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294910",
       "title": "滴滴张博：L4自动驾驶技术落地，混合网络成商业应用新路径",
@@ -7233,6 +7209,30 @@
       "title": "激光雷达的尽头不是卷价格，而是6D全彩？",
       "source": "第一电动",
       "pushedAt": 1776508573491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295842",
+      "title": "哈弗猛龙PLUS预售开启，5.8秒破百，续航超1000公里！",
+      "source": "第一电动",
+      "pushedAt": 1776516703141
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295839",
+      "title": "哈弗猛龙PLUS开启预售 预售价18.98-21.58万",
+      "source": "第一电动",
+      "pushedAt": 1776516703141
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295843",
+      "title": "Anthropic CEO达里奥·阿莫迪：AI发展无限延伸，未来五年或取代半数初级白领岗位",
+      "source": "第一电动",
+      "pushedAt": 1776516703141
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295840",
+      "title": "比亚迪珠峰小镇闪充站全球海拔最高，5分钟快充奇迹！",
+      "source": "第一电动",
+      "pushedAt": 1776516703141
     }
   ],
   "lastUpdated": "2026-04-18"
