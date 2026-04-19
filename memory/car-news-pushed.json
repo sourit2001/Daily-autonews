@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293672",
-    "https://www.d1ev.com/news/qiye/293670",
     "https://www.d1ev.com/newsflash/293755",
     "https://www.d1ev.com/carnews/xinche/293749",
     "https://www.d1ev.com/newsflash/293732",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/295886",
     "https://www.d1ev.com/newsflash/295883",
     "https://www.d1ev.com/news/shichang/295891",
-    "https://www.d1ev.com/newsflash/295890"
+    "https://www.d1ev.com/newsflash/295890",
+    "https://www.d1ev.com/newsflash/295893",
+    "https://www.d1ev.com/newsflash/295892"
   ],
   "newsHistory": [
     {
@@ -7125,6 +7125,18 @@
       "title": "小米智能助手Xiaomimiclaw国内首批通过权威评测，科技发烧友专属",
       "source": "第一电动",
       "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295893",
+      "title": "“双林K7”全球首发：L4级无人驾驶矿卡，智能运输新突破！",
+      "source": "第一电动",
+      "pushedAt": 1776603012416
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295892",
+      "title": "荣耀机器人队北京半马夺冠，打破人类纪录！",
+      "source": "第一电动",
+      "pushedAt": 1776603012416
     }
   ],
   "lastUpdated": "2026-04-19"
