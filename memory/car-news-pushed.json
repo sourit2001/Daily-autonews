@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293755",
-    "https://www.d1ev.com/carnews/xinche/293749",
-    "https://www.d1ev.com/newsflash/293732",
-    "https://www.d1ev.com/newsflash/293729",
-    "https://www.d1ev.com/newsflash/293722",
     "https://www.d1ev.com/newsflash/293721",
     "https://www.d1ev.com/newsflash/293719",
     "https://www.d1ev.com/newsflash/293713",
@@ -1999,93 +1994,14 @@
     "https://www.d1ev.com/news/shichang/295891",
     "https://www.d1ev.com/newsflash/295890",
     "https://www.d1ev.com/newsflash/295893",
-    "https://www.d1ev.com/newsflash/295892"
+    "https://www.d1ev.com/newsflash/295892",
+    "https://www.d1ev.com/newsflash/295896",
+    "https://www.d1ev.com/carnews/xinche/295895",
+    "https://www.d1ev.com/newsflash/295898",
+    "https://www.d1ev.com/newsflash/295897",
+    "https://www.d1ev.com/newsflash/295894"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294970",
-      "title": "中国特种机器人技术突破：智能工兵、海缆探测、智能平仓机器人亮相实际应用",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294978",
-      "title": "智能电动2026 |智能电动汽车发展高层论坛首日大咖云集，共话“十五五”汽车产业发展新趋势",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294976",
-      "title": "广汽丰田三月三冠王：新能源、MPV、中型轿车销量领跑",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294975",
-      "title": "阿里云桌面Agent CoPaw升级更名QwenPaw，打造个性化AI助手新生态",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294974",
-      "title": "特斯拉Model S/X Plaid签名版限量发售，售价超百万元！",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294972",
-      "title": "智能电动2026 | 轻舟智航联合创始人、董事长兼CEO于骞：物理AI，智驾的下一个战场",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294979",
-      "title": "宇通李高鹏：大客车不宜无人驾驶，人机共驾更安全",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294977",
-      "title": "智能驾驶市场规模超千亿，城市NOA用户黏性仅两成",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294973",
-      "title": "华为问界M系列升级激光雷达，1万元提升智能驾驶体验",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294971",
-      "title": "智能汽车发展论坛聚焦：行业需打破壁垒，共筑智能化未来",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294969",
-      "title": "蔚来换电站成本优势明显，2026年计划新建1000座换电站",
-      "source": "第一电动",
-      "pushedAt": 1775998272981
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294982",
-      "title": "“无人车助力快递业升级：6亿美元融资聚焦AI，青岛无人配送车将增至3000辆”",
-      "source": "第一电动",
-      "pushedAt": 1776004604680
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294981",
-      "title": "爱芯元智以开放生态定义智驾普惠方案",
-      "source": "第一电动",
-      "pushedAt": 1776004604680
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294980",
-      "title": "芯片价格飙升，汽车成本激增数千元，车企成本管控面临挑战",
-      "source": "第一电动",
-      "pushedAt": 1776004604680
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294989",
       "title": "广汽科技日：星源动力系统获十佳，国产芯片车规级生态新突破",
@@ -7137,6 +7053,36 @@
       "title": "荣耀机器人队北京半马夺冠，打破人类纪录！",
       "source": "第一电动",
       "pushedAt": 1776603012416
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295896",
+      "title": "奇瑞星途EX7震撼上市！增程/纯电双动力，航空级EMB系统加持",
+      "source": "第一电动",
+      "pushedAt": 1776609474560
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/295895",
+      "title": "星途EX7正式上市 售价19.99-26.39万元",
+      "source": "第一电动",
+      "pushedAt": 1776609474560
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295898",
+      "title": "AI漫画不侵权？德国法院判摄影师败诉",
+      "source": "第一电动",
+      "pushedAt": 1776609474560
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295897",
+      "title": "郑州新能源轿车突发大火 路人及时扑救避免更大损失",
+      "source": "第一电动",
+      "pushedAt": 1776609474560
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295894",
+      "title": "华为靳玉志：乾崑智驾累计辅助驾驶总里程在中国率先突破100亿公里，ADS 5 整体表现“非常丝滑”",
+      "source": "第一电动",
+      "pushedAt": 1776609474560
     }
   ],
   "lastUpdated": "2026-04-19"
