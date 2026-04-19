@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293704",
-    "https://www.d1ev.com/newsflash/293703",
-    "https://www.d1ev.com/newsflash/293699",
-    "https://www.d1ev.com/newsflash/293698",
     "https://www.d1ev.com/carnews/xinche/293696",
     "https://www.d1ev.com/carnews/xinche/293694",
     "https://www.d1ev.com/news/qiye/293693",
@@ -1999,45 +1995,13 @@
     "https://www.d1ev.com/newsflash/295861",
     "https://www.d1ev.com/newsflash/295859",
     "https://www.d1ev.com/newsflash/295858",
-    "https://www.d1ev.com/newsflash/295857"
+    "https://www.d1ev.com/newsflash/295857",
+    "https://www.d1ev.com/newsflash/295874",
+    "https://www.d1ev.com/newsflash/295872",
+    "https://www.d1ev.com/newsflash/295873",
+    "https://www.d1ev.com/news/shichang/295871"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294951",
-      "title": "英国34亿巨资助力塔塔集团建欧洲最大电池厂，捷豹路虎将受益",
-      "source": "第一电动",
-      "pushedAt": 1775977652705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294950",
-      "title": "长城汽车智能化转型：AI智能体化引领未来出行新趋势",
-      "source": "第一电动",
-      "pushedAt": 1775977652705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294949",
-      "title": "宝马iX3 M60xDrive 2027年投产，双电机620-630马力，10分钟充电300公里续航",
-      "source": "第一电动",
-      "pushedAt": 1775977652705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294944",
-      "title": "美国大学研发新型凯夫拉锌电池 低成本高安全储能新选择",
-      "source": "第一电动",
-      "pushedAt": 1775977652705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294943",
-      "title": "三一重卡电动化领先：新能源重卡销量连续四年居首",
-      "source": "第一电动",
-      "pushedAt": 1775977652705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294945",
-      "title": "理想汽车李想怒斥“日系品牌黑水军”：反内卷成果遭破坏",
-      "source": "第一电动",
-      "pushedAt": 1775977652705
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294957",
       "title": "鸿蒙智行尚界Z7/Z7T预售火爆，6万台小订彰显市场热情",
@@ -7143,6 +7107,30 @@
       "title": "鸿蒙智行尚界Z7/Z7T预订量超7万，华为技术加持22.98万起",
       "source": "第一电动",
       "pushedAt": 1776578171010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295874",
+      "title": "哈弗猛龙PLUS预售开启！1.5T混动+超1000km续航，18.98万起",
+      "source": "第一电动",
+      "pushedAt": 1776582705871
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295872",
+      "title": "特斯拉无人驾驶出租车功能提前曝光，后排交互式地图升级",
+      "source": "第一电动",
+      "pushedAt": 1776582705871
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295873",
+      "title": "荣耀“闪电”机器人半马夺冠 刷新人类纪录",
+      "source": "第一电动",
+      "pushedAt": 1776582705871
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295871",
+      "title": "从22万到38万平米，2026北京车展的三大质变【附展馆图】",
+      "source": "第一电动",
+      "pushedAt": 1776582705871
     }
   ],
   "lastUpdated": "2026-04-19"
