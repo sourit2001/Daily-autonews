@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/293696",
-    "https://www.d1ev.com/carnews/xinche/293694",
-    "https://www.d1ev.com/news/qiye/293693",
-    "https://www.d1ev.com/news/qiye/293692",
-    "https://www.d1ev.com/newsflash/293691",
-    "https://www.d1ev.com/newsflash/293690",
-    "https://www.d1ev.com/news/shichang/293687",
     "https://www.d1ev.com/news/shichang/293686",
     "https://www.d1ev.com/news/shichang/293685",
     "https://www.d1ev.com/news/qiye/293684",
@@ -1999,51 +1992,16 @@
     "https://www.d1ev.com/newsflash/295874",
     "https://www.d1ev.com/newsflash/295872",
     "https://www.d1ev.com/newsflash/295873",
-    "https://www.d1ev.com/news/shichang/295871"
+    "https://www.d1ev.com/news/shichang/295871",
+    "https://www.d1ev.com/newsflash/295879",
+    "https://www.d1ev.com/newsflash/295877",
+    "https://www.d1ev.com/newsflash/295876",
+    "https://www.d1ev.com/newsflash/295880",
+    "https://www.d1ev.com/newsflash/295875",
+    "https://www.d1ev.com/newsflash/295882",
+    "https://www.d1ev.com/newsflash/295878"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294957",
-      "title": "鸿蒙智行尚界Z7/Z7T预售火爆，6万台小订彰显市场热情",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294954",
-      "title": "长安启源A06震撼上市，纯电续航630km，增程超2120km！",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294953",
-      "title": "广汽华为联手打造！启境GT7“梅里白”智能猎装车6月上市",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294956",
-      "title": "电动卡车越来越好卖？三一重卡董事长梁林河：比燃油卡车更好用、更划算",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294955",
-      "title": "“全球甲醇电动生态联盟”成立，吉利领衔推进甲醇技术普及",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294958",
-      "title": "阿里云CodingPlanLite套餐将停续费，新用户仅能购买Pro版",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/294952",
-      "title": "百亿研发还不够？车企巨头紧盯“高端化”，赛力斯何利扬：兼顾新老用户是关键",
-      "source": "第一电动",
-      "pushedAt": 1775983273461
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294964",
       "title": "华为智擎品牌亮相北京车展，引领新能源汽车智能化新纪元",
@@ -7131,6 +7089,48 @@
       "title": "从22万到38万平米，2026北京车展的三大质变【附展馆图】",
       "source": "第一电动",
       "pushedAt": 1776582705871
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295879",
+      "title": "吉利银河M9黑金版4月21日上市，搭载千里浩瀚H7方案，动力强劲续航超1500km",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295877",
+      "title": "“豆脚”机器人亮相北京亦庄半程马拉松，网友直呼最抽象跑者！",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295876",
+      "title": "“小短腿机器人”亮相北京半马，高擎动力MiniPiplus成焦点",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295880",
+      "title": "OpenAI推出ChatGPT年龄预测功能，守护青少年网络安全",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295875",
+      "title": "捷达JETTAX概念车全球首秀，一汽大众新能源车型发力2028",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295882",
+      "title": "问界汽车迈入量产新纪元：第100万台M9下线，两年冲刺第二个百万目标",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295878",
+      "title": "荣耀“闪电”机器人半马夺冠，超越人类纪录！",
+      "source": "第一电动",
+      "pushedAt": 1776588419259
     }
   ],
   "lastUpdated": "2026-04-19"
