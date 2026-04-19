@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293721",
     "https://www.d1ev.com/newsflash/293719",
     "https://www.d1ev.com/newsflash/293713",
     "https://www.d1ev.com/newsflash/293709",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/carnews/xinche/295895",
     "https://www.d1ev.com/newsflash/295898",
     "https://www.d1ev.com/newsflash/295897",
-    "https://www.d1ev.com/newsflash/295894"
+    "https://www.d1ev.com/newsflash/295894",
+    "https://www.d1ev.com/newsflash/295901"
   ],
   "newsHistory": [
     {
@@ -7083,7 +7083,13 @@
       "title": "华为靳玉志：乾崑智驾累计辅助驾驶总里程在中国率先突破100亿公里，ADS 5 整体表现“非常丝滑”",
       "source": "第一电动",
       "pushedAt": 1776609474560
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295901",
+      "title": "华为乾崑智驾ADS4升级：城区领航辅助NCA上线，安全驾驶新突破",
+      "source": "第一电动",
+      "pushedAt": 1776616420411
     }
   ],
-  "lastUpdated": "2026-04-19"
+  "lastUpdated": "2026-04-20"
 }
