@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293686",
-    "https://www.d1ev.com/news/shichang/293685",
-    "https://www.d1ev.com/news/qiye/293684",
-    "https://www.d1ev.com/newsflash/293682",
-    "https://www.d1ev.com/newsflash/293681",
-    "https://www.d1ev.com/news/shichang/293680",
-    "https://www.d1ev.com/newsflash/293676",
-    "https://www.d1ev.com/newsflash/293675",
-    "https://www.d1ev.com/newsflash/293674",
     "https://www.d1ev.com/newsflash/293672",
     "https://www.d1ev.com/news/qiye/293670",
     "https://www.d1ev.com/newsflash/293755",
@@ -1999,69 +1990,18 @@
     "https://www.d1ev.com/newsflash/295880",
     "https://www.d1ev.com/newsflash/295875",
     "https://www.d1ev.com/newsflash/295882",
-    "https://www.d1ev.com/newsflash/295878"
+    "https://www.d1ev.com/newsflash/295878",
+    "https://www.d1ev.com/newsflash/295888",
+    "https://www.d1ev.com/newsflash/295885",
+    "https://www.d1ev.com/newsflash/295884",
+    "https://www.d1ev.com/newsflash/295889",
+    "https://www.d1ev.com/news/shichang/295887",
+    "https://www.d1ev.com/newsflash/295886",
+    "https://www.d1ev.com/newsflash/295883",
+    "https://www.d1ev.com/news/shichang/295891",
+    "https://www.d1ev.com/newsflash/295890"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/294964",
-      "title": "华为智擎品牌亮相北京车展，引领新能源汽车智能化新纪元",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294968",
-      "title": "MiniMax M2.7模型开源：AI自我进化新突破，性能提升30%",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294963",
-      "title": "宝马iX3 M60xDrive 2027年投产，双电机620-630hp，10分钟充电300km续航！",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294962",
-      "title": "吉利新能源技术突破：极氪009成论坛官方用车，新一代i-HEV混动技术即将发布",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294960",
-      "title": "硅谷企业家沉迷AI模型，妄想症发作引发跟踪骚扰案",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294959",
-      "title": "E周看点 | 港股固态电池第一股来了；大众汽车今年推13款新能源车",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294967",
-      "title": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松，全球首次终端大厂机器人挑战",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294966",
-      "title": "吉利4月13日推i-HEV混动技术，百公里油耗仅3升",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/294965",
-      "title": "奇瑞销量暴涨481.6%，中国品牌抢占英国车市15%份额",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/294961",
-      "title": "小智一周要闻 | 理想系高管联手再创业；具身智能十亿融资再添两单",
-      "source": "第一电动",
-      "pushedAt": 1775990057517
-    },
     {
       "url": "https://www.d1ev.com/newsflash/294970",
       "title": "中国特种机器人技术突破：智能工兵、海缆探测、智能平仓机器人亮相实际应用",
@@ -7131,6 +7071,60 @@
       "title": "荣耀“闪电”机器人半马夺冠，超越人类纪录！",
       "source": "第一电动",
       "pushedAt": 1776588419259
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295888",
+      "title": "鸿蒙智行尚界Z7/Z7T预订破7万，安全配置强悍亮相",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295885",
+      "title": "广汽昊铂S600北京车展盲订开启，新豪华智慧SUV亮相",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295884",
+      "title": "东风奕派纳米01Cross亮相北京车展，携手华为智能方案新突破",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295889",
+      "title": "新能源车降价潮冲击二手车市：车商承压，市场分化加剧",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295887",
+      "title": "E周看点｜宁德时代一季度净利润207.38亿元；吉利一季度新能源渗透率超52%",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295886",
+      "title": "中国新能源汽车欧洲市场潜力巨大，美国消费者青睐高性价比",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295883",
+      "title": "谷歌AI新突破：A2UI0.9打造智能UI设计新标准",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/295891",
+      "title": "小智一周要闻 | 智元机器人计划2027年实现100亿元营收；速腾聚创获人形机器人企业订单",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/295890",
+      "title": "小米智能助手Xiaomimiclaw国内首批通过权威评测，科技发烧友专属",
+      "source": "第一电动",
+      "pushedAt": 1776594920190
     }
   ],
   "lastUpdated": "2026-04-19"
