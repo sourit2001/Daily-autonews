@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293859",
-    "https://www.d1ev.com/news/shichang/293856",
-    "https://www.d1ev.com/newsflash/293852",
-    "https://www.d1ev.com/newsflash/293846",
-    "https://www.d1ev.com/newsflash/293864",
-    "https://www.d1ev.com/newsflash/293849",
     "https://www.d1ev.com/news/shichang/293844",
     "https://www.d1ev.com/carnews/xinche/293861",
     "https://www.d1ev.com/carnews/xinche/293860",
@@ -1999,51 +1993,15 @@
     "https://www.d1ev.com/news/qiye/296000",
     "https://www.d1ev.com/news/shichang/295999",
     "https://www.d1ev.com/news/qiye/295997",
-    "https://www.d1ev.com/newsflash/295996"
+    "https://www.d1ev.com/newsflash/295996",
+    "https://www.d1ev.com/news/qiye/296042",
+    "https://www.d1ev.com/newsflash/296041",
+    "https://www.d1ev.com/newsflash/296037",
+    "https://www.d1ev.com/newsflash/296038",
+    "https://www.d1ev.com/newsflash/296040",
+    "https://www.d1ev.com/news/shichang/296039"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295109",
-      "title": "理想L9Livis预售开启！55.98万全尺寸SUV搭载800V全主动悬架",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295105",
-      "title": "凯迪拉克全尺寸纯电公路旗舰SUV凯威德将于4月22日上市",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295108",
-      "title": "京东独家销售深蓝L06增程版，300万法拉利同款悬架，3纳米芯片加持",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295104",
-      "title": "梅赛德斯-奔驰将携40款重磅车型及前沿AI创新闪耀北京车展",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295107",
-      "title": "智元机器人宣布其远征A3机器人完成首批交付，负责智能导览、沉浸式演艺和智慧运营等任务",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295106",
-      "title": "零跑将于北京车展推出Lafa 5 Ultra车型",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295103",
-      "title": "特斯拉试乘出事故，顾客索赔8000元精神抚慰金遭拒",
-      "source": "第一电动",
-      "pushedAt": 1776078828591
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295122",
       "title": "刘亦菲代言鸿蒙智行，智界V9新车搭载创新座椅功能",
@@ -7179,6 +7137,42 @@
       "title": "硅谷数据中心建设遇阻：电力短缺与社区反对成难题",
       "source": "第一电动",
       "pushedAt": 1776679121047
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296042",
+      "title": "电池、芯片涨完轮胎涨！超70家轮胎企业集体发布涨价函",
+      "source": "第一电动",
+      "pushedAt": 1776683808088
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296041",
+      "title": "新能源车主注意：充电桩费用上涨，省钱优势不再？",
+      "source": "第一电动",
+      "pushedAt": 1776683808088
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296037",
+      "title": "西班牙AI芯片新突破：2028年或商业化，功耗省30%！",
+      "source": "第一电动",
+      "pushedAt": 1776683808088
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296038",
+      "title": "字节跳动2025年国内营收增20% 海外增50% 净利润降超70%",
+      "source": "第一电动",
+      "pushedAt": 1776683808088
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296040",
+      "title": "特斯拉Cybertruck国内首撞：不锈钢车身硬撼轿车，仅部件脱落",
+      "source": "第一电动",
+      "pushedAt": 1776683808088
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296039",
+      "title": "卓然而立•品见未来 | 卓品智能科技总部基地大楼正式启用！",
+      "source": "第一电动",
+      "pushedAt": 1776683808088
     }
   ],
   "lastUpdated": "2026-04-20"
