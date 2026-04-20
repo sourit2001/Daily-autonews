@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293877",
-    "https://www.d1ev.com/newsflash/293876",
     "https://www.d1ev.com/newsflash/293868",
     "https://www.d1ev.com/news/shichang/293893",
     "https://www.d1ev.com/news/shichang/293889",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/296057",
     "https://www.d1ev.com/news/qiye/296066",
     "https://www.d1ev.com/news/qiye/296059",
-    "https://www.d1ev.com/newsflash/296056"
+    "https://www.d1ev.com/newsflash/296056",
+    "https://www.d1ev.com/newsflash/296072",
+    "https://www.d1ev.com/newsflash/296071"
   ],
   "newsHistory": [
     {
@@ -7137,7 +7137,19 @@
       "title": "何润东“西楚霸王”形象或成极氪8X新代言？官方回应引热议",
       "source": "第一电动",
       "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296072",
+      "title": "猛士汽车携手华为乾崑，未来两年推四款新车，打造智能越野新生态",
+      "source": "第一电动",
+      "pushedAt": 1776704368321
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296071",
+      "title": "岚图董事长卢放致敬C-NCAP：中国汽车安全20年飞跃",
+      "source": "第一电动",
+      "pushedAt": 1776704368321
     }
   ],
-  "lastUpdated": "2026-04-20"
+  "lastUpdated": "2026-04-21"
 }
