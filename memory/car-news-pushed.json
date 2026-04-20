@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/293844",
-    "https://www.d1ev.com/carnews/xinche/293861",
-    "https://www.d1ev.com/carnews/xinche/293860",
-    "https://www.d1ev.com/newsflash/293857",
-    "https://www.d1ev.com/news/shichang/293854",
-    "https://www.d1ev.com/news/qiye/293853",
-    "https://www.d1ev.com/newsflash/293851",
-    "https://www.d1ev.com/newsflash/293850",
-    "https://www.d1ev.com/newsflash/293845",
-    "https://www.d1ev.com/news/shichang/293843",
-    "https://www.d1ev.com/newsflash/293842",
-    "https://www.d1ev.com/newsflash/293841",
-    "https://www.d1ev.com/newsflash/293840",
     "https://www.d1ev.com/newsflash/293892",
     "https://www.d1ev.com/newsflash/293891",
     "https://www.d1ev.com/newsflash/293890",
@@ -1999,81 +1986,22 @@
     "https://www.d1ev.com/newsflash/296037",
     "https://www.d1ev.com/newsflash/296038",
     "https://www.d1ev.com/newsflash/296040",
-    "https://www.d1ev.com/news/shichang/296039"
+    "https://www.d1ev.com/news/shichang/296039",
+    "https://www.d1ev.com/news/qiye/296055",
+    "https://www.d1ev.com/newsflash/296054",
+    "https://www.d1ev.com/newsflash/296052",
+    "https://www.d1ev.com/newsflash/296049",
+    "https://www.d1ev.com/newsflash/296048",
+    "https://www.d1ev.com/newsflash/296047",
+    "https://www.d1ev.com/newsflash/296046",
+    "https://www.d1ev.com/newsflash/296051",
+    "https://www.d1ev.com/newsflash/296045",
+    "https://www.d1ev.com/newsflash/296053",
+    "https://www.d1ev.com/newsflash/296050",
+    "https://www.d1ev.com/news/shichang/296044",
+    "https://www.d1ev.com/newsflash/296043"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295122",
-      "title": "刘亦菲代言鸿蒙智行，智界V9新车搭载创新座椅功能",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295121",
-      "title": "荣威i6新车型预售开启，7万级智能家轿新选择！",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295120",
-      "title": "奇瑞风云T9L大五座SUV上市，12.99万起售搭载猎鹰700智能辅助",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295118",
-      "title": "奇瑞星途EX7SUV新上市：增程纯电双动力，航空级EMB系统加持",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295117",
-      "title": "荣威i6新车型6.59万起售，搭载骁龙8155芯片，国泰民安脸设计亮眼",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295115",
-      "title": "一汽-大众35周年庆典：五款新车齐发，燃油与电动全面进化",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295113",
-      "title": "魏牌V9X豪华六座SUV即将预售，4秒破百，混动技术革新！",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295112",
-      "title": "极狐S3北京车展亮相：纯电续航650公里，换电版159千瓦电机",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295111",
-      "title": "星途EX7即将上市：增程/纯电双动力，3000mm轴距大空间！",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/295119",
-      "title": "2025年车企年报盘点：营收超3000亿达4家，多家车企增收不增利，海外市场将成盈利新增长点？",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295116",
-      "title": "中国车企引领HEV竞争升级：从机械技术走向系统能力",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295114",
-      "title": "清华学子王文杰刷新半马纪录，小米YU7成北京半程马拉松官方用车",
-      "source": "第一电动",
-      "pushedAt": 1776086076252
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295142",
       "title": "奇瑞风云T9L中型混动SUV上市，12.99万起售，纯电续航高达230km！",
@@ -7173,6 +7101,84 @@
       "title": "卓然而立•品见未来 | 卓品智能科技总部基地大楼正式启用！",
       "source": "第一电动",
       "pushedAt": 1776683808088
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296055",
+      "title": "全新坦克700正式上市，售价42.8万起",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296054",
+      "title": "华为加持！深蓝S07激光雷达版智能SUV上市，续航630km",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296052",
+      "title": "深蓝S07华为激光版上市！15.99万起，智能驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296049",
+      "title": "星途EX7豪华大五座SUV上市，19.99万起售，搭载航空级EMB技术",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296048",
+      "title": "坦克700新车型上市，售价42.8万起，硬派越野新选择！",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296047",
+      "title": "奔驰纯电C级车全球首发：762公里续航+10分钟快充325公里",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296046",
+      "title": "比亚迪海狮05双狮上市：激光雷达加持，续航2105km，9.79万起！",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296051",
+      "title": "岚图泰山黑武士L3级SUV全国20城46店开售，华为顶级智驾加持",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296045",
+      "title": "理想L9Livis全球首秀：5nm芯片+800V悬架，智能旗舰SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296053",
+      "title": "中兴路由器新“龙虾”Co-Claw功能公测开启，首批99名额抢先体验！",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296050",
+      "title": "重庆一季度GDP增长4.5%，摩托车产业增长44.1%领跑",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296044",
+      "title": "赛力斯与奇安信达成战略安全合作，共建数据安全联合创新实验室",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296043",
+      "title": "猛士汽车携手华为，八大黑科技打造智能越野新标杆",
+      "source": "第一电动",
+      "pushedAt": 1776691175551
     }
   ],
   "lastUpdated": "2026-04-20"
