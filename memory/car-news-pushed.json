@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/293892",
-    "https://www.d1ev.com/newsflash/293891",
-    "https://www.d1ev.com/newsflash/293890",
-    "https://www.d1ev.com/newsflash/293888",
-    "https://www.d1ev.com/newsflash/293869",
-    "https://www.d1ev.com/newsflash/293867",
-    "https://www.d1ev.com/news/qiye/293897",
-    "https://www.d1ev.com/newsflash/293896",
-    "https://www.d1ev.com/newsflash/293895",
-    "https://www.d1ev.com/newsflash/293887",
-    "https://www.d1ev.com/newsflash/293880",
-    "https://www.d1ev.com/newsflash/293878",
     "https://www.d1ev.com/newsflash/293877",
     "https://www.d1ev.com/newsflash/293876",
     "https://www.d1ev.com/newsflash/293868",
@@ -1999,123 +1987,21 @@
     "https://www.d1ev.com/newsflash/296053",
     "https://www.d1ev.com/newsflash/296050",
     "https://www.d1ev.com/news/shichang/296044",
-    "https://www.d1ev.com/newsflash/296043"
+    "https://www.d1ev.com/newsflash/296043",
+    "https://www.d1ev.com/carnews/xinche/296067",
+    "https://www.d1ev.com/carnews/xinche/296065",
+    "https://www.d1ev.com/newsflash/296064",
+    "https://www.d1ev.com/newsflash/296062",
+    "https://www.d1ev.com/newsflash/296060",
+    "https://www.d1ev.com/newsflash/296058",
+    "https://www.d1ev.com/newsflash/296063",
+    "https://www.d1ev.com/newsflash/296061",
+    "https://www.d1ev.com/newsflash/296057",
+    "https://www.d1ev.com/news/qiye/296066",
+    "https://www.d1ev.com/news/qiye/296059",
+    "https://www.d1ev.com/newsflash/296056"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295142",
-      "title": "奇瑞风云T9L中型混动SUV上市，12.99万起售，纯电续航高达230km！",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295141",
-      "title": "极氪007GT订单超预期，新能源旗舰SUV极氪8X即将上市",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295137",
-      "title": "风云T9L全球上市：定位“智美大五座SUV”，售价12.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/295130",
-      "title": "奇瑞风云T9L上市 售价12.99-18.69万元",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295126",
-      "title": "极狐S3北京车展亮相：4.9米长轿车，续航550-650公里",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295124",
-      "title": "长城魏牌V9X预售开启：AI豪华六座旗舰，超级Hi4混动技术加持",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295140",
-      "title": "Rivian申请故障安全制动架构专利 面向自动驾驶车队",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295138",
-      "title": "美国研究人员开发更安全的水基锌离子电池 循环寿命达900次",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295134",
-      "title": "BrainChip推出雷达参考平台 以弥合边缘AI领域的“识别鸿沟”",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295133",
-      "title": "UNSW重新设计氢燃料电池 解锁清洁能源关键技术",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295129",
-      "title": "A2Z与HL Klemove合作开发L4级自动驾驶技术",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295128",
-      "title": "吉利i-HEV技术发布：全球最高热效率，油耗仅2.22L！",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295123",
-      "title": "热效率登顶全球48.41%，浩思动力赋能吉利i-HEV智擎混动重磅发布",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295139",
-      "title": "宝马为iX5 Hydrogen车型开发全新的氢能扁平化储存系统",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295136",
-      "title": "硅谷盛会：魔法原子将发布新一代机器人与智能模型",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295132",
-      "title": "刘亦菲代言华为鸿蒙智行V9，智能交互展现未来出行新体验",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295131",
-      "title": "“X世代”推动大型车市火热，未来十年持续热销",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295127",
-      "title": "长城欧拉5限定版纯电版限量99台，建议零售价13.38万元",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295125",
-      "title": "2026年一季度乘用车销量暴跌22%，消费者观望情绪浓厚",
-      "source": "第一电动",
-      "pushedAt": 1776093266254
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295148",
       "title": "吉利i-HEV混动技术全球首发：48.41%热效率，油耗低至2.22L！",
@@ -7179,6 +7065,78 @@
       "title": "猛士汽车携手华为，八大黑科技打造智能越野新标杆",
       "source": "第一电动",
       "pushedAt": 1776691175551
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296067",
+      "title": "全新比亚迪海狮05 EV上市 售11.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296065",
+      "title": "全新比亚迪海狮05 DM-i上市 售9.79万元起",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296064",
+      "title": "“问界M9系列新配色亮相，双百万像素大灯引领智能汽车新风尚”",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296062",
+      "title": "比亚迪海狮05系列焕新上市，纯电续航达630km，价格亲民配置升级",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296060",
+      "title": "北京81“战术方盒子”SUV亮相，共创模式打造越野新体验",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296058",
+      "title": "奔驰纯电C级轿车全球首发，搭载AI技术，续航762公里挑战特斯拉Model3",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296063",
+      "title": "AI芯片巨头曦望Sunrise融资超10亿 推新一代推理GPU量产",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296061",
+      "title": "NovaLauncher升级：AI助手来袭，个性化功能大爆发！",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296057",
+      "title": "岚图泰山黑武士L3级SUV全国20城交付，华为顶级智驾加持",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296066",
+      "title": "全维焕新，猛士汽车与华为乾崑携手重塑智能越野新格局",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296059",
+      "title": "华为乾崑首款旗舰SUV奕境X9官宣",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296056",
+      "title": "何润东“西楚霸王”形象或成极氪8X新代言？官方回应引热议",
+      "source": "第一电动",
+      "pushedAt": 1776698104695
     }
   ],
   "lastUpdated": "2026-04-20"
