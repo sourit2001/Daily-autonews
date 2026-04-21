@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294006",
-    "https://www.d1ev.com/newsflash/294003",
-    "https://www.d1ev.com/newsflash/294002",
-    "https://www.d1ev.com/news/shichang/294042",
     "https://www.d1ev.com/news/shichang/294040",
     "https://www.d1ev.com/news/shichang/294039",
     "https://www.d1ev.com/newsflash/294035",
@@ -1999,57 +1995,13 @@
     "https://www.d1ev.com/news/qiye/296196",
     "https://www.d1ev.com/newsflash/296195",
     "https://www.d1ev.com/news/shichang/296207",
-    "https://www.d1ev.com/newsflash/296204"
+    "https://www.d1ev.com/newsflash/296204",
+    "https://www.d1ev.com/newsflash/296216",
+    "https://www.d1ev.com/newsflash/296215",
+    "https://www.d1ev.com/newsflash/296214",
+    "https://www.d1ev.com/newsflash/296213"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295299",
-      "title": "哈弗猛龙PLUS预售开启！插混动力+激光雷达，续航191km四驱新体验",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295297",
-      "title": "五菱缤果Pro预售开启：复古美学纯电代步车，续航高达403km！",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295295",
-      "title": "缤果Pro预售5.88万起，空间、续航、智能都升级了",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295292",
-      "title": "五菱缤果Pro预售5.88万起，最大续航403km，智能化升级！",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295298",
-      "title": "英伟达开源量子AI模型ISING：量子计算新突破，误差校正速度提升2.5倍！",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295294",
-      "title": "贵阳“奇遇环线”4月20日启动！全球首个自动驾驶移动空间试运营",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295296",
-      "title": "一季度国内车市销量大跌两成，比亚迪增收不增利",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295293",
-      "title": "吉利i-HEV混动技术突破：油耗2.22L创纪录，日系混动地位受挑战",
-      "source": "第一电动",
-      "pushedAt": 1776179414951
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295300",
       "title": "问界M6安全升级：前备箱锁扣细节曝光，预订量破10万",
@@ -7095,7 +7047,31 @@
       "title": "荣耀人形机器人“闪电”夺冠半程马拉松，打破人类纪录",
       "source": "第一电动",
       "pushedAt": 1776784183948
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296216",
+      "title": "特斯拉车机语音大模型上海备案成功，累计158款AI服务备案",
+      "source": "第一电动",
+      "pushedAt": 1776790462276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296215",
+      "title": "宁德时代技术突破：麒麟电池续航1500公里，钠电量产在即",
+      "source": "第一电动",
+      "pushedAt": 1776790462276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296214",
+      "title": "吉利汽车将推中国首台原生Robotaxi，2027年量产开启商业化运营",
+      "source": "第一电动",
+      "pushedAt": 1776790462276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296213",
+      "title": "智界V9挑战高端市场，年产12万辆剑指别克GL8",
+      "source": "第一电动",
+      "pushedAt": 1776790462276
     }
   ],
-  "lastUpdated": "2026-04-21"
+  "lastUpdated": "2026-04-22"
 }
