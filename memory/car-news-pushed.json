@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294000",
-    "https://www.d1ev.com/newsflash/293999",
-    "https://www.d1ev.com/newsflash/293997",
-    "https://www.d1ev.com/newsflash/293998",
-    "https://www.d1ev.com/carnews/xinche/294030",
-    "https://www.d1ev.com/carnews/xinche/294029",
-    "https://www.d1ev.com/carnews/xinche/294028",
-    "https://www.d1ev.com/carnews/xinche/294024",
-    "https://www.d1ev.com/carnews/xinche/294022",
-    "https://www.d1ev.com/newsflash/294012",
-    "https://www.d1ev.com/carnews/xinche/294004",
-    "https://www.d1ev.com/newsflash/294031",
-    "https://www.d1ev.com/newsflash/294020",
-    "https://www.d1ev.com/newsflash/294017",
     "https://www.d1ev.com/newsflash/294014",
     "https://www.d1ev.com/newsflash/294013",
     "https://www.d1ev.com/news/shichang/294010",
@@ -1999,7 +1985,21 @@
     "https://www.d1ev.com/newsflash/296173",
     "https://www.d1ev.com/newsflash/296169",
     "https://www.d1ev.com/carnews/xinche/296177",
-    "https://www.d1ev.com/newsflash/296164"
+    "https://www.d1ev.com/newsflash/296164",
+    "https://www.d1ev.com/newsflash/296190",
+    "https://www.d1ev.com/newsflash/296185",
+    "https://www.d1ev.com/newsflash/296192",
+    "https://www.d1ev.com/newsflash/296191",
+    "https://www.d1ev.com/newsflash/296189",
+    "https://www.d1ev.com/newsflash/296187",
+    "https://www.d1ev.com/newsflash/296186",
+    "https://www.d1ev.com/newsflash/296184",
+    "https://www.d1ev.com/newsflash/296182",
+    "https://www.d1ev.com/newsflash/296181",
+    "https://www.d1ev.com/newsflash/296180",
+    "https://www.d1ev.com/newsflash/296188",
+    "https://www.d1ev.com/newsflash/296183",
+    "https://www.d1ev.com/newsflash/296179"
   ],
   "newsHistory": [
     {
@@ -6981,6 +6981,90 @@
       "title": "中国信通院启动Skills治理评估：智能体生态迎安全升级",
       "source": "第一电动",
       "pushedAt": 1776769477702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296190",
+      "title": "捷达JETTAX概念车首秀：硬核越野风，哑光绿车身震撼亮相！",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296185",
+      "title": "荣威携手火山引擎打造全球首个AI原生汽车序列“家越”亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296192",
+      "title": "大众中国推车载AI助手，联手腾讯百度打造智能驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296191",
+      "title": "宁德时代巧克力26#换电电池发布，99秒极速换电时代来临",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296189",
+      "title": "宁德时代发布第三代麒麟电池：1000公里续航仅625公斤，安全性能再升级",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296187",
+      "title": "宁德时代发布第二代超级增混电池：500km纯电续航，一周一充新体验",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296186",
+      "title": "宁德时代第三代神行超充电池发布：6分钟充至98%电量，低温超充不挑桩",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296184",
+      "title": "宁德时代发布第三代麒麟电池：1000公里续航，车身减重255kg，充电速度翻倍",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296182",
+      "title": "宁德时代发布第三代超充电池：6分钟满电，全球最低内阻！",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296181",
+      "title": "宁德时代动力电池全球市占率近四成，连续9年领跑全球",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296180",
+      "title": "宁德时代电池全球覆盖超150国，市占率突破47%",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296188",
+      "title": "蔚来乐道L90携30L大冰柜来袭，智能升级引领纯电SUV新风潮",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296183",
+      "title": "荣耀“闪电”机器人半马霸榜前六，技术积累助力创新突破",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296179",
+      "title": "苹果CEO库克卸任倒计时，智界V9或将弥补苹果汽车遗憾",
+      "source": "第一电动",
+      "pushedAt": 1776777220005
     }
   ],
   "lastUpdated": "2026-04-21"
