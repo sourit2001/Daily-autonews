@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294372",
     "https://www.d1ev.com/newsflash/294364",
     "https://www.d1ev.com/news/shichang/294367",
     "https://www.d1ev.com/news/qiye/294381",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/296555",
     "https://www.d1ev.com/newsflash/296554",
     "https://www.d1ev.com/news/shichang/296551",
-    "https://www.d1ev.com/news/shichang/296562"
+    "https://www.d1ev.com/news/shichang/296562",
+    "https://www.d1ev.com/news/shichang/296563"
   ],
   "newsHistory": [
     {
@@ -7167,6 +7167,12 @@
       "title": "微增长时代的价值赌注：阿维塔06T能否打破20万级市场的同质化困局？",
       "source": "第一电动",
       "pushedAt": 1776964460681
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296563",
+      "title": "谁在为L3规模化铺路？",
+      "source": "第一电动",
+      "pushedAt": 1776970827261
     }
   ],
   "lastUpdated": "2026-04-24"
