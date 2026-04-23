@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294319",
-    "https://www.d1ev.com/newsflash/294315",
-    "https://www.d1ev.com/newsflash/294314",
-    "https://www.d1ev.com/carnews/xinche/294332",
-    "https://www.d1ev.com/carnews/xinche/294331",
-    "https://www.d1ev.com/news/shichang/294329",
-    "https://www.d1ev.com/news/qiye/294328",
-    "https://www.d1ev.com/news/shichang/294318",
-    "https://www.d1ev.com/newsflash/294317",
-    "https://www.d1ev.com/news/shichang/294312",
-    "https://www.d1ev.com/news/shichang/294311",
     "https://www.d1ev.com/newsflash/294357",
     "https://www.d1ev.com/newsflash/294356",
     "https://www.d1ev.com/newsflash/294340",
@@ -1999,117 +1988,20 @@
     "https://www.d1ev.com/news/shichang/296483",
     "https://www.d1ev.com/news/shichang/296478",
     "https://www.d1ev.com/newsflash/296471",
-    "https://www.d1ev.com/news/shichang/296469"
+    "https://www.d1ev.com/news/shichang/296469",
+    "https://www.d1ev.com/newsflash/296517",
+    "https://www.d1ev.com/newsflash/296506",
+    "https://www.d1ev.com/newsflash/296518",
+    "https://www.d1ev.com/newsflash/296516",
+    "https://www.d1ev.com/newsflash/296509",
+    "https://www.d1ev.com/news/shichang/296510",
+    "https://www.d1ev.com/newsflash/296515",
+    "https://www.d1ev.com/news/shichang/296512",
+    "https://www.d1ev.com/news/shichang/296511",
+    "https://www.d1ev.com/newsflash/296508",
+    "https://www.d1ev.com/newsflash/296507"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295574",
-      "title": "鸿蒙智行MPV智界V9内饰曝光：3.4K三联屏+手势电动门 豪华科技感十足",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295573",
-      "title": "沃尔沃汽车99周年庆典发布多款新车：纯电旗舰EX90/ES90开启预售",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/295569",
-      "title": "小鹏首进大六座SUV赛道，小鹏GX预售价39.98万元，何小鹏：销量目标是行业TOP3以内",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295561",
-      "title": "日产北京车展秀肌肉：NX8亮相，两款新能源SUV概念车全球首秀！",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295571",
-      "title": "AI大模型第一股智谱豪掷3.61亿北京买楼",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295566",
-      "title": "法系车神龙汽车2026北京车展焕新归来，全力冲刺电动化转型",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295564",
-      "title": "AI大模型“幻觉”误导用户付款 广州工程师险些被骗1600元",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295563",
-      "title": "大众ID.3Neo焕新登场：智能升级，续航高达630公里！",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295578",
-      "title": "理想汽车年终奖大缩水：2025年收入下降22.3%，净利润暴跌85.8%",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295577",
-      "title": "智己LS8硬核驾控体验：大尺寸SUV也能灵活如小车",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295575",
-      "title": "奥迪能夺回失去的市场吗？",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295572",
-      "title": "华为云新品OfficeClaw来袭：智能办公新体验，一键搞定PPT和报告！",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295570",
-      "title": "特斯拉挑战北达科他州法规，争取直营销售权",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295568",
-      "title": "巴斯夫与传化集团签署战略合作协议",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295567",
-      "title": "走进江汽集团技术中心 | 低功耗电气技术交流研讨会圆满落幕",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295565",
-      "title": "字节跳动“豆包股”回购价飙升至89.4元 员工激励计划升级",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295562",
-      "title": "特斯拉限量版Model S/X发布：一年内不得转售，违者赔5万美元！",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295560",
-      "title": "问界M8一年销量破17万，智能豪华新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1776337194100
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295591",
       "title": "坦克500黑武士版震撼上市，36.5万起限量500台，黑化升级引领越野新风尚",
@@ -7185,6 +7077,72 @@
       "title": "从造车到“造人”：特斯拉的战略赌注与Optimus的量产变局",
       "source": "第一电动",
       "pushedAt": 1776936242533
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296517",
+      "title": "全新一代问界M9预售开启，49.98万起售，技术升级重塑豪华SUV标准",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296506",
+      "title": "京东国民好车深蓝L06增程版上市：300万法拉利同款悬架，15.6英寸向日葵屏！",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296518",
+      "title": "京东大药房推出AI全球找药服务，助力患者快速匹配罕见药源",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296516",
+      "title": "华为乾崑携手东风，奕境X9旗舰SUV首搭ADS5智驾系统",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296509",
+      "title": "奇瑞与英伟达开启全球战略合作，将在辅助驾驶、座舱AI、机器人三大领域共同开发并布局",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296510",
+      "title": "伊朗冲突扰动氦气供应，全球汽车半导体产业链再临考验",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296515",
+      "title": "脑机接口新技术纳入医保，价格项目明确助力创新企业",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296512",
+      "title": "首创专利超20项，美的威灵汽车部件推出集成电加热二合一压缩机",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296511",
+      "title": "Seeds | 星际光年3个月内连续完成2轮融资",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296508",
+      "title": "全新蔚来ES8 7个月狂揽400亿，创40万以上纯电SUV最快破10万纪录",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296507",
+      "title": "智界V9豪华MPV全方位解析：91.6%高强度钢打造安全新标杆",
+      "source": "第一电动",
+      "pushedAt": 1776942216307
     }
   ],
   "lastUpdated": "2026-04-23"
