@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/294211",
-    "https://www.d1ev.com/newsflash/294207",
-    "https://www.d1ev.com/newsflash/294205",
-    "https://www.d1ev.com/news/shichang/294203",
-    "https://www.d1ev.com/news/qiye/294201",
-    "https://www.d1ev.com/carnews/xinche/294232",
-    "https://www.d1ev.com/carnews/xinche/294230",
-    "https://www.d1ev.com/newsflash/294227",
-    "https://www.d1ev.com/newsflash/294239",
-    "https://www.d1ev.com/newsflash/294238",
-    "https://www.d1ev.com/newsflash/294237",
-    "https://www.d1ev.com/newsflash/294236",
-    "https://www.d1ev.com/news/shichang/294235",
-    "https://www.d1ev.com/newsflash/294234",
-    "https://www.d1ev.com/newsflash/294233",
-    "https://www.d1ev.com/newsflash/294231",
     "https://www.d1ev.com/news/shichang/294229",
     "https://www.d1ev.com/news/qiye/294228",
     "https://www.d1ev.com/newsflash/294250",
@@ -1999,39 +1983,25 @@
     "https://www.d1ev.com/newsflash/296383",
     "https://www.d1ev.com/newsflash/296382",
     "https://www.d1ev.com/newsflash/296381",
-    "https://www.d1ev.com/newsflash/296378"
+    "https://www.d1ev.com/newsflash/296378",
+    "https://www.d1ev.com/news/qiye/296417",
+    "https://www.d1ev.com/carnews/xinche/296415",
+    "https://www.d1ev.com/carnews/xinche/296414",
+    "https://www.d1ev.com/carnews/xinche/296413",
+    "https://www.d1ev.com/carnews/xinche/296411",
+    "https://www.d1ev.com/news/qiye/296410",
+    "https://www.d1ev.com/carnews/xinche/296405",
+    "https://www.d1ev.com/news/qiye/296418",
+    "https://www.d1ev.com/carnews/xinche/296416",
+    "https://www.d1ev.com/carnews/xinche/296412",
+    "https://www.d1ev.com/news/shichang/296419",
+    "https://www.d1ev.com/news/shichang/296409",
+    "https://www.d1ev.com/news/shichang/296408",
+    "https://www.d1ev.com/news/shichang/296407",
+    "https://www.d1ev.com/news/shichang/296404",
+    "https://www.d1ev.com/news/shichang/296403"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/295456",
-      "title": "面向L4时代的全尺寸SUV来了，小鹏GX预售价39.98万元",
-      "source": "第一电动",
-      "pushedAt": 1776272229076
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295455",
-      "title": "领汇e7纯电轿车上市：5分钟闪充70%电量，9.58万起售",
-      "source": "第一电动",
-      "pushedAt": 1776272229076
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295454",
-      "title": "特斯拉新动作：欣旺达电池入局，挑战宁德时代地位？",
-      "source": "第一电动",
-      "pushedAt": 1776272229076
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295458",
-      "title": "沃尔沃ES90与EX90开启预售 XC70感恩版同步上市",
-      "source": "第一电动",
-      "pushedAt": 1776280065537
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295457",
-      "title": "大众ID.3Neo焕新登场：升级续航、内饰，取消触摸滑块回归实体键！",
-      "source": "第一电动",
-      "pushedAt": 1776280065537
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/295479",
       "title": "重点优化动力系统 大众ID.3 Neo官图发布",
@@ -7245,7 +7215,103 @@
       "title": "尚界Z7挑战极限翻滚碰撞测试 车身结构完好安全性能惊人",
       "source": "第一电动",
       "pushedAt": 1776870752292
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296417",
+      "title": "拒绝套路，起步即满配！全新一代瑞虎9正式上市",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296415",
+      "title": "搭载V8混动 宾利新款欧陆GT敞篷版S首发",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296414",
+      "title": "搭载新世代技术集群 新款宝马7系首发",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296413",
+      "title": "特斯拉Roadster亮相再度推迟至5月下旬或6月",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296411",
+      "title": "9.99万起 比亚迪宋Pro DM-i飞驰版上市",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296410",
+      "title": "争锋问界、蔚来 凯迪拉克大六座纯电SUV上市：46.88万起",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296405",
+      "title": "越野公路全能 2026款斯巴鲁旭豹新车图解",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296418",
+      "title": "续航破千公里！新世代宝马i3长轴距版全球首秀：造型太个性",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296416",
+      "title": "奇瑞计划开发4米以下小型车平台进军欧洲",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296412",
+      "title": "腾势Z敞篷版将于2026北京车展全球首秀",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296419",
+      "title": "Qt Group中国汽车展首秀，软件定义汽车时代的战略伙伴",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296409",
+      "title": "研究人员发明透明冷却薄膜技术 无需电力即可将车厢温度降低6.1°C",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296408",
+      "title": "研究人员开发类似黏液的人工肌肉 可实时改变形状、自我修复和重复使用",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296407",
+      "title": "福特汽车申请带地图叠加区域的车辆操作系统专利 可根据地理区域调整行驶行为",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296404",
+      "title": "“屏幕军备竞赛”何时休？蔡司用全息透明显示技术给出答案",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296403",
+      "title": "【盖世快讯】徐洁云回应库克将出任小米汽车CEO；传鸿蒙智行正规划智界轿跑车型",
+      "source": "第一电动",
+      "pushedAt": 1776910029559
     }
   ],
-  "lastUpdated": "2026-04-22"
+  "lastUpdated": "2026-04-23"
 }
