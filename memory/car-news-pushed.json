@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294377",
     "https://www.d1ev.com/newsflash/294372",
     "https://www.d1ev.com/newsflash/294364",
     "https://www.d1ev.com/news/shichang/294367",
@@ -1999,45 +1998,10 @@
     "https://www.d1ev.com/newsflash/296558",
     "https://www.d1ev.com/newsflash/296555",
     "https://www.d1ev.com/newsflash/296554",
-    "https://www.d1ev.com/news/shichang/296551"
+    "https://www.d1ev.com/news/shichang/296551",
+    "https://www.d1ev.com/news/shichang/296562"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295622",
-      "title": "极狐S3预售在即，销量飙升178%，全国门店增至680家！",
-      "source": "第一电动",
-      "pushedAt": 1776359336099
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295620",
-      "title": "吉利银河星耀7电混轿车预售开启，11.28万起售，5秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1776359336099
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/295617",
-      "title": "小鹏第二代VLA首次外供 大众安徽与众08上市：22.99万起",
-      "source": "第一电动",
-      "pushedAt": 1776359336099
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295621",
-      "title": "大众联手小鹏打造全新SUV，与众08售价22.99万起",
-      "source": "第一电动",
-      "pushedAt": 1776359336099
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295619",
-      "title": "泼水节狂欢意外：广汽丰田纯电SUV遭泼水现“白烟”紧急检修",
-      "source": "第一电动",
-      "pushedAt": 1776359336099
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295618",
-      "title": "“理想L8换代升级，新势力SUV市场再掀波澜”",
-      "source": "第一电动",
-      "pushedAt": 1776359336099
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/295661",
       "title": "大众安徽与众08上市 售价22.99-28.99万元",
@@ -7197,7 +7161,13 @@
       "title": "一图读懂丨东芯半导体2025年度报告",
       "source": "第一电动",
       "pushedAt": 1776959332637
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296562",
+      "title": "微增长时代的价值赌注：阿维塔06T能否打破20万级市场的同质化困局？",
+      "source": "第一电动",
+      "pushedAt": 1776964460681
     }
   ],
-  "lastUpdated": "2026-04-23"
+  "lastUpdated": "2026-04-24"
 }
