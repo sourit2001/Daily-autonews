@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/294624",
     "https://www.d1ev.com/newsflash/294622",
     "https://www.d1ev.com/newsflash/294621",
     "https://www.d1ev.com/newsflash/294620",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/shichang/296878",
     "https://www.d1ev.com/newsflash/296874",
     "https://www.d1ev.com/news/qiye/296882",
-    "https://www.d1ev.com/newsflash/296881"
+    "https://www.d1ev.com/newsflash/296881",
+    "https://www.d1ev.com/newsflash/296884"
   ],
   "newsHistory": [
     {
@@ -7593,6 +7593,12 @@
       "title": "中国品牌追觅星空计划全球超奢新赛道，定义下一代超奢标准",
       "source": "第一电动",
       "pushedAt": 1777056111705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296884",
+      "title": "比亚迪元PLUS焕新升级，630km超长续航+全新设计震撼上市",
+      "source": "第一电动",
+      "pushedAt": 1777070114371
     }
   ],
   "lastUpdated": "2026-04-25"
