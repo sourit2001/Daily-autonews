@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294632",
-    "https://www.d1ev.com/newsflash/294631",
-    "https://www.d1ev.com/newsflash/294630",
-    "https://www.d1ev.com/newsflash/294628",
     "https://www.d1ev.com/newsflash/294627",
     "https://www.d1ev.com/newsflash/294625",
     "https://www.d1ev.com/news/qiye/294624",
@@ -1999,7 +1995,11 @@
     "https://www.d1ev.com/newsflash/296844",
     "https://www.d1ev.com/newsflash/296841",
     "https://www.d1ev.com/carnews/xinche/296839",
-    "https://www.d1ev.com/news/shichang/296832"
+    "https://www.d1ev.com/news/shichang/296832",
+    "https://www.d1ev.com/news/shichang/296880",
+    "https://www.d1ev.com/news/shichang/296879",
+    "https://www.d1ev.com/news/shichang/296878",
+    "https://www.d1ev.com/newsflash/296874"
   ],
   "newsHistory": [
     {
@@ -7575,7 +7575,31 @@
       "title": "奇瑞与博世深化战略合作，推动48V整车架构率先量产",
       "source": "第一电动",
       "pushedAt": 1777043131560
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296880",
+      "title": "耐世特EMB臻熟亮相北京车展，全栈式运动控制再拓新局",
+      "source": "第一电动",
+      "pushedAt": 1777049410295
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296879",
+      "title": "终极构型定局低空未来！天翎科L600 Pioneer亮相2026北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777049410295
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296878",
+      "title": "天翎科L600 Pioneer亮相2026北京车展，最大航程600公里",
+      "source": "第一电动",
+      "pushedAt": 1777049410295
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296874",
+      "title": "智己LS8北京车展亮相：25万享百万级旗舰SUV体验",
+      "source": "第一电动",
+      "pushedAt": 1777049410295
     }
   ],
-  "lastUpdated": "2026-04-24"
+  "lastUpdated": "2026-04-25"
 }
