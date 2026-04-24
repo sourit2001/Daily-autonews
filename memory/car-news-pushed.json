@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294627",
-    "https://www.d1ev.com/newsflash/294625",
     "https://www.d1ev.com/news/qiye/294624",
     "https://www.d1ev.com/newsflash/294622",
     "https://www.d1ev.com/newsflash/294621",
@@ -1999,27 +1997,11 @@
     "https://www.d1ev.com/news/shichang/296880",
     "https://www.d1ev.com/news/shichang/296879",
     "https://www.d1ev.com/news/shichang/296878",
-    "https://www.d1ev.com/newsflash/296874"
+    "https://www.d1ev.com/newsflash/296874",
+    "https://www.d1ev.com/news/qiye/296882",
+    "https://www.d1ev.com/newsflash/296881"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/295783",
-      "title": "预售22.98万起 鸿蒙智行尚界Z7/Z7T预定已破7万：下周上市",
-      "source": "第一电动",
-      "pushedAt": 1776444643475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295781",
-      "title": "零跑D19全尺寸SUV震撼上市，21.98万起售，500公里纯电续航挑战市场！",
-      "source": "第一电动",
-      "pushedAt": 1776444643475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295782",
-      "title": "乐道新智驾方案引发老车主贬值担忧，官方补偿方案出炉",
-      "source": "第一电动",
-      "pushedAt": 1776444643475
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295796",
       "title": "“2026北京车展：全球最大车展开幕，1451台展车震撼亮相”",
@@ -7599,6 +7581,18 @@
       "title": "智己LS8北京车展亮相：25万享百万级旗舰SUV体验",
       "source": "第一电动",
       "pushedAt": 1777049410295
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296882",
+      "title": "全新理想L9 Livis北京车展首秀，5月15日正式上市交付",
+      "source": "第一电动",
+      "pushedAt": 1777056111705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296881",
+      "title": "中国品牌追觅星空计划全球超奢新赛道，定义下一代超奢标准",
+      "source": "第一电动",
+      "pushedAt": 1777056111705
     }
   ],
   "lastUpdated": "2026-04-25"
