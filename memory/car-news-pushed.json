@@ -1,25 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294552",
-    "https://www.d1ev.com/newsflash/294551",
-    "https://www.d1ev.com/carnews/xinche/294548",
-    "https://www.d1ev.com/newsflash/294546",
-    "https://www.d1ev.com/newsflash/294542",
-    "https://www.d1ev.com/newsflash/294541",
-    "https://www.d1ev.com/news/shichang/294562",
-    "https://www.d1ev.com/news/shichang/294560",
-    "https://www.d1ev.com/news/shichang/294557",
-    "https://www.d1ev.com/news/shichang/294554",
-    "https://www.d1ev.com/news/shichang/294547",
-    "https://www.d1ev.com/news/shichang/294545",
-    "https://www.d1ev.com/news/qiye/294544",
-    "https://www.d1ev.com/newsflash/294543",
-    "https://www.d1ev.com/news/qiye/294591",
-    "https://www.d1ev.com/newsflash/294582",
-    "https://www.d1ev.com/news/shichang/294579",
-    "https://www.d1ev.com/newsflash/294578",
-    "https://www.d1ev.com/newsflash/294576",
-    "https://www.d1ev.com/newsflash/294572",
     "https://www.d1ev.com/newsflash/294570",
     "https://www.d1ev.com/newsflash/294590",
     "https://www.d1ev.com/newsflash/294583",
@@ -1999,81 +1979,29 @@
     "https://www.d1ev.com/news/qiye/296780",
     "https://www.d1ev.com/newsflash/296777",
     "https://www.d1ev.com/newsflash/296771",
-    "https://www.d1ev.com/carnews/xinche/296769"
+    "https://www.d1ev.com/carnews/xinche/296769",
+    "https://www.d1ev.com/news/shichang/296823",
+    "https://www.d1ev.com/newsflash/296821",
+    "https://www.d1ev.com/carnews/xinche/296819",
+    "https://www.d1ev.com/news/shichang/296818",
+    "https://www.d1ev.com/carnews/xinche/296815",
+    "https://www.d1ev.com/newsflash/296812",
+    "https://www.d1ev.com/carnews/xinche/296810",
+    "https://www.d1ev.com/carnews/xinche/296809",
+    "https://www.d1ev.com/newsflash/296808",
+    "https://www.d1ev.com/newsflash/296802",
+    "https://www.d1ev.com/newsflash/296800",
+    "https://www.d1ev.com/news/shichang/296814",
+    "https://www.d1ev.com/newsflash/296804",
+    "https://www.d1ev.com/newsflash/296801",
+    "https://www.d1ev.com/news/qiye/296822",
+    "https://www.d1ev.com/news/qiye/296806",
+    "https://www.d1ev.com/news/shichang/296824",
+    "https://www.d1ev.com/newsflash/296817",
+    "https://www.d1ev.com/news/qiye/296813",
+    "https://www.d1ev.com/carnews/xinche/296807"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295759",
-      "title": "红旗天工05/06超充版上市：12分钟快充80%，续航650km起！",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295758",
-      "title": "蔚来一季度交付量增98%，ES9预订超预期，二季度将迎多款新车上市",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/295757",
-      "title": "6款新车同天发布，多款SUV“贴身肉搏”，零跑朱江明：淘汰赛还没结束",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295754",
-      "title": "问界M9新配色亮相：双拼色车身+6激光雷达，续航升级！",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295763",
-      "title": "杭州电动车主因89元卡扣被索13万换电池包，保险公司拒赔",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295762",
-      "title": "本田在华燃油车产能大缩水，电动化转型加速",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295761",
-      "title": "滴滴自动驾驶加速全球化，年内阿联酋试点Robotaxi",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295755",
-      "title": "AI临床诊断失误率超80%，早期鉴别诊断成短板",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295752",
-      "title": "谷歌开放Android开发指南，AI智能体打造应用更靠谱",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295760",
-      "title": "小米汽车迎强援：胡峥楠任CTO，宋钢加盟助力产能爬坡",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295756",
-      "title": "小米汽车里程挑战：10万公里徽章等你来领！",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295753",
-      "title": "东风本田否认工厂关闭传闻，产能优化应对销量下滑",
-      "source": "第一电动",
-      "pushedAt": 1776431258655
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/295776",
       "title": "魏牌V9X开启预售 预售价37.18-41.18万元",
@@ -7395,6 +7323,126 @@
       "title": "奕境品牌首款旗舰奕境X9登陆北京车展",
       "source": "第一电动",
       "pushedAt": 1777028587568
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296823",
+      "title": "红旗携三大子品牌新品亮相2026北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296821",
+      "title": "智己LS8亮相北京车展，25万级旗舰SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296819",
+      "title": "全新一代雷克萨斯ES正式上市 售价29.99万元",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296818",
+      "title": "北京车展首日 ID. ERA 9X 即将上市，上汽大众发布混动双擎战略！",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296815",
+      "title": "长安蓝鲸超擎混动双车北京车展全球首发",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296812",
+      "title": "东风华为联手打造奕境X9，旗舰SUV搭载华为智驾系统亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296810",
+      "title": "元力智趣闪充SUV 第三代元PLUS北京车展首发",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296809",
+      "title": "新豪华智慧运动SUV 昊铂S600亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296808",
+      "title": "小鹏飞行汽车“陆地航母”预售7000台，2026年量产200万内起",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296802",
+      "title": "比亚迪大唐EV亮相北京车展，预售价25万起，续航800km+，3秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296800",
+      "title": "北京81战术方盒子越野神车，20万起预售，8月1日南昌上市！",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296814",
+      "title": "保时捷家族最强跑车：纯电动 Cayenne Turbo 即日公布制造商建议零售价",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296804",
+      "title": "美团万亿级大模型LongCat-2.0-Preview开放测试，国产算力新突破",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296801",
+      "title": "英特尔业绩超预期：AI服务器CPU需求激增，股价盘后飙升近20%",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296822",
+      "title": "追觅星空计划北京车展首秀，以极致科技探索全球高端",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296806",
+      "title": "中国长安汽车集团发布“海纳百川”计划2.0长安蓝鲸超擎双车领航，开启全球混动新纪元",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296824",
+      "title": "欧摩威斩获屏下摄像头OLED显示屏重磅订单",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296817",
+      "title": "北京车展首日亮点：小米汽车销量破65万，比亚迪技术大爆发",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296813",
+      "title": "111.8万起，保时捷纯电Cayenne Turbo为中国加配",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296807",
+      "title": "奇瑞57款车型登陆北京车展 风云A9开启小订",
+      "source": "第一电动",
+      "pushedAt": 1777036286492
     }
   ],
   "lastUpdated": "2026-04-24"
