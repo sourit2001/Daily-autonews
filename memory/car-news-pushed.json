@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/294683",
-    "https://www.d1ev.com/carnews/xinche/294681",
-    "https://www.d1ev.com/newsflash/294673",
-    "https://www.d1ev.com/carnews/xinche/294687",
-    "https://www.d1ev.com/carnews/xinche/294682",
-    "https://www.d1ev.com/newsflash/294680",
-    "https://www.d1ev.com/newsflash/294674",
-    "https://www.d1ev.com/newsflash/294672",
-    "https://www.d1ev.com/newsflash/294671",
     "https://www.d1ev.com/newsflash/294669",
     "https://www.d1ev.com/newsflash/294678",
     "https://www.d1ev.com/news/shichang/294668",
@@ -1999,45 +1990,18 @@
     "https://www.d1ev.com/newsflash/296931",
     "https://www.d1ev.com/news/shichang/296934",
     "https://www.d1ev.com/newsflash/296935",
-    "https://www.d1ev.com/news/shichang/296928"
+    "https://www.d1ev.com/news/shichang/296928",
+    "https://www.d1ev.com/newsflash/296943",
+    "https://www.d1ev.com/newsflash/296940",
+    "https://www.d1ev.com/newsflash/296938",
+    "https://www.d1ev.com/newsflash/296942",
+    "https://www.d1ev.com/carnews/xinche/296944",
+    "https://www.d1ev.com/newsflash/296941",
+    "https://www.d1ev.com/newsflash/296939",
+    "https://www.d1ev.com/newsflash/296937",
+    "https://www.d1ev.com/newsflash/296936"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295827",
-      "title": "AI设计神器ClaudeDesign：25分钟耗尽80%周配额，小白也能出专业作品",
-      "source": "第一电动",
-      "pushedAt": 1776501740482
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295826",
-      "title": "赵明跨界汽车智能驾驶，千里科技智驾技术挑战特斯拉",
-      "source": "第一电动",
-      "pushedAt": 1776501740482
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295829",
-      "title": "南京虚拟电厂规模激增，车主卖电赚钱新潮流！",
-      "source": "第一电动",
-      "pushedAt": 1776501740482
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295828",
-      "title": "蔚来ES9隐藏门把手合规性获官方确认：安全防护机制详解",
-      "source": "第一电动",
-      "pushedAt": 1776501740482
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295825",
-      "title": "法拉第未来获4500万美元融资，2026年机器人出货目标超1000台",
-      "source": "第一电动",
-      "pushedAt": 1776501740482
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295824",
-      "title": "蔚来ES9隐藏门把手安全升级，破冰开门新体验！",
-      "source": "第一电动",
-      "pushedAt": 1776501740482
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295838",
       "title": "Cerebras挑战英伟达：750兆瓦AI芯片助力OpenAI，拟纳斯达克上市",
@@ -7671,6 +7635,60 @@
       "title": "比亚迪海狮08剑指30万级市场",
       "source": "第一电动",
       "pushedAt": 1777100820705
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296943",
+      "title": "吉利银河之光概念车全球首发，引领新能源设计新风潮",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296940",
+      "title": "上汽大众ID.ERA9X上市，售价30万起，续航超1600km！",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296938",
+      "title": "奥迪E7X全球首发：3.9秒破百，751km超长续航，智能四驱升级！",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296942",
+      "title": "五菱星光L北京车展首秀 260km纯电续航大六座SUV开启盲订",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296944",
+      "title": "百万豪车不只为“面子”买单，更要为“里子”充值",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296941",
+      "title": "英伟达NVIDIABlackwell平台适配DeepSeek-V4模型，性能飞跃！",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296939",
+      "title": "安森美携手吉利汽车，EliteSiC技术助力超级电混系统升级",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296937",
+      "title": "奇瑞博世联手打造48V架构，星途旗舰车型将率先搭载",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296936",
+      "title": "Stellantis战略大调整：核心品牌获增资，雪铁龙等品牌或转向区域市场",
+      "source": "第一电动",
+      "pushedAt": 1777106692417
     }
   ],
   "lastUpdated": "2026-04-25"
