@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294705",
-    "https://www.d1ev.com/newsflash/294704",
-    "https://www.d1ev.com/newsflash/294701",
-    "https://www.d1ev.com/newsflash/294695",
-    "https://www.d1ev.com/news/qiye/294728",
-    "https://www.d1ev.com/newsflash/294725",
-    "https://www.d1ev.com/newsflash/294721",
-    "https://www.d1ev.com/newsflash/294720",
-    "https://www.d1ev.com/newsflash/294719",
     "https://www.d1ev.com/newsflash/294710",
     "https://www.d1ev.com/newsflash/294709",
     "https://www.d1ev.com/newsflash/294706",
@@ -1999,33 +1990,18 @@
     "https://www.d1ev.com/newsflash/296949",
     "https://www.d1ev.com/newsflash/296946",
     "https://www.d1ev.com/newsflash/296954",
-    "https://www.d1ev.com/carnews/xinche/296951"
+    "https://www.d1ev.com/carnews/xinche/296951",
+    "https://www.d1ev.com/news/shichang/296966",
+    "https://www.d1ev.com/newsflash/296959",
+    "https://www.d1ev.com/news/shichang/296963",
+    "https://www.d1ev.com/news/qiye/296960",
+    "https://www.d1ev.com/news/shichang/296957",
+    "https://www.d1ev.com/news/shichang/296968",
+    "https://www.d1ev.com/news/qiye/296962",
+    "https://www.d1ev.com/news/qiye/296961",
+    "https://www.d1ev.com/news/shichang/296958"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295842",
-      "title": "哈弗猛龙PLUS预售开启，5.8秒破百，续航超1000公里！",
-      "source": "第一电动",
-      "pushedAt": 1776516703141
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/295839",
-      "title": "哈弗猛龙PLUS开启预售 预售价18.98-21.58万",
-      "source": "第一电动",
-      "pushedAt": 1776516703141
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295843",
-      "title": "Anthropic CEO达里奥·阿莫迪：AI发展无限延伸，未来五年或取代半数初级白领岗位",
-      "source": "第一电动",
-      "pushedAt": 1776516703141
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295840",
-      "title": "比亚迪珠峰小镇闪充站全球海拔最高，5分钟快充奇迹！",
-      "source": "第一电动",
-      "pushedAt": 1776516703141
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295844",
       "title": "AI通信协议MCP现重大漏洞，多语言支持项目面临安全风险",
@@ -7707,6 +7683,60 @@
       "title": "北京车展“意外来客”！神龙汽车回归，现代汽车高喊“绝不退出中国”",
       "source": "第一电动",
       "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296966",
+      "title": "奥迪携本土化车型与技术亮相2026北京车展 持续推进在华产品布局",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296959",
+      "title": "方程豹钛7EV闪充版4月29日上市，5分钟充至70%电量！",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296963",
+      "title": "小马智行发布新一代自动驾驶域控制器",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296960",
+      "title": "杰发科技牵手追觅星空计划，达成车用芯片战略合作",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296957",
+      "title": "舱联破界、AI随行、雷达全感：移远通信“硬核三件套”引爆北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296968",
+      "title": "从愿景到新境：AUDI品牌正式发布首款纯电SUV奥迪E7X",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296962",
+      "title": "上汽通用五菱与沙特经销商签约合作",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296961",
+      "title": "北汽集团与宁德时代深化战略合作",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296958",
+      "title": "移远通信联合紫光展锐推出高性能5G车载模组AR59xUB系列",
+      "source": "第一电动",
+      "pushedAt": 1777121545498
     }
   ],
   "lastUpdated": "2026-04-25"
