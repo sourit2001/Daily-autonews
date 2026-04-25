@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294710",
-    "https://www.d1ev.com/newsflash/294709",
-    "https://www.d1ev.com/newsflash/294706",
-    "https://www.d1ev.com/newsflash/294703",
-    "https://www.d1ev.com/newsflash/294702",
-    "https://www.d1ev.com/newsflash/294700",
-    "https://www.d1ev.com/newsflash/294698",
-    "https://www.d1ev.com/news/shichang/294729",
-    "https://www.d1ev.com/newsflash/294726",
-    "https://www.d1ev.com/newsflash/294722",
-    "https://www.d1ev.com/newsflash/294708",
-    "https://www.d1ev.com/news/shichang/294730",
-    "https://www.d1ev.com/news/qiye/294723",
-    "https://www.d1ev.com/news/shichang/294718",
-    "https://www.d1ev.com/news/shichang/294717",
     "https://www.d1ev.com/news/shichang/294716",
     "https://www.d1ev.com/newsflash/294715",
     "https://www.d1ev.com/news/shichang/294713",
@@ -1999,15 +1984,24 @@
     "https://www.d1ev.com/news/shichang/296968",
     "https://www.d1ev.com/news/qiye/296962",
     "https://www.d1ev.com/news/qiye/296961",
-    "https://www.d1ev.com/news/shichang/296958"
+    "https://www.d1ev.com/news/shichang/296958",
+    "https://www.d1ev.com/news/shichang/296986",
+    "https://www.d1ev.com/news/shichang/296985",
+    "https://www.d1ev.com/news/qiye/296983",
+    "https://www.d1ev.com/newsflash/296981",
+    "https://www.d1ev.com/news/shichang/296978",
+    "https://www.d1ev.com/newsflash/296975",
+    "https://www.d1ev.com/newsflash/296980",
+    "https://www.d1ev.com/newsflash/296976",
+    "https://www.d1ev.com/newsflash/296973",
+    "https://www.d1ev.com/news/shichang/296984",
+    "https://www.d1ev.com/newsflash/296982",
+    "https://www.d1ev.com/newsflash/296979",
+    "https://www.d1ev.com/news/qiye/296977",
+    "https://www.d1ev.com/newsflash/296974",
+    "https://www.d1ev.com/newsflash/296972"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295844",
-      "title": "AI通信协议MCP现重大漏洞，多语言支持项目面临安全风险",
-      "source": "第一电动",
-      "pushedAt": 1776522986668
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295856",
       "title": "比亚迪方程豹新系列曝光，越野与城市车双线发力！",
@@ -7737,6 +7731,96 @@
       "title": "移远通信联合紫光展锐推出高性能5G车载模组AR59xUB系列",
       "source": "第一电动",
       "pushedAt": 1777121545498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296986",
+      "title": "上汽大众ID. ERA 9X正式上市：限时价29.98万元起，首搭Momenta R7强化学习世界模型",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296985",
+      "title": "法雷奥亮相2026北京国际车展，以高科技解决方案引领技术新时代",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296983",
+      "title": "物理AI上车！上汽大众ID. ERA 9X正式上市，将全球首发搭载Momenta R7强化学习世界模型",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296981",
+      "title": "德系旗舰6座SUV ID.ERA9X上市，续航超400km，售价30.98万起",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296978",
+      "title": "限时权益价29.98万元-34.98万元，上汽大众ID. ERA 9X上市1小时锁单破万",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296975",
+      "title": "宝马集团北京车展大秀：16款新车首发，iX3长轴版四季度上市",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296980",
+      "title": "自动驾驶争议升级：小马智行CEO称“L3不存在”",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296976",
+      "title": "吉利北京车展发布新能源越野架构，开启全地形AI越野新时代",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296973",
+      "title": "长安汽车携手神州租车，850台新能源车助力绿色出行新体验",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296984",
+      "title": "从至尊版到舱驾融合：高通携生态伙伴在北京车展亮出汽车智能化“拼图”",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296982",
+      "title": "湖南高速惊魂一幕：司机过度依赖辅助驾驶逆行险酿大祸",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296979",
+      "title": "领克03+TCR赛车首秀夺冠，张志强问鼎CTCC揭幕战",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/296977",
+      "title": "中国汽研北京车展首秀 发布三大计划与三项领先成果",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296974",
+      "title": "乐道L90全新升级，26.58万起售，智能驾驶与外观质感双提升！",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296972",
+      "title": "Momenta智能驾驶方案搭载量突破80万台，BBA齐聚北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777127935253
     }
   ],
   "lastUpdated": "2026-04-25"
