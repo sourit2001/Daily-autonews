@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294669",
-    "https://www.d1ev.com/newsflash/294678",
-    "https://www.d1ev.com/news/shichang/294668",
-    "https://www.d1ev.com/news/shichang/294691",
-    "https://www.d1ev.com/news/qiye/294690",
-    "https://www.d1ev.com/carnews/xinche/294686",
-    "https://www.d1ev.com/newsflash/294679",
-    "https://www.d1ev.com/newsflash/294677",
-    "https://www.d1ev.com/news/qiye/294675",
-    "https://www.d1ev.com/newsflash/294727",
-    "https://www.d1ev.com/news/qiye/294724",
-    "https://www.d1ev.com/newsflash/294714",
     "https://www.d1ev.com/newsflash/294705",
     "https://www.d1ev.com/newsflash/294704",
     "https://www.d1ev.com/newsflash/294701",
@@ -1999,63 +1987,21 @@
     "https://www.d1ev.com/newsflash/296941",
     "https://www.d1ev.com/newsflash/296939",
     "https://www.d1ev.com/newsflash/296937",
-    "https://www.d1ev.com/newsflash/296936"
+    "https://www.d1ev.com/newsflash/296936",
+    "https://www.d1ev.com/carnews/xinche/296956",
+    "https://www.d1ev.com/newsflash/296952",
+    "https://www.d1ev.com/news/shichang/296950",
+    "https://www.d1ev.com/newsflash/296948",
+    "https://www.d1ev.com/newsflash/296947",
+    "https://www.d1ev.com/newsflash/296945",
+    "https://www.d1ev.com/newsflash/296955",
+    "https://www.d1ev.com/newsflash/296953",
+    "https://www.d1ev.com/newsflash/296949",
+    "https://www.d1ev.com/newsflash/296946",
+    "https://www.d1ev.com/newsflash/296954",
+    "https://www.d1ev.com/carnews/xinche/296951"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295838",
-      "title": "Cerebras挑战英伟达：750兆瓦AI芯片助力OpenAI，拟纳斯达克上市",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295837",
-      "title": "加拿大一季度新车销量微降，是市场疲软，还是回归常态？",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295832",
-      "title": "高德地图首款“机器狗”机器人亮相北京马拉松大赛",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295836",
-      "title": "索尼获日本政府巨额补贴，AI图像传感器产能大增",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295833",
-      "title": "AI争议升级：美国选民对AI看法两极化，就业市场影响尚不明显",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295831",
-      "title": "华为ADS5智驾系统实测：城区辅助驾驶效率大提升",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295835",
-      "title": "200亿关税退款即将开申！美国车企的“及时雨”，还是“空头支票”？",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295834",
-      "title": "本田在华燃油车产能将大幅削减，广本部分产线2026年停产",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295830",
-      "title": "激光雷达的尽头不是卷价格，而是6D全彩？",
-      "source": "第一电动",
-      "pushedAt": 1776508573491
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295842",
       "title": "哈弗猛龙PLUS预售开启，5.8秒破百，续航超1000公里！",
@@ -7689,6 +7635,78 @@
       "title": "Stellantis战略大调整：核心品牌获增资，雪铁龙等品牌或转向区域市场",
       "source": "第一电动",
       "pushedAt": 1777106692417
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296956",
+      "title": "BU改革显成效，广汽传祺品牌焕新，致力成为家庭首选，两款新车亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296952",
+      "title": "奇瑞联手高通打造智能汽车新标杆，多款新车型年内上市",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296950",
+      "title": "跨越\"无人之境\"：宁德时代磐石L4全冗余底盘亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296948",
+      "title": "奥迪SQ8北京车展震撼上市，113.98万起售，4.1秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296947",
+      "title": "德系旗舰SUV ID.ERA9X上市1小时订单破万，29.98万起售！",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296945",
+      "title": "五菱星光730销量破4万，新尊享型4月27日上市，智能配置升级",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296955",
+      "title": "小马智行发布新一代自动驾驶域控制器，AI算力大提升，助力L4级自动驾驶商业化",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296953",
+      "title": "元戎启行技术突破：今年目标千公里级自动驾驶！",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296949",
+      "title": "阿联酋宣布：未来两年内50%政府事务将由AgenticAI驱动",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296946",
+      "title": "联发科天玑平台引领AI汽车新时代，3500万套全球出货量见证实力",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296954",
+      "title": "方程豹钛3四驱闪充版延期交付，五月起补偿福利发放",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/296951",
+      "title": "北京车展“意外来客”！神龙汽车回归，现代汽车高喊“绝不退出中国”",
+      "source": "第一电动",
+      "pushedAt": 1777113548163
     }
   ],
   "lastUpdated": "2026-04-25"
