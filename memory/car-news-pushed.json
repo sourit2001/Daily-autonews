@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/294716",
-    "https://www.d1ev.com/newsflash/294715",
     "https://www.d1ev.com/news/shichang/294713",
     "https://www.d1ev.com/news/shichang/294712",
     "https://www.d1ev.com/news/qiye/294711",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/296979",
     "https://www.d1ev.com/news/qiye/296977",
     "https://www.d1ev.com/newsflash/296974",
-    "https://www.d1ev.com/newsflash/296972"
+    "https://www.d1ev.com/newsflash/296972",
+    "https://www.d1ev.com/news/shichang/296997",
+    "https://www.d1ev.com/newsflash/296996"
   ],
   "newsHistory": [
     {
@@ -7821,7 +7821,19 @@
       "title": "Momenta智能驾驶方案搭载量突破80万台，BBA齐聚北京车展",
       "source": "第一电动",
       "pushedAt": 1777127935253
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/296997",
+      "title": "芯擎科技北京车展展示全栈芯片矩阵，推进舱驾融合与端侧智能布局",
+      "source": "第一电动",
+      "pushedAt": 1777134912137
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/296996",
+      "title": "小米汽车欧洲研发中心助力YU7GT，浙赛刷新50万内最快四门车记录",
+      "source": "第一电动",
+      "pushedAt": 1777134912137
     }
   ],
-  "lastUpdated": "2026-04-25"
+  "lastUpdated": "2026-04-26"
 }
