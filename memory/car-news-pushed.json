@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294807",
-    "https://www.d1ev.com/newsflash/294806",
-    "https://www.d1ev.com/newsflash/294805",
-    "https://www.d1ev.com/newsflash/294804",
-    "https://www.d1ev.com/newsflash/294811",
     "https://www.d1ev.com/newsflash/294826",
     "https://www.d1ev.com/newsflash/294825",
     "https://www.d1ev.com/carnews/xinche/294840",
@@ -1999,39 +1994,14 @@
     "https://www.d1ev.com/newsflash/297072",
     "https://www.d1ev.com/newsflash/297071",
     "https://www.d1ev.com/newsflash/297070",
-    "https://www.d1ev.com/newsflash/297066"
+    "https://www.d1ev.com/newsflash/297066",
+    "https://www.d1ev.com/newsflash/297081",
+    "https://www.d1ev.com/newsflash/297080",
+    "https://www.d1ev.com/newsflash/297079",
+    "https://www.d1ev.com/news/shichang/297077",
+    "https://www.d1ev.com/news/shichang/297076"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295896",
-      "title": "奇瑞星途EX7震撼上市！增程/纯电双动力，航空级EMB系统加持",
-      "source": "第一电动",
-      "pushedAt": 1776609474560
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/295895",
-      "title": "星途EX7正式上市 售价19.99-26.39万元",
-      "source": "第一电动",
-      "pushedAt": 1776609474560
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295898",
-      "title": "AI漫画不侵权？德国法院判摄影师败诉",
-      "source": "第一电动",
-      "pushedAt": 1776609474560
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295897",
-      "title": "郑州新能源轿车突发大火 路人及时扑救避免更大损失",
-      "source": "第一电动",
-      "pushedAt": 1776609474560
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295894",
-      "title": "华为靳玉志：乾崑智驾累计辅助驾驶总里程在中国率先突破100亿公里，ADS 5 整体表现“非常丝滑”",
-      "source": "第一电动",
-      "pushedAt": 1776609474560
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295901",
       "title": "华为乾崑智驾ADS4升级：城区领航辅助NCA上线，安全驾驶新突破",
@@ -8013,6 +7983,36 @@
       "title": "江汽集团携手华为，尊界品牌迈入超豪华智能汽车2.0时代",
       "source": "第一电动",
       "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297081",
+      "title": "商汤绝影携全栈AI技术亮相北京车展，引领智能汽车新纪元",
+      "source": "第一电动",
+      "pushedAt": 1777214359771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297080",
+      "title": "东风风神EQ概念车亮相北京车展：家庭轻越野新选择",
+      "source": "第一电动",
+      "pushedAt": 1777214359771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297079",
+      "title": "特斯拉Cybercab赛博无人驾驶车量产，L5级自动驾驶革命来袭",
+      "source": "第一电动",
+      "pushedAt": 1777214359771
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297077",
+      "title": "从量产智驾到Robotaxi：易航智能的双翼与AI机器人公司雄心",
+      "source": "第一电动",
+      "pushedAt": 1777214359771
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297076",
+      "title": "强标前夜的精准卡位：易航智能发布新一代商用车智驾方案",
+      "source": "第一电动",
+      "pushedAt": 1777214359771
     }
   ],
   "lastUpdated": "2026-04-26"
