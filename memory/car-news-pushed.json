@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/294802",
-    "https://www.d1ev.com/news/qiye/294801",
-    "https://www.d1ev.com/newsflash/294800",
-    "https://www.d1ev.com/newsflash/294799",
-    "https://www.d1ev.com/newsflash/294795",
-    "https://www.d1ev.com/newsflash/294798",
-    "https://www.d1ev.com/newsflash/294796",
     "https://www.d1ev.com/news/shichang/294792",
     "https://www.d1ev.com/newsflash/294793",
     "https://www.d1ev.com/newsflash/294797",
@@ -1999,63 +1992,16 @@
     "https://www.d1ev.com/newsflash/297052",
     "https://www.d1ev.com/news/qiye/297051",
     "https://www.d1ev.com/newsflash/297050",
-    "https://www.d1ev.com/carnews/xinche/297047"
+    "https://www.d1ev.com/carnews/xinche/297047",
+    "https://www.d1ev.com/newsflash/297065",
+    "https://www.d1ev.com/news/shichang/297063",
+    "https://www.d1ev.com/newsflash/297059",
+    "https://www.d1ev.com/newsflash/297062",
+    "https://www.d1ev.com/carnews/xinche/297064",
+    "https://www.d1ev.com/news/shichang/297061",
+    "https://www.d1ev.com/news/shichang/297060"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295888",
-      "title": "鸿蒙智行尚界Z7/Z7T预订破7万，安全配置强悍亮相",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295885",
-      "title": "广汽昊铂S600北京车展盲订开启，新豪华智慧SUV亮相",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295884",
-      "title": "东风奕派纳米01Cross亮相北京车展，携手华为智能方案新突破",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295889",
-      "title": "新能源车降价潮冲击二手车市：车商承压，市场分化加剧",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295887",
-      "title": "E周看点｜宁德时代一季度净利润207.38亿元；吉利一季度新能源渗透率超52%",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295886",
-      "title": "中国新能源汽车欧洲市场潜力巨大，美国消费者青睐高性价比",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295883",
-      "title": "谷歌AI新突破：A2UI0.9打造智能UI设计新标准",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/295891",
-      "title": "小智一周要闻 | 智元机器人计划2027年实现100亿元营收；速腾聚创获人形机器人企业订单",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295890",
-      "title": "小米智能助手Xiaomimiclaw国内首批通过权威评测，科技发烧友专属",
-      "source": "第一电动",
-      "pushedAt": 1776594920190
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295893",
       "title": "“双林K7”全球首发：L4级无人驾驶矿卡，智能运输新突破！",
@@ -7983,6 +7929,48 @@
       "title": "整车成本比Model 3更低！专访小马智行CFO王皓俊：算清单车的账，扩张就简单",
       "source": "第一电动",
       "pushedAt": 1777193720820
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297065",
+      "title": "小鹏飞行汽车13年磨一剑，年底全球首发，续航超1000公里",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297063",
+      "title": "Momenta R7强化学习世界模型量产首发 物理AI走向规模化量产落地",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297059",
+      "title": "保时捷纯电动卡宴Turbo亮相北京车展，2.5秒破百，续航超260km/h",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297062",
+      "title": "AI智能体不抢饭碗！沃尔沃研究团队揭示软件工程师新机遇",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/297064",
+      "title": "没人再提激光雷达数量？直击北京车展：今年智能驾驶“卷”什么",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297061",
+      "title": "E周看点 | 长安整合深蓝、阿维塔；宁德时代“超级科技日”放大招",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297060",
+      "title": "小智一周要闻 | 特斯拉Optimus3年中投产；吉利发布首款原生开发Robotaxi",
+      "source": "第一电动",
+      "pushedAt": 1777200059740
     }
   ],
   "lastUpdated": "2026-04-26"
