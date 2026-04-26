@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/294792",
-    "https://www.d1ev.com/newsflash/294793",
-    "https://www.d1ev.com/newsflash/294797",
-    "https://www.d1ev.com/newsflash/294794",
-    "https://www.d1ev.com/newsflash/294791",
-    "https://www.d1ev.com/newsflash/294812",
-    "https://www.d1ev.com/newsflash/294810",
-    "https://www.d1ev.com/newsflash/294809",
-    "https://www.d1ev.com/newsflash/294808",
     "https://www.d1ev.com/newsflash/294807",
     "https://www.d1ev.com/newsflash/294806",
     "https://www.d1ev.com/newsflash/294805",
@@ -1999,21 +1990,18 @@
     "https://www.d1ev.com/newsflash/297062",
     "https://www.d1ev.com/carnews/xinche/297064",
     "https://www.d1ev.com/news/shichang/297061",
-    "https://www.d1ev.com/news/shichang/297060"
+    "https://www.d1ev.com/news/shichang/297060",
+    "https://www.d1ev.com/newsflash/297068",
+    "https://www.d1ev.com/newsflash/297067",
+    "https://www.d1ev.com/newsflash/297069",
+    "https://www.d1ev.com/news/shichang/297074",
+    "https://www.d1ev.com/newsflash/297073",
+    "https://www.d1ev.com/newsflash/297072",
+    "https://www.d1ev.com/newsflash/297071",
+    "https://www.d1ev.com/newsflash/297070",
+    "https://www.d1ev.com/newsflash/297066"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/295893",
-      "title": "“双林K7”全球首发：L4级无人驾驶矿卡，智能运输新突破！",
-      "source": "第一电动",
-      "pushedAt": 1776603012416
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/295892",
-      "title": "荣耀机器人队北京半马夺冠，打破人类纪录！",
-      "source": "第一电动",
-      "pushedAt": 1776603012416
-    },
     {
       "url": "https://www.d1ev.com/newsflash/295896",
       "title": "奇瑞星途EX7震撼上市！增程/纯电双动力，航空级EMB系统加持",
@@ -7971,6 +7959,60 @@
       "title": "小智一周要闻 | 特斯拉Optimus3年中投产；吉利发布首款原生开发Robotaxi",
       "source": "第一电动",
       "pushedAt": 1777200059740
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297068",
+      "title": "捷达新能源LOGO亮相，JETTAX概念车引领科技新风尚",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297067",
+      "title": "华为问界M9智能新玩法：车外语音互动，140项创新技术亮相",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297069",
+      "title": "华为自动驾驶技术突破：170万辆车搭载，安全里程远超平均水平",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297074",
+      "title": "2026北京车展 | “同源共链”汽车·机器人·低空经济产业链协同对接会圆满落幕",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297073",
+      "title": "华为余承东：鸿蒙智行引领中国汽车市场体系化竞争新阶段",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297072",
+      "title": "比亚迪北京车展发力中高端，发布多款旗舰新品",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297071",
+      "title": "华为余承东自省：尚界Z7/Z7T颜值升级，女性用户占比超四成",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297070",
+      "title": "吉利帝豪i-HEV混动车创纪录：2.22L油耗开启国民家轿“2L时代”",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297066",
+      "title": "江汽集团携手华为，尊界品牌迈入超豪华智能汽车2.0时代",
+      "source": "第一电动",
+      "pushedAt": 1777208093995
     }
   ],
   "lastUpdated": "2026-04-26"
