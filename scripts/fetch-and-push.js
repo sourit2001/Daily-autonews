@@ -354,7 +354,7 @@ async function generateSummary(title, content) {
   try {
     const response = await new Promise((resolve, reject) => {
       const postData = JSON.stringify({
-        model: 'deepseek-chat',
+        model: 'deepseek-v4-flash',
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
         max_tokens: 500

@@ -160,7 +160,7 @@ ${titles}`;
     try {
         const response = await new Promise((resolve, reject) => {
             const postData = JSON.stringify({
-                model: 'deepseek-chat',
+                model: 'deepseek-v4-flash',
                 messages: [{ role: 'user', content: prompt }],
                 temperature: 0.7,
                 max_tokens: 2000
@@ -189,7 +189,11 @@ ${titles}`;
             req.end();
         });
 
-        return response?.choices?.[0]?.message?.content || "今日头条内容正在生成中...";
+        if (!response?.choices?.[0]) {
+            console.error('❌ AI 响应异常:', JSON.stringify(response, null, 2));
+            return "今日行业动态汇总正在生成中（响应异常）。";
+        }
+        return response.choices[0].message.content;
     } catch (e) {
         console.error('AI 总结生成失败:', e);
         return "今日行业动态丰富，主要集中在电气化转型和海外市场拓展。";
@@ -217,7 +221,7 @@ async function sendToFeishu(summary, dateStr) {
         {
             tag: 'note',
             elements: [
-                { tag: 'plain_text', content: `📊 驱动：DeepSeek-V3 | � 来源：多源聚合` }
+                { tag: 'plain_text', content: `📊 驱动：DeepSeek-V4-Flash |  来源：多源聚合` }
             ]
         }
     ];
@@ -239,8 +243,25 @@ async function sendToFeishu(summary, dateStr) {
             headers: { 'Content-Type': 'application/json' },
             timeout: 10000
         }, (res) => {
-            res.on('data', () => { });
-            res.on('end', () => resolve());
+            let responseData = '';
+            res.on('data', chunk => responseData += chunk);
+            res.on('end', () => {
+                try {
+                    const result = JSON.parse(responseData);
+                    if (result.code === 0 || result.StatusCode === 0 || result.msg === 'ok') {
+                        resolve(result);
+                    } else {
+                        reject(new Error(`飞书推送失败: ${responseData}`));
+                    }
+                } catch (e) {
+                    // 如果不是 JSON，根据状态码判断
+                    if (res.statusCode >= 200 && res.statusCode < 300) {
+                        resolve(responseData);
+                    } else {
+                        reject(new Error(`飞书响应错误 (HTTP ${res.statusCode}): ${responseData}`));
+                    }
+                }
+            });
         });
         req.on('error', reject);
         req.write(data);
@@ -250,6 +271,13 @@ async function sendToFeishu(summary, dateStr) {
 
 async function main() {
     console.log('🚀 每日要闻总结任务启动');
+    
+    // 检查环境变量
+    if (!process.env.FEISHU_WEBHOOK || !process.env.DEEPSEEK_API_KEY) {
+        console.warn('⚠️ 警告: 缺少环境变量 FEISHU_WEBHOOK 或 DEEPSEEK_API_KEY');
+        console.log('💡 建议运行: node --env-file=.env scripts/daily-summary.js');
+    }
+
     try {
         const HISTORY_FILE = path.join(__dirname, '../memory/car-news-pushed.json');
         let candidateNews = [];
@@ -282,6 +310,7 @@ async function main() {
 
         console.log(`📊 最终汇总新闻共 ${candidateNews.length} 条，正在生成深度总结...`);
         const summary = await generateDailySummary(candidateNews);
+        console.log(`✅ 深度总结生成成功，长度: ${summary.length} 字符`);
 
         const bjNow = getZonedDateTime();
         const dateStr = `${bjNow.getMonth() + 1}月${bjNow.getDate()}日`;
@@ -289,7 +318,7 @@ async function main() {
         await sendToFeishu(summary, dateStr);
         console.log('✅ 每日要闻总结已推送到飞书');
     } catch (e) {
-        console.error('❌ 任务执行失败:', e.message);
+        console.error('❌ 任务执行失败:', e);
     }
 }
 
