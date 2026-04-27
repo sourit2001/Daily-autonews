@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295003",
-    "https://www.d1ev.com/newsflash/295002",
-    "https://www.d1ev.com/newsflash/294995",
-    "https://www.d1ev.com/news/shichang/294998",
-    "https://www.d1ev.com/newsflash/295021",
     "https://www.d1ev.com/newsflash/295020",
     "https://www.d1ev.com/newsflash/295015",
     "https://www.d1ev.com/carnews/xinche/295014",
@@ -1999,21 +1994,14 @@
     "https://www.d1ev.com/newsflash/297255",
     "https://www.d1ev.com/newsflash/297259",
     "https://www.d1ev.com/newsflash/297253",
-    "https://www.d1ev.com/newsflash/297260"
+    "https://www.d1ev.com/newsflash/297260",
+    "https://www.d1ev.com/newsflash/297269",
+    "https://www.d1ev.com/newsflash/297268",
+    "https://www.d1ev.com/newsflash/297267",
+    "https://www.d1ev.com/newsflash/297265",
+    "https://www.d1ev.com/newsflash/297266"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/296072",
-      "title": "猛士汽车携手华为乾崑，未来两年推四款新车，打造智能越野新生态",
-      "source": "第一电动",
-      "pushedAt": 1776704368321
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296071",
-      "title": "岚图董事长卢放致敬C-NCAP：中国汽车安全20年飞跃",
-      "source": "第一电动",
-      "pushedAt": 1776704368321
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/296105",
       "title": "预售26.98万元起 问界M6将于4月22日上市",
@@ -8091,7 +8079,37 @@
       "title": "零跑汽车2027年推高端品牌，冲击30万+市场",
       "source": "第一电动",
       "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297269",
+      "title": "吉利银河概念车“银河之光”全球首发，定义AI智电时代新豪华",
+      "source": "第一电动",
+      "pushedAt": 1777310224312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297268",
+      "title": "领克900旗舰大五座SUV上市，25万级混动新标杆来袭",
+      "source": "第一电动",
+      "pushedAt": 1777310224312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297267",
+      "title": "吉利银河M9黑金版上市，26.98万起享78000元权益",
+      "source": "第一电动",
+      "pushedAt": 1777310224312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297265",
+      "title": "“千里科技布局未来：赵明预言三年内智驾上车量达800万辆”",
+      "source": "第一电动",
+      "pushedAt": 1777310224312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297266",
+      "title": "零跑汽车2027年推高端品牌，30万+车型将独立销售网络",
+      "source": "第一电动",
+      "pushedAt": 1777310224312
     }
   ],
-  "lastUpdated": "2026-04-27"
+  "lastUpdated": "2026-04-28"
 }
