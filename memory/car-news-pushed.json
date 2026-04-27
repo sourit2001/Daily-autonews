@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/295013",
-    "https://www.d1ev.com/newsflash/295006",
-    "https://www.d1ev.com/carnews/xinche/294992",
-    "https://www.d1ev.com/news/shichang/294991",
-    "https://www.d1ev.com/newsflash/295019",
-    "https://www.d1ev.com/carnews/xinche/295016",
-    "https://www.d1ev.com/news/shichang/295011",
-    "https://www.d1ev.com/newsflash/295009",
-    "https://www.d1ev.com/newsflash/295008",
-    "https://www.d1ev.com/newsflash/295007",
-    "https://www.d1ev.com/news/shichang/295005",
-    "https://www.d1ev.com/news/shichang/295004",
     "https://www.d1ev.com/newsflash/295003",
     "https://www.d1ev.com/newsflash/295002",
     "https://www.d1ev.com/newsflash/294995",
@@ -1999,81 +1987,21 @@
     "https://www.d1ev.com/news/shichang/297222",
     "https://www.d1ev.com/news/shichang/297218",
     "https://www.d1ev.com/news/shichang/297217",
-    "https://www.d1ev.com/news/qiye/297212"
+    "https://www.d1ev.com/news/qiye/297212",
+    "https://www.d1ev.com/newsflash/297261",
+    "https://www.d1ev.com/newsflash/297257",
+    "https://www.d1ev.com/news/shichang/297256",
+    "https://www.d1ev.com/newsflash/297254",
+    "https://www.d1ev.com/newsflash/297252",
+    "https://www.d1ev.com/newsflash/297251",
+    "https://www.d1ev.com/newsflash/297262",
+    "https://www.d1ev.com/news/qiye/297258",
+    "https://www.d1ev.com/newsflash/297255",
+    "https://www.d1ev.com/newsflash/297259",
+    "https://www.d1ev.com/newsflash/297253",
+    "https://www.d1ev.com/newsflash/297260"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296067",
-      "title": "全新比亚迪海狮05 EV上市 售11.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296065",
-      "title": "全新比亚迪海狮05 DM-i上市 售9.79万元起",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296064",
-      "title": "“问界M9系列新配色亮相，双百万像素大灯引领智能汽车新风尚”",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296062",
-      "title": "比亚迪海狮05系列焕新上市，纯电续航达630km，价格亲民配置升级",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296060",
-      "title": "北京81“战术方盒子”SUV亮相，共创模式打造越野新体验",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296058",
-      "title": "奔驰纯电C级轿车全球首发，搭载AI技术，续航762公里挑战特斯拉Model3",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296063",
-      "title": "AI芯片巨头曦望Sunrise融资超10亿 推新一代推理GPU量产",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296061",
-      "title": "NovaLauncher升级：AI助手来袭，个性化功能大爆发！",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296057",
-      "title": "岚图泰山黑武士L3级SUV全国20城交付，华为顶级智驾加持",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296066",
-      "title": "全维焕新，猛士汽车与华为乾崑携手重塑智能越野新格局",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296059",
-      "title": "华为乾崑首款旗舰SUV奕境X9官宣",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296056",
-      "title": "何润东“西楚霸王”形象或成极氪8X新代言？官方回应引热议",
-      "source": "第一电动",
-      "pushedAt": 1776698104695
-    },
     {
       "url": "https://www.d1ev.com/newsflash/296072",
       "title": "猛士汽车携手华为乾崑，未来两年推四款新车，打造智能越野新生态",
@@ -8091,6 +8019,78 @@
       "title": "理想演示全主动悬挂沙地脱困、换轮绝技！现场牛X惊呼不断",
       "source": "第一电动",
       "pushedAt": 1777296663040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297261",
+      "title": "纵横北京车展震撼亮相，六款新车全球首秀定义豪华越野新标杆",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297257",
+      "title": "五菱星光730尊享型上市，7大升级8.78万起售",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297256",
+      "title": "纳芯微携汽车电子一站式解决方案亮相2026北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297254",
+      "title": "第二代腾势D9上市：纯电续航800公里，5分钟闪充70%电量！",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297252",
+      "title": "领克900旗舰SUV大五座版震撼上市，29.98万起售，性能续航双兼顾！",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297251",
+      "title": "比亚迪腾势D9全新上市，纯电插混双动力，闪充旗舰型46.98万起",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297262",
+      "title": "南非AI政策草案现虚构引用，部长承诺追责",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/297258",
+      "title": "纯电续航800公里 9分钟充饱！第二代腾势D9一图看懂",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297255",
+      "title": "宁德时代携手海博思创，全球最大钠离子电池订单诞生！",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297259",
+      "title": "日产汽车2025财年亏损收窄，全球裁员2万削减成本",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297253",
+      "title": "小鹏汽车2026年全球布局：欧洲、巴西市场本地制造加速",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297260",
+      "title": "零跑汽车2027年推高端品牌，冲击30万+市场",
+      "source": "第一电动",
+      "pushedAt": 1777304643209
     }
   ],
   "lastUpdated": "2026-04-27"
