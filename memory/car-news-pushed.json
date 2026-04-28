@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295139",
     "https://www.d1ev.com/newsflash/295136",
     "https://www.d1ev.com/newsflash/295132",
     "https://www.d1ev.com/newsflash/295131",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/shichang/297360",
     "https://www.d1ev.com/news/shichang/297350",
     "https://www.d1ev.com/news/shichang/297435",
-    "https://www.d1ev.com/newsflash/297434"
+    "https://www.d1ev.com/newsflash/297434",
+    "https://www.d1ev.com/newsflash/297436"
   ],
   "newsHistory": [
     {
@@ -8025,6 +8025,12 @@
       "title": "华为乾崑携手奕境X9，打造智能豪华SUV新标杆",
       "source": "第一电动",
       "pushedAt": 1777404386917
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297436",
+      "title": "中国新能源车海外销量激增，油价上涨成出海新引擎",
+      "source": "第一电动",
+      "pushedAt": 1777416760084
     }
   ],
   "lastUpdated": "2026-04-29"
