@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295288",
-    "https://www.d1ev.com/newsflash/295287",
-    "https://www.d1ev.com/newsflash/295286",
     "https://www.d1ev.com/newsflash/295285",
     "https://www.d1ev.com/newsflash/295291",
     "https://www.d1ev.com/newsflash/295284",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/297585",
     "https://www.d1ev.com/newsflash/297581",
     "https://www.d1ev.com/newsflash/297584",
-    "https://www.d1ev.com/newsflash/297583"
+    "https://www.d1ev.com/newsflash/297583",
+    "https://www.d1ev.com/newsflash/297589",
+    "https://www.d1ev.com/newsflash/297588",
+    "https://www.d1ev.com/newsflash/297587"
   ],
   "newsHistory": [
     {
@@ -7815,7 +7815,25 @@
       "title": "GitHub用户激增10倍！平台稳定性受挑战，紧急扩容应对",
       "source": "第一电动",
       "pushedAt": 1777478046208
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297589",
+      "title": "19.98万起！方程豹钛7EV闪充版上市，续航755km，5分钟充电70%",
+      "source": "第一电动",
+      "pushedAt": 1777503155963
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297588",
+      "title": "问界M8Max+纯电五座长续航版获行业首个2026版火灾安全五星认证",
+      "source": "第一电动",
+      "pushedAt": 1777503155963
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297587",
+      "title": "广汽集团一季度销量开门红，自主品牌销量同比大增42%",
+      "source": "第一电动",
+      "pushedAt": 1777503155963
     }
   ],
-  "lastUpdated": "2026-04-29"
+  "lastUpdated": "2026-04-30"
 }
