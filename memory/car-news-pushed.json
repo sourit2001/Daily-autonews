@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295394",
-    "https://www.d1ev.com/news/shichang/295391",
-    "https://www.d1ev.com/newsflash/295385",
-    "https://www.d1ev.com/newsflash/295415",
-    "https://www.d1ev.com/newsflash/295410",
-    "https://www.d1ev.com/newsflash/295403",
-    "https://www.d1ev.com/newsflash/295414",
-    "https://www.d1ev.com/newsflash/295408",
     "https://www.d1ev.com/newsflash/295402",
     "https://www.d1ev.com/news/shichang/295407",
     "https://www.d1ev.com/news/qiye/295406",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/newsflash/297690",
     "https://www.d1ev.com/newsflash/297688",
     "https://www.d1ev.com/newsflash/297686",
-    "https://www.d1ev.com/newsflash/297685"
+    "https://www.d1ev.com/newsflash/297685",
+    "https://www.d1ev.com/newsflash/297717",
+    "https://www.d1ev.com/newsflash/297712",
+    "https://www.d1ev.com/newsflash/297715",
+    "https://www.d1ev.com/newsflash/297713",
+    "https://www.d1ev.com/newsflash/297716",
+    "https://www.d1ev.com/news/shichang/297714",
+    "https://www.d1ev.com/newsflash/297711",
+    "https://www.d1ev.com/newsflash/297710"
   ],
   "newsHistory": [
     {
@@ -7725,6 +7725,54 @@
       "title": "荣耀机器人“闪电”五一全国巡展开启，深圳广州成都北京四城门店可遇",
       "source": "第一电动",
       "pushedAt": 1777555859605
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297717",
+      "title": "小米汽车新动作：增程SUV“寻天”系列曝光，20万起售挑战理想",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297712",
+      "title": "大众ID.POLO官图发布，2026年上市，450公里续航快充20分钟",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297715",
+      "title": "DeepSeek发布革命性多模态大模型，突破空间推理瓶颈！",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297713",
+      "title": "五菱新能源销量破百万，海外月销首破3万台！",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297716",
+      "title": "长城汽车与神州租车合作升级，坦克300车型再获万台订单",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297714",
+      "title": "高德旗下高德车服发布汽车全生命周期服务解决方案",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297711",
+      "title": "神龙汽车坚持法系基因，不走同质化路线，聚焦小众市场新未来",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297710",
+      "title": "问界M7五一钜惠：45万交付量，80000元权益+暖心服务！",
+      "source": "第一电动",
+      "pushedAt": 1777563929234
     }
   ],
   "lastUpdated": "2026-04-30"
