@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295483",
-    "https://www.d1ev.com/newsflash/295481",
-    "https://www.d1ev.com/newsflash/295480",
-    "https://www.d1ev.com/newsflash/295476",
-    "https://www.d1ev.com/newsflash/295471",
-    "https://www.d1ev.com/newsflash/295469",
-    "https://www.d1ev.com/newsflash/295468",
     "https://www.d1ev.com/news/shichang/295467",
     "https://www.d1ev.com/newsflash/295466",
     "https://www.d1ev.com/newsflash/295463",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/newsflash/297773",
     "https://www.d1ev.com/newsflash/297772",
     "https://www.d1ev.com/newsflash/297771",
-    "https://www.d1ev.com/newsflash/297770"
+    "https://www.d1ev.com/newsflash/297770",
+    "https://www.d1ev.com/newsflash/297777",
+    "https://www.d1ev.com/newsflash/297776",
+    "https://www.d1ev.com/newsflash/297775",
+    "https://www.d1ev.com/newsflash/297782",
+    "https://www.d1ev.com/newsflash/297780",
+    "https://www.d1ev.com/newsflash/297779",
+    "https://www.d1ev.com/newsflash/297778"
   ],
   "newsHistory": [
     {
@@ -6999,6 +6999,48 @@
       "title": "智己LS8销量飙升：25万级新能源SUV市场新宠",
       "source": "第一电动",
       "pushedAt": 1777633412356
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297777",
+      "title": "极氪4月销量飙升132%，9X月交付破万，8X上市13天近3500辆！",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297776",
+      "title": "深蓝汽车4月销量破3万，L06订单破万，S07华为激光版亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297775",
+      "title": "极狐汽车销量翻倍增长，两款新车即将上市引爆市场",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297782",
+      "title": "奇瑞4月销量破25万，新能源车同比增63.8%",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297780",
+      "title": "吉利4月销量飙升：新能源占比近六成，海外市场翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297779",
+      "title": "比亚迪4月销量破32万，海外市场同比激增70.9%创新高",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297778",
+      "title": "福特CEO：90%车型2030年电气化，纯电皮卡成跨界车新宠",
+      "source": "第一电动",
+      "pushedAt": 1777640861585
     }
   ],
   "lastUpdated": "2026-05-01"
