@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/295475",
-    "https://www.d1ev.com/carnews/xinche/295474",
-    "https://www.d1ev.com/carnews/xinche/295473",
-    "https://www.d1ev.com/newsflash/295470",
-    "https://www.d1ev.com/newsflash/295465",
-    "https://www.d1ev.com/newsflash/295484",
     "https://www.d1ev.com/newsflash/295483",
     "https://www.d1ev.com/newsflash/295481",
     "https://www.d1ev.com/newsflash/295480",
@@ -1999,171 +1993,15 @@
     "https://www.d1ev.com/newsflash/297767",
     "https://www.d1ev.com/newsflash/297766",
     "https://www.d1ev.com/newsflash/297764",
-    "https://www.d1ev.com/newsflash/297760"
+    "https://www.d1ev.com/newsflash/297760",
+    "https://www.d1ev.com/news/qiye/297769",
+    "https://www.d1ev.com/newsflash/297774",
+    "https://www.d1ev.com/newsflash/297773",
+    "https://www.d1ev.com/newsflash/297772",
+    "https://www.d1ev.com/newsflash/297771",
+    "https://www.d1ev.com/newsflash/297770"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/296799",
-      "title": "仰望U9Xtreme“破晓时刻”全球首发，刷新超跑速度纪录！",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296796",
-      "title": "零跑Lafa5 Ultra正式上市 售价12.38万元起",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296794",
-      "title": "日产携新能源SUV概念车亮相2026北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296792",
-      "title": "定义豪华新标杆 全新坦克700亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296788",
-      "title": "昊铂S600全球首发！4.3秒破百，30万级豪华SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296787",
-      "title": "华为技术加持！启境GT7智能猎装车亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296784",
-      "title": "212探境者01皮卡17.99万上市，2.3T柴油动力+500N·m扭矩",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296783",
-      "title": "猛龙PLUS七座版北京车展预售 19.38万起",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296781",
-      "title": "元力智趣闪充SUV，第三代元PLUS北京车展全球首发亮相",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296779",
-      "title": "雷克萨斯ES300h焕新上市 29.99万起售 纯电版2026年见",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296773",
-      "title": "比亚迪元PLUS亮相北京车展，15万级纯电SUV新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296772",
-      "title": "小鹏GX旗舰SUV亮相北京车展，AI技术引领未来出行新趋势",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296768",
-      "title": "小鹏携物理AI全明星阵容亮相2026北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296766",
-      "title": "标致携两款全球首发概念车亮相北京车展，2027年量产上市",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296765",
-      "title": "广汽昊铂S600盲订开启，4.3秒破百豪华SUV年内上市",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296764",
-      "title": "五菱星光L亮相北京车展，1.5T混动版续航超1100km！",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296778",
-      "title": "极狐S3全球首秀：6.48万起售，换电版99秒补能535km",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296767",
-      "title": "捷途汽车2026北京车展上新 全球实力再进阶",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296795",
-      "title": "华为+东风打造的“9系”SUV，来了",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296793",
-      "title": "重塑豪华旗舰高度 魏牌V9X登陆北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296791",
-      "title": "芯擎科技与文远知行达成战略合作",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296790",
-      "title": "奇瑞与高通签约拓展合作",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296782",
-      "title": "材料进化，不止于展台丨开德阜CHINAPLAS 2026现场全纪录",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296780",
-      "title": "奇瑞携57款重磅车型登陆北京车展 风云A9开启小订",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296777",
-      "title": "广汽埃安发布品牌焕新首款车型",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296771",
-      "title": "摩尔线程MTTS5000 GPU适配DeepSeek-V4-Flash，FP8精度计算吞吐量翻倍",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296769",
-      "title": "奕境品牌首款旗舰奕境X9登陆北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777028587568
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/296823",
       "title": "红旗携三大子品牌新品亮相2026北京车展",
@@ -7125,6 +6963,42 @@
       "title": "小鹏汽车4月销量破3万，新品MONAM03助力销量回暖",
       "source": "第一电动",
       "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/297769",
+      "title": "沃尔沃北京车展开启99周年感恩季，EM90焕新上市59.8万元，EX90/E",
+      "source": "第一电动",
+      "pushedAt": 1777633412356
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297774",
+      "title": "吉利汽车4月销量双增长，新能源销量突破13.5万，海外出口同比翻倍",
+      "source": "第一电动",
+      "pushedAt": 1777633412356
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297773",
+      "title": "比亚迪五一前闪充站激增，全国覆盖超5700座，充电不再难！",
+      "source": "第一电动",
+      "pushedAt": 1777633412356
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297772",
+      "title": "AI投资回报率惊人：1美元投入换3美元收益",
+      "source": "第一电动",
+      "pushedAt": 1777633412356
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297771",
+      "title": "广汽丰田铂智品牌4月销量创新高，3X与7成新能源市场新宠",
+      "source": "第一电动",
+      "pushedAt": 1777633412356
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297770",
+      "title": "智己LS8销量飙升：25万级新能源SUV市场新宠",
+      "source": "第一电动",
+      "pushedAt": 1777633412356
     }
   ],
   "lastUpdated": "2026-05-01"
