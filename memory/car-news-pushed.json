@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295437",
-    "https://www.d1ev.com/newsflash/295436",
-    "https://www.d1ev.com/news/qiye/295438",
-    "https://www.d1ev.com/newsflash/295447",
-    "https://www.d1ev.com/newsflash/295441",
-    "https://www.d1ev.com/news/qiye/295456",
-    "https://www.d1ev.com/newsflash/295455",
-    "https://www.d1ev.com/newsflash/295454",
-    "https://www.d1ev.com/news/shichang/295458",
-    "https://www.d1ev.com/newsflash/295457",
-    "https://www.d1ev.com/carnews/xinche/295479",
-    "https://www.d1ev.com/carnews/xinche/295477",
     "https://www.d1ev.com/carnews/xinche/295475",
     "https://www.d1ev.com/carnews/xinche/295474",
     "https://www.d1ev.com/carnews/xinche/295473",
@@ -1999,309 +1987,21 @@
     "https://www.d1ev.com/news/shichang/297739",
     "https://www.d1ev.com/newsflash/297737",
     "https://www.d1ev.com/newsflash/297736",
-    "https://www.d1ev.com/newsflash/297734"
+    "https://www.d1ev.com/newsflash/297734",
+    "https://www.d1ev.com/newsflash/297763",
+    "https://www.d1ev.com/newsflash/297759",
+    "https://www.d1ev.com/newsflash/297758",
+    "https://www.d1ev.com/newsflash/297762",
+    "https://www.d1ev.com/newsflash/297761",
+    "https://www.d1ev.com/newsflash/297757",
+    "https://www.d1ev.com/newsflash/297768",
+    "https://www.d1ev.com/newsflash/297765",
+    "https://www.d1ev.com/newsflash/297767",
+    "https://www.d1ev.com/newsflash/297766",
+    "https://www.d1ev.com/newsflash/297764",
+    "https://www.d1ev.com/newsflash/297760"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/296760",
-      "title": "比亚迪海洋网三款新车亮相北京车展，海洋8系引领新能源市场",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296759",
-      "title": "深蓝L06Max智能轿跑上市，续航670公里仅需12.89万起",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296757",
-      "title": "丰田“TOYOU”理念亮相北京车展，携手中国共创未来出行",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296756",
-      "title": "奇瑞风云A9亮相北京车展，开启小订享四重礼遇",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296755",
-      "title": "猛龙PLUS七座版北京车展开启预售19.38万元起",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296753",
-      "title": "“20万级传祺E8PHEV亮相：1.5T动力+豪华内饰，科技感爆棚”",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296752",
-      "title": "全球首辆EInk电子纸车BMW iX3 Flow Edition亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296751",
-      "title": "本田正在寻求优化其在中国的研发体系，新车将由合资伙伴主导开发",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296746",
-      "title": "比亚迪大唐SUV预售开启：25万起，950km续航，全球全尺寸纯电SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296743",
-      "title": "极氪009七座版预售开启，豪华配置升级，2026年5月上市！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296740",
-      "title": "华为激光雷达加持！一汽红旗新一代H9官图亮相，豪华科技感升级",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296738",
-      "title": "惠科全球首发3.1英寸AR-HUD，色彩亮度超越OLED",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296733",
-      "title": "吉利EvaCab亮相北京车展，2027年推出L4级自动驾驶定制版",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296732",
-      "title": "宝马AI智能体亮相北京车展，iX3长轴距版全球首发",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296731",
-      "title": "11.88万起！零跑Lafa5Ultra运动轿跑上市，性能豪华双升级",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296730",
-      "title": "smart精灵6号北京车展开启预售，18.99万起豪华掀背轿车新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296726",
-      "title": "比亚迪大唐EV北京车展亮相：950km超长续航+1000kW闪充技术",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296725",
-      "title": "五菱星光L亮相北京车展，1000元盲订享30000元豪礼！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296723",
-      "title": "领克北京车展双星闪耀：新款10系列预售，GT概念跑车全球首发",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296722",
-      "title": "LEXUS雷克萨斯全新一代ES正式上市",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296721",
-      "title": "小马智行亮相北京车展：2027版Robotaxi成本将下探至23万元内，首发L4级无人轻卡",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296720",
-      "title": "小米YU7GT震撼亮相：1000马力中大型SUV，300km/h极速来袭！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296719",
-      "title": "比亚迪元PLUS全球销量破110万，第三代车型亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296717",
-      "title": "雷克萨斯ES全新换代，29.99万起售，纯电版下半年亮相！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296716",
-      "title": "比亚迪方程豹“方程S”系列轿车亮相，2026年三季度上市",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296713",
-      "title": "吉利EvaCab亮相北京车展，L4级自动驾驶新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296712",
-      "title": "蔚来ES8销量破十万，全新车型亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296711",
-      "title": "别克至境品牌一周年：三款新能源车型亮相，百亿投入未来规划曝光",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296710",
-      "title": "小米汽车北京车展秀肌肉：YU7GT高性能SUV将上市，VisionGT概念车首秀",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296758",
-      "title": "6万起售！2026款MG4携半固态电池技术强势来袭",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296750",
-      "title": "比亚迪海狮08首秀：900km续航+第二代刀片电池，旗舰SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296745",
-      "title": "华为乾崑技术大会发布十大黑科技，新一代智驾系统ADS5引领安全出行新纪元",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296744",
-      "title": "AI发展引发FOMO焦虑，Anthropic加速功能更新遭质疑",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296741",
-      "title": "华为云适配DeepSeek-V4，1.6万亿参数AI模型开源上线",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296728",
-      "title": "比亚迪元PLUS焕新登场：630公里续航+7气囊，智趣SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296715",
-      "title": "现代IONIQ艾尼氪金星全球首秀，中国设计团队打造未来电动新篇章",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296739",
-      "title": "小米汽车CTO胡峥楠：将针对全球不同市场开发独特产品",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296736",
-      "title": "小马智行发布23万内L4级Robotaxi，全球3000台规模扩张计划启动",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296724",
-      "title": "宝马iX3 Flow Edition全球首秀：EInk电子纸车身变色技术量产！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296762",
-      "title": "北京车展开幕：自主品牌强势登场、奔驰宝马再放豪言，全年最激烈交锋开启",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296761",
-      "title": "消息称特斯拉柏林工厂Q1生产超过6.1万辆Model Y 但低于年产能水平",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296754",
-      "title": "TechWeb微晚报：苹果被曝将开发6大新产品，特斯拉FSD入华时间再度推迟",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296749",
-      "title": "蔚来ES8销量破十万，47%北京市占率创纪录",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296748",
-      "title": "腾讯发布出行全场景智能体平台，赋能车企智慧出行新体验",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296737",
-      "title": "零跑A10首月订单破4万，小型SUV市场新黑马！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296735",
-      "title": "奕境品牌首款旗舰奕境X9登陆北京车展 打造年度新旗舰",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296734",
-      "title": "特斯拉Model S和X生产线 将改造成Optimus生产线",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296729",
-      "title": "英伟达GPT-5.5 Codex助力万名员工效率飙升，成本降低35倍！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296727",
-      "title": "理想L9Livis北京车展震撼登场，60万级SUV性能新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296718",
-      "title": "零跑A10销量破纪录：48小时大定破万，首月订单超4万台！",
-      "source": "第一电动",
-      "pushedAt": 1777022962252
-    },
     {
       "url": "https://www.d1ev.com/newsflash/296799",
       "title": "仰望U9Xtreme“破晓时刻”全球首发，刷新超跑速度纪录！",
@@ -7353,6 +7053,78 @@
       "title": "智己LS8四月销量破万，增程SUV市场新黑马",
       "source": "第一电动",
       "pushedAt": 1777617364317
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297763",
+      "title": "蔚来4月销量近3万台，5款新车密集上市，一季度首盈利",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297759",
+      "title": "小鹏4月销量下滑11.51%，新旗舰GX预售开启，续航高达750km",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297758",
+      "title": "理想汽车4月交付量破3.4万，累计超166万，新旗舰SUV L9Livis即将上市",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297762",
+      "title": "Meta员工数据成AI训练燃料，智能助手或将取代人类工作？",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297761",
+      "title": "AI编程工具飞跃：从辅助到主导，谷歌75%新代码由AI生成",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297757",
+      "title": "东风奕派M8五月发布：华为智驾加持，家庭出行新选择",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297768",
+      "title": "“蔚来萤火虫4月销量近5千，智能小车获全球安全大奖”",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297765",
+      "title": "深蓝汽车4月全球销量激增64.8%，累计交付破80万大关！",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297767",
+      "title": "极氪4月销量创新高，高端车型成主力，累计交付突破75万辆",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297766",
+      "title": "小米YU7五月购车福利来袭：首付4.99万起，月供低至3731元！",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297764",
+      "title": "极氪4月交付创新高：31787辆，累计破75万，均价近35万！",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297760",
+      "title": "小鹏汽车4月销量破3万，新品MONAM03助力销量回暖",
+      "source": "第一电动",
+      "pushedAt": 1777627786846
     }
   ],
   "lastUpdated": "2026-05-01"
