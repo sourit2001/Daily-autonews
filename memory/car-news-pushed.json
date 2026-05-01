@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295467",
-    "https://www.d1ev.com/newsflash/295466",
-    "https://www.d1ev.com/newsflash/295463",
-    "https://www.d1ev.com/news/shichang/295461",
-    "https://www.d1ev.com/news/shichang/295487",
-    "https://www.d1ev.com/news/shichang/295486",
     "https://www.d1ev.com/news/shichang/295485",
     "https://www.d1ev.com/newsflash/295482",
     "https://www.d1ev.com/carnews/xinche/295478",
@@ -1999,129 +1993,15 @@
     "https://www.d1ev.com/newsflash/297782",
     "https://www.d1ev.com/newsflash/297780",
     "https://www.d1ev.com/newsflash/297779",
-    "https://www.d1ev.com/newsflash/297778"
+    "https://www.d1ev.com/newsflash/297778",
+    "https://www.d1ev.com/news/shichang/297788",
+    "https://www.d1ev.com/news/shichang/297785",
+    "https://www.d1ev.com/newsflash/297789",
+    "https://www.d1ev.com/newsflash/297786",
+    "https://www.d1ev.com/newsflash/297790",
+    "https://www.d1ev.com/news/shichang/297787"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/296823",
-      "title": "红旗携三大子品牌新品亮相2026北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296821",
-      "title": "智己LS8亮相北京车展，25万级旗舰SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296819",
-      "title": "全新一代雷克萨斯ES正式上市 售价29.99万元",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296818",
-      "title": "北京车展首日 ID. ERA 9X 即将上市，上汽大众发布混动双擎战略！",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296815",
-      "title": "长安蓝鲸超擎混动双车北京车展全球首发",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296812",
-      "title": "东风华为联手打造奕境X9，旗舰SUV搭载华为智驾系统亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296810",
-      "title": "元力智趣闪充SUV 第三代元PLUS北京车展首发",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296809",
-      "title": "新豪华智慧运动SUV 昊铂S600亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296808",
-      "title": "小鹏飞行汽车“陆地航母”预售7000台，2026年量产200万内起",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296802",
-      "title": "比亚迪大唐EV亮相北京车展，预售价25万起，续航800km+，3秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296800",
-      "title": "北京81战术方盒子越野神车，20万起预售，8月1日南昌上市！",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296814",
-      "title": "保时捷家族最强跑车：纯电动 Cayenne Turbo 即日公布制造商建议零售价",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296804",
-      "title": "美团万亿级大模型LongCat-2.0-Preview开放测试，国产算力新突破",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296801",
-      "title": "英特尔业绩超预期：AI服务器CPU需求激增，股价盘后飙升近20%",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296822",
-      "title": "追觅星空计划北京车展首秀，以极致科技探索全球高端",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296806",
-      "title": "中国长安汽车集团发布“海纳百川”计划2.0长安蓝鲸超擎双车领航，开启全球混动新纪元",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296824",
-      "title": "欧摩威斩获屏下摄像头OLED显示屏重磅订单",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296817",
-      "title": "北京车展首日亮点：小米汽车销量破65万，比亚迪技术大爆发",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296813",
-      "title": "111.8万起，保时捷纯电Cayenne Turbo为中国加配",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296807",
-      "title": "奇瑞57款车型登陆北京车展 风云A9开启小订",
-      "source": "第一电动",
-      "pushedAt": 1777036286492
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/296860",
       "title": "长城汽车发布“归元守契”，全球首款乙醇插混车型明日在巴上市",
@@ -7041,6 +6921,42 @@
       "title": "福特CEO：90%车型2030年电气化，纯电皮卡成跨界车新宠",
       "source": "第一电动",
       "pushedAt": 1777640861585
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297788",
+      "title": "理想4月交付34085辆 全新L9 Livis北京车展首发",
+      "source": "第一电动",
+      "pushedAt": 1777647020442
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297785",
+      "title": "蔚来三品牌齐发力，4月交付新车29356台",
+      "source": "第一电动",
+      "pushedAt": 1777647020442
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297789",
+      "title": "日产经典Primera或将电动重生，2026年重返市场",
+      "source": "第一电动",
+      "pushedAt": 1777647020442
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297786",
+      "title": "起亚PV5变身AI巡逻车：无人机起降、360度监控，2026年韩国试点",
+      "source": "第一电动",
+      "pushedAt": 1777647020442
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297790",
+      "title": "深蓝汽车4月全球销量激增64.8%，累计交付破80万大关",
+      "source": "第一电动",
+      "pushedAt": 1777647020442
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297787",
+      "title": "奇瑞集团4月销量25.1万辆，实现出口翻番",
+      "source": "第一电动",
+      "pushedAt": 1777647020442
     }
   ],
   "lastUpdated": "2026-05-01"
