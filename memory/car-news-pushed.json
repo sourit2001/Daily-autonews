@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295413",
-    "https://www.d1ev.com/news/shichang/295412",
-    "https://www.d1ev.com/news/shichang/295411",
-    "https://www.d1ev.com/newsflash/295409",
-    "https://www.d1ev.com/newsflash/295405",
-    "https://www.d1ev.com/newsflash/295404",
-    "https://www.d1ev.com/newsflash/295434",
-    "https://www.d1ev.com/newsflash/295433",
     "https://www.d1ev.com/newsflash/295431",
     "https://www.d1ev.com/newsflash/295430",
     "https://www.d1ev.com/newsflash/295429",
@@ -1999,225 +1991,17 @@
     "https://www.d1ev.com/newsflash/297710",
     "https://www.d1ev.com/newsflash/297720",
     "https://www.d1ev.com/newsflash/297725",
-    "https://www.d1ev.com/newsflash/297724"
+    "https://www.d1ev.com/newsflash/297724",
+    "https://www.d1ev.com/newsflash/297732",
+    "https://www.d1ev.com/newsflash/297730",
+    "https://www.d1ev.com/newsflash/297733",
+    "https://www.d1ev.com/newsflash/297727",
+    "https://www.d1ev.com/newsflash/297726",
+    "https://www.d1ev.com/news/qiye/297731",
+    "https://www.d1ev.com/newsflash/297729",
+    "https://www.d1ev.com/newsflash/297728"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/296562",
-      "title": "微增长时代的价值赌注：阿维塔06T能否打破20万级市场的同质化困局？",
-      "source": "第一电动",
-      "pushedAt": 1776964460681
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296563",
-      "title": "谁在为L3规模化铺路？",
-      "source": "第一电动",
-      "pushedAt": 1776970827261
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296599",
-      "title": "东风汽车概念车EQ-REBORN亮相，智能轻越野新标杆",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296597",
-      "title": "小米汽车欧洲研发中心首秀，豪华阵容打造高性能新车型",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296591",
-      "title": "仁芯科技32Gbps车载高速SerDes重磅亮相2026北京车展，国产高速传输芯片加速上车",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296590",
-      "title": "小米YU7销量破23万，新车型YU7GT 5月底亮相",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296588",
-      "title": "小米VisionGT概念超跑亮相北京车展，全球首秀科技巨头造车梦",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296586",
-      "title": "小米SU7锁单超6万，续航破千公里，新车质量魅力双冠王！",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296580",
-      "title": "磁流变电磁悬架 深蓝L06增程版上市",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296579",
-      "title": "华为技术加持！奕境X9旗舰SUV首发亮相，智能驾驶新体验",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296573",
-      "title": "深蓝L06增程版震撼上市，12万起售，智能驾驶+法拉利同款悬架！",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296571",
-      "title": "奥迪A1和Q2停产，全新A2e-tron纯电掀背车即将亮相",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296570",
-      "title": "2026北京车展规模全球第一，1451台展车亮相顺义馆",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296566",
-      "title": "【盖世快讯】特斯拉第三代人形机器人预计年中亮相；福特宣布解散电动汽车事业部",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296595",
-      "title": "DeepSeek融资200亿美元稳团队，AI人才争夺战升级",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296589",
-      "title": "小米YU7GT跑车级SUV 5月底发布，马力超千匹续航705km",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296587",
-      "title": "东风汽车2030年目标500万销量，新能源占比超70%",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296578",
-      "title": "特斯拉Roadster：自动驾驶时代下的驾驶乐趣守护者？",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296577",
-      "title": "腾讯AI大模型混元Hy3preview发布，智能升级引关注",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296576",
-      "title": "北京车展今日开幕，1451款车参展，大型SUV风头正劲，各路势力火拼“智驾”",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296572",
-      "title": "OpenAI GPT-5.5震撼发布：AI编程、科研新突破，效率飙升！",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296565",
-      "title": "华为王超：华为智擎构筑新能源汽车“用能之核心、运动之要义、安全之基石”",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296564",
-      "title": "东风汽车联手火山引擎，共探AI汽车未来新篇章",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296567",
-      "title": "兰博基尼UrusSE限量版发布：630台全球独享，3.4秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296598",
-      "title": "小米VisionGT超跑合金车模今日开售，1:43还原未来感设计",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296596",
-      "title": "小米SU7销量破6000台！内饰升级安全性能全面领先",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296594",
-      "title": "小米VisionGranTurismo超跑国内首秀，创新「反升力体」设计震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296592",
-      "title": "北京车展看点：联合电子展出热管理核心技术，直击行业痛点",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296585",
-      "title": "北汽集团与博世中国签署战略合作框架协议",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296584",
-      "title": "汽车零部件供应商，都说苦，钱谁赚了？",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296583",
-      "title": "怿星科技落子南宁",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296582",
-      "title": "商务部部长王文涛与奔驰董事长会谈，共商中欧汽车产业合作前景",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296581",
-      "title": "奥迪A1与Q2停产，A3与Q3接棒入门级市场",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296575",
-      "title": "泰雷兹推出TopStar智能接收机 确保在对抗激烈的电子战环境中维持通信",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296574",
-      "title": "小米发布MiMo-V2.5语音模型系列：语音识别合成新突破",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296569",
-      "title": "KYOCERA AVX发布全新牵引级直流滤波电容器",
-      "source": "第一电动",
-      "pushedAt": 1776996457368
-    },
     {
       "url": "https://www.d1ev.com/newsflash/296684",
       "title": "哈弗猛龙PLUS七座SUV预售开启，19.38万起，5.9秒破百！",
@@ -7683,6 +7467,54 @@
       "title": "奔驰战略大调整：燃油与纯电车型将共用平台开发",
       "source": "第一电动",
       "pushedAt": 1777569256454
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297732",
+      "title": "零跑D19上市15天订单破1.5万，A10首月大定超4万！",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297730",
+      "title": "零跑汽车4月销量飙升73.9%，新车型上市助力智能驾驶普及",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297733",
+      "title": "AI代码安全检测新突破：ClaudeSecurity公测版开放，GitHub漏洞无处遁形",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297727",
+      "title": "4月新能源汽车销量爆发：零跑大增73.9%，小米汽车破3万",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297726",
+      "title": "OpenAI Codex将推iPhone应用，AI编程工具变身通用生产力助手",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/297731",
+      "title": "零跑汽车4月交付达71387台，创历史新高",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297729",
+      "title": "兰博基尼新CTO宋斐明：奥迪上汽合作项目功成身退",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297728",
+      "title": "小米汽车4月销量破3万，全国门店增至495家",
+      "source": "第一电动",
+      "pushedAt": 1777602844201
     }
   ],
   "lastUpdated": "2026-05-01"
