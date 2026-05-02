@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/295496",
-    "https://www.d1ev.com/newsflash/295491",
-    "https://www.d1ev.com/newsflash/295489",
-    "https://www.d1ev.com/news/shichang/295511",
-    "https://www.d1ev.com/newsflash/295490",
-    "https://www.d1ev.com/newsflash/295521",
     "https://www.d1ev.com/newsflash/295519",
     "https://www.d1ev.com/news/shichang/295517",
     "https://www.d1ev.com/news/shichang/295510",
@@ -1999,63 +1993,15 @@
     "https://www.d1ev.com/newsflash/297825",
     "https://www.d1ev.com/newsflash/297821",
     "https://www.d1ev.com/newsflash/297827",
-    "https://www.d1ev.com/newsflash/297826"
+    "https://www.d1ev.com/newsflash/297826",
+    "https://www.d1ev.com/newsflash/297830",
+    "https://www.d1ev.com/newsflash/297833",
+    "https://www.d1ev.com/newsflash/297832",
+    "https://www.d1ev.com/newsflash/297831",
+    "https://www.d1ev.com/newsflash/297829",
+    "https://www.d1ev.com/newsflash/297828"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/296966",
-      "title": "奥迪携本土化车型与技术亮相2026北京车展 持续推进在华产品布局",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296959",
-      "title": "方程豹钛7EV闪充版4月29日上市，5分钟充至70%电量！",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296963",
-      "title": "小马智行发布新一代自动驾驶域控制器",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296960",
-      "title": "杰发科技牵手追觅星空计划，达成车用芯片战略合作",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296957",
-      "title": "舱联破界、AI随行、雷达全感：移远通信“硬核三件套”引爆北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296968",
-      "title": "从愿景到新境：AUDI品牌正式发布首款纯电SUV奥迪E7X",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296962",
-      "title": "上汽通用五菱与沙特经销商签约合作",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296961",
-      "title": "北汽集团与宁德时代深化战略合作",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296958",
-      "title": "移远通信联合紫光展锐推出高性能5G车载模组AR59xUB系列",
-      "source": "第一电动",
-      "pushedAt": 1777121545498
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/296986",
       "title": "上汽大众ID. ERA 9X正式上市：限时价29.98万元起，首搭Momenta R7强化学习世界模型",
@@ -6489,6 +6435,42 @@
       "title": "蔚来乐道换电创新高：单日破3.2万单，五一免服务费大放送！",
       "source": "第一电动",
       "pushedAt": 1777718673204
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297830",
+      "title": "比亚迪4月销量破32万，新能源车累计超1610万辆",
+      "source": "第一电动",
+      "pushedAt": 1777726695333
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297833",
+      "title": "广汽昊铂S600盲订开启：4.3秒破百，豪华智能新标杆",
+      "source": "第一电动",
+      "pushedAt": 1777726695333
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297832",
+      "title": "科技巨头2026年资本支出飙升77%，谷歌云业务收入翻倍",
+      "source": "第一电动",
+      "pushedAt": 1777726695333
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297831",
+      "title": "尚界Z7试驾惊魂！AEB紧急介入两度避免撞车",
+      "source": "第一电动",
+      "pushedAt": 1777726695333
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297829",
+      "title": "小米SU7锁单破7万！浙赛最速四门量产车开售",
+      "source": "第一电动",
+      "pushedAt": 1777726695333
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297828",
+      "title": "“昊铂埃安4月销量增15.6%，S600盲订开启在即”",
+      "source": "第一电动",
+      "pushedAt": 1777726695333
     }
   ],
   "lastUpdated": "2026-05-02"
