@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295512",
-    "https://www.d1ev.com/newsflash/295507",
-    "https://www.d1ev.com/newsflash/295504",
-    "https://www.d1ev.com/newsflash/295501",
-    "https://www.d1ev.com/newsflash/295500",
-    "https://www.d1ev.com/news/shichang/295492",
-    "https://www.d1ev.com/newsflash/295488",
-    "https://www.d1ev.com/newsflash/295529",
     "https://www.d1ev.com/newsflash/295527",
     "https://www.d1ev.com/newsflash/295526",
     "https://www.d1ev.com/newsflash/295523",
@@ -1999,117 +1991,17 @@
     "https://www.d1ev.com/carnews/xinche/297803",
     "https://www.d1ev.com/newsflash/297799",
     "https://www.d1ev.com/newsflash/297797",
-    "https://www.d1ev.com/newsflash/297796"
+    "https://www.d1ev.com/newsflash/297796",
+    "https://www.d1ev.com/newsflash/297816",
+    "https://www.d1ev.com/newsflash/297815",
+    "https://www.d1ev.com/newsflash/297814",
+    "https://www.d1ev.com/newsflash/297813",
+    "https://www.d1ev.com/newsflash/297812",
+    "https://www.d1ev.com/newsflash/297810",
+    "https://www.d1ev.com/newsflash/297811",
+    "https://www.d1ev.com/newsflash/297809"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/296923",
-      "title": "东风奕派携手华为，5月首发智能大六座SUV M8",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296922",
-      "title": "东风纳米01Cross纯电小车上市，8.38万起售，同级唯一无框车门！",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296919",
-      "title": "长城魏牌V9X旗舰SUV亮相，37万起售，动力兼容多能源！",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296918",
-      "title": "宝马iX3加长版亮相：900公里续航+10分钟快充，智能科技全面升级",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296917",
-      "title": "长城欧拉5燃油混动版北京车展上市，起售价7.98万元！",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296916",
-      "title": "零跑携Lafa5 Ultra及ABCD全系亮相北京国际车展 实力进阶彰显全球引领力量",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296914",
-      "title": "标致联手东风，2027年推新车型重返中国市场",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296925",
-      "title": "AI引擎驱动无人物流、出行、座舱，佑驾创新2026北京车展大秀全线进化",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296915",
-      "title": "英特尔股价飙升超24%，AI需求激增带动CPU市场复苏",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296913",
-      "title": "华为AI眼镜今日开售：轻至35.5克，12小时超长续航！",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296911",
-      "title": "1.6万亿参数！DeepSeek-V4开源，AI智能体能力大跃升",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296908",
-      "title": "马斯克豪赌600亿美元收购Cursor，打造全球顶尖AI编程工具",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296924",
-      "title": "伊士曼首秀2026北京车展，用六大“膜法”重新定义汽车玻璃“上限”",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296921",
-      "title": "特斯拉FSD中国上线消息不实，官方尚未发布相关信息",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296920",
-      "title": "雷军北京车展送“金句”T恤，车企大佬齐聚一堂",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296912",
-      "title": "“辅助驾驶酿险情：司机信系统逆行高速被罚200元记12分”",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296910",
-      "title": "北京车展新规：十大负面行为清单护航汽车产业高质量发展",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296909",
-      "title": "理想L9底盘技术惊艳：单轮举升换胎，越野脱困新利器",
-      "source": "第一电动",
-      "pushedAt": 1777091654152
-    },
     {
       "url": "https://www.d1ev.com/newsflash/296933",
       "title": "迈莎锐9X至尊海外版亮相北京车展，售价273.9万的新能源SUV新贵",
@@ -6669,6 +6561,54 @@
       "title": "谷歌Alphabet财报透露：Gemini平台未来或将引入广告",
       "source": "第一电动",
       "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297816",
+      "title": "公牛充电桩销量霸榜！抖音份额近半，车企品牌紧随其后",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297815",
+      "title": "苹果App意外泄露：Claude.md文件暴露AI对话系统内幕",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297814",
+      "title": "AI短剧《霍去病》低成本神话破灭：3000元成本真相揭秘",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297813",
+      "title": "OpenAI Codex新增宠物模式，桌面赛博宠物时代来临！",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297812",
+      "title": "AI取代人类工作？OpenAI CEO：未来工作更有意义",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297810",
+      "title": "小米YU7GT跑车级SUV月底发布，续航705km性能强悍",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297811",
+      "title": "Waymo严打未成年人独自乘车，车内摄像头监控成新招",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297809",
+      "title": "小米SU7首销超7万台！5月5日前购车权益高达6.9万元",
+      "source": "第一电动",
+      "pushedAt": 1777701808794
     }
   ],
   "lastUpdated": "2026-05-02"
