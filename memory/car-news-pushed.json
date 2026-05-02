@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295482",
-    "https://www.d1ev.com/carnews/xinche/295478",
-    "https://www.d1ev.com/news/shichang/295472",
-    "https://www.d1ev.com/news/shichang/295462",
-    "https://www.d1ev.com/newsflash/295460",
-    "https://www.d1ev.com/newsflash/295459",
-    "https://www.d1ev.com/carnews/xinche/295528",
-    "https://www.d1ev.com/carnews/xinche/295525",
-    "https://www.d1ev.com/carnews/xinche/295524",
-    "https://www.d1ev.com/news/shichang/295522",
-    "https://www.d1ev.com/news/shichang/295516",
-    "https://www.d1ev.com/newsflash/295514",
-    "https://www.d1ev.com/newsflash/295513",
     "https://www.d1ev.com/news/shichang/295512",
     "https://www.d1ev.com/newsflash/295507",
     "https://www.d1ev.com/newsflash/295504",
@@ -1999,165 +1986,22 @@
     "https://www.d1ev.com/newsflash/297786",
     "https://www.d1ev.com/newsflash/297790",
     "https://www.d1ev.com/news/shichang/297787",
-    "https://www.d1ev.com/newsflash/297794"
+    "https://www.d1ev.com/newsflash/297794",
+    "https://www.d1ev.com/newsflash/297795",
+    "https://www.d1ev.com/newsflash/297808",
+    "https://www.d1ev.com/newsflash/297805",
+    "https://www.d1ev.com/newsflash/297802",
+    "https://www.d1ev.com/newsflash/297801",
+    "https://www.d1ev.com/newsflash/297800",
+    "https://www.d1ev.com/newsflash/297798",
+    "https://www.d1ev.com/carnews/xinche/297804",
+    "https://www.d1ev.com/carnews/xinche/297806",
+    "https://www.d1ev.com/carnews/xinche/297803",
+    "https://www.d1ev.com/newsflash/297799",
+    "https://www.d1ev.com/newsflash/297797",
+    "https://www.d1ev.com/newsflash/297796"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/296882",
-      "title": "全新理想L9 Livis北京车展首秀，5月15日正式上市交付",
-      "source": "第一电动",
-      "pushedAt": 1777056111705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296881",
-      "title": "中国品牌追觅星空计划全球超奢新赛道，定义下一代超奢标准",
-      "source": "第一电动",
-      "pushedAt": 1777056111705
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296884",
-      "title": "比亚迪元PLUS焕新升级，630km超长续航+全新设计震撼上市",
-      "source": "第一电动",
-      "pushedAt": 1777070114371
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296907",
-      "title": "以“黄金超混”再续经典传奇！帕萨特 ePro与途观L ePro北京车展双车首秀，将于5月底上市",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296906",
-      "title": "FormulaX官宣！方程豹多款新车亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296904",
-      "title": "大众汽车亮相2026北京车展，加快“在中国，为中国”战略落地",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/296903",
-      "title": "小鹏GX全系车色亮相北京车展，小鹏第二代VLA智驾报告迎来首发：全系Ultra车型订单环比提升118%",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296901",
-      "title": "五菱星光L实车亮相：综合续航超1100km",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296900",
-      "title": "宝马全球首发 E Ink电子纸车体登上量产车",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/296899",
-      "title": "北汽极狐S3开启预售： 6.48万元起",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296896",
-      "title": "大众第九代高尔夫惊艳亮相，纯电与电气化双线并行销售",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296894",
-      "title": "零跑：百万辆冲刺，不止是发新车的事",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296889",
-      "title": "博世携“三大拼图”亮相北京车展，重塑智能移动出行",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296887",
-      "title": "岚图泰山X8预售20小时订单破2万，华为四激光雷达加持！",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296885",
-      "title": "莲花FORME黑金限量版北京车展亮相，63.8万起售全球限量78台！",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296905",
-      "title": "联想车计算发布首款基于NVIDIA DRIVE Thor的舱驾智算平台Auto AI Box",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296898",
-      "title": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296895",
-      "title": "日产北京车展发布两款新能源SUV概念车，计划一年内量产",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296893",
-      "title": "北京车展观察 | 不提物理AI就落伍？",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296892",
-      "title": "“苹果前设计大师伊夫卷入商标战，法院禁止OpenAI使用'io'品牌”",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296891",
-      "title": "谷歌豪掷百亿投资AI新贵Anthropic，AI竞赛加剧！",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296888",
-      "title": "让AI学会“主动执行”，腾讯的座舱布局不止于大模型",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296886",
-      "title": "北京车展惊现仰望U9Xtreme，限量30台电动超跑震撼登场！",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296902",
-      "title": "北京车展新亮点：理想汽车展台开放座椅，人性化服务获赞",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/296897",
-      "title": "广汽丰田铂智7订单破万，女性用户激增四成新用户首选丰田",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/296890",
-      "title": "​北京车展：车企上了6颗激光雷达，然后呢？",
-      "source": "第一电动",
-      "pushedAt": 1777082226049
-    },
     {
       "url": "https://www.d1ev.com/newsflash/296923",
       "title": "东风奕派携手华为，5月首发智能大六座SUV M8",
@@ -6747,6 +6591,84 @@
       "title": "比亚迪4月销量破32万！新能源车市竞争白热化",
       "source": "第一电动",
       "pushedAt": 1777654270506
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297795",
+      "title": "极狐汽车4月销量翻倍，S3预售6.48万起，V9旗舰MPV预售21.99万起",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297808",
+      "title": "长安汽车4月销量增长显著，新能源车交付量同比激增32.2%",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297805",
+      "title": "五角大楼联手八大AI巨头，打造智能作战新纪元",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297802",
+      "title": "奥斯卡新规：AI演员和剧本将无缘奖项，人类创作成硬性要求",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297801",
+      "title": "长安汽车4月销量突破20万，新能源车同比增32.2%",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297800",
+      "title": "亚马逊AWS大举招聘：AI时代，软件开发工程师需求激增！",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297798",
+      "title": "日产放弃美国5亿美元电动车厂计划，转产燃油车",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/297804",
+      "title": "海外同比大增 长安汽车4月交付20.95万辆",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/297806",
+      "title": "价值6.9万元 新一代小米SU7权益仅剩4天",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/297803",
+      "title": "小米YU7 GT和Ultra有什么区别？",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297799",
+      "title": "小米SU7首销优惠倒计时！4.4万福利等你抢，错过不再有！",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297797",
+      "title": "小米YU7GT：跑车级SUV，性能与舒适的完美平衡",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297796",
+      "title": "谷歌Alphabet财报透露：Gemini平台未来或将引入广告",
+      "source": "第一电动",
+      "pushedAt": 1777687832788
     }
   ],
   "lastUpdated": "2026-05-02"
