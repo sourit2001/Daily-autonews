@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295557",
     "https://www.d1ev.com/news/shichang/295554",
     "https://www.d1ev.com/newsflash/295552",
     "https://www.d1ev.com/newsflash/295551",
@@ -1999,39 +1998,10 @@
     "https://www.d1ev.com/newsflash/297866",
     "https://www.d1ev.com/newsflash/297865",
     "https://www.d1ev.com/newsflash/297864",
-    "https://www.d1ev.com/newsflash/297868"
+    "https://www.d1ev.com/newsflash/297868",
+    "https://www.d1ev.com/newsflash/297870"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297081",
-      "title": "商汤绝影携全栈AI技术亮相北京车展，引领智能汽车新纪元",
-      "source": "第一电动",
-      "pushedAt": 1777214359771
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297080",
-      "title": "东风风神EQ概念车亮相北京车展：家庭轻越野新选择",
-      "source": "第一电动",
-      "pushedAt": 1777214359771
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297079",
-      "title": "特斯拉Cybercab赛博无人驾驶车量产，L5级自动驾驶革命来袭",
-      "source": "第一电动",
-      "pushedAt": 1777214359771
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297077",
-      "title": "从量产智驾到Robotaxi：易航智能的双翼与AI机器人公司雄心",
-      "source": "第一电动",
-      "pushedAt": 1777214359771
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297076",
-      "title": "强标前夜的精准卡位：易航智能发布新一代商用车智驾方案",
-      "source": "第一电动",
-      "pushedAt": 1777214359771
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/297110",
       "title": "综合续航1730km 吉利银河M7将于4月28日上市",
@@ -6093,6 +6063,12 @@
       "title": "丰田在印度建三新厂，2030年前产能增至百万，瞄准新兴市场",
       "source": "第一电动",
       "pushedAt": 1777813045702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297870",
+      "title": "2026北京车展规模创纪录，1451辆展车引爆全球关注",
+      "source": "第一电动",
+      "pushedAt": 1777819412309
     }
   ],
   "lastUpdated": "2026-05-03"
