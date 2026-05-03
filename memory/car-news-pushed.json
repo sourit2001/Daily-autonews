@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295543",
-    "https://www.d1ev.com/news/shichang/295542",
-    "https://www.d1ev.com/newsflash/295539",
-    "https://www.d1ev.com/news/qiye/295537",
-    "https://www.d1ev.com/newsflash/295536",
-    "https://www.d1ev.com/news/shichang/295534",
-    "https://www.d1ev.com/news/shichang/295533",
-    "https://www.d1ev.com/news/qiye/295532",
-    "https://www.d1ev.com/news/shichang/295531",
     "https://www.d1ev.com/news/qiye/295555",
     "https://www.d1ev.com/newsflash/295553",
     "https://www.d1ev.com/news/shichang/295549",
@@ -1999,51 +1990,18 @@
     "https://www.d1ev.com/newsflash/297853",
     "https://www.d1ev.com/newsflash/297854",
     "https://www.d1ev.com/newsflash/297852",
-    "https://www.d1ev.com/newsflash/297851"
+    "https://www.d1ev.com/newsflash/297851",
+    "https://www.d1ev.com/news/shichang/297860",
+    "https://www.d1ev.com/newsflash/297856",
+    "https://www.d1ev.com/newsflash/297863",
+    "https://www.d1ev.com/newsflash/297862",
+    "https://www.d1ev.com/newsflash/297858",
+    "https://www.d1ev.com/newsflash/297855",
+    "https://www.d1ev.com/news/shichang/297861",
+    "https://www.d1ev.com/newsflash/297859",
+    "https://www.d1ev.com/news/qiye/297857"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297065",
-      "title": "小鹏飞行汽车13年磨一剑，年底全球首发，续航超1000公里",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297063",
-      "title": "Momenta R7强化学习世界模型量产首发 物理AI走向规模化量产落地",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297059",
-      "title": "保时捷纯电动卡宴Turbo亮相北京车展，2.5秒破百，续航超260km/h",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297062",
-      "title": "AI智能体不抢饭碗！沃尔沃研究团队揭示软件工程师新机遇",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/297064",
-      "title": "没人再提激光雷达数量？直击北京车展：今年智能驾驶“卷”什么",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297061",
-      "title": "E周看点 | 长安整合深蓝、阿维塔；宁德时代“超级科技日”放大招",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297060",
-      "title": "小智一周要闻 | 特斯拉Optimus3年中投产；吉利发布首款原生开发Robotaxi",
-      "source": "第一电动",
-      "pushedAt": 1777200059740
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297068",
       "title": "捷达新能源LOGO亮相，JETTAX概念车引领科技新风尚",
@@ -6099,6 +6057,60 @@
       "title": "“鸿蒙智行问界M9预订破3.5万！49.98万起售，搭载超140项创新技术”",
       "source": "第一电动",
       "pushedAt": 1777799902540
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297860",
+      "title": "E周看点｜理想正式进入阿联酋、沙特阿拉伯市场；乐道L80开启预售，BaaS版15.98万起",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297856",
+      "title": "比亚迪方程豹钛7EV闪充版全国上市，续航755km仅5分钟充至70%",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297863",
+      "title": "长城汽车4月销量破10万，新能源车同比翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297862",
+      "title": "广汽充电桩超2.5万根，全国31省213市全覆盖，销量同比增长2.38%",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297858",
+      "title": "AI为自己策划发布会：OpenAI GPT-5.5的“人性”行为引发热议",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297855",
+      "title": "广汽国际1-4月出口量激增133.9%，全球布局加速",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297861",
+      "title": "小智一周要闻 | 奇瑞墨甲机器人完成千台签约百台交付；星动纪元融资超2亿美元",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297859",
+      "title": "通用汽车OnStar订阅服务收入大增，2026年目标用户超1300万",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/297857",
+      "title": "电车成本优势碾压油车！跑1000公里电费低至300元",
+      "source": "第一电动",
+      "pushedAt": 1777805426388
     }
   ],
   "lastUpdated": "2026-05-03"
