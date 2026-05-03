@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295554",
     "https://www.d1ev.com/newsflash/295552",
     "https://www.d1ev.com/newsflash/295551",
     "https://www.d1ev.com/news/shichang/295548",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/297865",
     "https://www.d1ev.com/newsflash/297864",
     "https://www.d1ev.com/newsflash/297868",
-    "https://www.d1ev.com/newsflash/297870"
+    "https://www.d1ev.com/newsflash/297870",
+    "https://www.d1ev.com/newsflash/297871"
   ],
   "newsHistory": [
     {
@@ -6069,7 +6069,13 @@
       "title": "2026北京车展规模创纪录，1451辆展车引爆全球关注",
       "source": "第一电动",
       "pushedAt": 1777819412309
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297871",
+      "title": "中国超跑新突破！比亚迪仰望U9Xtreme全球限量30台售罄",
+      "source": "第一电动",
+      "pushedAt": 1777826502052
     }
   ],
-  "lastUpdated": "2026-05-03"
+  "lastUpdated": "2026-05-04"
 }
