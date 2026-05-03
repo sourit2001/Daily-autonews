@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/295555",
-    "https://www.d1ev.com/newsflash/295553",
-    "https://www.d1ev.com/news/shichang/295549",
-    "https://www.d1ev.com/news/qiye/295558",
-    "https://www.d1ev.com/newsflash/295556",
-    "https://www.d1ev.com/news/shichang/295559",
     "https://www.d1ev.com/newsflash/295557",
     "https://www.d1ev.com/news/shichang/295554",
     "https://www.d1ev.com/newsflash/295552",
@@ -1999,63 +1993,15 @@
     "https://www.d1ev.com/newsflash/297855",
     "https://www.d1ev.com/news/shichang/297861",
     "https://www.d1ev.com/newsflash/297859",
-    "https://www.d1ev.com/news/qiye/297857"
+    "https://www.d1ev.com/news/qiye/297857",
+    "https://www.d1ev.com/newsflash/297867",
+    "https://www.d1ev.com/newsflash/297869",
+    "https://www.d1ev.com/newsflash/297866",
+    "https://www.d1ev.com/newsflash/297865",
+    "https://www.d1ev.com/newsflash/297864",
+    "https://www.d1ev.com/newsflash/297868"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297068",
-      "title": "捷达新能源LOGO亮相，JETTAX概念车引领科技新风尚",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297067",
-      "title": "华为问界M9智能新玩法：车外语音互动，140项创新技术亮相",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297069",
-      "title": "华为自动驾驶技术突破：170万辆车搭载，安全里程远超平均水平",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297074",
-      "title": "2026北京车展 | “同源共链”汽车·机器人·低空经济产业链协同对接会圆满落幕",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297073",
-      "title": "华为余承东：鸿蒙智行引领中国汽车市场体系化竞争新阶段",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297072",
-      "title": "比亚迪北京车展发力中高端，发布多款旗舰新品",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297071",
-      "title": "华为余承东自省：尚界Z7/Z7T颜值升级，女性用户占比超四成",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297070",
-      "title": "吉利帝豪i-HEV混动车创纪录：2.22L油耗开启国民家轿“2L时代”",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297066",
-      "title": "江汽集团携手华为，尊界品牌迈入超豪华智能汽车2.0时代",
-      "source": "第一电动",
-      "pushedAt": 1777208093995
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297081",
       "title": "商汤绝影携全栈AI技术亮相北京车展，引领智能汽车新纪元",
@@ -6111,6 +6057,42 @@
       "title": "电车成本优势碾压油车！跑1000公里电费低至300元",
       "source": "第一电动",
       "pushedAt": 1777805426388
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297867",
+      "title": "比亚迪大唐EV全国多城到店，预售价25万起，纯电续航950km！",
+      "source": "第一电动",
+      "pushedAt": 1777813045702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297869",
+      "title": "“新国标实施！电动自行车不再一刀切淘汰，旧车过渡期至11月30日”",
+      "source": "第一电动",
+      "pushedAt": 1777813045702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297866",
+      "title": "2026年一季度全球新能源车销量453万台，中国份额下滑至61%",
+      "source": "第一电动",
+      "pushedAt": 1777813045702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297865",
+      "title": "上汽集团4月销量再夺冠，新能源车销量激增234.2%",
+      "source": "第一电动",
+      "pushedAt": 1777813045702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297864",
+      "title": "比亚迪宋UltraEV首月订单破6万，续航高达710km！",
+      "source": "第一电动",
+      "pushedAt": 1777813045702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297868",
+      "title": "丰田在印度建三新厂，2030年前产能增至百万，瞄准新兴市场",
+      "source": "第一电动",
+      "pushedAt": 1777813045702
     }
   ],
   "lastUpdated": "2026-05-03"
