@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295541",
-    "https://www.d1ev.com/newsflash/295540",
-    "https://www.d1ev.com/newsflash/295530",
-    "https://www.d1ev.com/newsflash/295545",
     "https://www.d1ev.com/news/shichang/295543",
     "https://www.d1ev.com/news/shichang/295542",
     "https://www.d1ev.com/newsflash/295539",
@@ -1999,87 +1995,13 @@
     "https://www.d1ev.com/newsflash/297850",
     "https://www.d1ev.com/carnews/xinche/297847",
     "https://www.d1ev.com/newsflash/297848",
-    "https://www.d1ev.com/newsflash/297849"
+    "https://www.d1ev.com/newsflash/297849",
+    "https://www.d1ev.com/newsflash/297853",
+    "https://www.d1ev.com/newsflash/297854",
+    "https://www.d1ev.com/newsflash/297852",
+    "https://www.d1ev.com/newsflash/297851"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/297053",
-      "title": "比亚迪旗舰SUV爆了！大唐预售24小时订单突破3万台",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297049",
-      "title": "保时捷电动Cayenne Turbo亮相北京车展，2.5秒破百，售价111.8万起",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297046",
-      "title": "比亚迪大唐EV预售24小时破3万！D级旗舰SUV即将上市",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297056",
-      "title": "光庭信息SDW AIKO正式发布，让汽车软件开发进入AI原生新纪元",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297048",
-      "title": "OpenClaw升级接入DeepSeekV4，AI对话新纪元开启",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297057",
-      "title": "由量向质 生态领航 |《汽车出海》新书发布会圆满召开",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297054",
-      "title": "广汽集团2030全球扩张计划：年销百万，2026海外销量目标25万+",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297058",
-      "title": "比亚迪王传福现身华为展台，问界M9预订量72小时破25000台！",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297055",
-      "title": "华为加持！尊界S800Ultimate定价200万冲击超豪华市场",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297052",
-      "title": "威马汽车破产清算关键一步：1.3亿债权100元起拍",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/297051",
-      "title": "特斯拉一季度在国内市场营收超过286亿 但不及去年同期",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297050",
-      "title": "华为尊界S800销量破万，百万豪车市场格局生变",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/297047",
-      "title": "整车成本比Model 3更低！专访小马智行CFO王皓俊：算清单车的账，扩张就简单",
-      "source": "第一电动",
-      "pushedAt": 1777193720820
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297065",
       "title": "小鹏飞行汽车13年磨一剑，年底全球首发，续航超1000公里",
@@ -6153,6 +6075,30 @@
       "title": "蔚来乐道五一换电服务费全免，单日换电量破3万单创新高",
       "source": "第一电动",
       "pushedAt": 1777789408316
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297853",
+      "title": "“美国AI宣传战：网红被指收黑金散布中国威胁论”",
+      "source": "第一电动",
+      "pushedAt": 1777799902540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297854",
+      "title": "比亚迪方程豹钛7EV闪充版全国16城64店就位，19.98万起售",
+      "source": "第一电动",
+      "pushedAt": 1777799902540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297852",
+      "title": "上汽集团月销量四连冠，1-4月销量超130万辆创新高",
+      "source": "第一电动",
+      "pushedAt": 1777799902540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297851",
+      "title": "“鸿蒙智行问界M9预订破3.5万！49.98万起售，搭载超140项创新技术”",
+      "source": "第一电动",
+      "pushedAt": 1777799902540
     }
   ],
   "lastUpdated": "2026-05-03"
