@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295592",
     "https://www.d1ev.com/newsflash/295581",
     "https://www.d1ev.com/newsflash/295611",
     "https://www.d1ev.com/news/qiye/295610",
@@ -1999,39 +1998,10 @@
     "https://www.d1ev.com/newsflash/297905",
     "https://www.d1ev.com/newsflash/297904",
     "https://www.d1ev.com/newsflash/297902",
-    "https://www.d1ev.com/newsflash/297903"
+    "https://www.d1ev.com/newsflash/297903",
+    "https://www.d1ev.com/newsflash/297907"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297269",
-      "title": "吉利银河概念车“银河之光”全球首发，定义AI智电时代新豪华",
-      "source": "第一电动",
-      "pushedAt": 1777310224312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297268",
-      "title": "领克900旗舰大五座SUV上市，25万级混动新标杆来袭",
-      "source": "第一电动",
-      "pushedAt": 1777310224312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297267",
-      "title": "吉利银河M9黑金版上市，26.98万起享78000元权益",
-      "source": "第一电动",
-      "pushedAt": 1777310224312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297265",
-      "title": "“千里科技布局未来：赵明预言三年内智驾上车量达800万辆”",
-      "source": "第一电动",
-      "pushedAt": 1777310224312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297266",
-      "title": "零跑汽车2027年推高端品牌，30万+车型将独立销售网络",
-      "source": "第一电动",
-      "pushedAt": 1777310224312
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297303",
       "title": "凯翼拾月Max纯电小车上市，4.59万起售，续航310km带快充！",
@@ -5277,7 +5247,13 @@
       "title": "迈凯伦MCL-HYGTR赛道版超跑：轻量级720马力猛兽即将登场",
       "source": "第一电动",
       "pushedAt": 1777910223100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297907",
+      "title": "意大利倍耐力联手瑞典Univrses，CyberTyre智能轮胎技术再升级",
+      "source": "第一电动",
+      "pushedAt": 1777915661779
     }
   ],
-  "lastUpdated": "2026-05-04"
+  "lastUpdated": "2026-05-05"
 }
