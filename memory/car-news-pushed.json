@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295571",
-    "https://www.d1ev.com/newsflash/295566",
-    "https://www.d1ev.com/newsflash/295564",
-    "https://www.d1ev.com/newsflash/295563",
-    "https://www.d1ev.com/newsflash/295578",
-    "https://www.d1ev.com/newsflash/295577",
-    "https://www.d1ev.com/news/shichang/295575",
-    "https://www.d1ev.com/newsflash/295572",
-    "https://www.d1ev.com/newsflash/295570",
     "https://www.d1ev.com/news/shichang/295568",
     "https://www.d1ev.com/news/qiye/295567",
     "https://www.d1ev.com/newsflash/295565",
@@ -1999,7 +1990,16 @@
     "https://www.d1ev.com/newsflash/297873",
     "https://www.d1ev.com/newsflash/297880",
     "https://www.d1ev.com/newsflash/297877",
-    "https://www.d1ev.com/newsflash/297874"
+    "https://www.d1ev.com/newsflash/297874",
+    "https://www.d1ev.com/newsflash/297885",
+    "https://www.d1ev.com/newsflash/297888",
+    "https://www.d1ev.com/newsflash/297887",
+    "https://www.d1ev.com/newsflash/297883",
+    "https://www.d1ev.com/newsflash/297882",
+    "https://www.d1ev.com/newsflash/297881",
+    "https://www.d1ev.com/news/qiye/297889",
+    "https://www.d1ev.com/newsflash/297886",
+    "https://www.d1ev.com/newsflash/297884"
   ],
   "newsHistory": [
     {
@@ -5709,6 +5709,60 @@
       "title": "保时捷出售布加迪股权，聚焦核心业务应对市场挑战",
       "source": "第一电动",
       "pushedAt": 1777876585208
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297885",
+      "title": "特斯拉Cybertruck牵引无人驾驶出租车亮相迈阿密，自动驾驶出租车业务即将扩张",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297888",
+      "title": "巴菲特接班人格雷格·阿贝尔：伯克希尔不盲目追AI热潮",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297887",
+      "title": "特斯拉推新型电动重卡快充设备Basecharger：4小时充至60%续航",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297883",
+      "title": "特斯拉推出新型电动重卡快充设备Basecharger，4小时充至60%续航",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297882",
+      "title": "华尔街王牌律师威廉·萨维特助力OpenAI，法庭对决马斯克",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297881",
+      "title": "英伟达CEO黄仁勋：AI威胁论荒谬，行业领袖应慎言慎行",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/297889",
+      "title": "小艺操纵副驾座椅夹到小孩引热议 网友实测问界M9有防夹",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297886",
+      "title": "五一假期跨区域流动量激增，公路出行占比超九成",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297884",
+      "title": "追觅科技CEO挑战马斯克：打造1秒破百火箭车，发射200万颗卫星超越星链",
+      "source": "第一电动",
+      "pushedAt": 1777889347538
     }
   ],
   "lastUpdated": "2026-05-04"
