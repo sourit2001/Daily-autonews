@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295581",
-    "https://www.d1ev.com/newsflash/295611",
-    "https://www.d1ev.com/news/qiye/295610",
-    "https://www.d1ev.com/newsflash/295609",
-    "https://www.d1ev.com/newsflash/295607",
-    "https://www.d1ev.com/newsflash/295604",
-    "https://www.d1ev.com/carnews/xinche/295601",
     "https://www.d1ev.com/carnews/xinche/295600",
     "https://www.d1ev.com/newsflash/295598",
     "https://www.d1ev.com/newsflash/295597",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/newsflash/297904",
     "https://www.d1ev.com/newsflash/297902",
     "https://www.d1ev.com/newsflash/297903",
-    "https://www.d1ev.com/newsflash/297907"
+    "https://www.d1ev.com/newsflash/297907",
+    "https://www.d1ev.com/newsflash/297912",
+    "https://www.d1ev.com/carnews/xinche/297910",
+    "https://www.d1ev.com/newsflash/297914",
+    "https://www.d1ev.com/news/shichang/297913",
+    "https://www.d1ev.com/carnews/xinche/297911",
+    "https://www.d1ev.com/newsflash/297909",
+    "https://www.d1ev.com/newsflash/297908"
   ],
   "newsHistory": [
     {
@@ -5253,6 +5253,48 @@
       "title": "意大利倍耐力联手瑞典Univrses，CyberTyre智能轮胎技术再升级",
       "source": "第一电动",
       "pushedAt": 1777915661779
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297912",
+      "title": "领克10量产车下线，预售价20.99万起，续航达816km！",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/297910",
+      "title": "前脸大变样 新款奔驰GLS官图曝光",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297914",
+      "title": "五一假期充电桩抢疯了！车主争执险动手",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/297913",
+      "title": "2025款理想i6完全评价报告",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/297911",
+      "title": "尊界新款路测被拍 网友：200万级高顶版？",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297909",
+      "title": "小米SU7首销权益今晚截止！7万台锁单量创纪录",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297908",
+      "title": "理想i6新推隐私帘：199元起，一键打造私密空间",
+      "source": "第一电动",
+      "pushedAt": 1777947197337
     }
   ],
   "lastUpdated": "2026-05-05"
