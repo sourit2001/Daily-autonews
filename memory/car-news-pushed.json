@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/295623",
-    "https://www.d1ev.com/newsflash/295664",
-    "https://www.d1ev.com/news/shichang/295657",
-    "https://www.d1ev.com/newsflash/295649",
-    "https://www.d1ev.com/newsflash/295648",
-    "https://www.d1ev.com/newsflash/295642",
-    "https://www.d1ev.com/newsflash/295641",
-    "https://www.d1ev.com/newsflash/295640",
     "https://www.d1ev.com/news/shichang/295639",
     "https://www.d1ev.com/news/shichang/295638",
     "https://www.d1ev.com/news/shichang/295637",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/news/qiye/297927",
     "https://www.d1ev.com/news/qiye/297939",
     "https://www.d1ev.com/newsflash/297937",
-    "https://www.d1ev.com/newsflash/297938"
+    "https://www.d1ev.com/newsflash/297938",
+    "https://www.d1ev.com/newsflash/297940",
+    "https://www.d1ev.com/newsflash/297948",
+    "https://www.d1ev.com/newsflash/297946",
+    "https://www.d1ev.com/newsflash/297944",
+    "https://www.d1ev.com/newsflash/297943",
+    "https://www.d1ev.com/newsflash/297942",
+    "https://www.d1ev.com/newsflash/297947",
+    "https://www.d1ev.com/news/qiye/297945"
   ],
   "newsHistory": [
     {
@@ -4749,6 +4749,54 @@
       "title": "本田电动化战略受挫，2.5万亿日元亏损背后车型换代大推迟",
       "source": "第一电动",
       "pushedAt": 1777979711243
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297940",
+      "title": "小米首款增程全尺寸SUV“昆仑N3”低伪装谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297948",
+      "title": "美政府联手科技巨头，提前审查AI模型防安全风险",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297946",
+      "title": "日产固态电池突破：10分钟充80%，成本仍是挑战",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297944",
+      "title": "小米YU7续航挑战：北京至内蒙，550公里轻松应对",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297943",
+      "title": "领克10量产车下线！最高续航816公里，起售价20.99万",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297942",
+      "title": "特斯拉FSD欧洲获批遇阻，监管机构担忧安全性与命名误导；FSD行驶里程破百亿英里",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/297947",
+      "title": "高速惊魂！女司机双手离方向盘疑似睡觉，智能驾驶变“致命驾驶”",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/297945",
+      "title": "鸿蒙智行回应享界S9零重力座椅争议：未达防夹阈值，将优化产品细节",
+      "source": "第一电动",
+      "pushedAt": 1777996206184
     }
   ],
   "lastUpdated": "2026-05-05"
