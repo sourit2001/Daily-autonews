@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/295790",
-    "https://www.d1ev.com/newsflash/295786",
     "https://www.d1ev.com/carnews/xinche/295795",
     "https://www.d1ev.com/news/shichang/295788",
     "https://www.d1ev.com/newsflash/295813",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/298098",
     "https://www.d1ev.com/newsflash/298097",
     "https://www.d1ev.com/newsflash/298100",
-    "https://www.d1ev.com/newsflash/298099"
+    "https://www.d1ev.com/newsflash/298099",
+    "https://www.d1ev.com/newsflash/298105",
+    "https://www.d1ev.com/newsflash/298104"
   ],
   "newsHistory": [
     {
@@ -4833,7 +4833,19 @@
       "title": "7年低息车贷全面下架，购车压力回归！",
       "source": "第一电动",
       "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298105",
+      "title": "特斯拉再夺忠诚度大奖，Model 3复购意愿高达72.8%",
+      "source": "第一电动",
+      "pushedAt": 1778089493685
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298104",
+      "title": "理想汽车设计副总裁回应“套娃”争议：统一性是品牌信任的量变",
+      "source": "第一电动",
+      "pushedAt": 1778089493685
     }
   ],
-  "lastUpdated": "2026-05-06"
+  "lastUpdated": "2026-05-07"
 }
