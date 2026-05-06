@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295789",
-    "https://www.d1ev.com/news/qiye/295787",
-    "https://www.d1ev.com/newsflash/295784",
-    "https://www.d1ev.com/carnews/xinche/295794",
-    "https://www.d1ev.com/newsflash/295793",
-    "https://www.d1ev.com/newsflash/295785",
-    "https://www.d1ev.com/newsflash/295792",
     "https://www.d1ev.com/newsflash/295790",
     "https://www.d1ev.com/newsflash/295786",
     "https://www.d1ev.com/carnews/xinche/295795",
@@ -1999,45 +1992,16 @@
     "https://www.d1ev.com/news/shichang/298086",
     "https://www.d1ev.com/newsflash/298085",
     "https://www.d1ev.com/newsflash/298081",
-    "https://www.d1ev.com/newsflash/298079"
+    "https://www.d1ev.com/newsflash/298079",
+    "https://www.d1ev.com/newsflash/298103",
+    "https://www.d1ev.com/newsflash/298101",
+    "https://www.d1ev.com/newsflash/298102",
+    "https://www.d1ev.com/newsflash/298098",
+    "https://www.d1ev.com/newsflash/298097",
+    "https://www.d1ev.com/newsflash/298100",
+    "https://www.d1ev.com/newsflash/298099"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297582",
-      "title": "长安蓝鲸超擎混动双车亮相，油耗低至3L级重塑SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1777478046208
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297586",
-      "title": "倍耐力携手Univrses，智能轮胎技术升级助力自动驾驶",
-      "source": "第一电动",
-      "pushedAt": 1777478046208
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297585",
-      "title": "福特Mustang CobraJet 2200破纪录：6.76秒400米，电动直线加速新传奇",
-      "source": "第一电动",
-      "pushedAt": 1777478046208
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297581",
-      "title": "AI编程时代来临：华盛顿大学教授呼吁重新理解编程教育",
-      "source": "第一电动",
-      "pushedAt": 1777478046208
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297584",
-      "title": "华为鸿蒙小艺Claw升级：自进化能力上线，百万级上下文处理新突破",
-      "source": "第一电动",
-      "pushedAt": 1777478046208
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297583",
-      "title": "GitHub用户激增10倍！平台稳定性受挑战，紧急扩容应对",
-      "source": "第一电动",
-      "pushedAt": 1777478046208
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297589",
       "title": "19.98万起！方程豹钛7EV闪充版上市，续航755km，5分钟充电70%",
@@ -4827,6 +4791,48 @@
       "title": "五一出行报告：问界车主总行驶4.3亿公里，碳减排7.2万吨",
       "source": "第一电动",
       "pushedAt": 1778075767890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298103",
+      "title": "AI安全漏洞曝光：Anthropic Claude被诱导输出违禁内容",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298101",
+      "title": "丰田兰德酷路泽300混动版澳洲上市，动力升级售价约76.7万起",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298102",
+      "title": "AI时代来临，爱彼迎CEO预言“纯管理者”将被淘汰",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298098",
+      "title": "商汤科技挑战AI巨头：低成本高性能模型问世",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298097",
+      "title": "豆包大模型家族首款全模态理解模型：Doubao-Seed-2.0-lite模型升级",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298100",
+      "title": "特斯拉21万辆车因倒车影像延迟召回，国内标准更严却未见行动",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298099",
+      "title": "7年低息车贷全面下架，购车压力回归！",
+      "source": "第一电动",
+      "pushedAt": 1778083195432
     }
   ],
   "lastUpdated": "2026-05-06"
