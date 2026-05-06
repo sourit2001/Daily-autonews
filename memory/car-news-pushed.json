@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/295795",
     "https://www.d1ev.com/news/shichang/295788",
     "https://www.d1ev.com/newsflash/295813",
     "https://www.d1ev.com/newsflash/295812",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/298100",
     "https://www.d1ev.com/newsflash/298099",
     "https://www.d1ev.com/newsflash/298105",
-    "https://www.d1ev.com/newsflash/298104"
+    "https://www.d1ev.com/newsflash/298104",
+    "https://www.d1ev.com/newsflash/298106"
   ],
   "newsHistory": [
     {
@@ -4845,6 +4845,12 @@
       "title": "理想汽车设计副总裁回应“套娃”争议：统一性是品牌信任的量变",
       "source": "第一电动",
       "pushedAt": 1778089493685
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298106",
+      "title": "别克至境E7两周销量破5000台，超六成用户选“超满配”",
+      "source": "第一电动",
+      "pushedAt": 1778107410724
     }
   ],
   "lastUpdated": "2026-05-07"
