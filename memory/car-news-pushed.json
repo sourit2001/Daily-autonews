@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295915",
-    "https://www.d1ev.com/newsflash/295910",
-    "https://www.d1ev.com/newsflash/295909",
-    "https://www.d1ev.com/news/shichang/295908",
-    "https://www.d1ev.com/newsflash/295995",
     "https://www.d1ev.com/carnews/xinche/295990",
     "https://www.d1ev.com/carnews/xinche/295985",
     "https://www.d1ev.com/carnews/xinche/295984",
@@ -1999,75 +1994,14 @@
     "https://www.d1ev.com/newsflash/298224",
     "https://www.d1ev.com/newsflash/298221",
     "https://www.d1ev.com/newsflash/298220",
-    "https://www.d1ev.com/newsflash/298219"
+    "https://www.d1ev.com/newsflash/298219",
+    "https://www.d1ev.com/newsflash/298249",
+    "https://www.d1ev.com/newsflash/298248",
+    "https://www.d1ev.com/news/qiye/298245",
+    "https://www.d1ev.com/newsflash/298247",
+    "https://www.d1ev.com/newsflash/298246"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297717",
-      "title": "小米汽车新动作：增程SUV“寻天”系列曝光，20万起售挑战理想",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297712",
-      "title": "大众ID.POLO官图发布，2026年上市，450公里续航快充20分钟",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297715",
-      "title": "DeepSeek发布革命性多模态大模型，突破空间推理瓶颈！",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297713",
-      "title": "五菱新能源销量破百万，海外月销首破3万台！",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297716",
-      "title": "长城汽车与神州租车合作升级，坦克300车型再获万台订单",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297714",
-      "title": "高德旗下高德车服发布汽车全生命周期服务解决方案",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297711",
-      "title": "神龙汽车坚持法系基因，不走同质化路线，聚焦小众市场新未来",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297710",
-      "title": "问界M7五一钜惠：45万交付量，80000元权益+暖心服务！",
-      "source": "第一电动",
-      "pushedAt": 1777563929234
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297720",
-      "title": "加州新规：自动驾驶车辆违法将受罚，紧急情况下需避让",
-      "source": "第一电动",
-      "pushedAt": 1777569256454
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297725",
-      "title": "极越汽车六家关联公司启动合并重整，盘活资产迎战略投资",
-      "source": "第一电动",
-      "pushedAt": 1777569256454
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297724",
-      "title": "奔驰战略大调整：燃油与纯电车型将共用平台开发",
-      "source": "第一电动",
-      "pushedAt": 1777569256454
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297732",
       "title": "零跑D19上市15天订单破1.5万，A10首月大定超4万！",
@@ -4953,7 +4887,37 @@
       "title": "大众高尔夫GTI Edition50刷新纽北纪录，超本田思域TypeR成最快前驱",
       "source": "第一电动",
       "pushedAt": 1778162127465
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298249",
+      "title": "比亚迪海豚插混版6月欧洲上市，挑战丰田雅力士、雷诺Clio",
+      "source": "第一电动",
+      "pushedAt": 1778182223504
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298248",
+      "title": "比亚迪大唐预售破10万！25万起售，950km续航+3.9秒破百",
+      "source": "第一电动",
+      "pushedAt": 1778182223504
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298245",
+      "title": "6分55秒！保时捷Taycan Turbo GT重夺纽北最速量产电动车",
+      "source": "第一电动",
+      "pushedAt": 1778182223504
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298247",
+      "title": "特斯拉加拿大惊现半价Model3，中国工厂助力全球最低价！",
+      "source": "第一电动",
+      "pushedAt": 1778182223504
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298246",
+      "title": "大众电车盈利能力待2030年SSP平台落地，成本望降20%",
+      "source": "第一电动",
+      "pushedAt": 1778182223504
     }
   ],
-  "lastUpdated": "2026-05-07"
+  "lastUpdated": "2026-05-08"
 }
