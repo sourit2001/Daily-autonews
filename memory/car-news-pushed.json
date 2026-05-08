@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296073",
-    "https://www.d1ev.com/newsflash/296082",
     "https://www.d1ev.com/newsflash/296108",
     "https://www.d1ev.com/newsflash/296106",
     "https://www.d1ev.com/carnews/xinche/296104",
@@ -1999,15 +1997,11 @@
     "https://www.d1ev.com/newsflash/298395",
     "https://www.d1ev.com/newsflash/298392",
     "https://www.d1ev.com/newsflash/298390",
-    "https://www.d1ev.com/newsflash/298389"
+    "https://www.d1ev.com/newsflash/298389",
+    "https://www.d1ev.com/newsflash/298405",
+    "https://www.d1ev.com/newsflash/298406"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297794",
-      "title": "比亚迪4月销量破32万！新能源车市竞争白热化",
-      "source": "第一电动",
-      "pushedAt": 1777654270506
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297795",
       "title": "极狐汽车4月销量翻倍，S3预售6.48万起，V9旗舰MPV预售21.99万起",
@@ -5409,7 +5403,19 @@
       "title": "特斯拉霸榜前三！纯电车保值率大比拼，国产车表现亮眼",
       "source": "第一电动",
       "pushedAt": 1778253533199
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298405",
+      "title": "微软10亿美元投资OpenAI背后：AI合作的担忧与转变",
+      "source": "第一电动",
+      "pushedAt": 1778260093031
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298406",
+      "title": "“零重力座椅安全争议：防夹功能存疑，儿童安全不容忽视”",
+      "source": "第一电动",
+      "pushedAt": 1778260093031
     }
   ],
-  "lastUpdated": "2026-05-08"
+  "lastUpdated": "2026-05-09"
 }
