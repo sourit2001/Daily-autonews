@@ -1,28 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/295998",
-    "https://www.d1ev.com/news/shichang/296030",
-    "https://www.d1ev.com/news/shichang/296024",
-    "https://www.d1ev.com/newsflash/296020",
-    "https://www.d1ev.com/news/shichang/296018",
-    "https://www.d1ev.com/news/shichang/296010",
-    "https://www.d1ev.com/news/shichang/296009",
-    "https://www.d1ev.com/newsflash/296004",
-    "https://www.d1ev.com/newsflash/296003",
-    "https://www.d1ev.com/news/qiye/296000",
-    "https://www.d1ev.com/news/shichang/295999",
-    "https://www.d1ev.com/news/qiye/295997",
-    "https://www.d1ev.com/newsflash/295996",
-    "https://www.d1ev.com/news/qiye/296042",
-    "https://www.d1ev.com/newsflash/296041",
-    "https://www.d1ev.com/newsflash/296037",
-    "https://www.d1ev.com/newsflash/296038",
-    "https://www.d1ev.com/newsflash/296040",
-    "https://www.d1ev.com/news/shichang/296039",
-    "https://www.d1ev.com/news/qiye/296055",
-    "https://www.d1ev.com/newsflash/296054",
-    "https://www.d1ev.com/newsflash/296052",
-    "https://www.d1ev.com/newsflash/296049",
     "https://www.d1ev.com/newsflash/296048",
     "https://www.d1ev.com/newsflash/296047",
     "https://www.d1ev.com/newsflash/296046",
@@ -1999,7 +1976,30 @@
     "https://www.d1ev.com/news/shichang/298323",
     "https://www.d1ev.com/newsflash/298318",
     "https://www.d1ev.com/news/shichang/298317",
-    "https://www.d1ev.com/news/shichang/298316"
+    "https://www.d1ev.com/news/shichang/298316",
+    "https://www.d1ev.com/newsflash/298353",
+    "https://www.d1ev.com/newsflash/298352",
+    "https://www.d1ev.com/newsflash/298349",
+    "https://www.d1ev.com/newsflash/298343",
+    "https://www.d1ev.com/newsflash/298342",
+    "https://www.d1ev.com/newsflash/298340",
+    "https://www.d1ev.com/newsflash/298339",
+    "https://www.d1ev.com/newsflash/298333",
+    "https://www.d1ev.com/newsflash/298332",
+    "https://www.d1ev.com/newsflash/298351",
+    "https://www.d1ev.com/newsflash/298350",
+    "https://www.d1ev.com/newsflash/298345",
+    "https://www.d1ev.com/newsflash/298341",
+    "https://www.d1ev.com/newsflash/298334",
+    "https://www.d1ev.com/newsflash/298330",
+    "https://www.d1ev.com/newsflash/298329",
+    "https://www.d1ev.com/news/shichang/298338",
+    "https://www.d1ev.com/news/shichang/298346",
+    "https://www.d1ev.com/newsflash/298344",
+    "https://www.d1ev.com/news/qiye/298337",
+    "https://www.d1ev.com/news/qiye/298336",
+    "https://www.d1ev.com/news/qiye/298335",
+    "https://www.d1ev.com/news/shichang/298331"
   ],
   "newsHistory": [
     {
@@ -5193,6 +5193,144 @@
       "title": "Stellantis CEO承诺季度现金流将稳步改善",
       "source": "第一电动",
       "pushedAt": 1778225025770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298353",
+      "title": "2026款广汽丰田铂智3X震撼上市！7款车型9.48万起，续航高达610公里",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298352",
+      "title": "广汽丰田铂智3X升级上市，智能泊车新体验9.48万起",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298349",
+      "title": "奔驰C260L运动轿车经典版上市，29.99万起售，女性用户占比60%",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298343",
+      "title": "极氪009豪华纯电MPV即将上市：900V高压架构+6C麒麟电池，续航突破740km！",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298342",
+      "title": "领克07GT谍照曝光：2026年发布，插混动力，零百加速5.5秒",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298340",
+      "title": "哈弗大狗PLUS长续航版上市，CLTC纯电续航200km，限时优惠价15.28万起",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298339",
+      "title": "特斯拉Semi电动卡车电池容量曝光：长续航版822kWh，预估续航超800公里！",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298333",
+      "title": "奔驰C260L经典版上市！29.99万起，2.0T+48V轻混系统加持",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298332",
+      "title": "岚图FE轿跑SUV搭载华为四激光雷达，年中上市",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298351",
+      "title": "本田首次营业亏损173亿！电动汽车业务成重灾区",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298350",
+      "title": "4月乘用车销量下滑，新能源车市逆势增长",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298345",
+      "title": "宁德时代携手土耳其Togg打造智能电动车，首款车型2027年量产",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298341",
+      "title": "Stellantis联手零跑汽车，2028年欧洲市场将迎全新C级纯电动SUV",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298334",
+      "title": "OpenAI推出“可信联系人”功能 守护用户心理健康安全",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298330",
+      "title": "比亚迪成全球首家新能源车企加入IATF核心决策层",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298329",
+      "title": "AI生图骗术升级：透视几何成新破绽，加州大学教授揭秘真伪判定法",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298338",
+      "title": "一张图看懂河北省汽车产业集群丨盖世全球汽车产业大数据",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298346",
+      "title": "千里科技，即将登陆港股",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298344",
+      "title": "五一理想车主出行大数据：累计行驶6.4亿公里，智能功能使用激增",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298337",
+      "title": "问界M8累计交付超17万辆，五一辅助驾驶里程占近半，增程版综合续",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298336",
+      "title": "消息称国产特斯拉4月份交付7.9万辆 环比下滑但同比大幅增加",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298335",
+      "title": "极氪预警：警惕“低价代购”陷阱，认准官方渠道",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298331",
+      "title": "多家汽车行业协会敦促美政府延长美墨加自由贸易协定",
+      "source": "第一电动",
+      "pushedAt": 1778231999734
     }
   ],
   "lastUpdated": "2026-05-08"
