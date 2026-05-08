@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296061",
-    "https://www.d1ev.com/newsflash/296057",
-    "https://www.d1ev.com/news/qiye/296066",
-    "https://www.d1ev.com/news/qiye/296059",
-    "https://www.d1ev.com/newsflash/296056",
-    "https://www.d1ev.com/newsflash/296072",
-    "https://www.d1ev.com/newsflash/296071",
-    "https://www.d1ev.com/carnews/xinche/296105",
-    "https://www.d1ev.com/newsflash/296099",
-    "https://www.d1ev.com/newsflash/296097",
-    "https://www.d1ev.com/carnews/xinche/296094",
-    "https://www.d1ev.com/carnews/xinche/296093",
-    "https://www.d1ev.com/news/qiye/296092",
     "https://www.d1ev.com/carnews/xinche/296080",
     "https://www.d1ev.com/carnews/xinche/296079",
     "https://www.d1ev.com/newsflash/296107",
@@ -1999,51 +1986,22 @@
     "https://www.d1ev.com/carnews/xinche/298361",
     "https://www.d1ev.com/newsflash/298368",
     "https://www.d1ev.com/newsflash/298365",
-    "https://www.d1ev.com/news/shichang/298363"
+    "https://www.d1ev.com/news/shichang/298363",
+    "https://www.d1ev.com/news/qiye/298383",
+    "https://www.d1ev.com/newsflash/298381",
+    "https://www.d1ev.com/newsflash/298380",
+    "https://www.d1ev.com/newsflash/298379",
+    "https://www.d1ev.com/news/qiye/298378",
+    "https://www.d1ev.com/newsflash/298377",
+    "https://www.d1ev.com/newsflash/298373",
+    "https://www.d1ev.com/newsflash/298375",
+    "https://www.d1ev.com/newsflash/298382",
+    "https://www.d1ev.com/newsflash/298376",
+    "https://www.d1ev.com/newsflash/298374",
+    "https://www.d1ev.com/newsflash/298372",
+    "https://www.d1ev.com/newsflash/298371"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297777",
-      "title": "极氪4月销量飙升132%，9X月交付破万，8X上市13天近3500辆！",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297776",
-      "title": "深蓝汽车4月销量破3万，L06订单破万，S07华为激光版亮相北京车展",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297775",
-      "title": "极狐汽车销量翻倍增长，两款新车即将上市引爆市场",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297782",
-      "title": "奇瑞4月销量破25万，新能源车同比增63.8%",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297780",
-      "title": "吉利4月销量飙升：新能源占比近六成，海外市场翻倍增长",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297779",
-      "title": "比亚迪4月销量破32万，海外市场同比激增70.9%创新高",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297778",
-      "title": "福特CEO：90%车型2030年电气化，纯电皮卡成跨界车新宠",
-      "source": "第一电动",
-      "pushedAt": 1777640861585
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/297788",
       "title": "理想4月交付34085辆 全新L9 Livis北京车展首发",
@@ -5319,6 +5277,84 @@
       "title": "舍弗勒宣布重要人事任命，赵成苗出任中国区大客户管理负责人",
       "source": "第一电动",
       "pushedAt": 1778238536222
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298383",
+      "title": "全系标配900V高压超充平台 上汽奥迪E7X预售：28.98万起",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298381",
+      "title": "吉利博越十周年冠军版5月9日上市，时光蓝车色+L2辅助驾驶系统",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298380",
+      "title": "宝骏华境S震撼上市！14.98万起，全尺寸SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298379",
+      "title": "华为技术加持！五菱华境S大六座SUV震撼上市",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298378",
+      "title": "2026款铂智3X正式上市，升级搭载禾赛激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298377",
+      "title": "奥迪A7X开启预售，28.98万起，3.9秒破百，CLTC续航751km！",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298373",
+      "title": "2026款广汽丰田铂智3X上市！地平线6B芯片加持，智能升级新体验",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298375",
+      "title": "比亚迪闪充站突破5900座，充电量超2100万度，用户破百万！",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298382",
+      "title": "上汽大众联手神州租车，首批多款车型交付开启数字化出行新篇章",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298376",
+      "title": "北美电力监管机构罕见警报：数据中心用电波动威胁电网稳定",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298374",
+      "title": "沃尔沃携手千里浩瀚，2027年推高阶智能驾驶方案",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298372",
+      "title": "“问界M9夺魁！4月纯电车保值率榜单揭晓，高端车型表现亮眼”",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298371",
+      "title": "小米YU7车主票选十大功能出炉：天际屏全景显示强势领先",
+      "source": "第一电动",
+      "pushedAt": 1778246458156
     }
   ],
   "lastUpdated": "2026-05-08"
