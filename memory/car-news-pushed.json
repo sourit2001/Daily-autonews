@@ -1,23 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/296197",
-    "https://www.d1ev.com/news/qiye/296196",
-    "https://www.d1ev.com/newsflash/296195",
-    "https://www.d1ev.com/news/shichang/296207",
-    "https://www.d1ev.com/newsflash/296204",
-    "https://www.d1ev.com/newsflash/296216",
-    "https://www.d1ev.com/newsflash/296215",
-    "https://www.d1ev.com/newsflash/296214",
-    "https://www.d1ev.com/newsflash/296213",
-    "https://www.d1ev.com/carnews/xinche/296245",
-    "https://www.d1ev.com/newsflash/296241",
-    "https://www.d1ev.com/newsflash/296238",
-    "https://www.d1ev.com/carnews/xinche/296236",
-    "https://www.d1ev.com/carnews/xinche/296234",
-    "https://www.d1ev.com/carnews/xinche/296220",
-    "https://www.d1ev.com/news/shichang/296219",
-    "https://www.d1ev.com/news/qiye/296244",
-    "https://www.d1ev.com/newsflash/296243",
     "https://www.d1ev.com/newsflash/296242",
     "https://www.d1ev.com/newsflash/296240",
     "https://www.d1ev.com/news/qiye/296233",
@@ -1999,33 +1981,27 @@
     "https://www.d1ev.com/newsflash/298511",
     "https://www.d1ev.com/newsflash/298508",
     "https://www.d1ev.com/news/shichang/298507",
-    "https://www.d1ev.com/newsflash/298505"
+    "https://www.d1ev.com/newsflash/298505",
+    "https://www.d1ev.com/newsflash/298532",
+    "https://www.d1ev.com/news/qiye/298531",
+    "https://www.d1ev.com/newsflash/298530",
+    "https://www.d1ev.com/newsflash/298529",
+    "https://www.d1ev.com/newsflash/298528",
+    "https://www.d1ev.com/newsflash/298526",
+    "https://www.d1ev.com/newsflash/298525",
+    "https://www.d1ev.com/newsflash/298524",
+    "https://www.d1ev.com/newsflash/298523",
+    "https://www.d1ev.com/newsflash/298522",
+    "https://www.d1ev.com/newsflash/298521",
+    "https://www.d1ev.com/newsflash/298520",
+    "https://www.d1ev.com/newsflash/298519",
+    "https://www.d1ev.com/newsflash/298518",
+    "https://www.d1ev.com/newsflash/298527",
+    "https://www.d1ev.com/newsflash/298517",
+    "https://www.d1ev.com/newsflash/298534",
+    "https://www.d1ev.com/newsflash/298533"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297838",
-      "title": "AI诊断能力超越人类医生？OpenAI模型在临床病例中表现惊艳",
-      "source": "第一电动",
-      "pushedAt": 1777732914831
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297837",
-      "title": "小马智行Robotaxi成本大降，23万即可入手自动驾驶车",
-      "source": "第一电动",
-      "pushedAt": 1777732914831
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297836",
-      "title": "AI取代Z世代初级岗：短期降本，长期代价高昂？",
-      "source": "第一电动",
-      "pushedAt": 1777732914831
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297834",
-      "title": "绿源S86GT战神系列5月13日早鸟预定开启，5000W峰值功率80km/h极速来袭",
-      "source": "第一电动",
-      "pushedAt": 1777732914831
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297845",
       "title": "华为乾崑智驾突破百亿里程，安全行驶超越人类驾驶员",
@@ -5787,6 +5763,114 @@
       "title": "丰田汽车2025财年营收增5.5% 营业利润大跌21.5%",
       "source": "第一电动",
       "pushedAt": 1778331908702
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298532",
+      "title": "哈弗猛龙PLUS震撼上市！中型SUV升级中大型，百公里加速5.8秒",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298531",
+      "title": "吉利博越十周年冠军版上市，限时价8.79万元，累计销量237万辆",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298530",
+      "title": "东风华为联手打造奕境X9，全球首秀亮相北京车展",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298529",
+      "title": "广汽传祺越7硬派SUV亮相：1.5T混动+四驱，动力媲美超跑！",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298528",
+      "title": "北京现代IONIQ V亮相工信部公告，纯电/增程双动力新选择",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298526",
+      "title": "华为加持！岚图追光S轿跑SUV携32颗感知硬件年中上市",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298525",
+      "title": "小鹏MONA系列新成员L05亮相：中大型SUV双动力选择",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298524",
+      "title": "鸿蒙智行V800MPV亮相，200万级高定新能源车即将发布",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298523",
+      "title": "小鹏G9L新申报图曝光：中大型纯电SUV，24.88万起售",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298522",
+      "title": "大众ID.ERA系列首款轿车亮相：1.5T插电混动+城市NOA智驾",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298521",
+      "title": "领克07GT插混轿车亮相工信部公告，年内发布引期待",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298520",
+      "title": "奇瑞路虎神行者8亮相工信部，华为智驾+800V高压增程平台即将发布",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298519",
+      "title": "鸿蒙智行尊界V800申报：1.5T增程动力，3排座椅灵活空间",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298518",
+      "title": "华为技术加持！东风奕派M8大六座SUV本月亮相",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298527",
+      "title": "比亚迪海狮08震撼登场：全球首搭闪充技术，纯电续航900km！",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298517",
+      "title": "“辟谣！新能源车企锁电约谈立案为假，官方未发布信息”",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298534",
+      "title": "吉利汽车拟购福特西班牙产线 欧盟市场壁垒加剧",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298533",
+      "title": "广汽传祺越7硬派越野新宠，1.5T混动动力来袭！",
+      "source": "第一电动",
+      "pushedAt": 1778337895636
     }
   ],
   "lastUpdated": "2026-05-09"
