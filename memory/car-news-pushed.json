@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296242",
-    "https://www.d1ev.com/newsflash/296240",
     "https://www.d1ev.com/news/qiye/296233",
     "https://www.d1ev.com/newsflash/296231",
     "https://www.d1ev.com/newsflash/296230",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/298527",
     "https://www.d1ev.com/newsflash/298517",
     "https://www.d1ev.com/newsflash/298534",
-    "https://www.d1ev.com/newsflash/298533"
+    "https://www.d1ev.com/newsflash/298533",
+    "https://www.d1ev.com/newsflash/298544",
+    "https://www.d1ev.com/newsflash/298543"
   ],
   "newsHistory": [
     {
@@ -5871,7 +5871,19 @@
       "title": "广汽传祺越7硬派越野新宠，1.5T混动动力来袭！",
       "source": "第一电动",
       "pushedAt": 1778337895636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298544",
+      "title": "小鹏G9L亮相工信部：轴距加长102mm，动力升级纯电插混双选",
+      "source": "第一电动",
+      "pushedAt": 1778352737061
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298543",
+      "title": "小鹏MONAL05亮相工信部：纯电增程双动力，家族设计新突破",
+      "source": "第一电动",
+      "pushedAt": 1778352737061
     }
   ],
-  "lastUpdated": "2026-05-09"
+  "lastUpdated": "2026-05-10"
 }
