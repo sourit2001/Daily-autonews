@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296259",
     "https://www.d1ev.com/carnews/xinche/296258",
     "https://www.d1ev.com/newsflash/296256",
     "https://www.d1ev.com/newsflash/296251",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/newsflash/298595",
     "https://www.d1ev.com/newsflash/298600",
     "https://www.d1ev.com/newsflash/298598",
-    "https://www.d1ev.com/newsflash/298596"
+    "https://www.d1ev.com/newsflash/298596",
+    "https://www.d1ev.com/newsflash/298605"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297871",
-      "title": "中国超跑新突破！比亚迪仰望U9Xtreme全球限量30台售罄",
-      "source": "第一电动",
-      "pushedAt": 1777826502052
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297879",
       "title": "特斯拉FSD车队里程破百亿英里，自动驾驶安全仍存疑",
@@ -6051,7 +6045,13 @@
       "title": "特斯拉人形机器人引爆市场，机器人板块股价飙升",
       "source": "第一电动",
       "pushedAt": 1778424445351
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298605",
+      "title": "保时捷出售布加迪股权，中东资本加速全球投资布局",
+      "source": "第一电动",
+      "pushedAt": 1778431576882
     }
   ],
-  "lastUpdated": "2026-05-10"
+  "lastUpdated": "2026-05-11"
 }
