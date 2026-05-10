@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296280",
-    "https://www.d1ev.com/news/shichang/296270",
-    "https://www.d1ev.com/newsflash/296264",
-    "https://www.d1ev.com/newsflash/296263",
-    "https://www.d1ev.com/newsflash/296262",
-    "https://www.d1ev.com/newsflash/296261",
-    "https://www.d1ev.com/newsflash/296254",
-    "https://www.d1ev.com/newsflash/296253",
-    "https://www.d1ev.com/news/shichang/296289",
-    "https://www.d1ev.com/news/shichang/296284",
-    "https://www.d1ev.com/newsflash/296281",
-    "https://www.d1ev.com/newsflash/296276",
-    "https://www.d1ev.com/newsflash/296269",
     "https://www.d1ev.com/news/shichang/296249",
     "https://www.d1ev.com/news/shichang/296293",
     "https://www.d1ev.com/newsflash/296292",
@@ -1999,33 +1986,22 @@
     "https://www.d1ev.com/news/shichang/298564",
     "https://www.d1ev.com/newsflash/298572",
     "https://www.d1ev.com/newsflash/298568",
-    "https://www.d1ev.com/news/qiye/298566"
+    "https://www.d1ev.com/news/qiye/298566",
+    "https://www.d1ev.com/news/qiye/298587",
+    "https://www.d1ev.com/newsflash/298584",
+    "https://www.d1ev.com/newsflash/298582",
+    "https://www.d1ev.com/newsflash/298579",
+    "https://www.d1ev.com/newsflash/298578",
+    "https://www.d1ev.com/newsflash/298577",
+    "https://www.d1ev.com/newsflash/298576",
+    "https://www.d1ev.com/newsflash/298586",
+    "https://www.d1ev.com/newsflash/298583",
+    "https://www.d1ev.com/newsflash/298581",
+    "https://www.d1ev.com/newsflash/298575",
+    "https://www.d1ev.com/news/shichang/298585",
+    "https://www.d1ev.com/newsflash/298580"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297853",
-      "title": "“美国AI宣传战：网红被指收黑金散布中国威胁论”",
-      "source": "第一电动",
-      "pushedAt": 1777799902540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297854",
-      "title": "比亚迪方程豹钛7EV闪充版全国16城64店就位，19.98万起售",
-      "source": "第一电动",
-      "pushedAt": 1777799902540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297852",
-      "title": "上汽集团月销量四连冠，1-4月销量超130万辆创新高",
-      "source": "第一电动",
-      "pushedAt": 1777799902540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297851",
-      "title": "“鸿蒙智行问界M9预订破3.5万！49.98万起售，搭载超140项创新技术”",
-      "source": "第一电动",
-      "pushedAt": 1777799902540
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/297860",
       "title": "E周看点｜理想正式进入阿联酋、沙特阿拉伯市场；乐道L80开启预售，BaaS版15.98万起",
@@ -6015,6 +5991,84 @@
       "title": "换人不换车！蔚来ES9一万公里最短用时挑战成功",
       "source": "第一电动",
       "pushedAt": 1778394635084
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298587",
+      "title": "E周看点 | 上通五菱与华为合作首款车上市；多车企辟谣因锁电被约谈",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298584",
+      "title": "阿维塔07L亮相：华为雷达加持，动力超千匹马力！",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298582",
+      "title": "哈弗猛龙PLUS即将上市，5.8秒破百，续航超1000公里！",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298579",
+      "title": "别克至境L7纯电版曝光：800V快充+宁德时代电池，第三季度上市",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298578",
+      "title": "小米YU7新车型亮相：73kWh电池续航超600km，轻量化升级！",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298577",
+      "title": "阿维塔07L豪华SUV亮相：华为雷达加持，尺寸升级迈入中大型",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298576",
+      "title": "鸿蒙智行尊界S800高定版亮相：150万起售，奢华感爆棚！",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298586",
+      "title": "SpaceXAI新应用GrokBuild泄露，智能编程赛道迎劲敌",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298583",
+      "title": "AI浪潮下，美国IT行业失业率上升，科技巨头纷纷裁员",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298581",
+      "title": "新能源车“锁电”乱象：续航减半，充电翻倍，车主权益何在？",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298575",
+      "title": "鸿蒙智行问界M6全国试驾开启，25.98万起售，最高续航1605km！",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298585",
+      "title": "小智一周要闻 | 杭州为具身机器人立法；千寻智能与博世中国达成合作",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298580",
+      "title": "小米汽车新福利：邀友锁单赚积分，8000积分等你拿！",
+      "source": "第一电动",
+      "pushedAt": 1778405181461
     }
   ],
   "lastUpdated": "2026-05-10"
