@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/296249",
-    "https://www.d1ev.com/news/shichang/296293",
-    "https://www.d1ev.com/newsflash/296292",
-    "https://www.d1ev.com/news/qiye/296288",
-    "https://www.d1ev.com/newsflash/296278",
     "https://www.d1ev.com/newsflash/296277",
     "https://www.d1ev.com/news/shichang/296275",
     "https://www.d1ev.com/news/shichang/296274",
@@ -1999,63 +1994,14 @@
     "https://www.d1ev.com/newsflash/298581",
     "https://www.d1ev.com/newsflash/298575",
     "https://www.d1ev.com/news/shichang/298585",
-    "https://www.d1ev.com/newsflash/298580"
+    "https://www.d1ev.com/newsflash/298580",
+    "https://www.d1ev.com/newsflash/298589",
+    "https://www.d1ev.com/newsflash/298591",
+    "https://www.d1ev.com/newsflash/298588",
+    "https://www.d1ev.com/newsflash/298592",
+    "https://www.d1ev.com/newsflash/298590"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/297860",
-      "title": "E周看点｜理想正式进入阿联酋、沙特阿拉伯市场；乐道L80开启预售，BaaS版15.98万起",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297856",
-      "title": "比亚迪方程豹钛7EV闪充版全国上市，续航755km仅5分钟充至70%",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297863",
-      "title": "长城汽车4月销量破10万，新能源车同比翻倍增长",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297862",
-      "title": "广汽充电桩超2.5万根，全国31省213市全覆盖，销量同比增长2.38%",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297858",
-      "title": "AI为自己策划发布会：OpenAI GPT-5.5的“人性”行为引发热议",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297855",
-      "title": "广汽国际1-4月出口量激增133.9%，全球布局加速",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/297861",
-      "title": "小智一周要闻 | 奇瑞墨甲机器人完成千台签约百台交付；星动纪元融资超2亿美元",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297859",
-      "title": "通用汽车OnStar订阅服务收入大增，2026年目标用户超1300万",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/297857",
-      "title": "电车成本优势碾压油车！跑1000公里电费低至300元",
-      "source": "第一电动",
-      "pushedAt": 1777805426388
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297867",
       "title": "比亚迪大唐EV全国多城到店，预售价25万起，纯电续航950km！",
@@ -6069,6 +6015,36 @@
       "title": "小米汽车新福利：邀友锁单赚积分，8000积分等你拿！",
       "source": "第一电动",
       "pushedAt": 1778405181461
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298589",
+      "title": "哈弗猛龙PLUS 5月15日上市，硬派SUV搭载Hi4电混系统，续航超1000公里",
+      "source": "第一电动",
+      "pushedAt": 1778410664801
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298591",
+      "title": "AI“买家秀”泛滥，网购真实评价被“美颜”？",
+      "source": "第一电动",
+      "pushedAt": 1778410664801
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298588",
+      "title": "新能源车维修成本惊人：小损伤维修费高达数万元",
+      "source": "第一电动",
+      "pushedAt": 1778410664801
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298592",
+      "title": "中国汽车零部件崛起：美市场超40款车型搭载，中企全资控股超60家",
+      "source": "第一电动",
+      "pushedAt": 1778410664801
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298590",
+      "title": "宝马2027年推中国特供长轴距X5，搭载毫末智行ADAS系统",
+      "source": "第一电动",
+      "pushedAt": 1778410664801
     }
   ],
   "lastUpdated": "2026-05-10"
