@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296277",
-    "https://www.d1ev.com/news/shichang/296275",
     "https://www.d1ev.com/news/shichang/296274",
     "https://www.d1ev.com/news/shichang/296273",
     "https://www.d1ev.com/news/shichang/296271",
@@ -1999,45 +1997,11 @@
     "https://www.d1ev.com/newsflash/298591",
     "https://www.d1ev.com/newsflash/298588",
     "https://www.d1ev.com/newsflash/298592",
-    "https://www.d1ev.com/newsflash/298590"
+    "https://www.d1ev.com/newsflash/298590",
+    "https://www.d1ev.com/newsflash/298594",
+    "https://www.d1ev.com/newsflash/298593"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297867",
-      "title": "比亚迪大唐EV全国多城到店，预售价25万起，纯电续航950km！",
-      "source": "第一电动",
-      "pushedAt": 1777813045702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297869",
-      "title": "“新国标实施！电动自行车不再一刀切淘汰，旧车过渡期至11月30日”",
-      "source": "第一电动",
-      "pushedAt": 1777813045702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297866",
-      "title": "2026年一季度全球新能源车销量453万台，中国份额下滑至61%",
-      "source": "第一电动",
-      "pushedAt": 1777813045702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297865",
-      "title": "上汽集团4月销量再夺冠，新能源车销量激增234.2%",
-      "source": "第一电动",
-      "pushedAt": 1777813045702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297864",
-      "title": "比亚迪宋UltraEV首月订单破6万，续航高达710km！",
-      "source": "第一电动",
-      "pushedAt": 1777813045702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297868",
-      "title": "丰田在印度建三新厂，2030年前产能增至百万，瞄准新兴市场",
-      "source": "第一电动",
-      "pushedAt": 1777813045702
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297870",
       "title": "2026北京车展规模创纪录，1451辆展车引爆全球关注",
@@ -6045,6 +6009,18 @@
       "title": "宝马2027年推中国特供长轴距X5，搭载毫末智行ADAS系统",
       "source": "第一电动",
       "pushedAt": 1778410664801
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298594",
+      "title": "日系车在华销量暴跌，本田月销仅5000辆创历史新低",
+      "source": "第一电动",
+      "pushedAt": 1778418320431
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298593",
+      "title": "赛力斯动力携手一汽铸锻，开创“同线共营”智能生产线新模式",
+      "source": "第一电动",
+      "pushedAt": 1778418320431
     }
   ],
   "lastUpdated": "2026-05-10"
