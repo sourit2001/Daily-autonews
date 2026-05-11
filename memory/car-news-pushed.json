@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296444",
-    "https://www.d1ev.com/newsflash/296443",
     "https://www.d1ev.com/newsflash/296442",
     "https://www.d1ev.com/news/shichang/296434",
     "https://www.d1ev.com/news/qiye/296425",
@@ -1999,45 +1997,11 @@
     "https://www.d1ev.com/newsflash/298744",
     "https://www.d1ev.com/newsflash/298736",
     "https://www.d1ev.com/carnews/xinche/298733",
-    "https://www.d1ev.com/newsflash/298732"
+    "https://www.d1ev.com/newsflash/298732",
+    "https://www.d1ev.com/newsflash/298761",
+    "https://www.d1ev.com/newsflash/298760"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297906",
-      "title": "AI取代放射科医生预言落空，放射科医生需求激增年薪飙升",
-      "source": "第一电动",
-      "pushedAt": 1777910223100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297905",
-      "title": "女司机高速上化妆跳舞，交警：辅助驾驶≠自动驾驶！",
-      "source": "第一电动",
-      "pushedAt": 1777910223100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297904",
-      "title": "AI面试成求职新难题：63%求职者体验过，38%因AI面试退出",
-      "source": "第一电动",
-      "pushedAt": 1777910223100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297902",
-      "title": "红帽开源TankOS：打造AI智能体安全新环境",
-      "source": "第一电动",
-      "pushedAt": 1777910223100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297903",
-      "title": "迈凯伦MCL-HYGTR赛道版超跑：轻量级720马力猛兽即将登场",
-      "source": "第一电动",
-      "pushedAt": 1777910223100
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297907",
-      "title": "意大利倍耐力联手瑞典Univrses，CyberTyre智能轮胎技术再升级",
-      "source": "第一电动",
-      "pushedAt": 1777915661779
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297912",
       "title": "领克10量产车下线，预售价20.99万起，续航达816km！",
@@ -6705,7 +6669,19 @@
       "title": "“小米汽车名誉维权胜诉，造谣者公开道歉”",
       "source": "第一电动",
       "pushedAt": 1778510373662
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298761",
+      "title": "领克07GT猎装车亮相：高阶辅助驾驶+超200km纯电续航",
+      "source": "第一电动",
+      "pushedAt": 1778521904110
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298760",
+      "title": "特斯拉1.2兆瓦超快充技术曝光，30分钟充能480公里！",
+      "source": "第一电动",
+      "pushedAt": 1778521904110
     }
   ],
-  "lastUpdated": "2026-05-11"
+  "lastUpdated": "2026-05-12"
 }
