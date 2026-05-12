@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/296584",
-    "https://www.d1ev.com/news/shichang/296583",
-    "https://www.d1ev.com/newsflash/296582",
     "https://www.d1ev.com/newsflash/296581",
     "https://www.d1ev.com/news/shichang/296575",
     "https://www.d1ev.com/newsflash/296574",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/news/shichang/298889",
     "https://www.d1ev.com/news/shichang/298887",
     "https://www.d1ev.com/newsflash/298907",
-    "https://www.d1ev.com/newsflash/298908"
+    "https://www.d1ev.com/newsflash/298908",
+    "https://www.d1ev.com/newsflash/298911",
+    "https://www.d1ev.com/newsflash/298910",
+    "https://www.d1ev.com/newsflash/298909"
   ],
   "newsHistory": [
     {
@@ -7239,6 +7239,24 @@
       "title": "“8家车企锁电风波：真相大反转，监管与车企辟谣战”",
       "source": "第一电动",
       "pushedAt": 1778608508281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298911",
+      "title": "极狐汽车4月销量飙升，两款新车预售火爆，B级纯电轿车阿尔法S5销量领先",
+      "source": "第一电动",
+      "pushedAt": 1778614946114
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298910",
+      "title": "华为广汽联手打造！启境GT7智能猎装6月上市，续航高达900km",
+      "source": "第一电动",
+      "pushedAt": 1778614946114
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298909",
+      "title": "深蓝S05全球销量破20万，波兰上市再拓欧洲版图",
+      "source": "第一电动",
+      "pushedAt": 1778614946114
     }
   ],
   "lastUpdated": "2026-05-13"
