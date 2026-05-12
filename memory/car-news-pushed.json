@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296570",
-    "https://www.d1ev.com/news/shichang/296566",
-    "https://www.d1ev.com/newsflash/296595",
-    "https://www.d1ev.com/newsflash/296589",
-    "https://www.d1ev.com/newsflash/296587",
-    "https://www.d1ev.com/newsflash/296578",
-    "https://www.d1ev.com/newsflash/296577",
-    "https://www.d1ev.com/carnews/xinche/296576",
-    "https://www.d1ev.com/newsflash/296572",
-    "https://www.d1ev.com/news/shichang/296565",
-    "https://www.d1ev.com/newsflash/296564",
-    "https://www.d1ev.com/newsflash/296567",
-    "https://www.d1ev.com/newsflash/296598",
-    "https://www.d1ev.com/newsflash/296596",
-    "https://www.d1ev.com/newsflash/296594",
     "https://www.d1ev.com/news/shichang/296592",
     "https://www.d1ev.com/news/shichang/296585",
     "https://www.d1ev.com/news/shichang/296584",
@@ -1999,27 +1984,24 @@
     "https://www.d1ev.com/newsflash/298849",
     "https://www.d1ev.com/newsflash/298848",
     "https://www.d1ev.com/news/shichang/298846",
-    "https://www.d1ev.com/news/qiye/298844"
+    "https://www.d1ev.com/news/qiye/298844",
+    "https://www.d1ev.com/newsflash/298897",
+    "https://www.d1ev.com/newsflash/298895",
+    "https://www.d1ev.com/newsflash/298888",
+    "https://www.d1ev.com/newsflash/298899",
+    "https://www.d1ev.com/newsflash/298898",
+    "https://www.d1ev.com/news/qiye/298885",
+    "https://www.d1ev.com/news/shichang/298886",
+    "https://www.d1ev.com/newsflash/298896",
+    "https://www.d1ev.com/news/shichang/298894",
+    "https://www.d1ev.com/news/shichang/298893",
+    "https://www.d1ev.com/news/shichang/298892",
+    "https://www.d1ev.com/newsflash/298891",
+    "https://www.d1ev.com/newsflash/298890",
+    "https://www.d1ev.com/news/shichang/298889",
+    "https://www.d1ev.com/news/shichang/298887"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/297939",
-      "title": "5米长纯电SUV来袭！奥迪E7X将于5月8日预售：最大续航751km",
-      "source": "第一电动",
-      "pushedAt": 1777979711243
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297937",
-      "title": "领克10系列震撼上市：3秒破百，续航超800km！",
-      "source": "第一电动",
-      "pushedAt": 1777979711243
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297938",
-      "title": "本田电动化战略受挫，2.5万亿日元亏损背后车型换代大推迟",
-      "source": "第一电动",
-      "pushedAt": 1777979711243
-    },
     {
       "url": "https://www.d1ev.com/newsflash/297940",
       "title": "小米首款增程全尺寸SUV“昆仑N3”低伪装谍照曝光",
@@ -7203,6 +7185,96 @@
       "title": "在奔驰没干成的事，段建军带到了沃尔沃",
       "source": "第一电动",
       "pushedAt": 1778581967807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298897",
+      "title": "五菱缤果Pro纯电小车5月22日上市，5.88万元起售！",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298895",
+      "title": "小米汽车四款新车曝光：纯血GT、入门版YU7、寻天增程SUV、SU7加长版亮相在即",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298888",
+      "title": "理想汽车自研芯片马赫M100首发！1280TOPs算力领跑AI时代",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298899",
+      "title": "AI成黑客新武器？谷歌揭露AI挖掘零日漏洞事件",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298898",
+      "title": "比亚迪元PLUS升级来袭：630公里续航+智能科技新体验",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/298885",
+      "title": "锁电风波反转了，但新能源车主的焦虑没有",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298886",
+      "title": "人事变动 | 麦格纳中国区总裁吴珍转任国际副总裁，李亚旭接棒",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298896",
+      "title": "腾讯音乐豪掷12.6亿美元全资收购喜马拉雅",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298894",
+      "title": "Microchip推出下一代单对以太网PHY收发器 集成MACsec安全、时间敏感网络和功能安全",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298893",
+      "title": "Ansible Motion推出全新紧凑型驾驶员在环仿真器Delta T1 Sport",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298892",
+      "title": "Humanetics推出新一代ADAS测试平台UFOnext",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298891",
+      "title": "中科院院士俞大鹏喜提比亚迪仰望U8，国产豪车认可度飙升",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298890",
+      "title": "鸿蒙智行S800超豪华轿车销量夺冠，华为高端车型受追捧",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298889",
+      "title": "吉利中国星车队开启中国速度新篇章",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/298887",
+      "title": "4月经销商库存系数升至1.89，车市“冷热交织”下渠道承压",
+      "source": "第一电动",
+      "pushedAt": 1778594936167
     }
   ],
   "lastUpdated": "2026-05-12"
