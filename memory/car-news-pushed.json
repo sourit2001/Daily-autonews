@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/296592",
-    "https://www.d1ev.com/news/shichang/296585",
     "https://www.d1ev.com/news/shichang/296584",
     "https://www.d1ev.com/news/shichang/296583",
     "https://www.d1ev.com/newsflash/296582",
@@ -1999,57 +1997,11 @@
     "https://www.d1ev.com/newsflash/298891",
     "https://www.d1ev.com/newsflash/298890",
     "https://www.d1ev.com/news/shichang/298889",
-    "https://www.d1ev.com/news/shichang/298887"
+    "https://www.d1ev.com/news/shichang/298887",
+    "https://www.d1ev.com/newsflash/298907",
+    "https://www.d1ev.com/newsflash/298908"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/297940",
-      "title": "小米首款增程全尺寸SUV“昆仑N3”低伪装谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297948",
-      "title": "美政府联手科技巨头，提前审查AI模型防安全风险",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297946",
-      "title": "日产固态电池突破：10分钟充80%，成本仍是挑战",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297944",
-      "title": "小米YU7续航挑战：北京至内蒙，550公里轻松应对",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297943",
-      "title": "领克10量产车下线！最高续航816公里，起售价20.99万",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297942",
-      "title": "特斯拉FSD欧洲获批遇阻，监管机构担忧安全性与命名误导；FSD行驶里程破百亿英里",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/297947",
-      "title": "高速惊魂！女司机双手离方向盘疑似睡觉，智能驾驶变“致命驾驶”",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/297945",
-      "title": "鸿蒙智行回应享界S9零重力座椅争议：未达防夹阈值，将优化产品细节",
-      "source": "第一电动",
-      "pushedAt": 1777996206184
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/297978",
       "title": "预售20.99万元起 新款领克10正式下线",
@@ -7275,7 +7227,19 @@
       "title": "4月经销商库存系数升至1.89，车市“冷热交织”下渠道承压",
       "source": "第一电动",
       "pushedAt": 1778594936167
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298907",
+      "title": "四月新能源车市大爆发：燃油车仅一款车型上榜，渗透率首破60%！",
+      "source": "第一电动",
+      "pushedAt": 1778608508281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/298908",
+      "title": "“8家车企锁电风波：真相大反转，监管与车企辟谣战”",
+      "source": "第一电动",
+      "pushedAt": 1778608508281
     }
   ],
-  "lastUpdated": "2026-05-12"
+  "lastUpdated": "2026-05-13"
 }
