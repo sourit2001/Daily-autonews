@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/296819",
-    "https://www.d1ev.com/news/shichang/296818",
-    "https://www.d1ev.com/carnews/xinche/296815",
     "https://www.d1ev.com/newsflash/296812",
     "https://www.d1ev.com/carnews/xinche/296810",
     "https://www.d1ev.com/carnews/xinche/296809",
@@ -1999,63 +1996,12 @@
     "https://www.d1ev.com/newsflash/299036",
     "https://www.d1ev.com/newsflash/299033",
     "https://www.d1ev.com/newsflash/299031",
-    "https://www.d1ev.com/newsflash/299026"
+    "https://www.d1ev.com/newsflash/299026",
+    "https://www.d1ev.com/newsflash/299061",
+    "https://www.d1ev.com/newsflash/299060",
+    "https://www.d1ev.com/newsflash/299059"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298103",
-      "title": "AI安全漏洞曝光：Anthropic Claude被诱导输出违禁内容",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298101",
-      "title": "丰田兰德酷路泽300混动版澳洲上市，动力升级售价约76.7万起",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298102",
-      "title": "AI时代来临，爱彼迎CEO预言“纯管理者”将被淘汰",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298098",
-      "title": "商汤科技挑战AI巨头：低成本高性能模型问世",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298097",
-      "title": "豆包大模型家族首款全模态理解模型：Doubao-Seed-2.0-lite模型升级",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298100",
-      "title": "特斯拉21万辆车因倒车影像延迟召回，国内标准更严却未见行动",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298099",
-      "title": "7年低息车贷全面下架，购车压力回归！",
-      "source": "第一电动",
-      "pushedAt": 1778083195432
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298105",
-      "title": "特斯拉再夺忠诚度大奖，Model 3复购意愿高达72.8%",
-      "source": "第一电动",
-      "pushedAt": 1778089493685
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298104",
-      "title": "理想汽车设计副总裁回应“套娃”争议：统一性是品牌信任的量变",
-      "source": "第一电动",
-      "pushedAt": 1778089493685
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298106",
       "title": "别克至境E7两周销量破5000台，超六成用户选“超满配”",
@@ -7245,7 +7191,25 @@
       "title": "德国萨克森州呼吁与中国汽车制造商合资，共谋产业转型",
       "source": "第一电动",
       "pushedAt": 1778682045186
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299061",
+      "title": "华为智界V9预售火爆，高端MPV市场迎来新变局",
+      "source": "第一电动",
+      "pushedAt": 1778695059697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299060",
+      "title": "新能源车越做越大，停车位却“缩水”了！",
+      "source": "第一电动",
+      "pushedAt": 1778695059697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299059",
+      "title": "美国居民经济福祉报告出炉：73%成年人感经济舒适，AI助力职业发展",
+      "source": "第一电动",
+      "pushedAt": 1778695059697
     }
   ],
-  "lastUpdated": "2026-05-13"
+  "lastUpdated": "2026-05-14"
 }
