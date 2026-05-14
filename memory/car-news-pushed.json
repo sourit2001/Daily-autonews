@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296941",
     "https://www.d1ev.com/newsflash/296939",
     "https://www.d1ev.com/newsflash/296937",
     "https://www.d1ev.com/newsflash/296936",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/299171",
     "https://www.d1ev.com/newsflash/299167",
     "https://www.d1ev.com/news/shichang/299164",
-    "https://www.d1ev.com/news/shichang/299163"
+    "https://www.d1ev.com/news/shichang/299163",
+    "https://www.d1ev.com/newsflash/299188"
   ],
   "newsHistory": [
     {
@@ -7101,7 +7101,13 @@
       "title": "科技向善，助残同行｜盖世汽车CEO周晓莺参加嘉定区全国助残日主题活动",
       "source": "第一电动",
       "pushedAt": 1778767038180
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299188",
+      "title": "比亚迪加速欧洲布局：接管工厂，推专属车型“海豚G”",
+      "source": "第一电动",
+      "pushedAt": 1778774924588
     }
   ],
-  "lastUpdated": "2026-05-14"
+  "lastUpdated": "2026-05-15"
 }
