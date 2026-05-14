@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/296939",
-    "https://www.d1ev.com/newsflash/296937",
     "https://www.d1ev.com/newsflash/296936",
     "https://www.d1ev.com/carnews/xinche/296956",
     "https://www.d1ev.com/newsflash/296952",
@@ -1999,39 +1997,11 @@
     "https://www.d1ev.com/newsflash/299167",
     "https://www.d1ev.com/news/shichang/299164",
     "https://www.d1ev.com/news/shichang/299163",
-    "https://www.d1ev.com/newsflash/299188"
+    "https://www.d1ev.com/newsflash/299188",
+    "https://www.d1ev.com/newsflash/299189",
+    "https://www.d1ev.com/newsflash/299190"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298249",
-      "title": "比亚迪海豚插混版6月欧洲上市，挑战丰田雅力士、雷诺Clio",
-      "source": "第一电动",
-      "pushedAt": 1778182223504
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298248",
-      "title": "比亚迪大唐预售破10万！25万起售，950km续航+3.9秒破百",
-      "source": "第一电动",
-      "pushedAt": 1778182223504
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/298245",
-      "title": "6分55秒！保时捷Taycan Turbo GT重夺纽北最速量产电动车",
-      "source": "第一电动",
-      "pushedAt": 1778182223504
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298247",
-      "title": "特斯拉加拿大惊现半价Model3，中国工厂助力全球最低价！",
-      "source": "第一电动",
-      "pushedAt": 1778182223504
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298246",
-      "title": "大众电车盈利能力待2030年SSP平台落地，成本望降20%",
-      "source": "第一电动",
-      "pushedAt": 1778182223504
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/298278",
       "title": "奥迪担忧SUV赴美上市前遭遇关税重大冲击",
@@ -7107,6 +7077,18 @@
       "title": "比亚迪加速欧洲布局：接管工厂，推专属车型“海豚G”",
       "source": "第一电动",
       "pushedAt": 1778774924588
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299189",
+      "title": "“尊界V800领衔，新能源车市新贵纷纷亮相工信部”",
+      "source": "第一电动",
+      "pushedAt": 1778787592468
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299190",
+      "title": "美系车在华销量暴跌，特朗普访华能否扭转颓势？",
+      "source": "第一电动",
+      "pushedAt": 1778787592468
     }
   ],
   "lastUpdated": "2026-05-15"
