@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297098",
-    "https://www.d1ev.com/newsflash/297095",
-    "https://www.d1ev.com/news/shichang/297090",
     "https://www.d1ev.com/news/shichang/297089",
     "https://www.d1ev.com/news/shichang/297108",
     "https://www.d1ev.com/newsflash/297106",
@@ -1999,111 +1996,12 @@
     "https://www.d1ev.com/newsflash/299307",
     "https://www.d1ev.com/news/shichang/299306",
     "https://www.d1ev.com/newsflash/299305",
-    "https://www.d1ev.com/news/shichang/299304"
+    "https://www.d1ev.com/news/shichang/299304",
+    "https://www.d1ev.com/newsflash/299346",
+    "https://www.d1ev.com/newsflash/299345",
+    "https://www.d1ev.com/news/qiye/299347"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298401",
-      "title": "玛莎拉蒂发布GT2StradaleFuoriserie914：独特定制超跑亮相米兰设计周",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298400",
-      "title": "15万起！MG07轿跑新配色亮相，智能驾驶功能加持",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298398",
-      "title": "华境S上市超级置换价14.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298396",
-      "title": "百度昆仑芯拟港交所科创板同步上市 布局双融资渠道",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298394",
-      "title": "奥迪E7X预售28.98万起，提供109度电池与751公里续航版本",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298393",
-      "title": "乐道L80旗舰SUV下周上市，预售15.98万起，双舱设计引领出行新风尚",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/298391",
-      "title": "奥迪 E7X 开启预售 限时28.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298388",
-      "title": "甲骨文AI加速安全更新，5月28日首发CSPU补丁",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298397",
-      "title": "紫光展锐发布4nm端边AI芯片N9系列，引领AI自主执行新时代",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298385",
-      "title": "比亚迪闪充站全国覆盖超3000城，充电量激增2100万度！",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298384",
-      "title": "AI成金融安全双刃剑：提升防御却放大网络风险",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298395",
-      "title": "小米汽车OTA首批体验招募开启，SU7/YU7/SU7Ultra车主优先升级！",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298392",
-      "title": "保时捷应对市场挑战：裁员500人，关闭三大非整车业务",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298390",
-      "title": "问界M8超越M9，插电混动车型保值率榜首之争揭晓",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298389",
-      "title": "特斯拉霸榜前三！纯电车保值率大比拼，国产车表现亮眼",
-      "source": "第一电动",
-      "pushedAt": 1778253533199
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298405",
-      "title": "微软10亿美元投资OpenAI背后：AI合作的担忧与转变",
-      "source": "第一电动",
-      "pushedAt": 1778260093031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298406",
-      "title": "“零重力座椅安全争议：防夹功能存疑，儿童安全不容忽视”",
-      "source": "第一电动",
-      "pushedAt": 1778260093031
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298434",
       "title": "阿维塔07L亮相：加长车身+豪华同色设计，华为激光雷达加持！",
@@ -7107,7 +7005,25 @@
       "title": "NSK与台达电子达成合作，攻坚机器人关节模组",
       "source": "第一电动",
       "pushedAt": 1778853342158
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299346",
+      "title": "鸿蒙智行智界V9震撼上市，挑战极氪009豪华MPV市场",
+      "source": "第一电动",
+      "pushedAt": 1778873017242
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299345",
+      "title": "奥迪E7X预售价大跳水，降幅超30%挑战宝马X5！",
+      "source": "第一电动",
+      "pushedAt": 1778873017242
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/299347",
+      "title": "仅1.5吨量零百6.8 秒 大众ID.Polo GTI发布：约售31万元",
+      "source": "第一电动",
+      "pushedAt": 1778873017242
     }
   ],
-  "lastUpdated": "2026-05-15"
+  "lastUpdated": "2026-05-16"
 }
