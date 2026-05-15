@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/297089",
     "https://www.d1ev.com/news/shichang/297108",
     "https://www.d1ev.com/newsflash/297106",
     "https://www.d1ev.com/news/shichang/297104",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/shichang/299304",
     "https://www.d1ev.com/newsflash/299346",
     "https://www.d1ev.com/newsflash/299345",
-    "https://www.d1ev.com/news/qiye/299347"
+    "https://www.d1ev.com/news/qiye/299347",
+    "https://www.d1ev.com/newsflash/299348"
   ],
   "newsHistory": [
     {
@@ -7023,6 +7023,12 @@
       "title": "仅1.5吨量零百6.8 秒 大众ID.Polo GTI发布：约售31万元",
       "source": "第一电动",
       "pushedAt": 1778873017242
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299348",
+      "title": "纯电ID.PoloGTI纽博格林首发，6.8秒破百续航424公里！",
+      "source": "第一电动",
+      "pushedAt": 1778878549919
     }
   ],
   "lastUpdated": "2026-05-16"
