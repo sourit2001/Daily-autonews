@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297125",
-    "https://www.d1ev.com/news/shichang/297124",
-    "https://www.d1ev.com/newsflash/297121",
-    "https://www.d1ev.com/newsflash/297119",
-    "https://www.d1ev.com/news/qiye/297114",
     "https://www.d1ev.com/newsflash/297135",
     "https://www.d1ev.com/news/shichang/297154",
     "https://www.d1ev.com/news/shichang/297151",
@@ -1999,69 +1994,14 @@
     "https://www.d1ev.com/newsflash/299371",
     "https://www.d1ev.com/newsflash/299382",
     "https://www.d1ev.com/newsflash/299379",
-    "https://www.d1ev.com/newsflash/299377"
+    "https://www.d1ev.com/newsflash/299377",
+    "https://www.d1ev.com/newsflash/299384",
+    "https://www.d1ev.com/newsflash/299387",
+    "https://www.d1ev.com/newsflash/299385",
+    "https://www.d1ev.com/newsflash/299386",
+    "https://www.d1ev.com/newsflash/299383"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298502",
-      "title": "沙溢胡可喜提蔚来乐道L90，26.58万起售新车型全国开交！",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298500",
-      "title": "小米“寻天”SUV曝光：2026年上市，可升降车顶变身房车！",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298495",
-      "title": "奥迪A7X预售开启，3.9秒破百，28.98万起！",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298503",
-      "title": "字节跳动AI投资增至2000亿，国产芯片成新宠",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298501",
-      "title": "宝马i7M70震撼来袭：全新设计+超长续航，2027款豪华旗舰登场",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298497",
-      "title": "工信部启动AI伦理审查先导计划，推动智能产业高质量发展",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298496",
-      "title": "DeepSeek首轮融资或达500亿！中国AI公司迎来历史性一刻",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/298498",
-      "title": "国产特斯拉Model Y L 已经出口韩国泰国澳大利亚等市场",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/298499",
-      "title": "TechWeb微晚报：多家车企否认因“锁电”被约谈，英特尔市值破6000亿美元",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298494",
-      "title": "北京车展落幕：下一代汽车技术，都在这里了",
-      "source": "第一电动",
-      "pushedAt": 1778324000185
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298514",
       "title": "吉利博越十周年冠军版上市，8.79万起售，智能升级L2辅助驾驶！",
@@ -6765,6 +6705,36 @@
       "title": "比亚迪腾势N9闪充版下线，50万台里程碑达成！",
       "source": "第一电动",
       "pushedAt": 1778923657715
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299384",
+      "title": "“腾势N9闪充版震撼上市：5分钟快充+420km续航，告别里程焦虑”",
+      "source": "第一电动",
+      "pushedAt": 1778929103240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299387",
+      "title": "小米AI新突破：miclaw将赋能超级小爱同学，智能体验再升级",
+      "source": "第一电动",
+      "pushedAt": 1778929103240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299385",
+      "title": "小米YU7GT跑车级SUV到店，45万起售，705km续航极速300km/h",
+      "source": "第一电动",
+      "pushedAt": 1778929103240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299386",
+      "title": "比亚迪宋UltraEV挑战4395公里横贯中国行，闪充技术重塑纯电出行标杆",
+      "source": "第一电动",
+      "pushedAt": 1778929103240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299383",
+      "title": "零跑Lafa5升级：6大新功能+11项优化，智能驾驶体验再升级！",
+      "source": "第一电动",
+      "pushedAt": 1778929103240
     }
   ],
   "lastUpdated": "2026-05-16"
