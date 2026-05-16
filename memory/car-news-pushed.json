@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297135",
-    "https://www.d1ev.com/news/shichang/297154",
     "https://www.d1ev.com/news/shichang/297151",
     "https://www.d1ev.com/news/shichang/297149",
     "https://www.d1ev.com/newsflash/297148",
@@ -1999,81 +1997,11 @@
     "https://www.d1ev.com/newsflash/299387",
     "https://www.d1ev.com/newsflash/299385",
     "https://www.d1ev.com/newsflash/299386",
-    "https://www.d1ev.com/newsflash/299383"
+    "https://www.d1ev.com/newsflash/299383",
+    "https://www.d1ev.com/newsflash/299388",
+    "https://www.d1ev.com/newsflash/299389"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298514",
-      "title": "吉利博越十周年冠军版上市，8.79万起售，智能升级L2辅助驾驶！",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298506",
-      "title": "长城魏牌V9X豪华SUV 5月18日上市，预售价37万起",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298515",
-      "title": "比亚迪云辇-PUltra闪充混动SUV即将发布，1500KW充电桩助力“闪充中国”",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298513",
-      "title": "AI“勒索”高管？Anthropic揭秘背后原因",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298512",
-      "title": "Stellantis集团深化与零跑合作，共拓全球新能源汽车市场",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298510",
-      "title": "红旗H5焕新登场，HQ9插混版纯电续航超170km！",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298509",
-      "title": "比亚迪联手神州租车，10万台新能源车采购协议签署",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298504",
-      "title": "吉利汽车2025年销量突破302万，新能源车销量同比增90%",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298511",
-      "title": "五菱星光730销量破45000台，15万内MPV销量六连冠！",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298508",
-      "title": "比亚迪海狮07获欧盟GreenNCAP年度最佳大型SUV殊荣",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298507",
-      "title": "大五座纯电SUV“消失”三年后，乐道L80开始“补课”",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298505",
-      "title": "丰田汽车2025财年营收增5.5% 营业利润大跌21.5%",
-      "source": "第一电动",
-      "pushedAt": 1778331908702
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298532",
       "title": "哈弗猛龙PLUS震撼上市！中型SUV升级中大型，百公里加速5.8秒",
@@ -6735,6 +6663,18 @@
       "title": "零跑Lafa5升级：6大新功能+11项优化，智能驾驶体验再升级！",
       "source": "第一电动",
       "pushedAt": 1778929103240
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299388",
+      "title": "比亚迪王传福：20年前布局新能源，如今证明方向正确",
+      "source": "第一电动",
+      "pushedAt": 1778936971955
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299389",
+      "title": "问界M9系列预订破5万，49.98万起售，800V高压平台新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1778936971955
     }
   ],
   "lastUpdated": "2026-05-16"
