@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/297143",
     "https://www.d1ev.com/news/shichang/297139",
     "https://www.d1ev.com/news/shichang/297138",
     "https://www.d1ev.com/newsflash/297130",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/299393",
     "https://www.d1ev.com/newsflash/299391",
     "https://www.d1ev.com/newsflash/299392",
-    "https://www.d1ev.com/newsflash/299390"
+    "https://www.d1ev.com/newsflash/299390",
+    "https://www.d1ev.com/newsflash/299395"
   ],
   "newsHistory": [
     {
@@ -6591,7 +6591,13 @@
       "title": "小米YU7GT展车全国82城陆续到店，5月底开放试驾体验！",
       "source": "第一电动",
       "pushedAt": 1778943075250
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299395",
+      "title": "燃油车市场大降价！长安新车6.49万起，新能源车市占比超60%",
+      "source": "第一电动",
+      "pushedAt": 1778950375354
     }
   ],
-  "lastUpdated": "2026-05-16"
+  "lastUpdated": "2026-05-17"
 }
