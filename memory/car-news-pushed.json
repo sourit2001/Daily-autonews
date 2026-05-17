@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/297195",
-    "https://www.d1ev.com/newsflash/297184",
-    "https://www.d1ev.com/newsflash/297173",
-    "https://www.d1ev.com/newsflash/297171",
-    "https://www.d1ev.com/newsflash/297164",
     "https://www.d1ev.com/newsflash/297162",
     "https://www.d1ev.com/newsflash/297161",
     "https://www.d1ev.com/newsflash/297186",
@@ -1999,39 +1994,14 @@
     "https://www.d1ev.com/newsflash/299423",
     "https://www.d1ev.com/newsflash/299422",
     "https://www.d1ev.com/newsflash/299421",
-    "https://www.d1ev.com/newsflash/299419"
+    "https://www.d1ev.com/newsflash/299419",
+    "https://www.d1ev.com/newsflash/299429",
+    "https://www.d1ev.com/news/shichang/299430",
+    "https://www.d1ev.com/newsflash/299433",
+    "https://www.d1ev.com/newsflash/299432",
+    "https://www.d1ev.com/news/shichang/299431"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298589",
-      "title": "哈弗猛龙PLUS 5月15日上市，硬派SUV搭载Hi4电混系统，续航超1000公里",
-      "source": "第一电动",
-      "pushedAt": 1778410664801
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298591",
-      "title": "AI“买家秀”泛滥，网购真实评价被“美颜”？",
-      "source": "第一电动",
-      "pushedAt": 1778410664801
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298588",
-      "title": "新能源车维修成本惊人：小损伤维修费高达数万元",
-      "source": "第一电动",
-      "pushedAt": 1778410664801
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298592",
-      "title": "中国汽车零部件崛起：美市场超40款车型搭载，中企全资控股超60家",
-      "source": "第一电动",
-      "pushedAt": 1778410664801
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298590",
-      "title": "宝马2027年推中国特供长轴距X5，搭载毫末智行ADAS系统",
-      "source": "第一电动",
-      "pushedAt": 1778410664801
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298594",
       "title": "日系车在华销量暴跌，本田月销仅5000辆创历史新低",
@@ -6525,6 +6495,36 @@
       "title": "理想L9旗舰版发布：2580TOPS算力引领智能汽车新纪元",
       "source": "第一电动",
       "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299429",
+      "title": "2026年新能源汽车市场迎涨价潮，15家车企最高涨2万",
+      "source": "第一电动",
+      "pushedAt": 1779015630034
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/299430",
+      "title": "E周看点｜比亚迪正与Stellantis等车企洽谈收购欧洲工厂；李想表示理想不会主动裁员",
+      "source": "第一电动",
+      "pushedAt": 1779015630034
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299433",
+      "title": "智界V9旗舰MPV 48小时订单破万，售价38.98万起",
+      "source": "第一电动",
+      "pushedAt": 1779015630034
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299432",
+      "title": "荣耀机器人“闪电”南京大学百米赛跑，打破人类纪录！",
+      "source": "第一电动",
+      "pushedAt": 1779015630034
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/299431",
+      "title": "小智一周要闻 | 宇树科技发布GD01载人变形机甲，390万元起；FF上调2026机器人出货目标至1500台",
+      "source": "第一电动",
+      "pushedAt": 1779015630034
     }
   ],
   "lastUpdated": "2026-05-17"
