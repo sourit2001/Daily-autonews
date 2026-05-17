@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/297139",
-    "https://www.d1ev.com/news/shichang/297138",
-    "https://www.d1ev.com/newsflash/297130",
-    "https://www.d1ev.com/newsflash/297128",
-    "https://www.d1ev.com/news/shichang/297123",
-    "https://www.d1ev.com/newsflash/297120",
-    "https://www.d1ev.com/news/shichang/297115",
     "https://www.d1ev.com/newsflash/297112",
     "https://www.d1ev.com/newsflash/297211",
     "https://www.d1ev.com/carnews/xinche/297202",
@@ -1999,129 +1992,16 @@
     "https://www.d1ev.com/newsflash/299391",
     "https://www.d1ev.com/newsflash/299392",
     "https://www.d1ev.com/newsflash/299390",
-    "https://www.d1ev.com/newsflash/299395"
+    "https://www.d1ev.com/newsflash/299395",
+    "https://www.d1ev.com/newsflash/299402",
+    "https://www.d1ev.com/newsflash/299399",
+    "https://www.d1ev.com/newsflash/299396",
+    "https://www.d1ev.com/newsflash/299401",
+    "https://www.d1ev.com/newsflash/299397",
+    "https://www.d1ev.com/newsflash/299400",
+    "https://www.d1ev.com/news/shichang/299398"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298544",
-      "title": "小鹏G9L亮相工信部：轴距加长102mm，动力升级纯电插混双选",
-      "source": "第一电动",
-      "pushedAt": 1778352737061
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298543",
-      "title": "小鹏MONAL05亮相工信部：纯电增程双动力，家族设计新突破",
-      "source": "第一电动",
-      "pushedAt": 1778352737061
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/298562",
-      "title": "造型另类 北京现代艾尼氪V申报图亮相",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298561",
-      "title": "油电不分家，新车不好卖",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298558",
-      "title": "现代IONIQ V亮相工信部公告，续航165km/h新选择",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298557",
-      "title": "蔚来ES9全国试驾开启，42万起售旗舰SUV即将上市",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298554",
-      "title": "北京现代艾尼氪V申报亮相：另类赛博风中型纯电SUV登场",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/298552",
-      "title": "尊界首款MPV V800申报：尺寸国内最大",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298550",
-      "title": "吉利银河TT亮相工信部公告，4秒破百纯电轿跑来袭",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298548",
-      "title": "吉利银河TT纯电轿跑申报：5米长车身，最高车速200km/h",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/298546",
-      "title": "中国豪车天花板！尊界首款MPV V800申报：尺寸国内最大",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298560",
-      "title": "怕出事远程锁车主电池？这不胡闹吗",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298551",
-      "title": "自动驾驶没有“找后路”，只是该进入下一阶段了",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298547",
-      "title": "中国车企出海下一关：不是更快，而是更可信",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298559",
-      "title": "最便宜的大六座：15万不到，华为全家桶！宝骏这次拼了？",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298556",
-      "title": "“蔚来李斌24小时直播见证：河西走廊换电路线全线贯通”",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/298555",
-      "title": "高性能越野SUV 现代Palisade XRT Pro发布",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298553",
-      "title": "特斯拉Model S/X停产，Model 3/Y成新宠，Optimus机器人将登场",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298549",
-      "title": "特斯拉Model S/X签名版交付活动突然取消，车主损失惨重！",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298545",
-      "title": "盖世周报 | 保时捷将裁员500人；舍弗勒长沙新研发大楼启用",
-      "source": "第一电动",
-      "pushedAt": 1778380125145
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298574",
       "title": "东风奕派M8大六座SUV亮相：华为技术加持，增程纯电双动力",
@@ -6597,6 +6477,48 @@
       "title": "燃油车市场大降价！长安新车6.49万起，新能源车市占比超60%",
       "source": "第一电动",
       "pushedAt": 1778950375354
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299402",
+      "title": "小米YU7新配色“火山灰”亮相，沉稳内敛金属质感来袭",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299399",
+      "title": "中国汽车专利全球领先！新能源车专利十年增两倍",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299396",
+      "title": "特斯拉自动驾驶事故全披露：17起碰撞真相大白",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299401",
+      "title": "特斯拉Model Y美国市场两年来首次调价，中高端车型涨价1.2%-2.2%",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299397",
+      "title": "“中国零件遍布美国车，底特律巨头难脱钩”",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299400",
+      "title": "“龙哥讲电车”因诋毁国内车企被判赔226万，比亚迪索赔最高",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/299398",
+      "title": "盖世周报 | 特朗普完成访华；立讯精密拟收购京西重工59.5%股份",
+      "source": "第一电动",
+      "pushedAt": 1778985349630
     }
   ],
   "lastUpdated": "2026-05-17"
