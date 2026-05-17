@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297162",
-    "https://www.d1ev.com/newsflash/297161",
-    "https://www.d1ev.com/newsflash/297186",
-    "https://www.d1ev.com/newsflash/297206",
-    "https://www.d1ev.com/newsflash/297205",
-    "https://www.d1ev.com/newsflash/297203",
-    "https://www.d1ev.com/newsflash/297200",
     "https://www.d1ev.com/news/shichang/297196",
     "https://www.d1ev.com/news/qiye/297194",
     "https://www.d1ev.com/news/shichang/297190",
@@ -1999,21 +1992,16 @@
     "https://www.d1ev.com/news/shichang/299430",
     "https://www.d1ev.com/newsflash/299433",
     "https://www.d1ev.com/newsflash/299432",
-    "https://www.d1ev.com/news/shichang/299431"
+    "https://www.d1ev.com/news/shichang/299431",
+    "https://www.d1ev.com/news/qiye/299437",
+    "https://www.d1ev.com/newsflash/299434",
+    "https://www.d1ev.com/newsflash/299441",
+    "https://www.d1ev.com/newsflash/299438",
+    "https://www.d1ev.com/newsflash/299436",
+    "https://www.d1ev.com/news/qiye/299440",
+    "https://www.d1ev.com/newsflash/299439"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298594",
-      "title": "日系车在华销量暴跌，本田月销仅5000辆创历史新低",
-      "source": "第一电动",
-      "pushedAt": 1778418320431
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298593",
-      "title": "赛力斯动力携手一汽铸锻，开创“同线共营”智能生产线新模式",
-      "source": "第一电动",
-      "pushedAt": 1778418320431
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298599",
       "title": "Meta监控员工电脑引争议，AI转型下硅谷巨头裁员潮涌动",
@@ -6525,6 +6513,48 @@
       "title": "小智一周要闻 | 宇树科技发布GD01载人变形机甲，390万元起；FF上调2026机器人出货目标至1500台",
       "source": "第一电动",
       "pushedAt": 1779015630034
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/299437",
+      "title": "昊铂S600开启预售：权益价18.89万元起，全系标配双腔空悬+激光雷",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299434",
+      "title": "智界V9上市48小时订单破万，全景智慧旗舰MPV来袭！",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299441",
+      "title": "比亚迪闪充站建设加速，5分钟充电70%刷新纪录",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299438",
+      "title": "OpenAI开发者30天烧掉890万：AI编码革命来了？",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299436",
+      "title": "燃油车销量连降9个月，新能源车市占率突破60%",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/299440",
+      "title": "3.3万平方米！特斯拉将在拉斯维加斯建造Cybercab洗车场",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299439",
+      "title": "蔚来李斌：换电站非失血点，未来年电交易量将达200亿度",
+      "source": "第一电动",
+      "pushedAt": 1779023239945
     }
   ],
   "lastUpdated": "2026-05-17"
