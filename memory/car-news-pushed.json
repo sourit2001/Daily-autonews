@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297165",
-    "https://www.d1ev.com/newsflash/297163",
-    "https://www.d1ev.com/carnews/xinche/297160",
-    "https://www.d1ev.com/newsflash/297210",
-    "https://www.d1ev.com/carnews/xinche/297209",
-    "https://www.d1ev.com/news/shichang/297208",
-    "https://www.d1ev.com/newsflash/297207",
-    "https://www.d1ev.com/newsflash/297204",
-    "https://www.d1ev.com/newsflash/297199",
-    "https://www.d1ev.com/newsflash/297198",
     "https://www.d1ev.com/news/qiye/297195",
     "https://www.d1ev.com/newsflash/297184",
     "https://www.d1ev.com/newsflash/297173",
@@ -1999,87 +1989,19 @@
     "https://www.d1ev.com/newsflash/299408",
     "https://www.d1ev.com/newsflash/299407",
     "https://www.d1ev.com/newsflash/299404",
-    "https://www.d1ev.com/newsflash/299403"
+    "https://www.d1ev.com/newsflash/299403",
+    "https://www.d1ev.com/newsflash/299426",
+    "https://www.d1ev.com/newsflash/299428",
+    "https://www.d1ev.com/newsflash/299420",
+    "https://www.d1ev.com/newsflash/299427",
+    "https://www.d1ev.com/newsflash/299425",
+    "https://www.d1ev.com/newsflash/299424",
+    "https://www.d1ev.com/newsflash/299423",
+    "https://www.d1ev.com/newsflash/299422",
+    "https://www.d1ev.com/newsflash/299421",
+    "https://www.d1ev.com/newsflash/299419"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/298587",
-      "title": "E周看点 | 上通五菱与华为合作首款车上市；多车企辟谣因锁电被约谈",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298584",
-      "title": "阿维塔07L亮相：华为雷达加持，动力超千匹马力！",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298582",
-      "title": "哈弗猛龙PLUS即将上市，5.8秒破百，续航超1000公里！",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298579",
-      "title": "别克至境L7纯电版曝光：800V快充+宁德时代电池，第三季度上市",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298578",
-      "title": "小米YU7新车型亮相：73kWh电池续航超600km，轻量化升级！",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298577",
-      "title": "阿维塔07L豪华SUV亮相：华为雷达加持，尺寸升级迈入中大型",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298576",
-      "title": "鸿蒙智行尊界S800高定版亮相：150万起售，奢华感爆棚！",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298586",
-      "title": "SpaceXAI新应用GrokBuild泄露，智能编程赛道迎劲敌",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298583",
-      "title": "AI浪潮下，美国IT行业失业率上升，科技巨头纷纷裁员",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298581",
-      "title": "新能源车“锁电”乱象：续航减半，充电翻倍，车主权益何在？",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298575",
-      "title": "鸿蒙智行问界M6全国试驾开启，25.98万起售，最高续航1605km！",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/298585",
-      "title": "小智一周要闻 | 杭州为具身机器人立法；千寻智能与博世中国达成合作",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298580",
-      "title": "小米汽车新福利：邀友锁单赚积分，8000积分等你拿！",
-      "source": "第一电动",
-      "pushedAt": 1778405181461
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298589",
       "title": "哈弗猛龙PLUS 5月15日上市，硬派SUV搭载Hi4电混系统，续航超1000公里",
@@ -6543,6 +6465,66 @@
       "title": "东风奕派007+升级城市NOA功能，全系免费享智能驾驶新体验",
       "source": "第一电动",
       "pushedAt": 1779000157444
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299426",
+      "title": "广汽昊铂S600预售开启，4.3秒破百，18.89万起售！",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299428",
+      "title": "中国电信推Token套餐：低至9.9元/月，适配AI编程与日常办公",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299420",
+      "title": "特斯拉Model Y部分车型美国市场首次涨价，入门版价格不变",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299427",
+      "title": "理想L9Livis智能泊车新体验：自动泊出、无感交互，科技感爆棚！",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299425",
+      "title": "马拉松纪录保持者萨维向荣耀机器人“闪电”发起挑战",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299424",
+      "title": "Fisker破产车主自救，开源软件拯救“孤儿车”",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299423",
+      "title": "蔚来李斌谈萤火虫品牌：高品质生活方式，单电机小车11.98万起",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299422",
+      "title": "荣耀机器人“闪电”刷新半马纪录，南京大学校园互动引关注",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299421",
+      "title": "理想L9智能旗舰SUV正式交付，45.98万起售！",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299419",
+      "title": "理想L9旗舰版发布：2580TOPS算力引领智能汽车新纪元",
+      "source": "第一电动",
+      "pushedAt": 1779010986312
     }
   ],
   "lastUpdated": "2026-05-17"
