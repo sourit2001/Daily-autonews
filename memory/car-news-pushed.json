@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/297196",
-    "https://www.d1ev.com/news/qiye/297194",
-    "https://www.d1ev.com/news/shichang/297190",
-    "https://www.d1ev.com/newsflash/297187",
     "https://www.d1ev.com/newsflash/297183",
     "https://www.d1ev.com/newsflash/297181",
     "https://www.d1ev.com/newsflash/297180",
@@ -1999,45 +1995,13 @@
     "https://www.d1ev.com/newsflash/299438",
     "https://www.d1ev.com/newsflash/299436",
     "https://www.d1ev.com/news/qiye/299440",
-    "https://www.d1ev.com/newsflash/299439"
+    "https://www.d1ev.com/newsflash/299439",
+    "https://www.d1ev.com/carnews/xinche/299444",
+    "https://www.d1ev.com/newsflash/299445",
+    "https://www.d1ev.com/news/shichang/299443",
+    "https://www.d1ev.com/newsflash/299442"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298599",
-      "title": "Meta监控员工电脑引争议，AI转型下硅谷巨头裁员潮涌动",
-      "source": "第一电动",
-      "pushedAt": 1778424445351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298597",
-      "title": "特斯拉Model3七年电池衰减超三分之一，续航仍可满足日常需求",
-      "source": "第一电动",
-      "pushedAt": 1778424445351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298595",
-      "title": "昆仑万维CEO：AI时代白领最易被取代，月花百元订阅AI服务成常态",
-      "source": "第一电动",
-      "pushedAt": 1778424445351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298600",
-      "title": "蔚来打通河西走廊换电路线，全国换电站超8800座",
-      "source": "第一电动",
-      "pushedAt": 1778424445351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298598",
-      "title": "昆仑万维方汉：豆包手机无渠道必败，智能汽车非大渠道",
-      "source": "第一电动",
-      "pushedAt": 1778424445351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298596",
-      "title": "特斯拉人形机器人引爆市场，机器人板块股价飙升",
-      "source": "第一电动",
-      "pushedAt": 1778424445351
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298605",
       "title": "保时捷出售布加迪股权，中东资本加速全球投资布局",
@@ -6555,6 +6519,30 @@
       "title": "蔚来李斌：换电站非失血点，未来年电交易量将达200亿度",
       "source": "第一电动",
       "pushedAt": 1779023239945
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/299444",
+      "title": "昊铂S600开启预售 预售价20.99-22.99万元",
+      "source": "第一电动",
+      "pushedAt": 1779029532880
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299445",
+      "title": "广汽昊铂S600全系搭载Momenta大模型，智能驾驶新突破18.89万起",
+      "source": "第一电动",
+      "pushedAt": 1779029532880
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/299443",
+      "title": "全固态电池加速迈向“一元时代” 国轩高科2026全球科技大会新品七连发！",
+      "source": "第一电动",
+      "pushedAt": 1779029532880
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299442",
+      "title": "特斯拉FSD推送V14.3.3：智能召唤最高速度提升至13公里/小时，AI反应加速20%",
+      "source": "第一电动",
+      "pushedAt": 1779029532880
     }
   ],
   "lastUpdated": "2026-05-17"
