@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/297321",
-    "https://www.d1ev.com/newsflash/297314",
     "https://www.d1ev.com/newsflash/297310",
     "https://www.d1ev.com/newsflash/297308",
     "https://www.d1ev.com/news/shichang/297339",
@@ -1999,21 +1997,11 @@
     "https://www.d1ev.com/newsflash/299547",
     "https://www.d1ev.com/newsflash/299546",
     "https://www.d1ev.com/newsflash/299545",
-    "https://www.d1ev.com/news/shichang/299544"
+    "https://www.d1ev.com/news/shichang/299544",
+    "https://www.d1ev.com/newsflash/299563",
+    "https://www.d1ev.com/news/shichang/299564"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298761",
-      "title": "领克07GT猎装车亮相：高阶辅助驾驶+超200km纯电续航",
-      "source": "第一电动",
-      "pushedAt": 1778521904110
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298760",
-      "title": "特斯拉1.2兆瓦超快充技术曝光，30分钟充能480公里！",
-      "source": "第一电动",
-      "pushedAt": 1778521904110
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/298796",
       "title": "奥迪Q9内饰官图曝光 实车预计7月29日发布",
@@ -6339,7 +6327,19 @@
       "title": "不止纯电怕冷：AAA权威实测，混动车型低温能效衰减同样显著",
       "source": "第一电动",
       "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299563",
+      "title": "哈弗猛龙PLUS上市：激光雷达加持，纯电续航255km，七座版灵活空间升级",
+      "source": "第一电动",
+      "pushedAt": 1779126898366
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/299564",
+      "title": "Seeds | FF获4500万美元机构融资到账，贾跃亭称力争半年内改善经营推动股价合规",
+      "source": "第一电动",
+      "pushedAt": 1779126898366
     }
   ],
-  "lastUpdated": "2026-05-18"
+  "lastUpdated": "2026-05-19"
 }
