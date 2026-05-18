@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/297281",
-    "https://www.d1ev.com/newsflash/297278",
-    "https://www.d1ev.com/newsflash/297275",
-    "https://www.d1ev.com/news/shichang/297273",
-    "https://www.d1ev.com/newsflash/297270",
-    "https://www.d1ev.com/carnews/xinche/297347",
-    "https://www.d1ev.com/newsflash/297344",
-    "https://www.d1ev.com/carnews/xinche/297340",
-    "https://www.d1ev.com/carnews/xinche/297334",
-    "https://www.d1ev.com/newsflash/297330",
-    "https://www.d1ev.com/news/qiye/297326",
-    "https://www.d1ev.com/newsflash/297325",
-    "https://www.d1ev.com/newsflash/297324",
-    "https://www.d1ev.com/news/shichang/297322",
     "https://www.d1ev.com/news/qiye/297321",
     "https://www.d1ev.com/newsflash/297314",
     "https://www.d1ev.com/newsflash/297310",
@@ -1999,141 +1985,23 @@
     "https://www.d1ev.com/news/shichang/299533",
     "https://www.d1ev.com/carnews/xinche/299532",
     "https://www.d1ev.com/newsflash/299530",
-    "https://www.d1ev.com/newsflash/299529"
+    "https://www.d1ev.com/newsflash/299529",
+    "https://www.d1ev.com/newsflash/299556",
+    "https://www.d1ev.com/newsflash/299555",
+    "https://www.d1ev.com/newsflash/299554",
+    "https://www.d1ev.com/news/qiye/299553",
+    "https://www.d1ev.com/newsflash/299552",
+    "https://www.d1ev.com/carnews/xinche/299551",
+    "https://www.d1ev.com/newsflash/299550",
+    "https://www.d1ev.com/newsflash/299549",
+    "https://www.d1ev.com/newsflash/299557",
+    "https://www.d1ev.com/newsflash/299548",
+    "https://www.d1ev.com/newsflash/299547",
+    "https://www.d1ev.com/newsflash/299546",
+    "https://www.d1ev.com/newsflash/299545",
+    "https://www.d1ev.com/news/shichang/299544"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298750",
-      "title": "智界轿跑谍照曝光，挑战纽北赛道豪华超跑新标杆",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298748",
-      "title": "大众ID.ERA5S首发！全球首款城市NOA智驾轿车亮相",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298746",
-      "title": "启境GT7曝光：6月上市，续航900km，华为激光雷达加持！",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298741",
-      "title": "宝马Alpina概念车亮相：优雅GT新方向，豪华定制化未来",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298740",
-      "title": "广汽华为合作启境GT7曝光：续航高达900km，智能技术加持",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298737",
-      "title": "领克07GT插混旅行车亮相：200公里纯电续航+1.6吨牵引力",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298749",
-      "title": "佛州大学枪击案家属起诉OpenAI：ChatGPT被指助长暴力",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/298745",
-      "title": "燃油车市场进一步收缩，4月新能源车零售渗透率首破60%，出口猛增111.8%",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298743",
-      "title": "AI赋能K歌平台SingDrive发布，车内秒变私人KTV",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298742",
-      "title": "上海张江AI商店开业：500款智能潮品等你体验！",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298739",
-      "title": "新能源车企“锁电”风波：真相揭秘与行业监管",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/298734",
-      "title": "销量下滑，车价反涨？4月车市“油电分化”加速：燃油车遇冷，新能源渗透率破60%",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298731",
-      "title": "阿里云推出团队版TokenPlan，AI大模型服务升级助力企业办公",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298730",
-      "title": "理想L9Livis挑战全球顶尖SUV，800V悬架技术突破！",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298729",
-      "title": "美议员联手施压特朗普：坚决禁止中国车企进入美国市场",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298728",
-      "title": "保时捷全球销量下滑，中国市场投资不减反增",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298751",
-      "title": "联发科MDDC2026大会将启：全域智能新体验，50+大厂共探未来",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298747",
-      "title": "问界M8保值率超85%，领跑高端插混市场新标杆",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298744",
-      "title": "“侵权赔偿16万！男子公开向赛力斯汽车道歉”",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298736",
-      "title": "极氪9X&001升级：智能驾驶新体验，多项功能全面进化",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/298733",
-      "title": "沃尔沃中国区一把手换人！吉利并购沃尔沃汽车的功臣辞任，奔驰前高管接棒",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298732",
-      "title": "“小米汽车名誉维权胜诉，造谣者公开道歉”",
-      "source": "第一电动",
-      "pushedAt": 1778510373662
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298761",
       "title": "领克07GT猎装车亮相：高阶辅助驾驶+超200km纯电续航",
@@ -6387,6 +6255,90 @@
       "title": "特斯拉Model Y座椅防夹功能：玩具鸭子测试自动回弹",
       "source": "第一电动",
       "pushedAt": 1779104769689
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299556",
+      "title": "小米YU7GT跑车级SUV 2.95秒破百 5月21日震撼上市",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299555",
+      "title": "小米汽车昆仑车型独立品牌“寻天”亮相，增程SUV下半年发布",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299554",
+      "title": "比亚迪腾势N9闪充版上市，40.98万起售，续航1520km，5分钟充能70%",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/299553",
+      "title": "魏牌V9X正式上市：34.98万元起，搭载2.0T超级Hi4混动，综合续航1",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299552",
+      "title": "比亚迪腾势N9闪充版上市：40.98万起售，3.7秒破百，续航1520km",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/299551",
+      "title": "魏牌V9X正式上市 售价34.98-38.98万元",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299550",
+      "title": "腾势N9闪充版上市，成交均价超36万，中国新能源豪华车全球崛起",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299549",
+      "title": "长城魏牌V9X豪华六座SUV上市，34.98万起售，4秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299557",
+      "title": "百度AI收入首超半壁江山，一季度业绩却三连降",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299548",
+      "title": "华为小艺简报功能升级：老机型Mate70/60系列重新上线，AI助手更智能！",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299547",
+      "title": "腾讯“吐司”AI应用生成平台上线：一键将想法变App",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299546",
+      "title": "南北奥迪战略调整新动向：一汽奥迪全揽油电车，上汽奥迪专注纯电发展",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299545",
+      "title": "特斯拉FSD功能未兑现，老车主维权胜诉获赔7万余元",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/299544",
+      "title": "不止纯电怕冷：AAA权威实测，混动车型低温能效衰减同样显著",
+      "source": "第一电动",
+      "pushedAt": 1779117494819
     }
   ],
   "lastUpdated": "2026-05-18"
