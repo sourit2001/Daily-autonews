@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/297472",
-    "https://www.d1ev.com/newsflash/297470",
-    "https://www.d1ev.com/newsflash/297552",
     "https://www.d1ev.com/newsflash/297551",
     "https://www.d1ev.com/news/qiye/297545",
     "https://www.d1ev.com/newsflash/297540",
@@ -1999,21 +1996,12 @@
     "https://www.d1ev.com/news/shichang/299703",
     "https://www.d1ev.com/newsflash/299694",
     "https://www.d1ev.com/newsflash/299691",
-    "https://www.d1ev.com/newsflash/299685"
+    "https://www.d1ev.com/newsflash/299685",
+    "https://www.d1ev.com/newsflash/299707",
+    "https://www.d1ev.com/newsflash/299706",
+    "https://www.d1ev.com/newsflash/299705"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298907",
-      "title": "四月新能源车市大爆发：燃油车仅一款车型上榜，渗透率首破60%！",
-      "source": "第一电动",
-      "pushedAt": 1778608508281
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298908",
-      "title": "“8家车企锁电风波：真相大反转，监管与车企辟谣战”",
-      "source": "第一电动",
-      "pushedAt": 1778608508281
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298911",
       "title": "极狐汽车4月销量飙升，两款新车预售火爆，B级纯电轿车阿尔法S5销量领先",
@@ -6357,7 +6345,25 @@
       "title": "DeepSeek回应“”异常：无安全隐私风险，将优化模型",
       "source": "第一电动",
       "pushedAt": 1779202168389
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299707",
+      "title": "谷歌AI新突破：月处理3200万亿Token，GeminiApp用户破9亿",
+      "source": "第一电动",
+      "pushedAt": 1779213580443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299706",
+      "title": "谷歌I/O大会震撼发布：GeminiOmni全能AI模型登场，视频编辑一句话搞定！",
+      "source": "第一电动",
+      "pushedAt": 1779213580443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299705",
+      "title": "谷歌I/O大会新动作：Gemini集成C2PA，深度伪造无处遁形",
+      "source": "第一电动",
+      "pushedAt": 1779213580443
     }
   ],
-  "lastUpdated": "2026-05-19"
+  "lastUpdated": "2026-05-20"
 }
