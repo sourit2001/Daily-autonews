@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297551",
-    "https://www.d1ev.com/news/qiye/297545",
-    "https://www.d1ev.com/newsflash/297540",
-    "https://www.d1ev.com/news/shichang/297534",
-    "https://www.d1ev.com/newsflash/297530",
-    "https://www.d1ev.com/news/qiye/297529",
-    "https://www.d1ev.com/newsflash/297525",
-    "https://www.d1ev.com/newsflash/297523",
-    "https://www.d1ev.com/newsflash/297521",
     "https://www.d1ev.com/newsflash/297517",
     "https://www.d1ev.com/news/shichang/297510",
     "https://www.d1ev.com/news/shichang/297556",
@@ -1999,27 +1990,18 @@
     "https://www.d1ev.com/newsflash/299685",
     "https://www.d1ev.com/newsflash/299707",
     "https://www.d1ev.com/newsflash/299706",
-    "https://www.d1ev.com/newsflash/299705"
+    "https://www.d1ev.com/newsflash/299705",
+    "https://www.d1ev.com/newsflash/299715",
+    "https://www.d1ev.com/newsflash/299712",
+    "https://www.d1ev.com/newsflash/299711",
+    "https://www.d1ev.com/newsflash/299709",
+    "https://www.d1ev.com/newsflash/299708",
+    "https://www.d1ev.com/newsflash/299716",
+    "https://www.d1ev.com/newsflash/299714",
+    "https://www.d1ev.com/newsflash/299713",
+    "https://www.d1ev.com/newsflash/299710"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/298911",
-      "title": "极狐汽车4月销量飙升，两款新车预售火爆，B级纯电轿车阿尔法S5销量领先",
-      "source": "第一电动",
-      "pushedAt": 1778614946114
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298910",
-      "title": "华为广汽联手打造！启境GT7智能猎装6月上市，续航高达900km",
-      "source": "第一电动",
-      "pushedAt": 1778614946114
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/298909",
-      "title": "深蓝S05全球销量破20万，波兰上市再拓欧洲版图",
-      "source": "第一电动",
-      "pushedAt": 1778614946114
-    },
     {
       "url": "https://www.d1ev.com/newsflash/298941",
       "title": "问界M9新设计曝光：光影绘山河，智能尾灯升级，预售价49.98万起",
@@ -6363,6 +6345,60 @@
       "title": "谷歌I/O大会新动作：Gemini集成C2PA，深度伪造无处遁形",
       "source": "第一电动",
       "pushedAt": 1779213580443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299715",
+      "title": "谷歌I/O大会新动作：AI创意平台GoogleFlow升级，编辑视频更智能！",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299712",
+      "title": "谷歌I/O大会新突破：语音助手升级，Gmail、Docs、Keep更智能！",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299711",
+      "title": "谷歌I/O大会发布AI电商新协议，今夏推出智能购物车功能",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299709",
+      "title": "谷歌I/O大会新动作：100美元AI订阅计划填补市场空白",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299708",
+      "title": "谷歌I/O大会发布GeminiSpark AI助手：24小时在线，智能生活新伙伴",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299716",
+      "title": "谷歌I/O大会新突破：街景服务融合Genie打造互动3D世界",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299714",
+      "title": "谷歌I/O大会发布科研版Gemini模型，未来或模拟虚拟细胞",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299713",
+      "title": "谷歌I/O大会新亮点：AskYouTube对话式搜索上线，让视频搜索更懂你！",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299710",
+      "title": "谷歌I/O大会震撼发布：Gemini3.5Flash模型速度破纪录，12小时构建新操作系统！",
+      "source": "第一电动",
+      "pushedAt": 1779220689633
     }
   ],
   "lastUpdated": "2026-05-20"
