@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297651",
     "https://www.d1ev.com/newsflash/297650",
     "https://www.d1ev.com/carnews/xinche/297649",
     "https://www.d1ev.com/news/shichang/297647",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/qiye/299873",
     "https://www.d1ev.com/newsflash/299871",
     "https://www.d1ev.com/newsflash/299875",
-    "https://www.d1ev.com/newsflash/299874"
+    "https://www.d1ev.com/newsflash/299874",
+    "https://www.d1ev.com/newsflash/299876"
   ],
   "newsHistory": [
     {
@@ -6465,6 +6465,12 @@
       "title": "小鹏GX正式上市！27.98万起，增程纯电双动力，续航高达1585km",
       "source": "第一电动",
       "pushedAt": 1779313654300
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299876",
+      "title": "小米YU7GT：千匹马力SUV如何实现705公里续航？",
+      "source": "第一电动",
+      "pushedAt": 1779318469489
     }
   ],
   "lastUpdated": "2026-05-21"
