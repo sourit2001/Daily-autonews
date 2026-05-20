@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297669",
-    "https://www.d1ev.com/carnews/xinche/297665",
     "https://www.d1ev.com/newsflash/297658",
     "https://www.d1ev.com/newsflash/297653",
     "https://www.d1ev.com/newsflash/297651",
@@ -1999,27 +1997,11 @@
     "https://www.d1ev.com/newsflash/299858",
     "https://www.d1ev.com/newsflash/299856",
     "https://www.d1ev.com/newsflash/299855",
-    "https://www.d1ev.com/newsflash/299852"
+    "https://www.d1ev.com/newsflash/299852",
+    "https://www.d1ev.com/news/qiye/299873",
+    "https://www.d1ev.com/newsflash/299871"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299061",
-      "title": "华为智界V9预售火爆，高端MPV市场迎来新变局",
-      "source": "第一电动",
-      "pushedAt": 1778695059697
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299060",
-      "title": "新能源车越做越大，停车位却“缩水”了！",
-      "source": "第一电动",
-      "pushedAt": 1778695059697
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299059",
-      "title": "美国居民经济福祉报告出炉：73%成年人感经济舒适，AI助力职业发展",
-      "source": "第一电动",
-      "pushedAt": 1778695059697
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299089",
       "title": "比亚迪方程豹8/5闪充版上市，续航超1300km，29.98万起！",
@@ -6459,7 +6441,19 @@
       "title": "车企诉讼不断，网络黑嘴生意为何愈演愈烈？",
       "source": "第一电动",
       "pushedAt": 1779288725212
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/299873",
+      "title": "小鹏GX正式上市，限时权益价26.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1779300733392
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299871",
+      "title": "AI音乐革命！StabilityAI发布能创作6分钟专业级乐曲的StabilityAudio3.0",
+      "source": "第一电动",
+      "pushedAt": 1779300733392
     }
   ],
-  "lastUpdated": "2026-05-20"
+  "lastUpdated": "2026-05-21"
 }
