@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297658",
-    "https://www.d1ev.com/newsflash/297653",
     "https://www.d1ev.com/newsflash/297651",
     "https://www.d1ev.com/newsflash/297650",
     "https://www.d1ev.com/carnews/xinche/297649",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/299855",
     "https://www.d1ev.com/newsflash/299852",
     "https://www.d1ev.com/news/qiye/299873",
-    "https://www.d1ev.com/newsflash/299871"
+    "https://www.d1ev.com/newsflash/299871",
+    "https://www.d1ev.com/newsflash/299875",
+    "https://www.d1ev.com/newsflash/299874"
   ],
   "newsHistory": [
     {
@@ -6453,6 +6453,18 @@
       "title": "AI音乐革命！StabilityAI发布能创作6分钟专业级乐曲的StabilityAudio3.0",
       "source": "第一电动",
       "pushedAt": 1779300733392
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299875",
+      "title": "红旗HQ9正式上市！33.88万起售，插混动力+豪华内饰升级",
+      "source": "第一电动",
+      "pushedAt": 1779313654300
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/299874",
+      "title": "小鹏GX正式上市！27.98万起，增程纯电双动力，续航高达1585km",
+      "source": "第一电动",
+      "pushedAt": 1779313654300
     }
   ],
   "lastUpdated": "2026-05-21"
