@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297868",
     "https://www.d1ev.com/newsflash/297870",
     "https://www.d1ev.com/newsflash/297871",
     "https://www.d1ev.com/newsflash/297879",
@@ -1999,21 +1998,10 @@
     "https://www.d1ev.com/newsflash/300062",
     "https://www.d1ev.com/newsflash/300061",
     "https://www.d1ev.com/newsflash/300060",
-    "https://www.d1ev.com/newsflash/300059"
+    "https://www.d1ev.com/newsflash/300059",
+    "https://www.d1ev.com/newsflash/300063"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299189",
-      "title": "“尊界V800领衔，新能源车市新贵纷纷亮相工信部”",
-      "source": "第一电动",
-      "pushedAt": 1778787592468
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299190",
-      "title": "美系车在华销量暴跌，特朗普访华能否扭转颓势？",
-      "source": "第一电动",
-      "pushedAt": 1778787592468
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299230",
       "title": "小米YU7GT赛道红内饰曝光，纯电续航705km跑车级SUV月底发布",
@@ -6795,6 +6783,12 @@
       "title": "小米YU7GT震撼上市！38.99万起，纽北SUV圈速纪录刷新者",
       "source": "第一电动",
       "pushedAt": 1779385987343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300063",
+      "title": "小鹏GX价格大跳水！26.98万起售，家用六座SUV性价比新标杆",
+      "source": "第一电动",
+      "pushedAt": 1779404373476
     }
   ],
   "lastUpdated": "2026-05-22"
