@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/297869",
-    "https://www.d1ev.com/newsflash/297866",
-    "https://www.d1ev.com/newsflash/297865",
-    "https://www.d1ev.com/newsflash/297864",
     "https://www.d1ev.com/newsflash/297868",
     "https://www.d1ev.com/newsflash/297870",
     "https://www.d1ev.com/newsflash/297871",
@@ -1999,15 +1995,13 @@
     "https://www.d1ev.com/newsflash/300011",
     "https://www.d1ev.com/newsflash/300009",
     "https://www.d1ev.com/newsflash/300008",
-    "https://www.d1ev.com/newsflash/300006"
+    "https://www.d1ev.com/newsflash/300006",
+    "https://www.d1ev.com/newsflash/300062",
+    "https://www.d1ev.com/newsflash/300061",
+    "https://www.d1ev.com/newsflash/300060",
+    "https://www.d1ev.com/newsflash/300059"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299188",
-      "title": "比亚迪加速欧洲布局：接管工厂，推专属车型“海豚G”",
-      "source": "第一电动",
-      "pushedAt": 1778774924588
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299189",
       "title": "“尊界V800领衔，新能源车市新贵纷纷亮相工信部”",
@@ -6777,7 +6771,31 @@
       "title": "特斯拉转型！Model S/X生产线变人形机器人工厂，年产百万台",
       "source": "第一电动",
       "pushedAt": 1779375356092
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300062",
+      "title": "小米YU7标准版上市：23.35万起，643km续航，20分钟快充！",
+      "source": "第一电动",
+      "pushedAt": 1779385987343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300061",
+      "title": "比亚迪元PLUS焕新上市！11.99万起售，最高续航630km",
+      "source": "第一电动",
+      "pushedAt": 1779385987343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300060",
+      "title": "小米YU7GT跑车级SUV上市，38.99万起，705km续航极速300km/h！",
+      "source": "第一电动",
+      "pushedAt": 1779385987343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300059",
+      "title": "小米YU7GT震撼上市！38.99万起，纽北SUV圈速纪录刷新者",
+      "source": "第一电动",
+      "pushedAt": 1779385987343
     }
   ],
-  "lastUpdated": "2026-05-21"
+  "lastUpdated": "2026-05-22"
 }
