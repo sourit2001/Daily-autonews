@@ -5,7 +5,7 @@ const cheerio = require('cheerio');
 
 const CONFIG = {
     FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
-    DEEPSEEK_API_KEY: process.env.DEEPSEEK_API_KEY,
+    OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
     // 分类关键词
     CATEGORIES: {
         '电气化': ['纯电', '插混', '混动', 'PHEV', 'HEV', 'EV', '增程', '新能源', '电动', '电池', '续航', '充电'],
@@ -120,7 +120,7 @@ async function getNewsTimestamp(url) {
 }
 
 async function generateDailySummary(newsList) {
-    if (!CONFIG.DEEPSEEK_API_KEY) return "今日行业动态汇总。";
+    if (!CONFIG.OPENROUTER_API_KEY) return "今日行业动态汇总。";
 
     const titles = newsList.map((n, i) => `${i + 1}. 【${n.source}】${n.title}`).join('\n');
     const prompt = `你是一个拥有 20 年经验的汽车行业资深主编和首席市场分析师。
@@ -160,17 +160,18 @@ ${titles}`;
     try {
         const response = await new Promise((resolve, reject) => {
             const postData = JSON.stringify({
-                model: 'deepseek-v4-flash',
+                model: 'deepseek/deepseek-v4-flash:free',
                 messages: [{ role: 'user', content: prompt }],
                 temperature: 0.7,
                 max_tokens: 2000
             });
 
-            const req = https.request('https://api.deepseek.com/chat/completions', {
+            const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${CONFIG.DEEPSEEK_API_KEY}`
+                    'Authorization': `Bearer ${CONFIG.OPENROUTER_API_KEY}`,
+                    'HTTP-Referer': 'https://github.com/sourit2001/Daily-autonews'
                 },
                 timeout: 60000
             }, (res) => {
@@ -221,7 +222,7 @@ async function sendToFeishu(summary, dateStr) {
         {
             tag: 'note',
             elements: [
-                { tag: 'plain_text', content: `📊 驱动：DeepSeek-V4-Flash |  来源：多源聚合` }
+                { tag: 'plain_text', content: `📊 驱动：DeepSeek-V4-Flash (OpenRouter) |  来源：多源聚合` }
             ]
         }
     ];
@@ -273,8 +274,8 @@ async function main() {
     console.log('🚀 每日要闻总结任务启动');
     
     // 检查环境变量
-    if (!process.env.FEISHU_WEBHOOK || !process.env.DEEPSEEK_API_KEY) {
-        console.warn('⚠️ 警告: 缺少环境变量 FEISHU_WEBHOOK 或 DEEPSEEK_API_KEY');
+    if (!process.env.FEISHU_WEBHOOK || !process.env.OPENROUTER_API_KEY) {
+        console.warn('⚠️ 警告: 缺少环境变量 FEISHU_WEBHOOK 或 OPENROUTER_API_KEY');
         console.log('💡 建议运行: node --env-file=.env scripts/daily-summary.js');
     }
 

@@ -5,7 +5,7 @@ const cheerio = require('cheerio');
 
 const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
-  DEEPSEEK_API_KEY: process.env.DEEPSEEK_API_KEY,
+  OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -309,9 +309,9 @@ async function fetchNewsDetail(url) {
   }
 }
 
-// 使用 DeepSeek 生成摘要
+// 使用 OpenRouter (DeepSeek) 生成摘要
 async function generateSummary(title, content) {
-  if (!CONFIG.DEEPSEEK_API_KEY) {
+  if (!CONFIG.OPENROUTER_API_KEY) {
     return title;
   }
 
@@ -354,17 +354,18 @@ async function generateSummary(title, content) {
   try {
     const response = await new Promise((resolve, reject) => {
       const postData = JSON.stringify({
-        model: 'deepseek-v4-flash',
+        model: 'deepseek/deepseek-v4-flash:free',
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
         max_tokens: 500
       });
 
-      const req = https.request('https://api.deepseek.com/chat/completions', {
+      const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${CONFIG.DEEPSEEK_API_KEY}`,
+          'Authorization': `Bearer ${CONFIG.OPENROUTER_API_KEY}`,
+          'HTTP-Referer': 'https://github.com/sourit2001/Daily-autonews',
           'Content-Length': Buffer.byteLength(postData)
         },
         timeout: 30000
@@ -757,7 +758,7 @@ async function main() {
         }
 
         // 使用 AI 为每条新闻生成深度摘要
-        if (CONFIG.DEEPSEEK_API_KEY) {
+        if (CONFIG.OPENROUTER_API_KEY) {
           news.summary = await generateSummary(news.title, content);
         } else {
           news.summary = content ? content.slice(0, 100) + '...' : news.title;
