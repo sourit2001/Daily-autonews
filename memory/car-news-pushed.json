@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298058",
-    "https://www.d1ev.com/newsflash/298041",
-    "https://www.d1ev.com/news/qiye/298073",
-    "https://www.d1ev.com/news/qiye/298071",
-    "https://www.d1ev.com/newsflash/298070",
-    "https://www.d1ev.com/newsflash/298068",
-    "https://www.d1ev.com/newsflash/298067",
-    "https://www.d1ev.com/news/shichang/298064",
-    "https://www.d1ev.com/news/shichang/298063",
     "https://www.d1ev.com/newsflash/298059",
     "https://www.d1ev.com/newsflash/298057",
     "https://www.d1ev.com/newsflash/298056",
@@ -1999,21 +1990,18 @@
     "https://www.d1ev.com/carnews/xinche/300250",
     "https://www.d1ev.com/news/qiye/300249",
     "https://www.d1ev.com/newsflash/300248",
-    "https://www.d1ev.com/news/shichang/300247"
+    "https://www.d1ev.com/news/shichang/300247",
+    "https://www.d1ev.com/newsflash/300259",
+    "https://www.d1ev.com/carnews/xinche/300257",
+    "https://www.d1ev.com/carnews/xinche/300256",
+    "https://www.d1ev.com/newsflash/300254",
+    "https://www.d1ev.com/newsflash/300253",
+    "https://www.d1ev.com/newsflash/300261",
+    "https://www.d1ev.com/newsflash/300260",
+    "https://www.d1ev.com/carnews/xinche/300258",
+    "https://www.d1ev.com/newsflash/300255"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299388",
-      "title": "比亚迪王传福：20年前布局新能源，如今证明方向正确",
-      "source": "第一电动",
-      "pushedAt": 1778936971955
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299389",
-      "title": "问界M9系列预订破5万，49.98万起售，800V高压平台新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1778936971955
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299393",
       "title": "Stellantis与东风汽车合作，标致Jeep新车将全球销售",
@@ -6741,6 +6729,60 @@
       "title": "徐留平接受审查调查，曾任一汽、长安董事长",
       "source": "第一电动",
       "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300259",
+      "title": "东风奕派M8全球首秀：华为技术加持，纯电增程双动力中大型SUV亮相",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300257",
+      "title": "大众汽车安徽与众06正式上市 售14.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300256",
+      "title": "大众汽车安徽与众07正式上市 售12.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300254",
+      "title": "岚图泰山X8震撼上市！29.29万起售，18小时订单破万",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300253",
+      "title": "2027款星途瑶光SUV上市，13.79万起售，混动版纯电续航120km+",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300261",
+      "title": "63%员工夸大AI技能求优势，职场“假装懂AI”现象泛滥",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300260",
+      "title": "蔚来萤火虫第6万台交付！焕新升级款售价11.98万起",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300258",
+      "title": "华派黄金标准大六座 东风奕派M8正式发布",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300255",
+      "title": "DeepSeek API升级：输出加速，服务扩容，价格调整倒计时！",
+      "source": "第一电动",
+      "pushedAt": 1779541913727
     }
   ],
   "lastUpdated": "2026-05-23"
