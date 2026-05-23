@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298059",
-    "https://www.d1ev.com/newsflash/298057",
-    "https://www.d1ev.com/newsflash/298056",
-    "https://www.d1ev.com/news/qiye/298054",
-    "https://www.d1ev.com/newsflash/298052",
-    "https://www.d1ev.com/newsflash/298050",
-    "https://www.d1ev.com/newsflash/298042",
-    "https://www.d1ev.com/newsflash/298040",
-    "https://www.d1ev.com/newsflash/298039",
     "https://www.d1ev.com/news/shichang/298038",
     "https://www.d1ev.com/news/shichang/298037",
     "https://www.d1ev.com/news/shichang/298029",
@@ -1999,33 +1990,18 @@
     "https://www.d1ev.com/newsflash/300261",
     "https://www.d1ev.com/newsflash/300260",
     "https://www.d1ev.com/carnews/xinche/300258",
-    "https://www.d1ev.com/newsflash/300255"
+    "https://www.d1ev.com/newsflash/300255",
+    "https://www.d1ev.com/newsflash/300270",
+    "https://www.d1ev.com/newsflash/300269",
+    "https://www.d1ev.com/carnews/xinche/300265",
+    "https://www.d1ev.com/carnews/xinche/300264",
+    "https://www.d1ev.com/news/shichang/300262",
+    "https://www.d1ev.com/news/qiye/300271",
+    "https://www.d1ev.com/newsflash/300268",
+    "https://www.d1ev.com/newsflash/300266",
+    "https://www.d1ev.com/newsflash/300267"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299393",
-      "title": "Stellantis与东风汽车合作，标致Jeep新车将全球销售",
-      "source": "第一电动",
-      "pushedAt": 1778943075250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299391",
-      "title": "马耳他全球首创：全民免费享ChatGPTPlus一年",
-      "source": "第一电动",
-      "pushedAt": 1778943075250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299392",
-      "title": "杭州具身智能基地启用，机器人产业迎来国家级训练场",
-      "source": "第一电动",
-      "pushedAt": 1778943075250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299390",
-      "title": "小米YU7GT展车全国82城陆续到店，5月底开放试驾体验！",
-      "source": "第一电动",
-      "pushedAt": 1778943075250
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299395",
       "title": "燃油车市场大降价！长安新车6.49万起，新能源车市占比超60%",
@@ -6783,6 +6759,60 @@
       "title": "DeepSeek API升级：输出加速，服务扩容，价格调整倒计时！",
       "source": "第一电动",
       "pushedAt": 1779541913727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300270",
+      "title": "吉利银河星耀7MAX上市23小时订单破万，智能座舱+雷神电混系统引领中型轿车新潮流",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300269",
+      "title": "吉利银河星耀7震撼上市，10.68万起享四驱豪华体验！",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300265",
+      "title": "长安逸动蓝鲸超擎上市 售价8.99-9.99万元",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300264",
+      "title": "长安CS75蓝鲸超擎上市 售价10.99-13.99万元",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300262",
+      "title": "10.99万元起售，大众安徽与众07&与众06正式上市",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300271",
+      "title": "东风奕派M8全球首秀，搭载华为乾崑智驾ADS 5 Pro，定位“华派黄",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300268",
+      "title": "大众智能电动新突破：与众07搭载CEA架构，15万级SUV价值新定义",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300266",
+      "title": "宝马iX1欧洲交付受阻，轮毂短缺致订单延迟三个月",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300267",
+      "title": "“词元经济爆发：日调用量激增至140万亿次，国家数据局力推高质量发展”",
+      "source": "第一电动",
+      "pushedAt": 1779548174883
     }
   ],
   "lastUpdated": "2026-05-23"
