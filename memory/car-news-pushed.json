@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/298036",
-    "https://www.d1ev.com/newsflash/298033",
-    "https://www.d1ev.com/newsflash/298031",
-    "https://www.d1ev.com/news/qiye/298027",
-    "https://www.d1ev.com/newsflash/298025",
-    "https://www.d1ev.com/news/shichang/298066",
-    "https://www.d1ev.com/newsflash/298061",
     "https://www.d1ev.com/newsflash/298058",
     "https://www.d1ev.com/newsflash/298041",
     "https://www.d1ev.com/news/qiye/298073",
@@ -1999,39 +1992,16 @@
     "https://www.d1ev.com/newsflash/300242",
     "https://www.d1ev.com/newsflash/300240",
     "https://www.d1ev.com/newsflash/300238",
-    "https://www.d1ev.com/newsflash/300234"
+    "https://www.d1ev.com/newsflash/300234",
+    "https://www.d1ev.com/newsflash/300246",
+    "https://www.d1ev.com/newsflash/300252",
+    "https://www.d1ev.com/newsflash/300251",
+    "https://www.d1ev.com/carnews/xinche/300250",
+    "https://www.d1ev.com/news/qiye/300249",
+    "https://www.d1ev.com/newsflash/300248",
+    "https://www.d1ev.com/news/shichang/300247"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299384",
-      "title": "“腾势N9闪充版震撼上市：5分钟快充+420km续航，告别里程焦虑”",
-      "source": "第一电动",
-      "pushedAt": 1778929103240
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299387",
-      "title": "小米AI新突破：miclaw将赋能超级小爱同学，智能体验再升级",
-      "source": "第一电动",
-      "pushedAt": 1778929103240
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299385",
-      "title": "小米YU7GT跑车级SUV到店，45万起售，705km续航极速300km/h",
-      "source": "第一电动",
-      "pushedAt": 1778929103240
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299386",
-      "title": "比亚迪宋UltraEV挑战4395公里横贯中国行，闪充技术重塑纯电出行标杆",
-      "source": "第一电动",
-      "pushedAt": 1778929103240
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299383",
-      "title": "零跑Lafa5升级：6大新功能+11项优化，智能驾驶体验再升级！",
-      "source": "第一电动",
-      "pushedAt": 1778929103240
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299388",
       "title": "比亚迪王传福：20年前布局新能源，如今证明方向正确",
@@ -6729,6 +6699,48 @@
       "title": "智元发布BFM-2模型：机器人“肌肉记忆”实现快速站起与平衡",
       "source": "第一电动",
       "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300246",
+      "title": "东风奕派M8全球首秀：华为技术加持，纯电增程双动力来袭",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300252",
+      "title": "特斯拉FSD监督版中国落地在即，马斯克预言或将成真",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300251",
+      "title": "大疆白皮书：无人机物流商业化面临三大瓶颈",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300250",
+      "title": "揭秘长安汽车内幕交易案：与华为合作前双方员工精准买入，获利400余万被罚1669万",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300249",
+      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300248",
+      "title": "蔚来ES8销量破11万，连续五月夺40万以上车型销冠",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300247",
+      "title": "徐留平接受审查调查，曾任一汽、长安董事长",
+      "source": "第一电动",
+      "pushedAt": 1779534376766
     }
   ],
   "lastUpdated": "2026-05-23"
