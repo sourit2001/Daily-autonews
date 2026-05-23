@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/298028",
-    "https://www.d1ev.com/newsflash/298026",
     "https://www.d1ev.com/newsflash/298095",
     "https://www.d1ev.com/newsflash/298089",
     "https://www.d1ev.com/newsflash/298088",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/300267",
     "https://www.d1ev.com/news/qiye/300282",
     "https://www.d1ev.com/newsflash/300281",
-    "https://www.d1ev.com/newsflash/300280"
+    "https://www.d1ev.com/newsflash/300280",
+    "https://www.d1ev.com/news/qiye/300283",
+    "https://www.d1ev.com/newsflash/300285"
   ],
   "newsHistory": [
     {
@@ -6825,6 +6825,18 @@
       "title": "OpenAI高薪招聘AI安全研究员，年薪高达303万！",
       "source": "第一电动",
       "pushedAt": 1779555264832
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300283",
+      "title": "第四代CS75PLUS蓝鲸超擎上市交付，四款配置齐发，上市抢购价10.9",
+      "source": "第一电动",
+      "pushedAt": 1779568917194
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300285",
+      "title": "深蓝汽车携手葡萄牙国家队，全球主场宣言正式开启",
+      "source": "第一电动",
+      "pushedAt": 1779568917194
     }
   ],
   "lastUpdated": "2026-05-24"
