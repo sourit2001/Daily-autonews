@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/297989",
-    "https://www.d1ev.com/news/shichang/297985",
-    "https://www.d1ev.com/news/shichang/297984",
-    "https://www.d1ev.com/newsflash/298007",
-    "https://www.d1ev.com/news/shichang/297983",
-    "https://www.d1ev.com/news/qiye/297981",
-    "https://www.d1ev.com/news/shichang/298015",
-    "https://www.d1ev.com/news/shichang/298012",
-    "https://www.d1ev.com/news/shichang/298009",
-    "https://www.d1ev.com/newsflash/298005",
-    "https://www.d1ev.com/news/shichang/298003",
     "https://www.d1ev.com/news/shichang/298000",
     "https://www.d1ev.com/news/qiye/297999",
     "https://www.d1ev.com/newsflash/297998",
@@ -1999,87 +1988,20 @@
     "https://www.d1ev.com/news/shichang/300168",
     "https://www.d1ev.com/newsflash/300167",
     "https://www.d1ev.com/news/qiye/300163",
-    "https://www.d1ev.com/news/qiye/300205"
+    "https://www.d1ev.com/news/qiye/300205",
+    "https://www.d1ev.com/carnews/xinche/300215",
+    "https://www.d1ev.com/newsflash/300213",
+    "https://www.d1ev.com/carnews/xinche/300209",
+    "https://www.d1ev.com/newsflash/300207",
+    "https://www.d1ev.com/newsflash/300210",
+    "https://www.d1ev.com/newsflash/300217",
+    "https://www.d1ev.com/newsflash/300216",
+    "https://www.d1ev.com/news/shichang/300214",
+    "https://www.d1ev.com/news/shichang/300212",
+    "https://www.d1ev.com/newsflash/300211",
+    "https://www.d1ev.com/news/shichang/300208"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299346",
-      "title": "鸿蒙智行智界V9震撼上市，挑战极氪009豪华MPV市场",
-      "source": "第一电动",
-      "pushedAt": 1778873017242
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299345",
-      "title": "奥迪E7X预售价大跳水，降幅超30%挑战宝马X5！",
-      "source": "第一电动",
-      "pushedAt": 1778873017242
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/299347",
-      "title": "仅1.5吨量零百6.8 秒 大众ID.Polo GTI发布：约售31万元",
-      "source": "第一电动",
-      "pushedAt": 1778873017242
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299348",
-      "title": "纯电ID.PoloGTI纽博格林首发，6.8秒破百续航424公里！",
-      "source": "第一电动",
-      "pushedAt": 1778878549919
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299356",
-      "title": "6.49万起！长安逸动经典版上市，1.5T新蓝鲸引擎动力强劲",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299355",
-      "title": "理想L9Livis首发高通骁龙5G技术，双卡双通引领智能驾驶新体验",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299354",
-      "title": "比亚迪海豚插混版谍照曝光，专为欧洲市场打造6月发布",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/299353",
-      "title": "智界V9上市大定突破7000台 多数用户选高配",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299352",
-      "title": "OpenAI ChatGPT Pro新增个人理财功能，美国用户抢先体验",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299349",
-      "title": "法拉第未来再获2500万美元融资，全力推进AI机器人战略",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299357",
-      "title": "Stellantis与东风深化合作，雷恩工厂将产东风车型避欧盟关税",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/299351",
-      "title": "整备质量仅1.5吨 大众ID.Polo GTI发布",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299350",
-      "title": "国乒主帅王皓喜提极氪8X，2.96秒破百动力惊人",
-      "source": "第一电动",
-      "pushedAt": 1778898538800
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299370",
       "title": "奇瑞风云T9长续航版上市：1800公里超长续航，10.99万起售！",
@@ -6723,6 +6645,72 @@
       "title": "5.98万元起！极狐贝塔S3正式上市：B级大空间、99秒换电",
       "source": "第一电动",
       "pushedAt": 1779472048276
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300215",
+      "title": "5.98万元起 极狐贝塔S3正式上市：B级大空间",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300213",
+      "title": "五菱缤果Pro上市：续航403km，38天订单破5万！",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300209",
+      "title": "缤果Pro上市 5.68万元起 超80项全系标配",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300207",
+      "title": "英伟达市值超德GDP，AI云开支或达4万亿美元",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300210",
+      "title": "追觅科技一年半量产汽车 海外市场先行布局",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300217",
+      "title": "小米汽车试驾送车模活动限时回归，先到先得！",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300216",
+      "title": "鸿蒙智行问界M9系列发布会提前，预订量破5万！",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300214",
+      "title": "同时卖好增程和纯电，是不是个伪命题？",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300212",
+      "title": "Stellantis，汽车圈最严厉的父亲？",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300211",
+      "title": "小米YU7GT试驾体验超赞，38.99万起售享8.5万权益！",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300208",
+      "title": "小米YU7，再战Model Y",
+      "source": "第一电动",
+      "pushedAt": 1779503554237
     }
   ],
   "lastUpdated": "2026-05-23"
