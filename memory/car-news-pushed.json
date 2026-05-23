@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/298030",
-    "https://www.d1ev.com/news/qiye/298074",
-    "https://www.d1ev.com/news/qiye/298072",
-    "https://www.d1ev.com/newsflash/298069",
-    "https://www.d1ev.com/newsflash/298065",
-    "https://www.d1ev.com/news/shichang/298062",
-    "https://www.d1ev.com/news/shichang/298055",
-    "https://www.d1ev.com/newsflash/298053",
-    "https://www.d1ev.com/newsflash/298051",
-    "https://www.d1ev.com/newsflash/298049",
-    "https://www.d1ev.com/newsflash/298048",
-    "https://www.d1ev.com/newsflash/298046",
-    "https://www.d1ev.com/newsflash/298044",
     "https://www.d1ev.com/news/qiye/298036",
     "https://www.d1ev.com/newsflash/298033",
     "https://www.d1ev.com/newsflash/298031",
@@ -1999,81 +1986,22 @@
     "https://www.d1ev.com/newsflash/300228",
     "https://www.d1ev.com/newsflash/300223",
     "https://www.d1ev.com/newsflash/300219",
-    "https://www.d1ev.com/newsflash/300218"
+    "https://www.d1ev.com/newsflash/300218",
+    "https://www.d1ev.com/newsflash/300239",
+    "https://www.d1ev.com/newsflash/300237",
+    "https://www.d1ev.com/newsflash/300245",
+    "https://www.d1ev.com/newsflash/300241",
+    "https://www.d1ev.com/newsflash/300236",
+    "https://www.d1ev.com/newsflash/300235",
+    "https://www.d1ev.com/newsflash/300233",
+    "https://www.d1ev.com/newsflash/300244",
+    "https://www.d1ev.com/newsflash/300243",
+    "https://www.d1ev.com/newsflash/300242",
+    "https://www.d1ev.com/newsflash/300240",
+    "https://www.d1ev.com/newsflash/300238",
+    "https://www.d1ev.com/newsflash/300234"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299381",
-      "title": "蔚来乐道L80上市，沈斐暗讽理想：曾因“黑水军”事件公开交锋",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299374",
-      "title": "比亚迪“海獭”纯电K-Car日本上市，续航180公里售价250万日元",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299380",
-      "title": "谷歌严打AI投毒：操纵搜索结果将受重罚",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299378",
-      "title": "余凯预言：2035年实现L5级自动驾驶，汽车变“移动智能空间”",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299376",
-      "title": "蚂蚁集团百灵大模型Ring-2.6-1T开源，万亿旗舰AI助力复杂任务处理",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299375",
-      "title": "OpenAI重组震惊科技圈：Brockman掌舵，超级应用挑战谷歌Anthropic",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299373",
-      "title": "腾势N9闪充版SUV下线，王力宏代言，纯电续航420公里！",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299372",
-      "title": "小米YU7GT跑车级SUV来袭：705km续航+2.95秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299371",
-      "title": "比亚迪闪充站突破5900座，5分钟充电70%，续航焦虑不再！",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299382",
-      "title": "奥迪南北布局大调整：一汽获油车四环电车，上汽专注AUDI品牌发展",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299379",
-      "title": "零跑汽车OTA升级：城市领航辅助功能全国开放，智能驾驶再升级",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299377",
-      "title": "比亚迪腾势N9闪充版下线，50万台里程碑达成！",
-      "source": "第一电动",
-      "pushedAt": 1778923657715
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299384",
       "title": "“腾势N9闪充版震撼上市：5分钟快充+420km续航，告别里程焦虑”",
@@ -6723,6 +6651,84 @@
       "title": "全国首个人形机器人“身份证”平台发布，2.8万台机器人已赋码",
       "source": "第一电动",
       "pushedAt": 1779517883466
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300239",
+      "title": "大众金标轿车与众07上市，搭载CEA架构纯电续航558km",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300237",
+      "title": "五菱缤果Pro新复古纯电小车上市，最高续航403km，售价5.68万起",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300245",
+      "title": "AI工具成本飙升，微软优步预算告急，科技行业AI热潮遇冷",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300241",
+      "title": "大众新款与众06发布：13.49万起，续航528公里，智能驾驶升级",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300236",
+      "title": "ChatGPT新技能：语音填表单，AI助手让信息录入更智能！",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300235",
+      "title": "5月新能源车市强劲复苏，销量渗透率双升领涨车市",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300233",
+      "title": "AI编程工具：加速开发还是制造软件漏洞？",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300244",
+      "title": "蔚来李斌透露：三品牌销量结构3:6:1，聚焦高端市场与渠道下沉",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300243",
+      "title": "奔驰MB.DRIVEASSISTPRO系统年底登陆德国，2027年覆盖全国",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300242",
+      "title": "蔚来Q2成本压力增大，李斌：销量增长是关键",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300240",
+      "title": "蔚来ES8销量破11万，40万以上纯电SUV新纪录诞生",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300238",
+      "title": "“腾势Z9GT萧邦版高定车型戛纳拍卖555万 助力艾滋病研究”",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300234",
+      "title": "智元发布BFM-2模型：机器人“肌肉记忆”实现快速站起与平衡",
+      "source": "第一电动",
+      "pushedAt": 1779529595362
     }
   ],
   "lastUpdated": "2026-05-23"
