@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298089",
-    "https://www.d1ev.com/newsflash/298088",
-    "https://www.d1ev.com/newsflash/298084",
-    "https://www.d1ev.com/newsflash/298077",
-    "https://www.d1ev.com/newsflash/298093",
-    "https://www.d1ev.com/newsflash/298087",
-    "https://www.d1ev.com/newsflash/298082",
-    "https://www.d1ev.com/newsflash/298080",
-    "https://www.d1ev.com/news/qiye/298078",
-    "https://www.d1ev.com/newsflash/298076",
-    "https://www.d1ev.com/newsflash/298075",
-    "https://www.d1ev.com/news/shichang/298083",
-    "https://www.d1ev.com/newsflash/298096",
-    "https://www.d1ev.com/newsflash/298094",
-    "https://www.d1ev.com/news/shichang/298092",
     "https://www.d1ev.com/news/shichang/298091",
     "https://www.d1ev.com/news/shichang/298090",
     "https://www.d1ev.com/news/shichang/298086",
@@ -1999,51 +1984,24 @@
     "https://www.d1ev.com/newsflash/300280",
     "https://www.d1ev.com/news/qiye/300283",
     "https://www.d1ev.com/newsflash/300285",
-    "https://www.d1ev.com/newsflash/300286"
+    "https://www.d1ev.com/newsflash/300286",
+    "https://www.d1ev.com/newsflash/300301",
+    "https://www.d1ev.com/newsflash/300296",
+    "https://www.d1ev.com/carnews/xinche/300294",
+    "https://www.d1ev.com/newsflash/300291",
+    "https://www.d1ev.com/carnews/xinche/300289",
+    "https://www.d1ev.com/newsflash/300287",
+    "https://www.d1ev.com/newsflash/300300",
+    "https://www.d1ev.com/news/shichang/300299",
+    "https://www.d1ev.com/newsflash/300292",
+    "https://www.d1ev.com/newsflash/300295",
+    "https://www.d1ev.com/news/qiye/300293",
+    "https://www.d1ev.com/news/qiye/300298",
+    "https://www.d1ev.com/news/shichang/300297",
+    "https://www.d1ev.com/carnews/xinche/300290",
+    "https://www.d1ev.com/news/qiye/300288"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299402",
-      "title": "小米YU7新配色“火山灰”亮相，沉稳内敛金属质感来袭",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299399",
-      "title": "中国汽车专利全球领先！新能源车专利十年增两倍",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299396",
-      "title": "特斯拉自动驾驶事故全披露：17起碰撞真相大白",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299401",
-      "title": "特斯拉Model Y美国市场两年来首次调价，中高端车型涨价1.2%-2.2%",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299397",
-      "title": "“中国零件遍布美国车，底特律巨头难脱钩”",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299400",
-      "title": "“龙哥讲电车”因诋毁国内车企被判赔226万，比亚迪索赔最高",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/299398",
-      "title": "盖世周报 | 特朗普完成访华；立讯精密拟收购京西重工59.5%股份",
-      "source": "第一电动",
-      "pushedAt": 1778985349630
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299413",
       "title": "比亚迪方程豹闪充版上市：3分钟换胎，三轮稳行，30.58万起",
@@ -6843,6 +6801,96 @@
       "title": "长安汽车携手葡萄牙足球协会，开启全球化新征程",
       "source": "第一电动",
       "pushedAt": 1779576411074
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300301",
+      "title": "小米YU7GT暗红座舱主题亮相，38.99万元起售的纯血GT+跑车级SUV",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300296",
+      "title": "比亚迪方程豹豹5闪充版新色上市，1310公里续航+3分钟换胎技术",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300294",
+      "title": "销冠再进化！新款吉利星愿5月28日上市",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300291",
+      "title": "小米YU7GT新车上市即现“转单”潮，5000元返现背后藏猫腻？",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300289",
+      "title": "车厘子红配色 小米YU7 GT医疗车首次亮相",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300287",
+      "title": "小米YU7GT医疗车亮相赛道，红黄双车同台抢眼",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300300",
+      "title": "小米YU7真·标准版发布：643km续航23.35万起，5年低息优惠！",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300299",
+      "title": "AI手机都没用上，就想AI装车？",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300292",
+      "title": "蔚来李斌：新能源汽车行业进入品牌澄清期，聚焦高端市场",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300295",
+      "title": "沃尔沃EX30泰国起火事件引发消费者保护机构诉讼",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300293",
+      "title": "EX30起火风波未消！泰国监管机构将起诉沃尔沃 车主要退款",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300298",
+      "title": "特斯拉FSD正式更名“特斯拉辅助驾驶” 售价维持6.4万元不变",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300297",
+      "title": "2025款吉利银河M9完全评价报告",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/300290",
+      "title": "岚图泰山X8杀疯了！18小时大定15000台",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300288",
+      "title": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
+      "source": "第一电动",
+      "pushedAt": 1779590588586
     }
   ],
   "lastUpdated": "2026-05-24"
