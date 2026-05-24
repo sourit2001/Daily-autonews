@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298106",
-    "https://www.d1ev.com/newsflash/298131",
-    "https://www.d1ev.com/carnews/xinche/298129",
-    "https://www.d1ev.com/carnews/xinche/298125",
-    "https://www.d1ev.com/newsflash/298119",
-    "https://www.d1ev.com/newsflash/298117",
-    "https://www.d1ev.com/newsflash/298115",
-    "https://www.d1ev.com/newsflash/298111",
-    "https://www.d1ev.com/carnews/xinche/298109",
-    "https://www.d1ev.com/newsflash/298118",
     "https://www.d1ev.com/newsflash/298116",
     "https://www.d1ev.com/newsflash/298113",
     "https://www.d1ev.com/newsflash/298110",
@@ -1999,69 +1989,19 @@
     "https://www.d1ev.com/newsflash/300307",
     "https://www.d1ev.com/newsflash/300306",
     "https://www.d1ev.com/news/shichang/300304",
-    "https://www.d1ev.com/newsflash/300302"
+    "https://www.d1ev.com/newsflash/300302",
+    "https://www.d1ev.com/newsflash/300326",
+    "https://www.d1ev.com/newsflash/300324",
+    "https://www.d1ev.com/newsflash/300322",
+    "https://www.d1ev.com/newsflash/300320",
+    "https://www.d1ev.com/newsflash/300319",
+    "https://www.d1ev.com/newsflash/300325",
+    "https://www.d1ev.com/newsflash/300318",
+    "https://www.d1ev.com/news/shichang/300321",
+    "https://www.d1ev.com/newsflash/300317",
+    "https://www.d1ev.com/news/shichang/300323"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299426",
-      "title": "广汽昊铂S600预售开启，4.3秒破百，18.89万起售！",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299428",
-      "title": "中国电信推Token套餐：低至9.9元/月，适配AI编程与日常办公",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299420",
-      "title": "特斯拉Model Y部分车型美国市场首次涨价，入门版价格不变",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299427",
-      "title": "理想L9Livis智能泊车新体验：自动泊出、无感交互，科技感爆棚！",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299425",
-      "title": "马拉松纪录保持者萨维向荣耀机器人“闪电”发起挑战",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299424",
-      "title": "Fisker破产车主自救，开源软件拯救“孤儿车”",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299423",
-      "title": "蔚来李斌谈萤火虫品牌：高品质生活方式，单电机小车11.98万起",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299422",
-      "title": "荣耀机器人“闪电”刷新半马纪录，南京大学校园互动引关注",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299421",
-      "title": "理想L9智能旗舰SUV正式交付，45.98万起售！",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299419",
-      "title": "理想L9旗舰版发布：2580TOPS算力引领智能汽车新纪元",
-      "source": "第一电动",
-      "pushedAt": 1779010986312
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299429",
       "title": "2026年新能源汽车市场迎涨价潮，15家车企最高涨2万",
@@ -6885,6 +6825,66 @@
       "title": "小鹏GX订单爆表，MONA L03发布不受影响",
       "source": "第一电动",
       "pushedAt": 1779605896469
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300326",
+      "title": "宝马M5旅行版曝光：伪装难掩新设计，插混系统依旧强悍",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300324",
+      "title": "华为鸿蒙座舱问界M9亮相：智能灯控+手势操作，5月27日揭晓豪华体验",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300322",
+      "title": "长安第四代CS75PLUS与逸动蓝鲸超擎双车上市，油耗省一半！",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300320",
+      "title": "长安双车上市：油耗减半续航翻倍，7万起售混动新选择",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300319",
+      "title": "东风奕派M8全球首秀亮相，华为技术加持打造智能新体验",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300325",
+      "title": "人工智能成本飙升，企业开始反思AI替代人力策略",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300318",
+      "title": "“英国企业纷纷贴AI标签，公关行业吐槽‘AI洗白’现象”",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300321",
+      "title": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300317",
+      "title": "广汽集团“番禺行动”：2026年海外销量目标25-30万辆",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300323",
+      "title": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
+      "source": "第一电动",
+      "pushedAt": 1779616378256
     }
   ],
   "lastUpdated": "2026-05-24"
