@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298110",
-    "https://www.d1ev.com/news/qiye/298130",
-    "https://www.d1ev.com/news/shichang/298128",
-    "https://www.d1ev.com/news/shichang/298127",
     "https://www.d1ev.com/news/shichang/298126",
     "https://www.d1ev.com/carnews/xinche/298124",
     "https://www.d1ev.com/carnews/xinche/298123",
@@ -1999,51 +1995,13 @@
     "https://www.d1ev.com/newsflash/300317",
     "https://www.d1ev.com/news/shichang/300323",
     "https://www.d1ev.com/newsflash/300327",
-    "https://www.d1ev.com/newsflash/300328"
+    "https://www.d1ev.com/newsflash/300328",
+    "https://www.d1ev.com/newsflash/300329",
+    "https://www.d1ev.com/newsflash/300331",
+    "https://www.d1ev.com/newsflash/300332",
+    "https://www.d1ev.com/newsflash/300330"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/299437",
-      "title": "昊铂S600开启预售：权益价18.89万元起，全系标配双腔空悬+激光雷",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299434",
-      "title": "智界V9上市48小时订单破万，全景智慧旗舰MPV来袭！",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299441",
-      "title": "比亚迪闪充站建设加速，5分钟充电70%刷新纪录",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299438",
-      "title": "OpenAI开发者30天烧掉890万：AI编码革命来了？",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299436",
-      "title": "燃油车销量连降9个月，新能源车市占率突破60%",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/299440",
-      "title": "3.3万平方米！特斯拉将在拉斯维加斯建造Cybercab洗车场",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299439",
-      "title": "蔚来李斌：换电站非失血点，未来年电交易量将达200亿度",
-      "source": "第一电动",
-      "pushedAt": 1779023239945
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/299444",
       "title": "昊铂S600开启预售 预售价20.99-22.99万元",
@@ -6867,6 +6825,30 @@
       "title": "“北京中学生人形机器人足球赛落幕，中央民大附中夺冠”",
       "source": "第一电动",
       "pushedAt": 1779621095145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300329",
+      "title": "长安CS75PLUS蓝鲸超擎新上市！11.39万起，7色可选，智能驾驶辅助升级",
+      "source": "第一电动",
+      "pushedAt": 1779628336899
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300331",
+      "title": "燃油车市场萎缩，新能源车销量飙升，中国车市加速电动化转型",
+      "source": "第一电动",
+      "pushedAt": 1779628336899
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300332",
+      "title": "消息称奥迪上汽项目换帅：宋斐明转战兰博基尼，Fred Schulze接棒",
+      "source": "第一电动",
+      "pushedAt": 1779628336899
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300330",
+      "title": "周杰伦代言别克MPV，41.99万起售，5.8秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1779628336899
     }
   ],
   "lastUpdated": "2026-05-24"
