@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298116",
-    "https://www.d1ev.com/newsflash/298113",
     "https://www.d1ev.com/newsflash/298110",
     "https://www.d1ev.com/news/qiye/298130",
     "https://www.d1ev.com/news/shichang/298128",
@@ -1999,39 +1997,11 @@
     "https://www.d1ev.com/newsflash/300318",
     "https://www.d1ev.com/news/shichang/300321",
     "https://www.d1ev.com/newsflash/300317",
-    "https://www.d1ev.com/news/shichang/300323"
+    "https://www.d1ev.com/news/shichang/300323",
+    "https://www.d1ev.com/newsflash/300327",
+    "https://www.d1ev.com/newsflash/300328"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299429",
-      "title": "2026年新能源汽车市场迎涨价潮，15家车企最高涨2万",
-      "source": "第一电动",
-      "pushedAt": 1779015630034
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/299430",
-      "title": "E周看点｜比亚迪正与Stellantis等车企洽谈收购欧洲工厂；李想表示理想不会主动裁员",
-      "source": "第一电动",
-      "pushedAt": 1779015630034
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299433",
-      "title": "智界V9旗舰MPV 48小时订单破万，售价38.98万起",
-      "source": "第一电动",
-      "pushedAt": 1779015630034
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299432",
-      "title": "荣耀机器人“闪电”南京大学百米赛跑，打破人类纪录！",
-      "source": "第一电动",
-      "pushedAt": 1779015630034
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/299431",
-      "title": "小智一周要闻 | 宇树科技发布GD01载人变形机甲，390万元起；FF上调2026机器人出货目标至1500台",
-      "source": "第一电动",
-      "pushedAt": 1779015630034
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/299437",
       "title": "昊铂S600开启预售：权益价18.89万元起，全系标配双腔空悬+激光雷",
@@ -6885,6 +6855,18 @@
       "title": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
       "source": "第一电动",
       "pushedAt": 1779616378256
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300327",
+      "title": "长安逸动蓝鲸超擎新车型7.99万起，智能配置升级引关注",
+      "source": "第一电动",
+      "pushedAt": 1779621095145
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300328",
+      "title": "“北京中学生人形机器人足球赛落幕，中央民大附中夺冠”",
+      "source": "第一电动",
+      "pushedAt": 1779621095145
     }
   ],
   "lastUpdated": "2026-05-24"
