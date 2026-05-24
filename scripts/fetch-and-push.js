@@ -6,6 +6,7 @@ const cheerio = require('cheerio');
 const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
+  OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'openrouter/free',
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -309,7 +310,7 @@ async function fetchNewsDetail(url) {
   }
 }
 
-// 使用 OpenRouter (DeepSeek) 生成摘要
+// 使用 OpenRouter 生成摘要，默认由免费路由选择当前可用模型。
 async function generateSummary(title, content) {
   if (!CONFIG.OPENROUTER_API_KEY) {
     return title;
@@ -354,7 +355,7 @@ async function generateSummary(title, content) {
   try {
     const response = await new Promise((resolve, reject) => {
       const postData = JSON.stringify({
-        model: 'deepseek/deepseek-v4-flash:free',
+        model: CONFIG.OPENROUTER_MODEL,
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
         max_tokens: 500
@@ -374,26 +375,31 @@ async function generateSummary(title, content) {
         res.on('data', chunk => data += chunk);
         res.on('end', () => {
           try {
-            resolve(JSON.parse(data));
+            resolve({ statusCode: res.statusCode, body: JSON.parse(data) });
           } catch (e) {
-            resolve(null);
+            reject(new Error(`OpenRouter 返回非 JSON (HTTP ${res.statusCode}): ${data.slice(0, 200)}`));
           }
         });
       });
       req.on('error', reject);
-      req.on('timeout', () => reject(new Error('timeout')));
+      req.on('timeout', () => req.destroy(new Error('OpenRouter 请求超时')));
       req.write(postData);
       req.end();
     });
 
-    if (response?.choices?.[0]) {
-      let summary = response.choices[0].message.content.trim().replace(/^["']|["']$/g, '');
+    const { statusCode, body } = response;
+    if (body?.choices?.[0]) {
+      let summary = body.choices[0].message.content.trim().replace(/^["']|["']$/g, '');
+      console.log(`  [AI摘要] 成功: ${body.model || CONFIG.OPENROUTER_MODEL}`);
       // 对于EV晨报，清理格式
       if (isEVMorning) {
         summary = summary.replace(/^\d+\.\s*/gm, '').replace(/\n/g, '；').replace(/；；/g, '；');
       }
       return summary;
     }
+
+    const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 300);
+    console.error(`  ⚠️ OpenRouter 摘要失败 (HTTP ${statusCode}, model=${CONFIG.OPENROUTER_MODEL}): ${errorMessage}`);
   } catch (e) {
     console.log(`  ⚠️ 摘要生成失败: ${e.message}`);
   }
@@ -606,6 +612,7 @@ async function syncToBitable(newsList) {
 async function main() {
   console.log('🚀 每日汽车新闻推送开始');
   console.log(`📅 时间: ${new Date().toLocaleString('zh-CN')}`);
+  console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL}`);
   console.log('='.repeat(50));
 
   try {

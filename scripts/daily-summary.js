@@ -6,6 +6,7 @@ const cheerio = require('cheerio');
 const CONFIG = {
     FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
     OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
+    OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'openrouter/free',
     // 分类关键词
     CATEGORIES: {
         '电气化': ['纯电', '插混', '混动', 'PHEV', 'HEV', 'EV', '增程', '新能源', '电动', '电池', '续航', '充电'],
@@ -160,7 +161,7 @@ ${titles}`;
     try {
         const response = await new Promise((resolve, reject) => {
             const postData = JSON.stringify({
-                model: 'deepseek/deepseek-v4-flash:free',
+                model: CONFIG.OPENROUTER_MODEL,
                 messages: [{ role: 'user', content: prompt }],
                 temperature: 0.7,
                 max_tokens: 2000
@@ -179,22 +180,25 @@ ${titles}`;
                 res.on('data', chunk => data += chunk);
                 res.on('end', () => {
                     try {
-                        resolve(JSON.parse(data));
+                        resolve({ statusCode: res.statusCode, body: JSON.parse(data) });
                     } catch (e) {
-                        resolve(null);
+                        reject(new Error(`OpenRouter 返回非 JSON (HTTP ${res.statusCode}): ${data.slice(0, 200)}`));
                     }
                 });
             });
             req.on('error', reject);
+            req.on('timeout', () => req.destroy(new Error('OpenRouter 请求超时')));
             req.write(postData);
             req.end();
         });
 
-        if (!response?.choices?.[0]) {
-            console.error('❌ AI 响应异常:', JSON.stringify(response, null, 2));
+        const { statusCode, body } = response;
+        if (!body?.choices?.[0]) {
+            const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 500);
+            console.error(`❌ OpenRouter 总结失败 (HTTP ${statusCode}, model=${CONFIG.OPENROUTER_MODEL}): ${errorMessage}`);
             return "今日行业动态汇总正在生成中（响应异常）。";
         }
-        return response.choices[0].message.content;
+        return body.choices[0].message.content;
     } catch (e) {
         console.error('AI 总结生成失败:', e);
         return "今日行业动态丰富，主要集中在电气化转型和海外市场拓展。";
@@ -222,7 +226,7 @@ async function sendToFeishu(summary, dateStr) {
         {
             tag: 'note',
             elements: [
-                { tag: 'plain_text', content: `📊 驱动：DeepSeek-V4-Flash (OpenRouter) |  来源：多源聚合` }
+                { tag: 'plain_text', content: `📊 驱动：${CONFIG.OPENROUTER_MODEL} (OpenRouter) |  来源：多源聚合` }
             ]
         }
     ];
@@ -278,6 +282,7 @@ async function main() {
         console.warn('⚠️ 警告: 缺少环境变量 FEISHU_WEBHOOK 或 OPENROUTER_API_KEY');
         console.log('💡 建议运行: node --env-file=.env scripts/daily-summary.js');
     }
+    console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL}`);
 
     try {
         const HISTORY_FILE = path.join(__dirname, '../memory/car-news-pushed.json');
