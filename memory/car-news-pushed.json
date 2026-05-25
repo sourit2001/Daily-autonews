@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298223",
     "https://www.d1ev.com/newsflash/298222",
     "https://www.d1ev.com/newsflash/298217",
     "https://www.d1ev.com/newsflash/298215",
@@ -1999,93 +1998,10 @@
     "https://www.d1ev.com/news/shichang/300424",
     "https://www.d1ev.com/newsflash/300421",
     "https://www.d1ev.com/newsflash/300417",
-    "https://www.d1ev.com/newsflash/300412"
+    "https://www.d1ev.com/newsflash/300412",
+    "https://www.d1ev.com/newsflash/300455"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299556",
-      "title": "小米YU7GT跑车级SUV 2.95秒破百 5月21日震撼上市",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299555",
-      "title": "小米汽车昆仑车型独立品牌“寻天”亮相，增程SUV下半年发布",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299554",
-      "title": "比亚迪腾势N9闪充版上市，40.98万起售，续航1520km，5分钟充能70%",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/299553",
-      "title": "魏牌V9X正式上市：34.98万元起，搭载2.0T超级Hi4混动，综合续航1",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299552",
-      "title": "比亚迪腾势N9闪充版上市：40.98万起售，3.7秒破百，续航1520km",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/299551",
-      "title": "魏牌V9X正式上市 售价34.98-38.98万元",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299550",
-      "title": "腾势N9闪充版上市，成交均价超36万，中国新能源豪华车全球崛起",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299549",
-      "title": "长城魏牌V9X豪华六座SUV上市，34.98万起售，4秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299557",
-      "title": "百度AI收入首超半壁江山，一季度业绩却三连降",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299548",
-      "title": "华为小艺简报功能升级：老机型Mate70/60系列重新上线，AI助手更智能！",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299547",
-      "title": "腾讯“吐司”AI应用生成平台上线：一键将想法变App",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299546",
-      "title": "南北奥迪战略调整新动向：一汽奥迪全揽油电车，上汽奥迪专注纯电发展",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299545",
-      "title": "特斯拉FSD功能未兑现，老车主维权胜诉获赔7万余元",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/299544",
-      "title": "不止纯电怕冷：AAA权威实测，混动车型低温能效衰减同样显著",
-      "source": "第一电动",
-      "pushedAt": 1779117494819
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299563",
       "title": "哈弗猛龙PLUS上市：激光雷达加持，纯电续航255km，七座版灵活空间升级",
@@ -6873,7 +6789,13 @@
       "title": "宝马M3迎来终章：2027款成绝唱，纯电版明年慕尼黑投产",
       "source": "第一电动",
       "pushedAt": 1779714058521
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300455",
+      "title": "小米YU7磷酸铁锂电池安全测试超国标 碳陶刹车盘寿命达50万公里",
+      "source": "第一电动",
+      "pushedAt": 1779725951541
     }
   ],
-  "lastUpdated": "2026-05-25"
+  "lastUpdated": "2026-05-26"
 }
