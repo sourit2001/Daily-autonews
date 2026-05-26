@@ -6,8 +6,9 @@ const cheerio = require('cheerio');
 const CONFIG = {
     FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
     OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
-    OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free',
-    OPENROUTER_FALLBACK_MODEL: process.env.OPENROUTER_FALLBACK_MODEL || 'openrouter/free',
+    OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'qwen/qwen3-32b:free',
+    OPENROUTER_FALLBACK_MODELS: (process.env.OPENROUTER_FALLBACK_MODELS || process.env.OPENROUTER_FALLBACK_MODEL || 'minimax/minimax-m2.5:free,z-ai/glm-4.5-air:free')
+        .split(',').map(model => model.trim()).filter(Boolean),
     // 分类关键词
     CATEGORIES: {
         '电气化': ['纯电', '插混', '混动', 'PHEV', 'HEV', 'EV', '增程', '新能源', '电动', '电池', '续航', '充电'],
@@ -15,6 +16,10 @@ const CONFIG = {
         '国际化': ['出海', '出口', '海外', '全球', '国际', '漫游', '欧洲', '美国']
     }
 };
+
+function openRouterModels() {
+    return [...new Set([CONFIG.OPENROUTER_MODEL, ...CONFIG.OPENROUTER_FALLBACK_MODELS])];
+}
 
 // 获取特定时区的时间
 function getZonedDateTime() {
@@ -162,7 +167,7 @@ ${titles}`;
     try {
         const response = await new Promise((resolve, reject) => {
             const postData = JSON.stringify({
-                models: [...new Set([CONFIG.OPENROUTER_MODEL, CONFIG.OPENROUTER_FALLBACK_MODEL])],
+                models: openRouterModels(),
                 messages: [{ role: 'user', content: prompt }],
                 temperature: 0.7,
                 max_tokens: 2000
@@ -196,7 +201,7 @@ ${titles}`;
         const { statusCode, body } = response;
         if (!body?.choices?.[0]) {
             const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 500);
-            console.error(`❌ OpenRouter 总结失败 (HTTP ${statusCode}, models=${CONFIG.OPENROUTER_MODEL},${CONFIG.OPENROUTER_FALLBACK_MODEL}): ${errorMessage}`);
+            console.error(`❌ OpenRouter 总结失败 (HTTP ${statusCode}, models=${openRouterModels().join(',')}): ${errorMessage}`);
             return "今日行业动态汇总正在生成中（响应异常）。";
         }
         console.log(`✅ OpenRouter 总结成功: ${body.model || CONFIG.OPENROUTER_MODEL}`);
@@ -284,7 +289,7 @@ async function main() {
         console.warn('⚠️ 警告: 缺少环境变量 FEISHU_WEBHOOK 或 OPENROUTER_API_KEY');
         console.log('💡 建议运行: node --env-file=.env scripts/daily-summary.js');
     }
-    console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL} (fallback: ${CONFIG.OPENROUTER_FALLBACK_MODEL})`);
+    console.log(`🤖 OpenRouter 模型链: ${openRouterModels().join(' -> ')}`);
 
     try {
         const HISTORY_FILE = path.join(__dirname, '../memory/car-news-pushed.json');

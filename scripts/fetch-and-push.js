@@ -6,8 +6,10 @@ const cheerio = require('cheerio');
 const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
-  OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free',
-  OPENROUTER_FALLBACK_MODEL: process.env.OPENROUTER_FALLBACK_MODEL || 'openrouter/free',
+  OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'qwen/qwen3-32b:free',
+  OPENROUTER_FALLBACK_MODELS: (process.env.OPENROUTER_FALLBACK_MODELS || process.env.OPENROUTER_FALLBACK_MODEL || 'minimax/minimax-m2.5:free,z-ai/glm-4.5-air:free')
+    .split(',').map(model => model.trim()).filter(Boolean),
+  SUMMARY_BATCH_SIZE: Math.max(1, Number(process.env.SUMMARY_BATCH_SIZE) || 8),
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -312,28 +314,30 @@ async function fetchNewsDetail(url) {
 }
 
 function fallbackSummary(title, content) {
-  return content ? `${content.slice(0, 100)}...` : title;
+  return content ? `${content.slice(0, 180)}...` : title;
 }
 
-// 一批新闻共用一次免费模型请求，避免每条新闻都消耗免费额度。
-async function generateSummaries(entries) {
-  if (!CONFIG.OPENROUTER_API_KEY) {
-    entries.forEach(({ news, content }) => {
-      news.summary = fallbackSummary(news.title, content);
-    });
-    return;
-  }
+function normalizeTitle(title) {
+  return String(title || '').replace(/\s+/g, '').toLowerCase();
+}
 
+function openRouterModels() {
+  return [...new Set([CONFIG.OPENROUTER_MODEL, ...CONFIG.OPENROUTER_FALLBACK_MODELS])];
+}
+
+async function generateSummaryBatch(entries, batchIndex) {
   const items = entries.map(({ news, content }, index) =>
-    `[${index + 1}] 标题：${news.title}\n正文片段：${(content || '').slice(0, 800)}`
+    `[${index + 1}] 标题：${news.title}\n正文片段：${(content || '').slice(0, 1000)}`
   ).join('\n\n');
-  const prompt = `你是汽车行业分析师。请为以下新闻分别撰写精炼摘要。
+  const prompt = `你是严谨的汽车行业编辑。请逐条阅读以下新闻，为每条新闻撰写独立摘要，绝不能把其他新闻的车型、品牌、参数或结论串入本条。
 要求：
-1. 每条摘要包含关键事实和一句行业影响分析，不要简单复读标题。
-2. 有正文时优先提取数据和具体信息；仅有标题时可简述潜在影响。
-3. 每条控制在60-100字。
-4. 只输出严格 JSON 数组，不要 Markdown 代码块，不要额外文字。
-格式：[{"id":1,"summary":"摘要内容"}]
+1. 先准确概括该条的事件、主体、关键数据/时间/配置，再补充其市场或行业含义。
+2. 有正文时只使用本条正文可以支持的事实，不编造参数；仅有标题时明确基于标题概括，不扩写未经提供的事实。
+3. 每条控制在100-160字，信息充分但不空泛。
+4. "id" 和 "title" 必须逐字复写输入中的对应值，用于核对关联关系。
+5. 输入有${entries.length}条，输出必须也有${entries.length}条；不得合并、遗漏、过滤任何一条。
+6. 只输出严格 JSON 数组，不要 Markdown 代码块，不要额外文字。
+格式：[{"id":1,"title":"输入标题原文","summary":"对应摘要内容"}]
 
 新闻列表：
 ${items}`;
@@ -341,10 +345,10 @@ ${items}`;
   try {
     const response = await new Promise((resolve, reject) => {
       const postData = JSON.stringify({
-        models: [...new Set([CONFIG.OPENROUTER_MODEL, CONFIG.OPENROUTER_FALLBACK_MODEL])],
+        models: openRouterModels(),
         messages: [{ role: 'user', content: prompt }],
-        temperature: 0.7,
-        max_tokens: Math.min(6000, Math.max(1000, entries.length * 220))
+        temperature: 0.3,
+        max_tokens: Math.min(4000, Math.max(1200, entries.length * 400))
       });
 
       const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
@@ -383,16 +387,20 @@ ${items}`;
         const match = Array.isArray(summaries)
           ? summaries.find(item => Number(item.id) === index + 1)
           : null;
-        news.summary = typeof match?.summary === 'string' && match.summary.trim()
+        const titleMatches = normalizeTitle(match?.title) === normalizeTitle(news.title);
+        news.summary = titleMatches && typeof match?.summary === 'string' && match.summary.trim()
           ? match.summary.trim()
           : fallbackSummary(news.title, sourceContent);
+        if (!titleMatches) {
+          console.warn(`  ⚠️ 摘要关联校验失败，改用原文片段: ${news.title.slice(0, 35)}...`);
+        }
       });
-      console.log(`  [AI摘要] 批量成功: ${body.model || CONFIG.OPENROUTER_MODEL} (${entries.length}条)`);
+      console.log(`  [AI摘要] 第${batchIndex}批成功: ${body.model || CONFIG.OPENROUTER_MODEL} (${entries.length}条)`);
       return;
     }
 
     const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 300);
-    console.error(`  ⚠️ OpenRouter 批量摘要失败 (HTTP ${statusCode}, models=${CONFIG.OPENROUTER_MODEL},${CONFIG.OPENROUTER_FALLBACK_MODEL}): ${errorMessage}`);
+    console.error(`  ⚠️ OpenRouter 批量摘要失败 (HTTP ${statusCode}, models=${openRouterModels().join(',')}): ${errorMessage}`);
   } catch (e) {
     console.log(`  ⚠️ 批量摘要生成失败: ${e.message}`);
   }
@@ -400,6 +408,26 @@ ${items}`;
   entries.forEach(({ news, content }) => {
     news.summary = fallbackSummary(news.title, content);
   });
+}
+
+// 小批量生成可减少串条，同时仍显著低于逐条调用的请求数量。
+async function generateSummaries(entries) {
+  if (!CONFIG.OPENROUTER_API_KEY) {
+    entries.forEach(({ news, content }) => {
+      news.summary = fallbackSummary(news.title, content);
+    });
+    return;
+  }
+
+  const totalBatches = Math.ceil(entries.length / CONFIG.SUMMARY_BATCH_SIZE);
+  console.log(`🤖 摘要分为 ${totalBatches} 批生成，每批最多 ${CONFIG.SUMMARY_BATCH_SIZE} 条`);
+  for (let i = 0; i < entries.length; i += CONFIG.SUMMARY_BATCH_SIZE) {
+    const batch = entries.slice(i, i + CONFIG.SUMMARY_BATCH_SIZE);
+    await generateSummaryBatch(batch, (i / CONFIG.SUMMARY_BATCH_SIZE) + 1);
+    if (i + CONFIG.SUMMARY_BATCH_SIZE < entries.length) {
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+  }
 }
 
 // 发送飞书消息（按分类）
@@ -608,7 +636,7 @@ async function syncToBitable(newsList) {
 async function main() {
   console.log('🚀 每日汽车新闻推送开始');
   console.log(`📅 时间: ${new Date().toLocaleString('zh-CN')}`);
-  console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL} (fallback: ${CONFIG.OPENROUTER_FALLBACK_MODEL})`);
+  console.log(`🤖 OpenRouter 模型链: ${openRouterModels().join(' -> ')}`);
   console.log('='.repeat(50));
 
   try {
