@@ -6,7 +6,7 @@ const cheerio = require('cheerio');
 const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
-  OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'openrouter/free',
+  OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free',
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -310,7 +310,7 @@ async function fetchNewsDetail(url) {
   }
 }
 
-// 使用 OpenRouter 生成摘要，默认由免费路由选择当前可用模型。
+// 使用 OpenRouter 生成摘要，默认调用指定的免费 Gemma 模型。
 async function generateSummary(title, content) {
   if (!CONFIG.OPENROUTER_API_KEY) {
     return title;

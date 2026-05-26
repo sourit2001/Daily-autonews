@@ -27,5 +27,5 @@ jobs:
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL || 'openrouter/free' }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free' }}
         run: node scripts/daily-summary.js

@@ -6,7 +6,7 @@ const cheerio = require('cheerio');
 const CONFIG = {
     FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
     OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
-    OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'openrouter/free',
+    OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free',
     // 分类关键词
     CATEGORIES: {
         '电气化': ['纯电', '插混', '混动', 'PHEV', 'HEV', 'EV', '增程', '新能源', '电动', '电池', '续航', '充电'],
