@@ -7,6 +7,7 @@ const CONFIG = {
     FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
     OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
     OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free',
+    OPENROUTER_FALLBACK_MODEL: process.env.OPENROUTER_FALLBACK_MODEL || 'openrouter/free',
     // 分类关键词
     CATEGORIES: {
         '电气化': ['纯电', '插混', '混动', 'PHEV', 'HEV', 'EV', '增程', '新能源', '电动', '电池', '续航', '充电'],
@@ -161,7 +162,7 @@ ${titles}`;
     try {
         const response = await new Promise((resolve, reject) => {
             const postData = JSON.stringify({
-                model: CONFIG.OPENROUTER_MODEL,
+                models: [...new Set([CONFIG.OPENROUTER_MODEL, CONFIG.OPENROUTER_FALLBACK_MODEL])],
                 messages: [{ role: 'user', content: prompt }],
                 temperature: 0.7,
                 max_tokens: 2000
@@ -195,9 +196,10 @@ ${titles}`;
         const { statusCode, body } = response;
         if (!body?.choices?.[0]) {
             const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 500);
-            console.error(`❌ OpenRouter 总结失败 (HTTP ${statusCode}, model=${CONFIG.OPENROUTER_MODEL}): ${errorMessage}`);
+            console.error(`❌ OpenRouter 总结失败 (HTTP ${statusCode}, models=${CONFIG.OPENROUTER_MODEL},${CONFIG.OPENROUTER_FALLBACK_MODEL}): ${errorMessage}`);
             return "今日行业动态汇总正在生成中（响应异常）。";
         }
+        console.log(`✅ OpenRouter 总结成功: ${body.model || CONFIG.OPENROUTER_MODEL}`);
         return body.choices[0].message.content;
     } catch (e) {
         console.error('AI 总结生成失败:', e);
@@ -282,7 +284,7 @@ async function main() {
         console.warn('⚠️ 警告: 缺少环境变量 FEISHU_WEBHOOK 或 OPENROUTER_API_KEY');
         console.log('💡 建议运行: node --env-file=.env scripts/daily-summary.js');
     }
-    console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL}`);
+    console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL} (fallback: ${CONFIG.OPENROUTER_FALLBACK_MODEL})`);
 
     try {
         const HISTORY_FILE = path.join(__dirname, '../memory/car-news-pushed.json');

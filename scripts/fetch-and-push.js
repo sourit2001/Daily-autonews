@@ -7,6 +7,7 @@ const CONFIG = {
   FEISHU_WEBHOOK: process.env.FEISHU_WEBHOOK,
   OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
   OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'google/gemma-4-26b-a4b-it:free',
+  OPENROUTER_FALLBACK_MODEL: process.env.OPENROUTER_FALLBACK_MODEL || 'openrouter/free',
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -310,55 +311,40 @@ async function fetchNewsDetail(url) {
   }
 }
 
-// 使用 OpenRouter 生成摘要，默认调用指定的免费 Gemma 模型。
-async function generateSummary(title, content) {
+function fallbackSummary(title, content) {
+  return content ? `${content.slice(0, 100)}...` : title;
+}
+
+// 一批新闻共用一次免费模型请求，避免每条新闻都消耗免费额度。
+async function generateSummaries(entries) {
   if (!CONFIG.OPENROUTER_API_KEY) {
-    return title;
+    entries.forEach(({ news, content }) => {
+      news.summary = fallbackSummary(news.title, content);
+    });
+    return;
   }
 
-  // 针对EV晨报等特殊格式处理
-  const isEVMorning = title.includes('EV晨报') || title.includes('早报');
-
-  let prompt;
-  if (isEVMorning && content) {
-    // EV晨报格式：提取多条新闻
-    prompt = `作为深耕汽车行业的资深分析师，请阅读以下【早报/晨报】内容，并进行精炼总结：
+  const items = entries.map(({ news, content }, index) =>
+    `[${index + 1}] 标题：${news.title}\n正文片段：${(content || '').slice(0, 800)}`
+  ).join('\n\n');
+  const prompt = `你是汽车行业分析师。请为以下新闻分别撰写精炼摘要。
 要求：
-1. 提取3-5个最重要的核心动态。
-2. 每个动态包含：【事实+影响】。事实需含核心数据；影响需简述其对行业或企业的意义（如：加剧价格战、补齐产品线短板、市场结构变化等）。
-3. 总字数控制在200字以内，使用分号“；”分隔。
+1. 每条摘要包含关键事实和一句行业影响分析，不要简单复读标题。
+2. 有正文时优先提取数据和具体信息；仅有标题时可简述潜在影响。
+3. 每条控制在60-100字。
+4. 只输出严格 JSON 数组，不要 Markdown 代码块，不要额外文字。
+格式：[{"id":1,"summary":"摘要内容"}]
 
-标题：${title}
-正文内容：${content.slice(0, 1000)}
-
-直接输出总结，不要带前缀。`;
-  } else if (content && content.length > title.length + 20) {
-    prompt = `你是一个拥有敏锐洞察力的汽车行业首席观察家。请为以下新闻提供一个【深度摘要】。
-
-要求：
-1. **不要复读标题，不要简单搬运原文**。
-2. 结构建议为：关键核心事实（包含硬核数据） + 一句深度点评（分析其背后的行业趋势、竞争格局或潜在影响）。
-3. 语言要老练、犀利，字数在60-100字之间。
-4. 挖掘正文中不容易被发现的“干货”细节。
-
-标题：${title}
-正文片段：${content.slice(0, 800)}
-
-请直接给出深度摘要内容。`;
-  } else {
-    // 只有标题的情况
-    prompt = `作为汽车行业专家，请针对该标题提供一段有深度的背景分析或潜在趋势预测（50-80字）：
-标题：${title}
-直接输出内容。`;
-  }
+新闻列表：
+${items}`;
 
   try {
     const response = await new Promise((resolve, reject) => {
       const postData = JSON.stringify({
-        model: CONFIG.OPENROUTER_MODEL,
+        models: [...new Set([CONFIG.OPENROUTER_MODEL, CONFIG.OPENROUTER_FALLBACK_MODEL])],
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
-        max_tokens: 500
+        max_tokens: Math.min(6000, Math.max(1000, entries.length * 220))
       });
 
       const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
@@ -389,21 +375,31 @@ async function generateSummary(title, content) {
 
     const { statusCode, body } = response;
     if (body?.choices?.[0]) {
-      let summary = body.choices[0].message.content.trim().replace(/^["']|["']$/g, '');
-      console.log(`  [AI摘要] 成功: ${body.model || CONFIG.OPENROUTER_MODEL}`);
-      // 对于EV晨报，清理格式
-      if (isEVMorning) {
-        summary = summary.replace(/^\d+\.\s*/gm, '').replace(/\n/g, '；').replace(/；；/g, '；');
-      }
-      return summary;
+      const content = body.choices[0].message.content.trim()
+        .replace(/^```(?:json)?\s*/i, '')
+        .replace(/\s*```$/, '');
+      const summaries = JSON.parse(content);
+      entries.forEach(({ news, content: sourceContent }, index) => {
+        const match = Array.isArray(summaries)
+          ? summaries.find(item => Number(item.id) === index + 1)
+          : null;
+        news.summary = typeof match?.summary === 'string' && match.summary.trim()
+          ? match.summary.trim()
+          : fallbackSummary(news.title, sourceContent);
+      });
+      console.log(`  [AI摘要] 批量成功: ${body.model || CONFIG.OPENROUTER_MODEL} (${entries.length}条)`);
+      return;
     }
 
     const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 300);
-    console.error(`  ⚠️ OpenRouter 摘要失败 (HTTP ${statusCode}, model=${CONFIG.OPENROUTER_MODEL}): ${errorMessage}`);
+    console.error(`  ⚠️ OpenRouter 批量摘要失败 (HTTP ${statusCode}, models=${CONFIG.OPENROUTER_MODEL},${CONFIG.OPENROUTER_FALLBACK_MODEL}): ${errorMessage}`);
   } catch (e) {
-    console.log(`  ⚠️ 摘要生成失败: ${e.message}`);
+    console.log(`  ⚠️ 批量摘要生成失败: ${e.message}`);
   }
-  return title;
+
+  entries.forEach(({ news, content }) => {
+    news.summary = fallbackSummary(news.title, content);
+  });
 }
 
 // 发送飞书消息（按分类）
@@ -612,7 +608,7 @@ async function syncToBitable(newsList) {
 async function main() {
   console.log('🚀 每日汽车新闻推送开始');
   console.log(`📅 时间: ${new Date().toLocaleString('zh-CN')}`);
-  console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL}`);
+  console.log(`🤖 OpenRouter 模型: ${CONFIG.OPENROUTER_MODEL} (fallback: ${CONFIG.OPENROUTER_FALLBACK_MODEL})`);
   console.log('='.repeat(50));
 
   try {
@@ -750,6 +746,7 @@ async function main() {
 
     // 提取正文内容
     console.log('\n📝 正在提取新闻内容...');
+    const entriesForSummary = [];
     for (const category of Object.keys(categorized)) {
       for (let i = 0; i < categorized[category].length; i++) {
         const news = categorized[category][i];
@@ -764,16 +761,12 @@ async function main() {
           console.log(`  [直接获取] ${news.title.slice(0, 35)}...`);
         }
 
-        // 使用 AI 为每条新闻生成深度摘要
-        if (CONFIG.OPENROUTER_API_KEY) {
-          news.summary = await generateSummary(news.title, content);
-        } else {
-          news.summary = content ? content.slice(0, 100) + '...' : news.title;
-        }
-
-        await new Promise(r => setTimeout(r, 300));
+        entriesForSummary.push({ news, content });
       }
     }
+
+    console.log(`\n🤖 正在批量生成 ${entriesForSummary.length} 条摘要...`);
+    await generateSummaries(entriesForSummary);
 
     // 推送到飞书
     console.log('\n📤 正在推送到飞书...');
