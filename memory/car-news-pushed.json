@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298401",
-    "https://www.d1ev.com/newsflash/298400",
-    "https://www.d1ev.com/news/shichang/298398",
     "https://www.d1ev.com/newsflash/298396",
     "https://www.d1ev.com/news/shichang/298394",
     "https://www.d1ev.com/newsflash/298393",
@@ -1999,27 +1996,12 @@
     "https://www.d1ev.com/news/shichang/300582",
     "https://www.d1ev.com/news/shichang/300581",
     "https://www.d1ev.com/newsflash/300580",
-    "https://www.d1ev.com/newsflash/300578"
+    "https://www.d1ev.com/newsflash/300578",
+    "https://www.d1ev.com/newsflash/300631",
+    "https://www.d1ev.com/newsflash/300633",
+    "https://www.d1ev.com/news/qiye/300632"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299707",
-      "title": "谷歌AI新突破：月处理3200万亿Token，GeminiApp用户破9亿",
-      "source": "第一电动",
-      "pushedAt": 1779213580443
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299706",
-      "title": "谷歌I/O大会震撼发布：GeminiOmni全能AI模型登场，视频编辑一句话搞定！",
-      "source": "第一电动",
-      "pushedAt": 1779213580443
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299705",
-      "title": "谷歌I/O大会新动作：Gemini集成C2PA，深度伪造无处遁形",
-      "source": "第一电动",
-      "pushedAt": 1779213580443
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299715",
       "title": "谷歌I/O大会新动作：AI创意平台GoogleFlow升级，编辑视频更智能！",
@@ -6855,7 +6837,25 @@
       "title": "三星显示助力法拉利Luce：多层OLED显示屏技术首秀，未来感十足！",
       "source": "第一电动",
       "pushedAt": 1779808207180
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300631",
+      "title": "AI芯片新突破！摩尔线程PH100入选国家安全可靠测评",
+      "source": "第一电动",
+      "pushedAt": 1779819722011
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300633",
+      "title": "塞尔维亚总统武契奇访小米，小米汽车明年进军欧洲市场",
+      "source": "第一电动",
+      "pushedAt": 1779819722011
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/300632",
+      "title": "卢伟冰明确：小米汽车2027年三四季度启动出海！",
+      "source": "第一电动",
+      "pushedAt": 1779819722011
     }
   ],
-  "lastUpdated": "2026-05-26"
+  "lastUpdated": "2026-05-27"
 }
