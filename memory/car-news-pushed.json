@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298548",
-    "https://www.d1ev.com/news/qiye/298546",
     "https://www.d1ev.com/news/shichang/298560",
     "https://www.d1ev.com/news/shichang/298551",
     "https://www.d1ev.com/news/shichang/298547",
@@ -1999,27 +1997,11 @@
     "https://www.d1ev.com/news/shichang/300744",
     "https://www.d1ev.com/newsflash/300743",
     "https://www.d1ev.com/newsflash/300740",
-    "https://www.d1ev.com/news/shichang/300795"
+    "https://www.d1ev.com/news/shichang/300795",
+    "https://www.d1ev.com/newsflash/300798",
+    "https://www.d1ev.com/newsflash/300797"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/299875",
-      "title": "红旗HQ9正式上市！33.88万起售，插混动力+豪华内饰升级",
-      "source": "第一电动",
-      "pushedAt": 1779313654300
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299874",
-      "title": "小鹏GX正式上市！27.98万起，增程纯电双动力，续航高达1585km",
-      "source": "第一电动",
-      "pushedAt": 1779313654300
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299876",
-      "title": "小米YU7GT：千匹马力SUV如何实现705公里续航？",
-      "source": "第一电动",
-      "pushedAt": 1779318469489
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/299903",
       "title": "吉利2.18亿元收购雷达汽车 新能源皮卡业务并入上市主体",
@@ -6777,6 +6759,18 @@
       "title": "问界M9来了劲敌，蔚来ES9上市了",
       "source": "第一电动",
       "pushedAt": 1779906125443
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300798",
+      "title": "“问界M9改款升级：性能强悍SUV新标杆，售价47.98万起冲击高端市场”",
+      "source": "第一电动",
+      "pushedAt": 1779923578459
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300797",
+      "title": "小米YU7GT eLSD差速器：驾驶乐趣升级，湿滑路面更安心",
+      "source": "第一电动",
+      "pushedAt": 1779923578459
     }
   ],
   "lastUpdated": "2026-05-28"
