@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298550",
     "https://www.d1ev.com/newsflash/298548",
     "https://www.d1ev.com/news/qiye/298546",
     "https://www.d1ev.com/news/shichang/298560",
@@ -1999,21 +1998,10 @@
     "https://www.d1ev.com/newsflash/300745",
     "https://www.d1ev.com/news/shichang/300744",
     "https://www.d1ev.com/newsflash/300743",
-    "https://www.d1ev.com/newsflash/300740"
+    "https://www.d1ev.com/newsflash/300740",
+    "https://www.d1ev.com/news/shichang/300795"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/299873",
-      "title": "小鹏GX正式上市，限时权益价26.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1779300733392
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/299871",
-      "title": "AI音乐革命！StabilityAI发布能创作6分钟专业级乐曲的StabilityAudio3.0",
-      "source": "第一电动",
-      "pushedAt": 1779300733392
-    },
     {
       "url": "https://www.d1ev.com/newsflash/299875",
       "title": "红旗HQ9正式上市！33.88万起售，插混动力+豪华内饰升级",
@@ -6783,7 +6771,13 @@
       "title": "沃尔沃获美政府批准 继续销售中国网联技术汽车",
       "source": "第一电动",
       "pushedAt": 1779895953128
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/300795",
+      "title": "问界M9来了劲敌，蔚来ES9上市了",
+      "source": "第一电动",
+      "pushedAt": 1779906125443
     }
   ],
-  "lastUpdated": "2026-05-27"
+  "lastUpdated": "2026-05-28"
 }
