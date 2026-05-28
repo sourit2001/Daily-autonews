@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298729",
     "https://www.d1ev.com/newsflash/298728",
     "https://www.d1ev.com/newsflash/298751",
     "https://www.d1ev.com/newsflash/298747",
@@ -1999,33 +1998,10 @@
     "https://www.d1ev.com/news/shichang/300945",
     "https://www.d1ev.com/newsflash/300943",
     "https://www.d1ev.com/newsflash/300941",
-    "https://www.d1ev.com/newsflash/300940"
+    "https://www.d1ev.com/newsflash/300940",
+    "https://www.d1ev.com/newsflash/300990"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300062",
-      "title": "小米YU7标准版上市：23.35万起，643km续航，20分钟快充！",
-      "source": "第一电动",
-      "pushedAt": 1779385987343
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300061",
-      "title": "比亚迪元PLUS焕新上市！11.99万起售，最高续航630km",
-      "source": "第一电动",
-      "pushedAt": 1779385987343
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300060",
-      "title": "小米YU7GT跑车级SUV上市，38.99万起，705km续航极速300km/h！",
-      "source": "第一电动",
-      "pushedAt": 1779385987343
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300059",
-      "title": "小米YU7GT震撼上市！38.99万起，纽北SUV圈速纪录刷新者",
-      "source": "第一电动",
-      "pushedAt": 1779385987343
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300063",
       "title": "小鹏GX价格大跳水！26.98万起售，家用六座SUV性价比新标杆",
@@ -6873,7 +6849,13 @@
       "title": "比亚迪闪充站突破6100座，2026年目标20000座！",
       "source": "第一电动",
       "pushedAt": 1779983810349
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/300990",
+      "title": "华为问界M9携L3级自动驾驶技术震撼上市，47.98万起！",
+      "source": "第一电动",
+      "pushedAt": 1779993186792
     }
   ],
-  "lastUpdated": "2026-05-28"
+  "lastUpdated": "2026-05-29"
 }
