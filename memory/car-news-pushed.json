@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298922",
     "https://www.d1ev.com/news/shichang/298921",
     "https://www.d1ev.com/news/shichang/298919",
     "https://www.d1ev.com/news/shichang/298918",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/carnews/xinche/301194",
     "https://www.d1ev.com/newsflash/301193",
     "https://www.d1ev.com/carnews/xinche/301192",
-    "https://www.d1ev.com/news/qiye/301191"
+    "https://www.d1ev.com/news/qiye/301191",
+    "https://www.d1ev.com/newsflash/301196"
   ],
   "newsHistory": [
     {
@@ -7167,6 +7167,12 @@
       "title": "10.49万起，中国一汽悦意08全球预售",
       "source": "第一电动",
       "pushedAt": 1780079407774
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301196",
+      "title": "“猛士M817开启智能越野新时代，37万起售享专属权益”",
+      "source": "第一电动",
+      "pushedAt": 1780091383337
     }
   ],
   "lastUpdated": "2026-05-30"
