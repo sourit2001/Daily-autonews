@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/298933",
-    "https://www.d1ev.com/news/shichang/298932",
-    "https://www.d1ev.com/news/qiye/298931",
-    "https://www.d1ev.com/newsflash/298930",
-    "https://www.d1ev.com/newsflash/298923",
     "https://www.d1ev.com/newsflash/298922",
     "https://www.d1ev.com/news/shichang/298921",
     "https://www.d1ev.com/news/shichang/298919",
@@ -1999,15 +1994,14 @@
     "https://www.d1ev.com/newsflash/301155",
     "https://www.d1ev.com/newsflash/301154",
     "https://www.d1ev.com/news/shichang/301153",
-    "https://www.d1ev.com/news/qiye/301152"
+    "https://www.d1ev.com/news/qiye/301152",
+    "https://www.d1ev.com/newsflash/301195",
+    "https://www.d1ev.com/carnews/xinche/301194",
+    "https://www.d1ev.com/newsflash/301193",
+    "https://www.d1ev.com/carnews/xinche/301192",
+    "https://www.d1ev.com/news/qiye/301191"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/300205",
-      "title": "5.98万元起！极狐贝塔S3正式上市：B级大空间、99秒换电",
-      "source": "第一电动",
-      "pushedAt": 1779472048276
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/300215",
       "title": "5.98万元起 极狐贝塔S3正式上市：B级大空间",
@@ -7143,7 +7137,37 @@
       "title": "阿维塔董事长：没有利润的是伪销量 靠价格战换来虚假繁荣",
       "source": "第一电动",
       "pushedAt": 1780066631459
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301195",
+      "title": "“岚图泰山X8粤港澳车展上市，29.29万起售引爆高端新能源市场”",
+      "source": "第一电动",
+      "pushedAt": 1780079407774
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/301194",
+      "title": "上汽大众帕萨特ePro上市 售21.59万元起",
+      "source": "第一电动",
+      "pushedAt": 1780079407774
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301193",
+      "title": "领克10/领克10+纯电轿车上市，16.99万起售，900V高压架构加持！",
+      "source": "第一电动",
+      "pushedAt": 1780079407774
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/301192",
+      "title": "上汽大众途观L ePro上市 售价19.19万元起",
+      "source": "第一电动",
+      "pushedAt": 1780079407774
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/301191",
+      "title": "10.49万起，中国一汽悦意08全球预售",
+      "source": "第一电动",
+      "pushedAt": 1780079407774
     }
   ],
-  "lastUpdated": "2026-05-29"
+  "lastUpdated": "2026-05-30"
 }
