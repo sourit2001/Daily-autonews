@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/298994",
-    "https://www.d1ev.com/newsflash/298989",
-    "https://www.d1ev.com/newsflash/298985",
-    "https://www.d1ev.com/newsflash/298984",
     "https://www.d1ev.com/newsflash/298983",
     "https://www.d1ev.com/newsflash/298980",
     "https://www.d1ev.com/newsflash/298974",
@@ -1999,51 +1995,13 @@
     "https://www.d1ev.com/newsflash/301243",
     "https://www.d1ev.com/newsflash/301235",
     "https://www.d1ev.com/newsflash/301226",
-    "https://www.d1ev.com/newsflash/301224"
+    "https://www.d1ev.com/newsflash/301224",
+    "https://www.d1ev.com/news/shichang/301247",
+    "https://www.d1ev.com/newsflash/301249",
+    "https://www.d1ev.com/newsflash/301248",
+    "https://www.d1ev.com/newsflash/301250"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300246",
-      "title": "东风奕派M8全球首秀：华为技术加持，纯电增程双动力来袭",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300252",
-      "title": "特斯拉FSD监督版中国落地在即，马斯克预言或将成真",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300251",
-      "title": "大疆白皮书：无人机物流商业化面临三大瓶颈",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300250",
-      "title": "揭秘长安汽车内幕交易案：与华为合作前双方员工精准买入，获利400余万被罚1669万",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300249",
-      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300248",
-      "title": "蔚来ES8销量破11万，连续五月夺40万以上车型销冠",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/300247",
-      "title": "徐留平接受审查调查，曾任一汽、长安董事长",
-      "source": "第一电动",
-      "pushedAt": 1779534376766
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300259",
       "title": "东风奕派M8全球首秀：华为技术加持，纯电增程双动力中大型SUV亮相",
@@ -7227,6 +7185,30 @@
       "title": "尚界Z7/Z7T全国大规模交付启动，华为技术加持售价21.98万起",
       "source": "第一电动",
       "pushedAt": 1780135077997
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301247",
+      "title": "启境GT7开启预售：智能猎装赛道的新入局者",
+      "source": "第一电动",
+      "pushedAt": 1780139838697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301249",
+      "title": "Meta监控员工电脑数据引发隐私争议，AI训练或违反GDPR",
+      "source": "第一电动",
+      "pushedAt": 1780139838697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301248",
+      "title": "广汽孵化eVTOL企业高域工厂试产 年产百架AirCab飞行器",
+      "source": "第一电动",
+      "pushedAt": 1780139838697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301250",
+      "title": "纯电车市占比或达50%，领克01纯电车型发布",
+      "source": "第一电动",
+      "pushedAt": 1780139838697
     }
   ],
   "lastUpdated": "2026-05-30"
