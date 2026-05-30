@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298983",
-    "https://www.d1ev.com/newsflash/298980",
-    "https://www.d1ev.com/newsflash/298974",
-    "https://www.d1ev.com/newsflash/299021",
-    "https://www.d1ev.com/newsflash/299020",
-    "https://www.d1ev.com/news/shichang/299009",
-    "https://www.d1ev.com/newsflash/299004",
     "https://www.d1ev.com/newsflash/298999",
     "https://www.d1ev.com/newsflash/299011",
     "https://www.d1ev.com/newsflash/299008",
@@ -1999,63 +1992,16 @@
     "https://www.d1ev.com/news/shichang/301247",
     "https://www.d1ev.com/newsflash/301249",
     "https://www.d1ev.com/newsflash/301248",
-    "https://www.d1ev.com/newsflash/301250"
+    "https://www.d1ev.com/newsflash/301250",
+    "https://www.d1ev.com/newsflash/301255",
+    "https://www.d1ev.com/newsflash/301252",
+    "https://www.d1ev.com/news/shichang/301257",
+    "https://www.d1ev.com/newsflash/301256",
+    "https://www.d1ev.com/newsflash/301254",
+    "https://www.d1ev.com/newsflash/301253",
+    "https://www.d1ev.com/newsflash/301251"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300259",
-      "title": "东风奕派M8全球首秀：华为技术加持，纯电增程双动力中大型SUV亮相",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300257",
-      "title": "大众汽车安徽与众06正式上市 售14.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300256",
-      "title": "大众汽车安徽与众07正式上市 售12.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300254",
-      "title": "岚图泰山X8震撼上市！29.29万起售，18小时订单破万",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300253",
-      "title": "2027款星途瑶光SUV上市，13.79万起售，混动版纯电续航120km+",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300261",
-      "title": "63%员工夸大AI技能求优势，职场“假装懂AI”现象泛滥",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300260",
-      "title": "蔚来萤火虫第6万台交付！焕新升级款售价11.98万起",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300258",
-      "title": "华派黄金标准大六座 东风奕派M8正式发布",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300255",
-      "title": "DeepSeek API升级：输出加速，服务扩容，价格调整倒计时！",
-      "source": "第一电动",
-      "pushedAt": 1779541913727
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300270",
       "title": "吉利银河星耀7MAX上市23小时订单破万，智能座舱+雷神电混系统引领中型轿车新潮流",
@@ -7209,6 +7155,48 @@
       "title": "纯电车市占比或达50%，领克01纯电车型发布",
       "source": "第一电动",
       "pushedAt": 1780139838697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301255",
+      "title": "smart精灵#6EHD超级电混来袭，续航1810km震撼上市！",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301252",
+      "title": "吉利智驾团队整合入千里科技，助力打造“第二个华为”",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301257",
+      "title": "潮酷颜值、越级智能、极致驾控、价格全拉满，2026款吉利牛仔限时优享价7.59万元起售",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301256",
+      "title": "东风日产粤港澳车展推三无忧服务，终身质保省2万！",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301254",
+      "title": "吉利牛仔2026款硬派来袭：8.19万起售，1.5TD动力+L2辅助驾驶！",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301253",
+      "title": "小米YU7GT深圳首批交付，38.99万起售享8.5万权益！",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301251",
+      "title": "小米MiMo-V2.5系列API永久降价 最高降幅达99%",
+      "source": "第一电动",
+      "pushedAt": 1780147049294
     }
   ],
   "lastUpdated": "2026-05-30"
