@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/298999",
-    "https://www.d1ev.com/newsflash/299011",
-    "https://www.d1ev.com/newsflash/299008",
     "https://www.d1ev.com/newsflash/299007",
     "https://www.d1ev.com/newsflash/299006",
     "https://www.d1ev.com/news/shichang/299003",
@@ -1999,63 +1996,12 @@
     "https://www.d1ev.com/newsflash/301256",
     "https://www.d1ev.com/newsflash/301254",
     "https://www.d1ev.com/newsflash/301253",
-    "https://www.d1ev.com/newsflash/301251"
+    "https://www.d1ev.com/newsflash/301251",
+    "https://www.d1ev.com/newsflash/301259",
+    "https://www.d1ev.com/news/shichang/301260",
+    "https://www.d1ev.com/news/shichang/301258"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300270",
-      "title": "吉利银河星耀7MAX上市23小时订单破万，智能座舱+雷神电混系统引领中型轿车新潮流",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300269",
-      "title": "吉利银河星耀7震撼上市，10.68万起享四驱豪华体验！",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300265",
-      "title": "长安逸动蓝鲸超擎上市 售价8.99-9.99万元",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300264",
-      "title": "长安CS75蓝鲸超擎上市 售价10.99-13.99万元",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/300262",
-      "title": "10.99万元起售，大众安徽与众07&与众06正式上市",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300271",
-      "title": "东风奕派M8全球首秀，搭载华为乾崑智驾ADS 5 Pro，定位“华派黄",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300268",
-      "title": "大众智能电动新突破：与众07搭载CEA架构，15万级SUV价值新定义",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300266",
-      "title": "宝马iX1欧洲交付受阻，轮毂短缺致订单延迟三个月",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300267",
-      "title": "“词元经济爆发：日调用量激增至140万亿次，国家数据局力推高质量发展”",
-      "source": "第一电动",
-      "pushedAt": 1779548174883
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/300282",
       "title": "2027款瑶光焕新上市，混动燃油双动力限时优惠12.49万元起",
@@ -7197,6 +7143,24 @@
       "title": "小米MiMo-V2.5系列API永久降价 最高降幅达99%",
       "source": "第一电动",
       "pushedAt": 1780147049294
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301259",
+      "title": "全国首个绿色算力AI平台上线 呼和浩特开启算力新纪元",
+      "source": "第一电动",
+      "pushedAt": 1780153344010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301260",
+      "title": "1毫米精度！rFpro推出日本箱根收费公路的数字孪生模型",
+      "source": "第一电动",
+      "pushedAt": 1780153344010
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301258",
+      "title": "7万级方盒子，后独悬+Flyme Auto，吉利牛仔不讲武德",
+      "source": "第一电动",
+      "pushedAt": 1780153344010
     }
   ],
   "lastUpdated": "2026-05-30"
