@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/299046",
-    "https://www.d1ev.com/news/shichang/299047",
-    "https://www.d1ev.com/newsflash/299036",
-    "https://www.d1ev.com/newsflash/299033",
-    "https://www.d1ev.com/newsflash/299031",
-    "https://www.d1ev.com/newsflash/299026",
-    "https://www.d1ev.com/newsflash/299061",
     "https://www.d1ev.com/newsflash/299060",
     "https://www.d1ev.com/newsflash/299059",
     "https://www.d1ev.com/newsflash/299089",
@@ -1999,45 +1992,16 @@
     "https://www.d1ev.com/newsflash/301292",
     "https://www.d1ev.com/newsflash/301295",
     "https://www.d1ev.com/news/shichang/301296",
-    "https://www.d1ev.com/newsflash/301291"
+    "https://www.d1ev.com/newsflash/301291",
+    "https://www.d1ev.com/newsflash/301299",
+    "https://www.d1ev.com/newsflash/301303",
+    "https://www.d1ev.com/newsflash/301301",
+    "https://www.d1ev.com/newsflash/301300",
+    "https://www.d1ev.com/newsflash/301302",
+    "https://www.d1ev.com/newsflash/301298",
+    "https://www.d1ev.com/news/shichang/301297"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300327",
-      "title": "长安逸动蓝鲸超擎新车型7.99万起，智能配置升级引关注",
-      "source": "第一电动",
-      "pushedAt": 1779621095145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300328",
-      "title": "“北京中学生人形机器人足球赛落幕，中央民大附中夺冠”",
-      "source": "第一电动",
-      "pushedAt": 1779621095145
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300329",
-      "title": "长安CS75PLUS蓝鲸超擎新上市！11.39万起，7色可选，智能驾驶辅助升级",
-      "source": "第一电动",
-      "pushedAt": 1779628336899
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300331",
-      "title": "燃油车市场萎缩，新能源车销量飙升，中国车市加速电动化转型",
-      "source": "第一电动",
-      "pushedAt": 1779628336899
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300332",
-      "title": "消息称奥迪上汽项目换帅：宋斐明转战兰博基尼，Fred Schulze接棒",
-      "source": "第一电动",
-      "pushedAt": 1779628336899
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300330",
-      "title": "周杰伦代言别克MPV，41.99万起售，5.8秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1779628336899
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300335",
       "title": "长安汽车内幕交易案曝光：6100万买入获利400万，证监会重罚1669万！",
@@ -7095,6 +7059,48 @@
       "title": "比亚迪城市领航安全兜底政策迅速落地，车主事故获全额赔付",
       "source": "第一电动",
       "pushedAt": 1780222325228
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301299",
+      "title": "领克10系列电车上市：全球最快充电速度，续航超700km",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301303",
+      "title": "小米YU7标准版续航实测：643km续航达成率近97%",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301301",
+      "title": "中国电动车大举进军加拿大市场，美国汽车业焦虑升级",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301300",
+      "title": "比亚迪加入自研芯片战局，推出4纳米“璇玑A3”芯片",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301302",
+      "title": "极石汽车5月销量猛增66%，全球订单持续攀升！",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301298",
+      "title": "极石汽车5月销量飙升66%，全球订单持续增长",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301297",
+      "title": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
+      "source": "第一电动",
+      "pushedAt": 1780233964291
     }
   ],
   "lastUpdated": "2026-05-31"
