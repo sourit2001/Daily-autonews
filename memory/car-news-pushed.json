@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299034",
-    "https://www.d1ev.com/newsflash/299032",
-    "https://www.d1ev.com/newsflash/299029",
-    "https://www.d1ev.com/newsflash/299025",
-    "https://www.d1ev.com/newsflash/299024",
-    "https://www.d1ev.com/newsflash/299022",
     "https://www.d1ev.com/news/shichang/299046",
     "https://www.d1ev.com/news/shichang/299047",
     "https://www.d1ev.com/newsflash/299036",
@@ -1999,69 +1993,15 @@
     "https://www.d1ev.com/newsflash/301285",
     "https://www.d1ev.com/newsflash/301283",
     "https://www.d1ev.com/newsflash/301280",
-    "https://www.d1ev.com/newsflash/301276"
+    "https://www.d1ev.com/newsflash/301276",
+    "https://www.d1ev.com/newsflash/301294",
+    "https://www.d1ev.com/newsflash/301293",
+    "https://www.d1ev.com/newsflash/301292",
+    "https://www.d1ev.com/newsflash/301295",
+    "https://www.d1ev.com/news/shichang/301296",
+    "https://www.d1ev.com/newsflash/301291"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300326",
-      "title": "宝马M5旅行版曝光：伪装难掩新设计，插混系统依旧强悍",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300324",
-      "title": "华为鸿蒙座舱问界M9亮相：智能灯控+手势操作，5月27日揭晓豪华体验",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300322",
-      "title": "长安第四代CS75PLUS与逸动蓝鲸超擎双车上市，油耗省一半！",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300320",
-      "title": "长安双车上市：油耗减半续航翻倍，7万起售混动新选择",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300319",
-      "title": "东风奕派M8全球首秀亮相，华为技术加持打造智能新体验",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300325",
-      "title": "人工智能成本飙升，企业开始反思AI替代人力策略",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300318",
-      "title": "“英国企业纷纷贴AI标签，公关行业吐槽‘AI洗白’现象”",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/300321",
-      "title": "E周看点 | 东风汽车将与Stellantis在欧洲成立合资企业；蔚来连续两个季度盈利",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300317",
-      "title": "广汽集团“番禺行动”：2026年海外销量目标25-30万辆",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/300323",
-      "title": "小智一周要闻 | 特斯拉产线转产人形机器人；小鹏Robotaxi量产下线",
-      "source": "第一电动",
-      "pushedAt": 1779616378256
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300327",
       "title": "长安逸动蓝鲸超擎新车型7.99万起，智能配置升级引关注",
@@ -7119,6 +7059,42 @@
       "title": "特斯拉FSD承诺未兑现，车主告赢获赔10800美元",
       "source": "第一电动",
       "pushedAt": 1780213434374
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301294",
+      "title": "74岁老人点燃杨絮引发大连停车场火灾，20辆新车烧成空架",
+      "source": "第一电动",
+      "pushedAt": 1780222325228
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301293",
+      "title": "领克10系列纯电轿车上市！限时优惠价16.99万起，续航高达816km",
+      "source": "第一电动",
+      "pushedAt": 1780222325228
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301292",
+      "title": "吉利熊猫勇士6月1日上市，4.69万起售，续航210公里！",
+      "source": "第一电动",
+      "pushedAt": 1780222325228
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301295",
+      "title": "新能源车维修费惊人：小磕碰竟要5700元，车主直呼“修不起”",
+      "source": "第一电动",
+      "pushedAt": 1780222325228
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301296",
+      "title": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
+      "source": "第一电动",
+      "pushedAt": 1780222325228
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301291",
+      "title": "比亚迪城市领航安全兜底政策迅速落地，车主事故获全额赔付",
+      "source": "第一电动",
+      "pushedAt": 1780222325228
     }
   ],
   "lastUpdated": "2026-05-31"
