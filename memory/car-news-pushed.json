@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299007",
-    "https://www.d1ev.com/newsflash/299006",
-    "https://www.d1ev.com/news/shichang/299003",
-    "https://www.d1ev.com/newsflash/298998",
-    "https://www.d1ev.com/news/shichang/298996",
-    "https://www.d1ev.com/news/shichang/298995",
-    "https://www.d1ev.com/newsflash/298993",
-    "https://www.d1ev.com/newsflash/298991",
-    "https://www.d1ev.com/news/shichang/298988",
-    "https://www.d1ev.com/news/qiye/298987",
-    "https://www.d1ev.com/news/qiye/298986",
-    "https://www.d1ev.com/newsflash/298982",
     "https://www.d1ev.com/newsflash/298979",
     "https://www.d1ev.com/news/shichang/298978",
     "https://www.d1ev.com/news/qiye/298975",
@@ -1999,135 +1987,21 @@
     "https://www.d1ev.com/newsflash/301251",
     "https://www.d1ev.com/newsflash/301259",
     "https://www.d1ev.com/news/shichang/301260",
-    "https://www.d1ev.com/news/shichang/301258"
+    "https://www.d1ev.com/news/shichang/301258",
+    "https://www.d1ev.com/newsflash/301273",
+    "https://www.d1ev.com/newsflash/301271",
+    "https://www.d1ev.com/newsflash/301267",
+    "https://www.d1ev.com/newsflash/301266",
+    "https://www.d1ev.com/newsflash/301264",
+    "https://www.d1ev.com/newsflash/301272",
+    "https://www.d1ev.com/carnews/xinche/301270",
+    "https://www.d1ev.com/carnews/xinche/301269",
+    "https://www.d1ev.com/carnews/xinche/301268",
+    "https://www.d1ev.com/newsflash/301265",
+    "https://www.d1ev.com/news/shichang/301263",
+    "https://www.d1ev.com/newsflash/301262"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/300282",
-      "title": "2027款瑶光焕新上市，混动燃油双动力限时优惠12.49万元起",
-      "source": "第一电动",
-      "pushedAt": 1779555264832
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300281",
-      "title": "燃油车大降价！新能源车市占比突破60%，车市迎来历史拐点",
-      "source": "第一电动",
-      "pushedAt": 1779555264832
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300280",
-      "title": "OpenAI高薪招聘AI安全研究员，年薪高达303万！",
-      "source": "第一电动",
-      "pushedAt": 1779555264832
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300283",
-      "title": "第四代CS75PLUS蓝鲸超擎上市交付，四款配置齐发，上市抢购价10.9",
-      "source": "第一电动",
-      "pushedAt": 1779568917194
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300285",
-      "title": "深蓝汽车携手葡萄牙国家队，全球主场宣言正式开启",
-      "source": "第一电动",
-      "pushedAt": 1779568917194
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300286",
-      "title": "长安汽车携手葡萄牙足球协会，开启全球化新征程",
-      "source": "第一电动",
-      "pushedAt": 1779576411074
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300301",
-      "title": "小米YU7GT暗红座舱主题亮相，38.99万元起售的纯血GT+跑车级SUV",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300296",
-      "title": "比亚迪方程豹豹5闪充版新色上市，1310公里续航+3分钟换胎技术",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300294",
-      "title": "销冠再进化！新款吉利星愿5月28日上市",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300291",
-      "title": "小米YU7GT新车上市即现“转单”潮，5000元返现背后藏猫腻？",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300289",
-      "title": "车厘子红配色 小米YU7 GT医疗车首次亮相",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300287",
-      "title": "小米YU7GT医疗车亮相赛道，红黄双车同台抢眼",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300300",
-      "title": "小米YU7真·标准版发布：643km续航23.35万起，5年低息优惠！",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/300299",
-      "title": "AI手机都没用上，就想AI装车？",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300292",
-      "title": "蔚来李斌：新能源汽车行业进入品牌澄清期，聚焦高端市场",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300295",
-      "title": "沃尔沃EX30泰国起火事件引发消费者保护机构诉讼",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300293",
-      "title": "EX30起火风波未消！泰国监管机构将起诉沃尔沃 车主要退款",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300298",
-      "title": "特斯拉FSD正式更名“特斯拉辅助驾驶” 售价维持6.4万元不变",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/300297",
-      "title": "2025款吉利银河M9完全评价报告",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/300290",
-      "title": "岚图泰山X8杀疯了！18小时大定15000台",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300288",
-      "title": "盖世周报 | 博世拿下奔驰电机供应大单；英伟达净利暴涨211%",
-      "source": "第一电动",
-      "pushedAt": 1779590588586
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300314",
       "title": "问界M9系列全球上市在即，订单破5万，车身结构全面升级",
@@ -7161,7 +7035,79 @@
       "title": "7万级方盒子，后独悬+Flyme Auto，吉利牛仔不讲武德",
       "source": "第一电动",
       "pushedAt": 1780153344010
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301273",
+      "title": "特斯拉FSD获爱沙尼亚批准，欧洲自动驾驶版图再扩张",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301271",
+      "title": "特斯拉FSD自动驾驶横穿加拿大，全程零人工干预创纪录！",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301267",
+      "title": "特斯拉Cybercab自动驾驶出租车即将在奥斯汀上路运营",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301266",
+      "title": "美国新法案或禁奔驰在美销售，中国资本持股近20%超限",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301264",
+      "title": "美国新法案或致奔驰美国市场禁售，中资持股超15%红线",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301272",
+      "title": "问界M9大灯投影《千里江山图》震撼登场，售价47.98万起",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/301270",
+      "title": "BBA放下身段 奥迪E7X门槛降至25.78万迎爆单",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/301269",
+      "title": "21.98万起 尚界Z7、Z7T开启大规模交付",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/301268",
+      "title": "法拉利CEO为自家纯电辩护 无法理解外界质疑",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301265",
+      "title": "GitHub Copilot计费模式大变：开发者月费飙升至750美元引吐槽",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/301263",
+      "title": "盖世周报 | 华为发表“韬（τ）定律”；李斌透露整车成本已涨1万元",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301262",
+      "title": "小米YU7系列空调升级！自然风模式全系标配，天际屏歌词功能揭秘",
+      "source": "第一电动",
+      "pushedAt": 1780196072118
     }
   ],
-  "lastUpdated": "2026-05-30"
+  "lastUpdated": "2026-05-31"
 }
