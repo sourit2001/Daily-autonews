@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299060",
-    "https://www.d1ev.com/newsflash/299059",
-    "https://www.d1ev.com/newsflash/299089",
     "https://www.d1ev.com/carnews/xinche/299082",
     "https://www.d1ev.com/carnews/xinche/299081",
     "https://www.d1ev.com/carnews/xinche/299078",
@@ -1999,27 +1996,12 @@
     "https://www.d1ev.com/newsflash/301300",
     "https://www.d1ev.com/newsflash/301302",
     "https://www.d1ev.com/newsflash/301298",
-    "https://www.d1ev.com/news/shichang/301297"
+    "https://www.d1ev.com/news/shichang/301297",
+    "https://www.d1ev.com/newsflash/301305",
+    "https://www.d1ev.com/newsflash/301304",
+    "https://www.d1ev.com/newsflash/301306"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300335",
-      "title": "长安汽车内幕交易案曝光：6100万买入获利400万，证监会重罚1669万！",
-      "source": "第一电动",
-      "pushedAt": 1779634708755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300334",
-      "title": "“问界M9系列预订破6万！鸿蒙智行+全主动悬架，新能源SUV新标杆”",
-      "source": "第一电动",
-      "pushedAt": 1779634708755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300333",
-      "title": "别克至境E7首月交付破万，刷新新能源车交付速度！",
-      "source": "第一电动",
-      "pushedAt": 1779634708755
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/300363",
       "title": "进行数字化升级 新款雷诺Scenic渲染图曝光",
@@ -7101,6 +7083,24 @@
       "title": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
       "source": "第一电动",
       "pushedAt": 1780233964291
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301305",
+      "title": "小鹏MONAL03 SUV亮相：家族设计+磷酸铁锂电池，续航升级！",
+      "source": "第一电动",
+      "pushedAt": 1780240555454
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301304",
+      "title": "稀宇科技拟发行人民币股份，探索科创板上市新路径",
+      "source": "第一电动",
+      "pushedAt": 1780240555454
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301306",
+      "title": "领克10首批车主交付！16.99万起，智能驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1780240555454
     }
   ],
   "lastUpdated": "2026-05-31"
