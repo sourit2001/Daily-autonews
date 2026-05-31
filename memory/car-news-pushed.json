@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/299082",
-    "https://www.d1ev.com/carnews/xinche/299081",
     "https://www.d1ev.com/carnews/xinche/299078",
     "https://www.d1ev.com/carnews/xinche/299077",
     "https://www.d1ev.com/newsflash/299068",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/shichang/301297",
     "https://www.d1ev.com/newsflash/301305",
     "https://www.d1ev.com/newsflash/301304",
-    "https://www.d1ev.com/newsflash/301306"
+    "https://www.d1ev.com/newsflash/301306",
+    "https://www.d1ev.com/newsflash/301308",
+    "https://www.d1ev.com/newsflash/301307"
   ],
   "newsHistory": [
     {
@@ -7101,7 +7101,19 @@
       "title": "领克10首批车主交付！16.99万起，智能驾驶新体验",
       "source": "第一电动",
       "pushedAt": 1780240555454
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301308",
+      "title": "华为乾崑技术加持，奕境X9大六座SUV强势来袭",
+      "source": "第一电动",
+      "pushedAt": 1780246937408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301307",
+      "title": "问界M8获C-IASI五项G级认证，家庭旗舰SUV安全新标杆",
+      "source": "第一电动",
+      "pushedAt": 1780246937408
     }
   ],
-  "lastUpdated": "2026-05-31"
+  "lastUpdated": "2026-06-01"
 }
