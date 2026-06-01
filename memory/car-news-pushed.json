@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/299251",
     "https://www.d1ev.com/news/qiye/299250",
     "https://www.d1ev.com/newsflash/299247",
     "https://www.d1ev.com/news/shichang/299242",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/newsflash/301459",
     "https://www.d1ev.com/newsflash/301458",
     "https://www.d1ev.com/newsflash/301455",
-    "https://www.d1ev.com/newsflash/301445"
+    "https://www.d1ev.com/newsflash/301445",
+    "https://www.d1ev.com/newsflash/301493"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300455",
-      "title": "小米YU7磷酸铁锂电池安全测试超国标 碳陶刹车盘寿命达50万公里",
-      "source": "第一电动",
-      "pushedAt": 1779725951541
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/300501",
       "title": "问界M6上市首月交付破两万",
@@ -7437,6 +7431,12 @@
       "title": "岚图汽车5月销量激增30%，累计交付量同比大增35%！",
       "source": "第一电动",
       "pushedAt": 1780329975095
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301493",
+      "title": "比亚迪5月销量破38万，上汽集团迎亿级用户里程碑",
+      "source": "第一电动",
+      "pushedAt": 1780344802623
     }
   ],
   "lastUpdated": "2026-06-02"
