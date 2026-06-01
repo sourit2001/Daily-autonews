@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/299250",
     "https://www.d1ev.com/newsflash/299247",
     "https://www.d1ev.com/news/shichang/299242",
     "https://www.d1ev.com/newsflash/299237",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/301458",
     "https://www.d1ev.com/newsflash/301455",
     "https://www.d1ev.com/newsflash/301445",
-    "https://www.d1ev.com/newsflash/301493"
+    "https://www.d1ev.com/newsflash/301493",
+    "https://www.d1ev.com/newsflash/301494"
   ],
   "newsHistory": [
     {
@@ -7437,6 +7437,12 @@
       "title": "比亚迪5月销量破38万，上汽集团迎亿级用户里程碑",
       "source": "第一电动",
       "pushedAt": 1780344802623
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301494",
+      "title": "阿里Qwen3.7-Plus发布：视觉与语言智能体新突破",
+      "source": "第一电动",
+      "pushedAt": 1780356219595
     }
   ],
   "lastUpdated": "2026-06-02"
