@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299385",
-    "https://www.d1ev.com/newsflash/299386",
-    "https://www.d1ev.com/newsflash/299383",
-    "https://www.d1ev.com/newsflash/299388",
-    "https://www.d1ev.com/newsflash/299389",
     "https://www.d1ev.com/newsflash/299393",
     "https://www.d1ev.com/newsflash/299391",
     "https://www.d1ev.com/newsflash/299392",
@@ -1999,27 +1994,14 @@
     "https://www.d1ev.com/news/qiye/301647",
     "https://www.d1ev.com/news/qiye/301649",
     "https://www.d1ev.com/newsflash/301648",
-    "https://www.d1ev.com/newsflash/301646"
+    "https://www.d1ev.com/newsflash/301646",
+    "https://www.d1ev.com/newsflash/301654",
+    "https://www.d1ev.com/newsflash/301653",
+    "https://www.d1ev.com/newsflash/301652",
+    "https://www.d1ev.com/newsflash/301651",
+    "https://www.d1ev.com/newsflash/301650"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/300631",
-      "title": "AI芯片新突破！摩尔线程PH100入选国家安全可靠测评",
-      "source": "第一电动",
-      "pushedAt": 1779819722011
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/300633",
-      "title": "塞尔维亚总统武契奇访小米，小米汽车明年进军欧洲市场",
-      "source": "第一电动",
-      "pushedAt": 1779819722011
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/300632",
-      "title": "卢伟冰明确：小米汽车2027年三四季度启动出海！",
-      "source": "第一电动",
-      "pushedAt": 1779819722011
-    },
     {
       "url": "https://www.d1ev.com/newsflash/300670",
       "title": "蔚来ES9首发智能驾驶新突破：直接操作方向盘与踏板技术革新",
@@ -7347,6 +7329,36 @@
       "title": "俄亥俄州暂停数据中心补贴，税收损失超预期引发担忧",
       "source": "第一电动",
       "pushedAt": 1780423377923
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301654",
+      "title": "微软联手梅奥诊所，AI助力全球医疗升级",
+      "source": "第一电动",
+      "pushedAt": 1780438806742
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301653",
+      "title": "微软Build2026大会发布自研AI新模型：推理、图像、语音全覆盖",
+      "source": "第一电动",
+      "pushedAt": 1780438806742
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301652",
+      "title": "微软推出全天候AI助理Scout，深度整合365生态提升效率",
+      "source": "第一电动",
+      "pushedAt": 1780438806742
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301651",
+      "title": "微软Build2026大会发布AI新系统ProjectSolara及两款概念设备",
+      "source": "第一电动",
+      "pushedAt": 1780438806742
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/301650",
+      "title": "微软发布WebIQ：AI智能体专用搜索API，响应速度领先市场2.5倍",
+      "source": "第一电动",
+      "pushedAt": 1780438806742
     }
   ],
   "lastUpdated": "2026-06-03"
