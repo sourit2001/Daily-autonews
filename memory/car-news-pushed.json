@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/299802",
-    "https://www.d1ev.com/news/shichang/299801",
     "https://www.d1ev.com/newsflash/299798",
     "https://www.d1ev.com/newsflash/299797",
     "https://www.d1ev.com/newsflash/299796",
@@ -1999,39 +1997,11 @@
     "https://www.d1ev.com/news/shichang/302031",
     "https://www.d1ev.com/news/shichang/302030",
     "https://www.d1ev.com/news/shichang/302029",
-    "https://www.d1ev.com/news/qiye/302074"
+    "https://www.d1ev.com/news/qiye/302074",
+    "https://www.d1ev.com/newsflash/302076",
+    "https://www.d1ev.com/news/qiye/302075"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301195",
-      "title": "“岚图泰山X8粤港澳车展上市，29.29万起售引爆高端新能源市场”",
-      "source": "第一电动",
-      "pushedAt": 1780079407774
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/301194",
-      "title": "上汽大众帕萨特ePro上市 售21.59万元起",
-      "source": "第一电动",
-      "pushedAt": 1780079407774
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301193",
-      "title": "领克10/领克10+纯电轿车上市，16.99万起售，900V高压架构加持！",
-      "source": "第一电动",
-      "pushedAt": 1780079407774
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/301192",
-      "title": "上汽大众途观L ePro上市 售价19.19万元起",
-      "source": "第一电动",
-      "pushedAt": 1780079407774
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/301191",
-      "title": "10.49万起，中国一汽悦意08全球预售",
-      "source": "第一电动",
-      "pushedAt": 1780079407774
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301196",
       "title": "“猛士M817开启智能越野新时代，37万起售享专属权益”",
@@ -6609,6 +6579,18 @@
       "title": "车窗玻璃不是越厚越好 小米科普YU7、新SU7夹层玻璃",
       "source": "第一电动",
       "pushedAt": 1780676879687
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302076",
+      "title": "比亚迪海豚纯电厢型车英国上市，续航超500公里，售价26.7万起",
+      "source": "第一电动",
+      "pushedAt": 1780688844685
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/302075",
+      "title": "经典小车电动化重生 大众ID.Polo量产下线：售19.7万人民币",
+      "source": "第一电动",
+      "pushedAt": 1780688844685
     }
   ],
   "lastUpdated": "2026-06-06"
