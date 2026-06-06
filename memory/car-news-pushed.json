@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/299758",
-    "https://www.d1ev.com/newsflash/299839",
-    "https://www.d1ev.com/newsflash/299838",
-    "https://www.d1ev.com/news/shichang/299832",
-    "https://www.d1ev.com/carnews/xinche/299829",
-    "https://www.d1ev.com/newsflash/299825",
-    "https://www.d1ev.com/newsflash/299823",
-    "https://www.d1ev.com/news/qiye/299818",
-    "https://www.d1ev.com/newsflash/299814",
-    "https://www.d1ev.com/newsflash/299845",
-    "https://www.d1ev.com/newsflash/299844",
-    "https://www.d1ev.com/newsflash/299842",
     "https://www.d1ev.com/news/shichang/299841",
     "https://www.d1ev.com/newsflash/299835",
     "https://www.d1ev.com/newsflash/299834",
@@ -1999,147 +1987,21 @@
     "https://www.d1ev.com/newsflash/302095",
     "https://www.d1ev.com/newsflash/302092",
     "https://www.d1ev.com/newsflash/302089",
-    "https://www.d1ev.com/newsflash/302088"
+    "https://www.d1ev.com/newsflash/302088",
+    "https://www.d1ev.com/newsflash/302108",
+    "https://www.d1ev.com/newsflash/302106",
+    "https://www.d1ev.com/newsflash/302101",
+    "https://www.d1ev.com/newsflash/302100",
+    "https://www.d1ev.com/newsflash/302109",
+    "https://www.d1ev.com/newsflash/302107",
+    "https://www.d1ev.com/newsflash/302104",
+    "https://www.d1ev.com/newsflash/302103",
+    "https://www.d1ev.com/newsflash/302099",
+    "https://www.d1ev.com/newsflash/302110",
+    "https://www.d1ev.com/newsflash/302105",
+    "https://www.d1ev.com/newsflash/302102"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301245",
-      "title": "领克10系列纯电轿车上市，3.2秒破百续航816km，补贴高达14000元",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301241",
-      "title": "法拉利Luce争议不断，全新AMG GT四门版欧洲售价曝光",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301239",
-      "title": "悍马X概念车亮相加州：电动越野新标杆，七屏互动未来感十足",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301238",
-      "title": "启境GT7开启预售 预售价21.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/301233",
-      "title": "“五界”多款新品重磅来袭，鸿蒙智行家族亮相2026粤港澳车展",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301229",
-      "title": "比亚迪天神之眼CNOA城市领航安全兜底服务详解：新车主免费享一年保障",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301227",
-      "title": "16万级iCAR赛博版暗影极客上市，纯电续航550km！",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301222",
-      "title": "启境GT7粤港澳车展预售开启，21.99万起享多重权益！",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301246",
-      "title": "AI裁员风波升级：澳软件公司CEO遭暴力威胁",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301242",
-      "title": "日本DataSection联手OpenAI，打造亚太AI新格局",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301236",
-      "title": "AI热潮降温？美国企业质疑AI投资回报，5亿美元账单成焦点",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301232",
-      "title": "微软夏末推Copilot超级应用：AI助手大整合，告别多工具切换时代",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301231",
-      "title": "“自动驾驶安全短板凸显：特斯拉FSD在中国“迷路”非机动车道”",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301230",
-      "title": "AI社会实验：Gemini犯罪率最高，Claude表现完美",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301228",
-      "title": "赛力斯携手火山引擎，66亿增资打造智能新能源车新品牌",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301225",
-      "title": "HermesAgent新功能：ToolSearch提升AI准确率至88.1%",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301223",
-      "title": "Linux应用商店Flathub禁止AI代码：开发者态度成导火索",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301244",
-      "title": "全球汽车销量微增1%，中国车市下半年有望回暖",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301240",
-      "title": "小鹏人形机器人IRON即将量产，年底试商用明年全球交付",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301243",
-      "title": "特斯拉FSD遭内部质疑：员工自曝不愿乘坐，安全问题频发",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301235",
-      "title": "宁德时代巧克力换电网络半年新增600站，2026年底目标3000座",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301226",
-      "title": "比亚迪罗忠良：商用车智能化，破解安全、成本、老龄化三大痛点",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301224",
-      "title": "尚界Z7/Z7T全国大规模交付启动，华为技术加持售价21.98万起",
-      "source": "第一电动",
-      "pushedAt": 1780135077997
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/301247",
       "title": "启境GT7开启预售：智能猎装赛道的新入局者",
@@ -6567,6 +6429,78 @@
       "title": "小米YU7现车2小时提车！30万级纯电SUV新选择",
       "source": "第一电动",
       "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302108",
+      "title": "鸿蒙智界V9上市21天订单破万，中高端MPV市场新宠",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302106",
+      "title": "宝马7系ALPINA版2027款曝光：V8动力+豪华升级",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302101",
+      "title": "比亚迪腾势Z超跑曝光：1000匹马力，2秒破百，即将挑战纽北！",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302100",
+      "title": "比亚迪腾势Z黑武士版亮相：千匹马力超跑，纽北赛道测试，内饰曝光",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302109",
+      "title": "美企AI成本飙升，中国AI公司DeepSeek成新宠",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302107",
+      "title": "人类工程师助力AI进化：Anthropic项目提升代码智能",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302104",
+      "title": "丰田5月在华销量大跌31.7%，电动车占比近7成",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302103",
+      "title": "微软CEO纳德拉：AI智能体管理新策略，Agent365工具套件助力",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302099",
+      "title": "孙正义预言：ASI超级智能2年内到来，AI自我进化加速",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302110",
+      "title": "奇瑞星途ES 2026款：4.9秒破百，赛道级智能底盘震撼来袭！",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302105",
+      "title": "中国机器人产业指数125.1创新高，工业服务机器人产量五年翻倍",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302102",
+      "title": "奥迪Nuvolari敞篷版或将问世，限量豪车再添新成员",
+      "source": "第一电动",
+      "pushedAt": 1780740115345
     }
   ],
   "lastUpdated": "2026-06-06"
