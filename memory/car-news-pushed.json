@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/299782",
-    "https://www.d1ev.com/news/shichang/299779",
-    "https://www.d1ev.com/news/shichang/299778",
-    "https://www.d1ev.com/newsflash/299777",
-    "https://www.d1ev.com/newsflash/299771",
-    "https://www.d1ev.com/newsflash/299770",
-    "https://www.d1ev.com/news/shichang/299769",
-    "https://www.d1ev.com/news/qiye/299766",
-    "https://www.d1ev.com/newsflash/299765",
-    "https://www.d1ev.com/news/shichang/299761",
-    "https://www.d1ev.com/news/shichang/299760",
-    "https://www.d1ev.com/news/shichang/299759",
     "https://www.d1ev.com/news/qiye/299758",
     "https://www.d1ev.com/newsflash/299839",
     "https://www.d1ev.com/newsflash/299838",
@@ -1999,93 +1987,21 @@
     "https://www.d1ev.com/newsflash/302077",
     "https://www.d1ev.com/news/qiye/302085",
     "https://www.d1ev.com/news/qiye/302084",
-    "https://www.d1ev.com/carnews/xinche/302080"
+    "https://www.d1ev.com/carnews/xinche/302080",
+    "https://www.d1ev.com/newsflash/302087",
+    "https://www.d1ev.com/newsflash/302098",
+    "https://www.d1ev.com/newsflash/302097",
+    "https://www.d1ev.com/newsflash/302094",
+    "https://www.d1ev.com/newsflash/302093",
+    "https://www.d1ev.com/newsflash/302091",
+    "https://www.d1ev.com/newsflash/302090",
+    "https://www.d1ev.com/newsflash/302096",
+    "https://www.d1ev.com/newsflash/302095",
+    "https://www.d1ev.com/newsflash/302092",
+    "https://www.d1ev.com/newsflash/302089",
+    "https://www.d1ev.com/newsflash/302088"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301219",
-      "title": "一汽悦意08预售开启：纯电增程双动力，智能座舱引领新风尚",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301215",
-      "title": "猛士M817硬派SUV预售开启，华为技术加持，37万起！",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301212",
-      "title": "梅赛德斯-AMG限量CLE63Mythos曝光，全球仅30辆超50万美元！",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301218",
-      "title": "车企巨头齐聚深圳，共议新能源汽车行业新周期：告别价格战，聚焦品牌与技术",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301217",
-      "title": "尚界Z7系列新能源轿车全国大规模交付，续航905公里+3.44秒破百！",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/301216",
-      "title": "不起火、不爆炸、不怕冷！宁德时代钠离子电池今年规模量产",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301213",
-      "title": "延锋陆传华：智能座舱正从功能驱动转向场景驱动",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301209",
-      "title": "OpenAI升级ChatGPT：GPT-5.5Instant减少幻觉，提升数学推理能力",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301208",
-      "title": "英伟达联手高校发布LocateAnything模型，AI定位速度新突破！",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301221",
-      "title": "江淮汽车携手华为深化合作，尊界S800销量破纪录",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301220",
-      "title": "小米YU7GT：防晒神车，全方位隔绝紫外线，夏日出行新选择！",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301214",
-      "title": "16.08万起！iCAR超级V23赛博版新推“暗影极客”纯黑内饰车型",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301211",
-      "title": "赛力斯新品牌赛豆科技6月发布，携手字节跳动开拓年轻市场",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301210",
-      "title": "中国车市正在经历一场“结构性塌陷”",
-      "source": "第一电动",
-      "pushedAt": 1780123587183
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301245",
       "title": "领克10系列纯电轿车上市，3.2秒破百续航816km，补贴高达14000元",
@@ -6579,6 +6495,78 @@
       "title": "长城魏牌全新高山7底盘抬升 魏建军全网征名",
       "source": "第一电动",
       "pushedAt": 1780713585075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302087",
+      "title": "特斯拉新一代Roadster首秀再延期，8月或更晚亮相",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302098",
+      "title": "美国白宫或入股OpenAI，共同打造“公共财富基金”",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302097",
+      "title": "2026世界杯新举措：AI审核过滤辱骂评论，保护球员免受网络暴力",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302094",
+      "title": "OpenAI全面开放ChatGPT“锁定模式” 防数据泄露风险升级",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302093",
+      "title": "微软AI模型训练数据疑云：宣称“干净数据”实则混用开放网络内容",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302091",
+      "title": "新能源车越重越豪华？车身增重趋势引发行业深思",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302090",
+      "title": "鸿蒙智行V9首批交付！21天订单破万，续航1320km智能MPV来袭",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302096",
+      "title": "“问界M9智能模式：自动调校动力底盘，驾驶更省心”",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302095",
+      "title": "字节跳动否认造车传闻，赛豆科技合作聚焦智能技术",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302092",
+      "title": "比亚迪否认“尧舜禹”人形机器人传闻，李柯谈机器人未来",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302089",
+      "title": "“琅琊”2.0发布：中国海洋预报迈入智能时代，精准预测海洋现象",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302088",
+      "title": "小米YU7现车2小时提车！30万级纯电SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1780728691610
     }
   ],
   "lastUpdated": "2026-06-06"
