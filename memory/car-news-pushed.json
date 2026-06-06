@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/299841",
-    "https://www.d1ev.com/newsflash/299835",
-    "https://www.d1ev.com/newsflash/299834",
-    "https://www.d1ev.com/newsflash/299833",
     "https://www.d1ev.com/news/qiye/299828",
     "https://www.d1ev.com/newsflash/299827",
     "https://www.d1ev.com/newsflash/299826",
@@ -1999,33 +1995,13 @@
     "https://www.d1ev.com/newsflash/302099",
     "https://www.d1ev.com/newsflash/302110",
     "https://www.d1ev.com/newsflash/302105",
-    "https://www.d1ev.com/newsflash/302102"
+    "https://www.d1ev.com/newsflash/302102",
+    "https://www.d1ev.com/newsflash/302115",
+    "https://www.d1ev.com/newsflash/302112",
+    "https://www.d1ev.com/newsflash/302114",
+    "https://www.d1ev.com/newsflash/302113"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/301247",
-      "title": "启境GT7开启预售：智能猎装赛道的新入局者",
-      "source": "第一电动",
-      "pushedAt": 1780139838697
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301249",
-      "title": "Meta监控员工电脑数据引发隐私争议，AI训练或违反GDPR",
-      "source": "第一电动",
-      "pushedAt": 1780139838697
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301248",
-      "title": "广汽孵化eVTOL企业高域工厂试产 年产百架AirCab飞行器",
-      "source": "第一电动",
-      "pushedAt": 1780139838697
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301250",
-      "title": "纯电车市占比或达50%，领克01纯电车型发布",
-      "source": "第一电动",
-      "pushedAt": 1780139838697
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301255",
       "title": "smart精灵#6EHD超级电混来袭，续航1810km震撼上市！",
@@ -6501,6 +6477,30 @@
       "title": "奥迪Nuvolari敞篷版或将问世，限量豪车再添新成员",
       "source": "第一电动",
       "pushedAt": 1780740115345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302115",
+      "title": "红旗G919硬派越野亮相：中式美学与硬核科技的完美结合",
+      "source": "第一电动",
+      "pushedAt": 1780745337027
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302112",
+      "title": "广汽昊铂S600即将上市，20万起售，4.3秒破百增程SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1780745337027
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302114",
+      "title": "AI助力工业革命：院士柴天佑论数字孪生体与智能决策",
+      "source": "第一电动",
+      "pushedAt": 1780745337027
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302113",
+      "title": "小鹏X9智能升级：园区地库NGP漫游+多项实用功能上线",
+      "source": "第一电动",
+      "pushedAt": 1780745337027
     }
   ],
   "lastUpdated": "2026-06-06"
