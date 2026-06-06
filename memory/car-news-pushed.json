@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299822",
-    "https://www.d1ev.com/newsflash/299806",
     "https://www.d1ev.com/newsflash/299840",
     "https://www.d1ev.com/newsflash/299820",
     "https://www.d1ev.com/news/qiye/299817",
@@ -1999,27 +1997,11 @@
     "https://www.d1ev.com/newsflash/302113",
     "https://www.d1ev.com/newsflash/302116",
     "https://www.d1ev.com/newsflash/302118",
-    "https://www.d1ev.com/newsflash/302117"
+    "https://www.d1ev.com/newsflash/302117",
+    "https://www.d1ev.com/newsflash/302120",
+    "https://www.d1ev.com/newsflash/302119"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301259",
-      "title": "全国首个绿色算力AI平台上线 呼和浩特开启算力新纪元",
-      "source": "第一电动",
-      "pushedAt": 1780153344010
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301260",
-      "title": "1毫米精度！rFpro推出日本箱根收费公路的数字孪生模型",
-      "source": "第一电动",
-      "pushedAt": 1780153344010
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301258",
-      "title": "7万级方盒子，后独悬+Flyme Auto，吉利牛仔不讲武德",
-      "source": "第一电动",
-      "pushedAt": 1780153344010
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301273",
       "title": "特斯拉FSD获爱沙尼亚批准，欧洲自动驾驶版图再扩张",
@@ -6477,6 +6459,18 @@
       "title": "Stellantis在马来西亚启动本地组装零跑C10、B10",
       "source": "第一电动",
       "pushedAt": 1780752003612
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302120",
+      "title": "广汽昊铂S600即将上市，20万级中大型SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1780758590967
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302119",
+      "title": "“告别无效闲聊！精简指令让AI节能25%”",
+      "source": "第一电动",
+      "pushedAt": 1780758590967
     }
   ],
   "lastUpdated": "2026-06-06"
