@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/299828",
-    "https://www.d1ev.com/newsflash/299827",
-    "https://www.d1ev.com/newsflash/299826",
     "https://www.d1ev.com/newsflash/299822",
     "https://www.d1ev.com/newsflash/299806",
     "https://www.d1ev.com/newsflash/299840",
@@ -1999,51 +1996,12 @@
     "https://www.d1ev.com/newsflash/302115",
     "https://www.d1ev.com/newsflash/302112",
     "https://www.d1ev.com/newsflash/302114",
-    "https://www.d1ev.com/newsflash/302113"
+    "https://www.d1ev.com/newsflash/302113",
+    "https://www.d1ev.com/newsflash/302116",
+    "https://www.d1ev.com/newsflash/302118",
+    "https://www.d1ev.com/newsflash/302117"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301255",
-      "title": "smart精灵#6EHD超级电混来袭，续航1810km震撼上市！",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301252",
-      "title": "吉利智驾团队整合入千里科技，助力打造“第二个华为”",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301257",
-      "title": "潮酷颜值、越级智能、极致驾控、价格全拉满，2026款吉利牛仔限时优享价7.59万元起售",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301256",
-      "title": "东风日产粤港澳车展推三无忧服务，终身质保省2万！",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301254",
-      "title": "吉利牛仔2026款硬派来袭：8.19万起售，1.5TD动力+L2辅助驾驶！",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301253",
-      "title": "小米YU7GT深圳首批交付，38.99万起售享8.5万权益！",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301251",
-      "title": "小米MiMo-V2.5系列API永久降价 最高降幅达99%",
-      "source": "第一电动",
-      "pushedAt": 1780147049294
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301259",
       "title": "全国首个绿色算力AI平台上线 呼和浩特开启算力新纪元",
@@ -6501,6 +6459,24 @@
       "title": "小鹏X9智能升级：园区地库NGP漫游+多项实用功能上线",
       "source": "第一电动",
       "pushedAt": 1780745337027
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302116",
+      "title": "红旗G919硬派越野亮相：增程混动+华为ADS，性能强悍",
+      "source": "第一电动",
+      "pushedAt": 1780752003612
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302118",
+      "title": "东风OpenVAN无人物流车发布，4000台订单8月交付",
+      "source": "第一电动",
+      "pushedAt": 1780752003612
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302117",
+      "title": "Stellantis在马来西亚启动本地组装零跑C10、B10",
+      "source": "第一电动",
+      "pushedAt": 1780752003612
     }
   ],
   "lastUpdated": "2026-06-06"
