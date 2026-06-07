@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/299903",
-    "https://www.d1ev.com/newsflash/299900",
-    "https://www.d1ev.com/carnews/xinche/299899",
-    "https://www.d1ev.com/newsflash/299897",
-    "https://www.d1ev.com/carnews/xinche/299894",
     "https://www.d1ev.com/carnews/xinche/299890",
     "https://www.d1ev.com/newsflash/299887",
     "https://www.d1ev.com/news/qiye/299883",
@@ -1999,27 +1994,14 @@
     "https://www.d1ev.com/newsflash/302165",
     "https://www.d1ev.com/newsflash/302164",
     "https://www.d1ev.com/newsflash/302163",
-    "https://www.d1ev.com/newsflash/302162"
+    "https://www.d1ev.com/newsflash/302162",
+    "https://www.d1ev.com/newsflash/302170",
+    "https://www.d1ev.com/newsflash/302169",
+    "https://www.d1ev.com/carnews/xinche/302168",
+    "https://www.d1ev.com/newsflash/302171",
+    "https://www.d1ev.com/newsflash/302172"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301305",
-      "title": "小鹏MONAL03 SUV亮相：家族设计+磷酸铁锂电池，续航升级！",
-      "source": "第一电动",
-      "pushedAt": 1780240555454
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301304",
-      "title": "稀宇科技拟发行人民币股份，探索科创板上市新路径",
-      "source": "第一电动",
-      "pushedAt": 1780240555454
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301306",
-      "title": "领克10首批车主交付！16.99万起，智能驾驶新体验",
-      "source": "第一电动",
-      "pushedAt": 1780240555454
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301308",
       "title": "华为乾崑技术加持，奕境X9大六座SUV强势来袭",
@@ -6483,6 +6465,36 @@
       "title": "鸿蒙智行智界V9首批交付，18000订单均价50万！",
       "source": "第一电动",
       "pushedAt": 1780839073326
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302170",
+      "title": "东风风行星海V9焕新上市，16.99万起享超长续航混动SUV",
+      "source": "第一电动",
+      "pushedAt": 1780845660684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302169",
+      "title": "东风柳汽“十五五”战略发布：氢能重卡续航超1700公里，星海V9上市",
+      "source": "第一电动",
+      "pushedAt": 1780845660684
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/302168",
+      "title": "2027款星海V9正式上市 售价17.99-22.99万元",
+      "source": "第一电动",
+      "pushedAt": 1780845660684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302171",
+      "title": "华为云“智果园”发布：AI智能体新纪元，一键调用主流大模型！",
+      "source": "第一电动",
+      "pushedAt": 1780845660684
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302172",
+      "title": "特斯拉印度建厂计划告吹，市场不确定性成关键分歧",
+      "source": "第一电动",
+      "pushedAt": 1780845660684
     }
   ],
   "lastUpdated": "2026-06-07"
