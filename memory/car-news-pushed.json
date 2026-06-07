@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299848",
-    "https://www.d1ev.com/newsflash/299859",
-    "https://www.d1ev.com/news/shichang/299862",
-    "https://www.d1ev.com/newsflash/299858",
-    "https://www.d1ev.com/newsflash/299856",
-    "https://www.d1ev.com/newsflash/299855",
     "https://www.d1ev.com/newsflash/299852",
     "https://www.d1ev.com/news/qiye/299873",
     "https://www.d1ev.com/newsflash/299871",
@@ -1999,45 +1993,15 @@
     "https://www.d1ev.com/newsflash/302149",
     "https://www.d1ev.com/newsflash/302146",
     "https://www.d1ev.com/carnews/xinche/302141",
-    "https://www.d1ev.com/news/qiye/302140"
+    "https://www.d1ev.com/news/qiye/302140",
+    "https://www.d1ev.com/newsflash/302161",
+    "https://www.d1ev.com/newsflash/302157",
+    "https://www.d1ev.com/newsflash/302160",
+    "https://www.d1ev.com/news/shichang/302159",
+    "https://www.d1ev.com/newsflash/302156",
+    "https://www.d1ev.com/news/shichang/302158"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301294",
-      "title": "74岁老人点燃杨絮引发大连停车场火灾，20辆新车烧成空架",
-      "source": "第一电动",
-      "pushedAt": 1780222325228
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301293",
-      "title": "领克10系列纯电轿车上市！限时优惠价16.99万起，续航高达816km",
-      "source": "第一电动",
-      "pushedAt": 1780222325228
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301292",
-      "title": "吉利熊猫勇士6月1日上市，4.69万起售，续航210公里！",
-      "source": "第一电动",
-      "pushedAt": 1780222325228
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301295",
-      "title": "新能源车维修费惊人：小磕碰竟要5700元，车主直呼“修不起”",
-      "source": "第一电动",
-      "pushedAt": 1780222325228
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301296",
-      "title": "E周看点｜李斌称整车成本已涨1万多元；宁德时代再融50亿",
-      "source": "第一电动",
-      "pushedAt": 1780222325228
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301291",
-      "title": "比亚迪城市领航安全兜底政策迅速落地，车主事故获全额赔付",
-      "source": "第一电动",
-      "pushedAt": 1780222325228
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301299",
       "title": "领克10系列电车上市：全球最快充电速度，续航超700km",
@@ -6489,6 +6453,42 @@
       "title": "乘用车12年增重近400kg 专家：有车企为卖点 在车内加马桶",
       "source": "第一电动",
       "pushedAt": 1780818919215
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302161",
+      "title": "智界R7L谍照曝光：加长版轿跑SUV后排空间大升级",
+      "source": "第一电动",
+      "pushedAt": 1780827938227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302157",
+      "title": "谷歌AI助手漏洞曝光：WhatsApp短信成黑客新武器",
+      "source": "第一电动",
+      "pushedAt": 1780827938227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302160",
+      "title": "新能源车增重加剧道路损耗，油电同权收费规则稳步推进",
+      "source": "第一电动",
+      "pushedAt": 1780827938227
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/302159",
+      "title": "E周看点 | 雷克萨斯叫停纯电轿车项目；印度塔塔拟借力奇瑞技术加码高端电动车",
+      "source": "第一电动",
+      "pushedAt": 1780827938227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302156",
+      "title": "燃油车降价潮汹涌！32款车降价，新能源车型销量霸榜",
+      "source": "第一电动",
+      "pushedAt": 1780827938227
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/302158",
+      "title": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
+      "source": "第一电动",
+      "pushedAt": 1780827938227
     }
   ],
   "lastUpdated": "2026-06-07"
