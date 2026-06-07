@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/299852",
-    "https://www.d1ev.com/news/qiye/299873",
-    "https://www.d1ev.com/newsflash/299871",
-    "https://www.d1ev.com/newsflash/299875",
-    "https://www.d1ev.com/newsflash/299874",
-    "https://www.d1ev.com/newsflash/299876",
     "https://www.d1ev.com/news/shichang/299903",
     "https://www.d1ev.com/newsflash/299900",
     "https://www.d1ev.com/carnews/xinche/299899",
@@ -1999,51 +1993,15 @@
     "https://www.d1ev.com/newsflash/302160",
     "https://www.d1ev.com/news/shichang/302159",
     "https://www.d1ev.com/newsflash/302156",
-    "https://www.d1ev.com/news/shichang/302158"
+    "https://www.d1ev.com/news/shichang/302158",
+    "https://www.d1ev.com/newsflash/302167",
+    "https://www.d1ev.com/newsflash/302166",
+    "https://www.d1ev.com/newsflash/302165",
+    "https://www.d1ev.com/newsflash/302164",
+    "https://www.d1ev.com/newsflash/302163",
+    "https://www.d1ev.com/newsflash/302162"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301299",
-      "title": "领克10系列电车上市：全球最快充电速度，续航超700km",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301303",
-      "title": "小米YU7标准版续航实测：643km续航达成率近97%",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301301",
-      "title": "中国电动车大举进军加拿大市场，美国汽车业焦虑升级",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301300",
-      "title": "比亚迪加入自研芯片战局，推出4纳米“璇玑A3”芯片",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301302",
-      "title": "极石汽车5月销量猛增66%，全球订单持续攀升！",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301298",
-      "title": "极石汽车5月销量飙升66%，全球订单持续增长",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/301297",
-      "title": "小智一周要闻 | 小鹏机器人进入量产冲刺阶段；灵心巧手并购京灵智康",
-      "source": "第一电动",
-      "pushedAt": 1780233964291
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301305",
       "title": "小鹏MONAL03 SUV亮相：家族设计+磷酸铁锂电池，续航升级！",
@@ -6489,6 +6447,42 @@
       "title": "小智一周要闻 | 比亚迪正在研发人形机器人；宇树科创板IPO过会",
       "source": "第一电动",
       "pushedAt": 1780827938227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302167",
+      "title": "特斯拉全新Roadster超跑即将亮相，1.1秒破百神话成真？",
+      "source": "第一电动",
+      "pushedAt": 1780839073326
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302166",
+      "title": "新能源车市渗透率创新高，燃油车降价难挽销量颓势",
+      "source": "第一电动",
+      "pushedAt": 1780839073326
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302165",
+      "title": "智界V9首销21天订单破万，Ultra版成爆款！",
+      "source": "第一电动",
+      "pushedAt": 1780839073326
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302164",
+      "title": "高考期间车载智能功能受限，鸿蒙智行提醒车主注意行驶安全",
+      "source": "第一电动",
+      "pushedAt": 1780839073326
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302163",
+      "title": "奇瑞星途ES 2026款：4.9秒破百，赛道级性能轿跑来袭",
+      "source": "第一电动",
+      "pushedAt": 1780839073326
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302162",
+      "title": "鸿蒙智行智界V9首批交付，18000订单均价50万！",
+      "source": "第一电动",
+      "pushedAt": 1780839073326
     }
   ],
   "lastUpdated": "2026-06-07"
