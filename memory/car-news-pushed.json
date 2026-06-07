@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/299890",
-    "https://www.d1ev.com/newsflash/299887",
     "https://www.d1ev.com/news/qiye/299883",
     "https://www.d1ev.com/newsflash/299896",
     "https://www.d1ev.com/newsflash/299881",
@@ -1999,21 +1997,11 @@
     "https://www.d1ev.com/newsflash/302169",
     "https://www.d1ev.com/carnews/xinche/302168",
     "https://www.d1ev.com/newsflash/302171",
-    "https://www.d1ev.com/newsflash/302172"
+    "https://www.d1ev.com/newsflash/302172",
+    "https://www.d1ev.com/news/qiye/302175",
+    "https://www.d1ev.com/newsflash/302174"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301308",
-      "title": "华为乾崑技术加持，奕境X9大六座SUV强势来袭",
-      "source": "第一电动",
-      "pushedAt": 1780246937408
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301307",
-      "title": "问界M8获C-IASI五项G级认证，家庭旗舰SUV安全新标杆",
-      "source": "第一电动",
-      "pushedAt": 1780246937408
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301363",
       "title": "比亚迪方程豹方程S系列亮相，全场景轿车新选择即将上市",
@@ -6495,7 +6483,19 @@
       "title": "特斯拉印度建厂计划告吹，市场不确定性成关键分歧",
       "source": "第一电动",
       "pushedAt": 1780845660684
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/302175",
+      "title": "2027款东风风行星海V9上市，官方指导价17.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1780852164648
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302174",
+      "title": "电车增重成趋势，未来政策或将限制能耗与重量",
+      "source": "第一电动",
+      "pushedAt": 1780852164648
     }
   ],
-  "lastUpdated": "2026-06-07"
+  "lastUpdated": "2026-06-08"
 }
