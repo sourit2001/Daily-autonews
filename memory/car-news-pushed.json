@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/300035",
-    "https://www.d1ev.com/newsflash/300033",
-    "https://www.d1ev.com/newsflash/300032",
     "https://www.d1ev.com/newsflash/300023",
     "https://www.d1ev.com/newsflash/300021",
     "https://www.d1ev.com/newsflash/300019",
@@ -1999,15 +1996,12 @@
     "https://www.d1ev.com/newsflash/302309",
     "https://www.d1ev.com/newsflash/302307",
     "https://www.d1ev.com/newsflash/302308",
-    "https://www.d1ev.com/newsflash/302305"
+    "https://www.d1ev.com/newsflash/302305",
+    "https://www.d1ev.com/newsflash/302313",
+    "https://www.d1ev.com/newsflash/302312",
+    "https://www.d1ev.com/newsflash/302311"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301493",
-      "title": "比亚迪5月销量破38万，上汽集团迎亿级用户里程碑",
-      "source": "第一电动",
-      "pushedAt": 1780344802623
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301494",
       "title": "阿里Qwen3.7-Plus发布：视觉与语言智能体新突破",
@@ -6303,6 +6297,24 @@
       "title": "小米MiMo-V2.5-Pro突破1000tokens/s，UltraSpeed模式震撼上线",
       "source": "第一电动",
       "pushedAt": 1780942999217
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302313",
+      "title": "苹果SiriAI升级：自定义语音助手声音，更自然对话体验",
+      "source": "第一电动",
+      "pushedAt": 1780955243131
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302312",
+      "title": "苹果WWDC26发布SiriAI新功能，中国大陆暂不提供",
+      "source": "第一电动",
+      "pushedAt": 1780955243131
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302311",
+      "title": "苹果SiriAI功能受限：中国大陆暂不提供，欧盟地区推迟上线",
+      "source": "第一电动",
+      "pushedAt": 1780955243131
     }
   ],
   "lastUpdated": "2026-06-09"
