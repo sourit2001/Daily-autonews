@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300023",
     "https://www.d1ev.com/newsflash/300021",
     "https://www.d1ev.com/newsflash/300019",
     "https://www.d1ev.com/newsflash/300010",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/302305",
     "https://www.d1ev.com/newsflash/302313",
     "https://www.d1ev.com/newsflash/302312",
-    "https://www.d1ev.com/newsflash/302311"
+    "https://www.d1ev.com/newsflash/302311",
+    "https://www.d1ev.com/newsflash/302314"
   ],
   "newsHistory": [
     {
@@ -6315,6 +6315,12 @@
       "title": "苹果SiriAI功能受限：中国大陆暂不提供，欧盟地区推迟上线",
       "source": "第一电动",
       "pushedAt": 1780955243131
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302314",
+      "title": "OpenAI递交S-1文件 为上市铺路 或需等待市场环境",
+      "source": "第一电动",
+      "pushedAt": 1780960213356
     }
   ],
   "lastUpdated": "2026-06-09"
