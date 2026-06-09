@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300164",
-    "https://www.d1ev.com/newsflash/300162",
-    "https://www.d1ev.com/newsflash/300183",
-    "https://www.d1ev.com/newsflash/300186",
-    "https://www.d1ev.com/newsflash/300184",
     "https://www.d1ev.com/newsflash/300181",
     "https://www.d1ev.com/newsflash/300180",
     "https://www.d1ev.com/carnews/xinche/300177",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/302448",
     "https://www.d1ev.com/news/qiye/302447",
     "https://www.d1ev.com/news/shichang/302442",
-    "https://www.d1ev.com/newsflash/302439"
+    "https://www.d1ev.com/newsflash/302439",
+    "https://www.d1ev.com/newsflash/302473",
+    "https://www.d1ev.com/newsflash/302475",
+    "https://www.d1ev.com/newsflash/302476",
+    "https://www.d1ev.com/newsflash/302474",
+    "https://www.d1ev.com/newsflash/302472"
   ],
   "newsHistory": [
     {
@@ -6417,7 +6417,37 @@
       "title": "北汽享界SUV即将量产，华为智选车加持新动力",
       "source": "第一电动",
       "pushedAt": 1781015800718
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302473",
+      "title": "优世界超仿生机器人预售8天破3000台，售价30万元起",
+      "source": "第一电动",
+      "pushedAt": 1781027759735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302475",
+      "title": "“秒速适应光线变化！宾州大学研发仿生眼提升自动驾驶安全”",
+      "source": "第一电动",
+      "pushedAt": 1781027759735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302476",
+      "title": "美国议员拟禁中国车入境，保护本土汽车业还是选举策略？",
+      "source": "第一电动",
+      "pushedAt": 1781027759735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302474",
+      "title": "奥迪Nuvolari超跑全球限量499台，三电机+V8动力，未来设计风向标",
+      "source": "第一电动",
+      "pushedAt": 1781027759735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302472",
+      "title": "小鹏MONAM03新语音彩蛋上线，星瞳虚拟时尚博主助阵智能出行",
+      "source": "第一电动",
+      "pushedAt": 1781027759735
     }
   ],
-  "lastUpdated": "2026-06-09"
+  "lastUpdated": "2026-06-10"
 }
