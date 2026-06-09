@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300181",
     "https://www.d1ev.com/newsflash/300180",
     "https://www.d1ev.com/carnews/xinche/300177",
     "https://www.d1ev.com/newsflash/300174",
@@ -1999,63 +1998,10 @@
     "https://www.d1ev.com/newsflash/302475",
     "https://www.d1ev.com/newsflash/302476",
     "https://www.d1ev.com/newsflash/302474",
-    "https://www.d1ev.com/newsflash/302472"
+    "https://www.d1ev.com/newsflash/302472",
+    "https://www.d1ev.com/newsflash/302477"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/301647",
-      "title": "第五代瑞虎8等三款新车上市，限时价9.29万元起",
-      "source": "第一电动",
-      "pushedAt": 1780423377923
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/301649",
-      "title": "劳斯莱斯造车历史最强动力车 闪灵二代正式发布：续航猛涨",
-      "source": "第一电动",
-      "pushedAt": 1780423377923
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301648",
-      "title": "上汽集团2亿欧元建厂西班牙，2028年投产新能源车",
-      "source": "第一电动",
-      "pushedAt": 1780423377923
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301646",
-      "title": "俄亥俄州暂停数据中心补贴，税收损失超预期引发担忧",
-      "source": "第一电动",
-      "pushedAt": 1780423377923
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301654",
-      "title": "微软联手梅奥诊所，AI助力全球医疗升级",
-      "source": "第一电动",
-      "pushedAt": 1780438806742
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301653",
-      "title": "微软Build2026大会发布自研AI新模型：推理、图像、语音全覆盖",
-      "source": "第一电动",
-      "pushedAt": 1780438806742
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301652",
-      "title": "微软推出全天候AI助理Scout，深度整合365生态提升效率",
-      "source": "第一电动",
-      "pushedAt": 1780438806742
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301651",
-      "title": "微软Build2026大会发布AI新系统ProjectSolara及两款概念设备",
-      "source": "第一电动",
-      "pushedAt": 1780438806742
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301650",
-      "title": "微软发布WebIQ：AI智能体专用搜索API，响应速度领先市场2.5倍",
-      "source": "第一电动",
-      "pushedAt": 1780438806742
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301707",
       "title": "2026款宾利飞驰焕新登场：运动S版亮相，混动性能升级！",
@@ -6447,6 +6393,12 @@
       "title": "小鹏MONAM03新语音彩蛋上线，星瞳虚拟时尚博主助阵智能出行",
       "source": "第一电动",
       "pushedAt": 1781027759735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302477",
+      "title": "新能源车“增肥”趋势引发多重风险，城市道路能否承受？",
+      "source": "第一电动",
+      "pushedAt": 1781046904766
     }
   ],
   "lastUpdated": "2026-06-10"
