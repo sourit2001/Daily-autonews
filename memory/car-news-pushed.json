@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/300354",
     "https://www.d1ev.com/news/qiye/300345",
     "https://www.d1ev.com/newsflash/300341",
     "https://www.d1ev.com/newsflash/300370",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/news/qiye/302641",
     "https://www.d1ev.com/newsflash/302638",
     "https://www.d1ev.com/newsflash/302637",
-    "https://www.d1ev.com/newsflash/302643"
+    "https://www.d1ev.com/newsflash/302643",
+    "https://www.d1ev.com/newsflash/302646"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301796",
-      "title": "美国银行实习生录取率仅0.8%，AI时代华尔街新人将如何适应？",
-      "source": "第一电动",
-      "pushedAt": 1780516014923
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301847",
       "title": "智界汽车再添新成员，FUV谍照曝光设计大变样",
@@ -6435,6 +6429,12 @@
       "title": "本田社长三部敏宏遭弹劾：中国市场忽视导致70年首亏，面临降薪处罚",
       "source": "第一电动",
       "pushedAt": 1781110550209
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302646",
+      "title": "尊界V680来袭：短轴版MPV空间灵活，1.5T增程动力系统加持",
+      "source": "第一电动",
+      "pushedAt": 1781122944355
     }
   ],
   "lastUpdated": "2026-06-11"
