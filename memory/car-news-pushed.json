@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/300345",
-    "https://www.d1ev.com/newsflash/300341",
-    "https://www.d1ev.com/newsflash/300370",
-    "https://www.d1ev.com/newsflash/300365",
-    "https://www.d1ev.com/newsflash/300364",
     "https://www.d1ev.com/news/shichang/300358",
     "https://www.d1ev.com/newsflash/300357",
     "https://www.d1ev.com/newsflash/300355",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/302638",
     "https://www.d1ev.com/newsflash/302637",
     "https://www.d1ev.com/newsflash/302643",
-    "https://www.d1ev.com/newsflash/302646"
+    "https://www.d1ev.com/newsflash/302646",
+    "https://www.d1ev.com/news/shichang/302649",
+    "https://www.d1ev.com/news/shichang/302651",
+    "https://www.d1ev.com/newsflash/302648",
+    "https://www.d1ev.com/newsflash/302647",
+    "https://www.d1ev.com/news/shichang/302650"
   ],
   "newsHistory": [
     {
@@ -6435,6 +6435,36 @@
       "title": "尊界V680来袭：短轴版MPV空间灵活，1.5T增程动力系统加持",
       "source": "第一电动",
       "pushedAt": 1781122944355
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/302649",
+      "title": "【盖世快讯】5月我国汽车出口量同比增长68.7%；郭锐解释智界RX新车命名由来",
+      "source": "第一电动",
+      "pushedAt": 1781133725006
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/302651",
+      "title": "AI大厂抢着给车企“打工”，这波操作图啥？",
+      "source": "第一电动",
+      "pushedAt": 1781133725006
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302648",
+      "title": "新能源车“增重潮”：12年增400公斤，城市交通面临新挑战",
+      "source": "第一电动",
+      "pushedAt": 1781133725006
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302647",
+      "title": "小米MiMoCode开源AI编程助手：一键搞定设计到审查全流程",
+      "source": "第一电动",
+      "pushedAt": 1781133725006
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/302650",
+      "title": "6月首周乘用车零售数据出炉，释放了哪些信号？",
+      "source": "第一电动",
+      "pushedAt": 1781133725006
     }
   ],
   "lastUpdated": "2026-06-11"
