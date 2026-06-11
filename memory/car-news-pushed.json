@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300530",
-    "https://www.d1ev.com/newsflash/300529",
-    "https://www.d1ev.com/newsflash/300525",
-    "https://www.d1ev.com/newsflash/300518",
-    "https://www.d1ev.com/newsflash/300510",
     "https://www.d1ev.com/newsflash/300549",
     "https://www.d1ev.com/news/shichang/300546",
     "https://www.d1ev.com/newsflash/300543",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/302780",
     "https://www.d1ev.com/newsflash/302777",
     "https://www.d1ev.com/carnews/xinche/302776",
-    "https://www.d1ev.com/news/qiye/302772"
+    "https://www.d1ev.com/news/qiye/302772",
+    "https://www.d1ev.com/news/qiye/302843",
+    "https://www.d1ev.com/newsflash/302844",
+    "https://www.d1ev.com/newsflash/302842",
+    "https://www.d1ev.com/newsflash/302840",
+    "https://www.d1ev.com/newsflash/302841"
   ],
   "newsHistory": [
     {
@@ -6603,7 +6603,37 @@
       "title": "奇瑞与引望签约合作",
       "source": "第一电动",
       "pushedAt": 1781186153614
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/302843",
+      "title": "传祺向往M8 PHEV L与全新E8 PHEV上市，26.98万元/18.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1781199271610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302844",
+      "title": "保时捷Taycan销量下滑，电动化战略调整转向电动Macan",
+      "source": "第一电动",
+      "pushedAt": 1781199271610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302842",
+      "title": "宝马iX3长轴距版青海湖续航挑战：805.8公里仅耗2%电量",
+      "source": "第一电动",
+      "pushedAt": 1781199271610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302840",
+      "title": "小米YU7GT续航惊人：城区百公里电耗仅11.4kWh！",
+      "source": "第一电动",
+      "pushedAt": 1781199271610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302841",
+      "title": "小米YU7系列安全升级：三重冗余门把手保障逃生安全",
+      "source": "第一电动",
+      "pushedAt": 1781199271610
     }
   ],
-  "lastUpdated": "2026-06-11"
+  "lastUpdated": "2026-06-12"
 }
