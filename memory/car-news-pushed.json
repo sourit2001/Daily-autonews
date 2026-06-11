@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300549",
     "https://www.d1ev.com/news/shichang/300546",
     "https://www.d1ev.com/newsflash/300543",
     "https://www.d1ev.com/newsflash/300542",
@@ -1999,27 +1998,10 @@
     "https://www.d1ev.com/newsflash/302844",
     "https://www.d1ev.com/newsflash/302842",
     "https://www.d1ev.com/newsflash/302840",
-    "https://www.d1ev.com/newsflash/302841"
+    "https://www.d1ev.com/newsflash/302841",
+    "https://www.d1ev.com/newsflash/302846"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/301938",
-      "title": "小鹏AI技术惊艳CVPR，智能驾驶体验再升级！",
-      "source": "第一电动",
-      "pushedAt": 1780603093291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301937",
-      "title": "宝马iX3续航超官方标定，实测781公里夺冠新能源车测试",
-      "source": "第一电动",
-      "pushedAt": 1780603093291
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/301936",
-      "title": "“纯电复古风潮来袭：宾利Blower电动版全球限量发布”",
-      "source": "第一电动",
-      "pushedAt": 1780603093291
-    },
     {
       "url": "https://www.d1ev.com/newsflash/301969",
       "title": "小鹏机器人元老施晓鑫离职，新一代IRON人形机器人即将亮相",
@@ -6633,6 +6615,12 @@
       "title": "小米YU7系列安全升级：三重冗余门把手保障逃生安全",
       "source": "第一电动",
       "pushedAt": 1781199271610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302846",
+      "title": "全新smart#6上市：17.79万起，豪华智能掀背轿车新选择",
+      "source": "第一电动",
+      "pushedAt": 1781219859752
     }
   ],
   "lastUpdated": "2026-06-12"
