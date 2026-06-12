@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/300672",
     "https://www.d1ev.com/news/shichang/300668",
     "https://www.d1ev.com/carnews/xinche/300664",
     "https://www.d1ev.com/newsflash/300661",
@@ -1999,21 +1998,10 @@
     "https://www.d1ev.com/newsflash/302926",
     "https://www.d1ev.com/newsflash/302925",
     "https://www.d1ev.com/newsflash/302920",
-    "https://www.d1ev.com/newsflash/302985"
+    "https://www.d1ev.com/newsflash/302985",
+    "https://www.d1ev.com/newsflash/302986"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302076",
-      "title": "比亚迪海豚纯电厢型车英国上市，续航超500公里，售价26.7万起",
-      "source": "第一电动",
-      "pushedAt": 1780688844685
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/302075",
-      "title": "经典小车电动化重生 大众ID.Polo量产下线：售19.7万人民币",
-      "source": "第一电动",
-      "pushedAt": 1780688844685
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302086",
       "title": "北京越野BJ30高光版6月12日上市，第十五万台新车下线",
@@ -6603,6 +6591,12 @@
       "title": "燃油车价格腰斩！国产电车冲击下，豪华品牌被迫降价求生",
       "source": "第一电动",
       "pushedAt": 1781282439691
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302986",
+      "title": "宝马M新世代概念车全球首发：电动赛车新纪元，1000马力震撼登场！",
+      "source": "第一电动",
+      "pushedAt": 1781294486598
     }
   ],
   "lastUpdated": "2026-06-13"
