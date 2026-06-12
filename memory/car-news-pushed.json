@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300637",
     "https://www.d1ev.com/news/shichang/300672",
     "https://www.d1ev.com/news/shichang/300668",
     "https://www.d1ev.com/carnews/xinche/300664",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/news/shichang/302930",
     "https://www.d1ev.com/newsflash/302926",
     "https://www.d1ev.com/newsflash/302925",
-    "https://www.d1ev.com/newsflash/302920"
+    "https://www.d1ev.com/newsflash/302920",
+    "https://www.d1ev.com/newsflash/302985"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/302074",
-      "title": "车窗玻璃不是越厚越好 小米科普YU7、新SU7夹层玻璃",
-      "source": "第一电动",
-      "pushedAt": 1780676879687
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302076",
       "title": "比亚迪海豚纯电厢型车英国上市，续航超500公里，售价26.7万起",
@@ -6603,7 +6597,13 @@
       "title": "蔚来NOMI遭山寨仿冒，行车安全风险升级！",
       "source": "第一电动",
       "pushedAt": 1781268728338
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302985",
+      "title": "燃油车价格腰斩！国产电车冲击下，豪华品牌被迫降价求生",
+      "source": "第一电动",
+      "pushedAt": 1781282439691
     }
   ],
-  "lastUpdated": "2026-06-12"
+  "lastUpdated": "2026-06-13"
 }
