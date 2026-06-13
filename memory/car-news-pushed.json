@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/300668",
-    "https://www.d1ev.com/carnews/xinche/300664",
-    "https://www.d1ev.com/newsflash/300661",
-    "https://www.d1ev.com/carnews/xinche/300656",
-    "https://www.d1ev.com/news/shichang/300655",
-    "https://www.d1ev.com/news/qiye/300654",
-    "https://www.d1ev.com/news/shichang/300653",
-    "https://www.d1ev.com/news/qiye/300650",
-    "https://www.d1ev.com/news/qiye/300645",
-    "https://www.d1ev.com/news/shichang/300641",
-    "https://www.d1ev.com/news/shichang/300640",
-    "https://www.d1ev.com/news/shichang/300639",
-    "https://www.d1ev.com/newsflash/300634",
-    "https://www.d1ev.com/newsflash/300729",
-    "https://www.d1ev.com/newsflash/300718",
-    "https://www.d1ev.com/newsflash/300714",
     "https://www.d1ev.com/carnews/xinche/300713",
     "https://www.d1ev.com/carnews/xinche/300710",
     "https://www.d1ev.com/newsflash/300693",
@@ -1999,69 +1983,25 @@
     "https://www.d1ev.com/newsflash/302925",
     "https://www.d1ev.com/newsflash/302920",
     "https://www.d1ev.com/newsflash/302985",
-    "https://www.d1ev.com/newsflash/302986"
+    "https://www.d1ev.com/newsflash/302986",
+    "https://www.d1ev.com/carnews/xinche/303002",
+    "https://www.d1ev.com/newsflash/302998",
+    "https://www.d1ev.com/carnews/xinche/302997",
+    "https://www.d1ev.com/carnews/xinche/302993",
+    "https://www.d1ev.com/newsflash/302992",
+    "https://www.d1ev.com/newsflash/302991",
+    "https://www.d1ev.com/newsflash/302990",
+    "https://www.d1ev.com/carnews/xinche/302988",
+    "https://www.d1ev.com/newsflash/302996",
+    "https://www.d1ev.com/newsflash/302995",
+    "https://www.d1ev.com/newsflash/302994",
+    "https://www.d1ev.com/newsflash/302989",
+    "https://www.d1ev.com/newsflash/302987",
+    "https://www.d1ev.com/newsflash/302999",
+    "https://www.d1ev.com/carnews/xinche/303001",
+    "https://www.d1ev.com/carnews/xinche/303000"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302086",
-      "title": "北京越野BJ30高光版6月12日上市，第十五万台新车下线",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302082",
-      "title": "长城魏牌高山7新版本6月上市，尺寸全面提升，离地间隙达185毫米",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302081",
-      "title": "零跑C系列6月16日上市，云栖金砂岩棕配色引领新潮流",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/302079",
-      "title": "岚图追光S实车再曝光 运动姿态确实帅",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302083",
-      "title": "大众ID.POLO正式下线，纯电续航超450km，支持快充及V2L放电功能",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302078",
-      "title": "谷歌联手SpaceX，豪掷62亿租算力，AI训练迎巨变",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302077",
-      "title": "中国新能源车海外销量飙升，全球份额高达61%！",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/302085",
-      "title": "理想对比视频“秒下架”惹争议，蔚来高管硬刚：请证实真实性！",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/302084",
-      "title": "车窗玻璃越厚越好？陶琳科普释疑，雷军：与特斯拉方案一致",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/302080",
-      "title": "长城魏牌全新高山7底盘抬升 魏建军全网征名",
-      "source": "第一电动",
-      "pushedAt": 1780713585075
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302087",
       "title": "特斯拉新一代Roadster首秀再延期，8月或更晚亮相",
@@ -6597,6 +6537,102 @@
       "title": "宝马M新世代概念车全球首发：电动赛车新纪元，1000马力震撼登场！",
       "source": "第一电动",
       "pushedAt": 1781294486598
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303002",
+      "title": "6万级纯电小车焕新 极狐贝塔T1新车官宣",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302998",
+      "title": "宝马M3纯电概念车亮相勒芒，2027年量产版震撼来袭！",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/302997",
+      "title": "大众新款T7官图正式发布 原厂就带二层楼",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/302993",
+      "title": "宝马M新世代概念车首发 四电机+原厂防滚架",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302992",
+      "title": "日产革命性提速：新车研发周期砍半至2.2年",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302991",
+      "title": "小米SU7Ultra新谍照曝光：超大尾翼升级，性能飞跃！",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302990",
+      "title": "华为技术加持！启境GT7预售开启，2.98秒破百，续航高达900km",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/302988",
+      "title": "巅峰中再创奢华 路虎揽胜SV Ultra新车图解",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302996",
+      "title": "华为云携手MiniMaxM3，昇腾算力助力多模态AI新突破",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302995",
+      "title": "法国AI明星MistralAI拟筹30亿欧元 估值飙升至200亿欧元",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302994",
+      "title": "美国多州总检察长联盟调查OpenAI，要求提交广告业务等文件",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302989",
+      "title": "零跑C系列升级：续航增强、智能升级，价格或上涨！",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302987",
+      "title": "5月新能源汽车产销逆势增长，汽车出口同比激增68.7%",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/302999",
+      "title": "美国政府出口管制升级！Anthropic紧急暂停Mythos5/Fable5模型访问",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303001",
+      "title": "20万提沃尔沃 二线豪车品牌终端降幅突破50%",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303000",
+      "title": "比亚迪官宣 汽车客服热线950858短号上线",
+      "source": "第一电动",
+      "pushedAt": 1781318985951
     }
   ],
   "lastUpdated": "2026-06-13"
