@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/300703",
-    "https://www.d1ev.com/news/shichang/300698",
-    "https://www.d1ev.com/news/qiye/300697",
-    "https://www.d1ev.com/news/shichang/300692",
-    "https://www.d1ev.com/newsflash/300689",
-    "https://www.d1ev.com/news/qiye/300687",
-    "https://www.d1ev.com/newsflash/300685",
     "https://www.d1ev.com/newsflash/300683",
     "https://www.d1ev.com/news/shichang/300679",
     "https://www.d1ev.com/newsflash/300678",
@@ -1999,51 +1992,16 @@
     "https://www.d1ev.com/newsflash/303032",
     "https://www.d1ev.com/newsflash/303028",
     "https://www.d1ev.com/newsflash/303027",
-    "https://www.d1ev.com/newsflash/303025"
+    "https://www.d1ev.com/newsflash/303025",
+    "https://www.d1ev.com/newsflash/303041",
+    "https://www.d1ev.com/newsflash/303040",
+    "https://www.d1ev.com/newsflash/303043",
+    "https://www.d1ev.com/newsflash/303046",
+    "https://www.d1ev.com/newsflash/303045",
+    "https://www.d1ev.com/newsflash/303044",
+    "https://www.d1ev.com/newsflash/303042"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302115",
-      "title": "红旗G919硬派越野亮相：中式美学与硬核科技的完美结合",
-      "source": "第一电动",
-      "pushedAt": 1780745337027
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302112",
-      "title": "广汽昊铂S600即将上市，20万起售，4.3秒破百增程SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1780745337027
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302114",
-      "title": "AI助力工业革命：院士柴天佑论数字孪生体与智能决策",
-      "source": "第一电动",
-      "pushedAt": 1780745337027
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302113",
-      "title": "小鹏X9智能升级：园区地库NGP漫游+多项实用功能上线",
-      "source": "第一电动",
-      "pushedAt": 1780745337027
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302116",
-      "title": "红旗G919硬派越野亮相：增程混动+华为ADS，性能强悍",
-      "source": "第一电动",
-      "pushedAt": 1780752003612
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302118",
-      "title": "东风OpenVAN无人物流车发布，4000台订单8月交付",
-      "source": "第一电动",
-      "pushedAt": 1780752003612
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302117",
-      "title": "Stellantis在马来西亚启动本地组装零跑C10、B10",
-      "source": "第一电动",
-      "pushedAt": 1780752003612
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302120",
       "title": "广汽昊铂S600即将上市，20万级中大型SUV新选择",
@@ -6705,6 +6663,48 @@
       "title": "蔚来李斌：车市寒冬来袭，纯电车市逆势增长42.2%",
       "source": "第一电动",
       "pushedAt": 1781346240873
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303041",
+      "title": "重庆车展问界M9Ultimate亮相：64.98万起售，专属设计引关注",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303040",
+      "title": "科大讯飞星火X2-VL大模型亮相：高考数学148分，准确率近95%",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303043",
+      "title": "京东健康携手北京友谊医院，共建AI消化系统专科大模型",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303046",
+      "title": "国内具身智能赛道融资火热：千寻智能估值超百亿，星源智融资10亿",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303045",
+      "title": "阿维塔科技董事长呼吁：智能化时代，安全驾驶意识不可减分",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303044",
+      "title": "长安汽车发布“天枢领航”辅助驾驶系统，启源Q06将全系搭载",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303042",
+      "title": "大众Stellantis雷诺联手呼吁：欧盟应出台更本土化汽车制造监管规则",
+      "source": "第一电动",
+      "pushedAt": 1781358385345
     }
   ],
   "lastUpdated": "2026-06-13"
