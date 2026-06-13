@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300683",
-    "https://www.d1ev.com/news/shichang/300679",
-    "https://www.d1ev.com/newsflash/300678",
-    "https://www.d1ev.com/newsflash/300675",
-    "https://www.d1ev.com/news/qiye/300786",
-    "https://www.d1ev.com/newsflash/300785",
     "https://www.d1ev.com/newsflash/300780",
     "https://www.d1ev.com/newsflash/300778",
     "https://www.d1ev.com/news/shichang/300775",
@@ -1999,21 +1993,15 @@
     "https://www.d1ev.com/newsflash/303046",
     "https://www.d1ev.com/newsflash/303045",
     "https://www.d1ev.com/newsflash/303044",
-    "https://www.d1ev.com/newsflash/303042"
+    "https://www.d1ev.com/newsflash/303042",
+    "https://www.d1ev.com/newsflash/303050",
+    "https://www.d1ev.com/newsflash/303052",
+    "https://www.d1ev.com/newsflash/303051",
+    "https://www.d1ev.com/newsflash/303049",
+    "https://www.d1ev.com/newsflash/303048",
+    "https://www.d1ev.com/newsflash/303047"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302120",
-      "title": "广汽昊铂S600即将上市，20万级中大型SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1780758590967
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302119",
-      "title": "“告别无效闲聊！精简指令让AI节能25%”",
-      "source": "第一电动",
-      "pushedAt": 1780758590967
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302137",
       "title": "宝马获比利时最大纯电车队订单，1000台新车助力KatoenNatie减排3350吨CO2",
@@ -6705,6 +6693,42 @@
       "title": "大众Stellantis雷诺联手呼吁：欧盟应出台更本土化汽车制造监管规则",
       "source": "第一电动",
       "pushedAt": 1781358385345
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303050",
+      "title": "林肯冒险家2027款曝光：混动系统+四驱，中国版内饰科技感升级",
+      "source": "第一电动",
+      "pushedAt": 1781364523571
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303052",
+      "title": "智谱AI编程工具ZCode3.0升级：适配GLM-5.2，性能飞跃！",
+      "source": "第一电动",
+      "pushedAt": 1781364523571
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303051",
+      "title": "全球四大会计师事务所之一毕马威AI报告被指充斥错误和虚假信息",
+      "source": "第一电动",
+      "pushedAt": 1781364523571
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303049",
+      "title": "新能源车重超2吨引争议，税费政策将迎调整",
+      "source": "第一电动",
+      "pushedAt": 1781364523571
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303048",
+      "title": "理想L8重塑旗舰SUV：五座新标杆，6月23日见！",
+      "source": "第一电动",
+      "pushedAt": 1781364523571
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303047",
+      "title": "大疆起诉影石侵权 云台相机市场战火升级",
+      "source": "第一电动",
+      "pushedAt": 1781364523571
     }
   ],
   "lastUpdated": "2026-06-13"
