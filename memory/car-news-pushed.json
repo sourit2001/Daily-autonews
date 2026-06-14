@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300790",
-    "https://www.d1ev.com/news/shichang/300789",
-    "https://www.d1ev.com/newsflash/300788",
-    "https://www.d1ev.com/news/shichang/300787",
-    "https://www.d1ev.com/news/qiye/300783",
-    "https://www.d1ev.com/newsflash/300782",
-    "https://www.d1ev.com/newsflash/300779",
-    "https://www.d1ev.com/newsflash/300777",
-    "https://www.d1ev.com/newsflash/300776",
-    "https://www.d1ev.com/newsflash/300772",
-    "https://www.d1ev.com/news/shichang/300770",
-    "https://www.d1ev.com/newsflash/300769",
-    "https://www.d1ev.com/newsflash/300767",
-    "https://www.d1ev.com/newsflash/300765",
-    "https://www.d1ev.com/newsflash/300764",
     "https://www.d1ev.com/news/shichang/300762",
     "https://www.d1ev.com/news/shichang/300761",
     "https://www.d1ev.com/newsflash/300758",
@@ -1999,117 +1984,24 @@
     "https://www.d1ev.com/newsflash/303063",
     "https://www.d1ev.com/newsflash/303060",
     "https://www.d1ev.com/newsflash/303059",
-    "https://www.d1ev.com/news/qiye/303058"
+    "https://www.d1ev.com/news/qiye/303058",
+    "https://www.d1ev.com/news/shichang/303092",
+    "https://www.d1ev.com/newsflash/303088",
+    "https://www.d1ev.com/newsflash/303086",
+    "https://www.d1ev.com/newsflash/303085",
+    "https://www.d1ev.com/newsflash/303079",
+    "https://www.d1ev.com/newsflash/303093",
+    "https://www.d1ev.com/newsflash/303090",
+    "https://www.d1ev.com/newsflash/303084",
+    "https://www.d1ev.com/newsflash/303082",
+    "https://www.d1ev.com/newsflash/303080",
+    "https://www.d1ev.com/newsflash/303083",
+    "https://www.d1ev.com/newsflash/303091",
+    "https://www.d1ev.com/newsflash/303089",
+    "https://www.d1ev.com/newsflash/303087",
+    "https://www.d1ev.com/newsflash/303081"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302154",
-      "title": "2027款东风风行星海V9上市，16.99万起，搭载高通8295P芯片，CLTC纯电续航200km",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302151",
-      "title": "广汽传祺越7硬派SUV三季度上市，400kW四驱动力媲美超跑",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302150",
-      "title": "零跑C10/C11/C16新车型亮相：智能家享SUV携新色来袭",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302147",
-      "title": "鸿蒙智行R7L谍照曝光，豪华家庭SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/302143",
-      "title": "上市21天大订破18000台 智界V9卖爆了",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302142",
-      "title": "赛力斯联手字节跳动，赛豆科技新品牌6月9日亮相",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302138",
-      "title": "华为技术加持，奕境X9携全系车载光技术亮相",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302155",
-      "title": "游戏大师小岛秀夫：AI可提升效率，但艺术创作人类不可替代",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302153",
-      "title": "OpenAI升级ChatGPT：打造超级应用，冲刺IPO前增营收",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302152",
-      "title": "OpenAI芯片元老CliveChan跳槽Anthropic，AI人才战升级！",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302148",
-      "title": "特斯拉FSDv14挂壁公路实测爆红，马斯克点赞自动驾驶新突破",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302145",
-      "title": "小米总裁卢伟冰用AI写高考作文，探讨规划与努力的关系",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302144",
-      "title": "问界M9台州事故真相：非自燃，华为巨鲸电池安全设计获验证",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302139",
-      "title": "英国警方紧急叫停AI撰写法庭陈述，担忧司法流程受干扰",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302149",
-      "title": "高考期间车辆智能功能受限，鸿蒙智行发布温馨提醒",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302146",
-      "title": "特斯拉Model Y入门版内饰升级，全黑车顶内衬+16英寸大屏来袭",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/302141",
-      "title": "国产豪华硬派SUV 红旗首款越野车官宣G919",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/302140",
-      "title": "乘用车12年增重近400kg 专家：有车企为卖点 在车内加马桶",
-      "source": "第一电动",
-      "pushedAt": 1780818919215
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302161",
       "title": "智界R7L谍照曝光：加长版轿跑SUV后排空间大升级",
@@ -6783,6 +6675,96 @@
       "title": "雷军直播为啥选盐城测试 小米汽车回应 三大原因",
       "source": "第一电动",
       "pushedAt": 1781407537959
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/303092",
+      "title": "2027款星途ES开启预售，18.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303088",
+      "title": "“零跑Lafa5欧洲首单诞生！德比斯赛道夺冠后喜提新车”",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303086",
+      "title": "领克07GT中型插混猎装车6月底预售，2026年Q3交付，新设计亮点曝光",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303085",
+      "title": "华为鸿蒙车机海外版亮相：中东中亚市场先行，适配海外应用加速出海",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303079",
+      "title": "工信部新车公告惊现“怪”设计，智界RX与享界G9领衔怪异新风潮",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303093",
+      "title": "华为鸿蒙座舱升级：网易云音乐等应用原生适配，智慧出行新体验",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303090",
+      "title": "中国电池产量增速放缓，宁德时代与比亚迪竞争格局凸显",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303084",
+      "title": "4S店寒冬：销售底薪仅800元，人才流失七成转向新能源车企",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303082",
+      "title": "小米工程师警告：大模型竞争或变营销战，技术净土面临污染",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303080",
+      "title": "猛士M817豪华智能越野SUV，37万起售，续航超1400km！",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303083",
+      "title": "零跑汽车海外扩张加速：欧洲市场发运量破4万，墨西哥市场正式登陆",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303091",
+      "title": "中国智造新突破！天津投用海洋工程智能焊接机器人",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303089",
+      "title": "吉利中国星车队西班牙巴伦西亚站夺魁，实现赛季两连胜！",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303087",
+      "title": "鸿蒙智行问界M9全国交付启动，47.98万起售搭载华为技术",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303081",
+      "title": "贵阳街头惊现无人驾驶小巴碰撞事故，乘客被困无法下车",
+      "source": "第一电动",
+      "pushedAt": 1781424688085
     }
   ],
   "lastUpdated": "2026-06-14"
