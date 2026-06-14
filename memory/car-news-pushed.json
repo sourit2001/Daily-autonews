@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300815",
-    "https://www.d1ev.com/carnews/xinche/300814",
-    "https://www.d1ev.com/carnews/xinche/300813",
-    "https://www.d1ev.com/newsflash/300832",
-    "https://www.d1ev.com/newsflash/300831",
-    "https://www.d1ev.com/news/qiye/300825",
-    "https://www.d1ev.com/newsflash/300822",
     "https://www.d1ev.com/newsflash/300817",
     "https://www.d1ev.com/news/shichang/300811",
     "https://www.d1ev.com/newsflash/300806",
@@ -1999,39 +1992,16 @@
     "https://www.d1ev.com/newsflash/303109",
     "https://www.d1ev.com/newsflash/303110",
     "https://www.d1ev.com/news/shichang/303108",
-    "https://www.d1ev.com/newsflash/303107"
+    "https://www.d1ev.com/newsflash/303107",
+    "https://www.d1ev.com/newsflash/303116",
+    "https://www.d1ev.com/newsflash/303112",
+    "https://www.d1ev.com/newsflash/303111",
+    "https://www.d1ev.com/newsflash/303114",
+    "https://www.d1ev.com/newsflash/303115",
+    "https://www.d1ev.com/newsflash/303117",
+    "https://www.d1ev.com/newsflash/303113"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302170",
-      "title": "东风风行星海V9焕新上市，16.99万起享超长续航混动SUV",
-      "source": "第一电动",
-      "pushedAt": 1780845660684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302169",
-      "title": "东风柳汽“十五五”战略发布：氢能重卡续航超1700公里，星海V9上市",
-      "source": "第一电动",
-      "pushedAt": 1780845660684
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/302168",
-      "title": "2027款星海V9正式上市 售价17.99-22.99万元",
-      "source": "第一电动",
-      "pushedAt": 1780845660684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302171",
-      "title": "华为云“智果园”发布：AI智能体新纪元，一键调用主流大模型！",
-      "source": "第一电动",
-      "pushedAt": 1780845660684
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302172",
-      "title": "特斯拉印度建厂计划告吹，市场不确定性成关键分歧",
-      "source": "第一电动",
-      "pushedAt": 1780845660684
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/302175",
       "title": "2027款东风风行星海V9上市，官方指导价17.99万元起",
@@ -6795,6 +6765,48 @@
       "title": "别克至境E7新添鎏金绿车漆，销量破万刷新纪录",
       "source": "第一电动",
       "pushedAt": 1781444955138
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303116",
+      "title": "长城欧拉ORA7官图曝光，中型纯电轿车搭载激光雷达智能出行",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303112",
+      "title": "别克至境E7新色鎏金绿亮相，15.99万起售，搭载真龙插混Pro动力",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303111",
+      "title": "福特蒙迪欧运动版上市：2.0T+E混动，智能座舱升级，售价20.98万起",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303114",
+      "title": "微软CEO纳德拉：AI不会是人类的最后一项技术发明，无脑烧Token撑不起增长",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303115",
+      "title": "零跑汽车香港首秀Lafa5，全球布局再加速",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303117",
+      "title": "本田紧急召回88万辆车，后悬架部件存失效风险！",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303113",
+      "title": "2026年国内车市遇冷，李斌预警销量或跌20%",
+      "source": "第一电动",
+      "pushedAt": 1781451932655
     }
   ],
   "lastUpdated": "2026-06-14"
