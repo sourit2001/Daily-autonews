@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/300826",
-    "https://www.d1ev.com/newsflash/300821",
-    "https://www.d1ev.com/newsflash/300819",
-    "https://www.d1ev.com/newsflash/300816",
     "https://www.d1ev.com/newsflash/300815",
     "https://www.d1ev.com/carnews/xinche/300814",
     "https://www.d1ev.com/carnews/xinche/300813",
@@ -1999,45 +1995,13 @@
     "https://www.d1ev.com/newsflash/303104",
     "https://www.d1ev.com/newsflash/303094",
     "https://www.d1ev.com/news/shichang/303100",
-    "https://www.d1ev.com/newsflash/303096"
+    "https://www.d1ev.com/newsflash/303096",
+    "https://www.d1ev.com/newsflash/303109",
+    "https://www.d1ev.com/newsflash/303110",
+    "https://www.d1ev.com/news/shichang/303108",
+    "https://www.d1ev.com/newsflash/303107"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302167",
-      "title": "特斯拉全新Roadster超跑即将亮相，1.1秒破百神话成真？",
-      "source": "第一电动",
-      "pushedAt": 1780839073326
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302166",
-      "title": "新能源车市渗透率创新高，燃油车降价难挽销量颓势",
-      "source": "第一电动",
-      "pushedAt": 1780839073326
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302165",
-      "title": "智界V9首销21天订单破万，Ultra版成爆款！",
-      "source": "第一电动",
-      "pushedAt": 1780839073326
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302164",
-      "title": "高考期间车载智能功能受限，鸿蒙智行提醒车主注意行驶安全",
-      "source": "第一电动",
-      "pushedAt": 1780839073326
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302163",
-      "title": "奇瑞星途ES 2026款：4.9秒破百，赛道级性能轿跑来袭",
-      "source": "第一电动",
-      "pushedAt": 1780839073326
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302162",
-      "title": "鸿蒙智行智界V9首批交付，18000订单均价50万！",
-      "source": "第一电动",
-      "pushedAt": 1780839073326
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302170",
       "title": "东风风行星海V9焕新上市，16.99万起享超长续航混动SUV",
@@ -6807,6 +6771,30 @@
       "title": "长安汽车迈入“2L时代”：蓝鲸超擎混动量产，天枢智能系统升级",
       "source": "第一电动",
       "pushedAt": 1781437897861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303109",
+      "title": "英国首例！警官涉嫌用AI伪造证据进刑事诉讼",
+      "source": "第一电动",
+      "pushedAt": 1781444955138
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303110",
+      "title": "“腾势N8L闪充版来袭：5分钟快充，3秒破百，豪华升级引领新潮流”",
+      "source": "第一电动",
+      "pushedAt": 1781444955138
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/303108",
+      "title": "李斌预警：汽车业进入决赛阶段，国内零售量或下跌15%-20%",
+      "source": "第一电动",
+      "pushedAt": 1781444955138
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303107",
+      "title": "别克至境E7新添鎏金绿车漆，销量破万刷新纪录",
+      "source": "第一电动",
+      "pushedAt": 1781444955138
     }
   ],
   "lastUpdated": "2026-06-14"
