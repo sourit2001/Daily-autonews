@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/300953",
-    "https://www.d1ev.com/newsflash/300939",
-    "https://www.d1ev.com/newsflash/300938",
-    "https://www.d1ev.com/newsflash/300979",
-    "https://www.d1ev.com/news/shichang/300978",
-    "https://www.d1ev.com/newsflash/300972",
     "https://www.d1ev.com/newsflash/300964",
     "https://www.d1ev.com/newsflash/300963",
     "https://www.d1ev.com/newsflash/300962",
@@ -1999,45 +1993,15 @@
     "https://www.d1ev.com/newsflash/303262",
     "https://www.d1ev.com/newsflash/303261",
     "https://www.d1ev.com/newsflash/303255",
-    "https://www.d1ev.com/news/shichang/303254"
+    "https://www.d1ev.com/news/shichang/303254",
+    "https://www.d1ev.com/newsflash/303285",
+    "https://www.d1ev.com/newsflash/303283",
+    "https://www.d1ev.com/newsflash/303284",
+    "https://www.d1ev.com/newsflash/303282",
+    "https://www.d1ev.com/newsflash/303281",
+    "https://www.d1ev.com/newsflash/303280"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302306",
-      "title": "小米寻天SUV曝光：全尺寸家用新选择，续航500km支持快充！",
-      "source": "第一电动",
-      "pushedAt": 1780942999217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302310",
-      "title": "苹果携手谷歌Gemini，AI新纪元：设备端云端双驱动，隐私保护升级！",
-      "source": "第一电动",
-      "pushedAt": 1780942999217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302309",
-      "title": "苹果WWDC26新动作：SiriAI升级，灵动岛融合，图标更简约！",
-      "source": "第一电动",
-      "pushedAt": 1780942999217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302307",
-      "title": "台湾汽车销量榜：丰田独占鳌头，特斯拉Model Y成唯一新能源上榜车型",
-      "source": "第一电动",
-      "pushedAt": 1780942999217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302308",
-      "title": "尊界S800典藏版预订开启：160万起，4座奢华内饰，增程纯电双选",
-      "source": "第一电动",
-      "pushedAt": 1780942999217
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302305",
-      "title": "小米MiMo-V2.5-Pro突破1000tokens/s，UltraSpeed模式震撼上线",
-      "source": "第一电动",
-      "pushedAt": 1780942999217
-    },
     {
       "url": "https://www.d1ev.com/newsflash/302313",
       "title": "苹果SiriAI升级：自定义语音助手声音，更自然对话体验",
@@ -6885,7 +6849,43 @@
       "title": "零跑C10马来西亚本地化生产正式开启",
       "source": "第一电动",
       "pushedAt": 1781538107042
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303285",
+      "title": "领克07GT量产下线，1422km续航开启预售倒计时",
+      "source": "第一电动",
+      "pushedAt": 1781552507130
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303283",
+      "title": "smart精灵6号上市，售价17.79万起，续航高达1810km！",
+      "source": "第一电动",
+      "pushedAt": 1781552507130
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303284",
+      "title": "王楚然助阵比亚迪元PLUS交车盛典，11.99万起引爆市场！",
+      "source": "第一电动",
+      "pushedAt": 1781552507130
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303282",
+      "title": "女股民全仓广汽集团亏损30%，万亿市值梦碎？",
+      "source": "第一电动",
+      "pushedAt": 1781552507130
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303281",
+      "title": "理想L8旗舰五座SUV来袭，挑战9系豪华标准！",
+      "source": "第一电动",
+      "pushedAt": 1781552507130
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303280",
+      "title": "华盛顿用户指控Anthropic虚标套餐额度，要求退款并升级集体诉讼",
+      "source": "第一电动",
+      "pushedAt": 1781552507130
     }
   ],
-  "lastUpdated": "2026-06-15"
+  "lastUpdated": "2026-06-16"
 }
