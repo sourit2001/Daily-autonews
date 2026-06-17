@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301272",
     "https://www.d1ev.com/carnews/xinche/301270",
     "https://www.d1ev.com/carnews/xinche/301269",
     "https://www.d1ev.com/carnews/xinche/301268",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/303593",
     "https://www.d1ev.com/news/shichang/303591",
     "https://www.d1ev.com/news/qiye/303585",
-    "https://www.d1ev.com/news/shichang/303581"
+    "https://www.d1ev.com/news/shichang/303581",
+    "https://www.d1ev.com/newsflash/303621"
   ],
   "newsHistory": [
     {
@@ -6873,7 +6873,13 @@
       "title": "丰田年度股东大会支持丰田章男连任董事长，新任CEO近健太获认可",
       "source": "第一电动",
       "pushedAt": 1781703529221
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303621",
+      "title": "爱玛黑翼发布三款新电摩，周冠宇代言，性能与智能兼备",
+      "source": "第一电动",
+      "pushedAt": 1781715116714
     }
   ],
-  "lastUpdated": "2026-06-17"
+  "lastUpdated": "2026-06-18"
 }
