@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/301270",
     "https://www.d1ev.com/carnews/xinche/301269",
     "https://www.d1ev.com/carnews/xinche/301268",
     "https://www.d1ev.com/newsflash/301265",
@@ -1999,45 +1998,10 @@
     "https://www.d1ev.com/news/shichang/303591",
     "https://www.d1ev.com/news/qiye/303585",
     "https://www.d1ev.com/news/shichang/303581",
-    "https://www.d1ev.com/newsflash/303621"
+    "https://www.d1ev.com/newsflash/303621",
+    "https://www.d1ev.com/newsflash/303623"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302642",
-      "title": "岚图泰山X9纯电动SUV亮相：6座布局，最高时速200km/h",
-      "source": "第一电动",
-      "pushedAt": 1781110550209
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/302641",
-      "title": "小米YU7最直接竞品 智界RX官宣：首发华为高性能电驱",
-      "source": "第一电动",
-      "pushedAt": 1781110550209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302638",
-      "title": "荣威家越07：AI原生智能SUV，豪华设计+高阶辅助驾驶，预计15-20万起。",
-      "source": "第一电动",
-      "pushedAt": 1781110550209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302637",
-      "title": "理想i6九个月突破14万辆！纯电SUV销量前三，续航达720km",
-      "source": "第一电动",
-      "pushedAt": 1781110550209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302643",
-      "title": "本田社长三部敏宏遭弹劾：中国市场忽视导致70年首亏，面临降薪处罚",
-      "source": "第一电动",
-      "pushedAt": 1781110550209
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302646",
-      "title": "尊界V680来袭：短轴版MPV空间灵活，1.5T增程动力系统加持",
-      "source": "第一电动",
-      "pushedAt": 1781122944355
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/302649",
       "title": "【盖世快讯】5月我国汽车出口量同比增长68.7%；郭锐解释智界RX新车命名由来",
@@ -6879,6 +6843,12 @@
       "title": "爱玛黑翼发布三款新电摩，周冠宇代言，性能与智能兼备",
       "source": "第一电动",
       "pushedAt": 1781715116714
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303623",
+      "title": "徐工XE700EV纯电挖掘机全球首交付 1.5小时快充省下90万成本",
+      "source": "第一电动",
+      "pushedAt": 1781738332037
     }
   ],
   "lastUpdated": "2026-06-18"
