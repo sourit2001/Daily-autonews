@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301430",
     "https://www.d1ev.com/news/shichang/301428",
     "https://www.d1ev.com/news/qiye/301427",
     "https://www.d1ev.com/news/shichang/301422",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/newsflash/303728",
     "https://www.d1ev.com/newsflash/303726",
     "https://www.d1ev.com/newsflash/303780",
-    "https://www.d1ev.com/newsflash/303781"
+    "https://www.d1ev.com/newsflash/303781",
+    "https://www.d1ev.com/newsflash/303782"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302846",
-      "title": "全新smart#6上市：17.79万起，豪华智能掀背轿车新选择",
-      "source": "第一电动",
-      "pushedAt": 1781219859752
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/302873",
       "title": "五座增程SUV 上汽大众ID.ERA 8X曝申报信息",
@@ -6669,6 +6663,12 @@
       "title": "蔚来李斌谈轻量化与换电：新能源车技术革命正当时",
       "source": "第一电动",
       "pushedAt": 1781813787285
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303782",
+      "title": "6月新能源车零售量预计破百万，渗透率超63%创新高",
+      "source": "第一电动",
+      "pushedAt": 1781826067161
     }
   ],
   "lastUpdated": "2026-06-19"
