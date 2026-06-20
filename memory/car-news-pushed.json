@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301461",
-    "https://www.d1ev.com/newsflash/301459",
-    "https://www.d1ev.com/newsflash/301458",
-    "https://www.d1ev.com/newsflash/301455",
-    "https://www.d1ev.com/newsflash/301445",
-    "https://www.d1ev.com/newsflash/301493",
     "https://www.d1ev.com/newsflash/301494",
     "https://www.d1ev.com/newsflash/301534",
     "https://www.d1ev.com/news/shichang/301524",
@@ -1999,99 +1993,15 @@
     "https://www.d1ev.com/newsflash/303841",
     "https://www.d1ev.com/newsflash/303840",
     "https://www.d1ev.com/newsflash/303838",
-    "https://www.d1ev.com/newsflash/303836"
+    "https://www.d1ev.com/newsflash/303836",
+    "https://www.d1ev.com/newsflash/303850",
+    "https://www.d1ev.com/newsflash/303855",
+    "https://www.d1ev.com/newsflash/303852",
+    "https://www.d1ev.com/newsflash/303851",
+    "https://www.d1ev.com/newsflash/303854",
+    "https://www.d1ev.com/newsflash/303853"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303039",
-      "title": "阿维塔VISIONXPECTRA概念车重庆车展亮相，未来设计触手可及",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303038",
-      "title": "19.99万起！广汽昊铂S600运动SUV上市，智能座舱+双动力选择",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/303036",
-      "title": "昊铂S600正式上市，权益价17.99万-19.99万元",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/303034",
-      "title": "2027款星途ES开启预售，18.99万元起，增程综合续航1685km",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303029",
-      "title": "福特新蒙迪欧运动版重庆车展上市，20.98万起混动新选择",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303024",
-      "title": "阿维塔07L震撼亮相：华为智驾加持，7月见！",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303031",
-      "title": "华为智驾加持！深蓝S07增程版15.99万起售，全场景辅助驾驶新体验",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303030",
-      "title": "江淮汽车出海战略升级，尊界S800销量突破1.85万辆",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303037",
-      "title": "小米汽车YU7系列盐城极限测试：速度与安全并重",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303035",
-      "title": "比亚迪新专利：车底活体检测技术，守护车辆安全新高度",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303033",
-      "title": "百度萝卜快跑瑞士上路，无人驾驶服务补齐公交盲区",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303032",
-      "title": "吉利豪越L新推七座版，10万起售享多重豪礼！",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303028",
-      "title": "雷军亲测小米YU7：全系满配辅助驾驶硬件，智能泊车功能获好评",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303027",
-      "title": "车企利润率下滑，价格战边际效应衰减，行业转向价值回归",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303025",
-      "title": "蔚来李斌：车市寒冬来袭，纯电车市逆势增长42.2%",
-      "source": "第一电动",
-      "pushedAt": 1781346240873
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303041",
       "title": "重庆车展问界M9Ultimate亮相：64.98万起售，专属设计引关注",
@@ -6123,6 +6033,42 @@
       "title": "大众集团大动作：德国本土裁员2.8万，产能压缩至900万辆",
       "source": "第一电动",
       "pushedAt": 1781941537475
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303850",
+      "title": "北京越野“悦野五+”生态体系发布，BJ40官改套件亮相",
+      "source": "第一电动",
+      "pushedAt": 1781951338227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303855",
+      "title": "苹果WWDC2026：四台MacStudio集群成功运行万亿参数AI模型KimiK2.6",
+      "source": "第一电动",
+      "pushedAt": 1781951338227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303852",
+      "title": "欧盟《工业加速器法案》草案或限制中国企业，电动车领域首当其冲",
+      "source": "第一电动",
+      "pushedAt": 1781951338227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303851",
+      "title": "日产NX8中型新能源SUV交付破万，智能驾驶体验升级",
+      "source": "第一电动",
+      "pushedAt": 1781951338227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303854",
+      "title": "“中国制造”颠覆欧洲汽车产业：品牌与制造的全球新格局",
+      "source": "第一电动",
+      "pushedAt": 1781951338227
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303853",
+      "title": "“中国混动车欧盟出口激增155%，欧盟酝酿新关税政策”",
+      "source": "第一电动",
+      "pushedAt": 1781951338227
     }
   ],
   "lastUpdated": "2026-06-20"
