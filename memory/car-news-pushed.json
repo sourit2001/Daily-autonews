@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301473",
-    "https://www.d1ev.com/newsflash/301470",
-    "https://www.d1ev.com/newsflash/301468",
-    "https://www.d1ev.com/newsflash/301467",
-    "https://www.d1ev.com/carnews/xinche/301463",
-    "https://www.d1ev.com/newsflash/301462",
-    "https://www.d1ev.com/newsflash/301460",
-    "https://www.d1ev.com/news/shichang/301457",
-    "https://www.d1ev.com/newsflash/301452",
-    "https://www.d1ev.com/newsflash/301450",
-    "https://www.d1ev.com/newsflash/301446",
-    "https://www.d1ev.com/newsflash/301444",
     "https://www.d1ev.com/newsflash/301443",
     "https://www.d1ev.com/news/qiye/301465",
     "https://www.d1ev.com/newsflash/301449",
@@ -1999,21 +1987,21 @@
     "https://www.d1ev.com/newsflash/303812",
     "https://www.d1ev.com/newsflash/303810",
     "https://www.d1ev.com/newsflash/303813",
-    "https://www.d1ev.com/newsflash/303809"
+    "https://www.d1ev.com/newsflash/303809",
+    "https://www.d1ev.com/carnews/xinche/303831",
+    "https://www.d1ev.com/newsflash/303828",
+    "https://www.d1ev.com/newsflash/303827",
+    "https://www.d1ev.com/carnews/xinche/303825",
+    "https://www.d1ev.com/newsflash/303832",
+    "https://www.d1ev.com/newsflash/303823",
+    "https://www.d1ev.com/newsflash/303834",
+    "https://www.d1ev.com/newsflash/303822",
+    "https://www.d1ev.com/carnews/xinche/303830",
+    "https://www.d1ev.com/newsflash/303829",
+    "https://www.d1ev.com/carnews/xinche/303826",
+    "https://www.d1ev.com/carnews/xinche/303824"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/302985",
-      "title": "燃油车价格腰斩！国产电车冲击下，豪华品牌被迫降价求生",
-      "source": "第一电动",
-      "pushedAt": 1781282439691
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/302986",
-      "title": "宝马M新世代概念车全球首发：电动赛车新纪元，1000马力震撼登场！",
-      "source": "第一电动",
-      "pushedAt": 1781294486598
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/303002",
       "title": "6万级纯电小车焕新 极狐贝塔T1新车官宣",
@@ -6195,7 +6183,79 @@
       "title": "长安汽车欧洲扩张加速：2028年目标年销30万辆，西班牙建厂在即",
       "source": "第一电动",
       "pushedAt": 1781875872494
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303831",
+      "title": "问界M9累计交付超29万台 全新车型开启交付",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303828",
+      "title": "猛士M817插混SUV 6月27日上市，预售价37万起，纯电续航301km！",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303827",
+      "title": "长城H10震撼亮相：2.0T混动+方鼎美学，硬派SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303825",
+      "title": "全新旗舰方盒子SUV 长城H10官宣6月25日亮相",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303832",
+      "title": "本田联手QuantumScape研发固态电池，续航1000公里革命性突破",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303823",
+      "title": "智谱GLM-5.2评测夺冠，性价比超Fable5成AI设计新标杆",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303834",
+      "title": "国内车企瞄准右舵市场，香港车博会成出海跳板",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303822",
+      "title": "国产电摩东南亚销量激增，雅迪爱玛海外业绩翻倍",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303830",
+      "title": "大屏更安全 马自达CX-5砍掉大量实体按键",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303829",
+      "title": "Anthropic将重启Mythos和Fable5模型，韩国市场迎来新机遇",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303826",
+      "title": "把选择权还给车主 法拉利预告7月发布新品",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/303824",
+      "title": "华免40%排量税 劳斯莱斯闪灵Series II降价",
+      "source": "第一电动",
+      "pushedAt": 1781923681529
     }
   ],
-  "lastUpdated": "2026-06-19"
+  "lastUpdated": "2026-06-20"
 }
