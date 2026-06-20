@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/301521",
-    "https://www.d1ev.com/carnews/xinche/301520",
-    "https://www.d1ev.com/newsflash/301516",
-    "https://www.d1ev.com/carnews/xinche/301514",
     "https://www.d1ev.com/carnews/xinche/301513",
     "https://www.d1ev.com/newsflash/301508",
     "https://www.d1ev.com/newsflash/301500",
@@ -1999,45 +1995,13 @@
     "https://www.d1ev.com/newsflash/303853",
     "https://www.d1ev.com/newsflash/303857",
     "https://www.d1ev.com/newsflash/303858",
-    "https://www.d1ev.com/newsflash/303856"
+    "https://www.d1ev.com/newsflash/303856",
+    "https://www.d1ev.com/newsflash/303859",
+    "https://www.d1ev.com/newsflash/303862",
+    "https://www.d1ev.com/newsflash/303861",
+    "https://www.d1ev.com/newsflash/303860"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303050",
-      "title": "林肯冒险家2027款曝光：混动系统+四驱，中国版内饰科技感升级",
-      "source": "第一电动",
-      "pushedAt": 1781364523571
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303052",
-      "title": "智谱AI编程工具ZCode3.0升级：适配GLM-5.2，性能飞跃！",
-      "source": "第一电动",
-      "pushedAt": 1781364523571
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303051",
-      "title": "全球四大会计师事务所之一毕马威AI报告被指充斥错误和虚假信息",
-      "source": "第一电动",
-      "pushedAt": 1781364523571
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303049",
-      "title": "新能源车重超2吨引争议，税费政策将迎调整",
-      "source": "第一电动",
-      "pushedAt": 1781364523571
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303048",
-      "title": "理想L8重塑旗舰SUV：五座新标杆，6月23日见！",
-      "source": "第一电动",
-      "pushedAt": 1781364523571
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303047",
-      "title": "大疆起诉影石侵权 云台相机市场战火升级",
-      "source": "第一电动",
-      "pushedAt": 1781364523571
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303078",
       "title": "保时捷Panamera改款曝光：内饰大变样，四块屏幕或成新标配",
@@ -6045,6 +6009,30 @@
       "title": "本田Super-N纯电小钢炮登陆欧洲，17万起售续航超200公里",
       "source": "第一电动",
       "pushedAt": 1781963303875
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303859",
+      "title": "游戏巨头Take-Two意外裁撤AI研究团队，迪肯博士担忧生成式AI泡沫破裂",
+      "source": "第一电动",
+      "pushedAt": 1781970146643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303862",
+      "title": "法拉利纯电Luce争议不断，经销商施压客户订购？官方否认",
+      "source": "第一电动",
+      "pushedAt": 1781970146643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303861",
+      "title": "大众集团大刀阔斧降本增效：2030年前裁撤5万岗位，精简车型阵容",
+      "source": "第一电动",
+      "pushedAt": 1781970146643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303860",
+      "title": "零跑汽车第三季度将公布多项创新技术，未来产品更创新差异化",
+      "source": "第一电动",
+      "pushedAt": 1781970146643
     }
   ],
   "lastUpdated": "2026-06-20"
