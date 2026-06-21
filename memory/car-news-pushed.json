@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/301503",
-    "https://www.d1ev.com/newsflash/301501",
-    "https://www.d1ev.com/news/shichang/301498",
-    "https://www.d1ev.com/news/shichang/301497",
-    "https://www.d1ev.com/news/shichang/301496",
-    "https://www.d1ev.com/news/qiye/301581",
-    "https://www.d1ev.com/newsflash/301575",
-    "https://www.d1ev.com/newsflash/301569",
-    "https://www.d1ev.com/carnews/xinche/301560",
     "https://www.d1ev.com/newsflash/301556",
     "https://www.d1ev.com/newsflash/301555",
     "https://www.d1ev.com/carnews/xinche/301554",
@@ -1999,87 +1990,18 @@
     "https://www.d1ev.com/newsflash/303885",
     "https://www.d1ev.com/news/shichang/303884",
     "https://www.d1ev.com/news/shichang/303883",
-    "https://www.d1ev.com/newsflash/303880"
+    "https://www.d1ev.com/newsflash/303880",
+    "https://www.d1ev.com/newsflash/303894",
+    "https://www.d1ev.com/newsflash/303897",
+    "https://www.d1ev.com/newsflash/303895",
+    "https://www.d1ev.com/news/shichang/303892",
+    "https://www.d1ev.com/newsflash/303891",
+    "https://www.d1ev.com/newsflash/303890",
+    "https://www.d1ev.com/newsflash/303889",
+    "https://www.d1ev.com/newsflash/303896",
+    "https://www.d1ev.com/news/shichang/303893"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303103",
-      "title": "保时捷Panamera改款谍照曝光：四屏内饰大升级，插电混动版本确认亮相",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303102",
-      "title": "艾瑞泽8征服版6月17日上市，1.6T/2.0T双动力升级，智能配置加码",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303101",
-      "title": "别克至境E7新色“鎏金绿”亮相，高定车漆6月15日正式发布",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303097",
-      "title": "小马智行Robotaxi亮相重庆车展，成本降至23万内加速海外扩张",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303106",
-      "title": "新能源车超重引发税费改革，油电同权时代来临？",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303105",
-      "title": "小米工程师呼吁：大模型赛道回归技术本质，专注研发少争议",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303099",
-      "title": "通用汽车聚焦乘用车自动驾驶，未来或推无人驾驶网约车服务",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303098",
-      "title": "E周看点｜余承东官宣尊界V800；赛豆推出全新AI汽车品牌AIVA",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303095",
-      "title": "中国电动两轮车海外市场爆发，2025年出口额达68亿美元",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303104",
-      "title": "法车手德比斯夺冠，零跑Lafa5欧洲首销开启",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303094",
-      "title": "“中国智造”码垛机器人全球热销，东莞出口额超1.6亿",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303100",
-      "title": "小智一周要闻 | 何小鹏亲自带队冲刺机器人量产；优必选超仿生人形机器人预订单量突破2110台",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303096",
-      "title": "长安汽车迈入“2L时代”：蓝鲸超擎混动量产，天枢智能系统升级",
-      "source": "第一电动",
-      "pushedAt": 1781437897861
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303109",
       "title": "英国首例！警官涉嫌用AI伪造证据进刑事诉讼",
@@ -5961,6 +5883,60 @@
       "title": "东风日产NX8销量破万，增程SUV搭载800V平台15.99万起",
       "source": "第一电动",
       "pushedAt": 1782030208171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303894",
+      "title": "领克07GT旅行车预售在即，1422km超长续航+四驱系统震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303897",
+      "title": "华为乾崑智驾ADS5即将上线，鸿蒙智行旗舰车型抢先体验",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303895",
+      "title": "华为乾崑智驾里程破120亿公里，超越人眼安全护航",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/303892",
+      "title": "E周看点 | 2026新能源汽车下乡含小米、特斯拉等155款车；宝马将停产国产纯电车",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303891",
+      "title": "特斯拉Cybercab新突破：侧视摄像头喷淋装置助力全天候自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303890",
+      "title": "磷酸铁锂价格翻倍仍供不应求，新能源车企需求激增",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303889",
+      "title": "磷酸铁锂价格翻倍！新能源车企需求激增，硫磺涨价成推手",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303896",
+      "title": "启境汽车百店齐开，全国90城300店网络即将覆盖！",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/303893",
+      "title": "小智一周要闻 | 京东持续加码布局具身智能；Momenta IPO备案获通过",
+      "source": "第一电动",
+      "pushedAt": 1782043687075
     }
   ],
   "lastUpdated": "2026-06-21"
