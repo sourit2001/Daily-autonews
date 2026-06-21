@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301556",
-    "https://www.d1ev.com/newsflash/301555",
-    "https://www.d1ev.com/carnews/xinche/301554",
-    "https://www.d1ev.com/news/shichang/301547",
-    "https://www.d1ev.com/news/qiye/301546",
-    "https://www.d1ev.com/newsflash/301545",
     "https://www.d1ev.com/newsflash/301583",
     "https://www.d1ev.com/newsflash/301577",
     "https://www.d1ev.com/newsflash/301576",
@@ -1999,75 +1993,15 @@
     "https://www.d1ev.com/newsflash/303890",
     "https://www.d1ev.com/newsflash/303889",
     "https://www.d1ev.com/newsflash/303896",
-    "https://www.d1ev.com/news/shichang/303893"
+    "https://www.d1ev.com/news/shichang/303893",
+    "https://www.d1ev.com/newsflash/303902",
+    "https://www.d1ev.com/newsflash/303901",
+    "https://www.d1ev.com/newsflash/303900",
+    "https://www.d1ev.com/newsflash/303899",
+    "https://www.d1ev.com/newsflash/303903",
+    "https://www.d1ev.com/newsflash/303898"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303109",
-      "title": "英国首例！警官涉嫌用AI伪造证据进刑事诉讼",
-      "source": "第一电动",
-      "pushedAt": 1781444955138
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303110",
-      "title": "“腾势N8L闪充版来袭：5分钟快充，3秒破百，豪华升级引领新潮流”",
-      "source": "第一电动",
-      "pushedAt": 1781444955138
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303108",
-      "title": "李斌预警：汽车业进入决赛阶段，国内零售量或下跌15%-20%",
-      "source": "第一电动",
-      "pushedAt": 1781444955138
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303107",
-      "title": "别克至境E7新添鎏金绿车漆，销量破万刷新纪录",
-      "source": "第一电动",
-      "pushedAt": 1781444955138
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303116",
-      "title": "长城欧拉ORA7官图曝光，中型纯电轿车搭载激光雷达智能出行",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303112",
-      "title": "别克至境E7新色鎏金绿亮相，15.99万起售，搭载真龙插混Pro动力",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303111",
-      "title": "福特蒙迪欧运动版上市：2.0T+E混动，智能座舱升级，售价20.98万起",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303114",
-      "title": "微软CEO纳德拉：AI不会是人类的最后一项技术发明，无脑烧Token撑不起增长",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303115",
-      "title": "零跑汽车香港首秀Lafa5，全球布局再加速",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303117",
-      "title": "本田紧急召回88万辆车，后悬架部件存失效风险！",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303113",
-      "title": "2026年国内车市遇冷，李斌预警销量或跌20%",
-      "source": "第一电动",
-      "pushedAt": 1781451932655
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303174",
       "title": "蔚来ET5、ET5T、EC6冠军版震撼上市，购车门槛大降！",
@@ -5937,6 +5871,42 @@
       "title": "小智一周要闻 | 京东持续加码布局具身智能；Momenta IPO备案获通过",
       "source": "第一电动",
       "pushedAt": 1782043687075
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303902",
+      "title": "鸿蒙智行G9路试曝光：800V高压平台+华为自研电机，50万级SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1782056882910
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303901",
+      "title": "蔚来ET9限量版“极境逐光”上市，售价83.8万元起",
+      "source": "第一电动",
+      "pushedAt": 1782056882910
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303900",
+      "title": "领克07GT旅行车6月29日预售，续航1422km，智能电混系统加持",
+      "source": "第一电动",
+      "pushedAt": 1782056882910
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303899",
+      "title": "启境GX7秋季上市：大五座SUV搭载华为智能驾驶",
+      "source": "第一电动",
+      "pushedAt": 1782056882910
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303903",
+      "title": "中科院突破！新型复合固态电解质助力高安全电池发展",
+      "source": "第一电动",
+      "pushedAt": 1782056882910
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/303898",
+      "title": "比亚迪西安研发基地工业旅游开放，见证中国新能源车发展史",
+      "source": "第一电动",
+      "pushedAt": 1782056882910
     }
   ],
   "lastUpdated": "2026-06-21"
