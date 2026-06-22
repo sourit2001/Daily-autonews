@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/301675",
-    "https://www.d1ev.com/news/shichang/301674",
-    "https://www.d1ev.com/news/qiye/301670",
     "https://www.d1ev.com/news/qiye/301669",
     "https://www.d1ev.com/news/qiye/301668",
     "https://www.d1ev.com/newsflash/301667",
@@ -1999,45 +1996,12 @@
     "https://www.d1ev.com/newsflash/304029",
     "https://www.d1ev.com/newsflash/304026",
     "https://www.d1ev.com/news/shichang/304024",
-    "https://www.d1ev.com/newsflash/304058"
+    "https://www.d1ev.com/newsflash/304058",
+    "https://www.d1ev.com/news/shichang/304060",
+    "https://www.d1ev.com/news/shichang/304059",
+    "https://www.d1ev.com/news/shichang/304061"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303285",
-      "title": "领克07GT量产下线，1422km续航开启预售倒计时",
-      "source": "第一电动",
-      "pushedAt": 1781552507130
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303283",
-      "title": "smart精灵6号上市，售价17.79万起，续航高达1810km！",
-      "source": "第一电动",
-      "pushedAt": 1781552507130
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303284",
-      "title": "王楚然助阵比亚迪元PLUS交车盛典，11.99万起引爆市场！",
-      "source": "第一电动",
-      "pushedAt": 1781552507130
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303282",
-      "title": "女股民全仓广汽集团亏损30%，万亿市值梦碎？",
-      "source": "第一电动",
-      "pushedAt": 1781552507130
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303281",
-      "title": "理想L8旗舰五座SUV来袭，挑战9系豪华标准！",
-      "source": "第一电动",
-      "pushedAt": 1781552507130
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303280",
-      "title": "华盛顿用户指控Anthropic虚标套餐额度，要求退款并升级集体诉讼",
-      "source": "第一电动",
-      "pushedAt": 1781552507130
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303331",
       "title": "奇瑞星途EX6曝光：激光雷达加持，2026年Q3上市",
@@ -5931,6 +5895,24 @@
       "title": "福特电马或无二代车型，UniversalEV平台不适用",
       "source": "第一电动",
       "pushedAt": 1782156054388
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304060",
+      "title": "美国马萨诸塞大学阿默斯特分校研发出异步AI 可大幅降低算力能耗并支持持续学习",
+      "source": "第一电动",
+      "pushedAt": 1782170446585
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304059",
+      "title": "【盖世快讯】小米汽车回应为何用自动驾驶挑战纽北；小鹏MONA首款SUV定名L03",
+      "source": "第一电动",
+      "pushedAt": 1782170446585
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304061",
+      "title": "韩国成均馆大学化学工程系研发出新型水凝胶电解质 拉伸率可达900%",
+      "source": "第一电动",
+      "pushedAt": 1782170446585
     }
   ],
   "lastUpdated": "2026-06-23"
