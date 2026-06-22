@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301676",
     "https://www.d1ev.com/carnews/xinche/301675",
     "https://www.d1ev.com/news/shichang/301674",
     "https://www.d1ev.com/news/qiye/301670",
@@ -1999,171 +1998,10 @@
     "https://www.d1ev.com/newsflash/304030",
     "https://www.d1ev.com/newsflash/304029",
     "https://www.d1ev.com/newsflash/304026",
-    "https://www.d1ev.com/news/shichang/304024"
+    "https://www.d1ev.com/news/shichang/304024",
+    "https://www.d1ev.com/newsflash/304058"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303278",
-      "title": "理想新旗舰座舱亮相：高通旗舰芯片加持，90Hz全景屏震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303270",
-      "title": "鸿蒙智行尊界SUV谍照曝光，2026年豪华车矩阵成型",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303260",
-      "title": "问界M6上市54天交付突破3万台",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303257",
-      "title": "李想定义“四位一体”具身智能汽车，马赫M100芯片亮相，智驾四季度对标特斯拉FSD V14",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303279",
-      "title": "国产AI新突破！MiniMaxM3模型开源，参数428B领跑全球",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303269",
-      "title": "欧洲三巨头车企力挺本土制造 应对新能源挑战",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/303266",
-      "title": "理想OTA三连炸！7月智驾强化、9月类人、12月超越F1车手",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303263",
-      "title": "华为问界M9震撼发布：6激光雷达矩阵打造全天候智驾新标杆",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/303259",
-      "title": "车载芯片干翻4万元英伟达超算！理想发布首款数据流AI芯片",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303258",
-      "title": "李想定义“具身智能汽车”：电动+AI+司机+助手，四位一体新概念",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303256",
-      "title": "理想汽车发布全球首款动态数据流AI芯片：马赫M100 5nm工艺1280TOPS算力",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303253",
-      "title": "英国政府拟调整电动车销售目标，2030年比例或降至50%-70%",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303277",
-      "title": "大众雷诺Stellantis联手呼吁欧盟支持本土汽车制造",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303276",
-      "title": "KimiK2.7Code高速版上线：编程速度提升5倍，性能飞跃！",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303275",
-      "title": "3个月融资35亿！极佳视界B2轮再获10亿投资",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303274",
-      "title": "燧原科技科创板IPO获批 2026年产品交付能力受关注",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303273",
-      "title": "赵长江预测：中国汽车产业未来十年，市场结构将进入存量市场的下半场",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303272",
-      "title": "乘联会分会崔东树：2026年5月末全国乘用车行业库存为348万辆，较上月下降6万辆",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/303271",
-      "title": "官方玩梗！李想翻看《停车的艺术》书籍 学习如何正确泊车",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303268",
-      "title": "理想汽车革命性突破：具身智能定义未来汽车新标准",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303267",
-      "title": "总投资1.5亿美元， 泰科电子汽车事业部南通制造基地正式投入运营",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303265",
-      "title": "余承东详解全新问界M9：6激光雷达立体矩阵+40传感器，实现360°无死角感知",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303264",
-      "title": "别克至境E7推“鎏金绿”新色，7月OTA升级无麦K歌功能",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303262",
-      "title": "零跑C10已在马来西亚启动本地化组装生产",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303261",
-      "title": "理想汽车CEO李想翻阅《停车的艺术》 展示智能泊车新境界",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303255",
-      "title": "理想L9智能车载系统升级：马赫Mind-Pro模型行业领先，全面赋能本地智能交互",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303254",
-      "title": "零跑C10马来西亚本地化生产正式开启",
-      "source": "第一电动",
-      "pushedAt": 1781538107042
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303285",
       "title": "领克07GT量产下线，1422km续航开启预售倒计时",
@@ -6087,7 +5925,13 @@
       "title": "小鹏被曝造游艇，“水陆空”布局再落一子？",
       "source": "第一电动",
       "pushedAt": 1782141505287
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304058",
+      "title": "福特电马或无二代车型，UniversalEV平台不适用",
+      "source": "第一电动",
+      "pushedAt": 1782156054388
     }
   ],
-  "lastUpdated": "2026-06-22"
+  "lastUpdated": "2026-06-23"
 }
