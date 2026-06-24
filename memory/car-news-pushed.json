@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301985",
-    "https://www.d1ev.com/newsflash/301980",
-    "https://www.d1ev.com/news/shichang/302025",
-    "https://www.d1ev.com/newsflash/302020",
     "https://www.d1ev.com/news/shichang/302017",
     "https://www.d1ev.com/news/shichang/302016",
     "https://www.d1ev.com/newsflash/302009",
@@ -1999,15 +1995,13 @@
     "https://www.d1ev.com/newsflash/304323",
     "https://www.d1ev.com/newsflash/304318",
     "https://www.d1ev.com/news/shichang/304316",
-    "https://www.d1ev.com/newsflash/304315"
+    "https://www.d1ev.com/newsflash/304315",
+    "https://www.d1ev.com/newsflash/304336",
+    "https://www.d1ev.com/newsflash/304337",
+    "https://www.d1ev.com/newsflash/304335",
+    "https://www.d1ev.com/newsflash/304334"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303621",
-      "title": "爱玛黑翼发布三款新电摩，周冠宇代言，性能与智能兼备",
-      "source": "第一电动",
-      "pushedAt": 1781715116714
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303623",
       "title": "徐工XE700EV纯电挖掘机全球首交付 1.5小时快充省下90万成本",
@@ -5691,7 +5685,31 @@
       "title": "小鹏MONAL03即将发布，13万起售挑战Model Y！",
       "source": "第一电动",
       "pushedAt": 1782310452190
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304336",
+      "title": "宝丽来广告牌挑衅AI：数据中心耗水问题引争议",
+      "source": "第一电动",
+      "pushedAt": 1782323368072
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304337",
+      "title": "亚马逊Zoox升级Robotaxi：舒适升级，智能出行新体验",
+      "source": "第一电动",
+      "pushedAt": 1782323368072
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304335",
+      "title": "摩根士丹利预测：中国2026年人形机器人出货量将达5万台，市场规模激增至20亿美元",
+      "source": "第一电动",
+      "pushedAt": 1782323368072
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304334",
+      "title": "华为鸿蒙“龙虾”小艺Claw全机型开放，49元体验包上线Auto-Model模式",
+      "source": "第一电动",
+      "pushedAt": 1782323368072
     }
   ],
-  "lastUpdated": "2026-06-24"
+  "lastUpdated": "2026-06-25"
 }
