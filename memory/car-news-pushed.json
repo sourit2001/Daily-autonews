@@ -1,28 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/301806",
-    "https://www.d1ev.com/news/shichang/301805",
-    "https://www.d1ev.com/news/qiye/301802",
-    "https://www.d1ev.com/news/qiye/301797",
-    "https://www.d1ev.com/newsflash/301890",
-    "https://www.d1ev.com/newsflash/301886",
-    "https://www.d1ev.com/newsflash/301881",
-    "https://www.d1ev.com/newsflash/301879",
-    "https://www.d1ev.com/newsflash/301876",
-    "https://www.d1ev.com/carnews/xinche/301868",
-    "https://www.d1ev.com/news/shichang/301863",
-    "https://www.d1ev.com/news/shichang/301851",
-    "https://www.d1ev.com/newsflash/301889",
-    "https://www.d1ev.com/newsflash/301888",
-    "https://www.d1ev.com/newsflash/301887",
-    "https://www.d1ev.com/news/shichang/301884",
-    "https://www.d1ev.com/newsflash/301883",
-    "https://www.d1ev.com/newsflash/301882",
-    "https://www.d1ev.com/newsflash/301877",
-    "https://www.d1ev.com/news/shichang/301872",
-    "https://www.d1ev.com/news/shichang/301870",
-    "https://www.d1ev.com/newsflash/301859",
-    "https://www.d1ev.com/newsflash/301854",
     "https://www.d1ev.com/news/shichang/301853",
     "https://www.d1ev.com/news/qiye/301850",
     "https://www.d1ev.com/newsflash/301849",
@@ -1999,7 +1976,30 @@
     "https://www.d1ev.com/newsflash/304180",
     "https://www.d1ev.com/newsflash/304179",
     "https://www.d1ev.com/newsflash/304178",
-    "https://www.d1ev.com/news/shichang/304206"
+    "https://www.d1ev.com/news/shichang/304206",
+    "https://www.d1ev.com/newsflash/304231",
+    "https://www.d1ev.com/newsflash/304230",
+    "https://www.d1ev.com/carnews/xinche/304225",
+    "https://www.d1ev.com/carnews/xinche/304218",
+    "https://www.d1ev.com/newsflash/304233",
+    "https://www.d1ev.com/carnews/xinche/304224",
+    "https://www.d1ev.com/newsflash/304221",
+    "https://www.d1ev.com/newsflash/304215",
+    "https://www.d1ev.com/newsflash/304213",
+    "https://www.d1ev.com/newsflash/304212",
+    "https://www.d1ev.com/newsflash/304229",
+    "https://www.d1ev.com/newsflash/304220",
+    "https://www.d1ev.com/news/shichang/304214",
+    "https://www.d1ev.com/news/qiye/304232",
+    "https://www.d1ev.com/newsflash/304228",
+    "https://www.d1ev.com/carnews/xinche/304227",
+    "https://www.d1ev.com/news/shichang/304226",
+    "https://www.d1ev.com/carnews/xinche/304223",
+    "https://www.d1ev.com/newsflash/304219",
+    "https://www.d1ev.com/newsflash/304217",
+    "https://www.d1ev.com/news/shichang/304216",
+    "https://www.d1ev.com/news/shichang/304211",
+    "https://www.d1ev.com/news/shichang/304209"
   ],
   "newsHistory": [
     {
@@ -5787,6 +5787,144 @@
       "title": "测试验证，智能驾驶出海的真正门槛！",
       "source": "第一电动",
       "pushedAt": 1782244429281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304231",
+      "title": "小鹏MONAL03即将亮相，前法拉利设计师打造年轻人智能SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304230",
+      "title": "阿维塔07L内饰官图发布：华为技术加持，智能驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304225",
+      "title": "采用黑化外观 五菱星光L黑武士版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304218",
+      "title": "鸿蒙智行享界G9又一配置曝光：主动底盘",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304233",
+      "title": "小米YU7GT刷新浙赛自动驾驶纪录，1分49秒434惊人成绩！",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304224",
+      "title": "梅赛德斯-奔驰发布2028款VLE豪华电动MPV",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304221",
+      "title": "豆包2.1Pro办公神器发布：AI升级，专业办公新体验！",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304215",
+      "title": "新能源车智驾普及加速，L2+占比飙升至29.2%",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304213",
+      "title": "维基百科创始人警告：AI不可信，不参与编辑但可提醒编辑小众新闻",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304212",
+      "title": "三菱CEO揭秘：为何不自主研发纯电动车？合作应对市场放缓",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304229",
+      "title": "小鹏MONAL03：全球设计团队打造年轻人智能SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304220",
+      "title": "特斯拉Model3重回美国本土制造榜首，ModelY紧随其后",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304214",
+      "title": "冲击1200万辆出口！中国汽车将迎成年考验",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/304232",
+      "title": "2026年5月乘用车集团销量榜：自主三强稳居前列，合资守住基本盘丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304228",
+      "title": "火山引擎豆包音频1.0发布：一键生成影视级音频作品",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304227",
+      "title": "三菱确认帕杰罗回归并透露经典车型或重启",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304226",
+      "title": "盖瑞特中国区涡轮增压器累计交付4千万台",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304223",
+      "title": "全新旗舰纯电SUV 斯柯达Peaq正式发布",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304219",
+      "title": "智元机器人6天直播质检作业 展现具身智能新突破",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304217",
+      "title": "立时集团研发超黑涂层：99.9%吸光率，汽车涂料革命性突破",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304216",
+      "title": "为消费者兜底这件事，怎么就不愿卷了？",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304211",
+      "title": "又多了一家，抢坦克的饭碗",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304209",
+      "title": "【盖世快讯】宁德时代新设合资公司；两部门：国产小客车将能“当天买车，当天上牌”",
+      "source": "第一电动",
+      "pushedAt": 1782268982415
     }
   ],
   "lastUpdated": "2026-06-24"
