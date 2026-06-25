@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/302164",
-    "https://www.d1ev.com/newsflash/302163",
     "https://www.d1ev.com/newsflash/302162",
     "https://www.d1ev.com/newsflash/302170",
     "https://www.d1ev.com/newsflash/302169",
@@ -1999,15 +1997,11 @@
     "https://www.d1ev.com/newsflash/304485",
     "https://www.d1ev.com/news/shichang/304484",
     "https://www.d1ev.com/news/shichang/304483",
-    "https://www.d1ev.com/newsflash/304480"
+    "https://www.d1ev.com/newsflash/304480",
+    "https://www.d1ev.com/newsflash/304525",
+    "https://www.d1ev.com/newsflash/304526"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303780",
-      "title": "劳斯莱斯闪灵二代全球降价，中国降幅高达百万！",
-      "source": "第一电动",
-      "pushedAt": 1781801620882
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303781",
       "title": "蔚来李斌谈轻量化与换电：新能源车技术革命正当时",
@@ -5943,7 +5937,19 @@
       "title": "魅族FlymeAuto3.0将至，合作车型销量破300万",
       "source": "第一电动",
       "pushedAt": 1782396836636
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304525",
+      "title": "雪铁龙C3Aircross海军特别版亮相，风暴蓝涂装致敬法国海军400周年",
+      "source": "第一电动",
+      "pushedAt": 1782410743090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304526",
+      "title": "美国交通部拟取消无人驾驶汽车制动踏板要求，特斯拉Cybercab等受益",
+      "source": "第一电动",
+      "pushedAt": 1782410743090
     }
   ],
-  "lastUpdated": "2026-06-25"
+  "lastUpdated": "2026-06-26"
 }
