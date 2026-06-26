@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/302288",
-    "https://www.d1ev.com/newsflash/302286",
-    "https://www.d1ev.com/newsflash/302285",
-    "https://www.d1ev.com/news/shichang/302280",
-    "https://www.d1ev.com/newsflash/302278",
-    "https://www.d1ev.com/newsflash/302277",
-    "https://www.d1ev.com/newsflash/302276",
-    "https://www.d1ev.com/newsflash/302274",
-    "https://www.d1ev.com/news/shichang/302269",
-    "https://www.d1ev.com/newsflash/302268",
-    "https://www.d1ev.com/newsflash/302265",
-    "https://www.d1ev.com/newsflash/302264",
     "https://www.d1ev.com/news/shichang/302289",
     "https://www.d1ev.com/newsflash/302284",
     "https://www.d1ev.com/newsflash/302283",
@@ -1999,51 +1987,21 @@
     "https://www.d1ev.com/newsflash/304621",
     "https://www.d1ev.com/newsflash/304616",
     "https://www.d1ev.com/newsflash/304615",
-    "https://www.d1ev.com/news/shichang/304613"
+    "https://www.d1ev.com/news/shichang/304613",
+    "https://www.d1ev.com/newsflash/304641",
+    "https://www.d1ev.com/news/shichang/304639",
+    "https://www.d1ev.com/newsflash/304637",
+    "https://www.d1ev.com/newsflash/304635",
+    "https://www.d1ev.com/newsflash/304644",
+    "https://www.d1ev.com/newsflash/304642",
+    "https://www.d1ev.com/newsflash/304640",
+    "https://www.d1ev.com/newsflash/304646",
+    "https://www.d1ev.com/newsflash/304638",
+    "https://www.d1ev.com/newsflash/304645",
+    "https://www.d1ev.com/newsflash/304643",
+    "https://www.d1ev.com/newsflash/304636"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303814",
-      "title": "东风汽车携手华为，奕境X9旗舰SUV全球首发亮相",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303811",
-      "title": "法拉利7月4日将发布全新车型，融合传统与创新",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303815",
-      "title": "AI助手虽提高假新闻识别率，但过度依赖或削弱人类批判性思维",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303812",
-      "title": "本田联手QuantumScape，固态电池技术迈入新阶段",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303810",
-      "title": "亚马逊员工因批评AI扩张遭内部调查，或面临解雇威胁",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303813",
-      "title": "全球近八成数据中心面临气候灾害风险，亚太地区风险最高",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303809",
-      "title": "长安汽车欧洲扩张加速：2028年目标年销30万辆，西班牙建厂在即",
-      "source": "第一电动",
-      "pushedAt": 1781875872494
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/303831",
       "title": "问界M9累计交付超29万台 全新车型开启交付",
@@ -6387,6 +6345,78 @@
       "title": "华为跟进辅助驾驶兜底，车主终于不用背锅了",
       "source": "第一电动",
       "pushedAt": 1782470790496
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304641",
+      "title": "岚图追光S首发亮相，2026年上市，续航700km，华为智驾加持！",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304639",
+      "title": "优必选Cruzr Y1轮式工业人形机器人全球首发",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304637",
+      "title": "OPPO技术展亮相CruzrY1机器人，攻克工业柔性作业难题",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304635",
+      "title": "特斯拉FSD破解灰色产业链曝光：车主苦等官方推送，非法改装风险高",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304644",
+      "title": "苹果产品因芯片涨价调整售价，市值蒸发2500亿美元",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304642",
+      "title": "本田年度首亏182亿！电动化战略调整致巨额损失，未来3年投资转向混动和汽油车",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304640",
+      "title": "DeepSeek首轮融资500亿 扩招人才布局AI未来",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304646",
+      "title": "美国禁令下，极星汽车将退出美国市场",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304638",
+      "title": "中国品牌汽车欧洲销量破10%，名爵S9SUV成热销新宠",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304645",
+      "title": "法拉利Luce亚洲首秀：纯电超跑398.8万起，极速310km/h！",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304643",
+      "title": "华为加持！启境GT7智能轿跑20.99万起售，性能强悍",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304636",
+      "title": "德系车企大裁员：大众、保时捷、宝马、奔驰累计裁减近6万岗位",
+      "source": "第一电动",
+      "pushedAt": 1782483092018
     }
   ],
   "lastUpdated": "2026-06-26"
