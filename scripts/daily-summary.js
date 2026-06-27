@@ -17,8 +17,46 @@ const CONFIG = {
     }
 };
 
+let LAST_OPENROUTER_MODEL = null;
+
 function openRouterModels() {
-    return [...new Set([CONFIG.OPENROUTER_MODEL, ...CONFIG.OPENROUTER_FALLBACK_MODELS])];
+    return [...new Set([CONFIG.OPENROUTER_MODEL, ...CONFIG.OPENROUTER_FALLBACK_MODELS, 'openrouter/free'])];
+}
+
+function requestOpenRouterSummary(model, prompt) {
+    return new Promise((resolve, reject) => {
+        const postData = JSON.stringify({
+            model,
+            messages: [{ role: 'user', content: prompt }],
+            temperature: 0.7,
+            max_tokens: 2000
+        });
+
+        const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${CONFIG.OPENROUTER_API_KEY}`,
+                'HTTP-Referer': 'https://github.com/sourit2001/Daily-autonews',
+                'Content-Length': Buffer.byteLength(postData)
+            },
+            timeout: 60000
+        }, (res) => {
+            let data = '';
+            res.on('data', chunk => data += chunk);
+            res.on('end', () => {
+                try {
+                    resolve({ statusCode: res.statusCode, body: JSON.parse(data) });
+                } catch (e) {
+                    reject(new Error(`OpenRouter 返回非 JSON (HTTP ${res.statusCode}, model=${model}): ${data.slice(0, 200)}`));
+                }
+            });
+        });
+        req.on('error', reject);
+        req.on('timeout', () => req.destroy(new Error(`OpenRouter 请求超时 (model=${model})`)));
+        req.write(postData);
+        req.end();
+    });
 }
 
 // 获取特定时区的时间
@@ -164,52 +202,24 @@ async function generateDailySummary(newsList) {
 今日新闻源列表：
 ${titles}`;
 
-    try {
-        const response = await new Promise((resolve, reject) => {
-            const postData = JSON.stringify({
-                models: openRouterModels(),
-                messages: [{ role: 'user', content: prompt }],
-                temperature: 0.7,
-                max_tokens: 2000
-            });
-
-            const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${CONFIG.OPENROUTER_API_KEY}`,
-                    'HTTP-Referer': 'https://github.com/sourit2001/Daily-autonews'
-                },
-                timeout: 60000
-            }, (res) => {
-                let data = '';
-                res.on('data', chunk => data += chunk);
-                res.on('end', () => {
-                    try {
-                        resolve({ statusCode: res.statusCode, body: JSON.parse(data) });
-                    } catch (e) {
-                        reject(new Error(`OpenRouter 返回非 JSON (HTTP ${res.statusCode}): ${data.slice(0, 200)}`));
-                    }
-                });
-            });
-            req.on('error', reject);
-            req.on('timeout', () => req.destroy(new Error('OpenRouter 请求超时')));
-            req.write(postData);
-            req.end();
-        });
-
-        const { statusCode, body } = response;
-        if (!body?.choices?.[0]) {
-            const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 500);
-            console.error(`❌ OpenRouter 总结失败 (HTTP ${statusCode}, models=${openRouterModels().join(',')}): ${errorMessage}`);
-            return "今日行业动态汇总正在生成中（响应异常）。";
+    for (const model of openRouterModels()) {
+        try {
+            const { statusCode, body } = await requestOpenRouterSummary(model, prompt);
+            if (!body?.choices?.[0]) {
+                const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 500);
+                console.warn(`⚠️ OpenRouter 总结模型不可用 (HTTP ${statusCode}, model=${model}): ${errorMessage}`);
+                continue;
+            }
+            LAST_OPENROUTER_MODEL = body.model || model;
+            console.log(`✅ OpenRouter 总结成功: ${LAST_OPENROUTER_MODEL}`);
+            return body.choices[0].message.content;
+        } catch (e) {
+            console.warn(`⚠️ OpenRouter 总结模型失败 (model=${model}): ${e.message}`);
         }
-        console.log(`✅ OpenRouter 总结成功: ${body.model || CONFIG.OPENROUTER_MODEL}`);
-        return body.choices[0].message.content;
-    } catch (e) {
-        console.error('AI 总结生成失败:', e);
-        return "今日行业动态丰富，主要集中在电气化转型和海外市场拓展。";
     }
+
+    console.error(`❌ OpenRouter 全部总结模型均失败: ${openRouterModels().join(' -> ')}`);
+    return "今日行业动态汇总正在生成中（响应异常）。";
 }
 
 async function sendToFeishu(summary, dateStr) {
@@ -233,7 +243,7 @@ async function sendToFeishu(summary, dateStr) {
         {
             tag: 'note',
             elements: [
-                { tag: 'plain_text', content: `📊 驱动：${CONFIG.OPENROUTER_MODEL} (OpenRouter) |  来源：多源聚合` }
+                { tag: 'plain_text', content: `📊 驱动：${LAST_OPENROUTER_MODEL || CONFIG.OPENROUTER_MODEL} (OpenRouter) |  来源：多源聚合` }
             ]
         }
     ];
