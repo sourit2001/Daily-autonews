@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/302284",
-    "https://www.d1ev.com/newsflash/302283",
-    "https://www.d1ev.com/newsflash/302279",
-    "https://www.d1ev.com/news/shichang/302275",
-    "https://www.d1ev.com/newsflash/302267",
-    "https://www.d1ev.com/newsflash/302266",
-    "https://www.d1ev.com/newsflash/302306",
-    "https://www.d1ev.com/newsflash/302310",
-    "https://www.d1ev.com/newsflash/302309",
-    "https://www.d1ev.com/newsflash/302307",
-    "https://www.d1ev.com/newsflash/302308",
     "https://www.d1ev.com/newsflash/302305",
     "https://www.d1ev.com/newsflash/302313",
     "https://www.d1ev.com/newsflash/302312",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/304645",
     "https://www.d1ev.com/newsflash/304643",
     "https://www.d1ev.com/newsflash/304636",
-    "https://www.d1ev.com/news/qiye/304665"
+    "https://www.d1ev.com/news/qiye/304665",
+    "https://www.d1ev.com/newsflash/304672",
+    "https://www.d1ev.com/newsflash/304671",
+    "https://www.d1ev.com/news/qiye/304670",
+    "https://www.d1ev.com/news/qiye/304668",
+    "https://www.d1ev.com/newsflash/304675",
+    "https://www.d1ev.com/newsflash/304667",
+    "https://www.d1ev.com/newsflash/304666",
+    "https://www.d1ev.com/newsflash/304669",
+    "https://www.d1ev.com/newsflash/304676",
+    "https://www.d1ev.com/carnews/xinche/304674",
+    "https://www.d1ev.com/carnews/xinche/304673"
   ],
   "newsHistory": [
     {
@@ -6423,6 +6423,72 @@
       "title": "启境GT7正式上市，20.99万元起，搭载华为乾崑全栈技术",
       "source": "第一电动",
       "pushedAt": 1782502814771
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304672",
+      "title": "尊界V680/V800预售1小时订单破3200台，豪华MPV新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304671",
+      "title": "长城H10内饰曝光：1.5T混动+三排大空间，家庭出行新选择",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/304670",
+      "title": "捷途汽车第二届方盒子大会召开，捷途自由者7 PLUS&全新山海T1四驱版上市",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/304668",
+      "title": "广汽华为第二车！启境GX7官图发布：阔五座SUV、一键成床",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304675",
+      "title": "微软被控助OpenAI侵权《纽约时报》：AI训练涉版权争议",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304667",
+      "title": "智能体互联国标发布，7大标准助力AI产业升级",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304666",
+      "title": "OpenAI发布GPT-5.6系列模型：最强AI加速编程与安全任务",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304669",
+      "title": "美国解除Anthropic出口管制，Mythos5模型获准向美机构开放",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304676",
+      "title": "长城哈弗H10插电混动SUV：旗舰级“第二起居室”震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304674",
+      "title": "法拉利首款纯电车Luce正式发布 398.8万",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304673",
+      "title": "五座SUV卷到头了 全新理想L8交付",
+      "source": "第一电动",
+      "pushedAt": 1782527915528
     }
   ],
   "lastUpdated": "2026-06-27"
