@@ -322,7 +322,61 @@ function normalizeTitle(title) {
 }
 
 function openRouterModels() {
-  return [...new Set([CONFIG.OPENROUTER_MODEL, ...CONFIG.OPENROUTER_FALLBACK_MODELS])];
+  return [...new Set([CONFIG.OPENROUTER_MODEL, ...CONFIG.OPENROUTER_FALLBACK_MODELS, 'openrouter/free'])];
+}
+
+function parseJsonArray(content) {
+  const text = String(content || '').trim()
+    .replace(/^```(?:json)?\s*/i, '')
+    .replace(/\s*```$/i, '')
+    .trim();
+
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    const start = text.indexOf('[');
+    const end = text.lastIndexOf(']');
+    if (start !== -1 && end > start) {
+      return JSON.parse(text.slice(start, end + 1));
+    }
+    throw e;
+  }
+}
+
+function requestOpenRouterSummary(model, prompt, maxTokens) {
+  return new Promise((resolve, reject) => {
+    const postData = JSON.stringify({
+      model,
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.3,
+      max_tokens: maxTokens
+    });
+
+    const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${CONFIG.OPENROUTER_API_KEY}`,
+        'HTTP-Referer': 'https://github.com/sourit2001/Daily-autonews',
+        'Content-Length': Buffer.byteLength(postData)
+      },
+      timeout: 30000
+    }, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          resolve({ statusCode: res.statusCode, body: JSON.parse(data) });
+        } catch (e) {
+          reject(new Error(`OpenRouter 返回非 JSON (HTTP ${res.statusCode}, model=${model}): ${data.slice(0, 200)}`));
+        }
+      });
+    });
+    req.on('error', reject);
+    req.on('timeout', () => req.destroy(new Error(`OpenRouter 请求超时 (model=${model})`)));
+    req.write(postData);
+    req.end();
+  });
 }
 
 async function generateSummaryBatch(entries, batchIndex) {
@@ -343,64 +397,37 @@ async function generateSummaryBatch(entries, batchIndex) {
 ${items}`;
 
   try {
-    const response = await new Promise((resolve, reject) => {
-      const postData = JSON.stringify({
-        models: openRouterModels(),
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.3,
-        max_tokens: Math.min(4000, Math.max(1200, entries.length * 400))
-      });
+    const maxTokens = Math.min(4000, Math.max(1200, entries.length * 400));
+    for (const model of openRouterModels()) {
+      try {
+        const { statusCode, body } = await requestOpenRouterSummary(model, prompt, maxTokens);
+        if (!body?.choices?.[0]) {
+          const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 300);
+          console.warn(`  ⚠️ OpenRouter 摘要模型不可用 (HTTP ${statusCode}, model=${model}): ${errorMessage}`);
+          continue;
+        }
 
-      const req = https.request('https://openrouter.ai/api/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${CONFIG.OPENROUTER_API_KEY}`,
-          'HTTP-Referer': 'https://github.com/sourit2001/Daily-autonews',
-          'Content-Length': Buffer.byteLength(postData)
-        },
-        timeout: 30000
-      }, (res) => {
-        let data = '';
-        res.on('data', chunk => data += chunk);
-        res.on('end', () => {
-          try {
-            resolve({ statusCode: res.statusCode, body: JSON.parse(data) });
-          } catch (e) {
-            reject(new Error(`OpenRouter 返回非 JSON (HTTP ${res.statusCode}): ${data.slice(0, 200)}`));
+        const summaries = parseJsonArray(body.choices[0].message.content);
+        entries.forEach(({ news, content: sourceContent }, index) => {
+          const match = Array.isArray(summaries)
+            ? summaries.find(item => Number(item.id) === index + 1)
+            : null;
+          const titleMatches = normalizeTitle(match?.title) === normalizeTitle(news.title);
+          news.summary = titleMatches && typeof match?.summary === 'string' && match.summary.trim()
+            ? match.summary.trim()
+            : fallbackSummary(news.title, sourceContent);
+          if (!titleMatches) {
+            console.warn(`  ⚠️ 摘要关联校验失败，改用原文片段: ${news.title.slice(0, 35)}...`);
           }
         });
-      });
-      req.on('error', reject);
-      req.on('timeout', () => req.destroy(new Error('OpenRouter 请求超时')));
-      req.write(postData);
-      req.end();
-    });
-
-    const { statusCode, body } = response;
-    if (body?.choices?.[0]) {
-      const content = body.choices[0].message.content.trim()
-        .replace(/^```(?:json)?\s*/i, '')
-        .replace(/\s*```$/, '');
-      const summaries = JSON.parse(content);
-      entries.forEach(({ news, content: sourceContent }, index) => {
-        const match = Array.isArray(summaries)
-          ? summaries.find(item => Number(item.id) === index + 1)
-          : null;
-        const titleMatches = normalizeTitle(match?.title) === normalizeTitle(news.title);
-        news.summary = titleMatches && typeof match?.summary === 'string' && match.summary.trim()
-          ? match.summary.trim()
-          : fallbackSummary(news.title, sourceContent);
-        if (!titleMatches) {
-          console.warn(`  ⚠️ 摘要关联校验失败，改用原文片段: ${news.title.slice(0, 35)}...`);
-        }
-      });
-      console.log(`  [AI摘要] 第${batchIndex}批成功: ${body.model || CONFIG.OPENROUTER_MODEL} (${entries.length}条)`);
-      return;
+        console.log(`  [AI摘要] 第${batchIndex}批成功: ${body.model || model} (${entries.length}条)`);
+        return;
+      } catch (e) {
+        console.warn(`  ⚠️ OpenRouter 摘要模型失败 (model=${model}): ${e.message}`);
+        continue;
+      }
     }
-
-    const errorMessage = body?.error?.message || JSON.stringify(body).slice(0, 300);
-    console.error(`  ⚠️ OpenRouter 批量摘要失败 (HTTP ${statusCode}, models=${openRouterModels().join(',')}): ${errorMessage}`);
+    console.error(`  ⚠️ OpenRouter 全部摘要模型均失败，改用原文片段: ${openRouterModels().join(' -> ')}`);
   } catch (e) {
     console.log(`  ⚠️ 批量摘要生成失败: ${e.message}`);
   }
