@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/302319",
-    "https://www.d1ev.com/carnews/xinche/302318",
-    "https://www.d1ev.com/newsflash/302353",
-    "https://www.d1ev.com/news/shichang/302351",
-    "https://www.d1ev.com/newsflash/302346",
-    "https://www.d1ev.com/newsflash/302345",
-    "https://www.d1ev.com/newsflash/302344",
-    "https://www.d1ev.com/news/qiye/302339",
-    "https://www.d1ev.com/newsflash/302336",
-    "https://www.d1ev.com/newsflash/302327",
-    "https://www.d1ev.com/newsflash/302324",
-    "https://www.d1ev.com/news/qiye/302320",
     "https://www.d1ev.com/news/shichang/302317",
     "https://www.d1ev.com/newsflash/302315",
     "https://www.d1ev.com/news/shichang/302350",
@@ -1999,99 +1987,21 @@
     "https://www.d1ev.com/newsflash/304681",
     "https://www.d1ev.com/newsflash/304689",
     "https://www.d1ev.com/newsflash/304683",
-    "https://www.d1ev.com/carnews/xinche/304682"
+    "https://www.d1ev.com/carnews/xinche/304682",
+    "https://www.d1ev.com/newsflash/304702",
+    "https://www.d1ev.com/newsflash/304700",
+    "https://www.d1ev.com/newsflash/304697",
+    "https://www.d1ev.com/newsflash/304692",
+    "https://www.d1ev.com/newsflash/304698",
+    "https://www.d1ev.com/newsflash/304696",
+    "https://www.d1ev.com/newsflash/304695",
+    "https://www.d1ev.com/newsflash/304693",
+    "https://www.d1ev.com/newsflash/304701",
+    "https://www.d1ev.com/newsflash/304699",
+    "https://www.d1ev.com/newsflash/304694",
+    "https://www.d1ev.com/newsflash/304691"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303842",
-      "title": "小米“寻天”SUV曝光：带升降车顶帐篷，七座版变身房车！",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303839",
-      "title": "本田Super-N微型纯电性能车英国上市，17万起售续航超300公里",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303835",
-      "title": "小米寻天N90谍照曝光：车顶帐篷秒变户外露营阁楼",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303849",
-      "title": "挪威小学全面禁用AI工具：保护儿童基础学习能力",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303848",
-      "title": "马斯克SpaceXAI推出Office智能助手，一键生成文档幻灯片",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303847",
-      "title": "小鹏汽车辟谣：L3/L4自动驾驶国标无激光雷达强制要求",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303844",
-      "title": "金山办公7月推出AI办公“企业大脑” 助力中大型组织业务升级",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303837",
-      "title": "2026第九届智能驾驶与出海大会｜知行科技张伟：智驾出海须破局场景鸿沟，无图方案并非唯一解",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303843",
-      "title": "曝欧盟拟对中国产PHEV加征新关税",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303846",
-      "title": "GPT-5.6系列模型即将发布，性能飞跃开发者新宠！",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303845",
-      "title": "保时捷CEO宣布：减产增效，未来几年再裁1900人",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303841",
-      "title": "特斯拉Model3高速违规变道引发连环车祸，货车撞大巴惨剧",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303840",
-      "title": "理想i6销量飙升：15万台量产车下线，纯电SUV市场新宠",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303838",
-      "title": "理想i6月销破2万，10天量产15000辆纯电SUV新纪录",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303836",
-      "title": "大众集团大动作：德国本土裁员2.8万，产能压缩至900万辆",
-      "source": "第一电动",
-      "pushedAt": 1781941537475
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303850",
       "title": "北京越野“悦野五+”生态体系发布，BJ40官改套件亮相",
@@ -6501,6 +6411,78 @@
       "title": "华为6大智能方案“能上的全上了”！��境GT7入局，广汽冲击高端市场再提速",
       "source": "第一电动",
       "pushedAt": 1782542975127
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304702",
+      "title": "华为问界M9系列上市首月订单破42000台，搭载鸿蒙智行系统",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304700",
+      "title": "全新猛士M817震撼上市，43项技术升级，纯电续航301km！",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304697",
+      "title": "宾利Barnato纯电SUV曝光：内饰豪华升级，预计2027年美国上市",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304692",
+      "title": "梅赛德斯-AMG C级纯电原型车曝光，三电机789马力挑战宝马M3 EV！",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304698",
+      "title": "美国企业AI账单失控，转向Tokenminimizing节省成本",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304696",
+      "title": "2026年超极合生汇新能源汽车消费节举办",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304695",
+      "title": "2030年充电桩翻倍至4000万，支撑1.1亿电动车日常补能",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304693",
+      "title": "北大联手DeepSeek发布DSpark，AI对话速度提升60%至85%",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304701",
+      "title": "特斯拉Model3和ModelY转向问题已解决，NHTSA结束调查",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304699",
+      "title": "本田CEO道歉后连任董事，纯电业务亏损超90亿美元",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304694",
+      "title": "赛力斯坚守高端供应链，与华为、宁德时代合作不动摇",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304691",
+      "title": "奔驰德国员工每周工时增至40小时，无额外工资！",
+      "source": "第一电动",
+      "pushedAt": 1782554472266
     }
   ],
   "lastUpdated": "2026-06-27"
