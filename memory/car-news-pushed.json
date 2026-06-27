@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/302332",
-    "https://www.d1ev.com/carnews/xinche/302330",
-    "https://www.d1ev.com/news/shichang/302329",
     "https://www.d1ev.com/news/shichang/302328",
     "https://www.d1ev.com/carnews/xinche/302326",
     "https://www.d1ev.com/news/qiye/302325",
@@ -1999,27 +1996,12 @@
     "https://www.d1ev.com/newsflash/304706",
     "https://www.d1ev.com/carnews/xinche/304710",
     "https://www.d1ev.com/newsflash/304709",
-    "https://www.d1ev.com/newsflash/304708"
+    "https://www.d1ev.com/newsflash/304708",
+    "https://www.d1ev.com/newsflash/304712",
+    "https://www.d1ev.com/newsflash/304713",
+    "https://www.d1ev.com/newsflash/304711"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303857",
-      "title": "科创板新规：AI大模型企业上市门槛明确，Anthropic大模型服务受限",
-      "source": "第一电动",
-      "pushedAt": 1781963303875
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303858",
-      "title": "AI泡沫破裂风险：纽约大学教授警告，冲击或超2000年互联网泡沫",
-      "source": "第一电动",
-      "pushedAt": 1781963303875
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303856",
-      "title": "本田Super-N纯电小钢炮登陆欧洲，17万起售续航超200公里",
-      "source": "第一电动",
-      "pushedAt": 1781963303875
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303859",
       "title": "游戏巨头Take-Two意外裁撤AI研究团队，迪肯博士担忧生成式AI泡沫破裂",
@@ -6495,6 +6477,24 @@
       "title": "宝马M高管梦想打造新一代M1，无限预算下的新梦想车型",
       "source": "第一电动",
       "pushedAt": 1782566443529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304712",
+      "title": "启境GT7上市首日订单破5200台，智能猎装轿跑20.99万起",
+      "source": "第一电动",
+      "pushedAt": 1782573143351
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304713",
+      "title": "塔塔汽车2031财年规划：电动化加速，年销量目标翻倍",
+      "source": "第一电动",
+      "pushedAt": 1782573143351
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304711",
+      "title": "特斯拉FSD首例行人死亡案和解，涉事车辆安全缺陷调查继续",
+      "source": "第一电动",
+      "pushedAt": 1782573143351
     }
   ],
   "lastUpdated": "2026-06-27"
