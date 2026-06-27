@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/302343",
-    "https://www.d1ev.com/news/shichang/302341",
-    "https://www.d1ev.com/news/shichang/302340",
     "https://www.d1ev.com/news/shichang/302332",
     "https://www.d1ev.com/carnews/xinche/302330",
     "https://www.d1ev.com/news/shichang/302329",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/304705",
     "https://www.d1ev.com/newsflash/304704",
     "https://www.d1ev.com/newsflash/304707",
-    "https://www.d1ev.com/newsflash/304706"
+    "https://www.d1ev.com/newsflash/304706",
+    "https://www.d1ev.com/carnews/xinche/304710",
+    "https://www.d1ev.com/newsflash/304709",
+    "https://www.d1ev.com/newsflash/304708"
   ],
   "newsHistory": [
     {
@@ -6477,6 +6477,24 @@
       "title": "国内汽车行业利润率跌至3.4%，原材料涨价成主因",
       "source": "第一电动",
       "pushedAt": 1782560367172
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304710",
+      "title": "2026款猛士M817上市 售价29.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1782566443529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304709",
+      "title": "捷途汽车推两款重磅新车，定义燃油方盒子新标杆",
+      "source": "第一电动",
+      "pushedAt": 1782566443529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304708",
+      "title": "宝马M高管梦想打造新一代M1，无限预算下的新梦想车型",
+      "source": "第一电动",
+      "pushedAt": 1782566443529
     }
   ],
   "lastUpdated": "2026-06-27"
