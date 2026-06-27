@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/302317",
-    "https://www.d1ev.com/newsflash/302315",
-    "https://www.d1ev.com/news/shichang/302350",
-    "https://www.d1ev.com/news/shichang/302349",
-    "https://www.d1ev.com/news/qiye/302347",
     "https://www.d1ev.com/newsflash/302343",
     "https://www.d1ev.com/news/shichang/302341",
     "https://www.d1ev.com/news/shichang/302340",
@@ -1999,45 +1994,14 @@
     "https://www.d1ev.com/newsflash/304701",
     "https://www.d1ev.com/newsflash/304699",
     "https://www.d1ev.com/newsflash/304694",
-    "https://www.d1ev.com/newsflash/304691"
+    "https://www.d1ev.com/newsflash/304691",
+    "https://www.d1ev.com/newsflash/304703",
+    "https://www.d1ev.com/newsflash/304705",
+    "https://www.d1ev.com/newsflash/304704",
+    "https://www.d1ev.com/newsflash/304707",
+    "https://www.d1ev.com/newsflash/304706"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303850",
-      "title": "北京越野“悦野五+”生态体系发布，BJ40官改套件亮相",
-      "source": "第一电动",
-      "pushedAt": 1781951338227
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303855",
-      "title": "苹果WWDC2026：四台MacStudio集群成功运行万亿参数AI模型KimiK2.6",
-      "source": "第一电动",
-      "pushedAt": 1781951338227
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303852",
-      "title": "欧盟《工业加速器法案》草案或限制中国企业，电动车领域首当其冲",
-      "source": "第一电动",
-      "pushedAt": 1781951338227
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303851",
-      "title": "日产NX8中型新能源SUV交付破万，智能驾驶体验升级",
-      "source": "第一电动",
-      "pushedAt": 1781951338227
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303854",
-      "title": "“中国制造”颠覆欧洲汽车产业：品牌与制造的全球新格局",
-      "source": "第一电动",
-      "pushedAt": 1781951338227
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303853",
-      "title": "“中国混动车欧盟出口激增155%，欧盟酝酿新关税政策”",
-      "source": "第一电动",
-      "pushedAt": 1781951338227
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303857",
       "title": "科创板新规：AI大模型企业上市门槛明确，Anthropic大模型服务受限",
@@ -6483,6 +6447,36 @@
       "title": "奔驰德国员工每周工时增至40小时，无额外工资！",
       "source": "第一电动",
       "pushedAt": 1782554472266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304703",
+      "title": "全新猛士M817震撼上市！29.99万起，插混动力+激光雷达，纯电续航超300km",
+      "source": "第一电动",
+      "pushedAt": 1782560367172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304705",
+      "title": "问界M9新订单破42000台！华为智驾加持，高端SUV市场新宠",
+      "source": "第一电动",
+      "pushedAt": 1782560367172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304704",
+      "title": "华为加持！启境GT7智能猎装车20.99万起售，续航900km加速2.98秒",
+      "source": "第一电动",
+      "pushedAt": 1782560367172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304707",
+      "title": "上汽集团欧洲销量目标40万，首家工厂落户西班牙",
+      "source": "第一电动",
+      "pushedAt": 1782560367172
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304706",
+      "title": "国内汽车行业利润率跌至3.4%，原材料涨价成主因",
+      "source": "第一电动",
+      "pushedAt": 1782560367172
     }
   ],
   "lastUpdated": "2026-06-27"
