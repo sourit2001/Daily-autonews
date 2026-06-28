@@ -1,23 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/302328",
-    "https://www.d1ev.com/carnews/xinche/302326",
-    "https://www.d1ev.com/news/qiye/302325",
-    "https://www.d1ev.com/news/shichang/302321",
-    "https://www.d1ev.com/news/shichang/302316",
-    "https://www.d1ev.com/newsflash/302391",
-    "https://www.d1ev.com/newsflash/302389",
-    "https://www.d1ev.com/carnews/xinche/302383",
-    "https://www.d1ev.com/news/shichang/302372",
-    "https://www.d1ev.com/news/shichang/302370",
-    "https://www.d1ev.com/news/qiye/302368",
-    "https://www.d1ev.com/newsflash/302366",
-    "https://www.d1ev.com/newsflash/302356",
-    "https://www.d1ev.com/newsflash/302393",
-    "https://www.d1ev.com/news/shichang/302388",
-    "https://www.d1ev.com/newsflash/302385",
-    "https://www.d1ev.com/newsflash/302382",
-    "https://www.d1ev.com/news/shichang/302380",
     "https://www.d1ev.com/newsflash/302378",
     "https://www.d1ev.com/news/shichang/302377",
     "https://www.d1ev.com/newsflash/302367",
@@ -1999,33 +1981,27 @@
     "https://www.d1ev.com/newsflash/304708",
     "https://www.d1ev.com/newsflash/304712",
     "https://www.d1ev.com/newsflash/304713",
-    "https://www.d1ev.com/newsflash/304711"
+    "https://www.d1ev.com/newsflash/304711",
+    "https://www.d1ev.com/newsflash/304731",
+    "https://www.d1ev.com/carnews/xinche/304726",
+    "https://www.d1ev.com/carnews/xinche/304725",
+    "https://www.d1ev.com/newsflash/304723",
+    "https://www.d1ev.com/newsflash/304721",
+    "https://www.d1ev.com/newsflash/304732",
+    "https://www.d1ev.com/newsflash/304730",
+    "https://www.d1ev.com/newsflash/304720",
+    "https://www.d1ev.com/newsflash/304717",
+    "https://www.d1ev.com/news/shichang/304724",
+    "https://www.d1ev.com/newsflash/304719",
+    "https://www.d1ev.com/newsflash/304733",
+    "https://www.d1ev.com/newsflash/304729",
+    "https://www.d1ev.com/newsflash/304728",
+    "https://www.d1ev.com/newsflash/304727",
+    "https://www.d1ev.com/newsflash/304722",
+    "https://www.d1ev.com/newsflash/304718",
+    "https://www.d1ev.com/newsflash/304716"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303859",
-      "title": "游戏巨头Take-Two意外裁撤AI研究团队，迪肯博士担忧生成式AI泡沫破裂",
-      "source": "第一电动",
-      "pushedAt": 1781970146643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303862",
-      "title": "法拉利纯电Luce争议不断，经销商施压客户订购？官方否认",
-      "source": "第一电动",
-      "pushedAt": 1781970146643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303861",
-      "title": "大众集团大刀阔斧降本增效：2030年前裁撤5万岗位，精简车型阵容",
-      "source": "第一电动",
-      "pushedAt": 1781970146643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303860",
-      "title": "零跑汽车第三季度将公布多项创新技术，未来产品更创新差异化",
-      "source": "第一电动",
-      "pushedAt": 1781970146643
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/303875",
       "title": "小米寻天N90谍照曝光 车顶升起二层阁楼",
@@ -6495,7 +6471,115 @@
       "title": "特斯拉FSD首例行人死亡案和解，涉事车辆安全缺陷调查继续",
       "source": "第一电动",
       "pushedAt": 1782573143351
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304731",
+      "title": "郑州日产锐骐纯电皮卡上市，续航451km起售14.38万",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304726",
+      "title": "路虎揽胜首款纯电SUV将于2026年底前上市",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304725",
+      "title": "丰田Alphard与Vellfire部分改款上市",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304723",
+      "title": "阿维塔07L内饰曝光，7月亮相大五座豪华SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304721",
+      "title": "特斯拉Cybercab专利曝光：前轮驱动+独特车轮设计，自动驾驶网约车即将量产",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304732",
+      "title": "7月1日起，中国汽车侧面碰撞标准升级，电动车安全要求更严苛！",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304730",
+      "title": "20万二手新能源车过户后无法变更车机主 用户权益受损法院判退车退款",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304720",
+      "title": "现代起亚比亚迪齐聚2026釜山车展，新能源车型成焦点",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304717",
+      "title": "半数用户工作被AI取代？Claude用户调研揭示人工智能工作能力",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304724",
+      "title": "盖世周报 | 欧盟拟对中国产PHEV加征新关税；安通林达成债务重组协议",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304719",
+      "title": "特斯拉ModelS签名典藏版限量20台欧洲发售，7至9月交付",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304733",
+      "title": "大众汽车拟裁员10万，重组计划能否挽救市场信心？",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304729",
+      "title": "7月1日起，中国汽车安全碰撞新国标实施，侧面碰撞测试更严苛",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304728",
+      "title": "特朗普政府或将解除Anthropic Fable5模型使用限制",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304727",
+      "title": "特斯拉新专利：混合式主动悬架系统提升舒适性与节能",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304722",
+      "title": "特斯拉Q2交付量预计环比增12%，储能装机量大幅增长",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304718",
+      "title": "中国车企赴加建厂新动向：加拿大提四���合作要求",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304716",
+      "title": "特斯拉新专利：智能悬架系统让坑洼路变舒适道",
+      "source": "第一电动",
+      "pushedAt": 1782615278919
     }
   ],
-  "lastUpdated": "2026-06-27"
+  "lastUpdated": "2026-06-28"
 }
