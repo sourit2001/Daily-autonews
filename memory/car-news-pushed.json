@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/302359",
-    "https://www.d1ev.com/news/shichang/302357",
-    "https://www.d1ev.com/newsflash/302354",
-    "https://www.d1ev.com/news/shichang/302437",
-    "https://www.d1ev.com/news/qiye/302420",
-    "https://www.d1ev.com/newsflash/302409",
-    "https://www.d1ev.com/carnews/xinche/302407",
-    "https://www.d1ev.com/newsflash/302438",
-    "https://www.d1ev.com/newsflash/302435",
-    "https://www.d1ev.com/newsflash/302434",
-    "https://www.d1ev.com/newsflash/302432",
-    "https://www.d1ev.com/newsflash/302431",
-    "https://www.d1ev.com/newsflash/302430",
-    "https://www.d1ev.com/newsflash/302429",
-    "https://www.d1ev.com/newsflash/302428",
     "https://www.d1ev.com/newsflash/302426",
     "https://www.d1ev.com/newsflash/302425",
     "https://www.d1ev.com/newsflash/302424",
@@ -1999,75 +1984,24 @@
     "https://www.d1ev.com/newsflash/304743",
     "https://www.d1ev.com/newsflash/304742",
     "https://www.d1ev.com/newsflash/304741",
-    "https://www.d1ev.com/newsflash/304740"
+    "https://www.d1ev.com/newsflash/304740",
+    "https://www.d1ev.com/newsflash/304771",
+    "https://www.d1ev.com/newsflash/304767",
+    "https://www.d1ev.com/newsflash/304766",
+    "https://www.d1ev.com/carnews/xinche/304764",
+    "https://www.d1ev.com/newsflash/304760",
+    "https://www.d1ev.com/newsflash/304759",
+    "https://www.d1ev.com/newsflash/304758",
+    "https://www.d1ev.com/news/shichang/304772",
+    "https://www.d1ev.com/newsflash/304763",
+    "https://www.d1ev.com/newsflash/304757",
+    "https://www.d1ev.com/newsflash/304770",
+    "https://www.d1ev.com/newsflash/304769",
+    "https://www.d1ev.com/news/shichang/304768",
+    "https://www.d1ev.com/newsflash/304765",
+    "https://www.d1ev.com/newsflash/304762"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303886",
-      "title": "小米汽车员工内购优惠曝光：万元直降，现车抢购倒计时！",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303882",
-      "title": "领克07GT旅行车6月29日预售，1422km续航+电动掀背门来袭",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303878",
-      "title": "蔚来ET9限量版“极境逐光”上市，售价73万起，五大权益超10万",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303888",
-      "title": "“智驾”功能酿车祸：江西司机分心拿饮料撞护栏",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303879",
-      "title": "特斯拉Cybercab新突破：自动驾驶“眼睛”不再怕脏",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303881",
-      "title": "特斯拉Cybercab新西兰冬季测试，无人出租海外扩张加速",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303887",
-      "title": "马斯克确认：特斯拉FSD语音控制功能秋季上线",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303885",
-      "title": "特斯拉Autopilot模式下致命车祸：76岁女性被撞身亡",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303884",
-      "title": "“现在的油车，就是当年的马车”",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303883",
-      "title": "别内卷了！这四家车企，已经不对劲了",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303880",
-      "title": "东风日产NX8销量破万，增程SUV搭载800V平台15.99万起",
-      "source": "第一电动",
-      "pushedAt": 1782030208171
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303894",
       "title": "领克07GT旅行车预售在即，1422km超长续航+四驱系统震撼登场",
@@ -6627,6 +6561,96 @@
       "title": "蔚来ES8创始版“0001号”车捐赠博物馆，大五座版开启预订",
       "source": "第一电动",
       "pushedAt": 1782632878000
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304771",
+      "title": "东风奕派M8预售开启！19.98万起，华为智能加持，续航超1200km",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304767",
+      "title": "尊界SUV谍照曝光：全尺寸豪华新能源SUV即将亮相",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304766",
+      "title": "尊界V800/V680旗舰MPV首发亮相，预售80万起，8月上市！",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/304764",
+      "title": "东风奕派M8开启预售 预售价19.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304760",
+      "title": "东风奕派M8预售开启！19.98万起，纯电增程双动力，华为技术加持",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304759",
+      "title": "郑州日产锐骐纯电皮卡上市 14.38万起 续航增10% 省2万燃油费",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304758",
+      "title": "蔚来ES8大五座版预订开启，7月9日上市，引领高端纯电SUV新标准",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304772",
+      "title": "E周看点｜蔚来ES9交付30天破万台；曾毓群：固态电池技术目前只到level 4",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304763",
+      "title": "比亚迪元UP焕新登场：城市代步小电动升级，续航高达505km！",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304757",
+      "title": "比亚迪元UP升级来袭：续航505km，充电更便捷！",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304770",
+      "title": "62岁英工程师造蒸汽摩托，0.4秒破百公里，刷新加速纪录！",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304769",
+      "title": "宝马X5长轴距版将入印，豪华SUV市场再添新战将",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/304768",
+      "title": "小智一周要闻 | 仙工智能正式登陆港交所；银河通用Galbot S1进入宁德时代打工",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304765",
+      "title": "马斯克收购SpaceX前工程师激光通信公司获FTC批准",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304762",
+      "title": "法拉第未来发布全美首款工业级轮臂机器人Faber 六大系列机器人矩阵成型",
+      "source": "第一电动",
+      "pushedAt": 1782642225420
     }
   ],
   "lastUpdated": "2026-06-28"
