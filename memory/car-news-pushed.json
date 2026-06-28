@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/302426",
-    "https://www.d1ev.com/newsflash/302425",
-    "https://www.d1ev.com/newsflash/302424",
-    "https://www.d1ev.com/newsflash/302423",
-    "https://www.d1ev.com/newsflash/302419",
-    "https://www.d1ev.com/newsflash/302418",
     "https://www.d1ev.com/newsflash/302417",
     "https://www.d1ev.com/newsflash/302412",
     "https://www.d1ev.com/newsflash/302411",
@@ -1999,63 +1993,15 @@
     "https://www.d1ev.com/newsflash/304769",
     "https://www.d1ev.com/news/shichang/304768",
     "https://www.d1ev.com/newsflash/304765",
-    "https://www.d1ev.com/newsflash/304762"
+    "https://www.d1ev.com/newsflash/304762",
+    "https://www.d1ev.com/newsflash/304774",
+    "https://www.d1ev.com/newsflash/304773",
+    "https://www.d1ev.com/newsflash/304778",
+    "https://www.d1ev.com/newsflash/304777",
+    "https://www.d1ev.com/newsflash/304776",
+    "https://www.d1ev.com/newsflash/304775"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/303894",
-      "title": "领克07GT旅行车预售在即，1422km超长续航+四驱系统震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303897",
-      "title": "华为乾崑智驾ADS5即将上线，鸿蒙智行旗舰车型抢先体验",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303895",
-      "title": "华为乾崑智驾里程破120亿公里，超越人眼安全护航",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303892",
-      "title": "E周看点 | 2026新能源汽车下乡含小米、特斯拉等155款车；宝马将停产国产纯电车",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303891",
-      "title": "特斯拉Cybercab新突破：侧视摄像头喷淋装置助力全天候自动驾驶",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303890",
-      "title": "磷酸铁锂价格翻倍仍供不应求，新能源车企需求激增",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303889",
-      "title": "磷酸铁锂价格翻倍！新能源车企需求激增，硫磺涨价成推手",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/303896",
-      "title": "启境汽车百店齐开，全国90城300店网络即将覆盖！",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/303893",
-      "title": "小智一周要闻 | 京东持续加码布局具身智能；Momenta IPO备案获通过",
-      "source": "第一电动",
-      "pushedAt": 1782043687075
-    },
     {
       "url": "https://www.d1ev.com/newsflash/303902",
       "title": "鸿蒙智行G9路试曝光：800V高压平台+华为自研电机，50万级SUV新标杆",
@@ -6651,6 +6597,42 @@
       "title": "法拉第未来发布全美首款工业级轮臂机器人Faber 六大系列机器人矩阵成型",
       "source": "第一电动",
       "pushedAt": 1782642225420
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304774",
+      "title": "2026车市分化加剧：燃油车贬值严重，新能源二手车交易逆势增长",
+      "source": "第一电动",
+      "pushedAt": 1782653090079
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304773",
+      "title": "比亚迪自研智驾芯片璇玑A3明年量产，算力超2100TOPS",
+      "source": "第一电动",
+      "pushedAt": 1782653090079
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304778",
+      "title": "启境GX7震撼发布：20秒变床SUV，华为技术加持！",
+      "source": "第一电动",
+      "pushedAt": 1782653090079
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304777",
+      "title": "比亚迪海洋网6系车型OTA升级，新增10+功能优化体验",
+      "source": "第一电动",
+      "pushedAt": 1782653090079
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304776",
+      "title": "Grok 4.5内部测试、DeepSeek V4推DSpark提速85%、GPT-5.6发布受限",
+      "source": "第一电动",
+      "pushedAt": 1782653090079
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304775",
+      "title": "华为途灵平台技术升级，智能底盘让汽车“看-想-动”",
+      "source": "第一电动",
+      "pushedAt": 1782653090079
     }
   ],
   "lastUpdated": "2026-06-28"
