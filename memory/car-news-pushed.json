@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/302533",
     "https://www.d1ev.com/newsflash/302530",
     "https://www.d1ev.com/newsflash/302529",
     "https://www.d1ev.com/news/shichang/302528",
@@ -1999,189 +1998,10 @@
     "https://www.d1ev.com/newsflash/304890",
     "https://www.d1ev.com/news/shichang/304882",
     "https://www.d1ev.com/newsflash/304881",
-    "https://www.d1ev.com/newsflash/304880"
+    "https://www.d1ev.com/newsflash/304880",
+    "https://www.d1ev.com/newsflash/304922"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304053",
-      "title": "华为启境GT7量产下线，21.99万起售6月26日上市",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304048",
-      "title": "英特尔携手长安汽车，AIBoxUltra智能座舱方案亮相链博会",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304043",
-      "title": "理想L8明日亮相：纯电续航超430km，增程式续航达1670km！",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304037",
-      "title": "红旗H7全新下线，中式豪华新标杆亮相",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/304036",
-      "title": "吉利远程绿色智慧交通解决方案亮相香港车博会",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/304051",
-      "title": "机构拆解中国钠离子电池 惊叹其质量已与特斯拉锂电池相当",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304047",
-      "title": "AI编程工具ClaudeCode流行，工程师如何打破孤独感？",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304046",
-      "title": "华为云推出ViduQ3视频生成大模型，开启文图视频一体化新时代",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304042",
-      "title": "小米YU7GT创纽北自动驾驶纪录：10分29秒483震撼登场！",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304041",
-      "title": "法拉利否认强制购买Luce，纯电动超跑Luce订单符合预期",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/304039",
-      "title": "国内第二贵！华为乾崑智驾高阶包7月调价：涨至3.6万原价",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304038",
-      "title": "宁德时代计划在欧洲建超30座换电站，电动卡车成本将低于柴油车",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304031",
-      "title": "华为乾崑智驾ADS高阶功能包优惠将结束，价格将恢复至3.6万元",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304028",
-      "title": "小米YU7GT创纽北自动驾驶纪录，10分29秒483见证历史！",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304027",
-      "title": "小米YU7GT创纪录！纽北自动驾驶圈速10分29秒483",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304025",
-      "title": "百川智能发布Baichuan-M4：医疗AI新突破，全球领先低幻觉率3.3%",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304054",
-      "title": "Lucid新CEO上任两月即裁员18%，1500人受影响，重组计划省1.58亿美元",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304052",
-      "title": "Seeds | 大咖机器人完成新一轮融资",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304050",
-      "title": "交易总金额18亿元，亿咖通科技收购Flyme软件业务",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304049",
-      "title": "Lucid再裁18%员工，新CEO重组欲降成本增竞争力",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304045",
-      "title": "东风奕派M8旗舰车型搭载航天级FSW工艺车轮，减重降噪新突破",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304044",
-      "title": "优必选发布WalkerC1机器人：能跳芭蕾能人机共舞！",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304040",
-      "title": "“红旗H7全新下线：中式豪华轿车，1.5T插混动力来袭”",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304034",
-      "title": "韩国半导体巨头受追捧，监管担忧杠杆ETF高追风险",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304033",
-      "title": "8家车企资质被冻结？工信部辟谣，华晨中国股价暴跌",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304032",
-      "title": "保时捷缩减产能应对市场冷遇，CEO乐观看高利润率",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304030",
-      "title": "保时捷成本失控，计划裁员至多4000人以削减成本",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304029",
-      "title": "绍兴特斯拉Model3失控狂飙110km/h撞报废，车主质疑电控系统异常",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304026",
-      "title": "保时捷削减产能应对市场疲软，CEO乐观预期销量下降利润反增",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304024",
-      "title": "小鹏被曝造游艇，“水陆空”布局再落一子？",
-      "source": "第一电动",
-      "pushedAt": 1782141505287
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304058",
       "title": "福特电马或无二代车型，UniversalEV平台不适用",
@@ -6741,7 +6561,13 @@
       "title": "法拉利Luce纯电车型国内首销88台秒空，富豪追捧超跑新风尚",
       "source": "第一电动",
       "pushedAt": 1782741934455
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/304922",
+      "title": "领克07GT时间限量版一抢而空！16.58万起售，国产旅行车新标杆",
+      "source": "第一电动",
+      "pushedAt": 1782752158080
     }
   ],
-  "lastUpdated": "2026-06-29"
+  "lastUpdated": "2026-06-30"
 }
