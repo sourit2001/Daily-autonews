@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/302899",
     "https://www.d1ev.com/carnews/xinche/302897",
     "https://www.d1ev.com/carnews/xinche/302896",
     "https://www.d1ev.com/newsflash/302894",
@@ -1999,99 +1998,10 @@
     "https://www.d1ev.com/news/shichang/305184",
     "https://www.d1ev.com/news/shichang/305183",
     "https://www.d1ev.com/newsflash/305176",
-    "https://www.d1ev.com/newsflash/305173"
+    "https://www.d1ev.com/newsflash/305173",
+    "https://www.d1ev.com/newsflash/305231"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304325",
-      "title": "比亚迪新车型搭载创新螺纹生态接口，大唐EV引领智能驾驶新潮流",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304324",
-      "title": "江铃易至EV3上市：6万起售，续航330km，全球适配左舵右舵",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304322",
-      "title": "宁德时代携手银河通用，全球首款重载人形机器人GalbotS1亮相智慧产线",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304320",
-      "title": "美国最便宜电动皮卡Slate亮相：17万起售，2026年交付",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304328",
-      "title": "比亚迪大唐EV全球最长纯电续航SUV，闪充技术首搭，售价23.99万起",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304327",
-      "title": "OpenAI联手博通打造AI芯片Jalapeño 挑战英伟达GPU",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304326",
-      "title": "高通收购Modular，加速AI云迁移，打造高效系统",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304319",
-      "title": "华为智驾升级！华境S SUV高阶功能包7月涨价至36000元",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304317",
-      "title": "壳牌发布纯电车新挑战：10分钟充电、10公里续航、10吨碳排放",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304314",
-      "title": "燃油车市场遇冷，新能源车销量飙升60.6%",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304321",
-      "title": "贝索斯投资！Slate纯电皮卡24950美元起，美国最便宜皮卡来了",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304323",
-      "title": "名爵MG4新款背刺老车主，异响问题频发引维权",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304318",
-      "title": "比亚迪李柯：未来门店将部署机器人销售顾问，人形机器人市场规模激增",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304316",
-      "title": "Seeds｜投后估值超10亿美元，临界点完成近10亿元融资",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304315",
-      "title": "小鹏MONAL03即将发布，13万起售挑战Model Y！",
-      "source": "第一电动",
-      "pushedAt": 1782310452190
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304336",
       "title": "宝丽来广告牌挑衅AI：数据中心耗水问题引争议",
@@ -6693,7 +6603,13 @@
       "title": "小米汽车SU7新金融方案：首付4.99万，月供最低108元，纯电轿跑轻松入手",
       "source": "第一电动",
       "pushedAt": 1782909408100
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305231",
+      "title": "比亚迪6月销量破40万领跑，新能源车市竞争白热化",
+      "source": "第一电动",
+      "pushedAt": 1782922915043
     }
   ],
-  "lastUpdated": "2026-07-01"
+  "lastUpdated": "2026-07-02"
 }
