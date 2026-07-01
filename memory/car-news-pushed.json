@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/302897",
-    "https://www.d1ev.com/carnews/xinche/302896",
-    "https://www.d1ev.com/newsflash/302894",
-    "https://www.d1ev.com/newsflash/302893",
     "https://www.d1ev.com/newsflash/302892",
     "https://www.d1ev.com/newsflash/302888",
     "https://www.d1ev.com/newsflash/302887",
@@ -1999,33 +1995,13 @@
     "https://www.d1ev.com/news/shichang/305183",
     "https://www.d1ev.com/newsflash/305176",
     "https://www.d1ev.com/newsflash/305173",
-    "https://www.d1ev.com/newsflash/305231"
+    "https://www.d1ev.com/newsflash/305231",
+    "https://www.d1ev.com/newsflash/305233",
+    "https://www.d1ev.com/newsflash/305232",
+    "https://www.d1ev.com/newsflash/305235",
+    "https://www.d1ev.com/newsflash/305234"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304336",
-      "title": "宝丽来广告牌挑衅AI：数据中心耗水问题引争议",
-      "source": "第一电动",
-      "pushedAt": 1782323368072
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304337",
-      "title": "亚马逊Zoox升级Robotaxi：舒适升级，智能出行新体验",
-      "source": "第一电动",
-      "pushedAt": 1782323368072
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304335",
-      "title": "摩根士丹利预测：中国2026年人形机器人出货量将达5万台，市场规模激增至20亿美元",
-      "source": "第一电动",
-      "pushedAt": 1782323368072
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304334",
-      "title": "华为鸿蒙“龙虾”小艺Claw全机型开放，49元体验包上线Auto-Model模式",
-      "source": "第一电动",
-      "pushedAt": 1782323368072
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304376",
       "title": "比亚迪领汇M9商务旗舰MPV即将上市，搭载多项智能科技配置",
@@ -6609,6 +6585,30 @@
       "title": "比亚迪6月销量破40万领跑，新能源车市竞争白热化",
       "source": "第一电动",
       "pushedAt": 1782922915043
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305233",
+      "title": "奇瑞犀牛电池安全保障计划：终身质保+烧毁赔新车，车主无忧",
+      "source": "第一电动",
+      "pushedAt": 1782935132146
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305232",
+      "title": "奇瑞犀牛电池安全承诺：赔付新车+终身质保，响应“史上最严电池安全令”",
+      "source": "第一电动",
+      "pushedAt": 1782935132146
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305235",
+      "title": "大众电动化转型筹资：兰博基尼、杜卡迪或将出售",
+      "source": "第一电动",
+      "pushedAt": 1782935132146
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305234",
+      "title": "兰博基尼Urus SE Performante发布：轻量化升级，811马力插电混动新旗舰",
+      "source": "第一电动",
+      "pushedAt": 1782935132146
     }
   ],
   "lastUpdated": "2026-07-02"
