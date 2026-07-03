@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303221",
-    "https://www.d1ev.com/news/shichang/303219",
     "https://www.d1ev.com/news/shichang/303214",
     "https://www.d1ev.com/newsflash/303210",
     "https://www.d1ev.com/news/shichang/303209",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/shichang/305560",
     "https://www.d1ev.com/newsflash/305567",
     "https://www.d1ev.com/newsflash/305565",
-    "https://www.d1ev.com/newsflash/305564"
+    "https://www.d1ev.com/newsflash/305564",
+    "https://www.d1ev.com/newsflash/305569",
+    "https://www.d1ev.com/newsflash/305568"
   ],
   "newsHistory": [
     {
@@ -6717,7 +6717,19 @@
       "title": "豆包智能体功能将下线，用户需备份数据，猫箱App接棒新体验",
       "source": "第一电动",
       "pushedAt": 1783093875755
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305569",
+      "title": "法拉第未来辟谣“人去楼空”：已迁新址，交付目标上调至2000台",
+      "source": "第一电动",
+      "pushedAt": 1783099115758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305568",
+      "title": "50万预算选9系SUV，理想L9、问界M9、蔚来ES9、极氪9X谁更值？",
+      "source": "第一电动",
+      "pushedAt": 1783099115758
     }
   ],
-  "lastUpdated": "2026-07-03"
+  "lastUpdated": "2026-07-04"
 }
