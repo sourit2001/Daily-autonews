@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303223",
-    "https://www.d1ev.com/newsflash/303222",
-    "https://www.d1ev.com/newsflash/303216",
-    "https://www.d1ev.com/newsflash/303211",
-    "https://www.d1ev.com/newsflash/303202",
-    "https://www.d1ev.com/newsflash/303241",
-    "https://www.d1ev.com/newsflash/303226",
-    "https://www.d1ev.com/news/shichang/303220",
-    "https://www.d1ev.com/newsflash/303217",
-    "https://www.d1ev.com/news/qiye/303208",
-    "https://www.d1ev.com/newsflash/303252",
-    "https://www.d1ev.com/newsflash/303249",
-    "https://www.d1ev.com/newsflash/303248",
-    "https://www.d1ev.com/newsflash/303247",
-    "https://www.d1ev.com/news/shichang/303244",
     "https://www.d1ev.com/news/shichang/303243",
     "https://www.d1ev.com/news/shichang/303238",
     "https://www.d1ev.com/news/shichang/303236",
@@ -1999,129 +1984,24 @@
     "https://www.d1ev.com/newsflash/305507",
     "https://www.d1ev.com/newsflash/305503",
     "https://www.d1ev.com/newsflash/305502",
-    "https://www.d1ev.com/news/shichang/305499"
+    "https://www.d1ev.com/news/shichang/305499",
+    "https://www.d1ev.com/newsflash/305557",
+    "https://www.d1ev.com/newsflash/305554",
+    "https://www.d1ev.com/news/shichang/305550",
+    "https://www.d1ev.com/news/shichang/305547",
+    "https://www.d1ev.com/newsflash/305556",
+    "https://www.d1ev.com/newsflash/305553",
+    "https://www.d1ev.com/newsflash/305549",
+    "https://www.d1ev.com/news/shichang/305544",
+    "https://www.d1ev.com/newsflash/305559",
+    "https://www.d1ev.com/newsflash/305558",
+    "https://www.d1ev.com/newsflash/305555",
+    "https://www.d1ev.com/newsflash/305552",
+    "https://www.d1ev.com/newsflash/305551",
+    "https://www.d1ev.com/news/shichang/305548",
+    "https://www.d1ev.com/newsflash/305545"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304627",
-      "title": "智能编程模型作弊曝光：63%问题靠搜索答案解决",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304633",
-      "title": "圆满落幕丨第八届AI智能座舱大会暨2026第四届车载显示与感知技术革新峰会",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304626",
-      "title": "“智能体互联新国标发布，7大标准助力AI产业规范发展”",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304624",
-      "title": "高通携手Meta，飞龙C1000芯片2028年量产，性能翻倍",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304618",
-      "title": "福特汽车质量夺冠背后：AI迷信教训与老工程师回归",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304614",
-      "title": "AI宠物，真的很火",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304625",
-      "title": "大众汽车全球裁员10万，四座德国工厂面临停产危机",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304623",
-      "title": "特斯拉FSD全球转向订阅制，港澳台已变，内地会跟进吗？",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304620",
-      "title": "特斯拉FSD全球转向订阅制，港澳台买断功能月底下架",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304619",
-      "title": "小鹏第二代VLA获全球通行证，2027年海外市场见！",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304617",
-      "title": "中国车企加速布局加拿大，瞄准美国市场战略跳板",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304632",
-      "title": "韩国科学技术院研发可拉伸自供能传感器 拉伸率达668%时仍可稳定输出电信号",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304631",
-      "title": "澳大利亚莫纳什大学提出慢速升温冶金新工艺 大幅提升合金强度",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304630",
-      "title": "具身智能下半场，卡在数据上",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304629",
-      "title": "理想L8五座旗舰SUV开启交付，35万起售挑战豪华SUV市场",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304622",
-      "title": "理想L8五座旗舰SUV首批交付启动，限时优惠价35.98万起",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304621",
-      "title": "中国移动灵犀机器人夺冠MWC26人形点球大战，实现大满贯！",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304616",
-      "title": "无界动力获超2亿美元天使轮融资 京东等巨头领投",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304615",
-      "title": "乐道L60销量破10万，20万级纯电SUV新王者诞生",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/304613",
-      "title": "华为跟进辅助驾驶兜底，车主终于不用背锅了",
-      "source": "第一电动",
-      "pushedAt": 1782470790496
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304641",
       "title": "岚图追光S首发亮相，2026年上市，续航700km，华为智驾加持！",
@@ -6771,6 +6651,96 @@
       "title": "上汽通用徐啸顺：轮式人形是当前进厂的较好过渡",
       "source": "第一电动",
       "pushedAt": 1783075448068
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305557",
+      "title": "猛士汽车Q4推新车型，20万起售主打“轻越野”概念",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305554",
+      "title": "宝马X5M60 V8高性能版预计2027年亮相，燃油与电动并驾齐驱",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/305550",
+      "title": "安波福携多款重磅新技术亮相慕尼黑上海电子展",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/305547",
+      "title": "恩智浦亮相2026慕尼黑上海电子展 以系统级架构解锁物理AI创新范式",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305556",
+      "title": "新能源车越重越安全？揭秘电车增重真相与道路承载力",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305553",
+      "title": "京东物流开启L4自动驾驶重卡载货示范应用，无人化运输迈入新阶段",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305549",
+      "title": "2027年起，新能源车不再免征车船税，税收政策迎来重大调整",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/305544",
+      "title": "明年起，节能汽车、新能源汽车车船税优惠政策调整！",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305559",
+      "title": "数字人新突破！ViduS1模型实现语音控制视频互动",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305558",
+      "title": "华境S销量破万！华为技术加持的六座SUV成新宠",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305555",
+      "title": "蔚来重拳打击网络侵权，多名嫌疑人被采取刑事强制措施",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305552",
+      "title": "大疆影石专利战火重燃：国内法院再开庭",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305551",
+      "title": "特斯拉Q2销量逆势增长25%，马斯克政治争议影响销量",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/305548",
+      "title": "Allegro MicroSystems 推出首款集成轮速传感器接口的安全型 PMIC， 专为电子机械制动系统打造",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305545",
+      "title": "小米突破再生铝技术，泰坦合金2.0助力汽车减排45万吨CO₂",
+      "source": "第一电动",
+      "pushedAt": 1783086699394
     }
   ],
   "lastUpdated": "2026-07-03"
