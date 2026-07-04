@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303256",
-    "https://www.d1ev.com/newsflash/303253",
-    "https://www.d1ev.com/newsflash/303277",
-    "https://www.d1ev.com/newsflash/303276",
-    "https://www.d1ev.com/newsflash/303275",
-    "https://www.d1ev.com/newsflash/303274",
-    "https://www.d1ev.com/newsflash/303273",
-    "https://www.d1ev.com/newsflash/303272",
-    "https://www.d1ev.com/news/qiye/303271",
-    "https://www.d1ev.com/newsflash/303268",
-    "https://www.d1ev.com/news/shichang/303267",
-    "https://www.d1ev.com/newsflash/303265",
-    "https://www.d1ev.com/newsflash/303264",
     "https://www.d1ev.com/newsflash/303262",
     "https://www.d1ev.com/newsflash/303261",
     "https://www.d1ev.com/newsflash/303255",
@@ -1999,75 +1986,22 @@
     "https://www.d1ev.com/newsflash/305580",
     "https://www.d1ev.com/carnews/xinche/305578",
     "https://www.d1ev.com/carnews/xinche/305577",
-    "https://www.d1ev.com/newsflash/305573"
+    "https://www.d1ev.com/newsflash/305573",
+    "https://www.d1ev.com/newsflash/305587",
+    "https://www.d1ev.com/newsflash/305598",
+    "https://www.d1ev.com/newsflash/305597",
+    "https://www.d1ev.com/newsflash/305596",
+    "https://www.d1ev.com/newsflash/305595",
+    "https://www.d1ev.com/newsflash/305591",
+    "https://www.d1ev.com/newsflash/305589",
+    "https://www.d1ev.com/newsflash/305588",
+    "https://www.d1ev.com/carnews/xinche/305594",
+    "https://www.d1ev.com/news/qiye/305593",
+    "https://www.d1ev.com/newsflash/305592",
+    "https://www.d1ev.com/newsflash/305590",
+    "https://www.d1ev.com/news/qiye/305586"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304672",
-      "title": "尊界V680/V800预售1小时订单破3200台，豪华MPV新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304671",
-      "title": "长城H10内饰曝光：1.5T混动+三排大空间，家庭出行新选择",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/304670",
-      "title": "捷途汽车第二届方盒子大会召开，捷途自由者7 PLUS&全新山海T1四驱版上市",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/304668",
-      "title": "广汽华为第二车！启境GX7官图发布：阔五座SUV、一键成床",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304675",
-      "title": "微软被控助OpenAI侵权《纽约时报》：AI训练涉版权争议",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304667",
-      "title": "智能体互联国标发布，7大标准助力AI产业升级",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304666",
-      "title": "OpenAI发布GPT-5.6系列模型：最强AI加速编程与安全任务",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304669",
-      "title": "美国解除Anthropic出口管制，Mythos5模型获准向美机构开放",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304676",
-      "title": "长城哈弗H10插电混动SUV：旗舰级“第二起居室”震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/304674",
-      "title": "法拉利首款纯电车Luce正式发布 398.8万",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/304673",
-      "title": "五座SUV卷到头了 全新理想L8交付",
-      "source": "第一电动",
-      "pushedAt": 1782527915528
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304684",
       "title": "小鹏L03内饰官图曝光：年轻人的理想座舱，科技感满满！",
@@ -6819,6 +6753,84 @@
       "title": "Anthropic ClaudeFable5模型回归，用户吐槽性能下降频繁回退",
       "source": "第一电动",
       "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305587",
+      "title": "哈弗H10五色亮相：方盒子新旗舰，1.5T/2.0T混动动力强",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305598",
+      "title": "美国乡村居民担忧AI数据中心建设：电价上涨与资源占用成焦点",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305597",
+      "title": "AI“抓虫”新突破！1500个高危漏洞被破解",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305596",
+      "title": "特斯拉三车霸榜！三年保值率超六成领先国产电动车",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305595",
+      "title": "电动汽车新国标实施：购车必查三项安全核验！",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305591",
+      "title": "欧盟力推“欧洲制造”电动汽车，70%本地化含量引争议",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305589",
+      "title": "美国电动校车变身“移动电站”，助力电网应对高温用电高峰",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305588",
+      "title": "俄罗斯燃油危机催生中国电动车销量激增",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305594",
+      "title": "从组织焕新到用户转向，昊铂埃安跑出逆势增长曲线",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/305593",
+      "title": "1.55秒破百还只是基础操作 这台单座超跑卖902万 值得等么",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305592",
+      "title": "智能体功能大限将至：千问、豆包相继宣布下线，用户需速备份",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305590",
+      "title": "奇瑞汽车南非罗斯林工厂启动，中国车企非洲首座全资整车制造厂诞生",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/305586",
+      "title": "新世代iX3首展爆单：宝马终于有能打的纯电车了！",
+      "source": "第一电动",
+      "pushedAt": 1783147403423
     }
   ],
   "lastUpdated": "2026-07-04"
