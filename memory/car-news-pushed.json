@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/303308",
-    "https://www.d1ev.com/carnews/xinche/303307",
-    "https://www.d1ev.com/carnews/xinche/303306",
-    "https://www.d1ev.com/newsflash/303304",
     "https://www.d1ev.com/newsflash/303302",
     "https://www.d1ev.com/newsflash/303298",
     "https://www.d1ev.com/news/shichang/303346",
@@ -1999,27 +1995,13 @@
     "https://www.d1ev.com/newsflash/305600",
     "https://www.d1ev.com/newsflash/305612",
     "https://www.d1ev.com/news/shichang/305611",
-    "https://www.d1ev.com/newsflash/305610"
+    "https://www.d1ev.com/newsflash/305610",
+    "https://www.d1ev.com/newsflash/305614",
+    "https://www.d1ev.com/newsflash/305613",
+    "https://www.d1ev.com/newsflash/305616",
+    "https://www.d1ev.com/newsflash/305615"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/304710",
-      "title": "2026款猛士M817上市 售价29.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1782566443529
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304709",
-      "title": "捷途汽车推两款重磅新车，定义燃油方盒子新标杆",
-      "source": "第一电动",
-      "pushedAt": 1782566443529
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304708",
-      "title": "宝马M高管梦想打造新一代M1，无限预算下的新梦想车型",
-      "source": "第一电动",
-      "pushedAt": 1782566443529
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304712",
       "title": "启境GT7上市首日订单破5200台，智能猎装轿跑20.99万起",
@@ -6729,6 +6711,30 @@
       "title": "比亚迪方程豹钛7EV闪充版四驱车型全面交付，19.98万起",
       "source": "第一电动",
       "pushedAt": 1783170625480
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305614",
+      "title": "中国智驾技术全球领先，小鹏汽车何小鹏看好年底“走出去”",
+      "source": "第一电动",
+      "pushedAt": 1783177303310
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305613",
+      "title": "零跑B01新色登场：50英寸AR-HUD+17.3英寸3K屏，续航650km仅8.98万起",
+      "source": "第一电动",
+      "pushedAt": 1783177303310
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305616",
+      "title": "大众告别柴油时代：全新HEV系统将取代问题频发的EA288发动机",
+      "source": "第一电动",
+      "pushedAt": 1783177303310
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305615",
+      "title": "“哈尔滨、武汉、厦门入围NIODay2026，蔚来汽车年度盛会即将揭晓”",
+      "source": "第一电动",
+      "pushedAt": 1783177303310
     }
   ],
   "lastUpdated": "2026-07-04"
