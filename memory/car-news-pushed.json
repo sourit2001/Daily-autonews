@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/303214",
-    "https://www.d1ev.com/newsflash/303210",
-    "https://www.d1ev.com/news/shichang/303209",
-    "https://www.d1ev.com/news/qiye/303207",
-    "https://www.d1ev.com/news/shichang/303205",
-    "https://www.d1ev.com/newsflash/303201",
-    "https://www.d1ev.com/newsflash/303278",
-    "https://www.d1ev.com/newsflash/303270",
-    "https://www.d1ev.com/news/shichang/303260",
-    "https://www.d1ev.com/newsflash/303257",
-    "https://www.d1ev.com/newsflash/303279",
-    "https://www.d1ev.com/newsflash/303269",
-    "https://www.d1ev.com/news/qiye/303266",
-    "https://www.d1ev.com/newsflash/303263",
-    "https://www.d1ev.com/news/qiye/303259",
-    "https://www.d1ev.com/newsflash/303258",
     "https://www.d1ev.com/newsflash/303256",
     "https://www.d1ev.com/newsflash/303253",
     "https://www.d1ev.com/newsflash/303277",
@@ -1999,15 +1983,25 @@
     "https://www.d1ev.com/newsflash/305565",
     "https://www.d1ev.com/newsflash/305564",
     "https://www.d1ev.com/newsflash/305569",
-    "https://www.d1ev.com/newsflash/305568"
+    "https://www.d1ev.com/newsflash/305568",
+    "https://www.d1ev.com/newsflash/305585",
+    "https://www.d1ev.com/newsflash/305584",
+    "https://www.d1ev.com/carnews/xinche/305582",
+    "https://www.d1ev.com/newsflash/305575",
+    "https://www.d1ev.com/newsflash/305574",
+    "https://www.d1ev.com/carnews/xinche/305570",
+    "https://www.d1ev.com/newsflash/305579",
+    "https://www.d1ev.com/newsflash/305576",
+    "https://www.d1ev.com/newsflash/305572",
+    "https://www.d1ev.com/news/shichang/305571",
+    "https://www.d1ev.com/carnews/xinche/305583",
+    "https://www.d1ev.com/carnews/xinche/305581",
+    "https://www.d1ev.com/newsflash/305580",
+    "https://www.d1ev.com/carnews/xinche/305578",
+    "https://www.d1ev.com/carnews/xinche/305577",
+    "https://www.d1ev.com/newsflash/305573"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/304665",
-      "title": "启境GT7正式上市，20.99万元起，搭载华为乾崑全栈技术",
-      "source": "第一电动",
-      "pushedAt": 1782502814771
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304672",
       "title": "尊界V680/V800预售1小时订单破3200台，豪华MPV新标杆！",
@@ -6729,6 +6723,102 @@
       "title": "50万预算选9系SUV，理想L9、问界M9、蔚来ES9、极氪9X谁更值？",
       "source": "第一电动",
       "pushedAt": 1783099115758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305585",
+      "title": "宝马iX7纯电SUV谍照曝光，2027年亮相，豪华电动新旗舰！",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305584",
+      "title": "2027款星途ES即将上市，预售价18.99万起，增程版续航302公里",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305582",
+      "title": "号称最豪华的SUV 奥迪Q9霍希版谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305575",
+      "title": "领克20三季度上市：激光雷达加持，智能驾驶升级！",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305574",
+      "title": "宝马iX7谍照曝光：纯电旗舰SUV即将登场，设计科技全面升级",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305570",
+      "title": "外观前卫轻混加持 2027款起亚Xceed新车图解",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305579",
+      "title": "AI浪潮来袭：美国1500万人或需换岗，但新职业将涌现",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305576",
+      "title": "印度IT业转型加速：AI岗位招聘激增16%，传统IT岗位减少",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305572",
+      "title": "“日赚2.3亿！电池厂商利润远超车企，行业利润分配引关注”",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/305571",
+      "title": "特斯拉在韩国通过电动车补贴项目评估后上调车型售价",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305583",
+      "title": "呼应外观设计 吉利银河战舰700内饰公布",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305581",
+      "title": "双门跑车 腾势Z官宣登陆2026古德伍德速度节",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305580",
+      "title": "阿里云Qoder企业版发布：资源池化计费，企业级安全新标杆",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305578",
+      "title": "法拉利发布全新超跑 可完美模拟手动档",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/305577",
+      "title": "2027年登场 全新宝马X5确认将推V8引擎",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305573",
+      "title": "Anthropic ClaudeFable5模型回归，用户吐槽性能下降频繁回退",
+      "source": "第一电动",
+      "pushedAt": 1783131890859
     }
   ],
   "lastUpdated": "2026-07-04"
