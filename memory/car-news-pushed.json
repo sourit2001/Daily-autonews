@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303302",
     "https://www.d1ev.com/newsflash/303298",
     "https://www.d1ev.com/news/shichang/303346",
     "https://www.d1ev.com/news/shichang/303345",
@@ -1999,27 +1998,10 @@
     "https://www.d1ev.com/newsflash/305614",
     "https://www.d1ev.com/newsflash/305613",
     "https://www.d1ev.com/newsflash/305616",
-    "https://www.d1ev.com/newsflash/305615"
+    "https://www.d1ev.com/newsflash/305615",
+    "https://www.d1ev.com/newsflash/305619"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304712",
-      "title": "启境GT7上市首日订单破5200台，智能猎装轿跑20.99万起",
-      "source": "第一电动",
-      "pushedAt": 1782573143351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304713",
-      "title": "塔塔汽车2031财年规划：电动化加速，年销量目标翻倍",
-      "source": "第一电动",
-      "pushedAt": 1782573143351
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304711",
-      "title": "特斯拉FSD首例行人死亡案和解，涉事车辆安全缺陷调查继续",
-      "source": "第一电动",
-      "pushedAt": 1782573143351
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304731",
       "title": "郑州日产锐骐纯电皮卡上市，续航451km起售14.38万",
@@ -6735,7 +6717,13 @@
       "title": "“哈尔滨、武汉、厦门入围NIODay2026，蔚来汽车年度盛会即将揭晓”",
       "source": "第一电动",
       "pushedAt": 1783177303310
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305619",
+      "title": "2027年起新能源车将不再免征车船税，油电同权时代来临",
+      "source": "第一电动",
+      "pushedAt": 1783184272117
     }
   ],
-  "lastUpdated": "2026-07-04"
+  "lastUpdated": "2026-07-05"
 }
