@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/303326",
-    "https://www.d1ev.com/news/qiye/303322",
-    "https://www.d1ev.com/newsflash/303317",
     "https://www.d1ev.com/carnews/xinche/303308",
     "https://www.d1ev.com/carnews/xinche/303307",
     "https://www.d1ev.com/carnews/xinche/303306",
@@ -1999,39 +1996,12 @@
     "https://www.d1ev.com/newsflash/305601",
     "https://www.d1ev.com/newsflash/305604",
     "https://www.d1ev.com/newsflash/305603",
-    "https://www.d1ev.com/newsflash/305600"
+    "https://www.d1ev.com/newsflash/305600",
+    "https://www.d1ev.com/newsflash/305612",
+    "https://www.d1ev.com/news/shichang/305611",
+    "https://www.d1ev.com/newsflash/305610"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304703",
-      "title": "全新猛士M817震撼上市！29.99万起，插混动力+激光雷达，纯电续航超300km",
-      "source": "第一电动",
-      "pushedAt": 1782560367172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304705",
-      "title": "问界M9新订单破42000台！华为智驾加持，高端SUV市场新宠",
-      "source": "第一电动",
-      "pushedAt": 1782560367172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304704",
-      "title": "华为加持！启境GT7智能猎装车20.99万起售，续航900km加速2.98秒",
-      "source": "第一电动",
-      "pushedAt": 1782560367172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304707",
-      "title": "上汽集团欧洲销量目标40万，首家工厂落户西班牙",
-      "source": "第一电动",
-      "pushedAt": 1782560367172
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304706",
-      "title": "国内汽车行业利润率跌至3.4%，原材料涨价成主因",
-      "source": "第一电动",
-      "pushedAt": 1782560367172
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/304710",
       "title": "2026款猛士M817上市 售价29.99万元起",
@@ -6741,6 +6711,24 @@
       "title": "华为鸿蒙智行问界M9销量破30万，新一代车型三周交付过万！",
       "source": "第一电动",
       "pushedAt": 1783159417592
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305612",
+      "title": "问界M8夺插混保值率冠军，坦克新能源紧随其后",
+      "source": "第一电动",
+      "pushedAt": 1783170625480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/305611",
+      "title": "2026上海国际低碳智慧出行展览会“零碳出行 车网互动”论坛成功举办",
+      "source": "第一电动",
+      "pushedAt": 1783170625480
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305610",
+      "title": "比亚迪方程豹钛7EV闪充版四驱车型全面交付，19.98万起",
+      "source": "第一电动",
+      "pushedAt": 1783170625480
     }
   ],
   "lastUpdated": "2026-07-04"
