@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/303299",
-    "https://www.d1ev.com/news/qiye/303411",
-    "https://www.d1ev.com/newsflash/303406",
-    "https://www.d1ev.com/newsflash/303405",
-    "https://www.d1ev.com/newsflash/303399",
     "https://www.d1ev.com/newsflash/303397",
     "https://www.d1ev.com/newsflash/303390",
     "https://www.d1ev.com/newsflash/303387",
@@ -1999,45 +1994,14 @@
     "https://www.d1ev.com/newsflash/305657",
     "https://www.d1ev.com/newsflash/305656",
     "https://www.d1ev.com/news/shichang/305659",
-    "https://www.d1ev.com/newsflash/305658"
+    "https://www.d1ev.com/newsflash/305658",
+    "https://www.d1ev.com/newsflash/305664",
+    "https://www.d1ev.com/newsflash/305662",
+    "https://www.d1ev.com/newsflash/305661",
+    "https://www.d1ev.com/newsflash/305663",
+    "https://www.d1ev.com/newsflash/305660"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304774",
-      "title": "2026车市分化加剧：燃油车贬值严重，新能源二手车交易逆势增长",
-      "source": "第一电动",
-      "pushedAt": 1782653090079
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304773",
-      "title": "比亚迪自研智驾芯片璇玑A3明年量产，算力超2100TOPS",
-      "source": "第一电动",
-      "pushedAt": 1782653090079
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304778",
-      "title": "启境GX7震撼发布：20秒变床SUV，华为技术加持！",
-      "source": "第一电动",
-      "pushedAt": 1782653090079
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304777",
-      "title": "比亚迪海洋网6系车型OTA升级，新增10+功能优化体验",
-      "source": "第一电动",
-      "pushedAt": 1782653090079
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304776",
-      "title": "Grok 4.5内部测试、DeepSeek V4推DSpark提速85%、GPT-5.6发布受限",
-      "source": "第一电动",
-      "pushedAt": 1782653090079
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/304775",
-      "title": "华为途灵平台技术升级，智能底盘让汽车“看-想-动”",
-      "source": "第一电动",
-      "pushedAt": 1782653090079
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304820",
       "title": "华为激光雷达加持！阿维塔07L中大型SUV即将亮相",
@@ -6627,6 +6591,36 @@
       "title": "一汽解放氢内燃机获“双零排放”认证，引领绿色动力新突破",
       "source": "第一电动",
       "pushedAt": 1783257533536
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305664",
+      "title": "零跑B01/B10新车型曝光：50英寸AR-HUD+双零重力座椅，年轻时尚新选择",
+      "source": "第一电动",
+      "pushedAt": 1783264164650
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305662",
+      "title": "宝马X5M60曝光：2027年亮相，4.4T V8引擎，800牛·米扭矩",
+      "source": "第一电动",
+      "pushedAt": 1783264164650
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305661",
+      "title": "吉利银河TT纯电轿车亮相：激光雷达+超长续航，动力强劲！",
+      "source": "第一电动",
+      "pushedAt": 1783264164650
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305663",
+      "title": "奇瑞汽车南非工厂升级改造 2027年投产年产5万辆",
+      "source": "第一电动",
+      "pushedAt": 1783264164650
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305660",
+      "title": "保时捷内地停接新订单，纯电车型面临“空窗期”",
+      "source": "第一电动",
+      "pushedAt": 1783264164650
     }
   ],
   "lastUpdated": "2026-07-05"
