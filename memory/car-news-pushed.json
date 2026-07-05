@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303397",
     "https://www.d1ev.com/newsflash/303390",
     "https://www.d1ev.com/newsflash/303387",
     "https://www.d1ev.com/newsflash/303380",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/305662",
     "https://www.d1ev.com/newsflash/305661",
     "https://www.d1ev.com/newsflash/305663",
-    "https://www.d1ev.com/newsflash/305660"
+    "https://www.d1ev.com/newsflash/305660",
+    "https://www.d1ev.com/newsflash/305666"
   ],
   "newsHistory": [
     {
@@ -6621,7 +6621,13 @@
       "title": "保时捷内地停接新订单，纯电车型面临“空窗期”",
       "source": "第一电动",
       "pushedAt": 1783264164650
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305666",
+      "title": "34个月AI新贵硅基流动拟上市，营收暴增653%用户破千万",
+      "source": "第一电动",
+      "pushedAt": 1783270945788
     }
   ],
-  "lastUpdated": "2026-07-05"
+  "lastUpdated": "2026-07-06"
 }
