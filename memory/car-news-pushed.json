@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303298",
-    "https://www.d1ev.com/news/shichang/303346",
-    "https://www.d1ev.com/news/shichang/303345",
-    "https://www.d1ev.com/newsflash/303343",
-    "https://www.d1ev.com/news/shichang/303338",
-    "https://www.d1ev.com/newsflash/303335",
-    "https://www.d1ev.com/newsflash/303334",
-    "https://www.d1ev.com/newsflash/303333",
-    "https://www.d1ev.com/news/shichang/303327",
     "https://www.d1ev.com/newsflash/303321",
     "https://www.d1ev.com/newsflash/303314",
     "https://www.d1ev.com/newsflash/303313",
@@ -1999,7 +1990,16 @@
     "https://www.d1ev.com/newsflash/305613",
     "https://www.d1ev.com/newsflash/305616",
     "https://www.d1ev.com/newsflash/305615",
-    "https://www.d1ev.com/newsflash/305619"
+    "https://www.d1ev.com/newsflash/305619",
+    "https://www.d1ev.com/newsflash/305623",
+    "https://www.d1ev.com/newsflash/305621",
+    "https://www.d1ev.com/news/qiye/305624",
+    "https://www.d1ev.com/news/qiye/305628",
+    "https://www.d1ev.com/newsflash/305627",
+    "https://www.d1ev.com/newsflash/305626",
+    "https://www.d1ev.com/newsflash/305625",
+    "https://www.d1ev.com/news/qiye/305622",
+    "https://www.d1ev.com/newsflash/305620"
   ],
   "newsHistory": [
     {
@@ -6723,6 +6723,60 @@
       "title": "2027年起新能源车将不再免征车船税，油电同权时代来临",
       "source": "第一电动",
       "pushedAt": 1783184272117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305623",
+      "title": "鸿蒙智行享界G9新照曝光：侧开门设计+全新星环尾灯亮相",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305621",
+      "title": "特斯拉北美推出夏日系列新品，Model Y车载冰箱、露营装备亮相",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/305624",
+      "title": "俄罗斯缺油加剧！民众抢购中国电动车 插混车销量已翻倍",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/305628",
+      "title": "迈阿密加入Robotaxi版图，特斯拉无人驾驶服务再下一城",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305627",
+      "title": "川崎重工研发氢燃料发电机 目标十年内千亿日元市场",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305626",
+      "title": "华为问界M9销量破30万！3周破万创纪录",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305625",
+      "title": "智界汽车神秘法拉利前首席设计师身份即将揭晓，赵长江回应网友期待",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/305622",
+      "title": "盖世周报 | 伟巴斯特中国区换帅；法雷奥斩获新订单",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305620",
+      "title": "特斯拉Robotaxi迈阿密扩张：无人驾驶网约车服务再下一城",
+      "source": "第一电动",
+      "pushedAt": 1783218763015
     }
   ],
   "lastUpdated": "2026-07-05"
