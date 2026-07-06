@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303529",
     "https://www.d1ev.com/newsflash/303527",
     "https://www.d1ev.com/newsflash/303523",
     "https://www.d1ev.com/news/shichang/303521",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/news/shichang/305791",
     "https://www.d1ev.com/news/shichang/305789",
     "https://www.d1ev.com/news/shichang/305783",
-    "https://www.d1ev.com/newsflash/305821"
+    "https://www.d1ev.com/newsflash/305821",
+    "https://www.d1ev.com/newsflash/305822"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/304922",
-      "title": "领克07GT时间限量版一抢而空！16.58万起售，国产旅行车新标杆",
-      "source": "第一电动",
-      "pushedAt": 1782752158080
-    },
     {
       "url": "https://www.d1ev.com/newsflash/304943",
       "title": "长城坦克300全新升级，7月6日开启预售！",
@@ -6591,6 +6585,12 @@
       "title": "华为余承东呼伦贝尔草原试驾鸿蒙智行SUV享界G9，体验硬派风格新领域",
       "source": "第一电动",
       "pushedAt": 1783356560276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305822",
+      "title": "央视测试奕境X9智能驾驶，底盘技术成关键！",
+      "source": "第一电动",
+      "pushedAt": 1783367271559
     }
   ],
   "lastUpdated": "2026-07-07"
