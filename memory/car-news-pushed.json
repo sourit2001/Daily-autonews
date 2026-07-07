@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303643",
-    "https://www.d1ev.com/carnews/xinche/303641",
-    "https://www.d1ev.com/newsflash/303636",
-    "https://www.d1ev.com/newsflash/303631",
-    "https://www.d1ev.com/newsflash/303659",
-    "https://www.d1ev.com/newsflash/303657",
-    "https://www.d1ev.com/newsflash/303653",
     "https://www.d1ev.com/newsflash/303642",
     "https://www.d1ev.com/news/shichang/303638",
     "https://www.d1ev.com/newsflash/303635",
@@ -1999,27 +1992,16 @@
     "https://www.d1ev.com/newsflash/305930",
     "https://www.d1ev.com/newsflash/305929",
     "https://www.d1ev.com/newsflash/305928",
-    "https://www.d1ev.com/news/shichang/305926"
+    "https://www.d1ev.com/news/shichang/305926",
+    "https://www.d1ev.com/newsflash/305945",
+    "https://www.d1ev.com/news/qiye/305944",
+    "https://www.d1ev.com/newsflash/305942",
+    "https://www.d1ev.com/newsflash/305941",
+    "https://www.d1ev.com/newsflash/305940",
+    "https://www.d1ev.com/newsflash/305943",
+    "https://www.d1ev.com/newsflash/305939"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305061",
-      "title": "宝马X5五代全球首发：五种能源动力，科技豪华全面升级！",
-      "source": "第一电动",
-      "pushedAt": 1782841751779
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305062",
-      "title": "“新国标实施：电动汽车安全升级，物理“一键断电”成标配！”",
-      "source": "第一电动",
-      "pushedAt": 1782841751779
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305060",
-      "title": "全球首个商用多模态文旅大模型“博观”西安规模应用，覆盖超400万用户",
-      "source": "第一电动",
-      "pushedAt": 1782841751779
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305104",
       "title": "理想汽车6月销量下滑，累计交付量超173万台，L6新款7月亮相",
@@ -6567,7 +6549,49 @@
       "title": "不赚钱也要扎堆加拿大？中国车企的北美布局究竟意欲何为？",
       "source": "第一电动",
       "pushedAt": 1783433894744
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305945",
+      "title": "华为加持！享界G9露营SUV亮相，全尺寸+激光雷达+超快充",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/305944",
+      "title": "比亚迪双门四座纯电跑车 腾势Z官宣7月9日上市",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305942",
+      "title": "华为问界M9Ultimate亮相：中国最大新能源SUV，900马力超长续航！",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305941",
+      "title": "中国AI新势力DeepSeek自研芯片，挑战英伟达华为市场地位",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305940",
+      "title": "华为乾崑智驾里程数断网仍上涨，官方解释数据真实性",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305943",
+      "title": "6月汽车销量冰火两重天：比亚迪逆势增长，新势力国内发力",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/305939",
+      "title": "小鹏MONAL03首搭失能辅助系统，智能守护安全出行",
+      "source": "第一电动",
+      "pushedAt": 1783446881975
     }
   ],
-  "lastUpdated": "2026-07-07"
+  "lastUpdated": "2026-07-08"
 }
