@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303842",
     "https://www.d1ev.com/newsflash/303839",
     "https://www.d1ev.com/newsflash/303835",
     "https://www.d1ev.com/newsflash/303849",
@@ -1999,33 +1998,10 @@
     "https://www.d1ev.com/newsflash/306107",
     "https://www.d1ev.com/newsflash/306112",
     "https://www.d1ev.com/newsflash/306113",
-    "https://www.d1ev.com/newsflash/306114"
+    "https://www.d1ev.com/newsflash/306114",
+    "https://www.d1ev.com/newsflash/306115"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305233",
-      "title": "奇瑞犀牛电池安全保障计划：终身质保+烧毁赔新车，车主无忧",
-      "source": "第一电动",
-      "pushedAt": 1782935132146
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305232",
-      "title": "奇瑞犀牛电池安全承诺：赔付新车+终身质保，响应“史上最严电池安全令”",
-      "source": "第一电动",
-      "pushedAt": 1782935132146
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305235",
-      "title": "大众电动化转型筹资：兰博基尼、杜卡迪或将出售",
-      "source": "第一电动",
-      "pushedAt": 1782935132146
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305234",
-      "title": "兰博基尼Urus SE Performante发布：轻量化升级，811马力插电混动新旗舰",
-      "source": "第一电动",
-      "pushedAt": 1782935132146
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305262",
       "title": "快手可灵AI融资30亿美元，估值180亿，计划赴港上市",
@@ -6735,6 +6711,12 @@
       "title": "鸿蒙智行6月销量破5万，问界M9夺50万级销冠",
       "source": "第一电动",
       "pushedAt": 1783532437857
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306115",
+      "title": "AI对话革命！OpenAI发布GPT-Live系列模型，让AI聊天更真人化",
+      "source": "第一电动",
+      "pushedAt": 1783551527814
     }
   ],
   "lastUpdated": "2026-07-09"
