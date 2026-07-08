@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/303832",
-    "https://www.d1ev.com/newsflash/303823",
-    "https://www.d1ev.com/newsflash/303834",
-    "https://www.d1ev.com/newsflash/303822",
-    "https://www.d1ev.com/carnews/xinche/303830",
     "https://www.d1ev.com/newsflash/303829",
     "https://www.d1ev.com/carnews/xinche/303826",
     "https://www.d1ev.com/carnews/xinche/303824",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/306091",
     "https://www.d1ev.com/newsflash/306089",
     "https://www.d1ev.com/newsflash/306088",
-    "https://www.d1ev.com/newsflash/306081"
+    "https://www.d1ev.com/newsflash/306081",
+    "https://www.d1ev.com/newsflash/306108",
+    "https://www.d1ev.com/newsflash/306111",
+    "https://www.d1ev.com/newsflash/306110",
+    "https://www.d1ev.com/newsflash/306109",
+    "https://www.d1ev.com/newsflash/306107"
   ],
   "newsHistory": [
     {
@@ -6693,6 +6693,36 @@
       "title": "小米汽车6月销量破3.4万，SU7车型批发超2万辆",
       "source": "第一电动",
       "pushedAt": 1783518738609
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306108",
+      "title": "鸿蒙智行尊界SUV谍照曝光，V800设计延续，豪华矩阵即将成型",
+      "source": "第一电动",
+      "pushedAt": 1783526369939
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306111",
+      "title": "比亚迪海豹08下线，1700万辆新能源车里程碑达成！",
+      "source": "第一电动",
+      "pushedAt": 1783526369939
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306110",
+      "title": "吉利银河A7EM创纪录：插混轿车续航2600公里仅需8.98万起",
+      "source": "第一电动",
+      "pushedAt": 1783526369939
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306109",
+      "title": "2026上半年国内乘用车销量大跌20.2%，新能源车市仍坚挺",
+      "source": "第一电动",
+      "pushedAt": 1783526369939
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306107",
+      "title": "字节发布多模态图像创作模型Seedream5.0Pro：交互式精准编辑+图层分离",
+      "source": "第一电动",
+      "pushedAt": 1783526369939
     }
   ],
   "lastUpdated": "2026-07-08"
