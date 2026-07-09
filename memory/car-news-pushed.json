@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/304006",
-    "https://www.d1ev.com/newsflash/304002",
-    "https://www.d1ev.com/newsflash/304001",
     "https://www.d1ev.com/news/shichang/303999",
     "https://www.d1ev.com/newsflash/303997",
     "https://www.d1ev.com/news/shichang/303995",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/306254",
     "https://www.d1ev.com/newsflash/306252",
     "https://www.d1ev.com/newsflash/306251",
-    "https://www.d1ev.com/news/shichang/306247"
+    "https://www.d1ev.com/news/shichang/306247",
+    "https://www.d1ev.com/newsflash/306275",
+    "https://www.d1ev.com/newsflash/306274",
+    "https://www.d1ev.com/newsflash/306276"
   ],
   "newsHistory": [
     {
@@ -6717,7 +6717,25 @@
       "title": "理想“9系”旗舰家族再添猛将，i9官宣9月见",
       "source": "第一电动",
       "pushedAt": 1783608346961
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306275",
+      "title": "“电动赛车新纪元：FE赛事如何助力民用电动车技术革新”",
+      "source": "第一电动",
+      "pushedAt": 1783619433099
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306274",
+      "title": "一键电动露营新体验！享界G9豪华SUV革新户外生活",
+      "source": "第一电动",
+      "pushedAt": 1783619433099
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306276",
+      "title": "昆明智己汽车经销商突关停，190余名车主维权难",
+      "source": "第一电动",
+      "pushedAt": 1783619433099
     }
   ],
-  "lastUpdated": "2026-07-09"
+  "lastUpdated": "2026-07-10"
 }
