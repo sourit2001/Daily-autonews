@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304155",
-    "https://www.d1ev.com/newsflash/304154",
-    "https://www.d1ev.com/newsflash/304153",
-    "https://www.d1ev.com/newsflash/304149",
     "https://www.d1ev.com/newsflash/304176",
     "https://www.d1ev.com/news/shichang/304173",
     "https://www.d1ev.com/news/shichang/304166",
@@ -1999,69 +1995,13 @@
     "https://www.d1ev.com/newsflash/306435",
     "https://www.d1ev.com/newsflash/306433",
     "https://www.d1ev.com/newsflash/306445",
-    "https://www.d1ev.com/newsflash/306434"
+    "https://www.d1ev.com/newsflash/306434",
+    "https://www.d1ev.com/newsflash/306455",
+    "https://www.d1ev.com/newsflash/306456",
+    "https://www.d1ev.com/newsflash/306454",
+    "https://www.d1ev.com/newsflash/306457"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305566",
-      "title": "领克20三季度上市：激光雷达加持，运动智能双突破",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305562",
-      "title": "领克20三季度上市：800V高压平台+6C快充，智能驾驶再升级",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305561",
-      "title": "奇瑞星途ES 2027款7月12日上市，续航860km，增程版4.9秒破百",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305563",
-      "title": "2027年起新能源车不再免车船税，车主需年缴税额",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/305560",
-      "title": "【全球汽车新技术观察】 6月上期〡业内首款！安波福推出纯视觉先进乘员分类系统；英伟达推出用于Robotaxis的开放推理模型Alpamayo 2 Super；图尔库大学开发出新型智能材料 可使汽车天窗储存太阳能并按需变换颜色",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305567",
-      "title": "字节跳动Seedance2.5视频生成模型即将开放体验，引领视频创作新潮流",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305565",
-      "title": "蔚来维权行动升级：多名侵权者被处罚，法院判决维护品牌名誉",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305564",
-      "title": "豆包智能体功能将下线，用户需备份数据，猫箱App接棒新体验",
-      "source": "第一电动",
-      "pushedAt": 1783093875755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305569",
-      "title": "法拉第未来辟谣“人去楼空”：已迁新址，交付目标上调至2000台",
-      "source": "第一电动",
-      "pushedAt": 1783099115758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305568",
-      "title": "50万预算选9系SUV，理想L9、问界M9、蔚来ES9、极氪9X谁更值？",
-      "source": "第一电动",
-      "pushedAt": 1783099115758
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305585",
       "title": "宝马iX7纯电SUV谍照曝光，2027年亮相，豪华电动新旗舰！",
@@ -6759,7 +6699,31 @@
       "title": "腾讯混元Hy3模型上线引发算力挤兑，智能体能力大提升",
       "source": "第一电动",
       "pushedAt": 1783692638031
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306455",
+      "title": "小米澎程SUV亮相：25万起售，增程动力+房车配置震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1783705385246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306456",
+      "title": "小米澎程SUV：超500公里纯电续航，全地形极限测试！",
+      "source": "第一电动",
+      "pushedAt": 1783705385246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306454",
+      "title": "华为智驾神操作：遇电线树枝障碍，自动转向避险",
+      "source": "第一电动",
+      "pushedAt": 1783705385246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306457",
+      "title": "享界G9露营神器：一键展开天幕帐篷，全尺寸SUV新体验",
+      "source": "第一电动",
+      "pushedAt": 1783705385246
     }
   ],
-  "lastUpdated": "2026-07-10"
+  "lastUpdated": "2026-07-11"
 }
