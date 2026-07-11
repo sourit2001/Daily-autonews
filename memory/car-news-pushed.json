@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304266",
-    "https://www.d1ev.com/news/shichang/304260",
-    "https://www.d1ev.com/carnews/xinche/304257",
-    "https://www.d1ev.com/newsflash/304250",
-    "https://www.d1ev.com/newsflash/304247",
     "https://www.d1ev.com/newsflash/304240",
     "https://www.d1ev.com/newsflash/304239",
     "https://www.d1ev.com/newsflash/304277",
@@ -1999,27 +1994,14 @@
     "https://www.d1ev.com/newsflash/306510",
     "https://www.d1ev.com/newsflash/306509",
     "https://www.d1ev.com/newsflash/306508",
-    "https://www.d1ev.com/newsflash/306507"
+    "https://www.d1ev.com/newsflash/306507",
+    "https://www.d1ev.com/newsflash/306515",
+    "https://www.d1ev.com/newsflash/306514",
+    "https://www.d1ev.com/newsflash/306517",
+    "https://www.d1ev.com/newsflash/306516",
+    "https://www.d1ev.com/newsflash/306513"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305612",
-      "title": "问界M8夺插混保值率冠军，坦克新能源紧随其后",
-      "source": "第一电动",
-      "pushedAt": 1783170625480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/305611",
-      "title": "2026上海国际低碳智慧出行展览会“零碳出行 车网互动”论坛成功举办",
-      "source": "第一电动",
-      "pushedAt": 1783170625480
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305610",
-      "title": "比亚迪方程豹钛7EV闪充版四驱车型全面交付，19.98万起",
-      "source": "第一电动",
-      "pushedAt": 1783170625480
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305614",
       "title": "中国智驾技术全球领先，小鹏汽车何小鹏看好年底“走出去”",
@@ -6795,6 +6777,36 @@
       "title": "莲花ForMe黑金限量版全球78台售罄，63.8万起超混SUV新标杆",
       "source": "第一电动",
       "pushedAt": 1783775097730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306515",
+      "title": "小鹏G9L申报亮相：双电机430kW动力，磷酸铁锂电池加持！",
+      "source": "第一电动",
+      "pushedAt": 1783781208766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306514",
+      "title": "吉利银河TTUltra全球竞速版亮相：特罗姆瑟蓝配色+800V高压平台",
+      "source": "第一电动",
+      "pushedAt": 1783781208766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306517",
+      "title": "K2.7Code高速版上线：编程速度提升5倍，会员免费用！",
+      "source": "第一电动",
+      "pushedAt": 1783781208766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306516",
+      "title": "日本三大车企在华销量全线下滑，本田连续29个月负增长",
+      "source": "第一电动",
+      "pushedAt": 1783781208766
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306513",
+      "title": "比亚迪豪华超跑“腾势Z”登陆英国市场 起售价130万元",
+      "source": "第一电动",
+      "pushedAt": 1783781208766
     }
   ],
   "lastUpdated": "2026-07-11"
