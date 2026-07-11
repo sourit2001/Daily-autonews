@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/304232",
-    "https://www.d1ev.com/newsflash/304228",
-    "https://www.d1ev.com/carnews/xinche/304227",
-    "https://www.d1ev.com/news/shichang/304226",
-    "https://www.d1ev.com/carnews/xinche/304223",
     "https://www.d1ev.com/newsflash/304219",
     "https://www.d1ev.com/newsflash/304217",
     "https://www.d1ev.com/news/shichang/304216",
@@ -1999,75 +1994,14 @@
     "https://www.d1ev.com/newsflash/306497",
     "https://www.d1ev.com/newsflash/306488",
     "https://www.d1ev.com/newsflash/306487",
-    "https://www.d1ev.com/newsflash/306485"
+    "https://www.d1ev.com/newsflash/306485",
+    "https://www.d1ev.com/newsflash/306503",
+    "https://www.d1ev.com/newsflash/306504",
+    "https://www.d1ev.com/newsflash/306506",
+    "https://www.d1ev.com/newsflash/306505",
+    "https://www.d1ev.com/newsflash/306502"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305608",
-      "title": "零跑B01/B10新车型亮相：超长续航轿车与SUV，配备AR-HUD与星空全景天幕",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305607",
-      "title": "领克20新升级：激光雷达加持，全地形感知即将上市！",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305606",
-      "title": "海南2030年全面禁售燃油车，新能源车占比将达45%",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305605",
-      "title": "中国新能源车海外销量飙升：1-5月全球份额达23.5%",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/305602",
-      "title": "动力电池新国标落地：三招教你避开购车坑！",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305599",
-      "title": "微软Copilot升级：8月发布AI编程工具，智能体后台处理日程邮件",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305609",
-      "title": "海南首开右舵车测试，车企出海东盟更便捷！",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305601",
-      "title": "奇瑞接管日产南非工厂，打造非洲制造出口中心，年销量目标超10万",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305604",
-      "title": "比亚迪方程豹豹5三周年特别版车衣发布，售价3999元",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305603",
-      "title": "问界M9销量破30万，新款车型3周破万纪录！",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305600",
-      "title": "华为鸿蒙智行问界M9销量破30万，新一代车型三周交付过万！",
-      "source": "第一电动",
-      "pushedAt": 1783159417592
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305612",
       "title": "问界M8夺插混保值率冠军，坦克新能源紧随其后",
@@ -6795,6 +6729,36 @@
       "title": "芝加哥大学法学院新规：新生上课禁用笔记本，培养独立思考能力",
       "source": "第一电动",
       "pushedAt": 1783761752412
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306503",
+      "title": "理想L6新色“风信紫”亮相，续航升级成本激增1.4万",
+      "source": "第一电动",
+      "pushedAt": 1783767565238
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306504",
+      "title": "AI技术重现千年壁画风采：山西大云院壁画焕新颜",
+      "source": "第一电动",
+      "pushedAt": 1783767565238
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306506",
+      "title": "比亚迪技术加持，腾势N8豪华SUV重塑市场格局",
+      "source": "第一电动",
+      "pushedAt": 1783767565238
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306505",
+      "title": "中国一汽提前三年完成国7技术储备，红旗混动车型将受益",
+      "source": "第一电动",
+      "pushedAt": 1783767565238
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306502",
+      "title": "台铃携手华为钱包，数字钥匙技术革新两轮出行",
+      "source": "第一电动",
+      "pushedAt": 1783767565238
     }
   ],
   "lastUpdated": "2026-07-11"
