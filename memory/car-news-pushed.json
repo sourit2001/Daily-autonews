@@ -1,22 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304176",
-    "https://www.d1ev.com/news/shichang/304173",
-    "https://www.d1ev.com/news/shichang/304166",
-    "https://www.d1ev.com/news/shichang/304165",
-    "https://www.d1ev.com/newsflash/304164",
-    "https://www.d1ev.com/newsflash/304163",
-    "https://www.d1ev.com/news/qiye/304162",
-    "https://www.d1ev.com/news/shichang/304157",
-    "https://www.d1ev.com/news/shichang/304156",
-    "https://www.d1ev.com/news/shichang/304151",
-    "https://www.d1ev.com/news/shichang/304148",
-    "https://www.d1ev.com/news/shichang/304147",
-    "https://www.d1ev.com/newsflash/304145",
-    "https://www.d1ev.com/newsflash/304188",
-    "https://www.d1ev.com/newsflash/304187",
-    "https://www.d1ev.com/newsflash/304186",
-    "https://www.d1ev.com/newsflash/304185",
     "https://www.d1ev.com/newsflash/304184",
     "https://www.d1ev.com/newsflash/304181",
     "https://www.d1ev.com/newsflash/304177",
@@ -1999,7 +1982,24 @@
     "https://www.d1ev.com/newsflash/306455",
     "https://www.d1ev.com/newsflash/306456",
     "https://www.d1ev.com/newsflash/306454",
-    "https://www.d1ev.com/newsflash/306457"
+    "https://www.d1ev.com/newsflash/306457",
+    "https://www.d1ev.com/newsflash/306473",
+    "https://www.d1ev.com/carnews/xinche/306469",
+    "https://www.d1ev.com/newsflash/306462",
+    "https://www.d1ev.com/newsflash/306474",
+    "https://www.d1ev.com/newsflash/306466",
+    "https://www.d1ev.com/newsflash/306465",
+    "https://www.d1ev.com/newsflash/306463",
+    "https://www.d1ev.com/newsflash/306461",
+    "https://www.d1ev.com/newsflash/306460",
+    "https://www.d1ev.com/newsflash/306458",
+    "https://www.d1ev.com/carnews/xinche/306472",
+    "https://www.d1ev.com/carnews/xinche/306471",
+    "https://www.d1ev.com/newsflash/306470",
+    "https://www.d1ev.com/news/qiye/306468",
+    "https://www.d1ev.com/newsflash/306467",
+    "https://www.d1ev.com/newsflash/306464",
+    "https://www.d1ev.com/newsflash/306459"
   ],
   "newsHistory": [
     {
@@ -6723,6 +6723,108 @@
       "title": "享界G9露营神器：一键展开天幕帐篷，全尺寸SUV新体验",
       "source": "第一电动",
       "pushedAt": 1783705385246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306473",
+      "title": "奇瑞iCAR V25官图曝光：科技时尚轻旗舰SUV搭载激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/306469",
+      "title": "B级智能纯电轿跑“与众09”完成工信部申报",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306462",
+      "title": "“腾势Z9S纯电动轿车亮相：双动力版本，最高时速250km/h”",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306474",
+      "title": "韩国开发者惊现天价AI账单：160万和1662万美元扣款通知",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306466",
+      "title": "比亚迪海鸥全新升级：外观运动化，轴距加长150mm，续航305-405公里",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306465",
+      "title": "诺兰批AI垃圾：年轻观众拒绝网络劣质内容",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306463",
+      "title": "Meta紧急下架AI功能：Instagram账号图像生成引发争议",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306461",
+      "title": "苹果起诉OpenAI窃取商业机密：数百员工跳槽涉泄密",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306460",
+      "title": "苹果指控OpenAI窃取商业机密，OpenAI回应：专注创新技术",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306458",
+      "title": "小米澎程系列发布：纯电续航超500km，增程技术助力远行无忧",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/306472",
+      "title": "全新比亚迪海鸥现身：车身加长425mm",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/306471",
+      "title": "余承东爆享界G9猛料：厨房套件直接户外烹饪",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306470",
+      "title": "马斯克推荐特斯拉员工改用Grok4.5：成本更低，性能够用",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/306468",
+      "title": "全新比亚迪海鸥现身：车身加长425mm 可选激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306467",
+      "title": "蔚来ES8销量超BBA，6月均价44.3万领跑豪华品牌",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306464",
+      "title": "小米澎程SUV系列发布：智能可变空间，自在生活新选择",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306459",
+      "title": "Anthropic ClaudeCode更新：桌面版新增内置浏览器功能！",
+      "source": "第一电动",
+      "pushedAt": 1783735604408
     }
   ],
   "lastUpdated": "2026-07-11"
