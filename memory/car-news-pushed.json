@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304295",
-    "https://www.d1ev.com/newsflash/304281",
-    "https://www.d1ev.com/news/shichang/304312",
-    "https://www.d1ev.com/newsflash/304310",
-    "https://www.d1ev.com/newsflash/304309",
-    "https://www.d1ev.com/newsflash/304308",
-    "https://www.d1ev.com/newsflash/304304",
-    "https://www.d1ev.com/news/shichang/304302",
-    "https://www.d1ev.com/newsflash/304300",
-    "https://www.d1ev.com/newsflash/304299",
-    "https://www.d1ev.com/newsflash/304296",
-    "https://www.d1ev.com/news/shichang/304294",
     "https://www.d1ev.com/newsflash/304287",
     "https://www.d1ev.com/news/shichang/304286",
     "https://www.d1ev.com/newsflash/304283",
@@ -1999,7 +1987,19 @@
     "https://www.d1ev.com/newsflash/306556",
     "https://www.d1ev.com/newsflash/306554",
     "https://www.d1ev.com/newsflash/306552",
-    "https://www.d1ev.com/newsflash/306539"
+    "https://www.d1ev.com/newsflash/306539",
+    "https://www.d1ev.com/newsflash/306566",
+    "https://www.d1ev.com/newsflash/306565",
+    "https://www.d1ev.com/newsflash/306558",
+    "https://www.d1ev.com/newsflash/306557",
+    "https://www.d1ev.com/newsflash/306563",
+    "https://www.d1ev.com/newsflash/306561",
+    "https://www.d1ev.com/newsflash/306560",
+    "https://www.d1ev.com/newsflash/306568",
+    "https://www.d1ev.com/news/shichang/306567",
+    "https://www.d1ev.com/newsflash/306564",
+    "https://www.d1ev.com/newsflash/306562",
+    "https://www.d1ev.com/newsflash/306559"
   ],
   "newsHistory": [
     {
@@ -6951,6 +6951,78 @@
       "title": "英格兰晋级世界杯四强，小米汽车试驾送车模限时抢！",
       "source": "第一电动",
       "pushedAt": 1783837800854
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306566",
+      "title": "奔驰纯电GLC SUV三版本亮相，续航超680km，预售价29.99万起",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306565",
+      "title": "比亚迪腾势Z超跑国内预售启动，1.96秒破百，挑战纽北赛道！",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306558",
+      "title": "宝马i3首发版预订火爆，秋季交付起售价52.7万",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306557",
+      "title": "猛士X700亮相：家用SUV新选择，插混动力+华为智驾",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306563",
+      "title": "韩国新能源汽车销量首超50%，纯电车销量翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306561",
+      "title": "美国AI公司1X发布Neo机械手：灵活耐用，能做家务能洗手",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306560",
+      "title": "鸿蒙智行中型SUV智界R7焕新升级，双联屏设计引领智能座舱新潮流",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306568",
+      "title": "赛力斯2026上半年巨亏18亿，原材料涨价成主因",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306567",
+      "title": "小智一周要闻 | 影石官宣入局机器人；速腾聚创上半年机器人业务大增510%",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306564",
+      "title": "楚能汽车首台ET车下线，迈入实车验证新阶段",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306562",
+      "title": "哈士奇坐驾驶位自动泊车？车主被罚200元记3分",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306559",
+      "title": "日系车在华销量持续下滑，本田跌幅超四成",
+      "source": "第一电动",
+      "pushedAt": 1783849631223
     }
   ],
   "lastUpdated": "2026-07-12"
