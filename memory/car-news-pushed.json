@@ -1,24 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304240",
-    "https://www.d1ev.com/newsflash/304239",
-    "https://www.d1ev.com/newsflash/304277",
-    "https://www.d1ev.com/newsflash/304276",
-    "https://www.d1ev.com/newsflash/304275",
-    "https://www.d1ev.com/newsflash/304274",
-    "https://www.d1ev.com/newsflash/304271",
-    "https://www.d1ev.com/newsflash/304270",
-    "https://www.d1ev.com/newsflash/304269",
-    "https://www.d1ev.com/news/shichang/304263",
-    "https://www.d1ev.com/newsflash/304259",
-    "https://www.d1ev.com/carnews/xinche/304256",
-    "https://www.d1ev.com/newsflash/304254",
-    "https://www.d1ev.com/newsflash/304252",
-    "https://www.d1ev.com/news/shichang/304249",
-    "https://www.d1ev.com/newsflash/304248",
-    "https://www.d1ev.com/newsflash/304243",
-    "https://www.d1ev.com/newsflash/304238",
-    "https://www.d1ev.com/newsflash/304236",
     "https://www.d1ev.com/newsflash/304235",
     "https://www.d1ev.com/news/shichang/304241",
     "https://www.d1ev.com/news/shichang/304273",
@@ -1999,39 +1980,28 @@
     "https://www.d1ev.com/newsflash/306514",
     "https://www.d1ev.com/newsflash/306517",
     "https://www.d1ev.com/newsflash/306516",
-    "https://www.d1ev.com/newsflash/306513"
+    "https://www.d1ev.com/newsflash/306513",
+    "https://www.d1ev.com/carnews/xinche/306536",
+    "https://www.d1ev.com/carnews/xinche/306535",
+    "https://www.d1ev.com/newsflash/306526",
+    "https://www.d1ev.com/newsflash/306534",
+    "https://www.d1ev.com/newsflash/306533",
+    "https://www.d1ev.com/newsflash/306532",
+    "https://www.d1ev.com/newsflash/306531",
+    "https://www.d1ev.com/newsflash/306529",
+    "https://www.d1ev.com/news/qiye/306528",
+    "https://www.d1ev.com/newsflash/306527",
+    "https://www.d1ev.com/newsflash/306525",
+    "https://www.d1ev.com/newsflash/306524",
+    "https://www.d1ev.com/newsflash/306521",
+    "https://www.d1ev.com/carnews/xinche/306537",
+    "https://www.d1ev.com/news/qiye/306530",
+    "https://www.d1ev.com/news/shichang/306523",
+    "https://www.d1ev.com/newsflash/306522",
+    "https://www.d1ev.com/newsflash/306520",
+    "https://www.d1ev.com/newsflash/306519"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305614",
-      "title": "中国智驾技术全球领先，小鹏汽车何小鹏看好年底“走出去”",
-      "source": "第一电动",
-      "pushedAt": 1783177303310
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305613",
-      "title": "零跑B01新色登场：50英寸AR-HUD+17.3英寸3K屏，续航650km仅8.98万起",
-      "source": "第一电动",
-      "pushedAt": 1783177303310
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305616",
-      "title": "大众告别柴油时代：全新HEV系统将取代问题频发的EA288发动机",
-      "source": "第一电动",
-      "pushedAt": 1783177303310
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305615",
-      "title": "“哈尔滨、武汉、厦门入围NIODay2026，蔚来汽车年度盛会即将揭晓”",
-      "source": "第一电动",
-      "pushedAt": 1783177303310
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305619",
-      "title": "2027年起新能源车将不再免征车船税，油电同权时代来临",
-      "source": "第一电动",
-      "pushedAt": 1783184272117
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305623",
       "title": "鸿蒙智行享界G9新照曝光：侧开门设计+全新星环尾灯亮相",
@@ -6807,7 +6777,121 @@
       "title": "比亚迪豪华超跑“腾势Z”登陆英国市场 起售价130万元",
       "source": "第一电动",
       "pushedAt": 1783781208766
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/306536",
+      "title": "比亚迪腾势N8官图曝光 大五座纯电豪华SUV",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/306535",
+      "title": "全新一代比亚迪唐EV正式亮相 颜值大改",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306526",
+      "title": "特斯拉Cybercab无人驾驶出租车即将亮相得州超级工厂",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306534",
+      "title": "华为鸿蒙智行享界G9：全尺寸SUV搭载自研电机，1300公里续航震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306533",
+      "title": "“中国制造”占领澳大利亚电动车市场，7款热销车型均破千辆",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306532",
+      "title": "AI一小时破解图论50年难题！OpenAI GPT-5.6SolUltra独立证明循环双覆盖猜想",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306531",
+      "title": "马斯克奥尔特曼互怼升级：AI新模型成新战场",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306529",
+      "title": "华为智驾新突破！启境GT7搭载ADS5系统实测亮眼",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/306528",
+      "title": "澳大利亚最畅销7款电动车全部来自中国！特斯拉也不例外",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306527",
+      "title": "瑞典极星电动汽车退出美国市场，车主经销商愤怒声讨",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306525",
+      "title": "OpenAI招聘家庭产品经理，ChatGPT用户年龄结构大变",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306524",
+      "title": "苹果前高管TangTan携机密跳槽OpenAI，引发两家AI硬件巨头诉讼战",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306521",
+      "title": "布朗大学惊现AI作弊潮：期中成绩优异，期末成绩断崖式下滑！",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/306537",
+      "title": "吉利银河TT Ultra版发布：双电机四驱",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/306530",
+      "title": "吉利银河TT Ultra版发布：四驱578马力 还有一键20秒真男人",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306523",
+      "title": "盖世周报 | 大陆集团出售康迪泰克业务部门；奇瑞南非工厂零部件本地化率将达40%",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306522",
+      "title": "小米澎程SUV系列来袭：增程式智能大空间，真实路况测试超428万公里！",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306520",
+      "title": "中国一汽突破国7排放技术，红旗混动车型迎绿色升级",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306519",
+      "title": "小米澎程SUV即将揭幕：大空间智能驾驶体验即将来袭",
+      "source": "第一电动",
+      "pushedAt": 1783822175286
     }
   ],
-  "lastUpdated": "2026-07-11"
+  "lastUpdated": "2026-07-12"
 }
