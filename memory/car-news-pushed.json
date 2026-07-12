@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304279",
-    "https://www.d1ev.com/newsflash/304305",
-    "https://www.d1ev.com/newsflash/304298",
-    "https://www.d1ev.com/newsflash/304291",
     "https://www.d1ev.com/news/shichang/304289",
     "https://www.d1ev.com/news/shichang/304313",
     "https://www.d1ev.com/news/shichang/304311",
@@ -1999,33 +1995,13 @@
     "https://www.d1ev.com/newsflash/306569",
     "https://www.d1ev.com/newsflash/306572",
     "https://www.d1ev.com/newsflash/306570",
-    "https://www.d1ev.com/news/shichang/306571"
+    "https://www.d1ev.com/news/shichang/306571",
+    "https://www.d1ev.com/newsflash/306577",
+    "https://www.d1ev.com/newsflash/306575",
+    "https://www.d1ev.com/newsflash/306574",
+    "https://www.d1ev.com/newsflash/306576"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305657",
-      "title": "享界G9曝光：华为鸿蒙加持，800V高压平台，超长续航1300km！",
-      "source": "第一电动",
-      "pushedAt": 1783257533536
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305656",
-      "title": "复旦学生“考倒”AI：期末作业变出题，AI答错越多得分越高",
-      "source": "第一电动",
-      "pushedAt": 1783257533536
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/305659",
-      "title": "达科斯塔强势斩获Formula E上海站亚军 捷豹TCS车队继续领跑车队积分榜",
-      "source": "第一电动",
-      "pushedAt": 1783257533536
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305658",
-      "title": "一汽解放氢内燃机获“双零排放”认证，引领绿色动力新突破",
-      "source": "第一电动",
-      "pushedAt": 1783257533536
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305664",
       "title": "零跑B01/B10新车型曝光：50英寸AR-HUD+双零重力座椅，年轻时尚新选择",
@@ -6891,6 +6867,30 @@
       "title": "E周看点｜小米汽车官宣第二个产品系列；零跑汽车正式进入北美市场",
       "source": "第一电动",
       "pushedAt": 1783854440501
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306577",
+      "title": "大众联手小鹏打造全新智能电动SUV，下半年上市！",
+      "source": "第一电动",
+      "pushedAt": 1783867845973
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306575",
+      "title": "“智能轿跑新标杆！MG07预售在即，840km续航+5秒破百”",
+      "source": "第一电动",
+      "pushedAt": 1783867845973
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306574",
+      "title": "吉利银河TTUltra全球竞速版亮相：800V高压平台+强悍驾控性能",
+      "source": "第一电动",
+      "pushedAt": 1783867845973
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306576",
+      "title": "李斌预测：下半年车市企稳，纯电车型渗透率将超80%",
+      "source": "第一电动",
+      "pushedAt": 1783867845973
     }
   ],
   "lastUpdated": "2026-07-12"
