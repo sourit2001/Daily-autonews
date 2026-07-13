@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304468",
     "https://www.d1ev.com/newsflash/304462",
     "https://www.d1ev.com/newsflash/304457",
     "https://www.d1ev.com/newsflash/304453",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/newsflash/306696",
     "https://www.d1ev.com/newsflash/306729",
     "https://www.d1ev.com/newsflash/306728",
-    "https://www.d1ev.com/newsflash/306727"
+    "https://www.d1ev.com/newsflash/306727",
+    "https://www.d1ev.com/newsflash/306730"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305822",
-      "title": "央视测试奕境X9智能驾驶，底盘技术成关键！",
-      "source": "第一电动",
-      "pushedAt": 1783367271559
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305836",
       "title": "谷歌Gemini3.5Pro即将发布：200万上下文窗口，深度思考推理模式亮相",
@@ -6933,6 +6927,12 @@
       "title": "比亚迪推29元不限量车机流量包，五大娱乐场景任性用",
       "source": "第一电动",
       "pushedAt": 1783965039106
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306730",
+      "title": "原材料价格飙升，新能源汽车成本压力山大",
+      "source": "第一电动",
+      "pushedAt": 1783983058878
     }
   ],
   "lastUpdated": "2026-07-14"
