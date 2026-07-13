@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304474",
-    "https://www.d1ev.com/news/shichang/304472",
-    "https://www.d1ev.com/newsflash/304470",
     "https://www.d1ev.com/newsflash/304468",
     "https://www.d1ev.com/newsflash/304462",
     "https://www.d1ev.com/newsflash/304457",
@@ -1999,15 +1996,12 @@
     "https://www.d1ev.com/newsflash/306700",
     "https://www.d1ev.com/news/shichang/306695",
     "https://www.d1ev.com/newsflash/306697",
-    "https://www.d1ev.com/newsflash/306696"
+    "https://www.d1ev.com/newsflash/306696",
+    "https://www.d1ev.com/newsflash/306729",
+    "https://www.d1ev.com/newsflash/306728",
+    "https://www.d1ev.com/newsflash/306727"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305821",
-      "title": "华为余承东呼伦贝尔草原试驾鸿蒙智行SUV享界G9，体验硬派风格新领域",
-      "source": "第一电动",
-      "pushedAt": 1783356560276
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305822",
       "title": "央视测试奕境X9智能驾驶，底盘技术成关键！",
@@ -6921,7 +6915,25 @@
       "title": "理想L6新一代升级：全铝悬架+运动转向+双阀减震器，7月16日见！",
       "source": "第一电动",
       "pushedAt": 1783952404773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306729",
+      "title": "美国电动车市场寒冬加剧，加州销量暴跌40%",
+      "source": "第一电动",
+      "pushedAt": 1783965039106
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306728",
+      "title": "福特被诉要求退还关税退税：消费者权益大战一触即发",
+      "source": "第一电动",
+      "pushedAt": 1783965039106
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306727",
+      "title": "比亚迪推29元不限量车机流量包，五大娱乐场景任性用",
+      "source": "第一电动",
+      "pushedAt": 1783965039106
     }
   ],
-  "lastUpdated": "2026-07-13"
+  "lastUpdated": "2026-07-14"
 }
