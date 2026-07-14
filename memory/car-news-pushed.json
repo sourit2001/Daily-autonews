@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304611",
-    "https://www.d1ev.com/newsflash/304610",
     "https://www.d1ev.com/newsflash/304607",
     "https://www.d1ev.com/news/qiye/304606",
     "https://www.d1ev.com/news/shichang/304602",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/306867",
     "https://www.d1ev.com/newsflash/306863",
     "https://www.d1ev.com/newsflash/306869",
-    "https://www.d1ev.com/newsflash/306862"
+    "https://www.d1ev.com/newsflash/306862",
+    "https://www.d1ev.com/newsflash/306876",
+    "https://www.d1ev.com/newsflash/306875"
   ],
   "newsHistory": [
     {
@@ -7083,7 +7083,19 @@
       "title": "英伟达联手三菱重工打造“人工智能工厂”数据中心",
       "source": "第一电动",
       "pushedAt": 1784042389729
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306876",
+      "title": "中国AI巨头DeepSeek筹备IPO，目标估值4800亿！",
+      "source": "第一电动",
+      "pushedAt": 1784048881930
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306875",
+      "title": "特斯拉澳洲推“保证未来价值”计划，锁定Model Y/3预设转售价",
+      "source": "第一电动",
+      "pushedAt": 1784048881930
     }
   ],
-  "lastUpdated": "2026-07-14"
+  "lastUpdated": "2026-07-15"
 }
