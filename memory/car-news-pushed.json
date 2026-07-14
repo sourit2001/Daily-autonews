@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304528",
-    "https://www.d1ev.com/newsflash/304562",
-    "https://www.d1ev.com/carnews/xinche/304543",
-    "https://www.d1ev.com/news/qiye/304563",
-    "https://www.d1ev.com/newsflash/304561",
-    "https://www.d1ev.com/news/shichang/304553",
-    "https://www.d1ev.com/news/shichang/304550",
-    "https://www.d1ev.com/news/shichang/304542",
-    "https://www.d1ev.com/news/qiye/304539",
-    "https://www.d1ev.com/news/shichang/304538",
-    "https://www.d1ev.com/news/shichang/304532",
-    "https://www.d1ev.com/newsflash/304608",
-    "https://www.d1ev.com/newsflash/304603",
-    "https://www.d1ev.com/newsflash/304597",
-    "https://www.d1ev.com/carnews/xinche/304590",
-    "https://www.d1ev.com/carnews/xinche/304587",
-    "https://www.d1ev.com/carnews/xinche/304586",
-    "https://www.d1ev.com/newsflash/304583",
-    "https://www.d1ev.com/newsflash/304579",
-    "https://www.d1ev.com/newsflash/304573",
-    "https://www.d1ev.com/news/qiye/304571",
     "https://www.d1ev.com/newsflash/304566",
     "https://www.d1ev.com/newsflash/304565",
     "https://www.d1ev.com/newsflash/304609",
@@ -1999,7 +1978,28 @@
     "https://www.d1ev.com/news/shichang/306798",
     "https://www.d1ev.com/newsflash/306797",
     "https://www.d1ev.com/carnews/xinche/306793",
-    "https://www.d1ev.com/newsflash/306792"
+    "https://www.d1ev.com/newsflash/306792",
+    "https://www.d1ev.com/newsflash/306843",
+    "https://www.d1ev.com/newsflash/306837",
+    "https://www.d1ev.com/newsflash/306842",
+    "https://www.d1ev.com/newsflash/306841",
+    "https://www.d1ev.com/news/shichang/306839",
+    "https://www.d1ev.com/newsflash/306838",
+    "https://www.d1ev.com/newsflash/306836",
+    "https://www.d1ev.com/newsflash/306835",
+    "https://www.d1ev.com/newsflash/306832",
+    "https://www.d1ev.com/newsflash/306831",
+    "https://www.d1ev.com/newsflash/306830",
+    "https://www.d1ev.com/news/qiye/306829",
+    "https://www.d1ev.com/newsflash/306827",
+    "https://www.d1ev.com/newsflash/306825",
+    "https://www.d1ev.com/newsflash/306834",
+    "https://www.d1ev.com/news/shichang/306833",
+    "https://www.d1ev.com/news/qiye/306824",
+    "https://www.d1ev.com/newsflash/306840",
+    "https://www.d1ev.com/newsflash/306828",
+    "https://www.d1ev.com/newsflash/306826",
+    "https://www.d1ev.com/news/qiye/306823"
   ],
   "newsHistory": [
     {
@@ -7029,6 +7029,132 @@
       "title": "小米澎程测试车全国跑428万公里，覆盖31省194市",
       "source": "第一电动",
       "pushedAt": 1784015734329
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306843",
+      "title": "领克900新套件亮相：森野绿车身搭配云雾青内饰，今晚揭晓价格！",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306837",
+      "title": "小鹏G9L曝光：大五座纯电增程SUV，续航805km！",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306842",
+      "title": "问界M9纯电续航挑战成功！高温满载下实测611km超官方标",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306841",
+      "title": "问界M9纯电续航实测：高温满载下611km达成率85.4%",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306839",
+      "title": "2026年1-5月智能座舱供应商装机量排行榜：国产芯片份额持续攀升丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306838",
+      "title": "“新能源车平均车龄1.8年？中汽协澄清：误解！置换周期与使用寿命大不同”",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306836",
+      "title": "中国车市巨变：燃油车销量暴跌，新能源车强势崛起",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306835",
+      "title": "澄清来了！新能源车平均车龄1.8年，非寿命短也非换车快",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306832",
+      "title": "三星2nm制程助力Anthropic自研AI芯片，未来AI竞争加剧",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306831",
+      "title": "新能源车主注意：雷雨天充电安全指南来了！",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306830",
+      "title": "软银联手Sierra AI，LINEMO客服满意度飙升至93%！",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/306829",
+      "title": "只有燃油税不公平！英国开征电动车里程税：每英里3便士",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306827",
+      "title": "阿里巴巴高德发布ABot-WorldStudio：AI世界一键生成，互动探索新纪元",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306825",
+      "title": "谷歌TPU芯片挑战英伟达GPU，Neocloud企业或将转向新算力解决方案",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306834",
+      "title": "福特因关税退款被诉：消费者要求补偿额外购车成本",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306833",
+      "title": "美国车市6月迎来混动热潮，上半年整体市场仍陷低迷",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/306824",
+      "title": "北京奔驰之后全球第二！奔驰欧洲最大工厂纯电C级首次量产",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306840",
+      "title": "土耳其企业联手中国智能驾驶供应商 推L4级无人驾驶出租车",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306828",
+      "title": "小米机器人“实习”成果显著：工厂作业成功率大幅提升",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306826",
+      "title": "小米澎程N90：7座智能SUV，大家庭出行新选择",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/306823",
+      "title": "超10亿战略增资落地！启境汽车完成混改，告别单一国资体系",
+      "source": "第一电动",
+      "pushedAt": 1784022938861
     }
   ],
   "lastUpdated": "2026-07-14"
