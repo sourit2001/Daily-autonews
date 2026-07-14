@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304566",
-    "https://www.d1ev.com/newsflash/304565",
-    "https://www.d1ev.com/newsflash/304609",
-    "https://www.d1ev.com/newsflash/304605",
-    "https://www.d1ev.com/newsflash/304604",
-    "https://www.d1ev.com/news/shichang/304601",
-    "https://www.d1ev.com/news/qiye/304599",
-    "https://www.d1ev.com/newsflash/304598",
-    "https://www.d1ev.com/newsflash/304596",
-    "https://www.d1ev.com/newsflash/304592",
     "https://www.d1ev.com/newsflash/304591",
     "https://www.d1ev.com/news/shichang/304589",
     "https://www.d1ev.com/news/shichang/304588",
@@ -1999,171 +1989,19 @@
     "https://www.d1ev.com/newsflash/306840",
     "https://www.d1ev.com/newsflash/306828",
     "https://www.d1ev.com/newsflash/306826",
-    "https://www.d1ev.com/news/qiye/306823"
+    "https://www.d1ev.com/news/qiye/306823",
+    "https://www.d1ev.com/newsflash/306849",
+    "https://www.d1ev.com/news/shichang/306853",
+    "https://www.d1ev.com/newsflash/306850",
+    "https://www.d1ev.com/newsflash/306848",
+    "https://www.d1ev.com/newsflash/306847",
+    "https://www.d1ev.com/newsflash/306846",
+    "https://www.d1ev.com/newsflash/306844",
+    "https://www.d1ev.com/newsflash/306852",
+    "https://www.d1ev.com/news/shichang/306845",
+    "https://www.d1ev.com/newsflash/306851"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/305924",
-      "title": "北京越野泰钽700首发亮相，华为乾崑智驾加持高端越野体验",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305923",
-      "title": "极星Polestar 4 SUV 9月2日亮相，续航超600公里挑战特斯拉Model Y",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305922",
-      "title": "小米澎程新车亮相：电动露营车顶帐篷，1500公里超长续航！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305917",
-      "title": "岚图追光S四激光驾趣SUV 7月下旬预售开启，华为技术加持！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305913",
-      "title": "极星4 SUV 9月2日亮相，续航超600公里挑战特斯拉Model Y",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/305912",
-      "title": "英国6月新车销量同比增11.4% 创2019年后同期新高",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305921",
-      "title": "Momenta自动驾驶量产突破百万台，携手奔驰宝马奥迪等品牌",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305918",
-      "title": "美国市场最低价电动皮卡！Slate BlankSlate起售价仅2.5万美元",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305916",
-      "title": "中国AI模型性能赶超美国，成本优势显著吸引美企青睐",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305914",
-      "title": "深圳新能源车销量占比超七成，全国领先！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305910",
-      "title": "日本进口车销量下滑，比亚迪电动车逆势增长40%",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305906",
-      "title": "燃油车占充电位被锁，杭州车主支付百元解锁费引发争议",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305905",
-      "title": "特斯拉App升级：FSD自动驾驶状态实时监控，未来出行更智能！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305904",
-      "title": "美国CISA启用AI公司Anthropic大模型Mythos审计政府软件安全漏洞",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305903",
-      "title": "工信部辟谣：新能源车智驾芯片自主化率70%新规不实",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305901",
-      "title": "马来西亚新政严控电动车进口，中国品牌面临挑战",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305900",
-      "title": "腾讯AI应用“吐司”上线：无代码也能创造App，共创生态开启！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305898",
-      "title": "工信部辟谣：新能源车芯片自主化率70%新规不实！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305920",
-      "title": "奇瑞半年出口超94万辆，连续刷新中国汽车出口纪录！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305915",
-      "title": "联合国秘书长呼吁全球管控人工智能：安全、人权、容量、透明四大优先事项",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305919",
-      "title": "沃尔沃新老车型升级：Apple Music无广告音乐体验来袭",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/305911",
-      "title": "在20万级六座SUV赛道，华境S站住了？",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305909",
-      "title": "农业无人机迈入全自动化时代，极飞科技X系列新品发布",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305908",
-      "title": "“蔚来智能驾驶升级：城区领航里程激增65.4%，超70万用户受益”",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/305907",
-      "title": "本田推迟收购安斯泰莫",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/305902",
-      "title": "丰田和本田上半年在华销量双双下滑",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/305899",
-      "title": "新加坡南洋理工打造蟑螂潜水服，水下存活3小时创纪录！",
-      "source": "第一电动",
-      "pushedAt": 1783421619860
-    },
     {
       "url": "https://www.d1ev.com/newsflash/305935",
       "title": "华为鸿蒙智行G9预热，问界M9Ultimate内饰曝光，8月交付先行者",
@@ -7155,6 +6993,66 @@
       "title": "超10亿战略增资落地！启境汽车完成混改，告别单一国资体系",
       "source": "第一电动",
       "pushedAt": 1784022938861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306849",
+      "title": "埃安RT升级版8月上市，百公里电耗降至8.571kWh，续航提升！",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306853",
+      "title": "黑芝麻智能完成收购亿智电子，端侧AI战略全面加速",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306850",
+      "title": "爱诗科技C轮融资29.8亿 国产AI视频加速全球布局",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306848",
+      "title": "鸿蒙智行享界G9获北京L3自动驾驶牌照，120km/h高速自动驾驶来袭",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306847",
+      "title": "腾讯Hy3模型开源升级：1bit量化让旗舰AI模型单卡跑",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306846",
+      "title": "AI生成图片获奖？呼和浩特摄影赛一等奖作品被取消资格",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306844",
+      "title": "享界G9获北京L3自动驾驶牌照，华为电机加持续航超1300公里",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306852",
+      "title": "奥迪告别全球车战略，双支柱战略发力中国市场",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306845",
+      "title": "全球首款可变形个人形机器人正式发布！",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306851",
+      "title": "广汽华为合作启境汽车增资10亿，首车GT7发布24小时订单破5200台",
+      "source": "第一电动",
+      "pushedAt": 1784028122177
     }
   ],
   "lastUpdated": "2026-07-14"
