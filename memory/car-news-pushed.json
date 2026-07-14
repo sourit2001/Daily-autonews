@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304591",
-    "https://www.d1ev.com/news/shichang/304589",
-    "https://www.d1ev.com/news/shichang/304588",
-    "https://www.d1ev.com/newsflash/304585",
-    "https://www.d1ev.com/newsflash/304575",
-    "https://www.d1ev.com/newsflash/304574",
-    "https://www.d1ev.com/newsflash/304572",
-    "https://www.d1ev.com/newsflash/304570",
     "https://www.d1ev.com/news/shichang/304569",
     "https://www.d1ev.com/newsflash/304568",
     "https://www.d1ev.com/newsflash/304567",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/newsflash/306844",
     "https://www.d1ev.com/newsflash/306852",
     "https://www.d1ev.com/news/shichang/306845",
-    "https://www.d1ev.com/newsflash/306851"
+    "https://www.d1ev.com/newsflash/306851",
+    "https://www.d1ev.com/newsflash/306861",
+    "https://www.d1ev.com/newsflash/306860",
+    "https://www.d1ev.com/newsflash/306859",
+    "https://www.d1ev.com/newsflash/306858",
+    "https://www.d1ev.com/newsflash/306855",
+    "https://www.d1ev.com/news/shichang/306854",
+    "https://www.d1ev.com/newsflash/306856",
+    "https://www.d1ev.com/newsflash/306857"
   ],
   "newsHistory": [
     {
@@ -7053,6 +7053,54 @@
       "title": "广汽华为合作启境汽车增资10亿，首车GT7发布24小时订单破5200台",
       "source": "第一电动",
       "pushedAt": 1784028122177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306861",
+      "title": "阿维塔07L携电子萌宠“塔可”亮相，7月17日开启预售！",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306860",
+      "title": "理想L6全新升级：更大电池更长续航，全能四驱体验升级！",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306859",
+      "title": "DeepSeek再融资710亿美元估值，剑指数据中心与AI芯片建设",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306858",
+      "title": "阿里云百炼平台GLM-5.2模型降价20%，AI助手速度提升至100TPS",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306855",
+      "title": "18岁少年徒手拆电池救车祸被困者，极核AE8电摩成救援利器",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/306854",
+      "title": "千里科技携手阶跃，将大模型引入车端",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306856",
+      "title": "2026年Q2全球智能手机出货量创9年新低，消费者购买更谨慎",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/306857",
+      "title": "沈阳比亚迪唐涉水后电机脱落，官方回应非质量问题",
+      "source": "第一电动",
+      "pushedAt": 1784035246249
     }
   ],
   "lastUpdated": "2026-07-14"
