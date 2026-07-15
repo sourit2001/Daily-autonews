@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304803",
     "https://www.d1ev.com/carnews/xinche/304801",
     "https://www.d1ev.com/carnews/xinche/304800",
     "https://www.d1ev.com/news/qiye/304797",
@@ -1999,57 +1998,10 @@
     "https://www.d1ev.com/newsflash/307033",
     "https://www.d1ev.com/newsflash/307038",
     "https://www.d1ev.com/news/qiye/307037",
-    "https://www.d1ev.com/newsflash/307036"
+    "https://www.d1ev.com/newsflash/307036",
+    "https://www.d1ev.com/newsflash/307040"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306108",
-      "title": "鸿蒙智行尊界SUV谍照曝光，V800设计延续，豪华矩阵即将成型",
-      "source": "第一电动",
-      "pushedAt": 1783526369939
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306111",
-      "title": "比亚迪海豹08下线，1700万辆新能源车里程碑达成！",
-      "source": "第一电动",
-      "pushedAt": 1783526369939
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306110",
-      "title": "吉利银河A7EM创纪录：插混轿车续航2600公里仅需8.98万起",
-      "source": "第一电动",
-      "pushedAt": 1783526369939
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306109",
-      "title": "2026上半年国内乘用车销量大跌20.2%，新能源车市仍坚挺",
-      "source": "第一电动",
-      "pushedAt": 1783526369939
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306107",
-      "title": "字节发布多模态图像创作模型Seedream5.0Pro：交互式精准编辑+图层分离",
-      "source": "第一电动",
-      "pushedAt": 1783526369939
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306112",
-      "title": "小米澎程SUV内饰曝光：悬浮中岛设计，增程混动新选择",
-      "source": "第一电动",
-      "pushedAt": 1783532437857
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306113",
-      "title": "鸿蒙智行乾崑智驾半年数据亮眼：辅助驾驶成日常出行新选择",
-      "source": "第一电动",
-      "pushedAt": 1783532437857
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306114",
-      "title": "鸿蒙智行6月销量破5万，问界M9夺50万级销冠",
-      "source": "第一电动",
-      "pushedAt": 1783532437857
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306115",
       "title": "AI对话革命！OpenAI发布GPT-Live系列模型，让AI聊天更真人化",
@@ -7095,7 +7047,13 @@
       "title": "三星钱包数字车钥匙再升级，支持上汽大众ID.ERA9X车型无感解锁",
       "source": "第一电动",
       "pushedAt": 1784128953050
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307040",
+      "title": "比亚迪智驾系统销量破333万，6月单月销量超17万",
+      "source": "第一电动",
+      "pushedAt": 1784156004728
     }
   ],
-  "lastUpdated": "2026-07-15"
+  "lastUpdated": "2026-07-16"
 }
