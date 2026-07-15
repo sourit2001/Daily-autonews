@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/304765",
-    "https://www.d1ev.com/newsflash/304762",
-    "https://www.d1ev.com/newsflash/304774",
-    "https://www.d1ev.com/newsflash/304773",
-    "https://www.d1ev.com/newsflash/304778",
-    "https://www.d1ev.com/newsflash/304777",
     "https://www.d1ev.com/newsflash/304776",
     "https://www.d1ev.com/newsflash/304775",
     "https://www.d1ev.com/newsflash/304820",
@@ -1999,7 +1993,13 @@
     "https://www.d1ev.com/newsflash/307012",
     "https://www.d1ev.com/newsflash/307011",
     "https://www.d1ev.com/newsflash/307010",
-    "https://www.d1ev.com/newsflash/307007"
+    "https://www.d1ev.com/newsflash/307007",
+    "https://www.d1ev.com/newsflash/307029",
+    "https://www.d1ev.com/newsflash/307027",
+    "https://www.d1ev.com/newsflash/307025",
+    "https://www.d1ev.com/newsflash/307030",
+    "https://www.d1ev.com/newsflash/307028",
+    "https://www.d1ev.com/newsflash/307026"
   ],
   "newsHistory": [
     {
@@ -7167,6 +7167,42 @@
       "title": "比亚迪辅助驾驶车型销量破333万，六月销量超17万",
       "source": "第一电动",
       "pushedAt": 1784115774514
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307029",
+      "title": "东风汽车突破：2400MPa超高强钢件首发，车身更安全稳定",
+      "source": "第一电动",
+      "pushedAt": 1784121869393
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307027",
+      "title": "华为深度参与制定全球首部自动驾驶法规，推动智能汽车产业升级",
+      "source": "第一电动",
+      "pushedAt": 1784121869393
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307025",
+      "title": "中国品牌强势霸榜！全球新能源车销量前十占八席",
+      "source": "第一电动",
+      "pushedAt": 1784121869393
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307030",
+      "title": "比亚迪加速欧洲扩张，目标五年内超越丰田成全球销量冠军",
+      "source": "第一电动",
+      "pushedAt": 1784121869393
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307028",
+      "title": "豪车二手市场“跳水”：百万级车型降价百万，车商直呼“扛不住”",
+      "source": "第一电动",
+      "pushedAt": 1784121869393
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307026",
+      "title": "比亚迪方程豹推定制化交车服务，销量破5万成新势力TOP3",
+      "source": "第一电动",
+      "pushedAt": 1784121869393
     }
   ],
   "lastUpdated": "2026-07-15"
