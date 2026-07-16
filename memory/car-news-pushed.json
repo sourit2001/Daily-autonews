@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/304990",
-    "https://www.d1ev.com/newsflash/304988",
-    "https://www.d1ev.com/news/shichang/304986",
-    "https://www.d1ev.com/news/shichang/304983",
-    "https://www.d1ev.com/newsflash/304980",
-    "https://www.d1ev.com/newsflash/304978",
-    "https://www.d1ev.com/news/shichang/304977",
-    "https://www.d1ev.com/newsflash/304973",
-    "https://www.d1ev.com/news/shichang/304970",
-    "https://www.d1ev.com/news/shichang/304969",
-    "https://www.d1ev.com/news/shichang/304968",
     "https://www.d1ev.com/newsflash/304963",
     "https://www.d1ev.com/news/shichang/304961",
     "https://www.d1ev.com/news/shichang/304960",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/307223",
     "https://www.d1ev.com/newsflash/307220",
     "https://www.d1ev.com/newsflash/307219",
-    "https://www.d1ev.com/newsflash/307206"
+    "https://www.d1ev.com/newsflash/307206",
+    "https://www.d1ev.com/newsflash/307239",
+    "https://www.d1ev.com/newsflash/307232",
+    "https://www.d1ev.com/newsflash/307238",
+    "https://www.d1ev.com/newsflash/307236",
+    "https://www.d1ev.com/newsflash/307233",
+    "https://www.d1ev.com/news/qiye/307241",
+    "https://www.d1ev.com/news/qiye/307242",
+    "https://www.d1ev.com/newsflash/307240",
+    "https://www.d1ev.com/newsflash/307237",
+    "https://www.d1ev.com/newsflash/307235",
+    "https://www.d1ev.com/newsflash/307234"
   ],
   "newsHistory": [
     {
@@ -7275,7 +7275,73 @@
       "title": "小鹏X9空气弹簧质保升级：8年或16万公里无忧保障",
       "source": "第一电动",
       "pushedAt": 1784216287610
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307239",
+      "title": "小鹏MONAL03上市7分钟订单破2万，增程版8月交付",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307232",
+      "title": "小鹏MONAL03上市1小时订单破4万6，12.38万起售！",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307238",
+      "title": "华为乾崑智驾算力飙升20倍，未来5年投入700亿研发",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307236",
+      "title": "华为乾崑智驾ADS5升级：190万台搭载量，200亿公里辅助驾驶在即",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307233",
+      "title": "24.98万！理想L6升级来袭：续航300km+骁龙8797芯片+四激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307241",
+      "title": "使用寿命高达30年！宁德时 代拿下欧洲最大钠离子储能系统",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307242",
+      "title": "喊话友商明年才能追上 零跑曹力：我们实力够强 不能再低了",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307240",
+      "title": "华为智能汽车解决方案突破190万台，助力车企伙伴迈向新里程碑",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307237",
+      "title": "重庆高温考验小鹏X9，空气悬架故障频发，官方紧急升级质保方案",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307235",
+      "title": "智己汽车多地门店爆雷，车主维权难，员工欠薪苦",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307234",
+      "title": "中国无人驾驶车首次进军中亚！百度萝卜快跑与哈萨克斯坦TPH达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1784221740382
     }
   ],
-  "lastUpdated": "2026-07-16"
+  "lastUpdated": "2026-07-17"
 }
