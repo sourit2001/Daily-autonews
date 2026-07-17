@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305198",
-    "https://www.d1ev.com/newsflash/305189",
-    "https://www.d1ev.com/newsflash/305188",
-    "https://www.d1ev.com/newsflash/305186",
-    "https://www.d1ev.com/news/shichang/305182",
-    "https://www.d1ev.com/newsflash/305214",
-    "https://www.d1ev.com/newsflash/305210",
-    "https://www.d1ev.com/newsflash/305209",
-    "https://www.d1ev.com/news/shichang/305208",
-    "https://www.d1ev.com/newsflash/305205",
-    "https://www.d1ev.com/newsflash/305203",
-    "https://www.d1ev.com/news/shichang/305200",
-    "https://www.d1ev.com/newsflash/305199",
-    "https://www.d1ev.com/newsflash/305193",
     "https://www.d1ev.com/newsflash/305181",
     "https://www.d1ev.com/newsflash/305178",
     "https://www.d1ev.com/newsflash/305174",
@@ -1999,7 +1985,21 @@
     "https://www.d1ev.com/newsflash/307381",
     "https://www.d1ev.com/newsflash/307388",
     "https://www.d1ev.com/newsflash/307382",
-    "https://www.d1ev.com/news/shichang/307386"
+    "https://www.d1ev.com/news/shichang/307386",
+    "https://www.d1ev.com/newsflash/307406",
+    "https://www.d1ev.com/newsflash/307405",
+    "https://www.d1ev.com/carnews/xinche/307404",
+    "https://www.d1ev.com/news/qiye/307403",
+    "https://www.d1ev.com/news/qiye/307402",
+    "https://www.d1ev.com/newsflash/307399",
+    "https://www.d1ev.com/news/shichang/307398",
+    "https://www.d1ev.com/news/shichang/307397",
+    "https://www.d1ev.com/newsflash/307408",
+    "https://www.d1ev.com/newsflash/307407",
+    "https://www.d1ev.com/newsflash/307396",
+    "https://www.d1ev.com/newsflash/307395",
+    "https://www.d1ev.com/newsflash/307401",
+    "https://www.d1ev.com/carnews/xinche/307400"
   ],
   "newsHistory": [
     {
@@ -7341,6 +7341,90 @@
       "title": "智己陷入经销商风波，该如何兜底？",
       "source": "第一电动",
       "pushedAt": 1784287172180
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307406",
+      "title": "光模块巨头中际旭创全球市占率超23%，A+H股上市更进一步",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307405",
+      "title": "阿维塔07L预售开启，24.99万起享多重权益，8月8日上市！",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/307404",
+      "title": "阿维塔07L开启预售 预售价24.99万起",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307403",
+      "title": "补齐续航智驾全短板，全新理想L6 24.98万上市",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307402",
+      "title": "五菱星光L正式上市，10.98万元起，纯电续航260km",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307399",
+      "title": "阿维塔07L大五座SUV预售开启，张凌赫代言，24.99万起！",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307398",
+      "title": "零次方机器人亮相WAIC",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307397",
+      "title": "瑞芯微亮相WAIC2026：端侧 AI 领跑者，成熟方案全面落地",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307408",
+      "title": "“10分钟上手！BrainCo发布全球首个脑控机器人AI科研平台”",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307407",
+      "title": "微软AI新突破：感知项目或本月发布，智能识别修复软件漏洞",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307396",
+      "title": "本田电动SUV Prologue销量惨淡，2026年后停产",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307395",
+      "title": "中国AI终端智能化分级首批测试结果公布，华为联想多款产品获高评级",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307401",
+      "title": "中国电车强势出海，欧洲车企为何避战不降价？",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/307400",
+      "title": "“懒人经济”融入汽车圈：一套智能化体系，撑起车主的“松弛感”",
+      "source": "第一电动",
+      "pushedAt": 1784294170734
     }
   ],
   "lastUpdated": "2026-07-17"
