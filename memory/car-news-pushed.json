@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305181",
-    "https://www.d1ev.com/newsflash/305178",
-    "https://www.d1ev.com/newsflash/305174",
-    "https://www.d1ev.com/newsflash/305172",
-    "https://www.d1ev.com/newsflash/305207",
-    "https://www.d1ev.com/newsflash/305206",
-    "https://www.d1ev.com/newsflash/305201",
     "https://www.d1ev.com/newsflash/305180",
     "https://www.d1ev.com/newsflash/305179",
     "https://www.d1ev.com/newsflash/305211",
@@ -1999,87 +1992,16 @@
     "https://www.d1ev.com/newsflash/307396",
     "https://www.d1ev.com/newsflash/307395",
     "https://www.d1ev.com/newsflash/307401",
-    "https://www.d1ev.com/carnews/xinche/307400"
+    "https://www.d1ev.com/carnews/xinche/307400",
+    "https://www.d1ev.com/newsflash/307417",
+    "https://www.d1ev.com/newsflash/307413",
+    "https://www.d1ev.com/news/shichang/307411",
+    "https://www.d1ev.com/newsflash/307416",
+    "https://www.d1ev.com/newsflash/307412",
+    "https://www.d1ev.com/newsflash/307415",
+    "https://www.d1ev.com/news/qiye/307414"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306446",
-      "title": "吉利战舰700硬派SUV亮相：插混动力+三电机四驱，综合功率830千瓦",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306443",
-      "title": "小米澎程N90亮相：智能可变空间SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306442",
-      "title": "比亚迪海鸥纯电动轿车申报：最高150km/h，可选装激光雷达",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306441",
-      "title": "比亚迪仰望品牌四款新车亮相古德伍德速度节，U7横跨亚欧大陆15000公里惊艳登场",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306439",
-      "title": "哈弗H6LHi2混合动力SUV亮相：汽油电混、最高时速180km/h",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/306437",
-      "title": "大众安徽首款B级智能纯电轿跑“与众09”��成工信部申报",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306436",
-      "title": "比亚迪鲨鱼皮卡国内上市！豪华智能硬派新能源皮卡来袭",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306444",
-      "title": "MiniMax拟融资160亿港元，80%投入AI基础设施及大模型研发",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306440",
-      "title": "国产AI巨头MiniMax融资160亿港元 创始人AGI前不领薪",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306435",
-      "title": "大众集团大刀阔斧重组：全球裁员或达12万，车型阵容削减50%",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306433",
-      "title": "宝马全球销量下滑，中国市场降幅超两成",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306445",
-      "title": "大众汽车大刀阔斧：产品线砍半 产能降至900万辆",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306434",
-      "title": "腾讯混元Hy3模型上线引发算力挤兑，智能体能力大提升",
-      "source": "第一电动",
-      "pushedAt": 1783692638031
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306455",
       "title": "小米澎程SUV亮相：25万起售，增程动力+房车配置震撼登场",
@@ -7425,6 +7347,48 @@
       "title": "“懒人经济”融入汽车圈：一套智能化体系，撑起车主的“松弛感”",
       "source": "第一电动",
       "pushedAt": 1784294170734
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307417",
+      "title": "印度首例！乙醇汽油致损车主胜诉，马鲁蒂铃木需赔20万或换新车",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307413",
+      "title": "蔚来芯片子公司神玑技术亮相WAIC，发布AI新产品布局多场景芯片平台",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307411",
+      "title": "普渡机器人亮相WAIC 2026，“一脑多形”构建面向未来的机器人智能底座",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307416",
+      "title": "“智能体共创计划”启动：国产超算互联网助力AI创新加速",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307412",
+      "title": "红旗H7PHEV盲订开启：99元升级万元智能驾驶 续航超1500km",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307415",
+      "title": "云南珠海智己汽车经销商经营异常，用户款项难退，品牌承诺兜底",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307414",
+      "title": "网友偶遇雷军上车坐进小米澎程：二排空间大到离谱",
+      "source": "第一电动",
+      "pushedAt": 1784300997069
     }
   ],
   "lastUpdated": "2026-07-17"
