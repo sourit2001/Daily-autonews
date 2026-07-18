@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/305297",
-    "https://www.d1ev.com/news/shichang/305290",
-    "https://www.d1ev.com/news/shichang/305287",
-    "https://www.d1ev.com/newsflash/305277",
-    "https://www.d1ev.com/news/shichang/305311",
-    "https://www.d1ev.com/news/qiye/305310",
-    "https://www.d1ev.com/newsflash/305304",
     "https://www.d1ev.com/newsflash/305302",
     "https://www.d1ev.com/carnews/xinche/305296",
     "https://www.d1ev.com/news/shichang/305294",
@@ -1999,153 +1992,16 @@
     "https://www.d1ev.com/newsflash/307491",
     "https://www.d1ev.com/newsflash/307489",
     "https://www.d1ev.com/newsflash/307498",
-    "https://www.d1ev.com/newsflash/307496"
+    "https://www.d1ev.com/newsflash/307496",
+    "https://www.d1ev.com/news/shichang/307511",
+    "https://www.d1ev.com/newsflash/307509",
+    "https://www.d1ev.com/newsflash/307506",
+    "https://www.d1ev.com/news/shichang/307510",
+    "https://www.d1ev.com/news/shichang/307508",
+    "https://www.d1ev.com/news/shichang/307507",
+    "https://www.d1ev.com/newsflash/307505"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306501",
-      "title": "小米澎程N90MAX亮相工信部：石墨灰车身，7座增程混动SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306498",
-      "title": "岚图梦想家9官图发布，挑战50万级豪华新能源MPV市场",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306496",
-      "title": "长安启源Q06纯电SUV内饰曝光，9月上市搭载245kW电机",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306495",
-      "title": "一汽-大众ID.AURAT6纯电动多用途乘用车亮相工信部公告",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306493",
-      "title": "奇瑞星途ES因台风推迟上市，万元现金减免等补偿措施出炉",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306492",
-      "title": "长安启源A05L纯电动轿车亮相：200kW动力+磷酸铁锂电",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306491",
-      "title": "极狐阿尔法T7亮相：华为智驾+宁德电池，动力强劲！",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/306482",
-      "title": "奇瑞风云A9开启预售，11.59万元起，搭载3nm座舱芯片+猎鹰智驾",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306476",
-      "title": "奇瑞iCar V25亮相：科技时尚轻旗舰SUV，1.5T增程混动系统",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306500",
-      "title": "东风风神新能源三车齐发，SUV市场新势力来袭！",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306499",
-      "title": "全球首座涉氢三高环境风洞武汉启用，助力新能源汽车研发提速降本",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306494",
-      "title": "GPT-5.6Sol超越GPT-5.5，AI自主后训练能力提升16.2%！",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306484",
-      "title": "小鹏增程车续航破千公里！六款车型实测超1100公里",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306483",
-      "title": "比亚迪唐EV全新升级：300kW动力+超长续航，20万起售！",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306480",
-      "title": "OpenAI安全系统负责人海德克离职，研究与安全团队整合加速",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306479",
-      "title": "Meta AI检测工具现漏洞：裁剪图片后无法识别AI来源",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306478",
-      "title": "SK海力士联手TetraMem打造高能效AI芯片，2.54TOPS算力革新边缘计算",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306486",
-      "title": "谷歌发布SensorFM：全球500万数据预训练，34项健康任务领先",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306481",
-      "title": "吉利星瑞LPLUS全球首秀，斩获双奖引领东方美学新潮流",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306477",
-      "title": "吉利星瑞LPLUS全球首秀：东方美学设计，智能升级新体验",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306497",
-      "title": "埃安RT破纪录：环岛高速百公里仅8.571度电！",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306488",
-      "title": "抖音重拳出击：2.34万条违规动画下架，1300个账号遭处置",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306487",
-      "title": "小米汽车限时特惠：现车两小时提车，最高6.1万权益等你拿！",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306485",
-      "title": "芝加哥大学法学院新规：新生上课禁用笔记本，培养独立思考能力",
-      "source": "第一电动",
-      "pushedAt": 1783761752412
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306503",
       "title": "理想L6新色“风信紫”亮相，续航升级成本激增1.4万",
@@ -7731,6 +7587,48 @@
       "title": "“曙光8000”首周满载运行，日处理作业数破50万！",
       "source": "第一电动",
       "pushedAt": 1784366333566
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307511",
+      "title": "WAIC 2026 | 做早餐、卖东西、拧螺丝，银河通用多场景技能集中亮相",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307509",
+      "title": "吉利银河TTUltra版预售在即，800V高压平台加持，续航高达725公里！",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307506",
+      "title": "蔚来自研芯片突破：神玑NX9031系列芯片亮相AI大会，累计发货超30万颗",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307510",
+      "title": "星尘智能WAIC落地实录：全栈方案进入蚂蚁、京东、中科创达等真实场景",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307508",
+      "title": "WAIC 2026｜对话AI Agent，直达视频名场面：当虹科技在WAIC重塑人与视频交互新方式",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307507",
+      "title": "深耕物理AI，禾赛在WAIC2026首次展示全球首款AI空间相机Kosmo",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307505",
+      "title": "问界M9纯电续航直播答疑：高温满载下88%达成率真相",
+      "source": "第一电动",
+      "pushedAt": 1784372262686
     }
   ],
   "lastUpdated": "2026-07-18"
