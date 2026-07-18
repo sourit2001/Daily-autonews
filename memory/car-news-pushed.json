@@ -1,23 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305180",
-    "https://www.d1ev.com/newsflash/305179",
-    "https://www.d1ev.com/newsflash/305211",
-    "https://www.d1ev.com/news/shichang/305204",
-    "https://www.d1ev.com/newsflash/305197",
-    "https://www.d1ev.com/news/shichang/305196",
-    "https://www.d1ev.com/news/qiye/305195",
-    "https://www.d1ev.com/news/qiye/305194",
-    "https://www.d1ev.com/carnews/xinche/305192",
-    "https://www.d1ev.com/news/shichang/305191",
-    "https://www.d1ev.com/newsflash/305190",
-    "https://www.d1ev.com/newsflash/305187",
-    "https://www.d1ev.com/newsflash/305185",
-    "https://www.d1ev.com/news/shichang/305184",
-    "https://www.d1ev.com/news/shichang/305183",
-    "https://www.d1ev.com/newsflash/305176",
-    "https://www.d1ev.com/newsflash/305173",
-    "https://www.d1ev.com/newsflash/305231",
     "https://www.d1ev.com/newsflash/305233",
     "https://www.d1ev.com/newsflash/305232",
     "https://www.d1ev.com/newsflash/305235",
@@ -1999,33 +1981,27 @@
     "https://www.d1ev.com/newsflash/307416",
     "https://www.d1ev.com/newsflash/307412",
     "https://www.d1ev.com/newsflash/307415",
-    "https://www.d1ev.com/news/qiye/307414"
+    "https://www.d1ev.com/news/qiye/307414",
+    "https://www.d1ev.com/newsflash/307437",
+    "https://www.d1ev.com/newsflash/307433",
+    "https://www.d1ev.com/carnews/xinche/307429",
+    "https://www.d1ev.com/newsflash/307438",
+    "https://www.d1ev.com/newsflash/307436",
+    "https://www.d1ev.com/newsflash/307434",
+    "https://www.d1ev.com/newsflash/307432",
+    "https://www.d1ev.com/newsflash/307431",
+    "https://www.d1ev.com/newsflash/307428",
+    "https://www.d1ev.com/newsflash/307427",
+    "https://www.d1ev.com/news/shichang/307443",
+    "https://www.d1ev.com/news/shichang/307442",
+    "https://www.d1ev.com/newsflash/307441",
+    "https://www.d1ev.com/newsflash/307440",
+    "https://www.d1ev.com/newsflash/307439",
+    "https://www.d1ev.com/news/qiye/307435",
+    "https://www.d1ev.com/newsflash/307430",
+    "https://www.d1ev.com/newsflash/307426"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306455",
-      "title": "小米澎程SUV亮相：25万起售，增程动力+房车配置震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1783705385246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306456",
-      "title": "小米澎程SUV：超500公里纯电续航，全地形极限测试！",
-      "source": "第一电动",
-      "pushedAt": 1783705385246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306454",
-      "title": "华为智驾神操作：遇电线树枝障碍，自动转向避险",
-      "source": "第一电动",
-      "pushedAt": 1783705385246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306457",
-      "title": "享界G9露营神器：一键展开天幕帐篷，全尺寸SUV新体验",
-      "source": "第一电动",
-      "pushedAt": 1783705385246
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306473",
       "title": "奇瑞iCAR V25官图曝光：科技时尚轻旗舰SUV搭载激光雷达",
@@ -7389,7 +7365,115 @@
       "title": "网友偶遇雷军上车坐进小米澎程：二排空间大到离谱",
       "source": "第一电动",
       "pushedAt": 1784300997069
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307437",
+      "title": "鸿蒙智行享界G9亮相：全尺寸SUV搭载华为激光雷达，续航超700公里",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307433",
+      "title": "智界RX电动SUV亮相：续航超700km，华为电驱加持，运动化设计抢眼",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/307429",
+      "title": "千匹猛兽登场 AMG GT四门纯电跑车新车图解",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307438",
+      "title": "谷歌员工联名请愿：要求保障AI裁员权益，改革绩效考核",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307436",
+      "title": "OpenAI紧急修复GPT-5.6Sol误删文件漏洞，用户数据安全升级",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307434",
+      "title": "小米澎程SUV续航超500km，一周一充无焦虑",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307432",
+      "title": "AI行业面临暴力威胁：高管出行需武装保镖随行",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307431",
+      "title": "华为昇腾950超节点获WAIC最高荣誉，展现AI新高度",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307428",
+      "title": "SpaceX拟向五角大楼提供数十亿美元AI算力，深化军事合作",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307427",
+      "title": "英伟达开源Nemotron3Embed系列AI模型，助力智能检索与生成",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307443",
+      "title": "孔辉科技发布声明",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307442",
+      "title": "驰援重庆彭水灾区 赛力斯集团捐赠1000万元",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307441",
+      "title": "Meta与Anthropic拟签百亿美元算力租赁大单",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307440",
+      "title": "小鹏X9空气悬架故障频发，孔辉科技回应国产技术实力",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307439",
+      "title": "宝马推出ChatGPT选车助手，自然对话定制梦想座驾",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307435",
+      "title": "宝马终于扛不住了：向中国市场低头!",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307430",
+      "title": "“博世总裁揭秘：中国汽车业曾因缺芯最赚钱，现面临价格战困局”",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307426",
+      "title": "沃尔沃下半年销量有望反弹，两款新电气化车型即将发布",
+      "source": "第一电动",
+      "pushedAt": 1784339836598
     }
   ],
-  "lastUpdated": "2026-07-17"
+  "lastUpdated": "2026-07-18"
 }
