@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/305273",
     "https://www.d1ev.com/newsflash/305352",
     "https://www.d1ev.com/newsflash/305348",
     "https://www.d1ev.com/newsflash/305345",
@@ -1999,39 +1998,10 @@
     "https://www.d1ev.com/newsflash/307520",
     "https://www.d1ev.com/newsflash/307518",
     "https://www.d1ev.com/newsflash/307521",
-    "https://www.d1ev.com/newsflash/307519"
+    "https://www.d1ev.com/newsflash/307519",
+    "https://www.d1ev.com/newsflash/307531"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306515",
-      "title": "小鹏G9L申报亮相：双电机430kW动力，磷酸铁锂电池加持！",
-      "source": "第一电动",
-      "pushedAt": 1783781208766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306514",
-      "title": "吉利银河TTUltra全球竞速版亮相：特罗姆瑟蓝配色+800V高压平台",
-      "source": "第一电动",
-      "pushedAt": 1783781208766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306517",
-      "title": "K2.7Code高速版上线：编程速度提升5倍，会员免费用！",
-      "source": "第一电动",
-      "pushedAt": 1783781208766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306516",
-      "title": "日本三大车企在华销量全线下滑，本田连续29个月负增长",
-      "source": "第一电动",
-      "pushedAt": 1783781208766
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306513",
-      "title": "比亚迪豪华超跑“腾势Z”登陆英国市场 起售价130万元",
-      "source": "第一电动",
-      "pushedAt": 1783781208766
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/306536",
       "title": "比亚迪腾势N8官图曝光 大五座纯电豪华SUV",
@@ -7629,7 +7599,13 @@
       "title": "孔辉科技力证国产空气悬架：累计交付147万台无批量漏气故障",
       "source": "第一电动",
       "pushedAt": 1784385944956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307531",
+      "title": "锂电池免税政策终结，新能源汽车成本或增1%",
+      "source": "第一电动",
+      "pushedAt": 1784393442389
     }
   ],
-  "lastUpdated": "2026-07-18"
+  "lastUpdated": "2026-07-19"
 }
