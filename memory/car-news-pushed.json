@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305302",
-    "https://www.d1ev.com/carnews/xinche/305296",
-    "https://www.d1ev.com/news/shichang/305294",
-    "https://www.d1ev.com/news/shichang/305292",
-    "https://www.d1ev.com/news/shichang/305291",
-    "https://www.d1ev.com/newsflash/305285",
     "https://www.d1ev.com/newsflash/305284",
     "https://www.d1ev.com/news/qiye/305282",
     "https://www.d1ev.com/newsflash/305280",
@@ -1999,39 +1993,15 @@
     "https://www.d1ev.com/news/shichang/307510",
     "https://www.d1ev.com/news/shichang/307508",
     "https://www.d1ev.com/news/shichang/307507",
-    "https://www.d1ev.com/newsflash/307505"
+    "https://www.d1ev.com/newsflash/307505",
+    "https://www.d1ev.com/newsflash/307517",
+    "https://www.d1ev.com/carnews/xinche/307516",
+    "https://www.d1ev.com/newsflash/307515",
+    "https://www.d1ev.com/newsflash/307514",
+    "https://www.d1ev.com/newsflash/307513",
+    "https://www.d1ev.com/newsflash/307512"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306503",
-      "title": "理想L6新色“风信紫”亮相，续航升级成本激增1.4万",
-      "source": "第一电动",
-      "pushedAt": 1783767565238
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306504",
-      "title": "AI技术重现千年壁画风采：山西大云院壁画焕新颜",
-      "source": "第一电动",
-      "pushedAt": 1783767565238
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306506",
-      "title": "比亚迪技术加持，腾势N8豪华SUV重塑市场格局",
-      "source": "第一电动",
-      "pushedAt": 1783767565238
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306505",
-      "title": "中国一汽提前三年完成国7技术储备，红旗混动车型将受益",
-      "source": "第一电动",
-      "pushedAt": 1783767565238
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306502",
-      "title": "台铃携手华为钱包，数字钥匙技术革新两轮出行",
-      "source": "第一电动",
-      "pushedAt": 1783767565238
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306512",
       "title": "广汽启境GT7增程版亮相：1300km续航+华为智驾，20.99万起售",
@@ -7629,6 +7599,42 @@
       "title": "问界M9纯电续航直播答疑：高温满载下88%达成率真相",
       "source": "第一电动",
       "pushedAt": 1784372262686
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307517",
+      "title": "长城H10预售开启：21.48万起，方盒子设计，Hi4混动系统，激光雷达加持！",
+      "source": "第一电动",
+      "pushedAt": 1784379649168
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/307516",
+      "title": "长城H10开启预售 预售价21.98-23.98万元",
+      "source": "第一电动",
+      "pushedAt": 1784379649168
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307515",
+      "title": "广汽埃安AIONS电池故障升级：质保延长至30万公里，免费维修换包",
+      "source": "第一电动",
+      "pushedAt": 1784379649168
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307514",
+      "title": "腾讯副总裁林松涛：AI终端智能伙伴时代来临，2026世界人工智能大会亮点纷呈",
+      "source": "第一电动",
+      "pushedAt": 1784379649168
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307513",
+      "title": "商汤科技发布SenseNovaU1Pro：AI创作8K超清美图新突破",
+      "source": "第一电动",
+      "pushedAt": 1784379649168
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307512",
+      "title": "AI新突破：超节点架构应对数万亿参数挑战",
+      "source": "第一电动",
+      "pushedAt": 1784379649168
     }
   ],
   "lastUpdated": "2026-07-18"
