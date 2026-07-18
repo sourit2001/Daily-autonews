@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305352",
     "https://www.d1ev.com/newsflash/305348",
     "https://www.d1ev.com/newsflash/305345",
     "https://www.d1ev.com/newsflash/305335",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/307518",
     "https://www.d1ev.com/newsflash/307521",
     "https://www.d1ev.com/newsflash/307519",
-    "https://www.d1ev.com/newsflash/307531"
+    "https://www.d1ev.com/newsflash/307531",
+    "https://www.d1ev.com/news/qiye/307532"
   ],
   "newsHistory": [
     {
@@ -7605,6 +7605,12 @@
       "title": "锂电池免税政策终结，新能源汽车成本或增1%",
       "source": "第一电动",
       "pushedAt": 1784393442389
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307532",
+      "title": "方盒子新物种长城H10预售限时权益价21.48万元起",
+      "source": "第一电动",
+      "pushedAt": 1784400862194
     }
   ],
   "lastUpdated": "2026-07-19"
