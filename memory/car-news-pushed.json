@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305284",
-    "https://www.d1ev.com/news/qiye/305282",
-    "https://www.d1ev.com/newsflash/305280",
-    "https://www.d1ev.com/news/shichang/305279",
-    "https://www.d1ev.com/news/shichang/305278",
     "https://www.d1ev.com/news/shichang/305273",
     "https://www.d1ev.com/newsflash/305352",
     "https://www.d1ev.com/newsflash/305348",
@@ -1999,45 +1994,14 @@
     "https://www.d1ev.com/newsflash/307515",
     "https://www.d1ev.com/newsflash/307514",
     "https://www.d1ev.com/newsflash/307513",
-    "https://www.d1ev.com/newsflash/307512"
+    "https://www.d1ev.com/newsflash/307512",
+    "https://www.d1ev.com/news/shichang/307522",
+    "https://www.d1ev.com/newsflash/307520",
+    "https://www.d1ev.com/newsflash/307518",
+    "https://www.d1ev.com/newsflash/307521",
+    "https://www.d1ev.com/newsflash/307519"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306512",
-      "title": "广汽启境GT7增程版亮相：1300km续航+华为智驾，20.99万起售",
-      "source": "第一电动",
-      "pushedAt": 1783775097730
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306511",
-      "title": "长城魏牌V8XEV申报亮相：220km/h极速+双电机动力强",
-      "source": "第一电动",
-      "pushedAt": 1783775097730
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306510",
-      "title": "吉利银河TTUltra全球竞速版亮相：800V高压平台+激光雷达+电动尾翼",
-      "source": "第一电动",
-      "pushedAt": 1783775097730
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306509",
-      "title": "2026长春车展首发：一汽-大众ID.AURAT6内饰曝光，1.8米平整休息空间震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1783775097730
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306508",
-      "title": "小米旗舰SUV澎程N90MAX曝光，30万级大七座即将上市！",
-      "source": "第一电动",
-      "pushedAt": 1783775097730
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306507",
-      "title": "莲花ForMe黑金限量版全球78台售罄，63.8万起超混SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1783775097730
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306515",
       "title": "小鹏G9L申报亮相：双电机430kW动力，磷酸铁锂电池加持！",
@@ -7635,6 +7599,36 @@
       "title": "AI新突破：超节点架构应对数万亿参数挑战",
       "source": "第一电动",
       "pushedAt": 1784379649168
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307522",
+      "title": "WAIC 2026 | 宇泛智能携自研赛博灵宠“灵猫”亮相",
+      "source": "第一电动",
+      "pushedAt": 1784385944956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307520",
+      "title": "广汽埃安AIONS电池故障，中创新航承诺免费维保升级服务",
+      "source": "第一电动",
+      "pushedAt": 1784385944956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307518",
+      "title": "阿里云发布灵骏真武M890：AI算力服务新突破，训练性能提升三倍！",
+      "source": "第一电动",
+      "pushedAt": 1784385944956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307521",
+      "title": "武汉高票当选！蔚来NIODay2026举办城市揭晓",
+      "source": "第一电动",
+      "pushedAt": 1784385944956
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307519",
+      "title": "孔辉科技力证国产空气悬架：累计交付147万台无批量漏气故障",
+      "source": "第一电动",
+      "pushedAt": 1784385944956
     }
   ],
   "lastUpdated": "2026-07-18"
