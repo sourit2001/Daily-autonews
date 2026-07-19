@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305407",
-    "https://www.d1ev.com/news/shichang/305403",
-    "https://www.d1ev.com/news/shichang/305423",
     "https://www.d1ev.com/news/shichang/305431",
     "https://www.d1ev.com/news/shichang/305430",
     "https://www.d1ev.com/news/qiye/305428",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/307611",
     "https://www.d1ev.com/newsflash/307609",
     "https://www.d1ev.com/newsflash/307608",
-    "https://www.d1ev.com/news/shichang/307614"
+    "https://www.d1ev.com/news/shichang/307614",
+    "https://www.d1ev.com/news/qiye/307617",
+    "https://www.d1ev.com/newsflash/307616",
+    "https://www.d1ev.com/newsflash/307615"
   ],
   "newsHistory": [
     {
@@ -7737,6 +7737,24 @@
       "title": "自由去闯 全新坦克300杭州上市售价19.98万起",
       "source": "第一电动",
       "pushedAt": 1784487477558
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307617",
+      "title": "首搭Hi4-Z混动零百4.3秒，全新坦克300上市19.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1784493594566
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307616",
+      "title": "19.98万起！全新坦克300L上市，纯电续航251km，动力升级更强悍",
+      "source": "第一电动",
+      "pushedAt": 1784493594566
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307615",
+      "title": "乐道L90销量破6万！2026款新升级，智能驾驶芯片+豪华内饰",
+      "source": "第一电动",
+      "pushedAt": 1784493594566
     }
   ],
   "lastUpdated": "2026-07-20"
