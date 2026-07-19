@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305412",
     "https://www.d1ev.com/newsflash/305407",
     "https://www.d1ev.com/news/shichang/305403",
     "https://www.d1ev.com/news/shichang/305423",
@@ -1999,33 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/307606",
     "https://www.d1ev.com/newsflash/307611",
     "https://www.d1ev.com/newsflash/307609",
-    "https://www.d1ev.com/newsflash/307608"
+    "https://www.d1ev.com/newsflash/307608",
+    "https://www.d1ev.com/news/shichang/307614"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306577",
-      "title": "大众联手小鹏打造全新智能电动SUV，下半年上市！",
-      "source": "第一电动",
-      "pushedAt": 1783867845973
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306575",
-      "title": "“智能轿跑新标杆！MG07预售在即，840km续航+5秒破百”",
-      "source": "第一电动",
-      "pushedAt": 1783867845973
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306574",
-      "title": "吉利银河TTUltra全球竞速版亮相：800V高压平台+强悍驾控性能",
-      "source": "第一电动",
-      "pushedAt": 1783867845973
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306576",
-      "title": "李斌预测：下半年车市企稳，纯电车型渗透率将超80%",
-      "source": "第一电动",
-      "pushedAt": 1783867845973
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306606",
       "title": "比亚迪秦MAX亮相：B级轿车新旗舰，纯电插混双版本来袭",
@@ -7755,7 +7731,13 @@
       "title": "华为乾崑战略明确：30万以上“界”系列与30万以下“境”系列互补发力",
       "source": "第一电动",
       "pushedAt": 1784472602774
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307614",
+      "title": "自由去闯 全新坦克300杭州上市售价19.98万起",
+      "source": "第一电动",
+      "pushedAt": 1784487477558
     }
   ],
-  "lastUpdated": "2026-07-19"
+  "lastUpdated": "2026-07-20"
 }
