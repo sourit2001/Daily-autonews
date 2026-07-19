@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305329",
-    "https://www.d1ev.com/newsflash/305328",
-    "https://www.d1ev.com/newsflash/305327",
-    "https://www.d1ev.com/newsflash/305326",
-    "https://www.d1ev.com/newsflash/305323",
-    "https://www.d1ev.com/newsflash/305321",
-    "https://www.d1ev.com/newsflash/305315",
-    "https://www.d1ev.com/news/shichang/305340",
-    "https://www.d1ev.com/newsflash/305325",
-    "https://www.d1ev.com/newsflash/305322",
-    "https://www.d1ev.com/news/shichang/305319",
-    "https://www.d1ev.com/news/shichang/305354",
-    "https://www.d1ev.com/newsflash/305353",
-    "https://www.d1ev.com/newsflash/305351",
-    "https://www.d1ev.com/newsflash/305349",
-    "https://www.d1ev.com/news/shichang/305347",
     "https://www.d1ev.com/news/shichang/305346",
     "https://www.d1ev.com/newsflash/305343",
     "https://www.d1ev.com/newsflash/305342",
@@ -1999,123 +1983,25 @@
     "https://www.d1ev.com/newsflash/307536",
     "https://www.d1ev.com/news/qiye/307535",
     "https://www.d1ev.com/newsflash/307533",
-    "https://www.d1ev.com/news/shichang/307534"
+    "https://www.d1ev.com/news/shichang/307534",
+    "https://www.d1ev.com/news/shichang/307560",
+    "https://www.d1ev.com/newsflash/307557",
+    "https://www.d1ev.com/news/shichang/307552",
+    "https://www.d1ev.com/newsflash/307549",
+    "https://www.d1ev.com/newsflash/307561",
+    "https://www.d1ev.com/news/shichang/307559",
+    "https://www.d1ev.com/newsflash/307558",
+    "https://www.d1ev.com/newsflash/307554",
+    "https://www.d1ev.com/newsflash/307551",
+    "https://www.d1ev.com/news/qiye/307550",
+    "https://www.d1ev.com/newsflash/307556",
+    "https://www.d1ev.com/news/shichang/307555",
+    "https://www.d1ev.com/news/shichang/307553",
+    "https://www.d1ev.com/newsflash/307548",
+    "https://www.d1ev.com/newsflash/307547",
+    "https://www.d1ev.com/newsflash/307546"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/306536",
-      "title": "比亚迪腾势N8官图曝光 大五座纯电豪华SUV",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/306535",
-      "title": "全新一代比亚迪唐EV正式亮相 颜值大改",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306526",
-      "title": "特斯拉Cybercab无人驾驶出租车即将亮相得州超级工厂",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306534",
-      "title": "华为鸿蒙智行享界G9：全尺寸SUV搭载自研电机，1300公里续航震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306533",
-      "title": "“中国制造”占领澳大利亚电动车市场，7款热销车型均破千辆",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306532",
-      "title": "AI一小时破解图论50年难题！OpenAI GPT-5.6SolUltra独立证明循环双覆盖猜想",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306531",
-      "title": "马斯克奥尔特曼互怼升级：AI新模型成新战场",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306529",
-      "title": "华为智驾新突破！启境GT7搭载ADS5系统实测亮眼",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/306528",
-      "title": "澳大利亚最畅销7款电动车全部来自中国！特斯拉也不例外",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306527",
-      "title": "瑞典极星电动汽车退出美国市场，车主经销商愤怒声讨",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306525",
-      "title": "OpenAI招聘家庭产品经理，ChatGPT用户年龄结构大变",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306524",
-      "title": "苹果前高管TangTan携机密跳槽OpenAI，引发两家AI硬件巨头诉讼战",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306521",
-      "title": "布朗大学惊现AI作弊潮：期中成绩优异，期末成绩断崖式下滑！",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/306537",
-      "title": "吉利银河TT Ultra版发布：双电机四驱",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/306530",
-      "title": "吉利银河TT Ultra版发布：四驱578马力 还有一键20秒真男人",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/306523",
-      "title": "盖世周报 | 大陆集团出售康迪泰克业务部门；奇瑞南非工厂零部件本地化率将达40%",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306522",
-      "title": "小米澎程SUV系列来袭：增程式智能大空间，真实路况测试超428万公里！",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306520",
-      "title": "中国一汽突破国7排放技术，红旗混动车型迎绿色升级",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306519",
-      "title": "小米澎程SUV即将揭幕：大空间智能驾驶体验即将来袭",
-      "source": "第一电动",
-      "pushedAt": 1783822175286
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/306555",
       "title": "一汽悦意08上市，又一款10万B级车入局了",
@@ -7689,6 +7575,102 @@
       "title": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
       "source": "第一电动",
       "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307560",
+      "title": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307557",
+      "title": "腾势Z9S惊艳亮相：920公里续航+晨曦紫新色，轿跑风范十足",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307552",
+      "title": "WAIC 2026 | 松延动力携多款机器人亮相",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307549",
+      "title": "小鹏图灵VLA二代全球首发，2027年海外交付目标定了！",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307561",
+      "title": "BBA豪车销量暴跌，新能源转型迫在眉睫",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307559",
+      "title": "WAIC 2026 | 临界点集中展示灵巧操作全产品矩阵",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307558",
+      "title": "比亚迪8系唐震撼登场，850km纯电续航挑战高端SUV市场",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307554",
+      "title": "德国6月纯电动汽车销量首超油车，电动化拐点到来",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307551",
+      "title": "中国AI大模型KimiK3震撼登场，全球科技市场格局生变",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307550",
+      "title": "专家：车企一定要造电池 卖车钱都被电池厂商赚走了",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307556",
+      "title": "特斯拉大灯亮度超标，NHTSA强制召回近2万辆Model 3和Model Y",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307555",
+      "title": "Seeds | 一目科技E轮融了超10亿，估值破百亿",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307553",
+      "title": "历史性突破，这家新势力，如何改写车市格局？",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307548",
+      "title": "特斯拉1.99万辆Model 3/Y近光灯超标 需召回硬件维修",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307547",
+      "title": "阿里巴巴HappyOyster1.0开放世界模型上线，开启灰测体验",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307546",
+      "title": "特斯拉FSD升级：个性化驾驶系统将学习车主习惯",
+      "source": "第一电动",
+      "pushedAt": 1784442558958
     }
   ],
   "lastUpdated": "2026-07-19"
