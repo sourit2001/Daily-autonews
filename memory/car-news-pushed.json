@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305399",
-    "https://www.d1ev.com/news/qiye/305400",
-    "https://www.d1ev.com/newsflash/305396",
-    "https://www.d1ev.com/carnews/xinche/305425",
-    "https://www.d1ev.com/newsflash/305422",
-    "https://www.d1ev.com/carnews/xinche/305420",
-    "https://www.d1ev.com/carnews/xinche/305419",
-    "https://www.d1ev.com/newsflash/305410",
-    "https://www.d1ev.com/newsflash/305406",
     "https://www.d1ev.com/newsflash/305404",
     "https://www.d1ev.com/newsflash/305432",
     "https://www.d1ev.com/news/shichang/305429",
@@ -1999,39 +1990,18 @@
     "https://www.d1ev.com/newsflash/307591",
     "https://www.d1ev.com/newsflash/307593",
     "https://www.d1ev.com/newsflash/307592",
-    "https://www.d1ev.com/newsflash/307590"
+    "https://www.d1ev.com/newsflash/307590",
+    "https://www.d1ev.com/newsflash/307600",
+    "https://www.d1ev.com/newsflash/307599",
+    "https://www.d1ev.com/newsflash/307601",
+    "https://www.d1ev.com/newsflash/307597",
+    "https://www.d1ev.com/newsflash/307605",
+    "https://www.d1ev.com/newsflash/307604",
+    "https://www.d1ev.com/newsflash/307603",
+    "https://www.d1ev.com/newsflash/307602",
+    "https://www.d1ev.com/newsflash/307598"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306573",
-      "title": "长安启源Q06即将亮相：中大型纯电轿跑SUV，6C极速闪充革新体验",
-      "source": "第一电动",
-      "pushedAt": 1783854440501
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306569",
-      "title": "比亚迪腾势Z9GT海外爆款午夜蓝配色国内上市，续航超1000公里！",
-      "source": "第一电动",
-      "pushedAt": 1783854440501
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306572",
-      "title": "AI创造新就业机会？奥尔特曼：趋势或将持续",
-      "source": "第一电动",
-      "pushedAt": 1783854440501
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306570",
-      "title": "奔驰全球销量下滑6%，中国市场暴跌28%，纯电GLC能否挽回颓势？",
-      "source": "第一电动",
-      "pushedAt": 1783854440501
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/306571",
-      "title": "E周看点｜小米汽车官宣第二个产品系列；零跑汽车正式进入北美市场",
-      "source": "第一电动",
-      "pushedAt": 1783854440501
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306577",
       "title": "大众联手小鹏打造全新智能电动SUV，下半年上市！",
@@ -7695,6 +7665,60 @@
       "title": "小鹏MONAL03首周末试驾爆表，纯电增程双版本12.38万起",
       "source": "第一电动",
       "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307600",
+      "title": "宝马X5后驱版2027年上市，五种动力方案革新登场！",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307599",
+      "title": "坦克300新车型发布：19.98万起售，动力升级，智能驾驶新体验！",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307601",
+      "title": "2026年起动力锂电池消费税将恢复征收，税率先2%后4%",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307597",
+      "title": "AI助力渐冻症治愈突破，蔡磊获年度AI特别贡献人物",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307605",
+      "title": "中国汽车出口量激增65.3%，6月首破百万大关！",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307604",
+      "title": "猛士917与M817车主享终身质保及自燃包赔新权益",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307603",
+      "title": "蔚来乐道L90销量破6万，30万元级纯电SUV新销冠诞生",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307602",
+      "title": "天垓300发布：新一代GPU性能超Hopper，长序列任务效率提升",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307598",
+      "title": "阿里云TokenPlan个人版发布：2.4T参数Qwen3.8-Max模型抢先体验",
+      "source": "第一电动",
+      "pushedAt": 1784466205712
     }
   ],
   "lastUpdated": "2026-07-19"
