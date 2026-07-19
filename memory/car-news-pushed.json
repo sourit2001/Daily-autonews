@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305364",
-    "https://www.d1ev.com/newsflash/305363",
-    "https://www.d1ev.com/newsflash/305359",
-    "https://www.d1ev.com/newsflash/305357",
-    "https://www.d1ev.com/news/shichang/305398",
-    "https://www.d1ev.com/newsflash/305401",
-    "https://www.d1ev.com/newsflash/305397",
     "https://www.d1ev.com/newsflash/305399",
     "https://www.d1ev.com/news/qiye/305400",
     "https://www.d1ev.com/newsflash/305396",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/newsflash/307573",
     "https://www.d1ev.com/newsflash/307564",
     "https://www.d1ev.com/newsflash/307563",
-    "https://www.d1ev.com/newsflash/307562"
+    "https://www.d1ev.com/newsflash/307562",
+    "https://www.d1ev.com/newsflash/307596",
+    "https://www.d1ev.com/newsflash/307595",
+    "https://www.d1ev.com/newsflash/307594",
+    "https://www.d1ev.com/newsflash/307591",
+    "https://www.d1ev.com/newsflash/307593",
+    "https://www.d1ev.com/newsflash/307592",
+    "https://www.d1ev.com/newsflash/307590"
   ],
   "newsHistory": [
     {
@@ -7653,6 +7653,48 @@
       "title": "华为HiCar 7.0版升级：驾驶模式上线，70+品牌合作超4000万装车量",
       "source": "第一电动",
       "pushedAt": 1784454617246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307596",
+      "title": "比亚迪大汉D级旗舰轿车亮相：纯电续航880km，插混版1.5T动力",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307595",
+      "title": "上汽集团启动Robotaxi量产项目，2027年亮相上海首款高级别自动驾驶车",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307594",
+      "title": "2026世界AI大会首创三维评审机制，录用率20%全球学者瞩目",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307591",
+      "title": "韩国棋手申真谞逆转胜AI！围棋人机大战扳平比分",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307593",
+      "title": "2.4T参数量！阿里Qwen3.8-Max-Preview模型上线，限时1折调用福利",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307592",
+      "title": "阿里千问3.8-Max预览版上线，参数量达2.4T性能飞跃",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307590",
+      "title": "小鹏MONAL03首周末试驾爆表，纯电增程双版本12.38万起",
+      "source": "第一电动",
+      "pushedAt": 1784459212084
     }
   ],
   "lastUpdated": "2026-07-19"
