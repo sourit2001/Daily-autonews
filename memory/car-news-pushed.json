@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305348",
-    "https://www.d1ev.com/newsflash/305345",
-    "https://www.d1ev.com/newsflash/305335",
-    "https://www.d1ev.com/news/qiye/305332",
-    "https://www.d1ev.com/newsflash/305330",
-    "https://www.d1ev.com/newsflash/305318",
-    "https://www.d1ev.com/newsflash/305317",
-    "https://www.d1ev.com/newsflash/305316",
-    "https://www.d1ev.com/newsflash/305350",
-    "https://www.d1ev.com/newsflash/305344",
-    "https://www.d1ev.com/news/qiye/305338",
-    "https://www.d1ev.com/newsflash/305337",
-    "https://www.d1ev.com/newsflash/305333",
     "https://www.d1ev.com/newsflash/305329",
     "https://www.d1ev.com/newsflash/305328",
     "https://www.d1ev.com/newsflash/305327",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/newsflash/307521",
     "https://www.d1ev.com/newsflash/307519",
     "https://www.d1ev.com/newsflash/307531",
-    "https://www.d1ev.com/news/qiye/307532"
+    "https://www.d1ev.com/news/qiye/307532",
+    "https://www.d1ev.com/newsflash/307542",
+    "https://www.d1ev.com/newsflash/307545",
+    "https://www.d1ev.com/newsflash/307544",
+    "https://www.d1ev.com/newsflash/307543",
+    "https://www.d1ev.com/newsflash/307541",
+    "https://www.d1ev.com/newsflash/307540",
+    "https://www.d1ev.com/newsflash/307539",
+    "https://www.d1ev.com/newsflash/307538",
+    "https://www.d1ev.com/newsflash/307537",
+    "https://www.d1ev.com/newsflash/307536",
+    "https://www.d1ev.com/news/qiye/307535",
+    "https://www.d1ev.com/newsflash/307533",
+    "https://www.d1ev.com/news/shichang/307534"
   ],
   "newsHistory": [
     {
@@ -7611,6 +7611,84 @@
       "title": "方盒子新物种长城H10预售限时权益价21.48万元起",
       "source": "第一电动",
       "pushedAt": 1784400862194
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307542",
+      "title": "雷军亲测小米澎程N90，智能电动门亮点曝光",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307545",
+      "title": "安谋科技发起“开源AIOS联盟” 20家生态伙伴加入共推AI发展",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307544",
+      "title": "本田推出32999美元自动驾驶电动割草机，抢占20亿美元市场",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307543",
+      "title": "澳大利亚高校紧急应对AI作弊，考试方式大变革",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307541",
+      "title": "美国SundayRobotics发布ACT-2 AI模型，家庭机器人叠衣成功率超99%",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307540",
+      "title": "小米澎程系列续航高达505km，一周一充成现实！",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307539",
+      "title": "华为小米齐获L3级AI认证，智能终端新标杆诞生！",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307538",
+      "title": "锂电池消费税免征政策终结，2026年起逐步恢复征收",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307537",
+      "title": "作家戴夫·埃格斯痛批OpenAI：ChatGPT让教育灾难化",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307536",
+      "title": "AI预测湍流技术助力飞行安全，多家航空公司已采用",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307535",
+      "title": "广汽埃安S网约车15万公里后现电池故障！中创新航发声兜底",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307533",
+      "title": "小米17Max获国家级AI认证L3级，华为MateBookPro同获殊荣",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307534",
+      "title": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
+      "source": "第一电动",
+      "pushedAt": 1784426822298
     }
   ],
   "lastUpdated": "2026-07-19"
