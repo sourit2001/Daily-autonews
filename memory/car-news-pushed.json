@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305595",
-    "https://www.d1ev.com/newsflash/305591",
     "https://www.d1ev.com/newsflash/305589",
     "https://www.d1ev.com/newsflash/305588",
     "https://www.d1ev.com/carnews/xinche/305594",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/shichang/307780",
     "https://www.d1ev.com/news/shichang/307779",
     "https://www.d1ev.com/newsflash/307778",
-    "https://www.d1ev.com/news/shichang/307777"
+    "https://www.d1ev.com/news/shichang/307777",
+    "https://www.d1ev.com/newsflash/307791",
+    "https://www.d1ev.com/news/qiye/307790"
   ],
   "newsHistory": [
     {
@@ -7935,7 +7935,19 @@
       "title": "Seeds | 月泉仿生完成数亿元Pre-A+轮融资",
       "source": "第一电动",
       "pushedAt": 1784562452137
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307791",
+      "title": "亚马逊Zoox紧急召回105辆无人车：自动驾驶软件或误入火场风险",
+      "source": "第一电动",
+      "pushedAt": 1784568705234
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/307790",
+      "title": "自动驾驶致人死亡判赔2.4亿美元！三州检察长为特斯拉喊冤",
+      "source": "第一电动",
+      "pushedAt": 1784568705234
     }
   ],
-  "lastUpdated": "2026-07-20"
+  "lastUpdated": "2026-07-21"
 }
