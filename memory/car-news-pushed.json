@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/305762",
-    "https://www.d1ev.com/newsflash/305756",
-    "https://www.d1ev.com/newsflash/305750",
-    "https://www.d1ev.com/news/shichang/305747",
-    "https://www.d1ev.com/newsflash/305746",
-    "https://www.d1ev.com/newsflash/305736",
-    "https://www.d1ev.com/newsflash/305735",
-    "https://www.d1ev.com/news/shichang/305732",
-    "https://www.d1ev.com/newsflash/305765",
     "https://www.d1ev.com/news/qiye/305757",
     "https://www.d1ev.com/news/shichang/305739",
     "https://www.d1ev.com/news/qiye/305777",
@@ -1999,57 +1990,18 @@
     "https://www.d1ev.com/newsflash/307910",
     "https://www.d1ev.com/news/shichang/307908",
     "https://www.d1ev.com/newsflash/307905",
-    "https://www.d1ev.com/newsflash/307903"
+    "https://www.d1ev.com/newsflash/307903",
+    "https://www.d1ev.com/newsflash/307928",
+    "https://www.d1ev.com/newsflash/307927",
+    "https://www.d1ev.com/carnews/xinche/307925",
+    "https://www.d1ev.com/newsflash/307922",
+    "https://www.d1ev.com/newsflash/307921",
+    "https://www.d1ev.com/newsflash/307920",
+    "https://www.d1ev.com/newsflash/307926",
+    "https://www.d1ev.com/newsflash/307924",
+    "https://www.d1ev.com/newsflash/307923"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306866",
-      "title": "华为鸿蒙座舱加持，奕境X9三季度上市，未来三年推5款新车",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/306865",
-      "title": "68万起 全系1604匹！腾势Z预售24小时 海内外订单破1000台",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306864",
-      "title": "比亚迪腾势Z电动超跑预售24小时订单破千，68万起售",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306868",
-      "title": "享界G9获北京L3自动驾驶牌照，120km/h高速智能驾驶新突破",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306867",
-      "title": "中国AI“妈祖”模型全球预警，助力多国跨越技术鸿沟",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306863",
-      "title": "岚图梦想家9震撼登场：50万级豪华MPV，800V高压平台+120kWh大电池！",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306869",
-      "title": "特斯拉澳大利亚推“保证未来价值”计划，锁定Model 3/Y回购价防降价背刺",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306862",
-      "title": "英伟达联手三菱重工打造“人工智能工厂”数据中心",
-      "source": "第一电动",
-      "pushedAt": 1784042389729
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306876",
       "title": "中国AI巨头DeepSeek筹备IPO，目标估值4800亿！",
@@ -7917,6 +7869,60 @@
       "title": "铃木汽车印度市场遇挑战：低价策略失灵，高端车型销量低迷",
       "source": "第一电动",
       "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307928",
+      "title": "Mobileye云ADAS技术2027年将搭载Stellantis新车型，全球五大车企加入REM生态",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307927",
+      "title": "谷歌AI新突破：Gemini3.6Flash领衔三款新模型亮相，网络安全成焦点",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/307925",
+      "title": "北汽越野泰钽700开启预售 预售价29.98万起",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307922",
+      "title": "北京越野泰钽700豪华SUV预售开启，1.5T增程系统续航1340km",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307921",
+      "title": "吉利银河TT Ultra全球竞速版预售开启，20.98万限量999台！",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307920",
+      "title": "吉利银河TTUltra预售开启，20.98万起限量999台！",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307926",
+      "title": "本田续签广汽合资协议至2038年，决心深耕中国市场",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307924",
+      "title": "理想L6首批交付开启，12分钟快充80%电量，24.98万起售",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307923",
+      "title": "BBA豪车降价潮来袭：奥迪宝马奔驰降价幅度惊人，销量下滑库存承压",
+      "source": "第一电动",
+      "pushedAt": 1784648317932
     }
   ],
   "lastUpdated": "2026-07-21"
