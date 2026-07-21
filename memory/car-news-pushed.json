@@ -1,22 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/305759",
-    "https://www.d1ev.com/newsflash/305754",
-    "https://www.d1ev.com/news/qiye/305751",
-    "https://www.d1ev.com/carnews/xinche/305749",
-    "https://www.d1ev.com/newsflash/305745",
-    "https://www.d1ev.com/carnews/xinche/305744",
-    "https://www.d1ev.com/newsflash/305742",
-    "https://www.d1ev.com/carnews/xinche/305740",
-    "https://www.d1ev.com/newsflash/305737",
-    "https://www.d1ev.com/newsflash/305731",
-    "https://www.d1ev.com/newsflash/305730",
-    "https://www.d1ev.com/news/qiye/305729",
-    "https://www.d1ev.com/newsflash/305776",
-    "https://www.d1ev.com/newsflash/305775",
-    "https://www.d1ev.com/newsflash/305774",
-    "https://www.d1ev.com/news/shichang/305772",
-    "https://www.d1ev.com/newsflash/305763",
     "https://www.d1ev.com/newsflash/305762",
     "https://www.d1ev.com/newsflash/305756",
     "https://www.d1ev.com/newsflash/305750",
@@ -1999,117 +1982,26 @@
     "https://www.d1ev.com/newsflash/307871",
     "https://www.d1ev.com/news/shichang/307869",
     "https://www.d1ev.com/newsflash/307868",
-    "https://www.d1ev.com/news/shichang/307861"
+    "https://www.d1ev.com/news/shichang/307861",
+    "https://www.d1ev.com/newsflash/307917",
+    "https://www.d1ev.com/newsflash/307916",
+    "https://www.d1ev.com/newsflash/307919",
+    "https://www.d1ev.com/newsflash/307918",
+    "https://www.d1ev.com/newsflash/307913",
+    "https://www.d1ev.com/news/shichang/307909",
+    "https://www.d1ev.com/newsflash/307907",
+    "https://www.d1ev.com/newsflash/307906",
+    "https://www.d1ev.com/news/shichang/307904",
+    "https://www.d1ev.com/newsflash/307915",
+    "https://www.d1ev.com/news/shichang/307914",
+    "https://www.d1ev.com/newsflash/307912",
+    "https://www.d1ev.com/newsflash/307911",
+    "https://www.d1ev.com/newsflash/307910",
+    "https://www.d1ev.com/news/shichang/307908",
+    "https://www.d1ev.com/newsflash/307905",
+    "https://www.d1ev.com/newsflash/307903"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/306849",
-      "title": "埃安RT升级版8月上市，百公里电耗降至8.571kWh，续航提升！",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/306853",
-      "title": "黑芝麻智能完成收购亿智电子，端侧AI战略全面加速",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306850",
-      "title": "爱诗科技C轮融资29.8亿 国产AI视频加速全球布局",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306848",
-      "title": "鸿蒙智行享界G9获北京L3自动驾驶牌照，120km/h高速自动驾驶来袭",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306847",
-      "title": "腾讯Hy3模型开源升级：1bit量化让旗舰AI模型单卡跑",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306846",
-      "title": "AI生成图片获奖？呼和浩特摄影赛一等奖作品被取消资格",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306844",
-      "title": "享界G9获北京L3自动驾驶牌照，华为电机加持续航超1300公里",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306852",
-      "title": "奥迪告别全球车战略，双支柱战略发力中国市场",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/306845",
-      "title": "全球首款可变形个人形机器人正式发布！",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306851",
-      "title": "广汽华为合作启境汽车增资10亿，首车GT7发布24小时订单破5200台",
-      "source": "第一电动",
-      "pushedAt": 1784028122177
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306861",
-      "title": "阿维塔07L携电子萌宠“塔可”亮相，7月17日开启预售！",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306860",
-      "title": "理想L6全新升级：更大电池更长续航，全能四驱体验升级！",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306859",
-      "title": "DeepSeek再融资710亿美元估值，剑指数据中心与AI芯片建设",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306858",
-      "title": "阿里云百炼平台GLM-5.2模型降价20%，AI助手速度提升至100TPS",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306855",
-      "title": "18岁少年徒手拆电池救车祸被困者，极核AE8电摩成救援利器",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/306854",
-      "title": "千里科技携手阶跃，将大模型引入车端",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306856",
-      "title": "2026年Q2全球智能手机出货量创9年新低，消费者购买更谨慎",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/306857",
-      "title": "沈阳比亚迪唐涉水后电机脱落，官方回应非质量问题",
-      "source": "第一电动",
-      "pushedAt": 1784035246249
-    },
     {
       "url": "https://www.d1ev.com/newsflash/306866",
       "title": "华为鸿蒙座舱加持，奕境X9三季度上市，未来三年推5款新车",
@@ -7923,6 +7815,108 @@
       "title": "河南加码下半年促消费政策 汽车换新最高补贴2万元",
       "source": "第一电动",
       "pushedAt": 1784629648532
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307917",
+      "title": "奕境X9铝合金空悬耐久度超家用车胎压16倍，旗舰级SUV第三季度上市",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307916",
+      "title": "华为激光雷达加持！岚图泰山X8EV新车型33.99万起售",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307919",
+      "title": "“北京一中院判例：业主有权安装私家充电桩，物业须配合”",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307918",
+      "title": "中国AI大模型成本优势显著，西方用户青睐度激增",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307913",
+      "title": "“享界G9获北京L3自动驾驶牌照，华为电机加持续航超1300公里”",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307909",
+      "title": "WAIC 2026 | 极佳视界与摩尔线程达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307907",
+      "title": "小米澎程SUV续航超1500公里，76kWh电池支持800V快充！",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307906",
+      "title": "新能源二手车市场风云变幻：理想、小米、特斯拉稳居保值率前三",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307904",
+      "title": "WAIC 2026 | 钛虎机器人与西门子签约，共建具身智能标杆工厂",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307915",
+      "title": "千问Qwen3.8-Max-Preview升级！2.4T参数模型进化，体验更优",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307914",
+      "title": "攀升45位！德赛西威再度登榜2026《财富》中国500强",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307912",
+      "title": "伊朗革命卫队宣称摧毁亚马逊巴林数据中心及美军设施",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307911",
+      "title": "创维SKYWORTHK中型SUV下线，将投运香港出租车市场",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307910",
+      "title": "捷尼赛思新SUV GV90将挑战豪华市场，探索纯电入门车型",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/307908",
+      "title": "2026中国汽车论坛上海开幕",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307905",
+      "title": "丰田卡罗拉迎纯电变革，危机感驱动创新加速",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/307903",
+      "title": "铃木汽车印度市场遇挑战：低价策略失灵，高端车型销量低迷",
+      "source": "第一电动",
+      "pushedAt": 1784640615549
     }
   ],
   "lastUpdated": "2026-07-21"
