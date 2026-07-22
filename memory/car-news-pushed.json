@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/305911",
-    "https://www.d1ev.com/newsflash/305909",
-    "https://www.d1ev.com/newsflash/305908",
-    "https://www.d1ev.com/news/shichang/305907",
-    "https://www.d1ev.com/news/qiye/305902",
     "https://www.d1ev.com/newsflash/305899",
     "https://www.d1ev.com/newsflash/305935",
     "https://www.d1ev.com/newsflash/305933",
@@ -1999,57 +1994,14 @@
     "https://www.d1ev.com/newsflash/308063",
     "https://www.d1ev.com/news/shichang/308061",
     "https://www.d1ev.com/news/qiye/308060",
-    "https://www.d1ev.com/newsflash/308056"
+    "https://www.d1ev.com/newsflash/308056",
+    "https://www.d1ev.com/newsflash/308087",
+    "https://www.d1ev.com/newsflash/308091",
+    "https://www.d1ev.com/newsflash/308090",
+    "https://www.d1ev.com/news/shichang/308089",
+    "https://www.d1ev.com/newsflash/308088"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307034",
-      "title": "“上海AI大会即将开幕：1100家企业300款新品亮相，全产业链展示”",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307032",
-      "title": "长安启源Q06亮相：中大型纯电轿跑SUV，800V高压快充新标杆",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307031",
-      "title": "豆包AI手机今年将推多款机型，其中一款将于2026世界人工智能大会期间亮相",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307035",
-      "title": "7款AI服务完成备案，阿里千问助力苹果智能服务升级",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307033",
-      "title": "本田美国多款车型搭载谷歌Gemini，使用自然语言进行交流",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307038",
-      "title": "奕境X9搭载华为激光投影，车内车外秒变露天影院",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/307037",
-      "title": "特斯拉故障官方3次修不好 外面维修店1600搞定！车主要退款",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307036",
-      "title": "三星钱包数字车钥匙再升级，支持上汽大众ID.ERA9X车型无感解锁",
-      "source": "第一电动",
-      "pushedAt": 1784128953050
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307040",
       "title": "比亚迪智驾系统销量破333万，6月单月销量超17万",
@@ -7905,6 +7857,36 @@
       "title": "奥迪E7X诚意定价挑战新势力，目标市场TOP3！",
       "source": "第一电动",
       "pushedAt": 1784727258300
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308087",
+      "title": "努比亚NaviXUltra全球首发：骁龙8EliteGen5+7100mAh电池，AI智能体手机来袭！",
+      "source": "第一电动",
+      "pushedAt": 1784734136019
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308091",
+      "title": "“电车小飞”诋毁理想汽车被判败诉，账号被封禁！",
+      "source": "第一电动",
+      "pushedAt": 1784734136019
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308090",
+      "title": "奇瑞iCAR V23马来西亚首车下线，硬派SUV风格售价约20万起",
+      "source": "第一电动",
+      "pushedAt": 1784734136019
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308089",
+      "title": "民航局公示首批载人eVTOL适航审定合规企业名录，小鹏汇天等4家企业入选",
+      "source": "第一电动",
+      "pushedAt": 1784734136019
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308088",
+      "title": "小米澎程系列引燃市场！女性用户激增，北方咨询量飙升",
+      "source": "第一电动",
+      "pushedAt": 1784734136019
     }
   ],
   "lastUpdated": "2026-07-22"
