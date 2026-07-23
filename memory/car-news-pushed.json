@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306082",
     "https://www.d1ev.com/newsflash/306087",
     "https://www.d1ev.com/newsflash/306103",
     "https://www.d1ev.com/newsflash/306102",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/qiye/308255",
     "https://www.d1ev.com/newsflash/308249",
     "https://www.d1ev.com/newsflash/308247",
-    "https://www.d1ev.com/newsflash/308263"
+    "https://www.d1ev.com/newsflash/308263",
+    "https://www.d1ev.com/newsflash/308264"
   ],
   "newsHistory": [
     {
@@ -7719,6 +7719,12 @@
       "title": "比亚迪大唐EV销量破万，董路成第1万台车主！",
       "source": "第一电动",
       "pushedAt": 1784826800102
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308264",
+      "title": "AMD联手Cerebras打造AI推理新方案，2026年云服务首发",
+      "source": "第一电动",
+      "pushedAt": 1784833562758
     }
   ],
   "lastUpdated": "2026-07-24"
