@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306317",
-    "https://www.d1ev.com/newsflash/306313",
-    "https://www.d1ev.com/carnews/xinche/306311",
-    "https://www.d1ev.com/carnews/xinche/306303",
-    "https://www.d1ev.com/carnews/xinche/306301",
-    "https://www.d1ev.com/carnews/xinche/306300",
-    "https://www.d1ev.com/carnews/xinche/306299",
-    "https://www.d1ev.com/newsflash/306282",
-    "https://www.d1ev.com/news/shichang/306310",
     "https://www.d1ev.com/newsflash/306308",
     "https://www.d1ev.com/newsflash/306306",
     "https://www.d1ev.com/newsflash/306304",
@@ -1999,51 +1990,18 @@
     "https://www.d1ev.com/news/shichang/308408",
     "https://www.d1ev.com/news/shichang/308407",
     "https://www.d1ev.com/newsflash/308406",
-    "https://www.d1ev.com/newsflash/308405"
+    "https://www.d1ev.com/newsflash/308405",
+    "https://www.d1ev.com/newsflash/308432",
+    "https://www.d1ev.com/newsflash/308438",
+    "https://www.d1ev.com/newsflash/308437",
+    "https://www.d1ev.com/newsflash/308436",
+    "https://www.d1ev.com/newsflash/308434",
+    "https://www.d1ev.com/newsflash/308431",
+    "https://www.d1ev.com/newsflash/308435",
+    "https://www.d1ev.com/newsflash/308433",
+    "https://www.d1ev.com/newsflash/308430"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307417",
-      "title": "印度首例！乙醇汽油致损车主胜诉，马鲁蒂铃木需赔20万或换新车",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307413",
-      "title": "蔚来芯片子公司神玑技术亮相WAIC，发布AI新产品布局多场景芯片平台",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307411",
-      "title": "普渡机器人亮相WAIC 2026，“一脑多形”构建面向未来的机器人智能底座",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307416",
-      "title": "“智能体共创计划”启动：国产超算互联网助力AI创新加速",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307412",
-      "title": "红旗H7PHEV盲订开启：99元升级万元智能驾驶 续航超1500km",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307415",
-      "title": "云南珠海智己汽车经销商经营异常，用户款项难退，品牌承诺兜底",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/307414",
-      "title": "网友偶遇雷军上车坐进小米澎程：二排空间大到离谱",
-      "source": "第一电动",
-      "pushedAt": 1784300997069
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307437",
       "title": "鸿蒙智行享界G9亮相：全尺寸SUV搭载华为激光雷达，续航超700公里",
@@ -7731,6 +7689,60 @@
       "title": "长城汽车双星闪耀：欧拉5GT与运动款即将发布，瞄准年轻市场",
       "source": "第一电动",
       "pushedAt": 1784899686491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308432",
+      "title": "小米新机备案曝光：澎湃OS4系统搭载多款大模型，超级小爱再升级！",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308438",
+      "title": "广汽丰田推电池起火全赔政策，铂智7&3X新老用户终身享",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308437",
+      "title": "广汽丰田铂智7推电池起火全赔政策，20万级纯电轿车新标杆",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308436",
+      "title": "吉利银河战舰700全球首秀，1128匹马力AI越野SUV震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308434",
+      "title": "美国25科技巨头联名呼吁：开放AI模型，共享技术红利",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308431",
+      "title": "印度HCLTech联手奥里萨邦打造百亿AI数据中心，助力本土智能生态建设",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308435",
+      "title": "蚂蚁集团百灵发布Ling-3.0-flash：参数量减半性能超前代",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308433",
+      "title": "微星发布4L迷你台式机：搭载AMD锐龙处理器，支持Wi-Fi 7，性能强悍！",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308430",
+      "title": "45岁车主刷新11赛道纪录，小米SU7Ultra硬核实力获赞",
+      "source": "第一电动",
+      "pushedAt": 1784906639915
     }
   ],
   "lastUpdated": "2026-07-24"
