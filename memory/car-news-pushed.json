@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306356",
-    "https://www.d1ev.com/newsflash/306355",
-    "https://www.d1ev.com/newsflash/306351",
     "https://www.d1ev.com/newsflash/306344",
     "https://www.d1ev.com/news/qiye/306342",
     "https://www.d1ev.com/news/shichang/306376",
@@ -1999,51 +1996,12 @@
     "https://www.d1ev.com/newsflash/308490",
     "https://www.d1ev.com/newsflash/308481",
     "https://www.d1ev.com/newsflash/308478",
-    "https://www.d1ev.com/newsflash/308475"
+    "https://www.d1ev.com/newsflash/308475",
+    "https://www.d1ev.com/newsflash/308494",
+    "https://www.d1ev.com/newsflash/308492",
+    "https://www.d1ev.com/newsflash/308493"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/307511",
-      "title": "WAIC 2026 | 做早餐、卖东西、拧螺丝，银河通用多场景技能集中亮相",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307509",
-      "title": "吉利银河TTUltra版预售在即，800V高压平台加持，续航高达725公里！",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307506",
-      "title": "蔚来自研芯片突破：神玑NX9031系列芯片亮相AI大会，累计发货超30万颗",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307510",
-      "title": "星尘智能WAIC落地实录：全栈方案进入蚂蚁、京东、中科创达等真实场景",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307508",
-      "title": "WAIC 2026｜对话AI Agent，直达视频名场面：当虹科技在WAIC重塑人与视频交互新方式",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307507",
-      "title": "深耕物理AI，禾赛在WAIC2026首次展示全球首款AI空间相机Kosmo",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307505",
-      "title": "问界M9纯电续航直播答疑：高温满载下88%达成率真相",
-      "source": "第一电动",
-      "pushedAt": 1784372262686
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307517",
       "title": "长城H10预售开启：21.48万起，方盒子设计，Hi4混动系统，激光雷达加持！",
@@ -7587,6 +7545,24 @@
       "title": "吉利星越L销量破百万，中国品牌高端SUV新标杆",
       "source": "第一电动",
       "pushedAt": 1784972556038
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308494",
+      "title": "35家科技巨头联手呼吁：开放AI模型，共享智能未来！",
+      "source": "第一电动",
+      "pushedAt": 1784977498890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308492",
+      "title": "OpenAI服务器故障！ChatGPT、Codex全球宕机急增",
+      "source": "第一电动",
+      "pushedAt": 1784977498890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308493",
+      "title": "比亚迪方程豹钛7EV闪充版交付提速，4月订单陆续发运",
+      "source": "第一电动",
+      "pushedAt": 1784977498890
     }
   ],
   "lastUpdated": "2026-07-25"
