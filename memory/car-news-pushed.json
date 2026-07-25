@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306349",
-    "https://www.d1ev.com/news/qiye/306340",
-    "https://www.d1ev.com/news/shichang/306336",
     "https://www.d1ev.com/newsflash/306382",
     "https://www.d1ev.com/newsflash/306380",
     "https://www.d1ev.com/news/shichang/306378",
@@ -1999,39 +1996,12 @@
     "https://www.d1ev.com/newsflash/308499",
     "https://www.d1ev.com/newsflash/308497",
     "https://www.d1ev.com/newsflash/308495",
-    "https://www.d1ev.com/newsflash/308498"
+    "https://www.d1ev.com/newsflash/308498",
+    "https://www.d1ev.com/carnews/xinche/308501",
+    "https://www.d1ev.com/news/qiye/308500",
+    "https://www.d1ev.com/newsflash/308502"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/307522",
-      "title": "WAIC 2026 | 宇泛智能携自研赛博灵宠“灵猫”亮相",
-      "source": "第一电动",
-      "pushedAt": 1784385944956
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307520",
-      "title": "广汽埃安AIONS电池故障，中创新航承诺免费维保升级服务",
-      "source": "第一电动",
-      "pushedAt": 1784385944956
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307518",
-      "title": "阿里云发布灵骏真武M890：AI算力服务新突破，训练性能提升三倍！",
-      "source": "第一电动",
-      "pushedAt": 1784385944956
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307521",
-      "title": "武汉高票当选！蔚来NIODay2026举办城市揭晓",
-      "source": "第一电动",
-      "pushedAt": 1784385944956
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307519",
-      "title": "孔辉科技力证国产空气悬架：累计交付147万台无批量漏气故障",
-      "source": "第一电动",
-      "pushedAt": 1784385944956
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307531",
       "title": "锂电池免税政策终结，新能源汽车成本或增1%",
@@ -7557,6 +7527,24 @@
       "title": "比亚迪仰望U8升级13项功能，百万级越野新体验！",
       "source": "第一电动",
       "pushedAt": 1784985108635
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308501",
+      "title": "奇瑞风云A9正式上市 售价10.99-12.99万元",
+      "source": "第一电动",
+      "pushedAt": 1784991460406
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/308500",
+      "title": "杨紫代言！奇瑞风云A9纯电轿跑上市：10.69万元起",
+      "source": "第一电动",
+      "pushedAt": 1784991460406
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308502",
+      "title": "理想汽车携手哈萨克斯坦Allur集团 开启海外本地化生产新篇章",
+      "source": "第一电动",
+      "pushedAt": 1784991460406
     }
   ],
   "lastUpdated": "2026-07-25"
