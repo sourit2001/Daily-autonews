@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306344",
-    "https://www.d1ev.com/news/qiye/306342",
-    "https://www.d1ev.com/news/shichang/306376",
-    "https://www.d1ev.com/news/shichang/306367",
-    "https://www.d1ev.com/newsflash/306357",
     "https://www.d1ev.com/newsflash/306349",
     "https://www.d1ev.com/news/qiye/306340",
     "https://www.d1ev.com/news/shichang/306336",
@@ -1999,45 +1994,14 @@
     "https://www.d1ev.com/newsflash/308475",
     "https://www.d1ev.com/newsflash/308494",
     "https://www.d1ev.com/newsflash/308492",
-    "https://www.d1ev.com/newsflash/308493"
+    "https://www.d1ev.com/newsflash/308493",
+    "https://www.d1ev.com/newsflash/308496",
+    "https://www.d1ev.com/newsflash/308499",
+    "https://www.d1ev.com/newsflash/308497",
+    "https://www.d1ev.com/newsflash/308495",
+    "https://www.d1ev.com/newsflash/308498"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307517",
-      "title": "长城H10预售开启：21.48万起，方盒子设计，Hi4混动系统，激光雷达加持！",
-      "source": "第一电动",
-      "pushedAt": 1784379649168
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/307516",
-      "title": "长城H10开启预售 预售价21.98-23.98万元",
-      "source": "第一电动",
-      "pushedAt": 1784379649168
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307515",
-      "title": "广汽埃安AIONS电池故障升级：质保延长至30万公里，免费维修换包",
-      "source": "第一电动",
-      "pushedAt": 1784379649168
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307514",
-      "title": "腾讯副总裁林松涛：AI终端智能伙伴时代来临，2026世界人工智能大会亮点纷呈",
-      "source": "第一电动",
-      "pushedAt": 1784379649168
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307513",
-      "title": "商汤科技发布SenseNovaU1Pro：AI创作8K超清美图新突破",
-      "source": "第一电动",
-      "pushedAt": 1784379649168
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307512",
-      "title": "AI新突破：超节点架构应对数万亿参数挑战",
-      "source": "第一电动",
-      "pushedAt": 1784379649168
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/307522",
       "title": "WAIC 2026 | 宇泛智能携自研赛博灵宠“灵猫”亮相",
@@ -7563,6 +7527,36 @@
       "title": "比亚迪方程豹钛7EV闪充版交付提速，4月订单陆续发运",
       "source": "第一电动",
       "pushedAt": 1784977498890
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308496",
+      "title": "奇瑞风云A9纯电轿跑上市，655km续航10.69万起",
+      "source": "第一电动",
+      "pushedAt": 1784985108635
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308499",
+      "title": "硅谷巨头联名反对AI开源限制，英伟达黄仁勋强调技术开放重要性",
+      "source": "第一电动",
+      "pushedAt": 1784985108635
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308497",
+      "title": "领克07GT限量版惊艳交付，续航1315km动力强劲！",
+      "source": "第一电动",
+      "pushedAt": 1784985108635
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308495",
+      "title": "美国高校计算机科学专业选课人数20年来首降，AI时代新挑战？",
+      "source": "第一电动",
+      "pushedAt": 1784985108635
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308498",
+      "title": "比亚迪仰望U8升级13项功能，百万级越野新体验！",
+      "source": "第一电动",
+      "pushedAt": 1784985108635
     }
   ],
   "lastUpdated": "2026-07-25"
