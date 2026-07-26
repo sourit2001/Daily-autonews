@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306390",
-    "https://www.d1ev.com/newsflash/306386",
-    "https://www.d1ev.com/news/shichang/306419",
-    "https://www.d1ev.com/news/shichang/306405",
     "https://www.d1ev.com/newsflash/306400",
     "https://www.d1ev.com/newsflash/306399",
     "https://www.d1ev.com/newsflash/306396",
@@ -1999,63 +1995,13 @@
     "https://www.d1ev.com/newsflash/308552",
     "https://www.d1ev.com/newsflash/308551",
     "https://www.d1ev.com/newsflash/308550",
-    "https://www.d1ev.com/newsflash/308549"
+    "https://www.d1ev.com/newsflash/308549",
+    "https://www.d1ev.com/newsflash/308554",
+    "https://www.d1ev.com/newsflash/308553",
+    "https://www.d1ev.com/newsflash/308556",
+    "https://www.d1ev.com/newsflash/308555"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307600",
-      "title": "宝马X5后驱版2027年上市，五种动力方案革新登场！",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307599",
-      "title": "坦克300新车型发布：19.98万起售，动力升级，智能驾驶新体验！",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307601",
-      "title": "2026年起动力锂电池消费税将恢复征收，税率先2%后4%",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307597",
-      "title": "AI助力渐冻症治愈突破，蔡磊获年度AI特别贡献人物",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307605",
-      "title": "中国汽车出口量激增65.3%，6月首破百万大关！",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307604",
-      "title": "猛士917与M817车主享终身质保及自燃包赔新权益",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307603",
-      "title": "蔚来乐道L90销量破6万，30万元级纯电SUV新销冠诞生",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307602",
-      "title": "天垓300发布：新一代GPU性能超Hopper，长序列任务效率提升",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307598",
-      "title": "阿里云TokenPlan个人版发布：2.4T参数Qwen3.8-Max模型抢先体验",
-      "source": "第一电动",
-      "pushedAt": 1784466205712
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307610",
       "title": "MiniCPM5-2B全球首发：4B以下最强AI模型，手机PC智能助手新纪元",
@@ -7431,6 +7377,30 @@
       "title": "豪华车市场大降价！奔驰宝马奥迪销量下滑，价格战打响。",
       "source": "第一电动",
       "pushedAt": 1785064517342
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308554",
+      "title": "奇瑞风云T7开启小订：600km续航+20分钟快充，家用纯电SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1785071258117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308553",
+      "title": "SK集团联手英伟达打造2吉瓦AI工厂，2027年上线",
+      "source": "第一电动",
+      "pushedAt": 1785071258117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308556",
+      "title": "工信部突击检查广汽埃安、小鹏汽车，严查智能网联汽车安全保障",
+      "source": "第一电动",
+      "pushedAt": 1785071258117
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308555",
+      "title": "小米YU7GT武士黑哑光漆面揭秘：科技感与质感的完美融合",
+      "source": "第一电动",
+      "pushedAt": 1785071258117
     }
   ],
   "lastUpdated": "2026-07-26"
