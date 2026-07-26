@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306403",
-    "https://www.d1ev.com/newsflash/306402",
-    "https://www.d1ev.com/newsflash/306401",
-    "https://www.d1ev.com/newsflash/306391",
     "https://www.d1ev.com/newsflash/306390",
     "https://www.d1ev.com/newsflash/306386",
     "https://www.d1ev.com/news/shichang/306419",
@@ -1999,51 +1995,13 @@
     "https://www.d1ev.com/news/shichang/308548",
     "https://www.d1ev.com/news/shichang/308541",
     "https://www.d1ev.com/newsflash/308534",
-    "https://www.d1ev.com/newsflash/308532"
+    "https://www.d1ev.com/newsflash/308532",
+    "https://www.d1ev.com/newsflash/308552",
+    "https://www.d1ev.com/newsflash/308551",
+    "https://www.d1ev.com/newsflash/308550",
+    "https://www.d1ev.com/newsflash/308549"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307596",
-      "title": "比亚迪大汉D级旗舰轿车亮相：纯电续航880km，插混版1.5T动力",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307595",
-      "title": "上汽集团启动Robotaxi量产项目，2027年亮相上海首款高级别自动驾驶车",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307594",
-      "title": "2026世界AI大会首创三维评审机制，录用率20%全球学者瞩目",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307591",
-      "title": "韩国棋手申真谞逆转胜AI！围棋人机大战扳平比分",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307593",
-      "title": "2.4T参数量！阿里Qwen3.8-Max-Preview模型上线，限时1折调用福利",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307592",
-      "title": "阿里千问3.8-Max预览版上线，参数量达2.4T性能飞跃",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307590",
-      "title": "小鹏MONAL03首周末试驾爆表，纯电增程双版本12.38万起",
-      "source": "第一电动",
-      "pushedAt": 1784459212084
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307600",
       "title": "宝马X5后驱版2027年上市，五种动力方案革新登场！",
@@ -7449,6 +7407,30 @@
       "title": "奇瑞集团销量破2000万，风云A9成里程碑车型",
       "source": "第一电动",
       "pushedAt": 1785059751907
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308552",
+      "title": "小米澎程SUV系列来袭：大电池增程，续航505km，亏电油耗仅5.7L/100km",
+      "source": "第一电动",
+      "pushedAt": 1785064517342
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308551",
+      "title": "路虎极光L价格跳水超六成，燃油车市场受新能源冲击明显",
+      "source": "第一电动",
+      "pushedAt": 1785064517342
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308550",
+      "title": "奇瑞风云T7小订开启，犀牛电池加持，600km续航仅20分钟快充！",
+      "source": "第一电动",
+      "pushedAt": 1785064517342
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308549",
+      "title": "豪华车市场大降价！奔驰宝马奥迪销量下滑，价格战打响。",
+      "source": "第一电动",
+      "pushedAt": 1785064517342
     }
   ],
   "lastUpdated": "2026-07-26"
