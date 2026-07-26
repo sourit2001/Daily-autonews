@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306382",
-    "https://www.d1ev.com/newsflash/306380",
-    "https://www.d1ev.com/news/shichang/306378",
-    "https://www.d1ev.com/news/shichang/306377",
-    "https://www.d1ev.com/newsflash/306372",
-    "https://www.d1ev.com/news/shichang/306368",
-    "https://www.d1ev.com/news/shichang/306365",
-    "https://www.d1ev.com/newsflash/306363",
-    "https://www.d1ev.com/news/shichang/306360",
-    "https://www.d1ev.com/news/shichang/306359",
-    "https://www.d1ev.com/carnews/xinche/306358",
     "https://www.d1ev.com/newsflash/306350",
     "https://www.d1ev.com/newsflash/306348",
     "https://www.d1ev.com/news/shichang/306347",
@@ -1999,99 +1988,20 @@
     "https://www.d1ev.com/newsflash/308498",
     "https://www.d1ev.com/carnews/xinche/308501",
     "https://www.d1ev.com/news/qiye/308500",
-    "https://www.d1ev.com/newsflash/308502"
+    "https://www.d1ev.com/newsflash/308502",
+    "https://www.d1ev.com/newsflash/308510",
+    "https://www.d1ev.com/newsflash/308516",
+    "https://www.d1ev.com/newsflash/308514",
+    "https://www.d1ev.com/newsflash/308511",
+    "https://www.d1ev.com/newsflash/308508",
+    "https://www.d1ev.com/newsflash/308506",
+    "https://www.d1ev.com/newsflash/308513",
+    "https://www.d1ev.com/news/shichang/308512",
+    "https://www.d1ev.com/newsflash/308515",
+    "https://www.d1ev.com/newsflash/308509",
+    "https://www.d1ev.com/newsflash/308507"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307531",
-      "title": "锂电池免税政策终结，新能源汽车成本或增1%",
-      "source": "第一电动",
-      "pushedAt": 1784393442389
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/307532",
-      "title": "方盒子新物种长城H10预售限时权益价21.48万元起",
-      "source": "第一电动",
-      "pushedAt": 1784400862194
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307542",
-      "title": "雷军亲测小米澎程N90，智能电动门亮点曝光",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307545",
-      "title": "安谋科技发起“开源AIOS联盟” 20家生态伙伴加入共推AI发展",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307544",
-      "title": "本田推出32999美元自动驾驶电动割草机，抢占20亿美元市场",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307543",
-      "title": "澳大利亚高校紧急应对AI作弊，考试方式大变革",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307541",
-      "title": "美国SundayRobotics发布ACT-2 AI模型，家庭机器人叠衣成功率超99%",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307540",
-      "title": "小米澎程系列续航高达505km，一周一充成现实！",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307539",
-      "title": "华为小米齐获L3级AI认证，智能终端新标杆诞生！",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307538",
-      "title": "锂电池消费税免征政策终结，2026年起逐步恢复征收",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307537",
-      "title": "作家戴夫·埃格斯痛批OpenAI：ChatGPT让教育灾难化",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307536",
-      "title": "AI预测湍流技术助力飞行安全，多家航空公司已采用",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/307535",
-      "title": "广汽埃安S网约车15万公里后现电池故障！中创新航发声兜底",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307533",
-      "title": "小米17Max获国家级AI认证L3级，华为MateBookPro同获殊荣",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307534",
-      "title": "盖世周报 | 奔驰扩建工厂；博世美国首座半导体工厂启动样品生产",
-      "source": "第一电动",
-      "pushedAt": 1784426822298
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/307560",
       "title": "WAIC 2026 |北京人形携3D五大场景解决方案亮相",
@@ -7545,7 +7455,73 @@
       "title": "理想汽车携手哈萨克斯坦Allur集团 开启海外本地化生产新篇章",
       "source": "第一电动",
       "pushedAt": 1784991460406
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308510",
+      "title": "奇瑞风云A9震撼上市，限时优惠+终身质保引爆新能源市场！",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308516",
+      "title": "Waymo自动驾驶事故率低68%！安全性能远超人类驾驶员",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308514",
+      "title": "特斯拉ModelS/X设计软件全开源，推动电动车技术进步",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308511",
+      "title": "人工智能巨头Anthropic联手SK海力士，自研芯片项目启动！",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308508",
+      "title": "特斯拉Robotaxi服务或将登陆南美，自动驾驶网约车全球扩张加速",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308506",
+      "title": "Debian开发者热议：AI编程是否该被禁止？",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308513",
+      "title": "中国汽车出口上半年激增53%，俄罗斯成最大买家",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308512",
+      "title": "盖世周报 | 中国车在海外销量大增；丰田将削减零部件种类",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308515",
+      "title": "特斯拉Model3紧急开门装置被指缺陷，NHTSA驳回调查请求",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308509",
+      "title": "特斯拉FSDv15提前上路，Robotaxi服务加速扩张",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308507",
+      "title": "特斯拉Model Y将升级摄像头清洁系统，或为Robotaxi铺路",
+      "source": "第一电动",
+      "pushedAt": 1785031860781
     }
   ],
-  "lastUpdated": "2026-07-25"
+  "lastUpdated": "2026-07-26"
 }
