@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306394",
     "https://www.d1ev.com/newsflash/306393",
     "https://www.d1ev.com/newsflash/306392",
     "https://www.d1ev.com/newsflash/306389",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/308555",
     "https://www.d1ev.com/news/shichang/308558",
     "https://www.d1ev.com/news/shichang/308559",
-    "https://www.d1ev.com/news/shichang/308557"
+    "https://www.d1ev.com/news/shichang/308557",
+    "https://www.d1ev.com/newsflash/308561"
   ],
   "newsHistory": [
     {
@@ -7383,7 +7383,13 @@
       "title": "松下在谷歌云上验证其驾驶舱虚拟化技术",
       "source": "第一电动",
       "pushedAt": 1785078043741
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308561",
+      "title": "德院士赫尔佐格获中国国际科技合作奖，预言AI未来在小智能体协同",
+      "source": "第一电动",
+      "pushedAt": 1785084748035
     }
   ],
-  "lastUpdated": "2026-07-26"
+  "lastUpdated": "2026-07-27"
 }
