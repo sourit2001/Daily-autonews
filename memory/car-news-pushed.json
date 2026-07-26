@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306400",
-    "https://www.d1ev.com/newsflash/306399",
-    "https://www.d1ev.com/newsflash/306396",
     "https://www.d1ev.com/newsflash/306394",
     "https://www.d1ev.com/newsflash/306393",
     "https://www.d1ev.com/newsflash/306392",
@@ -1999,45 +1996,12 @@
     "https://www.d1ev.com/newsflash/308554",
     "https://www.d1ev.com/newsflash/308553",
     "https://www.d1ev.com/newsflash/308556",
-    "https://www.d1ev.com/newsflash/308555"
+    "https://www.d1ev.com/newsflash/308555",
+    "https://www.d1ev.com/news/shichang/308558",
+    "https://www.d1ev.com/news/shichang/308559",
+    "https://www.d1ev.com/news/shichang/308557"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307610",
-      "title": "MiniCPM5-2B全球首发：4B以下最强AI模型，手机PC智能助手新纪元",
-      "source": "第一电动",
-      "pushedAt": 1784472602774
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307607",
-      "title": "荣耀RobotPhone全球首发预约开启，机械云台手机革命来袭",
-      "source": "第一电动",
-      "pushedAt": 1784472602774
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/307606",
-      "title": "全新坦克300上市 售价19.98-25.98万元",
-      "source": "第一电动",
-      "pushedAt": 1784472602774
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307611",
-      "title": "“千里科技ASD4.1技术预览：全场景D2D通行、深度语义理解升级”",
-      "source": "第一电动",
-      "pushedAt": 1784472602774
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307609",
-      "title": "29国签署世界人工智能合作组织协定，中国上海成总部",
-      "source": "第一电动",
-      "pushedAt": 1784472602774
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307608",
-      "title": "华为乾崑战略明确：30万以上“界”系列与30万以下“境”系列互补发力",
-      "source": "第一电动",
-      "pushedAt": 1784472602774
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/307614",
       "title": "自由去闯 全新坦克300杭州上市售价19.98万起",
@@ -7401,6 +7365,24 @@
       "title": "小米YU7GT武士黑哑光漆面揭秘：科技感与质感的完美融合",
       "source": "第一电动",
       "pushedAt": 1785071258117
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308558",
+      "title": "现代汽车推出全球车联网服务",
+      "source": "第一电动",
+      "pushedAt": 1785078043741
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308559",
+      "title": "福特公司申请远程泊车专利",
+      "source": "第一电动",
+      "pushedAt": 1785078043741
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308557",
+      "title": "松下在谷歌云上验证其驾驶舱虚拟化技术",
+      "source": "第一电动",
+      "pushedAt": 1785078043741
     }
   ],
   "lastUpdated": "2026-07-26"
