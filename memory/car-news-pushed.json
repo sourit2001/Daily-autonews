@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/306567",
-    "https://www.d1ev.com/newsflash/306564",
-    "https://www.d1ev.com/newsflash/306562",
     "https://www.d1ev.com/newsflash/306559",
     "https://www.d1ev.com/newsflash/306573",
     "https://www.d1ev.com/newsflash/306569",
@@ -1999,93 +1996,12 @@
     "https://www.d1ev.com/newsflash/308698",
     "https://www.d1ev.com/newsflash/308697",
     "https://www.d1ev.com/newsflash/308696",
-    "https://www.d1ev.com/newsflash/308694"
+    "https://www.d1ev.com/newsflash/308694",
+    "https://www.d1ev.com/newsflash/308710",
+    "https://www.d1ev.com/newsflash/308708",
+    "https://www.d1ev.com/newsflash/308709"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307786",
-      "title": "2027款星途ES携猎鹰700系统上市，智能驾驶新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307785",
-      "title": "马斯克挑战月之暗面：2万亿参数AI模型下周亮相！",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/307782",
-      "title": "2027款星途ES正式上市 售价17.99-20.99万元",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307787",
-      "title": "华为超充联盟覆盖200城，新增万只超充枪，充电像加油一样便捷",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307784",
-      "title": "比亚迪突破技术瓶颈！5分钟充电70%，工信部点赞",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307788",
-      "title": "华为乾崑智能车灯：百万级像素精准遮蔽，夜间行车更安全",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307783",
-      "title": "广汽本田合资期限延长至2038年，双方信心坚定共谋发展",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307781",
-      "title": "福特申请可配置的后部传感器条专利",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307780",
-      "title": "现代汽车集团发布高保真研发模拟器",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307779",
-      "title": "首尔大学发明新型驾驶人工智能模型 可对可能路线进行排序以便做出更安全、更清晰的决策",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307778",
-      "title": "奇瑞星途ES焕新升级，智能化与动力双提升，售价17.99万起",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307777",
-      "title": "Seeds | 月泉仿生完成数亿元Pre-A+轮融资",
-      "source": "第一电动",
-      "pushedAt": 1784562452137
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307791",
-      "title": "亚马逊Zoox紧急召回105辆无人车：自动驾驶软件或误入火场风险",
-      "source": "第一电动",
-      "pushedAt": 1784568705234
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/307790",
-      "title": "自动驾驶致人死亡判赔2.4亿美元！三州检察长为特斯拉喊冤",
-      "source": "第一电动",
-      "pushedAt": 1784568705234
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307819",
       "title": "迈巴赫GLS旗舰SUV预告：发光格栅与星徽大灯，年内亮相！",
@@ -7293,7 +7209,25 @@
       "title": "鸿蒙智行OTA暑期升级：数十项功能优化，智能驾驶体验再升级",
       "source": "第一电动",
       "pushedAt": 1785162282674
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308710",
+      "title": "极狐阿尔法T7内饰曝光，华为技术加持，增程纯电双版本来袭！",
+      "source": "第一电动",
+      "pushedAt": 1785173885229
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308708",
+      "title": "AI神速！Claude一周末独自搞定AMD新GPU适配",
+      "source": "第一电动",
+      "pushedAt": 1785173885229
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308709",
+      "title": "深蓝S05内饰升级：悬浮星舰设计+纯电增程双动力选择",
+      "source": "第一电动",
+      "pushedAt": 1785173885229
     }
   ],
-  "lastUpdated": "2026-07-27"
+  "lastUpdated": "2026-07-28"
 }
