@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306710",
-    "https://www.d1ev.com/newsflash/306709",
-    "https://www.d1ev.com/newsflash/306706",
-    "https://www.d1ev.com/newsflash/306705",
-    "https://www.d1ev.com/newsflash/306703",
-    "https://www.d1ev.com/newsflash/306702",
     "https://www.d1ev.com/newsflash/306699",
     "https://www.d1ev.com/newsflash/306698",
     "https://www.d1ev.com/newsflash/306712",
@@ -1999,111 +1993,15 @@
     "https://www.d1ev.com/news/qiye/308816",
     "https://www.d1ev.com/newsflash/308815",
     "https://www.d1ev.com/newsflash/308813",
-    "https://www.d1ev.com/newsflash/308811"
+    "https://www.d1ev.com/newsflash/308811",
+    "https://www.d1ev.com/newsflash/308842",
+    "https://www.d1ev.com/newsflash/308844",
+    "https://www.d1ev.com/newsflash/308843",
+    "https://www.d1ev.com/newsflash/308841",
+    "https://www.d1ev.com/newsflash/308846",
+    "https://www.d1ev.com/newsflash/308845"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/307917",
-      "title": "奕境X9铝合金空悬耐久度超家用车胎压16倍，旗舰级SUV第三季度上市",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307916",
-      "title": "华为激光雷达加持！岚图泰山X8EV新车型33.99万起售",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307919",
-      "title": "“北京一中院判例：业主有权安装私家充电桩，物业须配合”",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307918",
-      "title": "中国AI大模型成本优势显著，西方用户青睐度激增",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307913",
-      "title": "“享界G9获北京L3自动驾驶牌照，华为电机加持续航超1300公里”",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307909",
-      "title": "WAIC 2026 | 极佳视界与摩尔线程达成战略合作",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307907",
-      "title": "小米澎程SUV续航超1500公里，76kWh电池支持800V快充！",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307906",
-      "title": "新能源二手车市场风云变幻：理想、小米、特斯拉稳居保值率前三",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307904",
-      "title": "WAIC 2026 | 钛虎机器人与西门子签约，共建具身智能标杆工厂",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307915",
-      "title": "千问Qwen3.8-Max-Preview升级！2.4T参数模型进化，体验更优",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307914",
-      "title": "攀升45位！德赛西威再度登榜2026《财富》中国500强",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307912",
-      "title": "伊朗革命卫队宣称摧毁亚马逊巴林数据中心及美军设施",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307911",
-      "title": "创维SKYWORTHK中型SUV下线，将投运香港出租车市场",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307910",
-      "title": "捷尼赛思新SUV GV90将挑战豪华市场，探索纯电入门车型",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/307908",
-      "title": "2026中国汽车论坛上海开幕",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307905",
-      "title": "丰田卡罗拉迎纯电变革，危机感驱动创新加速",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/307903",
-      "title": "铃木汽车印度市场遇挑战：低价策略失灵，高端车型销量低迷",
-      "source": "第一电动",
-      "pushedAt": 1784640615549
-    },
     {
       "url": "https://www.d1ev.com/newsflash/307928",
       "title": "Mobileye云ADAS技术2027年将搭载Stellantis新车型，全球五大车企加入REM生态",
@@ -7305,6 +7203,42 @@
       "title": "2.8万亿参数KimiK3模型上线！LMStudioBionic智能工具支持新突破",
       "source": "第一电动",
       "pushedAt": 1785239832828
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308842",
+      "title": "宝马i4敞篷版谍照曝光，预计2028年发布",
+      "source": "第一电动",
+      "pushedAt": 1785246714558
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308844",
+      "title": "智元WITA-Omni模型登顶DailyOmni榜，音视频理解能力领先全球",
+      "source": "第一电动",
+      "pushedAt": 1785246714558
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308843",
+      "title": "OpenAI更新ChatGPT：拒绝仿写在世作家，保护版权降低法律风险",
+      "source": "第一电动",
+      "pushedAt": 1785246714558
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308841",
+      "title": "AI公司抢购二手书引发版权争议，纸质知识宝库面临数字化危机",
+      "source": "第一电动",
+      "pushedAt": 1785246714558
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308846",
+      "title": "英伟达股价大跌5%，信用风险担忧激增！",
+      "source": "第一电动",
+      "pushedAt": 1785246714558
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308845",
+      "title": "大众集团大刀阔斧：砍半车型阵容，零部件种类锐减75%",
+      "source": "第一电动",
+      "pushedAt": 1785246714558
     }
   ],
   "lastUpdated": "2026-07-28"
