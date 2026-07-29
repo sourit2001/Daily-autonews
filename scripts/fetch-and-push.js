@@ -10,6 +10,7 @@ const CONFIG = {
   OPENROUTER_FALLBACK_MODELS: (process.env.OPENROUTER_FALLBACK_MODELS || process.env.OPENROUTER_FALLBACK_MODEL || 'minimax/minimax-m2.5:free,z-ai/glm-4.5-air:free')
     .split(',').map(model => model.trim()).filter(Boolean),
   SUMMARY_BATCH_SIZE: Math.max(1, Number(process.env.SUMMARY_BATCH_SIZE) || 8),
+  NEWS_MAX_PAGES: Math.max(1, Number(process.env.NEWS_MAX_PAGES) || 20),
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -92,47 +93,50 @@ function getDisplayDate() {
 function parseDate(dateStr) {
   if (!dateStr) return null;
 
-  // 清理字符串
   const cleanStr = dateStr.trim();
 
-  // 尝试多种格式
-  const formats = [
-    { regex: /(\d{4})-(\d{1,2})-(\d{1,2})/, hasYear: true },  // 2026-02-11
-    { regex: /(\d{4})\/(\d{1,2})\/(\d{1,2})/, hasYear: true },  // 2026/02/11
-    { regex: /(\d{4})年(\d{1,2})月(\d{1,2})日/, hasYear: true }, // 2026年02月11日
-    { regex: /(\d{1,2})月(\d{1,2})日/, hasYear: false }, // 02月11日
-  ];
+  // 带明确时区的 ISO 时间交给原生解析。
+  if (/[T\s]\d{1,2}:\d{2}.*(?:Z|[+-]\d{2}:?\d{2})$/i.test(cleanStr)) {
+    const timestamp = Date.parse(cleanStr);
+    if (!Number.isNaN(timestamp)) return timestamp;
+  }
 
-  for (const format of formats) {
-    const match = cleanStr.match(format.regex);
-    if (match) {
-      let year, month, day;
+  // 新闻站点时间均按北京时间展示。保留时分秒，避免把前一晚的新闻误判成超过24小时。
+  const fullMatch = cleanStr.match(
+    /(\d{4})[-/年](\d{1,2})[-/月](\d{1,2})(?:日)?(?:[T\s]+(\d{1,2}):(\d{1,2})(?::(\d{1,2}))?)?/
+  );
+  const shortMatch = cleanStr.match(
+    /(\d{1,2})月(\d{1,2})日(?:[T\s]+(\d{1,2}):(\d{1,2})(?::(\d{1,2}))?)?/
+  );
 
-      if (format.hasYear) {
-        year = parseInt(match[1]);
-        month = parseInt(match[2]) - 1; // 月份从0开始
-        day = parseInt(match[3]);
-      } else {
-        // 没有年份，使用当前年份
-        const now = new Date();
-        year = now.getFullYear();
-        month = parseInt(match[1]) - 1;
-        day = parseInt(match[2]);
-      }
+  if (fullMatch || shortMatch) {
+    const hasYear = Boolean(fullMatch);
+    const match = fullMatch || shortMatch;
+    const bjNow = getZonedDateTime();
+    const year = hasYear ? Number(match[1]) : bjNow.getFullYear();
+    const month = Number(match[hasYear ? 2 : 1]);
+    const day = Number(match[hasYear ? 3 : 2]);
+    const timeOffset = hasYear ? 4 : 3;
+    const hasTime = match[timeOffset] !== undefined;
+    const hour = hasTime ? Number(match[timeOffset]) : 23;
+    const minute = hasTime ? Number(match[timeOffset + 1]) : 59;
+    const second = hasTime ? Number(match[timeOffset + 2] || 0) : 59;
 
-      const date = new Date(year, month, day);
-      // 验证日期是否有效
-      if (date.getFullYear() === year && date.getMonth() === month && date.getDate() === day) {
-        return date.getTime();
-      }
+    const validationDate = new Date(Date.UTC(year, month - 1, day));
+    const isValid = validationDate.getUTCFullYear() === year
+      && validationDate.getUTCMonth() === month - 1
+      && validationDate.getUTCDate() === day
+      && hour >= 0 && hour <= 23
+      && minute >= 0 && minute <= 59
+      && second >= 0 && second <= 59;
+
+    if (isValid) {
+      return Date.UTC(year, month - 1, day, hour - 8, minute, second);
     }
   }
 
-  // 尝试直接解析（ISO格式等）
-  const directParse = new Date(cleanStr);
-  if (!isNaN(directParse.getTime())) {
-    return directParse.getTime();
-  }
+  const directTimestamp = Date.parse(cleanStr);
+  if (!Number.isNaN(directTimestamp)) return directTimestamp;
 
   return null;
 }
@@ -142,6 +146,7 @@ const NEWS_SOURCES = [
   {
     name: '盖世汽车-资讯',
     url: 'https://i.gasgoo.com/news/c-0-1.html',
+    pageUrl: page => `https://i.gasgoo.com/news/c-0-${page}.html`,
     selector: '.contentFile > ul > li',
     extract: ($, elem) => {
       const $item = $(elem);
@@ -189,20 +194,59 @@ function httpGet(url, headers = {}) {
 async function fetchFromSource(source) {
   console.log(`📰 正在抓取: ${source.name}...`);
   try {
-    const html = await httpGet(source.url);
-    const $ = cheerio.load(html);
     const newsList = [];
+    const pageCount = source.pageUrl ? CONFIG.NEWS_MAX_PAGES : 1;
+    let consecutiveStalePages = 0;
 
-    $(source.selector).each((_, elem) => {
-      try {
-        const news = source.extract($, elem);
-        if (news && !newsList.find(n => n.url === news.url)) {
+    for (let page = 1; page <= pageCount; page++) {
+      const pageUrl = source.pageUrl ? source.pageUrl(page) : source.url;
+      const html = await httpGet(pageUrl);
+      const $ = cheerio.load(html);
+      const pageNews = [];
+
+      $(source.selector).each((_, elem) => {
+        try {
+          const news = source.extract($, elem);
+          if (news && !pageNews.find(n => n.url === news.url)) {
+            pageNews.push(news);
+          }
+        } catch (e) { }
+      });
+
+      if (pageNews.length === 0) {
+        console.log(`  ⚠️ 第${page}页未解析到新闻，停止翻页`);
+        break;
+      }
+
+      pageNews.forEach(news => {
+        if (!newsList.find(item => item.url === news.url)) {
           newsList.push(news);
         }
-      } catch (e) { }
-    });
+      });
 
-    console.log(`  ✅ ${source.name}: 获取 ${newsList.length} 条`);
+      const dates = pageNews.map(news => parseDate(news.publishTime)).filter(Boolean);
+      const newestDate = dates.length ? Math.max(...dates) : null;
+      // 列表只有日期，没有时分；保留48小时候选窗口，最终再用详情页精确到24小时。
+      const isClearlyStale = newestDate && (Date.now() - newestDate > 48 * 60 * 60 * 1000);
+      consecutiveStalePages = isClearlyStale ? consecutiveStalePages + 1 : 0;
+
+      const dateLabel = dates.length
+        ? `${new Date(Math.min(...dates)).toLocaleDateString('zh-CN')}～${new Date(newestDate).toLocaleDateString('zh-CN')}`
+        : '日期未知';
+      console.log(`  📄 第${page}页: ${pageNews.length}条（${dateLabel}）`);
+
+      // 盖世汽车分页偶尔并非严格按时间排序，连续两页明显过旧才停止。
+      if (consecutiveStalePages >= 2) {
+        console.log(`  ⏹️ 连续${consecutiveStalePages}页均明显早于候选窗口，停止翻页`);
+        break;
+      }
+
+      if (page < pageCount) {
+        await new Promise(resolve => setTimeout(resolve, 300));
+      }
+    }
+
+    console.log(`  ✅ ${source.name}: 共获取 ${newsList.length} 条`);
     return newsList;
   } catch (e) {
     console.log(`  ❌ ${source.name}: ${e.message}`);
@@ -560,6 +604,32 @@ async function sendToFeishu(categorizedNews, dateStr) {
   });
 }
 
+async function sendBatchesToFeishu(categorizedNews, dateStr) {
+  const categories = ['新车发布', '智能电气', '国际化', '其他'];
+  const orderedNews = categories.flatMap(category =>
+    categorizedNews[category].map(news => ({ category, news }))
+  );
+  const totalBatches = Math.ceil(orderedNews.length / CONFIG.BATCH_SIZE);
+
+  for (let i = 0; i < orderedNews.length; i += CONFIG.BATCH_SIZE) {
+    const batchNumber = Math.floor(i / CONFIG.BATCH_SIZE) + 1;
+    const batchCategorized = Object.fromEntries(categories.map(category => [category, []]));
+
+    orderedNews.slice(i, i + CONFIG.BATCH_SIZE).forEach(({ category, news }) => {
+      batchCategorized[category].push(news);
+    });
+
+    const batchDateStr = totalBatches > 1
+      ? `${dateStr}（${batchNumber}/${totalBatches}）`
+      : dateStr;
+    await sendToFeishu(batchCategorized, batchDateStr);
+
+    if (batchNumber < totalBatches) {
+      await new Promise(resolve => setTimeout(resolve, 500));
+    }
+  }
+}
+
 // 获取飞书 tenant_access_token
 async function getFeishuAccessToken() {
   const postData = JSON.stringify({
@@ -730,8 +800,23 @@ async function main() {
     const recentNews = [];
     const now = Date.now();
     const hours24 = 24 * 60 * 60 * 1000; // 24小时毫秒数
+    const bjToday = getZonedDateTime();
+    const bjYesterday = new Date(bjToday);
+    bjYesterday.setDate(bjYesterday.getDate() - 1);
+    const formatDateKey = date =>
+      `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+    const candidateDateKeys = new Set([formatDateKey(bjToday), formatDateKey(bjYesterday)]);
 
     for (const news of filteredNews) {
+      // 24小时窗口只可能跨今天和昨天；更早的列表项无需再请求详情页。
+      const listDateMatch = String(news.publishTime || '').match(/(\d{4})-(\d{1,2})-(\d{1,2})/);
+      if (listDateMatch) {
+        const listDateKey = `${listDateMatch[1]}-${listDateMatch[2].padStart(2, '0')}-${listDateMatch[3].padStart(2, '0')}`;
+        if (!candidateDateKeys.has(listDateKey)) {
+          continue;
+        }
+      }
+
       // 尝试抓取新闻详情页获取准确发布时间
       try {
         const detailHtml = await httpGet(news.url);
@@ -837,7 +922,7 @@ async function main() {
     console.log('\n📤 正在推送到飞书...');
     const bjNow = getZonedDateTime();
     const dateStr = `${bjNow.getMonth() + 1}月${bjNow.getDate()}日 ${String(bjNow.getHours()).padStart(2, '0')}:${String(bjNow.getMinutes()).padStart(2, '0')}`;
-    await sendToFeishu(categorized, dateStr);
+    await sendBatchesToFeishu(categorized, dateStr);
 
     // 将所有新闻打平准备写入表格
     const newsToSync = [];
@@ -888,4 +973,13 @@ async function main() {
   }
 }
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = {
+  NEWS_SOURCES,
+  fetchFromSource,
+  fetchNewsDetail,
+  parseDate
+};
