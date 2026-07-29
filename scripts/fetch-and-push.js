@@ -140,28 +140,28 @@ function parseDate(dateStr) {
 // 新闻源配置
 const NEWS_SOURCES = [
   {
-    name: '第一电动-快讯',
-    url: 'https://www.d1ev.com/newsflash',
-    selector: '.content-list li',
+    name: '盖世汽车-资讯',
+    url: 'https://i.gasgoo.com/news/c-0-1.html',
+    selector: '.contentFile > ul > li',
     extract: ($, elem) => {
-      const $link = $(elem).find('.list-desc a');
+      const $item = $(elem);
+      const $link = $item.find('h3.titl > a').first();
       const href = $link.attr('href');
-      const titleSnippet = $link.find('.desc-title').text().trim();
       if (!href) return null;
 
-      // 快讯通常在列表页就有完整正文
-      const fullText = $link.text().trim();
-      // 去掉标题部分，剩下就是正文
-      const content = fullText.replace(titleSnippet, '').trim();
-
-      const title = titleSnippet.replace(/^【|】$/g, ''); // 去掉书名号
-      const fullUrl = href.startsWith('http') ? href : `https://www.d1ev.com${href}`;
+      const title = $link.text().trim();
+      const fullUrl = href.startsWith('http') ? href : `https://i.gasgoo.com${href}`;
+      const content = $item.find('dl dd').clone().find('a').remove().end().text()
+        .replace(/^简介[：:]\s*/, '')
+        .trim();
+      const publishTime = $item.find('.time > span').first().text().trim();
 
       return {
         title,
         url: fullUrl,
-        source: '第一电动',
-        content: content || null
+        source: '盖世汽车',
+        content: content || null,
+        publishTime: publishTime || null
       };
     }
   }
@@ -265,8 +265,9 @@ async function fetchNewsDetail(url) {
     // 移除脚本和样式标签，避免提取到代码片段
     $('script, style, ins, .advert, .advertisement').remove();
 
-    // 扩展选择器支持更多网站，特别是第一电动 (#showall233, .ws-newscon)
+    // 按网站正文容器的精确程度排序，优先使用盖世汽车和第一电动的专用选择器。
     const selectors = [
+      '.technologyContent',
       '#showall233',
       '.ws-newscon',
       '.article-content',
@@ -507,10 +508,14 @@ async function sendToFeishu(categorizedNews, dateStr) {
     elements.push({ tag: 'hr' });
   }
 
+  const sourceNames = [...new Set(
+    Object.values(categorizedNews).flat().map(news => news.source).filter(Boolean)
+  )].join('、') || '汽车行业公开资讯';
+
   elements.push({
     tag: 'note',
     elements: [
-      { tag: 'plain_text', content: `📌 数据来源：第一电动\n📊 总计：${globalIndex} 条新闻\n⚠️ 内容仅供参考，以官方发布为准` }
+      { tag: 'plain_text', content: `📌 数据来源：${sourceNames}\n📊 总计：${globalIndex} 条新闻\n⚠️ 内容仅供参考，以官方发布为准` }
     ]
   });
 
@@ -732,8 +737,12 @@ async function main() {
         const detailHtml = await httpGet(news.url);
         const $ = cheerio.load(detailHtml);
 
-        // 尝试多种时间选择器
-        let publishTime = $('.time, .date, .publish-time, .article-time, [class*="time"]').first().text().trim();
+        // 优先读取盖世汽车详情页中的精确发布时间，再兼容其他站点。
+        let publishTime = $('.introduce span').map((_, el) => $(el).text().trim()).get()
+          .find(text => /\d{4}[-/年]\d{1,2}[-/月]\d{1,2}/.test(text));
+        if (!publishTime) {
+          publishTime = $('.time, .date, .publish-time, .article-time, [class*="time"]').first().text().trim();
+        }
 
         // 如果没有找到，尝试从页面内容中匹配日期格式
         if (!publishTime) {
@@ -809,9 +818,10 @@ async function main() {
         // 优先使用列表中已抓取到的内容
         let content = news.content;
 
-        if (!content) {
+        // 盖世汽车列表摘要可能以省略号截断，此时继续抓取详情页正文。
+        if (!content || /(?:\.\.\.|…)$/.test(content)) {
           console.log(`  [详情抓取] ${news.title.slice(0, 35)}...`);
-          content = await fetchNewsDetail(news.url);
+          content = await fetchNewsDetail(news.url) || content;
         } else {
           console.log(`  [直接获取] ${news.title.slice(0, 35)}...`);
         }
