@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306770",
-    "https://www.d1ev.com/news/shichang/306768",
-    "https://www.d1ev.com/news/shichang/306767",
-    "https://www.d1ev.com/newsflash/306765",
-    "https://www.d1ev.com/newsflash/306764",
-    "https://www.d1ev.com/news/shichang/306762",
-    "https://www.d1ev.com/news/shichang/306761",
-    "https://www.d1ev.com/newsflash/306760",
-    "https://www.d1ev.com/newsflash/306758",
-    "https://www.d1ev.com/newsflash/306756",
     "https://www.d1ev.com/newsflash/306755",
     "https://www.d1ev.com/news/shichang/306753",
     "https://www.d1ev.com/newsflash/306752",
@@ -1999,159 +1989,19 @@
     "https://i.gasgoo.com/news/70467918.html",
     "https://i.gasgoo.com/news/70467917.html",
     "https://i.gasgoo.com/news/70467916.html",
-    "https://i.gasgoo.com/news/70467816.html"
+    "https://i.gasgoo.com/news/70467816.html",
+    "https://i.gasgoo.com/news/70467951.html",
+    "https://i.gasgoo.com/news/70467946.html",
+    "https://i.gasgoo.com/news/70467950.html",
+    "https://i.gasgoo.com/news/70467935.html",
+    "https://i.gasgoo.com/news/70467933.html",
+    "https://i.gasgoo.com/news/70467948.html",
+    "https://i.gasgoo.com/news/70467930.html",
+    "https://i.gasgoo.com/news/70467931.html",
+    "https://i.gasgoo.com/news/70467929.html",
+    "https://i.gasgoo.com/news/70467927.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308113",
-      "title": "192GB内存！Framework迷你主机搭载AMD锐龙AI处理器亮相",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308108",
-      "title": "光模块巨头中际旭创拟募资550亿港元 7月30日港股上市",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/308107",
-      "title": "或售11.5万起 比亚迪秦MAX将8月13日上市",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/308106",
-      "title": "最强版本 疑似全新道奇Charger SRT曝光",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/308103",
-      "title": "马自达6e在泰国上市 起售价为1,169,000泰铢",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308114",
-      "title": "日本自动驾驶软件公司提雅智行登陆东证Growth",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308112",
-      "title": "5nm芯片新突破！Acrab GΞLIX1 SoC AI算力达650TOPS",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308111",
-      "title": "50万新能源SUV境外被锁30小时，车主跨国行程受阻",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308110",
-      "title": "AMD与Anthropic联手50亿美元打造2GW级AI基础设施",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308102",
-      "title": "日产聆风NISMO版来袭：27.4万起售，性能升级续航达560km！",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308097",
-      "title": "谷歌AI竞赛遇挑战：Gemini3.5Pro推迟，竞争对手嘲讽声起",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308096",
-      "title": "特斯拉财报亮眼：营收增26%，净利润承压，未来押注自动驾驶与机器人",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308095",
-      "title": "【盖世快讯】地平线与大众汽车深化AI合作；小米澎程系列确认增程器保养方案",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308094",
-      "title": "中国AI模型KimiK3挑战美国霸主地位，OpenAI总裁回应竞争态势",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308093",
-      "title": "大众携手地平线深化AI合作，共研L3/L4级自动驾驶技术",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308104",
-      "title": "特斯拉Q2财报亮眼：全球交付量创新高，无人驾驶网约车服务扩展至7城",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308101",
-      "title": "小鹏汽车瞄准北美市场，何小鹏：美国政策一变，我们马上进！",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308117",
-      "title": "美《联网车辆安全法案》或禁售奔驰，中资持股超红线引发担忧",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308116",
-      "title": "凯迪拉克XT6回归燃油车市场，纯电车型销量不及预期",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308115",
-      "title": "北京奔驰纯电CLAL销量惨淡，中国市场停产或成定局",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308109",
-      "title": "高速惊魂！理想车主遇逆行车险酿大祸",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/308105",
-      "title": "马来西亚首台奇瑞iCAR V23下线 7月底到店",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308100",
-      "title": "奔驰纯电CLAL在华停产，上半年销量仅627辆",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308099",
-      "title": "LAB代表大会丨舱驾融合，到底是不是说说而已？",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308098",
-      "title": "家庭用车好选择 四款纯电中大型SUV推荐",
-      "source": "第一电动",
-      "pushedAt": 1784772903025
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308164",
       "title": "路虎揽胜GT纯电轿跑SUV曝光：极简设计+双电机四驱，未来感十足！",
@@ -6615,6 +6465,66 @@
       "title": "年薪翻倍也挖不来人，车企决定自己养",
       "source": "盖世汽车",
       "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467951.html",
+      "title": "新款深蓝S05开启预售，11.99万起售",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467946.html",
+      "title": "法拉利首款电动车Luce售罄今年全部配额",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467950.html",
+      "title": "【国际快讯】曝国轩高科拟入股大众西班牙电池工厂；雷诺上半年扭亏为盈；...",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467935.html",
+      "title": "传大众与国轩高科洽谈西班牙电池工厂合作事宜",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467933.html",
+      "title": "起亚拟投资6.49亿美元 在墨西哥投产电动汽车",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467948.html",
+      "title": "美国2026年第二季度混动车型销量创新高",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467930.html",
+      "title": "聚智同行丨盖世汽车CEO周晓莺受邀参加一汽营销创新媒体交流会",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467931.html",
+      "title": "兰博基尼上半年营业利润下滑超8%",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467929.html",
+      "title": "小米澎程实车7月30日起，陆续到店",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467927.html",
+      "title": "东风汽车千伏电驱与兆瓦超充桩样机下线",
+      "source": "盖世汽车",
+      "pushedAt": 1785387314399
     }
   ],
   "lastUpdated": "2026-07-30"
