@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306785",
-    "https://www.d1ev.com/newsflash/306779",
-    "https://www.d1ev.com/news/qiye/306778",
-    "https://www.d1ev.com/news/shichang/306777",
-    "https://www.d1ev.com/newsflash/306772",
-    "https://www.d1ev.com/newsflash/306763",
-    "https://www.d1ev.com/newsflash/306757",
-    "https://www.d1ev.com/newsflash/306769",
-    "https://www.d1ev.com/newsflash/306791",
-    "https://www.d1ev.com/newsflash/306783",
-    "https://www.d1ev.com/news/shichang/306776",
-    "https://www.d1ev.com/news/shichang/306775",
-    "https://www.d1ev.com/newsflash/306773",
     "https://www.d1ev.com/newsflash/306770",
     "https://www.d1ev.com/news/shichang/306768",
     "https://www.d1ev.com/news/shichang/306767",
@@ -1999,39 +1986,22 @@
     "https://i.gasgoo.com/news/70467743.html",
     "https://i.gasgoo.com/news/70467742.html",
     "https://i.gasgoo.com/news/70467741.html",
-    "https://i.gasgoo.com/news/70467612.html"
+    "https://i.gasgoo.com/news/70467612.html",
+    "https://i.gasgoo.com/news/70467823.html",
+    "https://i.gasgoo.com/news/70467664.html",
+    "https://i.gasgoo.com/news/70467791.html",
+    "https://i.gasgoo.com/news/70467822.html",
+    "https://i.gasgoo.com/news/70467925.html",
+    "https://i.gasgoo.com/news/70467924.html",
+    "https://i.gasgoo.com/news/70467923.html",
+    "https://i.gasgoo.com/news/70467922.html",
+    "https://i.gasgoo.com/news/70467921.html",
+    "https://i.gasgoo.com/news/70467918.html",
+    "https://i.gasgoo.com/news/70467917.html",
+    "https://i.gasgoo.com/news/70467916.html",
+    "https://i.gasgoo.com/news/70467816.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308087",
-      "title": "努比亚NaviXUltra全球首发：骁龙8EliteGen5+7100mAh电池，AI智能体手机来袭！",
-      "source": "第一电动",
-      "pushedAt": 1784734136019
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308091",
-      "title": "“电车小飞”诋毁理想汽车被判败诉，账号被封禁！",
-      "source": "第一电动",
-      "pushedAt": 1784734136019
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308090",
-      "title": "奇瑞iCAR V23马来西亚首车下线，硬派SUV风格售价约20万起",
-      "source": "第一电动",
-      "pushedAt": 1784734136019
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308089",
-      "title": "民航局公示首批载人eVTOL适航审定合规企业名录，小鹏汇天等4家企业入选",
-      "source": "第一电动",
-      "pushedAt": 1784734136019
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308088",
-      "title": "小米澎程系列引燃市场！女性用户激增，北方咨询量飙升",
-      "source": "第一电动",
-      "pushedAt": 1784734136019
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308113",
       "title": "192GB内存！Framework迷你主机搭载AMD锐龙AI处理器亮相",
@@ -6567,7 +6537,85 @@
       "title": "麦格纳获得奇瑞800V电驱动项目定点",
       "source": "盖世汽车",
       "pushedAt": 1785333739896
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467823.html",
+      "title": "埃安发布全新车系Ray，打造年轻人的超级纯电轿车Ray 7",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467664.html",
+      "title": "全固态电池，该醒醒了",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467791.html",
+      "title": "【盖世快讯】李想欢迎雷军入局增程赛道；曝智驾“小蓝灯”将被禁用",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467822.html",
+      "title": "百强榜 | 全球汽车Tier1，正在经历一场权力大换血  ​",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467925.html",
+      "title": "雷诺上半年扭亏为盈 营收增长9.4%",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467924.html",
+      "title": "高通获宝马“大单”",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467923.html",
+      "title": "周期已至，长安反思",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467922.html",
+      "title": "换帅、盈利、续约悬局，上汽通用走到十字路口",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467921.html",
+      "title": "比亚迪人形机器人，八月首秀",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467918.html",
+      "title": "小蓝灯、旋转座椅、零重力，“网红配置”相继被严管",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467917.html",
+      "title": "增程器能喝92号油，到底是技术还是营销���",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467916.html",
+      "title": "小蓝灯不会消失，但它必须暂时告别",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70467816.html",
+      "title": "年薪翻倍也挖不来人，车企决定自己养",
+      "source": "盖世汽车",
+      "pushedAt": 1785376508109
     }
   ],
-  "lastUpdated": "2026-07-29"
+  "lastUpdated": "2026-07-30"
 }
