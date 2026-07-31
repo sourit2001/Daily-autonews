@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/306906",
-    "https://www.d1ev.com/newsflash/306904",
     "https://www.d1ev.com/newsflash/306900",
     "https://www.d1ev.com/newsflash/306892",
     "https://www.d1ev.com/newsflash/306890",
@@ -1999,63 +1997,11 @@
     "https://i.gasgoo.com/news/70468150.html",
     "https://i.gasgoo.com/news/70468140.html",
     "https://i.gasgoo.com/news/70468182.html",
-    "https://i.gasgoo.com/news/70468168.html"
+    "https://i.gasgoo.com/news/70468168.html",
+    "https://i.gasgoo.com/news/70468184.html",
+    "https://i.gasgoo.com/news/70468183.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308432",
-      "title": "小米新机备案曝光：澎湃OS4系统搭载多款大模型，超级小爱再升级！",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308438",
-      "title": "广汽丰田推电池起火全赔政策，铂智7&3X新老用户终身享",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308437",
-      "title": "广汽丰田铂智7推电池起火全赔政策，20万级纯电轿车新标杆",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308436",
-      "title": "吉利银河战舰700全球首秀，1128匹马力AI越野SUV震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308434",
-      "title": "美国25科技巨头联名呼吁：开放AI模型，共享技术红利",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308431",
-      "title": "印度HCLTech联手奥里萨邦打造百亿AI数据中心，助力本土智能生态建设",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308435",
-      "title": "蚂蚁集团百灵发布Ling-3.0-flash：参数量减半性能超前代",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308433",
-      "title": "微星发布4L迷你台式机：搭载AMD锐龙处理器，支持Wi-Fi 7，性能强悍！",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308430",
-      "title": "45岁车主刷新11赛道纪录，小米SU7Ultra硬核实力获赞",
-      "source": "第一电动",
-      "pushedAt": 1784906639915
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308453",
       "title": "新款马自达3和CX-30升级上市，新增2.5L发动机动力更强",
@@ -5313,6 +5259,18 @@
       "title": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
       "source": "盖世汽车",
       "pushedAt": 1785505834580
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468184.html",
+      "title": "长城汽车：Hi4面向全球的智能四驱",
+      "source": "盖世汽车",
+      "pushedAt": 1785513579964
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468183.html",
+      "title": "工信部监督检查奇瑞、蔚来、江汽",
+      "source": "盖世汽车",
+      "pushedAt": 1785513579964
     }
   ],
   "lastUpdated": "2026-07-31"
