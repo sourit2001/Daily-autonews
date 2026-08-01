@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/306893",
-    "https://www.d1ev.com/newsflash/306891",
     "https://www.d1ev.com/news/shichang/306889",
     "https://www.d1ev.com/newsflash/306888",
     "https://www.d1ev.com/news/shichang/306885",
@@ -1999,111 +1997,11 @@
     "https://i.gasgoo.com/news/70468271.html",
     "https://i.gasgoo.com/news/70468269.html",
     "https://i.gasgoo.com/news/70468268.html",
-    "https://i.gasgoo.com/news/70468265.html"
+    "https://i.gasgoo.com/news/70468265.html",
+    "https://i.gasgoo.com/news/70468284.html",
+    "https://i.gasgoo.com/news/70468283.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308488",
-      "title": "零跑A05纯电小车亮相：7层座椅+百变模式，续航510km！",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308480",
-      "title": "岚图追光S预售开启：顶配30.99万，华为智驾加持，四激光雷达加持！",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308476",
-      "title": "哈啰智能电动车搭载鸿蒙系统亮相内蒙古“十六运”",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308489",
-      "title": "美国AI大模型价格战升级：Anthropic新模型Opus5半价上线",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308487",
-      "title": "马斯克Neuralink新突破：意念控制电动轮椅成现实！",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308486",
-      "title": "微软自研AI超越前沿技术，降低企业部署成本",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308485",
-      "title": "三星推AI健康助手：五大健康数据集成，助你早发现健康风险",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308484",
-      "title": "AI普及广但应用浅，谷歌报告揭示全球AI使用现状",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308483",
-      "title": "理想AI眼镜Livis升级：跨设备办公新体验，小红书Agent加持！",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308479",
-      "title": "吴恩达开源AI助手OpenWorker：聊天、任务处理样样行！",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308477",
-      "title": "AI工作模拟器将颠覆职场培训，库班预言未来员工先模拟后实战",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308482",
-      "title": "奇瑞集团全球销量破2000万，连续23年出口第一",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308491",
-      "title": "阿里QoderMobile App三端同步上线，手机变身轻量级开发终端",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308490",
-      "title": "鸿蒙智行问界M9Ultimate新配置发布，64.98万起售",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308481",
-      "title": "问界M9涉水深度达82厘米，城市SUV新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308478",
-      "title": "大众纯电小车销量超7万！挑战雷诺5，迎战中国品牌",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308475",
-      "title": "吉利星越L销量破百万，中国品牌高端SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1784972556038
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308494",
       "title": "35家科技巨头联手呼吁：开放AI模型，共享智能未来！",
@@ -5145,6 +5043,18 @@
       "title": "零跑7月交付首破10万台，全域自研支撑销量持续走高",
       "source": "盖世汽车",
       "pushedAt": 1785565452232
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468284.html",
+      "title": "大众安徽7月交付2149辆，同比增长170%",
+      "source": "盖世汽车",
+      "pushedAt": 1785578012446
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468283.html",
+      "title": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
+      "source": "盖世汽车",
+      "pushedAt": 1785578012446
     }
   ],
   "lastUpdated": "2026-08-01"
