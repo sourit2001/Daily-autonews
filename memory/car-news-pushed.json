@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306900",
-    "https://www.d1ev.com/newsflash/306892",
-    "https://www.d1ev.com/newsflash/306890",
-    "https://www.d1ev.com/newsflash/306886",
-    "https://www.d1ev.com/news/shichang/306884",
-    "https://www.d1ev.com/newsflash/306880",
-    "https://www.d1ev.com/newsflash/306877",
-    "https://www.d1ev.com/newsflash/306910",
     "https://www.d1ev.com/news/shichang/306905",
     "https://www.d1ev.com/carnews/xinche/306903",
     "https://www.d1ev.com/newsflash/306899",
@@ -1999,105 +1991,17 @@
     "https://i.gasgoo.com/news/70468182.html",
     "https://i.gasgoo.com/news/70468168.html",
     "https://i.gasgoo.com/news/70468184.html",
-    "https://i.gasgoo.com/news/70468183.html"
+    "https://i.gasgoo.com/news/70468183.html",
+    "https://i.gasgoo.com/news/70468259.html",
+    "https://i.gasgoo.com/news/70468130.html",
+    "https://i.gasgoo.com/news/70468263.html",
+    "https://i.gasgoo.com/news/70468262.html",
+    "https://i.gasgoo.com/news/70468261.html",
+    "https://i.gasgoo.com/news/70468260.html",
+    "https://i.gasgoo.com/news/70468148.html",
+    "https://i.gasgoo.com/news/70468146.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308453",
-      "title": "新款马自达3和CX-30升级上市，新增2.5L发动机动力更强",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308451",
-      "title": "奕境X-CLUB开张！1000名额抢先体验，华为技术加持新车X9即将预售",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308450",
-      "title": "奔驰GLA第三代车型即将亮相，纯电版接替EQA，设计革新！",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308445",
-      "title": "奔驰GLA全新升级：纯电续航720km，2026年底上市！",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308454",
-      "title": "OpenAI智能体失控攻击HuggingFace，AI安全引发全球关注",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308452",
-      "title": "黄仁勋力挺开源AI模型：25家巨头共签公开信，中小企业受益",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308449",
-      "title": "马斯克诉OpenAI索赔1500亿被驳回，AI权力集中加剧？",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308447",
-      "title": "钠电池崛起？宁德时代订单激增，磷酸铁锂或将被淘汰",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308446",
-      "title": "AI专家卡帕西：与AI对话不必完美，随心所欲更高效",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308444",
-      "title": "英伟达CEO黄仁勋：AI末日论已过时，美国需拥抱AI技术",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308441",
-      "title": "广汽集团亏损加剧，日系依赖症难解，新能源转型迫在眉睫",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308440",
-      "title": "性能翻倍价格不变！Anthropic发布Opus5旗舰AI模型",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308443",
-      "title": "车芯协同，聚力致远 | 中国汽车出海供应链风险研讨会在扬杰科技成功举办",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308455",
-      "title": "特斯拉Cybercab搭载星链V5，无人驾驶车顶现4K流媒体新体验",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308448",
-      "title": "Waymo计划2028年独立进军奥斯汀和亚特兰大市场，与Uber合作将结束",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308442",
-      "title": "“极氪9X车主出国遭远程锁车，跨国自驾游遇囧境”",
-      "source": "第一电动",
-      "pushedAt": 1784945256393
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308472",
       "title": "梅赛德斯AMG GT63 Pro成F1新安全车，四轮驱动首亮相匈牙利赛道",
@@ -5271,7 +5175,55 @@
       "title": "工信部监督检查奇瑞、蔚来、江汽",
       "source": "盖世汽车",
       "pushedAt": 1785513579964
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468259.html",
+      "title": "五大全球领先重塑“8系旗舰”标杆！神行者8首台量产车下线，8月10日预售",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468130.html",
+      "title": "谁杀死了新能源车企的利润？",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468263.html",
+      "title": "三年六案清沉疴，东风柳汽焕新生？",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468262.html",
+      "title": "从纽北到客厅：雷军换了一种说法卖车",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468261.html",
+      "title": "半年索赔超千万，汽车品牌法务部终究难两全",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468260.html",
+      "title": "“杀死”驾校的，会是滴滴司机还是辅助驾驶？",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468148.html",
+      "title": "多家豪华车4S店退网做专修、推198低价保养…与40万汽服门店贴身肉搏，谁...",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468146.html",
+      "title": "17家车企抢“定损权”，4S集团截杀同行70%利润，保司开3000家优选店...事...",
+      "source": "盖世汽车",
+      "pushedAt": 1785550319095
     }
   ],
-  "lastUpdated": "2026-07-31"
+  "lastUpdated": "2026-08-01"
 }
