@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/306889",
-    "https://www.d1ev.com/newsflash/306888",
-    "https://www.d1ev.com/news/shichang/306885",
-    "https://www.d1ev.com/news/shichang/306883",
-    "https://www.d1ev.com/newsflash/306881",
-    "https://www.d1ev.com/newsflash/306878",
     "https://www.d1ev.com/news/qiye/306928",
     "https://www.d1ev.com/newsflash/306923",
     "https://www.d1ev.com/news/shichang/306914",
@@ -1999,57 +1993,15 @@
     "https://i.gasgoo.com/news/70468268.html",
     "https://i.gasgoo.com/news/70468265.html",
     "https://i.gasgoo.com/news/70468284.html",
-    "https://i.gasgoo.com/news/70468283.html"
+    "https://i.gasgoo.com/news/70468283.html",
+    "https://i.gasgoo.com/news/70468308.html",
+    "https://i.gasgoo.com/news/70468310.html",
+    "https://i.gasgoo.com/news/70468309.html",
+    "https://i.gasgoo.com/news/70468313.html",
+    "https://i.gasgoo.com/news/70468311.html",
+    "https://i.gasgoo.com/news/70468307.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308494",
-      "title": "35家科技巨头联手呼吁：开放AI模型，共享智能未来！",
-      "source": "第一电动",
-      "pushedAt": 1784977498890
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308492",
-      "title": "OpenAI服务器故障！ChatGPT、Codex全球宕机急增",
-      "source": "第一电动",
-      "pushedAt": 1784977498890
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308493",
-      "title": "比亚迪方程豹钛7EV闪充版交付提速，4月订单陆续发运",
-      "source": "第一电动",
-      "pushedAt": 1784977498890
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308496",
-      "title": "奇瑞风云A9纯电轿跑上市，655km续航10.69万起",
-      "source": "第一电动",
-      "pushedAt": 1784985108635
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308499",
-      "title": "硅谷巨头联名反对AI开源限制，英伟达黄仁勋强调技术开放重要性",
-      "source": "第一电动",
-      "pushedAt": 1784985108635
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308497",
-      "title": "领克07GT限量版惊艳交付，续航1315km动力强劲！",
-      "source": "第一电动",
-      "pushedAt": 1784985108635
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308495",
-      "title": "美国高校计算机科学专业选课人数20年来首降，AI时代新挑战？",
-      "source": "第一电动",
-      "pushedAt": 1784985108635
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308498",
-      "title": "比亚迪仰望U8升级13项功能，百万级越野新体验！",
-      "source": "第一电动",
-      "pushedAt": 1784985108635
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/308501",
       "title": "奇瑞风云A9正式上市 售价10.99-12.99万元",
@@ -5055,6 +5007,42 @@
       "title": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
       "source": "盖世汽车",
       "pushedAt": 1785578012446
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468308.html",
+      "title": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
+      "source": "盖世汽车",
+      "pushedAt": 1785596178106
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468310.html",
+      "title": "小鹏汽车7月交付38,027台，MONA L03开启全球交付",
+      "source": "盖世汽车",
+      "pushedAt": 1785596178106
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468309.html",
+      "title": "比亚迪7月销量突破41.9万辆 海外销售再创新高",
+      "source": "盖世汽车",
+      "pushedAt": 1785596178106
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468313.html",
+      "title": "小米汽车7月交付再超3万辆",
+      "source": "盖世汽车",
+      "pushedAt": 1785596178106
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468311.html",
+      "title": "小鹏汽车7月交付38,027辆，同比增长4%",
+      "source": "盖世汽车",
+      "pushedAt": 1785596178106
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468307.html",
+      "title": "蔚来7月交付35,934辆，同比增长71%",
+      "source": "盖世汽车",
+      "pushedAt": 1785596178106
     }
   ],
   "lastUpdated": "2026-08-01"
