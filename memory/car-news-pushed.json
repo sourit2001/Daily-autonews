@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306970",
-    "https://www.d1ev.com/carnews/xinche/306969",
-    "https://www.d1ev.com/news/shichang/306963",
     "https://www.d1ev.com/news/shichang/306959",
     "https://www.d1ev.com/news/shichang/306955",
     "https://www.d1ev.com/newsflash/306952",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/newsflash/308919",
     "https://www.d1ev.com/newsflash/308917",
     "https://www.d1ev.com/newsflash/308911",
-    "https://www.d1ev.com/newsflash/308910"
+    "https://www.d1ev.com/newsflash/308910",
+    "https://www.d1ev.com/news/qiye/308955",
+    "https://www.d1ev.com/newsflash/308954",
+    "https://www.d1ev.com/newsflash/308953"
   ],
   "newsHistory": [
     {
@@ -5103,6 +5103,24 @@
       "title": "蔚来7月销量创新高，三品牌齐破历史纪录！",
       "source": "第一电动",
       "pushedAt": 1785664901297
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/308955",
+      "title": "全新一代红旗天工08 670 Max上市，限时权益价17.99万元",
+      "source": "第一电动",
+      "pushedAt": 1785669188918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308954",
+      "title": "比亚迪海豹06全新亮相：B级轿跑革新，预扣价10.5万起",
+      "source": "第一电动",
+      "pushedAt": 1785669188918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308953",
+      "title": "比亚迪7月销量大增20.5%，王朝系列新品不断，8月再迎突破",
+      "source": "第一电动",
+      "pushedAt": 1785669188918
     }
   ],
   "lastUpdated": "2026-08-02"
