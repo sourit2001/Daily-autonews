@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306952",
-    "https://www.d1ev.com/newsflash/306997",
-    "https://www.d1ev.com/newsflash/306993",
-    "https://www.d1ev.com/newsflash/306991",
     "https://www.d1ev.com/newsflash/306990",
     "https://www.d1ev.com/newsflash/306988",
     "https://www.d1ev.com/newsflash/306985",
@@ -1999,33 +1995,13 @@
     "https://www.d1ev.com/newsflash/308954",
     "https://www.d1ev.com/newsflash/308953",
     "https://www.d1ev.com/newsflash/308957",
-    "https://www.d1ev.com/newsflash/308956"
+    "https://www.d1ev.com/newsflash/308956",
+    "https://www.d1ev.com/newsflash/308959",
+    "https://www.d1ev.com/newsflash/308958",
+    "https://www.d1ev.com/newsflash/308961",
+    "https://www.d1ev.com/newsflash/308960"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308554",
-      "title": "奇瑞风云T7开启小订：600km续航+20分钟快充，家用纯电SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1785071258117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308553",
-      "title": "SK集团联手英伟达打造2吉瓦AI工厂，2027年上线",
-      "source": "第一电动",
-      "pushedAt": 1785071258117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308556",
-      "title": "工信部突击检查广汽埃安、小鹏汽车，严查智能网联汽车安全保障",
-      "source": "第一电动",
-      "pushedAt": 1785071258117
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308555",
-      "title": "小米YU7GT武士黑哑光漆面揭秘：科技感与质感的完美融合",
-      "source": "第一电动",
-      "pushedAt": 1785071258117
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/308558",
       "title": "现代汽车推出全球车联网服务",
@@ -5109,6 +5085,30 @@
       "title": "古力娜扎代言猛士M817，华为技术加持，29.99万起售！",
       "source": "第一电动",
       "pushedAt": 1785675992534
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308959",
+      "title": "比亚迪方程豹“钛9”即将亮相，全尺寸SUV搭载550kW动力系统",
+      "source": "第一电动",
+      "pushedAt": 1785682624969
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308958",
+      "title": "奥迪电动A2纽博格林赛道极限测试曝光，2027年上市起售价约27.2万",
+      "source": "第一电动",
+      "pushedAt": 1785682624969
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308961",
+      "title": "哪吒汽车南宁基地设备流拍，降价后二拍仍无人问津",
+      "source": "第一电动",
+      "pushedAt": 1785682624969
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308960",
+      "title": "宝马与欧摩威集团和解：10亿欧元新订单，3.5亿欧元和解金分期支付",
+      "source": "第一电动",
+      "pushedAt": 1785682624969
     }
   ],
   "lastUpdated": "2026-08-02"
