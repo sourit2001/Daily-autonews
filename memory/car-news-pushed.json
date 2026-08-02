@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/306959",
-    "https://www.d1ev.com/news/shichang/306955",
     "https://www.d1ev.com/newsflash/306952",
     "https://www.d1ev.com/newsflash/306997",
     "https://www.d1ev.com/newsflash/306993",
@@ -1999,33 +1997,11 @@
     "https://www.d1ev.com/newsflash/308910",
     "https://www.d1ev.com/news/qiye/308955",
     "https://www.d1ev.com/newsflash/308954",
-    "https://www.d1ev.com/newsflash/308953"
+    "https://www.d1ev.com/newsflash/308953",
+    "https://www.d1ev.com/newsflash/308957",
+    "https://www.d1ev.com/newsflash/308956"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308552",
-      "title": "小米澎程SUV系列来袭：大电池增程，续航505km，亏电油耗仅5.7L/100km",
-      "source": "第一电动",
-      "pushedAt": 1785064517342
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308551",
-      "title": "路虎极光L价格跳水超六成，燃油车市场受新能源冲击明显",
-      "source": "第一电动",
-      "pushedAt": 1785064517342
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308550",
-      "title": "奇瑞风云T7小订开启，犀牛电池加持，600km续航仅20分钟快充！",
-      "source": "第一电动",
-      "pushedAt": 1785064517342
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308549",
-      "title": "豪华车市场大降价！奔驰宝马奥迪销量下滑，价格战打响。",
-      "source": "第一电动",
-      "pushedAt": 1785064517342
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308554",
       "title": "奇瑞风云T7开启小订：600km续航+20分钟快充，家用纯电SUV新选择",
@@ -5121,6 +5097,18 @@
       "title": "比亚迪7月销量大增20.5%，王朝系列新品不断，8月再迎突破",
       "source": "第一电动",
       "pushedAt": 1785669188918
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308957",
+      "title": "奇瑞汽车7月销量劲增24.1%，智界品牌销量飙升227.7%",
+      "source": "第一电动",
+      "pushedAt": 1785675992534
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308956",
+      "title": "古力娜扎代言猛士M817，华为技术加持，29.99万起售！",
+      "source": "第一电动",
+      "pushedAt": 1785675992534
     }
   ],
   "lastUpdated": "2026-08-02"
