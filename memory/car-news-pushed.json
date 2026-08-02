@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/306928",
-    "https://www.d1ev.com/newsflash/306923",
-    "https://www.d1ev.com/news/shichang/306914",
-    "https://www.d1ev.com/newsflash/306944",
-    "https://www.d1ev.com/news/qiye/306942",
-    "https://www.d1ev.com/newsflash/306938",
     "https://www.d1ev.com/news/shichang/306936",
     "https://www.d1ev.com/news/shichang/306935",
     "https://www.d1ev.com/news/shichang/306934",
@@ -1999,27 +1993,15 @@
     "https://i.gasgoo.com/news/70468309.html",
     "https://i.gasgoo.com/news/70468313.html",
     "https://i.gasgoo.com/news/70468311.html",
-    "https://i.gasgoo.com/news/70468307.html"
+    "https://i.gasgoo.com/news/70468307.html",
+    "https://i.gasgoo.com/news/70468274.html",
+    "https://i.gasgoo.com/news/70468279.html",
+    "https://i.gasgoo.com/news/70468281.html",
+    "https://i.gasgoo.com/news/70468341.html",
+    "https://i.gasgoo.com/news/70468342.html",
+    "https://i.gasgoo.com/news/70468134.html"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/308501",
-      "title": "奇瑞风云A9正式上市 售价10.99-12.99万元",
-      "source": "第一电动",
-      "pushedAt": 1784991460406
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/308500",
-      "title": "杨紫代言！奇瑞风云A9纯电轿跑上市：10.69万元起",
-      "source": "第一电动",
-      "pushedAt": 1784991460406
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308502",
-      "title": "理想汽车携手哈萨克斯坦Allur集团 开启海外本地化生产新篇章",
-      "source": "第一电动",
-      "pushedAt": 1784991460406
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308510",
       "title": "奇瑞风云A9震撼上市，限时优惠+终身质保引爆新能源市场！",
@@ -5043,7 +5025,43 @@
       "title": "蔚来7月交付35,934辆，同比增长71%",
       "source": "盖世汽车",
       "pushedAt": 1785596178106
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468274.html",
+      "title": "又一电池巨头申请破产！保时捷是股东之一",
+      "source": "盖世汽车",
+      "pushedAt": 1785636545342
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468279.html",
+      "title": "近95%产能利用率！宁德时代上半年盈利432.84亿元！股票回购上限达400亿元...",
+      "source": "盖世汽车",
+      "pushedAt": 1785636545342
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468281.html",
+      "title": "71.56亿元！杉杉股份易主安徽国资！郑氏家族退出董事会",
+      "source": "盖世汽车",
+      "pushedAt": 1785636545342
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468341.html",
+      "title": "实体钥匙存废博弈 车企降本勿丢安全底线",
+      "source": "盖世汽车",
+      "pushedAt": 1785636545342
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468342.html",
+      "title": "上海地铁或涨价，汽车市场开香槟吧",
+      "source": "盖世汽车",
+      "pushedAt": 1785636545342
+    },
+    {
+      "url": "https://i.gasgoo.com/news/70468134.html",
+      "title": "盖世周报 | 陶海龙出任华域汽车总经理；高通拿下宝马大单",
+      "source": "盖世汽车",
+      "pushedAt": 1785636545342
     }
   ],
-  "lastUpdated": "2026-08-01"
+  "lastUpdated": "2026-08-02"
 }
