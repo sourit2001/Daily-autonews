@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306990",
     "https://www.d1ev.com/newsflash/306988",
     "https://www.d1ev.com/newsflash/306985",
     "https://www.d1ev.com/news/shichang/306983",
@@ -1999,33 +1998,10 @@
     "https://www.d1ev.com/newsflash/308959",
     "https://www.d1ev.com/newsflash/308958",
     "https://www.d1ev.com/newsflash/308961",
-    "https://www.d1ev.com/newsflash/308960"
+    "https://www.d1ev.com/newsflash/308960",
+    "https://www.d1ev.com/newsflash/308962"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/308558",
-      "title": "现代汽车推出全球车联网服务",
-      "source": "第一电动",
-      "pushedAt": 1785078043741
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308559",
-      "title": "福特公司申请远程泊车专利",
-      "source": "第一电动",
-      "pushedAt": 1785078043741
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/308557",
-      "title": "松下在谷歌云上验证其驾驶舱虚拟化技术",
-      "source": "第一电动",
-      "pushedAt": 1785078043741
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308561",
-      "title": "德院士赫尔佐格获中国国际科技合作奖，预言AI未来在小智能体协同",
-      "source": "第一电动",
-      "pushedAt": 1785084748035
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308581",
       "title": "尊界V800/V680预售23天订单破万，华为全场景新品8月5日发布",
@@ -5109,7 +5085,13 @@
       "title": "宝马与欧摩威集团和解：10亿欧元新订单，3.5亿欧元和解金分期支付",
       "source": "第一电动",
       "pushedAt": 1785682624969
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308962",
+      "title": "小米澎程N90Max：纯平地板、超长续航，大型SUV新体验",
+      "source": "第一电动",
+      "pushedAt": 1785689571452
     }
   ],
-  "lastUpdated": "2026-08-02"
+  "lastUpdated": "2026-08-03"
 }
