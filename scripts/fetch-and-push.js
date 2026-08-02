@@ -10,7 +10,6 @@ const CONFIG = {
   OPENROUTER_FALLBACK_MODELS: (process.env.OPENROUTER_FALLBACK_MODELS || process.env.OPENROUTER_FALLBACK_MODEL || 'minimax/minimax-m2.5:free,z-ai/glm-4.5-air:free')
     .split(',').map(model => model.trim()).filter(Boolean),
   SUMMARY_BATCH_SIZE: Math.max(1, Number(process.env.SUMMARY_BATCH_SIZE) || 8),
-  NEWS_MAX_PAGES: Math.max(1, Number(process.env.NEWS_MAX_PAGES) || 20),
   HISTORY_FILE: path.join(__dirname, '../memory/car-news-pushed.json'),
   BATCH_SIZE: 10,
   // 飞书 API 相关
@@ -144,27 +143,29 @@ function parseDate(dateStr) {
 // 新闻源配置
 const NEWS_SOURCES = [
   {
-    name: '盖世汽车-资讯',
-    url: 'https://i.gasgoo.com/news/c-0-1.html',
-    pageUrl: page => `https://i.gasgoo.com/news/c-0-${page}.html`,
-    selector: '.contentFile > ul > li',
+    name: '第一电动-快讯',
+    url: 'https://www.d1ev.com/newsflash',
+    selector: '#flash-wapper > ul.content-list > li',
     extract: ($, elem) => {
       const $item = $(elem);
-      const $link = $item.find('h3.titl > a').first();
+      const $link = $item.find('.list-desc > a').first();
       const href = $link.attr('href');
       if (!href) return null;
 
-      const title = $link.text().trim();
-      const fullUrl = href.startsWith('http') ? href : `https://i.gasgoo.com${href}`;
-      const content = $item.find('dl dd').clone().find('a').remove().end().text()
-        .replace(/^简介[：:]\s*/, '')
-        .trim();
-      const publishTime = $item.find('.time > span').first().text().trim();
+      const titleSnippet = $link.find('.desc-title').text().trim();
+      const title = titleSnippet.replace(/^【|】$/g, '');
+      const content = $link.text().trim().replace(titleSnippet, '').trim();
+      const fullUrl = href.startsWith('http') ? href : `https://www.d1ev.com${href}`;
+      const dateText = $item.closest('ul.content-list')
+        .prevAll('.content-date-wrapper').first().text().trim();
+      const datePart = dateText.match(/\d{4}年\d{1,2}月\d{1,2}日/)?.[0];
+      const timePart = $item.find('.list-date').first().text().trim();
+      const publishTime = datePart && timePart ? `${datePart} ${timePart}` : null;
 
       return {
         title,
         url: fullUrl,
-        source: '盖世汽车',
+        source: '第一电动',
         content: content || null,
         publishTime: publishTime || null
       };
@@ -194,59 +195,20 @@ function httpGet(url, headers = {}) {
 async function fetchFromSource(source) {
   console.log(`📰 正在抓取: ${source.name}...`);
   try {
+    const html = await httpGet(source.url);
+    const $ = cheerio.load(html);
     const newsList = [];
-    const pageCount = source.pageUrl ? CONFIG.NEWS_MAX_PAGES : 1;
-    let consecutiveStalePages = 0;
 
-    for (let page = 1; page <= pageCount; page++) {
-      const pageUrl = source.pageUrl ? source.pageUrl(page) : source.url;
-      const html = await httpGet(pageUrl);
-      const $ = cheerio.load(html);
-      const pageNews = [];
-
-      $(source.selector).each((_, elem) => {
-        try {
-          const news = source.extract($, elem);
-          if (news && !pageNews.find(n => n.url === news.url)) {
-            pageNews.push(news);
-          }
-        } catch (e) { }
-      });
-
-      if (pageNews.length === 0) {
-        console.log(`  ⚠️ 第${page}页未解析到新闻，停止翻页`);
-        break;
-      }
-
-      pageNews.forEach(news => {
-        if (!newsList.find(item => item.url === news.url)) {
+    $(source.selector).each((_, elem) => {
+      try {
+        const news = source.extract($, elem);
+        if (news && !newsList.find(item => item.url === news.url)) {
           newsList.push(news);
         }
-      });
+      } catch (e) { }
+    });
 
-      const dates = pageNews.map(news => parseDate(news.publishTime)).filter(Boolean);
-      const newestDate = dates.length ? Math.max(...dates) : null;
-      // 列表只有日期，没有时分；保留48小时候选窗口，最终再用详情页精确到24小时。
-      const isClearlyStale = newestDate && (Date.now() - newestDate > 48 * 60 * 60 * 1000);
-      consecutiveStalePages = isClearlyStale ? consecutiveStalePages + 1 : 0;
-
-      const dateLabel = dates.length
-        ? `${new Date(Math.min(...dates)).toLocaleDateString('zh-CN')}～${new Date(newestDate).toLocaleDateString('zh-CN')}`
-        : '日期未知';
-      console.log(`  📄 第${page}页: ${pageNews.length}条（${dateLabel}）`);
-
-      // 盖世汽车分页偶尔并非严格按时间排序，连续两页明显过旧才停止。
-      if (consecutiveStalePages >= 2) {
-        console.log(`  ⏹️ 连续${consecutiveStalePages}页均明显早于候选窗口，停止翻页`);
-        break;
-      }
-
-      if (page < pageCount) {
-        await new Promise(resolve => setTimeout(resolve, 300));
-      }
-    }
-
-    console.log(`  ✅ ${source.name}: 共获取 ${newsList.length} 条`);
+    console.log(`  ✅ ${source.name}: 获取 ${newsList.length} 条`);
     return newsList;
   } catch (e) {
     console.log(`  ❌ ${source.name}: ${e.message}`);
@@ -309,9 +271,8 @@ async function fetchNewsDetail(url) {
     // 移除脚本和样式标签，避免提取到代码片段
     $('script, style, ins, .advert, .advertisement').remove();
 
-    // 按网站正文容器的精确程度排序，优先使用盖世汽车和第一电动的专用选择器。
+    // 按网站正文容器的精确程度排序，优先使用第一电动的专用选择器。
     const selectors = [
-      '.technologyContent',
       '#showall233',
       '.ws-newscon',
       '.article-content',
@@ -809,7 +770,7 @@ async function main() {
 
     for (const news of filteredNews) {
       // 24小时窗口只可能跨今天和昨天；更早的列表项无需再请求详情页。
-      const listDateMatch = String(news.publishTime || '').match(/(\d{4})-(\d{1,2})-(\d{1,2})/);
+      const listDateMatch = String(news.publishTime || '').match(/(\d{4})[-/年](\d{1,2})[-/月](\d{1,2})/);
       if (listDateMatch) {
         const listDateKey = `${listDateMatch[1]}-${listDateMatch[2].padStart(2, '0')}-${listDateMatch[3].padStart(2, '0')}`;
         if (!candidateDateKeys.has(listDateKey)) {
@@ -817,24 +778,21 @@ async function main() {
         }
       }
 
-      // 尝试抓取新闻详情页获取准确发布时间
+      // 列表页已提供精确时间时直接使用，否则再访问详情页。
       try {
-        const detailHtml = await httpGet(news.url);
-        const $ = cheerio.load(detailHtml);
-
-        // 优先读取盖世汽车详情页中的精确发布时间，再兼容其他站点。
-        let publishTime = $('.introduce span').map((_, el) => $(el).text().trim()).get()
-          .find(text => /\d{4}[-/年]\d{1,2}[-/月]\d{1,2}/.test(text));
+        let publishTime = news.publishTime;
         if (!publishTime) {
-          publishTime = $('.time, .date, .publish-time, .article-time, [class*="time"]').first().text().trim();
-        }
+          const detailHtml = await httpGet(news.url);
+          const $ = cheerio.load(detailHtml);
+          publishTime = $('.time, .date, .publish-time, .article-time, [class*="time"]')
+            .first().text().trim();
 
-        // 如果没有找到，尝试从页面内容中匹配日期格式
-        if (!publishTime) {
-          const pageText = $('body').text();
-          const dateMatch = pageText.match(/(\d{4}[\-\/年]\d{1,2}[\-\/月]\d{1,2})/);
-          if (dateMatch) {
-            publishTime = dateMatch[1];
+          if (!publishTime) {
+            const pageText = $('body').text();
+            const dateMatch = pageText.match(/(\d{4}[\-\/年]\d{1,2}[\-\/月]\d{1,2})/);
+            if (dateMatch) {
+              publishTime = dateMatch[1];
+            }
           }
         }
 
@@ -859,9 +817,6 @@ async function main() {
           news.publishTime = publishTime || '24小时内';
           recentNews.push(news);
         }
-
-        // 延迟避免请求过快
-        await new Promise(r => setTimeout(r, 200));
 
       } catch (e) {
         // 如果抓取失败，默认保留
@@ -903,7 +858,7 @@ async function main() {
         // 优先使用列表中已抓取到的内容
         let content = news.content;
 
-        // 盖世汽车列表摘要可能以省略号截断，此时继续抓取详情页正文。
+        // 列表摘要可能以省略号截断，此时继续抓取详情页正文。
         if (!content || /(?:\.\.\.|…)$/.test(content)) {
           console.log(`  [详情抓取] ${news.title.slice(0, 35)}...`);
           content = await fetchNewsDetail(news.url) || content;
