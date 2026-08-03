@@ -1,33 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/306988",
-    "https://www.d1ev.com/newsflash/306985",
-    "https://www.d1ev.com/news/shichang/306983",
-    "https://www.d1ev.com/newsflash/306981",
-    "https://www.d1ev.com/newsflash/307006",
-    "https://www.d1ev.com/newsflash/307005",
-    "https://www.d1ev.com/newsflash/307004",
-    "https://www.d1ev.com/newsflash/307003",
-    "https://www.d1ev.com/newsflash/307002",
-    "https://www.d1ev.com/newsflash/307001",
-    "https://www.d1ev.com/newsflash/307000",
-    "https://www.d1ev.com/newsflash/306999",
-    "https://www.d1ev.com/news/shichang/306996",
-    "https://www.d1ev.com/newsflash/306995",
-    "https://www.d1ev.com/newsflash/306992",
-    "https://www.d1ev.com/newsflash/306987",
-    "https://www.d1ev.com/newsflash/306986",
-    "https://www.d1ev.com/newsflash/306984",
-    "https://www.d1ev.com/news/qiye/306982",
-    "https://www.d1ev.com/news/qiye/306977",
-    "https://www.d1ev.com/newsflash/306998",
-    "https://www.d1ev.com/newsflash/306994",
-    "https://www.d1ev.com/newsflash/306989",
-    "https://www.d1ev.com/news/shichang/306980",
-    "https://www.d1ev.com/news/shichang/306979",
-    "https://www.d1ev.com/news/shichang/306978",
-    "https://www.d1ev.com/news/shichang/307021",
-    "https://www.d1ev.com/newsflash/307015",
     "https://www.d1ev.com/newsflash/307009",
     "https://www.d1ev.com/newsflash/307008",
     "https://www.d1ev.com/newsflash/307023",
@@ -1999,7 +1971,35 @@
     "https://www.d1ev.com/newsflash/308958",
     "https://www.d1ev.com/newsflash/308961",
     "https://www.d1ev.com/newsflash/308960",
-    "https://www.d1ev.com/newsflash/308962"
+    "https://www.d1ev.com/newsflash/308962",
+    "https://www.d1ev.com/carnews/xinche/308990",
+    "https://www.d1ev.com/carnews/xinche/308989",
+    "https://www.d1ev.com/carnews/xinche/308982",
+    "https://www.d1ev.com/carnews/xinche/308980",
+    "https://www.d1ev.com/carnews/xinche/308975",
+    "https://www.d1ev.com/news/qiye/308973",
+    "https://www.d1ev.com/newsflash/308971",
+    "https://www.d1ev.com/newsflash/308979",
+    "https://www.d1ev.com/newsflash/308978",
+    "https://www.d1ev.com/newsflash/308976",
+    "https://www.d1ev.com/newsflash/308974",
+    "https://www.d1ev.com/newsflash/308972",
+    "https://www.d1ev.com/news/shichang/308969",
+    "https://www.d1ev.com/news/qiye/308985",
+    "https://www.d1ev.com/newsflash/308984",
+    "https://www.d1ev.com/newsflash/308977",
+    "https://www.d1ev.com/news/shichang/308970",
+    "https://www.d1ev.com/carnews/xinche/308991",
+    "https://www.d1ev.com/news/shichang/308988",
+    "https://www.d1ev.com/news/shichang/308987",
+    "https://www.d1ev.com/news/shichang/308986",
+    "https://www.d1ev.com/carnews/xinche/308981",
+    "https://www.d1ev.com/news/shichang/308968",
+    "https://www.d1ev.com/newsflash/308967",
+    "https://www.d1ev.com/news/shichang/308966",
+    "https://www.d1ev.com/news/shichang/308965",
+    "https://www.d1ev.com/newsflash/308964",
+    "https://www.d1ev.com/newsflash/308963"
   ],
   "newsHistory": [
     {
@@ -5091,6 +5091,174 @@
       "title": "小米澎程N90Max：纯平地板、超长续航，大型SUV新体验",
       "source": "第一电动",
       "pushedAt": 1785689571452
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308990",
+      "title": "奇瑞J6T CSH亮相2026印尼车展 续航超1000km",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308989",
+      "title": "预售30.99万元 岚图追光S将于8月15日上市",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308982",
+      "title": "配备华为乾崑智驾 星海V6将8月8日开启预售",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308980",
+      "title": "即将陆续到店 吉利银河战舰700更多信息曝光",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308975",
+      "title": "B级轿跑 2027款比亚迪海豹06实车亮相",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/308973",
+      "title": "长安汽车7月交付新车20.71万辆，海外交付连续6月大涨",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308971",
+      "title": "AI成本高昂，7000亿美元资本支出背后真相曝光",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308979",
+      "title": "谷歌TPU芯片挑战英伟达：2028年出货或超1500万颗",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308978",
+      "title": "小鹏G9L大五座SUV发布：30万级科技旗舰，9分钟充电450公里！",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308976",
+      "title": "华为自研电机加持，享界G9硬派SUV开启预订，续航超1300公里！",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308974",
+      "title": "小米澎程续航超长！纯电505km，综合1705km，大型SUV续航新标杆",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308972",
+      "title": "日本首例电动巴士自燃：五十铃ErgaEV起火原因待查",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308969",
+      "title": "吉利汽车7月销量突破25万辆，新能源渗透率达64%",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/308985",
+      "title": "小鹏G9L官宣登场！全球大五座科技旗舰 30万级科技标杆",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308984",
+      "title": "奇瑞7500万美元投资韩国KGMobility，共探全球产能合作新机遇",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308977",
+      "title": "奇瑞7500万美元入股韩国KGM，共拓全球市场及技术合作",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308970",
+      "title": "上汽通用五菱7月全球销量破12万辆",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308991",
+      "title": "揭秘Rivian R2悬架系统：成本与重量低于R1",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308988",
+      "title": "彼欧上半年净利润1.02亿欧元",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308987",
+      "title": "伊士曼第二季度销售收入达25.13亿美元",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308986",
+      "title": "上汽集团1-7月累计销售238.4万辆 继续领跑中国车市",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/308981",
+      "title": "董事长解读智界RX命名：代表开创与突破",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308968",
+      "title": "武汉经开区成立首个低空产业孵化平台",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308967",
+      "title": "小米澎程N90Max：纯平地板+60L油箱，三排SUV空间革命",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308966",
+      "title": "30万级大七座增程，谁在背后撑场？小米澎程N90 Max核心零部件配套供应商一览",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/308965",
+      "title": "【盖世快讯】零跑7月交付首破10万台；吉利汽车集团成立销售总公司",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308964",
+      "title": "哪吒汽车南宁基地设备流拍，6000万起拍价无人问津",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/308963",
+      "title": "奔驰CEO反思：车内大屏化或过度，实体按键将回归",
+      "source": "第一电动",
+      "pushedAt": 1785723236386
     }
   ],
   "lastUpdated": "2026-08-03"
