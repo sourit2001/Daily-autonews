@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307132",
-    "https://www.d1ev.com/newsflash/307131",
-    "https://www.d1ev.com/news/shichang/307169",
-    "https://www.d1ev.com/newsflash/307168",
-    "https://www.d1ev.com/newsflash/307167",
-    "https://www.d1ev.com/news/qiye/307163",
-    "https://www.d1ev.com/newsflash/307162",
-    "https://www.d1ev.com/newsflash/307161",
-    "https://www.d1ev.com/newsflash/307160",
     "https://www.d1ev.com/newsflash/307151",
     "https://www.d1ev.com/newsflash/307149",
     "https://www.d1ev.com/newsflash/307147",
@@ -1999,27 +1990,18 @@
     "https://www.d1ev.com/newsflash/309098",
     "https://www.d1ev.com/newsflash/309090",
     "https://www.d1ev.com/newsflash/309088",
-    "https://www.d1ev.com/newsflash/309086"
+    "https://www.d1ev.com/newsflash/309086",
+    "https://www.d1ev.com/newsflash/309109",
+    "https://www.d1ev.com/newsflash/309107",
+    "https://www.d1ev.com/newsflash/309111",
+    "https://www.d1ev.com/newsflash/309108",
+    "https://www.d1ev.com/newsflash/309104",
+    "https://www.d1ev.com/newsflash/309112",
+    "https://www.d1ev.com/news/shichang/309110",
+    "https://www.d1ev.com/newsflash/309106",
+    "https://www.d1ev.com/newsflash/309105"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308710",
-      "title": "极狐阿尔法T7内饰曝光，华为技术加持，增程纯电双版本来袭！",
-      "source": "第一电动",
-      "pushedAt": 1785173885229
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308708",
-      "title": "AI神速！Claude一周末独自搞定AMD新GPU适配",
-      "source": "第一电动",
-      "pushedAt": 1785173885229
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308709",
-      "title": "深蓝S05内饰升级：悬浮星舰设计+纯电增程双动力选择",
-      "source": "第一电动",
-      "pushedAt": 1785173885229
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308744",
       "title": "宾利首款纯电Torcal内饰曝光，豪华水晶饰件加持，2027年美国上市",
@@ -5109,7 +5091,61 @@
       "title": "广汽本田试点多品牌销售，三四线城市迎来新机遇",
       "source": "第一电动",
       "pushedAt": 1785767620582
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309109",
+      "title": "东风岚图武汉旗舰店开业：3万平超大规模，日交付100台新车",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309107",
+      "title": "北汽极狐阿尔法T7内饰曝光：17.3英寸3K屏+超宽全景PHUD，华为、宁德时代加持！",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309111",
+      "title": "国产新能源崛起！进口豪车销量暴跌，自主品牌市占率飙升至71.8%",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309108",
+      "title": "非洲网络犯罪激增，AI成帮凶：经济损失飙升至4.84亿美元",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309104",
+      "title": "赛力斯7月新能源车销量同比大跌45.65%，累计销量下滑6.31%",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309112",
+      "title": "小米汽车涉水新突破：N70Max涉水650mm，应急浮水3分钟脱困",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309110",
+      "title": "从GT到S，腾势在下一盘什么棋",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309106",
+      "title": "特斯拉Cybertruck升级碳纤维底盘，成本更低耐用性更强",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309105",
+      "title": "赛力斯7月产销双降，问界M9成销量主力",
+      "source": "第一电动",
+      "pushedAt": 1785779750632
     }
   ],
-  "lastUpdated": "2026-08-03"
+  "lastUpdated": "2026-08-04"
 }
