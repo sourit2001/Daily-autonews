@@ -1,33 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307151",
-    "https://www.d1ev.com/newsflash/307149",
-    "https://www.d1ev.com/newsflash/307147",
-    "https://www.d1ev.com/news/shichang/307146",
-    "https://www.d1ev.com/newsflash/307143",
-    "https://www.d1ev.com/newsflash/307141",
-    "https://www.d1ev.com/newsflash/307133",
-    "https://www.d1ev.com/news/shichang/307129",
-    "https://www.d1ev.com/newsflash/307125",
-    "https://www.d1ev.com/newsflash/307173",
-    "https://www.d1ev.com/newsflash/307170",
-    "https://www.d1ev.com/newsflash/307166",
-    "https://www.d1ev.com/news/shichang/307164",
-    "https://www.d1ev.com/news/qiye/307156",
-    "https://www.d1ev.com/newsflash/307155",
-    "https://www.d1ev.com/newsflash/307139",
-    "https://www.d1ev.com/news/qiye/307127",
-    "https://www.d1ev.com/newsflash/307172",
-    "https://www.d1ev.com/newsflash/307171",
-    "https://www.d1ev.com/news/qiye/307157",
-    "https://www.d1ev.com/newsflash/307154",
-    "https://www.d1ev.com/newsflash/307153",
-    "https://www.d1ev.com/newsflash/307152",
-    "https://www.d1ev.com/newsflash/307150",
-    "https://www.d1ev.com/newsflash/307148",
-    "https://www.d1ev.com/news/shichang/307145",
-    "https://www.d1ev.com/newsflash/307140",
-    "https://www.d1ev.com/newsflash/307137",
     "https://www.d1ev.com/news/shichang/307136",
     "https://www.d1ev.com/newsflash/307135",
     "https://www.d1ev.com/news/shichang/307130",
@@ -1999,7 +1971,35 @@
     "https://www.d1ev.com/newsflash/309112",
     "https://www.d1ev.com/news/shichang/309110",
     "https://www.d1ev.com/newsflash/309106",
-    "https://www.d1ev.com/newsflash/309105"
+    "https://www.d1ev.com/newsflash/309105",
+    "https://www.d1ev.com/carnews/xinche/309140",
+    "https://www.d1ev.com/carnews/xinche/309139",
+    "https://www.d1ev.com/newsflash/309135",
+    "https://www.d1ev.com/carnews/xinche/309133",
+    "https://www.d1ev.com/carnews/xinche/309115",
+    "https://www.d1ev.com/newsflash/309137",
+    "https://www.d1ev.com/newsflash/309136",
+    "https://www.d1ev.com/news/shichang/309129",
+    "https://www.d1ev.com/newsflash/309126",
+    "https://www.d1ev.com/newsflash/309123",
+    "https://www.d1ev.com/newsflash/309116",
+    "https://www.d1ev.com/newsflash/309124",
+    "https://www.d1ev.com/news/shichang/309117",
+    "https://www.d1ev.com/carnews/xinche/309138",
+    "https://www.d1ev.com/newsflash/309134",
+    "https://www.d1ev.com/carnews/xinche/309132",
+    "https://www.d1ev.com/carnews/xinche/309131",
+    "https://www.d1ev.com/newsflash/309130",
+    "https://www.d1ev.com/news/qiye/309128",
+    "https://www.d1ev.com/news/qiye/309127",
+    "https://www.d1ev.com/newsflash/309125",
+    "https://www.d1ev.com/news/shichang/309122",
+    "https://www.d1ev.com/news/qiye/309121",
+    "https://www.d1ev.com/newsflash/309120",
+    "https://www.d1ev.com/newsflash/309119",
+    "https://www.d1ev.com/newsflash/309118",
+    "https://www.d1ev.com/news/shichang/309114",
+    "https://www.d1ev.com/news/shichang/309113"
   ],
   "newsHistory": [
     {
@@ -5145,6 +5145,174 @@
       "title": "赛力斯7月产销双降，问界M9成销量主力",
       "source": "第一电动",
       "pushedAt": 1785779750632
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309140",
+      "title": "搭载插混系统 全新一代奥迪S6谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309139",
+      "title": "或第三季度上市 方程豹方程S量产版实车亮相",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309135",
+      "title": "捷尼赛思GV90旗舰SUV将搭载后对开式车门 2026年亮相",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309133",
+      "title": "享界V8实车图曝光：预计售价30万起",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309115",
+      "title": "2026年第31周（7.27-8.2）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309137",
+      "title": "中国AI大模型DeepSeek-V4-Flash全球调用量夺冠，单日处理8万亿Token",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309136",
+      "title": "AI巨头降价战升级：OpenAI大幅下调ChatGPT5.6Luna价格80%",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309129",
+      "title": "OTA情报局：问界升智驾、零跑改底盘、特斯拉终于聊上天",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309126",
+      "title": "微软MAIRealtime语音模型来袭：16种语言同声传译，对话更自然！",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309123",
+      "title": "铠侠发布GP1系列固态硬盘：AI存储架构新突破，GPU直连高速闪存",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309116",
+      "title": "中国AI领先美国？HuggingFace CEO警告：开放模型竞赛中中国占优势",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309124",
+      "title": "路特斯Eletre因关税飙升退出美国市场，售价翻倍仍难维持",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309117",
+      "title": "采埃孚全球电子助力转向系统产量突破1亿",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309138",
+      "title": "兰博基尼推出Miura 60周年特别版 限量99辆",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309134",
+      "title": "特斯拉FSDv14Lite更新引发HW3车主过热故障潮",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309132",
+      "title": "富哥新玩具 奔驰G63敞篷版伪装测试车官曝",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309131",
+      "title": "定位中型SUV 上汽大众ID.ERA 5X预告图发布",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309130",
+      "title": "国产高端车崛起，进口豪车市场遇冷",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309128",
+      "title": "2026年7月国内汽车投诉排行及分析报告",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309127",
+      "title": "增程车用400V，是技术落后还是精打细算？",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309125",
+      "title": "兰博基尼限量99台纪念版RevueltoMiura60°荣耀登场",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309122",
+      "title": "森萨塔科技上半年营收19.254亿美元，同比增3.8%",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309121",
+      "title": "【盖世快讯】小鹏汽车官宣G9L；小米汽车官方回应澎程长滑轨养护相关争议",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309120",
+      "title": "特斯拉FSD更新引发过热警报，HW3硬件故障频发",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309119",
+      "title": "兰博基尼限量99辆特别版RevueltoMiura60°Homage荣耀登场",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309118",
+      "title": "俄罗斯车市新格局：中国品牌销量占比超半壁江山",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309114",
+      "title": "灵猴机器人越南生产基地正式投产",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309113",
+      "title": "宁德时代落子苏州",
+      "source": "第一电动",
+      "pushedAt": 1785808859404
     }
   ],
   "lastUpdated": "2026-08-04"
