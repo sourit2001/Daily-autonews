@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307350",
-    "https://www.d1ev.com/newsflash/307343",
-    "https://www.d1ev.com/newsflash/307339",
-    "https://www.d1ev.com/newsflash/307338",
-    "https://www.d1ev.com/newsflash/307335",
-    "https://www.d1ev.com/newsflash/307334",
-    "https://www.d1ev.com/news/shichang/307331",
-    "https://www.d1ev.com/news/shichang/307394",
-    "https://www.d1ev.com/newsflash/307389",
-    "https://www.d1ev.com/newsflash/307393",
-    "https://www.d1ev.com/news/shichang/307392",
-    "https://www.d1ev.com/news/shichang/307391",
-    "https://www.d1ev.com/news/shichang/307387",
-    "https://www.d1ev.com/newsflash/307385",
-    "https://www.d1ev.com/newsflash/307384",
-    "https://www.d1ev.com/newsflash/307383",
-    "https://www.d1ev.com/newsflash/307381",
-    "https://www.d1ev.com/newsflash/307388",
-    "https://www.d1ev.com/newsflash/307382",
-    "https://www.d1ev.com/news/shichang/307386",
-    "https://www.d1ev.com/newsflash/307406",
     "https://www.d1ev.com/newsflash/307405",
     "https://www.d1ev.com/carnews/xinche/307404",
     "https://www.d1ev.com/news/qiye/307403",
@@ -1999,15 +1978,30 @@
     "https://www.d1ev.com/newsflash/309453",
     "https://www.d1ev.com/carnews/xinche/309446",
     "https://www.d1ev.com/news/shichang/309444",
-    "https://www.d1ev.com/news/shichang/309443"
+    "https://www.d1ev.com/news/shichang/309443",
+    "https://www.d1ev.com/carnews/xinche/309478",
+    "https://www.d1ev.com/news/shichang/309477",
+    "https://www.d1ev.com/news/shichang/309476",
+    "https://www.d1ev.com/news/shichang/309473",
+    "https://www.d1ev.com/newsflash/309470",
+    "https://www.d1ev.com/newsflash/309467",
+    "https://www.d1ev.com/newsflash/309465",
+    "https://www.d1ev.com/newsflash/309464",
+    "https://www.d1ev.com/newsflash/309463",
+    "https://www.d1ev.com/newsflash/309461",
+    "https://www.d1ev.com/newsflash/309460",
+    "https://www.d1ev.com/news/qiye/309472",
+    "https://www.d1ev.com/newsflash/309469",
+    "https://www.d1ev.com/newsflash/309462",
+    "https://www.d1ev.com/newsflash/309459",
+    "https://www.d1ev.com/newsflash/309479",
+    "https://www.d1ev.com/news/shichang/309475",
+    "https://www.d1ev.com/news/shichang/309474",
+    "https://www.d1ev.com/newsflash/309471",
+    "https://www.d1ev.com/newsflash/309468",
+    "https://www.d1ev.com/newsflash/309458"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468010.html",
-      "title": "小米澎程系列正式发布，预售价25.99 万元起",
-      "source": "盖世汽车",
-      "pushedAt": 1785426465477
-    },
     {
       "url": "https://i.gasgoo.com/news/70467919.html",
       "title": "有望下半年正式亮相 曝享界V8内饰谍照",
@@ -5109,7 +5103,133 @@
       "title": "光轮智能与黎曼动力达成战略合作",
       "source": "第一电动",
       "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309478",
+      "title": "做懂生活的纯电动车 现代IONIQ 3新车图解",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309477",
+      "title": "全面进阶 新款路虎揽胜路试谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309476",
+      "title": "经典延续 smart精灵#2国内谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309473",
+      "title": "【盖世快讯】本田拟将新车型平台开发外包给印度塔塔技术；问界M8累计交付破18万",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309470",
+      "title": "OpenAI携手乔纳森·伊夫打造“甜甜圈”AI硬件，预计2027年亮相！",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309467",
+      "title": "福特电动皮卡Fathom明年上市，起售价19.2万元",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309465",
+      "title": "smart精灵#1全新升级上市，800V高压平台+激光雷达，限时权益价14.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309464",
+      "title": "深蓝S05全新升级上市！11.59万起售，激光雷达加持高阶驾驶",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309463",
+      "title": "享界G9预售火爆：24小时订单破万，硬派越野SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309461",
+      "title": "新一代奔驰smart精灵#1上市，15.29万起售，800V快充+535km续航！",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309460",
+      "title": "华为鸿蒙智行享界G9预售火爆，24小时破万订单！",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309472",
+      "title": "修车报价18万、保额只有6万！新能源车主涉水报废遭拒赔",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309469",
+      "title": "OpenAI升级ChatGPT：免费用户功能大增，智能对话更精准！",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309462",
+      "title": "特斯拉FSD超速被罚，司机辩称“自动驾驶”不背锅",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309459",
+      "title": "英伟达组建AI安全团队，押注开放权重模型提升网络安全",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309479",
+      "title": "特斯拉FSD模式超速被拦，司机坚称无责引热议",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309475",
+      "title": "中微公司在光谷设立华中总部",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309474",
+      "title": "全域1000V+全尺寸旗舰，比亚迪大唐EV核心零部件配套供应商一览",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309471",
+      "title": "小米澎程系列涉水能力揭秘：750mm深度应急脱困新体验",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309468",
+      "title": "小米澎程系列涉水深度高达750mm，三重防护应对城市内涝",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309458",
+      "title": "小米YU7八月购车权益来袭：最高7.9万优惠+金融方案",
+      "source": "第一电动",
+      "pushedAt": 1786060451508
     }
   ],
-  "lastUpdated": "2026-08-06"
+  "lastUpdated": "2026-08-07"
 }
