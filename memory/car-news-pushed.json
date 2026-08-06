@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/307349",
-    "https://www.d1ev.com/news/shichang/307340",
-    "https://www.d1ev.com/news/shichang/307332",
-    "https://www.d1ev.com/newsflash/307378",
-    "https://www.d1ev.com/newsflash/307377",
-    "https://www.d1ev.com/news/shichang/307375",
-    "https://www.d1ev.com/news/qiye/307374",
-    "https://www.d1ev.com/newsflash/307372",
-    "https://www.d1ev.com/newsflash/307370",
-    "https://www.d1ev.com/newsflash/307369",
-    "https://www.d1ev.com/newsflash/307366",
-    "https://www.d1ev.com/newsflash/307364",
-    "https://www.d1ev.com/newsflash/307362",
-    "https://www.d1ev.com/newsflash/307356",
-    "https://www.d1ev.com/newsflash/307355",
-    "https://www.d1ev.com/news/shichang/307354",
     "https://www.d1ev.com/news/shichang/307350",
     "https://www.d1ev.com/newsflash/307343",
     "https://www.d1ev.com/newsflash/307339",
@@ -1999,7 +1983,23 @@
     "https://www.d1ev.com/newsflash/309421",
     "https://www.d1ev.com/newsflash/309414",
     "https://www.d1ev.com/newsflash/309413",
-    "https://www.d1ev.com/newsflash/309412"
+    "https://www.d1ev.com/newsflash/309412",
+    "https://www.d1ev.com/newsflash/309457",
+    "https://www.d1ev.com/newsflash/309451",
+    "https://www.d1ev.com/newsflash/309449",
+    "https://www.d1ev.com/newsflash/309447",
+    "https://www.d1ev.com/carnews/xinche/309445",
+    "https://www.d1ev.com/newsflash/309456",
+    "https://www.d1ev.com/newsflash/309455",
+    "https://www.d1ev.com/newsflash/309454",
+    "https://www.d1ev.com/newsflash/309452",
+    "https://www.d1ev.com/newsflash/309450",
+    "https://www.d1ev.com/newsflash/309448",
+    "https://www.d1ev.com/news/qiye/309442",
+    "https://www.d1ev.com/newsflash/309453",
+    "https://www.d1ev.com/carnews/xinche/309446",
+    "https://www.d1ev.com/news/shichang/309444",
+    "https://www.d1ev.com/news/shichang/309443"
   ],
   "newsHistory": [
     {
@@ -5013,6 +5013,102 @@
       "title": "小米汽车自动泊车遇难题，王腾亲测反馈促快速解决",
       "source": "第一电动",
       "pushedAt": 1786018334507
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309457",
+      "title": "深蓝S05纯电新车型上市，售价11.99万起，续航620km，3C超充15分钟充能",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309451",
+      "title": "奇瑞F700插电混动皮卡上市，31.49万起售，续航1300km支持800V快充",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309449",
+      "title": "深蓝S05新车型上市：11.99万起，激光雷达加持，续航最高达1310km",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309447",
+      "title": "全新一代smart精灵#1上市：200项升级，63项领先同级，15.29万起",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309445",
+      "title": "纵横F700正式上市 售价31.49-35.49万元",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309456",
+      "title": "字节跳动打造5万亿参数AI模型，挑战国内智能极限！",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309455",
+      "title": "华为智驾升级：老司机也得服，V5.0领航体验全面飞跃！",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309454",
+      "title": "华为乾崑智驾ADSProV5.0升级：园区导航、三点掉头功能来袭",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309452",
+      "title": "华为昇腾AI芯片适配百灵Ling-3.0-flash模型，算子开发周期大幅缩短",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309450",
+      "title": "谷歌地图AI升级：订餐、找酒店一问搞定，个性化推荐更贴心",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309448",
+      "title": "凯迪拉克CT5销量遇冷，新能源车崛起挑战传统豪华市场",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309442",
+      "title": "特斯拉升级FSD高温故障频发背后：中美智驾监管存根本差异",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309453",
+      "title": "阿里云Wan3.0视频生成模型公测：30秒视频创作自由度大提升",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309446",
+      "title": "再续20年盟约，上汽通用重构合资车企生存范式",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309444",
+      "title": "鹿明机器人联席CTO丁琰确认离职，加盟复旦祖泉研究院",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309443",
+      "title": "光轮智能与黎曼动力达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1786026095499
     }
   ],
   "lastUpdated": "2026-08-06"
