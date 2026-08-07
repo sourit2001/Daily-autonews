@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307580",
-    "https://www.d1ev.com/newsflash/307575",
-    "https://www.d1ev.com/newsflash/307573",
     "https://www.d1ev.com/newsflash/307564",
     "https://www.d1ev.com/newsflash/307563",
     "https://www.d1ev.com/newsflash/307562",
@@ -1999,21 +1996,12 @@
     "https://www.d1ev.com/newsflash/309647",
     "https://www.d1ev.com/newsflash/309652",
     "https://www.d1ev.com/newsflash/309650",
-    "https://www.d1ev.com/news/qiye/309648"
+    "https://www.d1ev.com/news/qiye/309648",
+    "https://www.d1ev.com/newsflash/309656",
+    "https://www.d1ev.com/newsflash/309657",
+    "https://www.d1ev.com/newsflash/309655"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468184.html",
-      "title": "长城汽车：Hi4面向全球的智能四驱",
-      "source": "盖世汽车",
-      "pushedAt": 1785513579964
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468183.html",
-      "title": "工信部监督检查奇瑞、蔚来、江汽",
-      "source": "盖世汽车",
-      "pushedAt": 1785513579964
-    },
     {
       "url": "https://i.gasgoo.com/news/70468259.html",
       "title": "五大全球领先重塑“8系旗舰”标杆！神行者8首台量产车下线，8月10日预售",
@@ -5895,7 +5883,25 @@
       "title": "蔚来首批第五代换电站上线：萤火虫终于可以换电池了",
       "source": "第一电动",
       "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309656",
+      "title": "广汽传祺越7硬派混动SUV亮相，9月预售开启！",
+      "source": "第一电动",
+      "pushedAt": 1786121207521
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309657",
+      "title": "鸿蒙智行享界G9首日预定破万，AI合成质疑被多角度实拍视频终结",
+      "source": "第一电动",
+      "pushedAt": 1786121207521
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309655",
+      "title": "亚马逊AWS紧急行动：关闭65%低效云计算机以应对AI算力危机",
+      "source": "第一电动",
+      "pushedAt": 1786121207521
     }
   ],
-  "lastUpdated": "2026-08-07"
+  "lastUpdated": "2026-08-08"
 }
