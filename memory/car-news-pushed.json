@@ -1,30 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307476",
-    "https://www.d1ev.com/news/shichang/307470",
-    "https://www.d1ev.com/news/qiye/307468",
-    "https://www.d1ev.com/newsflash/307467",
-    "https://www.d1ev.com/newsflash/307466",
-    "https://www.d1ev.com/newsflash/307465",
-    "https://www.d1ev.com/newsflash/307464",
-    "https://www.d1ev.com/newsflash/307463",
-    "https://www.d1ev.com/news/shichang/307494",
-    "https://www.d1ev.com/newsflash/307492",
-    "https://www.d1ev.com/newsflash/307490",
-    "https://www.d1ev.com/news/shichang/307504",
-    "https://www.d1ev.com/newsflash/307502",
-    "https://www.d1ev.com/newsflash/307501",
-    "https://www.d1ev.com/newsflash/307500",
-    "https://www.d1ev.com/newsflash/307499",
-    "https://www.d1ev.com/newsflash/307497",
-    "https://www.d1ev.com/news/shichang/307495",
-    "https://www.d1ev.com/news/shichang/307493",
-    "https://www.d1ev.com/newsflash/307491",
-    "https://www.d1ev.com/newsflash/307489",
-    "https://www.d1ev.com/newsflash/307498",
-    "https://www.d1ev.com/newsflash/307496",
-    "https://www.d1ev.com/news/shichang/307511",
-    "https://www.d1ev.com/newsflash/307509",
     "https://www.d1ev.com/newsflash/307506",
     "https://www.d1ev.com/news/shichang/307510",
     "https://www.d1ev.com/news/shichang/307508",
@@ -1999,195 +1974,34 @@
     "https://www.d1ev.com/newsflash/309529",
     "https://www.d1ev.com/newsflash/309525",
     "https://www.d1ev.com/news/shichang/309522",
-    "https://www.d1ev.com/newsflash/309519"
+    "https://www.d1ev.com/newsflash/309519",
+    "https://www.d1ev.com/newsflash/309583",
+    "https://www.d1ev.com/newsflash/309581",
+    "https://www.d1ev.com/newsflash/309580",
+    "https://www.d1ev.com/newsflash/309579",
+    "https://www.d1ev.com/newsflash/309578",
+    "https://www.d1ev.com/newsflash/309575",
+    "https://www.d1ev.com/newsflash/309573",
+    "https://www.d1ev.com/newsflash/309572",
+    "https://www.d1ev.com/newsflash/309569",
+    "https://www.d1ev.com/newsflash/309567",
+    "https://www.d1ev.com/carnews/xinche/309566",
+    "https://www.d1ev.com/newsflash/309560",
+    "https://www.d1ev.com/newsflash/309559",
+    "https://www.d1ev.com/newsflash/309558",
+    "https://www.d1ev.com/newsflash/309582",
+    "https://www.d1ev.com/newsflash/309576",
+    "https://www.d1ev.com/newsflash/309574",
+    "https://www.d1ev.com/news/qiye/309570",
+    "https://www.d1ev.com/newsflash/309568",
+    "https://www.d1ev.com/newsflash/309562",
+    "https://www.d1ev.com/newsflash/309561",
+    "https://www.d1ev.com/news/shichang/309565",
+    "https://www.d1ev.com/newsflash/309584",
+    "https://www.d1ev.com/newsflash/309577",
+    "https://www.d1ev.com/news/shichang/309571"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468072.html",
-      "title": "未撕新车屏幕保护膜或致数千美元维修费",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468050.html",
-      "title": "比亚迪Racco电动K-Car上市首周订单超5,000辆",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468133.html",
-      "title": "WAIC 2026专访速腾聚创：打造“两个循环”，做物理AI的基础设施提供商",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468100.html",
-      "title": "奇瑞与讯飞再签五年约，星火座舱3.0要全面上车了",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468032.html",
-      "title": "现代汽车集团任命新自动驾驶开发中心负责人",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468074.html",
-      "title": "马自达考虑推出电动版MX-5 Miata 但轻量化仍是关键挑战",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468064.html",
-      "title": "EMASS与博世Sensortec合作推出边缘AI资产追踪参考设计",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468051.html",
-      "title": "特斯拉第1,000万辆电动车下线 但电动汽车业务增长已连续两年下滑",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468094.html",
-      "title": "【全球汽车新技术观察】 7月上期〡ZF Lifetec推出适配舒适坐姿的四气囊安...",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468036.html",
-      "title": "美国汽车租赁比例持续下滑 高成本冲击购车可负担性与二手车供应",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468093.html",
-      "title": "【国际快讯】Stellantis二季度利润大幅攀升；宝马二季度税前利润下滑35%...",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468137.html",
-      "title": "五菱代步车用户即将破300万！",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468132.html",
-      "title": "整理乱象，工信部发文明确：“梯次利用”退场",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468102.html",
-      "title": "从“特斯拉剥离中国业务”传闻，看马斯克商业帝国的重构",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468131.html",
-      "title": "赛力斯：赛豆科技不再纳入集团合并报表",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468086.html",
-      "title": "昆仑架构出鞘，小米澎程入局，增程红海再迎破局者？",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468104.html",
-      "title": "芯擎科技上半年融资超2亿美元，投资方覆盖产业与国资",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468103.html",
-      "title": "小米澎程N90 Max 首搭速腾聚创全固态激光雷达",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468101.html",
-      "title": "光轮智能与纬钛机器人达成战略合作，触觉数据开启产业落地",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468099.html",
-      "title": "宇树启动科创板IPO发行程序，8月10日开启申购",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468048.html",
-      "title": "五十铃印尼强化商用车售后服务网络 上半年进厂维修量同比增长10%",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468021.html",
-      "title": "梅赛德斯-奔驰CEO称中国汽车市场价格战将持续存在",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468095.html",
-      "title": "一汽-大众ID. AURA T6开启盲订",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468039.html",
-      "title": "英国上半年汽车产量同比下降7.5%",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468071.html",
-      "title": "宝马第二季度税前利润下滑超三分之一 拟裁员8,000",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468059.html",
-      "title": "是德科技电磁设计软件获英特尔代工最新制程认证",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468070.html",
-      "title": "广汽三款MPV同步登陆菲律宾市场，起售价119.8万比索",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468075.html",
-      "title": "梅赛德斯-奔驰因车门锁微动开关缺陷召回超31万辆汽车",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468091.html",
-      "title": "曝特斯拉考虑剥离中国业务，回应来了",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468057.html",
-      "title": "宝马据称已取消基于X5平台的G级越野车项目",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468065.html",
-      "title": "FocalPoint与意法半导体达成商业协议 提升汽车应用中的GNSS定位可靠性",
-      "source": "盖世汽车",
-      "pushedAt": 1785480424291
-    },
     {
       "url": "https://i.gasgoo.com/news/70468138.html",
       "title": "工信部：2030年新能源保有量占比力争达到30%",
@@ -5577,6 +5391,156 @@
       "title": "中石化沪青平加油站变身比亚迪闪充旗舰站，开启智慧能源新篇章",
       "source": "第一电动",
       "pushedAt": 1786080983722
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309583",
+      "title": "华晨宝马iX3长轴版亮相：中型纯电SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309581",
+      "title": "硬派全尺寸SUV新选择！方程豹钛9申报亮相，搭载1.5T+双电机四驱系统",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309580",
+      "title": "奇瑞智界RX新版本曝光：华为电机加持，最高时速255km/h！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309579",
+      "title": "上汽大众ID.ERA5X纯电SUV申报：175km/h极速，丰富选装配置亮相",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309578",
+      "title": "东风日产NX7插电混动SUV亮相：180km/h极速，5座大空间！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309575",
+      "title": "广汽埃安Ray7亮相：华为技术加持，年轻人的超级纯电轿车",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309573",
+      "title": "五菱星光M插电混动MPV亮相：7座大空间，最高车速185km/h",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309572",
+      "title": "smart精灵#2纯电动轿车亮相工信部，最高时速140km/h！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309569",
+      "title": "比亚迪方程豹钛9插混SUV亮相：220km/h极速，双电机加持！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309567",
+      "title": "比亚迪海豹07亮相：中型轿车新选择，纯电插混双动力来袭",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309566",
+      "title": "搭载城市NOA功能 大众ID. ERA 5S预售定档",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309560",
+      "title": "别克新GL8陆尚动力大曝光：142km纯电续航+1500km综合续航，7秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309559",
+      "title": "零跑A10破十万销量纪录，新A05即将上市",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309558",
+      "title": "大众ID.ERA5S即将预售，2000km续航+智能辅助驾驶震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309582",
+      "title": "特斯拉充电站突发枪击案，车主呼吁紧急解锁功能！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309576",
+      "title": "字节火山引擎Seedance2.5上线：视频AI突破长叙事，价格亲民！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309574",
+      "title": "特斯拉超充站枪击案：车主被困充电中无法逃离",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309570",
+      "title": "福特全新电动皮卡Fathom起售价约2.8万美元",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309568",
+      "title": "“AI图骗”泛滥民宿业，虚假广告成新套路？",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309562",
+      "title": "Neon携手Castform打造低成本AI智能体，性能超GPT-5.6Sol",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309561",
+      "title": "别克新GL8陆尚：1500km超长续航，7秒破百，豪华升级！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309565",
+      "title": "2026年1-6月中国乘用车出海，谁在领航：吉利中南美飙涨445.6%，零跑东南亚暴增302.1%丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309584",
+      "title": "雪佛兰告别中国市场，750万车主何去何从？",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309577",
+      "title": "谷歌DeepMind发布革命性气旋预测模型，预报能力提升至3天！",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309571",
+      "title": "零跑A10第10万台量产车下线，刷新十万级SUV新纪录",
+      "source": "第一电动",
+      "pushedAt": 1786086611562
     }
   ],
   "lastUpdated": "2026-08-07"
