@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307589",
-    "https://www.d1ev.com/newsflash/307588",
-    "https://www.d1ev.com/newsflash/307585",
-    "https://www.d1ev.com/newsflash/307579",
-    "https://www.d1ev.com/newsflash/307578",
-    "https://www.d1ev.com/newsflash/307576",
-    "https://www.d1ev.com/newsflash/307574",
-    "https://www.d1ev.com/newsflash/307571",
-    "https://www.d1ev.com/newsflash/307587",
-    "https://www.d1ev.com/newsflash/307583",
-    "https://www.d1ev.com/newsflash/307582",
-    "https://www.d1ev.com/newsflash/307581",
-    "https://www.d1ev.com/newsflash/307577",
-    "https://www.d1ev.com/news/shichang/307572",
     "https://www.d1ev.com/newsflash/307570",
     "https://www.d1ev.com/newsflash/307569",
     "https://www.d1ev.com/newsflash/307568",
@@ -1999,7 +1985,21 @@
     "https://www.d1ev.com/news/shichang/309631",
     "https://www.d1ev.com/newsflash/309625",
     "https://www.d1ev.com/newsflash/309627",
-    "https://www.d1ev.com/news/shichang/309622"
+    "https://www.d1ev.com/news/shichang/309622",
+    "https://www.d1ev.com/newsflash/309644",
+    "https://www.d1ev.com/newsflash/309639",
+    "https://www.d1ev.com/newsflash/309638",
+    "https://www.d1ev.com/newsflash/309645",
+    "https://www.d1ev.com/newsflash/309634",
+    "https://www.d1ev.com/newsflash/309633",
+    "https://www.d1ev.com/news/shichang/309643",
+    "https://www.d1ev.com/news/shichang/309642",
+    "https://www.d1ev.com/newsflash/309646",
+    "https://www.d1ev.com/newsflash/309641",
+    "https://www.d1ev.com/news/shichang/309640",
+    "https://www.d1ev.com/carnews/xinche/309637",
+    "https://www.d1ev.com/carnews/xinche/309636",
+    "https://www.d1ev.com/news/shichang/309635"
   ],
   "newsHistory": [
     {
@@ -5775,6 +5775,90 @@
       "title": "又一新项目落地嘉定，投资14.5亿！",
       "source": "第一电动",
       "pushedAt": 1786099803758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309644",
+      "title": "魏牌高山9申报成功，六座MPV新选择亮相",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309639",
+      "title": "微软Copilot图标扁平化升级，Edge浏览器率先曝光新设计",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309638",
+      "title": "华为智选享界G9预售火爆，24小时订单破万，43.98万起售",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309645",
+      "title": "蔚来ET9将配备120度电池，换电站突破1.2亿次里程碑",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309634",
+      "title": "中国首部自动驾驶国标出台，2027年实施，L3/L4级车辆迎规范",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309633",
+      "title": "蔚来ET9将迎120度电池升级，续航突破1000公里大关",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309643",
+      "title": "圆满落幕丨智竞全球·2026盖世汽车研究院年中闭门沙龙",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309642",
+      "title": "小鹏汽车官宣：G9L累计路测里程超674万公里，覆盖全球26个国家及地区",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309646",
+      "title": "小米汽车内饰大揭秘：SU7、YU7与澎程系列设计理念大不同",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309641",
+      "title": "德国汽车巨头逆境求生：采埃孚降本裁员，大陆集团、舍弗勒多元布局",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309640",
+      "title": "悦达起亚公布7月销量达25,032辆，同比增长24.9%",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309637",
+      "title": "人形机器人加速走进千家万户？走进四维图新亦庄大厦，揭开具身智能“文武兼备”的底层关键",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309636",
+      "title": "滴滴带队，国产电车“丝滑”驶向拉美",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309635",
+      "title": "曾毓群成零跑D99车主，朱江明亲自交付",
+      "source": "第一电动",
+      "pushedAt": 1786107020807
     }
   ],
   "lastUpdated": "2026-08-07"
