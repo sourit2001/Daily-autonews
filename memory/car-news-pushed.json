@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307570",
-    "https://www.d1ev.com/newsflash/307569",
-    "https://www.d1ev.com/newsflash/307568",
-    "https://www.d1ev.com/newsflash/307567",
-    "https://www.d1ev.com/news/shichang/307566",
-    "https://www.d1ev.com/newsflash/307565",
-    "https://www.d1ev.com/newsflash/307586",
-    "https://www.d1ev.com/news/shichang/307584",
     "https://www.d1ev.com/newsflash/307580",
     "https://www.d1ev.com/newsflash/307575",
     "https://www.d1ev.com/newsflash/307573",
@@ -1999,21 +1991,17 @@
     "https://www.d1ev.com/news/shichang/309640",
     "https://www.d1ev.com/carnews/xinche/309637",
     "https://www.d1ev.com/carnews/xinche/309636",
-    "https://www.d1ev.com/news/shichang/309635"
+    "https://www.d1ev.com/news/shichang/309635",
+    "https://www.d1ev.com/newsflash/309654",
+    "https://www.d1ev.com/newsflash/309653",
+    "https://www.d1ev.com/newsflash/309651",
+    "https://www.d1ev.com/newsflash/309649",
+    "https://www.d1ev.com/newsflash/309647",
+    "https://www.d1ev.com/newsflash/309652",
+    "https://www.d1ev.com/newsflash/309650",
+    "https://www.d1ev.com/news/qiye/309648"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468182.html",
-      "title": "盖世汽车研究院：中国乘用车市场未来展望",
-      "source": "盖世汽车",
-      "pushedAt": 1785505834580
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468168.html",
-      "title": "零跑正式登陆印尼市场，东盟双生产基地格局成型",
-      "source": "盖世汽车",
-      "pushedAt": 1785505834580
-    },
     {
       "url": "https://i.gasgoo.com/news/70468184.html",
       "title": "长城汽车：Hi4面向全球的智能四驱",
@@ -5859,6 +5847,54 @@
       "title": "曾毓群成零跑D99车主，朱江明亲自交付",
       "source": "第一电动",
       "pushedAt": 1786107020807
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309654",
+      "title": "比亚迪海豹06新色亮相，2027款展车全国300+门店同步首发",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309653",
+      "title": "大众高尔夫混动版西班牙上市，27.9万起售，挑战丰田卡罗拉",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309651",
+      "title": "东风猛士X700申报亮相，插电混动硬派SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309649",
+      "title": "东风日产NX7插混SUV亮相：40.9度电池+激光雷达，轴距2815mm",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309647",
+      "title": "广汽传祺越7硬派插混SUV首发亮相，199元锁定至高20000元权益",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309652",
+      "title": "Meta AI模型意外入侵企业系统，网络安全引发新担忧",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309650",
+      "title": "AI音乐版权战升级！Suno平台启用水印技术保护原创",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309648",
+      "title": "蔚来首批第五代换电站上线：萤火虫终于可以换电池了",
+      "source": "第一电动",
+      "pushedAt": 1786114126446
     }
   ],
   "lastUpdated": "2026-08-07"
