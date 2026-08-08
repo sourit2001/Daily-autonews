@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/307631",
-    "https://www.d1ev.com/newsflash/307629",
-    "https://www.d1ev.com/news/shichang/307628",
-    "https://www.d1ev.com/newsflash/307619",
-    "https://www.d1ev.com/news/shichang/307643",
-    "https://www.d1ev.com/news/shichang/307642",
-    "https://www.d1ev.com/newsflash/307638",
     "https://www.d1ev.com/newsflash/307637",
     "https://www.d1ev.com/carnews/xinche/307635",
     "https://www.d1ev.com/news/shichang/307627",
@@ -1999,45 +1992,16 @@
     "https://www.d1ev.com/newsflash/309688",
     "https://www.d1ev.com/newsflash/309684",
     "https://www.d1ev.com/newsflash/309682",
-    "https://www.d1ev.com/newsflash/309680"
+    "https://www.d1ev.com/newsflash/309680",
+    "https://www.d1ev.com/newsflash/309693",
+    "https://www.d1ev.com/newsflash/309696",
+    "https://www.d1ev.com/newsflash/309695",
+    "https://www.d1ev.com/newsflash/309694",
+    "https://www.d1ev.com/newsflash/309691",
+    "https://www.d1ev.com/newsflash/309697",
+    "https://www.d1ev.com/newsflash/309692"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468270.html",
-      "title": "岚图7月交付13189辆，追光S敲定8月上市",
-      "source": "盖世汽车",
-      "pushedAt": 1785565452232
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468266.html",
-      "title": "深蓝7月销量2.9万辆，海外增速亮眼",
-      "source": "盖世汽车",
-      "pushedAt": 1785565452232
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468271.html",
-      "title": "明天氢能：新示范期的机遇与挑战",
-      "source": "盖世汽车",
-      "pushedAt": 1785565452232
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468269.html",
-      "title": "鸿蒙智行7月交付45046台，多车型热销",
-      "source": "盖世汽车",
-      "pushedAt": 1785565452232
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468268.html",
-      "title": "人事变动｜长安汽车执行副总裁彭陶因工作变动离任",
-      "source": "盖世汽车",
-      "pushedAt": 1785565452232
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468265.html",
-      "title": "零跑7月交付首破10万台，全域自研支撑销量持续走高",
-      "source": "盖世汽车",
-      "pushedAt": 1785565452232
-    },
     {
       "url": "https://i.gasgoo.com/news/70468284.html",
       "title": "大众安徽7月交付2149辆，同比增长170%",
@@ -6051,6 +6015,48 @@
       "title": "寒武纪上半年营收翻倍 净利润激增137%",
       "source": "第一电动",
       "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309693",
+      "title": "路虎揽胜新款车型曝光：外观升级，动力系统大改，纯电续航提升！",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309696",
+      "title": "北京法院判例：新能源车涉水报废 保险公司须赔6万",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309695",
+      "title": "俄勒冈州51亿美元AI数据中心项目遭断头台抗议，计划搁置一年",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309694",
+      "title": "马斯克SpaceXAI发布ImagineImage2.0：AI图像编辑新突破",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309691",
+      "title": "小米汽车OTA升级：智能驾驶新功能，座舱体验大提升",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309697",
+      "title": "福特董事长警告：中国车企即将冲击美国市场，美国车企需做好准备",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309692",
+      "title": "小米汽车SU7OTA1.17更新：智能泊车升级，安全驾驶新体验",
+      "source": "第一电动",
+      "pushedAt": 1786171244874
     }
   ],
   "lastUpdated": "2026-08-08"
