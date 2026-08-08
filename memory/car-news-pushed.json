@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307658",
-    "https://www.d1ev.com/newsflash/307655",
-    "https://www.d1ev.com/carnews/xinche/307653",
     "https://www.d1ev.com/newsflash/307693",
     "https://www.d1ev.com/newsflash/307692",
     "https://www.d1ev.com/newsflash/307690",
@@ -1999,45 +1996,12 @@
     "https://www.d1ev.com/newsflash/309726",
     "https://www.d1ev.com/newsflash/309725",
     "https://www.d1ev.com/news/qiye/309724",
-    "https://www.d1ev.com/newsflash/309728"
+    "https://www.d1ev.com/newsflash/309728",
+    "https://www.d1ev.com/newsflash/309730",
+    "https://www.d1ev.com/newsflash/309731",
+    "https://www.d1ev.com/newsflash/309729"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468308.html",
-      "title": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
-      "source": "盖世汽车",
-      "pushedAt": 1785596178106
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468310.html",
-      "title": "小鹏汽车7月交付38,027台，MONA L03开启全球交付",
-      "source": "盖世汽车",
-      "pushedAt": 1785596178106
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468309.html",
-      "title": "比亚迪7月销量突破41.9万辆 海外销售再创新高",
-      "source": "盖世汽车",
-      "pushedAt": 1785596178106
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468313.html",
-      "title": "小米汽车7月交付再超3万辆",
-      "source": "盖世汽车",
-      "pushedAt": 1785596178106
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468311.html",
-      "title": "小鹏汽车7月交付38,027辆，同比增长4%",
-      "source": "盖世汽车",
-      "pushedAt": 1785596178106
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468307.html",
-      "title": "蔚来7月交付35,934辆，同比增长71%",
-      "source": "盖世汽车",
-      "pushedAt": 1785596178106
-    },
     {
       "url": "https://i.gasgoo.com/news/70468274.html",
       "title": "又一电池巨头申请破产！保时捷是股东之一",
@@ -6225,7 +6189,25 @@
       "title": "华为HiCar 7.0版升级：手机启动驾驶模式 微信通话一键接听",
       "source": "第一电动",
       "pushedAt": 1786199127080
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309730",
+      "title": "东风风行星海V6乾崑版开启预售，华为ADS5.0辅助驾驶加持，10.49万起",
+      "source": "第一电动",
+      "pushedAt": 1786206298861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309731",
+      "title": "雪佛兰将退出中国市场，转向全球出口业务",
+      "source": "第一电动",
+      "pushedAt": 1786206298861
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309729",
+      "title": "亚马逊加州新数据中心引发争议，民众担忧水资源消耗",
+      "source": "第一电动",
+      "pushedAt": 1786206298861
     }
   ],
-  "lastUpdated": "2026-08-08"
+  "lastUpdated": "2026-08-09"
 }
