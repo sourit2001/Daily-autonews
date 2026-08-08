@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/307645",
-    "https://www.d1ev.com/news/shichang/307644",
-    "https://www.d1ev.com/newsflash/307640",
-    "https://www.d1ev.com/newsflash/307639",
-    "https://www.d1ev.com/carnews/xinche/307636",
-    "https://www.d1ev.com/newsflash/307632",
-    "https://www.d1ev.com/news/shichang/307624",
     "https://www.d1ev.com/news/shichang/307623",
     "https://www.d1ev.com/newsflash/307621",
     "https://www.d1ev.com/newsflash/307620",
@@ -1999,21 +1992,16 @@
     "https://www.d1ev.com/newsflash/309702",
     "https://www.d1ev.com/newsflash/309700",
     "https://www.d1ev.com/newsflash/309699",
-    "https://www.d1ev.com/newsflash/309698"
+    "https://www.d1ev.com/newsflash/309698",
+    "https://www.d1ev.com/newsflash/309707",
+    "https://www.d1ev.com/newsflash/309712",
+    "https://www.d1ev.com/newsflash/309710",
+    "https://www.d1ev.com/newsflash/309709",
+    "https://www.d1ev.com/newsflash/309708",
+    "https://www.d1ev.com/newsflash/309706",
+    "https://www.d1ev.com/newsflash/309711"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468284.html",
-      "title": "大众安徽7月交付2149辆，同比增长170%",
-      "source": "盖世汽车",
-      "pushedAt": 1785578012446
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468283.html",
-      "title": "理想汽车7月交付30,468辆，L6交付量即将突破40万",
-      "source": "盖世汽车",
-      "pushedAt": 1785578012446
-    },
     {
       "url": "https://i.gasgoo.com/news/70468308.html",
       "title": "奇瑞7月出口首破20万辆，新能源逼近13万辆",
@@ -6105,6 +6093,48 @@
       "title": "比亚迪腾势N8L升级：无麦K歌、哨兵模式、智能导航新体验",
       "source": "第一电动",
       "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309707",
+      "title": "鸿蒙智行享界G9预售72小时订单破万，43.98万起售！",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309712",
+      "title": "“smart精灵#1搭载ASD4.0，千里智驾技术再升级”",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309710",
+      "title": "AI智能体新利器！Cloudflare推出低耗高效云端浏览器Kitesurf",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309709",
+      "title": "京沪高速惊现“智驾”玩手机，司机被罚200元扣3分！",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309708",
+      "title": "华为未来代客充电服务：一键操作，车辆自主补能新体验",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309706",
+      "title": "苹果联手阿里巴巴，千问AI功能登陆MacOS26.6",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309711",
+      "title": "谷歌Gemini惊现未公开游戏角色，数据泄露事件引发关注",
+      "source": "第一电动",
+      "pushedAt": 1786184703121
     }
   ],
   "lastUpdated": "2026-08-08"
