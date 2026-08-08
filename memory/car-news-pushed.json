@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307611",
-    "https://www.d1ev.com/newsflash/307609",
-    "https://www.d1ev.com/newsflash/307608",
-    "https://www.d1ev.com/news/shichang/307614",
-    "https://www.d1ev.com/news/qiye/307617",
-    "https://www.d1ev.com/newsflash/307616",
-    "https://www.d1ev.com/newsflash/307615",
-    "https://www.d1ev.com/newsflash/307648",
-    "https://www.d1ev.com/newsflash/307647",
-    "https://www.d1ev.com/carnews/xinche/307634",
-    "https://www.d1ev.com/carnews/xinche/307633",
     "https://www.d1ev.com/carnews/xinche/307631",
     "https://www.d1ev.com/newsflash/307629",
     "https://www.d1ev.com/news/shichang/307628",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/news/shichang/309672",
     "https://www.d1ev.com/news/shichang/309671",
     "https://www.d1ev.com/news/shichang/309670",
-    "https://www.d1ev.com/newsflash/309667"
+    "https://www.d1ev.com/newsflash/309667",
+    "https://www.d1ev.com/newsflash/309686",
+    "https://www.d1ev.com/newsflash/309681",
+    "https://www.d1ev.com/newsflash/309690",
+    "https://www.d1ev.com/newsflash/309689",
+    "https://www.d1ev.com/newsflash/309687",
+    "https://www.d1ev.com/newsflash/309685",
+    "https://www.d1ev.com/newsflash/309683",
+    "https://www.d1ev.com/newsflash/309688",
+    "https://www.d1ev.com/newsflash/309684",
+    "https://www.d1ev.com/newsflash/309682",
+    "https://www.d1ev.com/newsflash/309680"
   ],
   "newsHistory": [
     {
@@ -5985,6 +5985,72 @@
       "title": "长安启源Q06改装版来袭：越野升级+800V快充+7色车身选择",
       "source": "第一电动",
       "pushedAt": 1786159316505
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309686",
+      "title": "比亚迪腾势Z9S震撼上市：1100km超长续航，31.98万起！",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309681",
+      "title": "比亚迪海豹06即将上市，B级满配家轿新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309690",
+      "title": "小米SU7Ultra升级：智能泊车新功能，家庭充电桩预约充电来袭！",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309689",
+      "title": "中国汽车出口量激增54%，新能源汽车成新引擎",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309687",
+      "title": "微软Outlook升级：ExplainThis AI功能助你邮件理解更精准",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309685",
+      "title": "五菱代步车全球销量破300万，宏光MINIEV销量超195万",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309683",
+      "title": "中国汽车出口激增54%，7月单月破百万辆大关！",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309688",
+      "title": "小米汽车OTA升级：智能泊车、安全辅助功能大提升",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309684",
+      "title": "蔚来换电站突破4000座，第五代换电网络加速扩张",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309682",
+      "title": "极氪8X曜夜套件上新，限时5000元抢！2.96秒破百，中大型SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309680",
+      "title": "寒武纪上半年营收翻倍 净利润激增137%",
+      "source": "第一电动",
+      "pushedAt": 1786164676448
     }
   ],
   "lastUpdated": "2026-08-08"
