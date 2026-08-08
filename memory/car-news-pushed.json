@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307677",
-    "https://www.d1ev.com/news/shichang/307674",
-    "https://www.d1ev.com/newsflash/307671",
-    "https://www.d1ev.com/newsflash/307668",
-    "https://www.d1ev.com/newsflash/307661",
     "https://www.d1ev.com/news/shichang/307658",
     "https://www.d1ev.com/newsflash/307655",
     "https://www.d1ev.com/carnews/xinche/307653",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/309715",
     "https://www.d1ev.com/newsflash/309714",
     "https://www.d1ev.com/newsflash/309716",
-    "https://www.d1ev.com/newsflash/309713"
+    "https://www.d1ev.com/newsflash/309713",
+    "https://www.d1ev.com/carnews/xinche/309727",
+    "https://www.d1ev.com/newsflash/309726",
+    "https://www.d1ev.com/newsflash/309725",
+    "https://www.d1ev.com/news/qiye/309724",
+    "https://www.d1ev.com/newsflash/309728"
   ],
   "newsHistory": [
     {
@@ -6195,6 +6195,36 @@
       "title": "蔚来ES9创纪录：73天交付2万台，50万级纯电SUV新标杆",
       "source": "第一电动",
       "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309727",
+      "title": "星海V6正式上市 售价8.99-10.49万元",
+      "source": "第一电动",
+      "pushedAt": 1786199127080
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309726",
+      "title": "10万级星海V6开启预售，华为智驾+510km续航震撼来袭！",
+      "source": "第一电动",
+      "pushedAt": 1786199127080
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309725",
+      "title": "华为加持！东风风行星海V6乾崑版预售开启，10.49万起售",
+      "source": "第一电动",
+      "pushedAt": 1786199127080
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309724",
+      "title": "太行三电机最大马力970匹！阿维塔07L上市：限时21.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786199127080
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309728",
+      "title": "华为HiCar 7.0版升级：手机启动驾驶模式 微信通话一键接听",
+      "source": "第一电动",
+      "pushedAt": 1786199127080
     }
   ],
   "lastUpdated": "2026-08-08"
