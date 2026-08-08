@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307693",
-    "https://www.d1ev.com/newsflash/307692",
     "https://www.d1ev.com/newsflash/307690",
     "https://www.d1ev.com/newsflash/307688",
     "https://www.d1ev.com/newsflash/307685",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/309728",
     "https://www.d1ev.com/newsflash/309730",
     "https://www.d1ev.com/newsflash/309731",
-    "https://www.d1ev.com/newsflash/309729"
+    "https://www.d1ev.com/newsflash/309729",
+    "https://www.d1ev.com/news/qiye/309733",
+    "https://www.d1ev.com/news/qiye/309732"
   ],
   "newsHistory": [
     {
@@ -6207,6 +6207,18 @@
       "title": "亚马逊加州新数据中心引发争议，民众担忧水资源消耗",
       "source": "第一电动",
       "pushedAt": 1786206298861
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309733",
+      "title": "华为乾崑智驾首入10万级，星海V6开启预售10.49万元起",
+      "source": "第一电动",
+      "pushedAt": 1786213741074
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309732",
+      "title": "阿维塔07L上市限时权益价21.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1786213741074
     }
   ],
   "lastUpdated": "2026-08-09"
