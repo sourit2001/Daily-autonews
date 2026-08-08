@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307564",
-    "https://www.d1ev.com/newsflash/307563",
-    "https://www.d1ev.com/newsflash/307562",
-    "https://www.d1ev.com/newsflash/307596",
-    "https://www.d1ev.com/newsflash/307595",
-    "https://www.d1ev.com/newsflash/307594",
-    "https://www.d1ev.com/newsflash/307591",
-    "https://www.d1ev.com/newsflash/307593",
     "https://www.d1ev.com/newsflash/307592",
     "https://www.d1ev.com/newsflash/307590",
     "https://www.d1ev.com/newsflash/307600",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/news/qiye/309648",
     "https://www.d1ev.com/newsflash/309656",
     "https://www.d1ev.com/newsflash/309657",
-    "https://www.d1ev.com/newsflash/309655"
+    "https://www.d1ev.com/newsflash/309655",
+    "https://www.d1ev.com/newsflash/309665",
+    "https://www.d1ev.com/newsflash/309660",
+    "https://www.d1ev.com/newsflash/309658",
+    "https://www.d1ev.com/newsflash/309663",
+    "https://www.d1ev.com/newsflash/309662",
+    "https://www.d1ev.com/newsflash/309661",
+    "https://www.d1ev.com/newsflash/309659",
+    "https://www.d1ev.com/news/shichang/309664"
   ],
   "newsHistory": [
     {
@@ -5901,6 +5901,54 @@
       "title": "亚马逊AWS紧急行动：关闭65%低效云计算机以应对AI算力危机",
       "source": "第一电动",
       "pushedAt": 1786121207521
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309665",
+      "title": "长城魏牌高山8Hi4混动SUV亮相：7座大空间，190km/h极速！",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309660",
+      "title": "零跑Lafa5纯电动轿车亮相：最高时速180km/h，支持激光雷达选装",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309658",
+      "title": "一汽-大众速腾LHEV混动版亮相：镍钴锰电池+EDR系统",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309663",
+      "title": "蚂蚁集团Ling-3.0-flash大模型开源！124B参数量，性能飞跃",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309662",
+      "title": "“智驾”非全自动驾驶！温州司机捡鞋引发高速事故被罚",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309661",
+      "title": "中国首部自动驾驶国标2027年实施，L3/L4级车辆将受监管",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309659",
+      "title": "OpenAI新模型Astra网络安全风险高，强化安全措施应对",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309664",
+      "title": "悉智科技完成A轮超1亿元融资",
+      "source": "第一电动",
+      "pushedAt": 1786151255276
     }
   ],
   "lastUpdated": "2026-08-08"
