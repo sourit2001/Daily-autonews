@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307623",
-    "https://www.d1ev.com/newsflash/307621",
-    "https://www.d1ev.com/newsflash/307620",
-    "https://www.d1ev.com/newsflash/307618",
-    "https://www.d1ev.com/news/shichang/307695",
-    "https://www.d1ev.com/carnews/xinche/307691",
-    "https://www.d1ev.com/carnews/xinche/307689",
-    "https://www.d1ev.com/carnews/xinche/307684",
-    "https://www.d1ev.com/carnews/xinche/307683",
-    "https://www.d1ev.com/newsflash/307681",
     "https://www.d1ev.com/newsflash/307677",
     "https://www.d1ev.com/news/shichang/307674",
     "https://www.d1ev.com/newsflash/307671",
@@ -1999,7 +1989,17 @@
     "https://www.d1ev.com/newsflash/309709",
     "https://www.d1ev.com/newsflash/309708",
     "https://www.d1ev.com/newsflash/309706",
-    "https://www.d1ev.com/newsflash/309711"
+    "https://www.d1ev.com/newsflash/309711",
+    "https://www.d1ev.com/newsflash/309722",
+    "https://www.d1ev.com/carnews/xinche/309721",
+    "https://www.d1ev.com/newsflash/309720",
+    "https://www.d1ev.com/newsflash/309719",
+    "https://www.d1ev.com/newsflash/309717",
+    "https://www.d1ev.com/newsflash/309718",
+    "https://www.d1ev.com/newsflash/309715",
+    "https://www.d1ev.com/newsflash/309714",
+    "https://www.d1ev.com/newsflash/309716",
+    "https://www.d1ev.com/newsflash/309713"
   ],
   "newsHistory": [
     {
@@ -6135,6 +6135,66 @@
       "title": "谷歌Gemini惊现未公开游戏角色，数据泄露事件引发关注",
       "source": "第一电动",
       "pushedAt": 1786184703121
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309722",
+      "title": "北汽集团4000万用户新车交付，新能源销量同比增22.6%",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309721",
+      "title": "售价22.99-27.99万元 阿维塔07L正式上市",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309720",
+      "title": "阿维塔07L大五座SUV今晚上市，华为智驾加持22.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309719",
+      "title": "阿维塔07L震撼上市：五屏联动+零重力座椅，续航超700km！",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309717",
+      "title": "华为乾崑智驾里程破137亿公里，阿维塔07L搭载新一代激光雷达上市",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309718",
+      "title": "华为乾崑智驾里程破137亿公里，阿维塔07L搭载ADS5升级AVP2.0架构",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309715",
+      "title": "小米汽车OTA升级：自动泊车、智能座舱、充电生态全面进化",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309714",
+      "title": "长城���牌V8X旗舰SUV：4.5秒破百，超长续航1659km！",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309716",
+      "title": "蔚来ES9交付破2万，73天刷新高端纯电交付纪录",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309713",
+      "title": "蔚来ES9创纪录：73天交付2万台，50万级纯电SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786192519727
     }
   ],
   "lastUpdated": "2026-08-08"
