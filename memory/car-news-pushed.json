@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307637",
-    "https://www.d1ev.com/carnews/xinche/307635",
-    "https://www.d1ev.com/news/shichang/307627",
-    "https://www.d1ev.com/newsflash/307626",
-    "https://www.d1ev.com/newsflash/307625",
-    "https://www.d1ev.com/news/shichang/307622",
-    "https://www.d1ev.com/newsflash/307630",
-    "https://www.d1ev.com/newsflash/307646",
     "https://www.d1ev.com/carnews/xinche/307645",
     "https://www.d1ev.com/news/shichang/307644",
     "https://www.d1ev.com/newsflash/307640",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/newsflash/309694",
     "https://www.d1ev.com/newsflash/309691",
     "https://www.d1ev.com/newsflash/309697",
-    "https://www.d1ev.com/newsflash/309692"
+    "https://www.d1ev.com/newsflash/309692",
+    "https://www.d1ev.com/newsflash/309703",
+    "https://www.d1ev.com/newsflash/309701",
+    "https://www.d1ev.com/newsflash/309705",
+    "https://www.d1ev.com/newsflash/309704",
+    "https://www.d1ev.com/newsflash/309702",
+    "https://www.d1ev.com/newsflash/309700",
+    "https://www.d1ev.com/newsflash/309699",
+    "https://www.d1ev.com/newsflash/309698"
   ],
   "newsHistory": [
     {
@@ -6057,6 +6057,54 @@
       "title": "小米汽车SU7OTA1.17更新：智能泊车升级，安全驾驶新体验",
       "source": "第一电动",
       "pushedAt": 1786171244874
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309703",
+      "title": "小米澎程系列汽车9月上市，累计实测里程428万公里！",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309701",
+      "title": "华为鸿蒙智行G9内饰曝光：三联屏+实体键，预售24小时破万台！",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309705",
+      "title": "OpenAI AI模型Astra被指学术不端：数学成果未正确引用",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309704",
+      "title": "鸿蒙智行享界G9电驱挑战泥水坑，AI视频质疑后现场实拍澄清",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309702",
+      "title": "华为乾崑智驾新突破：一键代客充电，告别充电站等待！",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309700",
+      "title": "AI升级！Anthropic减少Fable5生物学误拦截85%",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309699",
+      "title": "小米音箱“超级小爱”内测开启，智能家庭新体验！",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309698",
+      "title": "比亚迪腾势N8L升级：无麦K歌、哨兵模式、智能导航新体验",
+      "source": "第一电动",
+      "pushedAt": 1786178007555
     }
   ],
   "lastUpdated": "2026-08-08"
