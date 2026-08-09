@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307743",
-    "https://www.d1ev.com/newsflash/307738",
-    "https://www.d1ev.com/newsflash/307732",
-    "https://www.d1ev.com/newsflash/307730",
-    "https://www.d1ev.com/newsflash/307728",
     "https://www.d1ev.com/newsflash/307727",
     "https://www.d1ev.com/newsflash/307725",
     "https://www.d1ev.com/newsflash/307724",
@@ -1999,27 +1994,14 @@
     "https://www.d1ev.com/newsflash/309763",
     "https://www.d1ev.com/newsflash/309759",
     "https://www.d1ev.com/news/shichang/309762",
-    "https://www.d1ev.com/news/shichang/309760"
+    "https://www.d1ev.com/news/shichang/309760",
+    "https://www.d1ev.com/newsflash/309766",
+    "https://www.d1ev.com/newsflash/309768",
+    "https://www.d1ev.com/newsflash/309767",
+    "https://www.d1ev.com/newsflash/309765",
+    "https://www.d1ev.com/newsflash/309764"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/308955",
-      "title": "全新一代红旗天工08 670 Max上市，限时权益价17.99万元",
-      "source": "第一电动",
-      "pushedAt": 1785669188918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308954",
-      "title": "比亚迪海豹06全新亮相：B级轿跑革新，预扣价10.5万起",
-      "source": "第一电动",
-      "pushedAt": 1785669188918
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308953",
-      "title": "比亚迪7月销量大增20.5%，王朝系列新品不断，8月再迎突破",
-      "source": "第一电动",
-      "pushedAt": 1785669188918
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308957",
       "title": "奇瑞汽车7月销量劲增24.1%，智界品牌销量飙升227.7%",
@@ -6063,6 +6045,36 @@
       "title": "小智一周要闻 | 宇树IPO一签需缴7.54万元；智元调整核心管理层",
       "source": "第一电动",
       "pushedAt": 1786271266435
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309766",
+      "title": "大众ID.ERA5X纯电SUV亮相：激光雷达加持，智能驾驶新突破",
+      "source": "第一电动",
+      "pushedAt": 1786279145317
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309768",
+      "title": "AI诉状泛滥！英国就业法庭案件激增39%，积压案件增55%",
+      "source": "第一电动",
+      "pushedAt": 1786279145317
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309767",
+      "title": "“5岁孩子沉迷AI聊天，家长惊现暴力倾向苗头！”",
+      "source": "第一电动",
+      "pushedAt": 1786279145317
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309765",
+      "title": "新兴产业爆发式增长，新能源车、光伏企业注销数同比上升",
+      "source": "第一电动",
+      "pushedAt": 1786279145317
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309764",
+      "title": "“山洪突袭！仰望U8单轮脱险，三地救援联动成功救出车主”",
+      "source": "第一电动",
+      "pushedAt": 1786279145317
     }
   ],
   "lastUpdated": "2026-08-09"
