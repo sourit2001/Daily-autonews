@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307656",
     "https://www.d1ev.com/newsflash/307654",
     "https://www.d1ev.com/carnews/xinche/307652",
     "https://www.d1ev.com/news/shichang/307650",
@@ -1999,45 +1998,10 @@
     "https://www.d1ev.com/news/shichang/309735",
     "https://www.d1ev.com/newsflash/309734",
     "https://www.d1ev.com/carnews/xinche/309742",
-    "https://www.d1ev.com/newsflash/309736"
+    "https://www.d1ev.com/newsflash/309736",
+    "https://www.d1ev.com/newsflash/309745"
   ],
   "newsHistory": [
-    {
-      "url": "https://i.gasgoo.com/news/70468274.html",
-      "title": "又一电池巨头申请破产！保时捷是股东之一",
-      "source": "盖世汽车",
-      "pushedAt": 1785636545342
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468279.html",
-      "title": "近95%产能利用率！宁德时代上半年盈利432.84亿元！股票回购上限达400亿元...",
-      "source": "盖世汽车",
-      "pushedAt": 1785636545342
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468281.html",
-      "title": "71.56亿元！杉杉股份易主安徽国资！郑氏家族退出董事会",
-      "source": "盖世汽车",
-      "pushedAt": 1785636545342
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468341.html",
-      "title": "实体钥匙存废博弈 车企降本勿丢安全底线",
-      "source": "盖世汽车",
-      "pushedAt": 1785636545342
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468342.html",
-      "title": "上海地铁或涨价，汽车市场开香槟吧",
-      "source": "盖世汽车",
-      "pushedAt": 1785636545342
-    },
-    {
-      "url": "https://i.gasgoo.com/news/70468134.html",
-      "title": "盖世周报 | 陶海龙出任华域汽车总经理；高通拿下宝马大单",
-      "source": "盖世汽车",
-      "pushedAt": 1785636545342
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/308950",
       "title": "小智一周要闻 | 宇树IPO 8月10日申购；智元启动赴港上市流程",
@@ -6285,6 +6249,12 @@
       "title": "苹果官网文档泄露：Mac将支持阿里巴巴千问扩展功能",
       "source": "第一电动",
       "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309745",
+      "title": "零跑A05七色亮相，8月10日上市，续航510km，99元盲订享5000积分！",
+      "source": "第一电动",
+      "pushedAt": 1786246080829
     }
   ],
   "lastUpdated": "2026-08-09"
