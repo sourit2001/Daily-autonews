@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307690",
-    "https://www.d1ev.com/newsflash/307688",
-    "https://www.d1ev.com/newsflash/307685",
-    "https://www.d1ev.com/newsflash/307679",
-    "https://www.d1ev.com/news/shichang/307673",
-    "https://www.d1ev.com/newsflash/307670",
-    "https://www.d1ev.com/newsflash/307666",
-    "https://www.d1ev.com/newsflash/307665",
-    "https://www.d1ev.com/news/shichang/307664",
-    "https://www.d1ev.com/news/shichang/307659",
-    "https://www.d1ev.com/newsflash/307657",
     "https://www.d1ev.com/newsflash/307656",
     "https://www.d1ev.com/newsflash/307654",
     "https://www.d1ev.com/carnews/xinche/307652",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/309731",
     "https://www.d1ev.com/newsflash/309729",
     "https://www.d1ev.com/news/qiye/309733",
-    "https://www.d1ev.com/news/qiye/309732"
+    "https://www.d1ev.com/news/qiye/309732",
+    "https://www.d1ev.com/carnews/xinche/309743",
+    "https://www.d1ev.com/news/qiye/309739",
+    "https://www.d1ev.com/news/qiye/309738",
+    "https://www.d1ev.com/newsflash/309744",
+    "https://www.d1ev.com/newsflash/309741",
+    "https://www.d1ev.com/newsflash/309740",
+    "https://www.d1ev.com/newsflash/309737",
+    "https://www.d1ev.com/news/shichang/309735",
+    "https://www.d1ev.com/newsflash/309734",
+    "https://www.d1ev.com/carnews/xinche/309742",
+    "https://www.d1ev.com/newsflash/309736"
   ],
   "newsHistory": [
     {
@@ -6219,6 +6219,72 @@
       "title": "阿维塔07L上市限时权益价21.99万元起",
       "source": "第一电动",
       "pushedAt": 1786213741074
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309743",
+      "title": "4.28万 凯越ADV摩托800X硬汉上市",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309739",
+      "title": "激光雷达打到8万级！上市仅135天 零跑A10第10万台下线",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309738",
+      "title": "日产新车研发周期缩短一半！高管：这速度是跟中国车企学的",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309744",
+      "title": "克莱姆森大学学生打造太阳能电动原型车，日常通勤电能产出超消耗2.5倍",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309741",
+      "title": "奕境X9全球首秀：华为鸿蒙座舱+激光投影，智能豪华新体验",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309740",
+      "title": "小米澎程车门近90度开合，智能电动门6种开启7种关闭新体验",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309737",
+      "title": "AI小说质量超人类？1600人盲测结果惊人",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309735",
+      "title": "盖世周报 | 上汽与通用合资公司续约20年；自动驾驶“国标”来了",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309734",
+      "title": "OpenAI ChatGPT语音助手升级：语音指令执行电脑任务成现实",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309742",
+      "title": "极氪8X新增曜夜套件：限时售5000元",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309736",
+      "title": "苹果官网文档泄露：Mac将支持阿里巴巴千问扩展功能",
+      "source": "第一电动",
+      "pushedAt": 1786237962704
     }
   ],
   "lastUpdated": "2026-08-09"
