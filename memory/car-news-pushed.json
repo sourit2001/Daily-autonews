@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307654",
-    "https://www.d1ev.com/carnews/xinche/307652",
-    "https://www.d1ev.com/news/shichang/307650",
-    "https://www.d1ev.com/news/shichang/307678",
-    "https://www.d1ev.com/news/qiye/307694",
-    "https://www.d1ev.com/newsflash/307687",
     "https://www.d1ev.com/newsflash/307686",
     "https://www.d1ev.com/newsflash/307682",
     "https://www.d1ev.com/newsflash/307680",
@@ -1999,7 +1993,13 @@
     "https://www.d1ev.com/newsflash/309734",
     "https://www.d1ev.com/carnews/xinche/309742",
     "https://www.d1ev.com/newsflash/309736",
-    "https://www.d1ev.com/newsflash/309745"
+    "https://www.d1ev.com/newsflash/309745",
+    "https://www.d1ev.com/newsflash/309750",
+    "https://www.d1ev.com/newsflash/309748",
+    "https://www.d1ev.com/newsflash/309747",
+    "https://www.d1ev.com/newsflash/309746",
+    "https://www.d1ev.com/newsflash/309751",
+    "https://www.d1ev.com/newsflash/309749"
   ],
   "newsHistory": [
     {
@@ -6255,6 +6255,42 @@
       "title": "零跑A05七色亮相，8月10日上市，续航510km，99元盲订享5000积分！",
       "source": "第一电动",
       "pushedAt": 1786246080829
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309750",
+      "title": "长城欧拉7旅行车曝光：中型电动轿车，最高时速180km/h",
+      "source": "第一电动",
+      "pushedAt": 1786257842523
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309748",
+      "title": "阿维塔07L震撼上市，21.99万起享9大权益，华为技术加持！",
+      "source": "第一电动",
+      "pushedAt": 1786257842523
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309747",
+      "title": "东风风行星海V6预售开启，10.49万起享400km续航跨界SUV",
+      "source": "第一电动",
+      "pushedAt": 1786257842523
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309746",
+      "title": "中国算力新突破：全国产10万卡AI超集群“曙光8000”正式投用",
+      "source": "第一电动",
+      "pushedAt": 1786257842523
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309751",
+      "title": "BBA豪车三巨头利润暴跌，中国市场销量大幅下滑",
+      "source": "第一电动",
+      "pushedAt": 1786257842523
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309749",
+      "title": "蔚来ES9交付破2万，高端纯电SUV市场新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786257842523
     }
   ],
   "lastUpdated": "2026-08-09"
