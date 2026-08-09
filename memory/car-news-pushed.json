@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307727",
-    "https://www.d1ev.com/newsflash/307725",
-    "https://www.d1ev.com/newsflash/307724",
-    "https://www.d1ev.com/newsflash/307715",
-    "https://www.d1ev.com/newsflash/307712",
     "https://www.d1ev.com/newsflash/307708",
     "https://www.d1ev.com/news/shichang/307751",
     "https://www.d1ev.com/newsflash/307749",
@@ -1999,21 +1994,14 @@
     "https://www.d1ev.com/newsflash/309768",
     "https://www.d1ev.com/newsflash/309767",
     "https://www.d1ev.com/newsflash/309765",
-    "https://www.d1ev.com/newsflash/309764"
+    "https://www.d1ev.com/newsflash/309764",
+    "https://www.d1ev.com/newsflash/309771",
+    "https://www.d1ev.com/newsflash/309769",
+    "https://www.d1ev.com/newsflash/309773",
+    "https://www.d1ev.com/newsflash/309772",
+    "https://www.d1ev.com/newsflash/309770"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/308957",
-      "title": "奇瑞汽车7月销量劲增24.1%，智界品牌销量飙升227.7%",
-      "source": "第一电动",
-      "pushedAt": 1785675992534
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/308956",
-      "title": "古力娜扎代言猛士M817，华为技术加持，29.99万起售！",
-      "source": "第一电动",
-      "pushedAt": 1785675992534
-    },
     {
       "url": "https://www.d1ev.com/newsflash/308959",
       "title": "比亚迪方程豹“钛9”即将亮相，全尺寸SUV搭载550kW动力系统",
@@ -6075,6 +6063,36 @@
       "title": "“山洪突袭！仰望U8单轮脱险，三地救援联动成功救出车主”",
       "source": "第一电动",
       "pushedAt": 1786279145317
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309771",
+      "title": "标致2030年前推7款新车，电动版208和2008领衔登场",
+      "source": "第一电动",
+      "pushedAt": 1786285778339
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309769",
+      "title": "座椅加热成新车必备！消费者愿为舒适配置买单",
+      "source": "第一电动",
+      "pushedAt": 1786285778339
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309773",
+      "title": "甲骨文新规：OpenJDK开发者禁用AI生成代码",
+      "source": "第一电动",
+      "pushedAt": 1786285778339
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309772",
+      "title": "“氢能革命！美国研发点火式氢发动机 性能匹敌柴油机”",
+      "source": "第一电动",
+      "pushedAt": 1786285778339
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309770",
+      "title": "未来城市开车不超速？地理围栏技术让汽车自动限速",
+      "source": "第一电动",
+      "pushedAt": 1786285778339
     }
   ],
   "lastUpdated": "2026-08-09"
