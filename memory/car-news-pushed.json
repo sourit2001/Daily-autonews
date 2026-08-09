@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307686",
-    "https://www.d1ev.com/newsflash/307682",
-    "https://www.d1ev.com/newsflash/307680",
-    "https://www.d1ev.com/newsflash/307676",
-    "https://www.d1ev.com/newsflash/307669",
-    "https://www.d1ev.com/news/shichang/307663",
-    "https://www.d1ev.com/newsflash/307662",
     "https://www.d1ev.com/carnews/xinche/307660",
     "https://www.d1ev.com/news/shichang/307651",
     "https://www.d1ev.com/news/shichang/307649",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/newsflash/309747",
     "https://www.d1ev.com/newsflash/309746",
     "https://www.d1ev.com/newsflash/309751",
-    "https://www.d1ev.com/newsflash/309749"
+    "https://www.d1ev.com/newsflash/309749",
+    "https://www.d1ev.com/newsflash/309757",
+    "https://www.d1ev.com/newsflash/309755",
+    "https://www.d1ev.com/newsflash/309758",
+    "https://www.d1ev.com/newsflash/309756",
+    "https://www.d1ev.com/newsflash/309754",
+    "https://www.d1ev.com/newsflash/309753",
+    "https://www.d1ev.com/news/qiye/309752"
   ],
   "newsHistory": [
     {
@@ -6291,6 +6291,48 @@
       "title": "蔚来ES9交付破2万，高端纯电SUV市场新标杆",
       "source": "第一电动",
       "pushedAt": 1786257842523
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309757",
+      "title": "李开复：AI时代人类优势在“右脑”，择业应选“无数据”领域",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309755",
+      "title": "宝马联手克莱姆森大学打造太阳能电动车，日晒续航超50公里！",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309758",
+      "title": "比亚迪海豹06焕新登场：10.5万起售，动力升级，家用新选择",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309756",
+      "title": "深蓝S05全国热销开启大规模交付，8月产量突破两万",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309754",
+      "title": "特斯拉FSD安全数据疑云：荷兰监管机构拒公开决策依据",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309753",
+      "title": "小米汽车销量飙升：2028年有望突破百万大关",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309752",
+      "title": "蔚来第4,000座换电站落成暨第五代换电站投入运营",
+      "source": "第一电动",
+      "pushedAt": 1786264524091
     }
   ],
   "lastUpdated": "2026-08-09"
