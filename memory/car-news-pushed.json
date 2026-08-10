@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307765",
-    "https://www.d1ev.com/news/qiye/307764",
-    "https://www.d1ev.com/newsflash/307763",
-    "https://www.d1ev.com/newsflash/307762",
-    "https://www.d1ev.com/newsflash/307761",
-    "https://www.d1ev.com/news/shichang/307760",
-    "https://www.d1ev.com/newsflash/307759",
-    "https://www.d1ev.com/newsflash/307758",
-    "https://www.d1ev.com/newsflash/307756",
-    "https://www.d1ev.com/newsflash/307775",
-    "https://www.d1ev.com/news/qiye/307770",
-    "https://www.d1ev.com/newsflash/307757",
-    "https://www.d1ev.com/newsflash/307786",
-    "https://www.d1ev.com/newsflash/307785",
-    "https://www.d1ev.com/carnews/xinche/307782",
     "https://www.d1ev.com/newsflash/307787",
     "https://www.d1ev.com/newsflash/307784",
     "https://www.d1ev.com/newsflash/307788",
@@ -1999,7 +1984,22 @@
     "https://www.d1ev.com/newsflash/309809",
     "https://www.d1ev.com/newsflash/309802",
     "https://www.d1ev.com/newsflash/309801",
-    "https://www.d1ev.com/news/shichang/309800"
+    "https://www.d1ev.com/news/shichang/309800",
+    "https://www.d1ev.com/newsflash/309838",
+    "https://www.d1ev.com/newsflash/309835",
+    "https://www.d1ev.com/newsflash/309830",
+    "https://www.d1ev.com/newsflash/309824",
+    "https://www.d1ev.com/newsflash/309829",
+    "https://www.d1ev.com/news/shichang/309828",
+    "https://www.d1ev.com/newsflash/309839",
+    "https://www.d1ev.com/newsflash/309837",
+    "https://www.d1ev.com/newsflash/309836",
+    "https://www.d1ev.com/news/shichang/309833",
+    "https://www.d1ev.com/newsflash/309832",
+    "https://www.d1ev.com/news/qiye/309831",
+    "https://www.d1ev.com/news/shichang/309827",
+    "https://www.d1ev.com/news/shichang/309826",
+    "https://www.d1ev.com/newsflash/309825"
   ],
   "newsHistory": [
     {
@@ -6183,6 +6183,96 @@
       "title": "传自变量已秘密递表港交所",
       "source": "第一电动",
       "pushedAt": 1786333777165
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309838",
+      "title": "标致2030战略：7款新车来袭，全新纯电208明年首发",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309835",
+      "title": "奇瑞风云T7预售开启，600km续航+犀牛电池，年轻审美新选择",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309830",
+      "title": "宾利首款纯电跨界车Torcal内饰曝光：四种情绪模式+22向座椅调节，预计2027年上市",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309824",
+      "title": "奇瑞iCARV25成都抢先品鉴，科技时尚轻旗舰SUV亮相",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309829",
+      "title": "MG07插电混动轿跑官网上架，纯电续航245公里，1745公里综合续航",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309828",
+      "title": "算法把方向交给底盘之后，谁来保证它一直打得准？",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309839",
+      "title": "蔚来用户95后女警街头飞奔救人，李斌点赞勇气与责任",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309837",
+      "title": "智界RX“闪蝶蓝”车色发布，华为技术加持打造旗舰SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309836",
+      "title": "捷途山海L7PLUS升级来袭：智能驾驶+舒适座椅，1.5T/1.5L插混动力新选择",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309833",
+      "title": "蔚来全国建成9184座充换电站 累计换电超1.2亿次",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309832",
+      "title": "阿维塔07L携手华为，打造智能驾驶新标杆，未来合作不绑定",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309831",
+      "title": "大众控股家族呼吁迅速推进改革",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309827",
+      "title": "保时捷申请自动前桥升降系统专利 或许比保险杠更能提供保护性",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309826",
+      "title": "三菱化学推出高性能碳纤维预浸料系列",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309825",
+      "title": "Alphabet高管大地震：哈萨比斯转任董事长，Jeff Dean出走创办新公司",
+      "source": "第一电动",
+      "pushedAt": 1786339322266
     }
   ],
   "lastUpdated": "2026-08-10"
