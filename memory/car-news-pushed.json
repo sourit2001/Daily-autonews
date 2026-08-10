@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/307838",
-    "https://www.d1ev.com/newsflash/307836",
-    "https://www.d1ev.com/newsflash/307834",
-    "https://www.d1ev.com/newsflash/307832",
-    "https://www.d1ev.com/news/shichang/307828",
-    "https://www.d1ev.com/newsflash/307824",
-    "https://www.d1ev.com/news/shichang/307823",
-    "https://www.d1ev.com/news/qiye/307822",
-    "https://www.d1ev.com/news/shichang/307858",
     "https://www.d1ev.com/news/shichang/307841",
     "https://www.d1ev.com/news/shichang/307855",
     "https://www.d1ev.com/newsflash/307851",
@@ -1999,123 +1990,18 @@
     "https://www.d1ev.com/newsflash/309893",
     "https://www.d1ev.com/newsflash/309892",
     "https://www.d1ev.com/newsflash/309890",
-    "https://www.d1ev.com/news/shichang/309898"
+    "https://www.d1ev.com/news/shichang/309898",
+    "https://www.d1ev.com/newsflash/309908",
+    "https://www.d1ev.com/newsflash/309906",
+    "https://www.d1ev.com/newsflash/309902",
+    "https://www.d1ev.com/newsflash/309900",
+    "https://www.d1ev.com/newsflash/309909",
+    "https://www.d1ev.com/newsflash/309905",
+    "https://www.d1ev.com/newsflash/309903",
+    "https://www.d1ev.com/newsflash/309904",
+    "https://www.d1ev.com/newsflash/309901"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309101",
-      "title": "腾势Z9S开启预售 预售价31.98-38.98万元",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309099",
-      "title": "腾势Z9S预售开启，纯电续航1100km领跑市场！",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309097",
-      "title": "比亚迪腾势Z9S预售开启，31.98万起，续航1100km全球领先！",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309094",
-      "title": "比亚迪腾势Z9S全球首发：纯电续航1100km，告别续航焦虑！",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309092",
-      "title": "捷达M6纯电轿车2026年上市，德系设计+双电机动力！",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309103",
-      "title": "中国AI产业规模突破1.2万亿，北京广东上海领跑全国",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309102",
-      "title": "韩国AI芯片独角兽DeepX融资估值翻四倍，D轮融资首批资金到位",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309096",
-      "title": "比亚迪腾势Z9S全球首搭苹果CarPlay小窗，纯电续航破纪录达1100km",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309091",
-      "title": "阿里巴巴发布2.4万亿参数大模型Qwen3.8 股价应声大涨",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309087",
-      "title": "小米重拳出击：AI造谣者被警方处罚，维护网络清朗环境",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309085",
-      "title": "京东2027校招启动：AI面试加入流程，岗位覆盖十大领域",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309095",
-      "title": "美国乡村音乐人集体反对数据中心建设：家乡不是科技巨头的牺牲品",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309093",
-      "title": "亚马逊Zoox获全球首张无方向盘Robotaxi牌照，开启付费载客服务",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309089",
-      "title": "欧洲车企分化：中国市场依赖度成盈利关键",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309100",
-      "title": "小米YU7追随者！极狐阿尔法T7内饰公布：第二家用上PHUD",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309098",
-      "title": "A股存储板块大跌，兆易创新市值蒸发超3500亿",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309090",
-      "title": "极氪理想齐拆车直播，小米徐洁云点赞真材实料展示",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309088",
-      "title": "广汽本田联手广汽集团，多品牌共店模式开启下沉市场新篇章",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309086",
-      "title": "广汽本田试点多品牌销售，三四线城市迎来新机遇",
-      "source": "第一电动",
-      "pushedAt": 1785767620582
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309109",
       "title": "东风岚图武汉旗舰店开业：3万平超大规模，日交付100台新车",
@@ -6081,6 +5967,60 @@
       "title": "英国宣布近1.3亿英镑资金，支持零排放汽车技术研发",
       "source": "第一电动",
       "pushedAt": 1786366439738
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309908",
+      "title": "比亚迪方程豹钛9官图发布，6座插混动力SUV即将来袭",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309906",
+      "title": "奇瑞艾瑞泽8PRO震撼上市，10万级燃油轿车智能化新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309902",
+      "title": "华为鸿蒙座舱加持，奕境X9家庭旗舰SUV全球首秀亮相",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309900",
+      "title": "2027款艾瑞泽8PRO震撼上市，智能升级引领新潮流！",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309909",
+      "title": "英国警察局两度涉AI违规，刑侦总督察被查",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309905",
+      "title": "微软秋季推Maia300 AI芯片 目标2027年产30万颗",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309903",
+      "title": "亿纬锂能9月起电池产品涨价2%，消费税政策影响显现",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309904",
+      "title": "小鹏汇天量产飞行汽车电推进单元破千套，创全球eVTOL行业新纪录",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309901",
+      "title": "“张雪机车估值飙升60倍！高信资本2000万天使投资大获成功”",
+      "source": "第一电动",
+      "pushedAt": 1786373566246
     }
   ],
   "lastUpdated": "2026-08-10"
