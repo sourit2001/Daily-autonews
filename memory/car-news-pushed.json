@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307810",
-    "https://www.d1ev.com/newsflash/307804",
-    "https://www.d1ev.com/news/shichang/307802",
-    "https://www.d1ev.com/news/qiye/307800",
-    "https://www.d1ev.com/newsflash/307796",
-    "https://www.d1ev.com/carnews/xinche/307856",
-    "https://www.d1ev.com/newsflash/307854",
-    "https://www.d1ev.com/carnews/xinche/307853",
-    "https://www.d1ev.com/carnews/xinche/307852",
-    "https://www.d1ev.com/news/qiye/307833",
-    "https://www.d1ev.com/newsflash/307826",
-    "https://www.d1ev.com/newsflash/307825",
-    "https://www.d1ev.com/newsflash/307860",
-    "https://www.d1ev.com/newsflash/307859",
-    "https://www.d1ev.com/newsflash/307857",
     "https://www.d1ev.com/newsflash/307850",
     "https://www.d1ev.com/newsflash/307849",
     "https://www.d1ev.com/news/shichang/307848",
@@ -1999,7 +1984,22 @@
     "https://www.d1ev.com/newsflash/309871",
     "https://www.d1ev.com/newsflash/309860",
     "https://www.d1ev.com/news/shichang/309857",
-    "https://www.d1ev.com/newsflash/309854"
+    "https://www.d1ev.com/newsflash/309854",
+    "https://www.d1ev.com/news/qiye/309878",
+    "https://www.d1ev.com/newsflash/309887",
+    "https://www.d1ev.com/newsflash/309885",
+    "https://www.d1ev.com/newsflash/309883",
+    "https://www.d1ev.com/newsflash/309882",
+    "https://www.d1ev.com/newsflash/309881",
+    "https://www.d1ev.com/newsflash/309877",
+    "https://www.d1ev.com/newsflash/309880",
+    "https://www.d1ev.com/news/qiye/309879",
+    "https://www.d1ev.com/news/shichang/309889",
+    "https://www.d1ev.com/newsflash/309888",
+    "https://www.d1ev.com/newsflash/309886",
+    "https://www.d1ev.com/newsflash/309884",
+    "https://www.d1ev.com/newsflash/309876",
+    "https://www.d1ev.com/newsflash/309875"
   ],
   "newsHistory": [
     {
@@ -6189,6 +6189,96 @@
       "title": "梅赛德斯-AMG GT SUV预告：1500马力纯电怪兽2027年登场",
       "source": "第一电动",
       "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309878",
+      "title": "比亚迪杀入日本腹地！首款k-car海獭上市两周创纪录",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309887",
+      "title": "电动车涉水后爆炸警示：湖北宜昌电池进水引发爆燃事故",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309885",
+      "title": "比亚迪方程S系列搭载智慧生态2.0，座舱可定制进化成长",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309883",
+      "title": "日本NEC联手UrbanChain推出AI停车计费系统，9月福冈测试",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309882",
+      "title": "李开复AI公司零一万物将停止在线服务，用户可申请余额退还",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309881",
+      "title": "广汽GOVYAirCab飞行汽车高温高原测试成功，开启商业化新征程",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309877",
+      "title": "国产AI大模型强势崛起，阿里qwen3.8-max跻身国际前列",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309880",
+      "title": "2025年纯电车价低于混动！中国制造助力全球市场降价",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309879",
+      "title": "日系车混动护城河被中国EV攻破！全球电车均价首次低于混动",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309889",
+      "title": "7月国内乘用车召回25.21万辆，环比激增五倍",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309888",
+      "title": "阿维塔副总裁雍军澄清：与华为合作非“必要项”，追求品牌差异化",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309886",
+      "title": "日本三巨头车企财报亮眼：丰田本田利润大增，日产扭亏为盈",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309884",
+      "title": "阿维塔副总裁雍军：与华为合作非“必要”，品牌自主选择技术合作商",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309876",
+      "title": "斯巴鲁纯电车销量低迷，高额促销反蚀利润",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309875",
+      "title": "韩国LXSemicon量产首颗国产车用MCU，现代起亚将搭载",
+      "source": "第一电动",
+      "pushedAt": 1786359832796
     }
   ],
   "lastUpdated": "2026-08-10"
