@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/307813",
-    "https://www.d1ev.com/carnews/xinche/307812",
-    "https://www.d1ev.com/newsflash/307809",
-    "https://www.d1ev.com/carnews/xinche/307807",
-    "https://www.d1ev.com/news/shichang/307805",
-    "https://www.d1ev.com/newsflash/307803",
-    "https://www.d1ev.com/newsflash/307798",
-    "https://www.d1ev.com/carnews/xinche/307794",
-    "https://www.d1ev.com/newsflash/307818",
-    "https://www.d1ev.com/newsflash/307816",
-    "https://www.d1ev.com/newsflash/307815",
-    "https://www.d1ev.com/newsflash/307811",
-    "https://www.d1ev.com/newsflash/307808",
-    "https://www.d1ev.com/carnews/xinche/307806",
-    "https://www.d1ev.com/newsflash/307799",
-    "https://www.d1ev.com/newsflash/307797",
-    "https://www.d1ev.com/newsflash/307795",
-    "https://www.d1ev.com/news/shichang/307793",
-    "https://www.d1ev.com/news/shichang/307792",
-    "https://www.d1ev.com/news/shichang/307801",
-    "https://www.d1ev.com/newsflash/307817",
     "https://www.d1ev.com/newsflash/307810",
     "https://www.d1ev.com/newsflash/307804",
     "https://www.d1ev.com/news/shichang/307802",
@@ -1999,7 +1978,28 @@
     "https://www.d1ev.com/carnews/xinche/309850",
     "https://www.d1ev.com/news/shichang/309848",
     "https://www.d1ev.com/newsflash/309847",
-    "https://www.d1ev.com/news/shichang/309846"
+    "https://www.d1ev.com/news/shichang/309846",
+    "https://www.d1ev.com/newsflash/309865",
+    "https://www.d1ev.com/newsflash/309864",
+    "https://www.d1ev.com/newsflash/309863",
+    "https://www.d1ev.com/newsflash/309856",
+    "https://www.d1ev.com/newsflash/309874",
+    "https://www.d1ev.com/newsflash/309870",
+    "https://www.d1ev.com/news/shichang/309869",
+    "https://www.d1ev.com/newsflash/309868",
+    "https://www.d1ev.com/newsflash/309867",
+    "https://www.d1ev.com/newsflash/309866",
+    "https://www.d1ev.com/news/qiye/309862",
+    "https://www.d1ev.com/newsflash/309859",
+    "https://www.d1ev.com/newsflash/309858",
+    "https://www.d1ev.com/newsflash/309861",
+    "https://www.d1ev.com/newsflash/309855",
+    "https://www.d1ev.com/news/shichang/309873",
+    "https://www.d1ev.com/news/shichang/309872",
+    "https://www.d1ev.com/newsflash/309871",
+    "https://www.d1ev.com/newsflash/309860",
+    "https://www.d1ev.com/news/shichang/309857",
+    "https://www.d1ev.com/newsflash/309854"
   ],
   "newsHistory": [
     {
@@ -6063,6 +6063,132 @@
       "title": "阿维塔副总裁雍军：与华为合作非“必要项”，品牌需保持差异化能力",
       "source": "第一电动",
       "pushedAt": 1786346332126
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309865",
+      "title": "华裔设计大师周仰杰操刀，智己L6xProf.JimmyChoo限量版即将亮相",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309864",
+      "title": "国产GPU企业摩尔线程拟赴港上市，芯片行业资金战再升级",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309863",
+      "title": "比亚迪“海獭”Racco日本上市两周订单破千，创纪录！",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309856",
+      "title": "长城欧拉7旅行版曝光：中型电动轿车新选择，续航高达705km",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309874",
+      "title": "北汽集团突破4000万用户大关，新能源销量翻倍增长",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309870",
+      "title": "鸿蒙智行7月报告：辅助驾驶时长创新高，全场景智驾成出行刚需",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309869",
+      "title": "7月卖了147万辆！新能源车正在成为“大多数”’",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309868",
+      "title": "AI技术巨头承诺减负，员工却加班成常态",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309867",
+      "title": "亚美尼亚AI工厂启用，Firebird全球算力目标2GW",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309866",
+      "title": "北汽集团突破4000万用户大关，新能源销量激增82.55%！",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309862",
+      "title": "智界S7女车主大桥上遭遇逆行货车 华为智驾紧急介入救命",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309859",
+      "title": "百花奖首设AIGC单元，6部作品获推优荣誉",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309858",
+      "title": "小马智行自动驾驶里程破亿，Robotaxi收入激增456.5%！",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309861",
+      "title": "大众SUV ID.Era9X或将反向入欧，中国研发车型欧洲市场新布局",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309855",
+      "title": "小鹏汇天飞行汽车电推进单元量产突破1000套，创全球纪录",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309873",
+      "title": "宇树科技IPO，有人准备了150万“打新”",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309872",
+      "title": "2026年上半年电气化供应商装机量排行榜：头部高度集中，车企自制持续渗透丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309871",
+      "title": "华为电机加持！智界R7内饰大升级，溜背SUV新体验",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309860",
+      "title": "蔚来三连冠！售后服务能力研究显示品牌口碑再升级",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309857",
+      "title": "路虎卫士110 HSE官降17万元",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309854",
+      "title": "梅赛德斯-AMG GT SUV预告：1500马力纯电怪兽2027年登场",
+      "source": "第一电动",
+      "pushedAt": 1786353627332
     }
   ],
   "lastUpdated": "2026-08-10"
