@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307841",
-    "https://www.d1ev.com/news/shichang/307855",
-    "https://www.d1ev.com/newsflash/307851",
-    "https://www.d1ev.com/newsflash/307845",
-    "https://www.d1ev.com/newsflash/307837",
-    "https://www.d1ev.com/newsflash/307835",
-    "https://www.d1ev.com/newsflash/307831",
-    "https://www.d1ev.com/news/qiye/307830",
-    "https://www.d1ev.com/news/shichang/307829",
-    "https://www.d1ev.com/newsflash/307827",
-    "https://www.d1ev.com/news/qiye/307821",
-    "https://www.d1ev.com/news/qiye/307820",
-    "https://www.d1ev.com/newsflash/307891",
     "https://www.d1ev.com/newsflash/307887",
     "https://www.d1ev.com/newsflash/307877",
     "https://www.d1ev.com/news/shichang/307862",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/newsflash/309905",
     "https://www.d1ev.com/newsflash/309903",
     "https://www.d1ev.com/newsflash/309904",
-    "https://www.d1ev.com/newsflash/309901"
+    "https://www.d1ev.com/newsflash/309901",
+    "https://www.d1ev.com/carnews/xinche/309919",
+    "https://www.d1ev.com/news/shichang/309917",
+    "https://www.d1ev.com/newsflash/309922",
+    "https://www.d1ev.com/newsflash/309920",
+    "https://www.d1ev.com/newsflash/309916",
+    "https://www.d1ev.com/newsflash/309915",
+    "https://www.d1ev.com/news/qiye/309913",
+    "https://www.d1ev.com/newsflash/309912",
+    "https://www.d1ev.com/newsflash/309911",
+    "https://www.d1ev.com/newsflash/309910",
+    "https://www.d1ev.com/newsflash/309921",
+    "https://www.d1ev.com/news/shichang/309918",
+    "https://www.d1ev.com/news/shichang/309914"
   ],
   "newsHistory": [
     {
@@ -6021,7 +6021,85 @@
       "title": "“张雪机车估值飙升60倍！高信资本2000万天使投资大获成功”",
       "source": "第一电动",
       "pushedAt": 1786373566246
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309919",
+      "title": "2027款艾瑞泽8 PRO上市 售11.39-14.59万元",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309917",
+      "title": "8.99万元起，高性能智慧家轿2027款艾瑞泽8 PRO正式上市",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309922",
+      "title": "Meta推小型AI模型MuseGlimmer，扎克伯格呼吁美国减少政策障碍",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309920",
+      "title": "“家长呼吁：K-12教育应重视数据素养，AI时代必备技能！”",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309916",
+      "title": "Meta扎克伯格呼吁放宽AI限制，中国企业领跑开放权重模型竞争",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309915",
+      "title": "日产AI监控工人动作，提升效率同时减少工伤",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309913",
+      "title": "杰兰路2026上半年新能源售后服务能力排名：蔚来公司第一",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309912",
+      "title": "诺和诺德联手亚马逊云科技，AI加速新药研发进程",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309911",
+      "title": "谷歌搜索主页大变样：AI功能取代传统搜索按钮",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309910",
+      "title": "智谱开放平台用户激增至700万，国产AI算力芯片助力增长",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309921",
+      "title": "中国车企横扫英国市场，日系车市占率急剧下滑",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309918",
+      "title": "无界动力中试平台在北京海淀区落成",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309914",
+      "title": "Seeds | 灵猴机器人完成超亿元C轮融资",
+      "source": "第一电动",
+      "pushedAt": 1786380533535
     }
   ],
-  "lastUpdated": "2026-08-10"
+  "lastUpdated": "2026-08-11"
 }
