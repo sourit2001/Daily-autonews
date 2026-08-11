@@ -1,22 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307968",
-    "https://www.d1ev.com/newsflash/307966",
-    "https://www.d1ev.com/carnews/xinche/307965",
-    "https://www.d1ev.com/news/shichang/307964",
-    "https://www.d1ev.com/newsflash/308050",
-    "https://www.d1ev.com/newsflash/308045",
-    "https://www.d1ev.com/newsflash/308038",
-    "https://www.d1ev.com/newsflash/308036",
-    "https://www.d1ev.com/newsflash/308030",
-    "https://www.d1ev.com/newsflash/308026",
-    "https://www.d1ev.com/newsflash/308020",
-    "https://www.d1ev.com/newsflash/308015",
-    "https://www.d1ev.com/newsflash/308014",
-    "https://www.d1ev.com/newsflash/308011",
-    "https://www.d1ev.com/newsflash/308054",
-    "https://www.d1ev.com/news/shichang/308051",
-    "https://www.d1ev.com/newsflash/308049",
     "https://www.d1ev.com/news/shichang/308048",
     "https://www.d1ev.com/news/shichang/308047",
     "https://www.d1ev.com/news/shichang/308046",
@@ -1999,7 +1982,24 @@
     "https://www.d1ev.com/newsflash/310050",
     "https://www.d1ev.com/newsflash/310055",
     "https://www.d1ev.com/news/shichang/310043",
-    "https://www.d1ev.com/newsflash/310042"
+    "https://www.d1ev.com/newsflash/310042",
+    "https://www.d1ev.com/newsflash/310073",
+    "https://www.d1ev.com/news/shichang/310071",
+    "https://www.d1ev.com/news/qiye/310070",
+    "https://www.d1ev.com/newsflash/310069",
+    "https://www.d1ev.com/newsflash/310064",
+    "https://www.d1ev.com/carnews/xinche/310062",
+    "https://www.d1ev.com/newsflash/310061",
+    "https://www.d1ev.com/carnews/xinche/310060",
+    "https://www.d1ev.com/newsflash/310072",
+    "https://www.d1ev.com/newsflash/310066",
+    "https://www.d1ev.com/newsflash/310065",
+    "https://www.d1ev.com/newsflash/310059",
+    "https://www.d1ev.com/newsflash/310074",
+    "https://www.d1ev.com/newsflash/310068",
+    "https://www.d1ev.com/newsflash/310067",
+    "https://www.d1ev.com/newsflash/310063",
+    "https://www.d1ev.com/newsflash/310058"
   ],
   "newsHistory": [
     {
@@ -6231,6 +6231,108 @@
       "title": "特斯拉Cybercab首秀星链天线，3万美元无人驾驶出租车即将上路",
       "source": "第一电动",
       "pushedAt": 1786452665000
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310073",
+      "title": "华为鸿蒙座舱加持，奕境X9六座SUV全球首秀亮相",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310071",
+      "title": "豹启新境，2027款海豹06满配上市，售价9.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310070",
+      "title": "小鹏G9L全球首秀，预售价25.98万元",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310069",
+      "title": "比亚迪海豹06焕新上市：纯电续航达630km，智能驾驶升级！",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310064",
+      "title": "小鹏G9L全球旗舰SUV预售开启，25.98万起！",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310062",
+      "title": "小鹏G9L正式开启预售 预售价25.98万元",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310061",
+      "title": "小鹏G9L预售开启：25.98万起，超长续航+智能座舱新体验",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310060",
+      "title": "零跑A05正式上市 售价6.39-9.09万元",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310072",
+      "title": "小鹏G9L安全新突破：底盘防撞力超国标5倍，自动驾驶安全接管率极低",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310066",
+      "title": "AI教母警告：不当使用AI或削弱学生自主学习能力",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310065",
+      "title": "Spotify新动作：AI歌手将被标记，优先推荐真人音乐作品",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310059",
+      "title": "小鹏G9L全球首秀：后排空间大升级，纯电续航805km！",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310074",
+      "title": "7月国内乘用车销量同比暴跌20.9%，燃油车销售承压成主因",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310068",
+      "title": "凯迪拉克凯雷德IQ推超豪华定制服务，售价增37万",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310067",
+      "title": "华境SUV销量夺冠，即将突破2万台大关！",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310063",
+      "title": "乐道品牌上半年销量价双增，超越传统豪车品牌",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310058",
+      "title": "小鹏G9L极限挑战：水陆空720°安全测试全通关！",
+      "source": "第一电动",
+      "pushedAt": 1786459965944
     }
   ],
   "lastUpdated": "2026-08-11"
