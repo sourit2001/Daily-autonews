@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/307907",
-    "https://www.d1ev.com/newsflash/307906",
-    "https://www.d1ev.com/news/shichang/307904",
-    "https://www.d1ev.com/newsflash/307915",
-    "https://www.d1ev.com/news/shichang/307914",
-    "https://www.d1ev.com/newsflash/307912",
-    "https://www.d1ev.com/newsflash/307911",
-    "https://www.d1ev.com/newsflash/307910",
-    "https://www.d1ev.com/news/shichang/307908",
-    "https://www.d1ev.com/newsflash/307905",
-    "https://www.d1ev.com/newsflash/307903",
     "https://www.d1ev.com/newsflash/307928",
     "https://www.d1ev.com/newsflash/307927",
     "https://www.d1ev.com/carnews/xinche/307925",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/309948",
     "https://www.d1ev.com/newsflash/309947",
     "https://www.d1ev.com/news/shichang/309943",
-    "https://www.d1ev.com/newsflash/309939"
+    "https://www.d1ev.com/newsflash/309939",
+    "https://www.d1ev.com/carnews/xinche/309984",
+    "https://www.d1ev.com/newsflash/309973",
+    "https://www.d1ev.com/newsflash/309982",
+    "https://www.d1ev.com/newsflash/309980",
+    "https://www.d1ev.com/newsflash/309974",
+    "https://www.d1ev.com/news/shichang/309972",
+    "https://www.d1ev.com/newsflash/309983",
+    "https://www.d1ev.com/newsflash/309981",
+    "https://www.d1ev.com/news/shichang/309978",
+    "https://www.d1ev.com/news/qiye/309977",
+    "https://www.d1ev.com/newsflash/309975"
   ],
   "newsHistory": [
     {
@@ -6147,6 +6147,72 @@
       "title": "小米汽车座椅新选择：零重力or旋转座椅，你的出行新伴侣",
       "source": "第一电动",
       "pushedAt": 1786419822012
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/309984",
+      "title": "造型硬派 方程豹钛9官图正式发布",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309973",
+      "title": "日产NX7新能源SUV曝光：12万起售，增程混动+220km纯电续航",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309982",
+      "title": "中国汽车出口创新高：新能源车占半壁江山，共建一带一路国家成最大市场",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309980",
+      "title": "比亚迪闪充技术获国际大奖，5分钟充400公里续航创纪录",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309974",
+      "title": "美国超70%民众反对AI数据中心，禁令激增至500多个",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309972",
+      "title": "零跑欧洲本地化再进一步，劳士领获欧洲车型项目定点",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309983",
+      "title": "本田颠覆传统：外包印度塔塔开发下一代整车平台",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309981",
+      "title": "马斯克600亿美元收购Cursor，SpaceX编程工具领域再下一城",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/309978",
+      "title": "索尼与台积电拟投资64亿美元，在日本合建图像传感器工厂",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/309977",
+      "title": "长安启源全新Q05累计销量突破10万台",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/309975",
+      "title": "保时捷帕拉梅拉降价百万以下，豪车保值体系受冲击",
+      "source": "第一电动",
+      "pushedAt": 1786424528196
     }
   ],
   "lastUpdated": "2026-08-11"
