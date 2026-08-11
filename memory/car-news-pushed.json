@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/307932",
-    "https://www.d1ev.com/carnews/xinche/307994",
-    "https://www.d1ev.com/carnews/xinche/307993",
-    "https://www.d1ev.com/newsflash/307989",
-    "https://www.d1ev.com/newsflash/307981",
-    "https://www.d1ev.com/newsflash/307980",
-    "https://www.d1ev.com/newsflash/307978",
-    "https://www.d1ev.com/newsflash/307975",
-    "https://www.d1ev.com/newsflash/307967",
-    "https://www.d1ev.com/newsflash/307998",
-    "https://www.d1ev.com/newsflash/307991",
-    "https://www.d1ev.com/newsflash/307990",
-    "https://www.d1ev.com/newsflash/307984",
     "https://www.d1ev.com/newsflash/307973",
     "https://www.d1ev.com/newsflash/307995",
     "https://www.d1ev.com/news/qiye/307986",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/newsflash/310006",
     "https://www.d1ev.com/newsflash/310005",
     "https://www.d1ev.com/newsflash/310004",
-    "https://www.d1ev.com/newsflash/310002"
+    "https://www.d1ev.com/newsflash/310002",
+    "https://www.d1ev.com/newsflash/310032",
+    "https://www.d1ev.com/news/shichang/310037",
+    "https://www.d1ev.com/newsflash/310034",
+    "https://www.d1ev.com/newsflash/310033",
+    "https://www.d1ev.com/newsflash/310031",
+    "https://www.d1ev.com/newsflash/310028",
+    "https://www.d1ev.com/newsflash/310039",
+    "https://www.d1ev.com/newsflash/310038",
+    "https://www.d1ev.com/news/shichang/310036",
+    "https://www.d1ev.com/newsflash/310035",
+    "https://www.d1ev.com/news/qiye/310030",
+    "https://www.d1ev.com/news/qiye/310029",
+    "https://www.d1ev.com/newsflash/310027"
   ],
   "newsHistory": [
     {
@@ -6105,6 +6105,84 @@
       "title": "腾讯WorkBuddy升级：手机控制电脑，跨设备无缝同步任务！",
       "source": "第一电动",
       "pushedAt": 1786438337128
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310032",
+      "title": "“上汽大众ID.ERA5S预售开启，2000km超长续航混动家轿来袭”",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310037",
+      "title": "2026年上半年智能座舱供应商装机量排行榜：本土供应商推动AR-HUD加速普及丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310034",
+      "title": "商汤科技发布轻量AI智能体，一键搞定复杂任务！",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310033",
+      "title": "字节跳动新设AI数据安全部门，王赢磊掌舵跨模态数据服务",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310031",
+      "title": "谷歌AI招聘工具竟漏筛自家人才？内部团队呼吁填写特别表格",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310028",
+      "title": "7月新能源车渗透率创新高，自主品牌占比近84%",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310039",
+      "title": "比亚迪海獭纯电K-Car日本市场首周订单破五千，颠覆日系小车市场",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310038",
+      "title": "蚂蚁百灵开源7.9B参数轻量级推理模型Ling-3.0-tiny，适配多平台部署",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310036",
+      "title": "合资突然提速？7月车市的隐性变量",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310035",
+      "title": "长城魏牌V8X运动版来袭：4.5秒破百，豪华运动双修！",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310030",
+      "title": "近光灯亮度超标影响对向车辆 特斯拉在美召回20349辆Model 3和Model Y",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310029",
+      "title": "7月销量榜：星愿力压Model Y夺冠 小米SU7成国产中高端第一",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310027",
+      "title": "上汽大众傅强：防锈技术普及，品牌声誉比成本更重要",
+      "source": "第一电动",
+      "pushedAt": 1786445507914
     }
   ],
   "lastUpdated": "2026-08-11"
