@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308024",
-    "https://www.d1ev.com/newsflash/308023",
     "https://www.d1ev.com/newsflash/308021",
     "https://www.d1ev.com/news/shichang/308018",
     "https://www.d1ev.com/newsflash/308016",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/310084",
     "https://www.d1ev.com/newsflash/310082",
     "https://www.d1ev.com/news/shichang/310081",
-    "https://www.d1ev.com/news/shichang/310077"
+    "https://www.d1ev.com/news/shichang/310077",
+    "https://www.d1ev.com/news/qiye/310089",
+    "https://www.d1ev.com/newsflash/310088"
   ],
   "newsHistory": [
     {
@@ -6399,6 +6399,18 @@
       "title": "Seeds | 广汽孵化的机器人公司，刚完成亿元融资",
       "source": "第一电动",
       "pushedAt": 1786467161483
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310089",
+      "title": "加长150mm、激光雷达上车！新款比亚迪海豹06上市：9.99万",
+      "source": "第一电动",
+      "pushedAt": 1786474433474
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310088",
+      "title": "6旬车手挑战氢动力速度纪录，JCBHydromax盐滩竞速突破音障",
+      "source": "第一电动",
+      "pushedAt": 1786474433474
     }
   ],
   "lastUpdated": "2026-08-12"
