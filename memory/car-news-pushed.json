@@ -1,31 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/308019",
-    "https://www.d1ev.com/news/shichang/308017",
-    "https://www.d1ev.com/newsflash/308009",
-    "https://www.d1ev.com/newsflash/308008",
-    "https://www.d1ev.com/newsflash/308005",
-    "https://www.d1ev.com/newsflash/308086",
-    "https://www.d1ev.com/newsflash/308085",
-    "https://www.d1ev.com/newsflash/308082",
-    "https://www.d1ev.com/newsflash/308080",
-    "https://www.d1ev.com/news/qiye/308069",
-    "https://www.d1ev.com/newsflash/308066",
-    "https://www.d1ev.com/newsflash/308058",
-    "https://www.d1ev.com/newsflash/308055",
-    "https://www.d1ev.com/newsflash/308083",
-    "https://www.d1ev.com/newsflash/308081",
-    "https://www.d1ev.com/newsflash/308076",
-    "https://www.d1ev.com/news/qiye/308074",
-    "https://www.d1ev.com/newsflash/308071",
-    "https://www.d1ev.com/newsflash/308065",
-    "https://www.d1ev.com/newsflash/308064",
-    "https://www.d1ev.com/news/shichang/308062",
-    "https://www.d1ev.com/newsflash/308059",
-    "https://www.d1ev.com/newsflash/308068",
-    "https://www.d1ev.com/newsflash/308057",
-    "https://www.d1ev.com/newsflash/308084",
-    "https://www.d1ev.com/news/shichang/308079",
     "https://www.d1ev.com/news/shichang/308078",
     "https://www.d1ev.com/news/qiye/308077",
     "https://www.d1ev.com/news/shichang/308075",
@@ -1999,7 +1973,33 @@
     "https://www.d1ev.com/newsflash/310096",
     "https://www.d1ev.com/newsflash/310094",
     "https://www.d1ev.com/newsflash/310092",
-    "https://www.d1ev.com/news/shichang/310091"
+    "https://www.d1ev.com/news/shichang/310091",
+    "https://www.d1ev.com/newsflash/310134",
+    "https://www.d1ev.com/carnews/xinche/310127",
+    "https://www.d1ev.com/news/shichang/310120",
+    "https://www.d1ev.com/newsflash/310118",
+    "https://www.d1ev.com/newsflash/310114",
+    "https://www.d1ev.com/carnews/xinche/310112",
+    "https://www.d1ev.com/carnews/xinche/310111",
+    "https://www.d1ev.com/carnews/xinche/310110",
+    "https://www.d1ev.com/carnews/xinche/310109",
+    "https://www.d1ev.com/newsflash/310133",
+    "https://www.d1ev.com/newsflash/310130",
+    "https://www.d1ev.com/newsflash/310129",
+    "https://www.d1ev.com/newsflash/310128",
+    "https://www.d1ev.com/newsflash/310119",
+    "https://www.d1ev.com/news/shichang/310117",
+    "https://www.d1ev.com/newsflash/310115",
+    "https://www.d1ev.com/newsflash/310113",
+    "https://www.d1ev.com/news/shichang/310135",
+    "https://www.d1ev.com/news/shichang/310132",
+    "https://www.d1ev.com/news/shichang/310131",
+    "https://www.d1ev.com/news/shichang/310126",
+    "https://www.d1ev.com/news/shichang/310125",
+    "https://www.d1ev.com/newsflash/310123",
+    "https://www.d1ev.com/newsflash/310122",
+    "https://www.d1ev.com/news/shichang/310121",
+    "https://www.d1ev.com/news/shichang/310116"
   ],
   "newsHistory": [
     {
@@ -6525,6 +6525,162 @@
       "title": "再战高端MPV市场，尊界V800核心零部件配套供应商一览",
       "source": "第一电动",
       "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310134",
+      "title": "小米N90Max超严苛碰撞测试曝光，安全性能领先行业标准",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310127",
+      "title": "魏牌V8X运动版申报图发布 8月14日上市",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310120",
+      "title": "小鹏G9L开启预售，预售价25.98万元",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310118",
+      "title": "长安CS55PLUS蓝鲸超擎混动版18日上市，1.5T动力+女王座椅！",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310114",
+      "title": "比亚迪海獭日本上市：1周订单破千，颠覆K-Car印象！",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310112",
+      "title": "搭载双电机 与众06激光雷达版申报图曝光",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310111",
+      "title": "有望四季度上市 东风日产NX7实车曝光",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310110",
+      "title": "前沿智能 全新宝马i3将于成都车展首发内饰",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310109",
+      "title": "首搭新一代鸿蒙座舱 奕境X9内饰正式亮相",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310133",
+      "title": "丰田首位外姓社长奥田硕逝世，曾引领丰田全球化与新能源革命",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310130",
+      "title": "比亚迪双雄霸榜！7月新能源车销量突破6万大关",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310129",
+      "title": "东风华为联手打造奕境X9，鸿蒙座舱引领家庭旗舰SUV新风尚",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310128",
+      "title": "IBM联手TogetherAI打造2.4亿美元AI云平台，2027年启用",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310119",
+      "title": "120组织联手打造AI智能体事故报告新框架，安全故障将透明化",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310117",
+      "title": "三星SDI将收购与通用汽车电池合资公司全部股权",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310115",
+      "title": "AI全面接管！NEC成立全AI员工部门，效率提升7倍",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310113",
+      "title": "英伟达发布300亿参数AI新模型，性能提升4倍！",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310135",
+      "title": "奕境曾清林谈与华为合作：坚持软硬融合，拒绝“备胎思维”",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310132",
+      "title": "小米汽车发布答网友问，解答澎程系列涉水功能问题",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310131",
+      "title": "通用汽车拟斥资45亿美元保障关键零部件供应",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310126",
+      "title": "锚定“十五五”战略转型，盖世研究院为博世华域中高管解码产业新格局",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310125",
+      "title": "传大众计划向埃森哲出售工程子公司IAV多数股权",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310123",
+      "title": "奥迪引领新风潮：实体按键回归，大屏内卷降温",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310122",
+      "title": "采埃孚8挡混动变速器上海量产，国产化率达79%",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310121",
+      "title": "国产化率95%，采埃孚8挡混动变速器上海量产",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310116",
+      "title": "月销稳定2.1万辆，小米SU7在20万级市场站住了脚",
+      "source": "第一电动",
+      "pushedAt": 1786507784343
     }
   ],
   "lastUpdated": "2026-08-12"
