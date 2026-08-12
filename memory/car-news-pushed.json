@@ -1,24 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308021",
-    "https://www.d1ev.com/news/shichang/308018",
-    "https://www.d1ev.com/newsflash/308016",
-    "https://www.d1ev.com/newsflash/308013",
-    "https://www.d1ev.com/newsflash/308012",
-    "https://www.d1ev.com/news/shichang/308007",
-    "https://www.d1ev.com/newsflash/308006",
-    "https://www.d1ev.com/newsflash/308037",
-    "https://www.d1ev.com/newsflash/308010",
-    "https://www.d1ev.com/news/shichang/308053",
-    "https://www.d1ev.com/news/shichang/308052",
-    "https://www.d1ev.com/newsflash/308044",
-    "https://www.d1ev.com/newsflash/308041",
-    "https://www.d1ev.com/newsflash/308039",
-    "https://www.d1ev.com/news/shichang/308035",
-    "https://www.d1ev.com/newsflash/308034",
-    "https://www.d1ev.com/news/qiye/308029",
-    "https://www.d1ev.com/newsflash/308025",
-    "https://www.d1ev.com/newsflash/308022",
     "https://www.d1ev.com/news/shichang/308019",
     "https://www.d1ev.com/news/shichang/308017",
     "https://www.d1ev.com/newsflash/308009",
@@ -1999,7 +1980,26 @@
     "https://www.d1ev.com/news/shichang/310081",
     "https://www.d1ev.com/news/shichang/310077",
     "https://www.d1ev.com/news/qiye/310089",
-    "https://www.d1ev.com/newsflash/310088"
+    "https://www.d1ev.com/newsflash/310088",
+    "https://www.d1ev.com/newsflash/310108",
+    "https://www.d1ev.com/news/shichang/310090",
+    "https://www.d1ev.com/newsflash/310106",
+    "https://www.d1ev.com/newsflash/310100",
+    "https://www.d1ev.com/newsflash/310097",
+    "https://www.d1ev.com/newsflash/310093",
+    "https://www.d1ev.com/news/shichang/310095",
+    "https://www.d1ev.com/newsflash/310107",
+    "https://www.d1ev.com/carnews/xinche/310105",
+    "https://www.d1ev.com/news/shichang/310104",
+    "https://www.d1ev.com/news/shichang/310103",
+    "https://www.d1ev.com/news/qiye/310102",
+    "https://www.d1ev.com/news/qiye/310101",
+    "https://www.d1ev.com/newsflash/310099",
+    "https://www.d1ev.com/newsflash/310098",
+    "https://www.d1ev.com/newsflash/310096",
+    "https://www.d1ev.com/newsflash/310094",
+    "https://www.d1ev.com/newsflash/310092",
+    "https://www.d1ev.com/news/shichang/310091"
   ],
   "newsHistory": [
     {
@@ -6411,6 +6411,120 @@
       "title": "6旬车手挑战氢动力速度纪录，JCBHydromax盐滩竞速突破音障",
       "source": "第一电动",
       "pushedAt": 1786474433474
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310108",
+      "title": "捷豹Type01EV内饰曝光，极简风引领新英伦豪华",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310090",
+      "title": "【盖世快讯】三星SDI与通用汽车达成合作；启境GX7首发鸿蒙座舱6，将于下半年上市",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310106",
+      "title": "小红书AI导购功能升级，购物体验再升级！",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310100",
+      "title": "马斯克SpaceXAI新推GrokBot：AI智能体团队协作新纪元",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310097",
+      "title": "OpenAI发布Linux版ChatGPT桌面应用，支持多发行版！",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310093",
+      "title": "燃油车销量暴跌44%，新能源车市占率飙升至65.1%",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310095",
+      "title": "出海，撑起中国汽车下一程？",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310107",
+      "title": "氢动力车JCBHydromax刷新陆地速度纪录：406英里/小时！",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310105",
+      "title": "丰田GR GT或推“Aero Top”敞篷版",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310104",
+      "title": "车载音效会员费，充哪一档是智商税？",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310103",
+      "title": "丰田拼命加速，中国偏要踩下刹车——中日汽车产业启动���向奔赴",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310102",
+      "title": "车窗贴膜，正在被车企自己“干掉”",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310101",
+      "title": "月销破10万之后，零跑A05压轴出场，6.39万起售",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310099",
+      "title": "华境SUV销量夺冠，插电混动性价比之王！",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310098",
+      "title": "鸿蒙智行7月销量榜：问界M9夺冠，智界V9成最贵MPV",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310096",
+      "title": "氢动力赛车JCBHydromax刷新世界纪录：406英里/小时新标杆！",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310094",
+      "title": "谷歌Gemini应用月活破10亿，成公司第14款超十亿用户产品",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310092",
+      "title": "20亿美元回购！腾讯联手真格基金等夺回Manus独立运营权",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310091",
+      "title": "再战高端MPV市场，尊界V800核心零部件配套供应商一览",
+      "source": "第一电动",
+      "pushedAt": 1786497824824
     }
   ],
   "lastUpdated": "2026-08-12"
