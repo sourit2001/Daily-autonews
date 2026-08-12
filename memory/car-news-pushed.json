@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308209",
-    "https://www.d1ev.com/news/shichang/308208",
-    "https://www.d1ev.com/news/shichang/308207",
-    "https://www.d1ev.com/news/qiye/308206",
-    "https://www.d1ev.com/newsflash/308205",
-    "https://www.d1ev.com/newsflash/308200",
-    "https://www.d1ev.com/newsflash/308199",
-    "https://www.d1ev.com/newsflash/308198",
     "https://www.d1ev.com/newsflash/308188",
     "https://www.d1ev.com/news/shichang/308186",
     "https://www.d1ev.com/newsflash/308180",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/newsflash/310235",
     "https://www.d1ev.com/newsflash/310233",
     "https://www.d1ev.com/newsflash/310230",
-    "https://www.d1ev.com/newsflash/310231"
+    "https://www.d1ev.com/newsflash/310231",
+    "https://www.d1ev.com/newsflash/310237",
+    "https://www.d1ev.com/newsflash/310243",
+    "https://www.d1ev.com/newsflash/310241",
+    "https://www.d1ev.com/newsflash/310239",
+    "https://www.d1ev.com/newsflash/310238",
+    "https://www.d1ev.com/newsflash/310236",
+    "https://www.d1ev.com/newsflash/310242",
+    "https://www.d1ev.com/newsflash/310240"
   ],
   "newsHistory": [
     {
@@ -7275,7 +7275,55 @@
       "title": "五菱星光730大七座MPV销量夺冠，1-7月累计销量超4万台",
       "source": "第一电动",
       "pushedAt": 1786546597540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310237",
+      "title": "成都车展首秀！享界V8纯电增程MPV亮相，尺寸超5米3轴距3250mm",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310243",
+      "title": "Grok4.6震撼发布：AI编程新高度，智能体任务处理能力飞跃",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310241",
+      "title": "阿里云Qwen3.8-2.4T模型开源，AI编程办公新突破",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310239",
+      "title": "2030年绿电将占中国AI算力用电量近6万亿度",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310238",
+      "title": "网约车司机被坑！极狐延保服务藏猫腻，电池衰减不赔",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310236",
+      "title": "中国领跑全球自动驾驶：Robotaxi订单超1700万单，5G覆盖率达96%",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310242",
+      "title": "DeepSeekV4Pro震撼发布：性能飞跃，价格亲民！",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310240",
+      "title": "五菱星光730销量破4万，成自主品牌MPV销量冠军",
+      "source": "第一电动",
+      "pushedAt": 1786553727757
     }
   ],
-  "lastUpdated": "2026-08-12"
+  "lastUpdated": "2026-08-13"
 }
