@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/308106",
-    "https://www.d1ev.com/carnews/xinche/308103",
-    "https://www.d1ev.com/news/shichang/308114",
-    "https://www.d1ev.com/newsflash/308112",
-    "https://www.d1ev.com/newsflash/308111",
-    "https://www.d1ev.com/newsflash/308110",
-    "https://www.d1ev.com/newsflash/308102",
-    "https://www.d1ev.com/newsflash/308097",
-    "https://www.d1ev.com/newsflash/308096",
-    "https://www.d1ev.com/news/shichang/308095",
-    "https://www.d1ev.com/newsflash/308094",
-    "https://www.d1ev.com/newsflash/308093",
-    "https://www.d1ev.com/newsflash/308104",
     "https://www.d1ev.com/newsflash/308101",
     "https://www.d1ev.com/newsflash/308117",
     "https://www.d1ev.com/newsflash/308116",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/newsflash/310141",
     "https://www.d1ev.com/news/qiye/310139",
     "https://www.d1ev.com/newsflash/310138",
-    "https://www.d1ev.com/newsflash/310137"
+    "https://www.d1ev.com/newsflash/310137",
+    "https://www.d1ev.com/newsflash/310164",
+    "https://www.d1ev.com/newsflash/310156",
+    "https://www.d1ev.com/newsflash/310155",
+    "https://www.d1ev.com/newsflash/310166",
+    "https://www.d1ev.com/newsflash/310165",
+    "https://www.d1ev.com/newsflash/310162",
+    "https://www.d1ev.com/newsflash/310161",
+    "https://www.d1ev.com/newsflash/310160",
+    "https://www.d1ev.com/news/qiye/310159",
+    "https://www.d1ev.com/newsflash/310157",
+    "https://www.d1ev.com/news/shichang/310158",
+    "https://www.d1ev.com/newsflash/310167",
+    "https://www.d1ev.com/newsflash/310163"
   ],
   "newsHistory": [
     {
@@ -6795,6 +6795,84 @@
       "title": "小米N90Max：打造移动办公室，车内办公新体验",
       "source": "第一电动",
       "pushedAt": 1786513429184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310164",
+      "title": "奇瑞捷途旅行者7官图发布：1.5T混动硬派SUV焕新登场",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310156",
+      "title": "小鹏G9L预售开启：25.98万起，纯电续航755km，增程版超1600km续航！",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310155",
+      "title": "捷豹Type01内饰革新，纯电超跑10月纽约亮相",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310166",
+      "title": "威联通Qsirch升级：AI搜索跨媒体，本地执行更安全！",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310165",
+      "title": "三星电子引入AI大幅缩短半导体设计周期，效率提升15倍",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310162",
+      "title": "深圳深汕合作区新能源汽车制造业用电量激增55%",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310161",
+      "title": "7月汽车销量环比降8%，新能源汽车出口激增1.5倍",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310160",
+      "title": "AI智能体成本逆袭印度外包，企业自动化新选择",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310159",
+      "title": "中国长安汽车再牵手华为，合作深���AI大模型与算力领域",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310157",
+      "title": "长安汽车携手华为，共探AI与数字化汽车产业新未来",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310158",
+      "title": "零跑汽车1-7月意大利上牌25393台，海外出口突破11.3万辆",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310167",
+      "title": "小米SU7销量四连冠，7月交付量超3万台，累计交付破70万",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310163",
+      "title": "6秒生成10秒视频！LTX-2.5模型速度革命来袭",
+      "source": "第一电动",
+      "pushedAt": 1786518985212
     }
   ],
   "lastUpdated": "2026-08-12"
