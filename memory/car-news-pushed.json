@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308179",
-    "https://www.d1ev.com/newsflash/308177",
-    "https://www.d1ev.com/newsflash/308174",
-    "https://www.d1ev.com/newsflash/308220",
-    "https://www.d1ev.com/news/shichang/308214",
-    "https://www.d1ev.com/newsflash/308211",
     "https://www.d1ev.com/newsflash/308209",
     "https://www.d1ev.com/news/shichang/308208",
     "https://www.d1ev.com/news/shichang/308207",
@@ -1999,7 +1993,13 @@
     "https://www.d1ev.com/news/shichang/310223",
     "https://www.d1ev.com/news/shichang/310222",
     "https://www.d1ev.com/news/qiye/310217",
-    "https://www.d1ev.com/news/qiye/310208"
+    "https://www.d1ev.com/news/qiye/310208",
+    "https://www.d1ev.com/news/qiye/310234",
+    "https://www.d1ev.com/news/qiye/310232",
+    "https://www.d1ev.com/newsflash/310235",
+    "https://www.d1ev.com/newsflash/310233",
+    "https://www.d1ev.com/newsflash/310230",
+    "https://www.d1ev.com/newsflash/310231"
   ],
   "newsHistory": [
     {
@@ -7239,6 +7239,42 @@
       "title": "小米SU7 Ultra纽北圈速纪录被传代打 博主致歉：过度解读了",
       "source": "第一电动",
       "pushedAt": 1786539544143
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310234",
+      "title": "全球唯一满配主动空力套件！莲花跑车双车预售：91.8万起",
+      "source": "第一电动",
+      "pushedAt": 1786546597540
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310232",
+      "title": "风云T7开启预售，3款版型10.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1786546597540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310235",
+      "title": "BBA营收连跌，新能源时代豪华车市场格局生变",
+      "source": "第一电动",
+      "pushedAt": 1786546597540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310233",
+      "title": "马斯克预言：SpaceX AI业务将占99%价值，未来数千亿收入可期",
+      "source": "第一电动",
+      "pushedAt": 1786546597540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310230",
+      "title": "奇瑞风云T7：四年磨一剑，全球纯电SUV的“慢工细活”",
+      "source": "第一电动",
+      "pushedAt": 1786546597540
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310231",
+      "title": "五菱星光730大七座MPV销量夺冠，1-7月累计销量超4万台",
+      "source": "第一电动",
+      "pushedAt": 1786546597540
     }
   ],
   "lastUpdated": "2026-08-12"
