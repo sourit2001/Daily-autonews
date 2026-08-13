@@ -1,29 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/308252",
-    "https://www.d1ev.com/newsflash/308251",
-    "https://www.d1ev.com/newsflash/308250",
-    "https://www.d1ev.com/news/qiye/308248",
-    "https://www.d1ev.com/newsflash/308246",
-    "https://www.d1ev.com/newsflash/308262",
-    "https://www.d1ev.com/news/qiye/308259",
-    "https://www.d1ev.com/newsflash/308258",
-    "https://www.d1ev.com/newsflash/308256",
-    "https://www.d1ev.com/newsflash/308253",
-    "https://www.d1ev.com/news/shichang/308261",
-    "https://www.d1ev.com/news/shichang/308260",
-    "https://www.d1ev.com/news/qiye/308255",
-    "https://www.d1ev.com/newsflash/308249",
-    "https://www.d1ev.com/newsflash/308247",
-    "https://www.d1ev.com/newsflash/308263",
-    "https://www.d1ev.com/newsflash/308264",
-    "https://www.d1ev.com/carnews/xinche/308303",
-    "https://www.d1ev.com/carnews/xinche/308292",
-    "https://www.d1ev.com/carnews/xinche/308291",
-    "https://www.d1ev.com/carnews/xinche/308290",
-    "https://www.d1ev.com/news/shichang/308285",
-    "https://www.d1ev.com/newsflash/308283",
-    "https://www.d1ev.com/news/shichang/308281",
     "https://www.d1ev.com/news/shichang/308280",
     "https://www.d1ev.com/newsflash/308269",
     "https://www.d1ev.com/newsflash/308268",
@@ -1999,7 +1975,31 @@
     "https://www.d1ev.com/newsflash/310279",
     "https://www.d1ev.com/newsflash/310275",
     "https://www.d1ev.com/newsflash/310270",
-    "https://www.d1ev.com/news/shichang/310266"
+    "https://www.d1ev.com/news/shichang/310266",
+    "https://www.d1ev.com/newsflash/310317",
+    "https://www.d1ev.com/news/shichang/310316",
+    "https://www.d1ev.com/newsflash/310313",
+    "https://www.d1ev.com/carnews/xinche/310310",
+    "https://www.d1ev.com/news/qiye/310307",
+    "https://www.d1ev.com/newsflash/310304",
+    "https://www.d1ev.com/newsflash/310325",
+    "https://www.d1ev.com/newsflash/310324",
+    "https://www.d1ev.com/newsflash/310323",
+    "https://www.d1ev.com/newsflash/310321",
+    "https://www.d1ev.com/newsflash/310315",
+    "https://www.d1ev.com/newsflash/310314",
+    "https://www.d1ev.com/newsflash/310312",
+    "https://www.d1ev.com/newsflash/310306",
+    "https://www.d1ev.com/newsflash/310305",
+    "https://www.d1ev.com/newsflash/310301",
+    "https://www.d1ev.com/news/qiye/310319",
+    "https://www.d1ev.com/carnews/xinche/310303",
+    "https://www.d1ev.com/newsflash/310320",
+    "https://www.d1ev.com/newsflash/310318",
+    "https://www.d1ev.com/news/shichang/310311",
+    "https://www.d1ev.com/carnews/xinche/310309",
+    "https://www.d1ev.com/carnews/xinche/310308",
+    "https://www.d1ev.com/news/qiye/310302"
   ],
   "newsHistory": [
     {
@@ -7491,6 +7491,150 @@
       "title": "雪佛兰/斯柯达，竟然比马自达/标致雪铁龙先退",
       "source": "第一电动",
       "pushedAt": 1786594347645
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310317",
+      "title": "别克至境L7纯电版8月19日上市，续航超700km，16.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310316",
+      "title": "上海展会启新章，吉中集团携自研新品面套亮相",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310313",
+      "title": "鸿蒙智行RX SUV开启预订，赤影白内饰亮相，华为技术加持",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310310",
+      "title": "悬浮飞翼设计座舱 智界RX内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310307",
+      "title": "起亚全新赛图斯预售开启，限时预售价8.09万元起",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310304",
+      "title": "“奔驰纯电GLC高速口遭倒车撞击，损失4.6万新车未满月”",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310325",
+      "title": "OpenAI领先Anthropic，AI支出增长迅猛，企业AI竞争加剧",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310324",
+      "title": "AI助手即将进化：6个月内读懂你的生活，助力日常工作",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310323",
+      "title": "鸿蒙智行“双7”车型OTA升级，华为智驾新功能今日推送",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310321",
+      "title": "“智驾小蓝灯”全面整改：车企需停产整改，安全风险不容忽视",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310315",
+      "title": "AI裁员潮后企业召回员工，信任危机难解？",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310314",
+      "title": "AI画作混入儿童画展引发争议，山东美术馆紧急撤展",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310312",
+      "title": "新能源车市占率飙升，7月销量榜仅一款燃油车上榜",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310306",
+      "title": "韩国AI实验室发布SolarPro4：商用大模型新突破，性能评测领先",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310305",
+      "title": "Reddit用户警告：AI编程工具权限过���引发数据安全危机",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310301",
+      "title": "新能源汽车“速成车”遭严控，工信部新规提升测试标准3万公里",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310319",
+      "title": "22万平方米规模创历届之最，2026成都国际车展8月21日开幕",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310303",
+      "title": "二季度营收环比翻倍，海外收入暴涨164%！文远知行营收高增之下亏损仍未扭转",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310320",
+      "title": "智界RX鸿蒙SUV 8月20日预订开启，3.4米氛围灯+16.1英寸中控屏",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310318",
+      "title": "俄罗斯车市大洗牌：中国品牌占七席，本土品牌销量激增35%",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310311",
+      "title": "智变升级：车身内外饰探索体验新边界丨2026第八届金辑奖评选暨“中国汽车产业创新案例库”征集",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310309",
+      "title": "奇瑞威麟P3X正式定名为RELY Hi800",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310308",
+      "title": "凯迪拉克Celestiq Night Test定制版发布",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310302",
+      "title": "前嘴一套！纯电奔驰GLC被大货车碰撞：定损46094元",
+      "source": "第一电动",
+      "pushedAt": 1786605606730
     }
   ],
   "lastUpdated": "2026-08-13"
