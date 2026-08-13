@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/308334",
-    "https://www.d1ev.com/news/shichang/308331",
-    "https://www.d1ev.com/news/shichang/308329",
-    "https://www.d1ev.com/newsflash/308328",
-    "https://www.d1ev.com/newsflash/308327",
-    "https://www.d1ev.com/newsflash/308326",
-    "https://www.d1ev.com/newsflash/308325",
-    "https://www.d1ev.com/news/shichang/308320",
-    "https://www.d1ev.com/news/shichang/308316",
     "https://www.d1ev.com/news/shichang/308315",
     "https://www.d1ev.com/newsflash/308314",
     "https://www.d1ev.com/news/qiye/308308",
@@ -1999,7 +1990,16 @@
     "https://www.d1ev.com/newsflash/310388",
     "https://www.d1ev.com/news/shichang/310385",
     "https://www.d1ev.com/newsflash/310384",
-    "https://www.d1ev.com/newsflash/310380"
+    "https://www.d1ev.com/newsflash/310380",
+    "https://www.d1ev.com/newsflash/310400",
+    "https://www.d1ev.com/newsflash/310398",
+    "https://www.d1ev.com/newsflash/310399",
+    "https://www.d1ev.com/newsflash/310396",
+    "https://www.d1ev.com/newsflash/310394",
+    "https://www.d1ev.com/newsflash/310393",
+    "https://www.d1ev.com/news/shichang/310392",
+    "https://www.d1ev.com/news/qiye/310391",
+    "https://www.d1ev.com/news/qiye/310397"
   ],
   "newsHistory": [
     {
@@ -7407,7 +7407,61 @@
       "title": "荣耀联手长安汽车，打造智能车联新体验",
       "source": "第一电动",
       "pushedAt": 1786632869120
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310400",
+      "title": "比亚迪秦MAX震撼上市，10万起售挑战合资B级车市场",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310398",
+      "title": "鸿蒙智行智界RX内饰曝光：BOOST模式一键启动，神秘功能待揭晓",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310399",
+      "title": "瑞典电动飞机X1首飞成功，全电推进功率超1兆瓦",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310396",
+      "title": "小米汽车“龙甲电池”安全新突破：涉水能力超国标，智能预警全天候守护",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310394",
+      "title": "AI新突破！蒙娜丽莎模型或为GPT-Image新一代",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310393",
+      "title": "7月新能源汽车销量占比首超60%，国内每三辆车两辆新能源",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310392",
+      "title": "保时捷将与小鹏汽车联手，应对欧洲碳减排",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310391",
+      "title": "福特计划将部分林肯车型生产从中国转移至美国",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310397",
+      "title": "马斯克没低头！瑞典工会结束近三年罢工 特斯拉硬刚赢了",
+      "source": "第一电动",
+      "pushedAt": 1786639822476
     }
   ],
-  "lastUpdated": "2026-08-13"
+  "lastUpdated": "2026-08-14"
 }
