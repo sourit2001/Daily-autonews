@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308287",
-    "https://www.d1ev.com/newsflash/308282",
-    "https://www.d1ev.com/news/shichang/308279",
-    "https://www.d1ev.com/news/qiye/308277",
-    "https://www.d1ev.com/news/shichang/308271",
-    "https://www.d1ev.com/newsflash/308270",
-    "https://www.d1ev.com/newsflash/308265",
-    "https://www.d1ev.com/carnews/xinche/308345",
-    "https://www.d1ev.com/newsflash/308340",
-    "https://www.d1ev.com/carnews/xinche/308339",
-    "https://www.d1ev.com/newsflash/308337",
     "https://www.d1ev.com/newsflash/308336",
     "https://www.d1ev.com/news/qiye/308335",
     "https://www.d1ev.com/news/shichang/308330",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/news/shichang/310337",
     "https://www.d1ev.com/newsflash/310334",
     "https://www.d1ev.com/newsflash/310331",
-    "https://www.d1ev.com/newsflash/310329"
+    "https://www.d1ev.com/newsflash/310329",
+    "https://www.d1ev.com/newsflash/310361",
+    "https://www.d1ev.com/newsflash/310359",
+    "https://www.d1ev.com/newsflash/310358",
+    "https://www.d1ev.com/newsflash/310356",
+    "https://www.d1ev.com/newsflash/310352",
+    "https://www.d1ev.com/newsflash/310360",
+    "https://www.d1ev.com/newsflash/310357",
+    "https://www.d1ev.com/newsflash/310351",
+    "https://www.d1ev.com/news/shichang/310350",
+    "https://www.d1ev.com/newsflash/310354",
+    "https://www.d1ev.com/newsflash/310355"
   ],
   "newsHistory": [
     {
@@ -7479,6 +7479,72 @@
       "title": "领克多款车型激光雷达故障频发，车主维权呼声高涨",
       "source": "第一电动",
       "pushedAt": 1786612074645
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310361",
+      "title": "特斯拉Model Y车载冰箱中国上市，售价2499元比北美便宜四成！",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310359",
+      "title": "别克GL8陆尚新上市！22.99万起，续航1500km，家用MPV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310358",
+      "title": "特斯拉Model Y/YL车载冰箱京东首发，2499元享受双温区冷藏新体验",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310356",
+      "title": "智界RX新SUV搭载鸿蒙智行首发功能，8月20日开启预订！",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310352",
+      "title": "岚图追光S挑战360°隧道穿越成功，预售30.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310360",
+      "title": "15万级AI原生SUV来袭！荣威家越07豪华配置挑战家用新能源市场",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310357",
+      "title": "AI智能体“烧钱”时代来临？YC CEO力挺“词元拉满”策略",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310351",
+      "title": "华为技术加持，启境GX7引领智能电动车新潮流",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310350",
+      "title": "某中国品牌插电式混动新能源乘用车试驾体验",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310354",
+      "title": "奥迪Nuvolari超跑震撼发布：2.6秒破百，全球限量499台！",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310355",
+      "title": "凯迪拉克XT5PHEV搭载MomentaR7，豪华混动SUV高阶辅助驾驶新突破",
+      "source": "第一电动",
+      "pushedAt": 1786618668993
     }
   ],
   "lastUpdated": "2026-08-13"
