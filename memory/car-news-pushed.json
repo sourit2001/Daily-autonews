@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/308315",
     "https://www.d1ev.com/newsflash/308314",
     "https://www.d1ev.com/news/qiye/308308",
     "https://www.d1ev.com/newsflash/308306",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/newsflash/310393",
     "https://www.d1ev.com/news/shichang/310392",
     "https://www.d1ev.com/news/qiye/310391",
-    "https://www.d1ev.com/news/qiye/310397"
+    "https://www.d1ev.com/news/qiye/310397",
+    "https://www.d1ev.com/newsflash/310401"
   ],
   "newsHistory": [
     {
@@ -7461,6 +7461,12 @@
       "title": "马斯克没低头！瑞典工会结束近三年罢工 特斯拉硬刚赢了",
       "source": "第一电动",
       "pushedAt": 1786639822476
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310401",
+      "title": "新泽西经销商索赔1.68亿！极星被控策划退出美国市场",
+      "source": "第一电动",
+      "pushedAt": 1786647284059
     }
   ],
   "lastUpdated": "2026-08-14"
