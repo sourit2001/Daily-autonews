@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308461",
-    "https://www.d1ev.com/newsflash/308460",
-    "https://www.d1ev.com/newsflash/308466",
-    "https://www.d1ev.com/newsflash/308459",
-    "https://www.d1ev.com/newsflash/308473",
-    "https://www.d1ev.com/newsflash/308471",
-    "https://www.d1ev.com/news/qiye/308470",
-    "https://www.d1ev.com/newsflash/308464",
-    "https://www.d1ev.com/carnews/xinche/308458",
-    "https://www.d1ev.com/newsflash/308488",
     "https://www.d1ev.com/newsflash/308480",
     "https://www.d1ev.com/newsflash/308476",
     "https://www.d1ev.com/newsflash/308489",
@@ -1999,7 +1989,17 @@
     "https://www.d1ev.com/news/qiye/310520",
     "https://www.d1ev.com/newsflash/310517",
     "https://www.d1ev.com/newsflash/310516",
-    "https://www.d1ev.com/news/qiye/310515"
+    "https://www.d1ev.com/news/qiye/310515",
+    "https://www.d1ev.com/newsflash/310530",
+    "https://www.d1ev.com/carnews/xinche/310528",
+    "https://www.d1ev.com/newsflash/310527",
+    "https://www.d1ev.com/newsflash/310526",
+    "https://www.d1ev.com/newsflash/310524",
+    "https://www.d1ev.com/newsflash/310523",
+    "https://www.d1ev.com/newsflash/310525",
+    "https://www.d1ev.com/newsflash/310532",
+    "https://www.d1ev.com/newsflash/310531",
+    "https://www.d1ev.com/newsflash/310529"
   ],
   "newsHistory": [
     {
@@ -7053,6 +7053,66 @@
       "title": "荣威高管称车企广告假：片子里一家漏齿笑 自己一条都不信",
       "source": "第一电动",
       "pushedAt": 1786711925776
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310530",
+      "title": "奇瑞捷豹路虎神行者8全球首秀，豪华科技SUV预售价34.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310528",
+      "title": "魏牌V8X正式上市 售价23.98-31.58万元",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310527",
+      "title": "奇瑞捷豹路虎神行者8预售开启：华为智驾+高通芯片+800V高压平台",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310526",
+      "title": "长城魏牌V8X豪华混动SUV上市，22.68万起售，4.5秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310524",
+      "title": "奇瑞捷豹路虎神行者8开启预售，豪华科技SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310523",
+      "title": "比亚迪海狮08亮相：25万起售，900km超长续航，海洋美学设计",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310525",
+      "title": "“神行者8全球首秀：华为智驾加持，45度坡攀爬无压力！”",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310532",
+      "title": "光模块巨头中际旭创17亿收购中石科技 股价涨停",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310531",
+      "title": "奥迪新专利：一机两用，省钱增程四驱新方案",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310529",
+      "title": "特斯拉Roadster限量版将展示飞行特技，SpaceX技术加持！",
+      "source": "第一电动",
+      "pushedAt": 1786718815811
     }
   ],
   "lastUpdated": "2026-08-14"
