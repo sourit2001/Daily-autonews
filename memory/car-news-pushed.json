@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308490",
     "https://www.d1ev.com/newsflash/308481",
     "https://www.d1ev.com/newsflash/308478",
     "https://www.d1ev.com/newsflash/308475",
@@ -1999,27 +1998,10 @@
     "https://www.d1ev.com/newsflash/310537",
     "https://www.d1ev.com/newsflash/310533",
     "https://www.d1ev.com/newsflash/310543",
-    "https://www.d1ev.com/news/qiye/310541"
+    "https://www.d1ev.com/news/qiye/310541",
+    "https://www.d1ev.com/newsflash/310545"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309656",
-      "title": "广汽传祺越7硬派混动SUV亮相，9月预售开启！",
-      "source": "第一电动",
-      "pushedAt": 1786121207521
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309657",
-      "title": "鸿蒙智行享界G9首日预定破万，AI合成质疑被多角度实拍视频终结",
-      "source": "第一电动",
-      "pushedAt": 1786121207521
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309655",
-      "title": "亚马逊AWS紧急行动：关闭65%低效云计算机以应对AI算力危机",
-      "source": "第一电动",
-      "pushedAt": 1786121207521
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309665",
       "title": "长城魏牌高山8Hi4混动SUV亮相：7座大空间，190km/h极速！",
@@ -7137,6 +7119,12 @@
       "title": "鸽了八年终于要来：曝特斯拉Roadster本月发 还有推进器版",
       "source": "第一电动",
       "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310545",
+      "title": "中国车出口激增，专用运输船订单排到数年后",
+      "source": "第一电动",
+      "pushedAt": 1786733049735
     }
   ],
   "lastUpdated": "2026-08-15"
