@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308480",
-    "https://www.d1ev.com/newsflash/308476",
-    "https://www.d1ev.com/newsflash/308489",
-    "https://www.d1ev.com/newsflash/308487",
-    "https://www.d1ev.com/newsflash/308486",
-    "https://www.d1ev.com/newsflash/308485",
-    "https://www.d1ev.com/newsflash/308484",
-    "https://www.d1ev.com/newsflash/308483",
-    "https://www.d1ev.com/newsflash/308479",
-    "https://www.d1ev.com/newsflash/308477",
-    "https://www.d1ev.com/newsflash/308482",
-    "https://www.d1ev.com/newsflash/308491",
     "https://www.d1ev.com/newsflash/308490",
     "https://www.d1ev.com/newsflash/308481",
     "https://www.d1ev.com/newsflash/308478",
@@ -1999,57 +1987,21 @@
     "https://www.d1ev.com/newsflash/310525",
     "https://www.d1ev.com/newsflash/310532",
     "https://www.d1ev.com/newsflash/310531",
-    "https://www.d1ev.com/newsflash/310529"
+    "https://www.d1ev.com/newsflash/310529",
+    "https://www.d1ev.com/news/qiye/310542",
+    "https://www.d1ev.com/newsflash/310538",
+    "https://www.d1ev.com/newsflash/310536",
+    "https://www.d1ev.com/carnews/xinche/310535",
+    "https://www.d1ev.com/news/qiye/310534",
+    "https://www.d1ev.com/newsflash/310544",
+    "https://www.d1ev.com/newsflash/310540",
+    "https://www.d1ev.com/newsflash/310539",
+    "https://www.d1ev.com/newsflash/310537",
+    "https://www.d1ev.com/newsflash/310533",
+    "https://www.d1ev.com/newsflash/310543",
+    "https://www.d1ev.com/news/qiye/310541"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309654",
-      "title": "比亚迪海豹06新色亮相，2027款展车全国300+门店同步首发",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309653",
-      "title": "大众高尔夫混动版西班牙上市，27.9万起售，挑战丰田卡罗拉",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309651",
-      "title": "东风猛士X700申报亮相，插电混动硬派SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309649",
-      "title": "东风日产NX7插混SUV亮相：40.9度电池+激光雷达，轴距2815mm",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309647",
-      "title": "广汽传祺越7硬派插混SUV首发亮相，199元锁定至高20000元权益",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309652",
-      "title": "Meta AI模型意外入侵企业系统，网络安全引发新担忧",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309650",
-      "title": "AI音乐版权战升级！Suno平台启用水印技术保护原创",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309648",
-      "title": "蔚来首批第五代换电站上线：萤火虫终于可以换电池了",
-      "source": "第一电动",
-      "pushedAt": 1786114126446
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309656",
       "title": "广汽传祺越7硬派混动SUV亮相，9月预售开启！",
@@ -7113,7 +7065,79 @@
       "title": "特斯拉Roadster限量版将展示飞行特技，SpaceX技术加持！",
       "source": "第一电动",
       "pushedAt": 1786718815811
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310542",
+      "title": "魏牌V8X上市22.68万元起，搭载双VLA智能体",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310538",
+      "title": "红旗HS5全新升级亮相成都车展：2.0T动力+智能座舱",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310536",
+      "title": "理想汽车自研云端推理芯片曝光：数据流架构助力AI计算新突破",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310535",
+      "title": "神行者8开启预售 预售价33.99-45.99万元",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310534",
+      "title": "5米1大五座旗舰 纯电续航402km！魏牌V8X上市 限时22.68万",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310544",
+      "title": "福特转型加速：2027年投产Fathom电动皮卡，售价低于3万美元",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310540",
+      "title": "AI生成书籍泛滥：亚马逊1.4万电子书市场被挤压",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310539",
+      "title": "阿里Qwen3.8-27B模型开源！AI编程办公新突破",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310537",
+      "title": "马斯克600亿美元收购Cursor，SpaceXAI加速AI编程革命",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310533",
+      "title": "豪车市场大变局：路虎卫士亏本甩卖，国产新能源车崛起挑战BBA",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310543",
+      "title": "合资车企生死局：中国团队能否扭转销量颓势？",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310541",
+      "title": "鸽了八年终于要来：曝特斯拉Roadster本月发 还有推进器版",
+      "source": "第一电动",
+      "pushedAt": 1786725851745
     }
   ],
-  "lastUpdated": "2026-08-14"
+  "lastUpdated": "2026-08-15"
 }
