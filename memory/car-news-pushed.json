@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308449",
-    "https://www.d1ev.com/newsflash/308447",
-    "https://www.d1ev.com/newsflash/308446",
-    "https://www.d1ev.com/newsflash/308444",
-    "https://www.d1ev.com/newsflash/308441",
-    "https://www.d1ev.com/newsflash/308440",
-    "https://www.d1ev.com/news/shichang/308443",
-    "https://www.d1ev.com/newsflash/308455",
-    "https://www.d1ev.com/newsflash/308448",
-    "https://www.d1ev.com/newsflash/308442",
     "https://www.d1ev.com/newsflash/308472",
     "https://www.d1ev.com/newsflash/308469",
     "https://www.d1ev.com/news/qiye/308465",
@@ -1999,117 +1989,19 @@
     "https://www.d1ev.com/newsflash/310494",
     "https://www.d1ev.com/newsflash/310491",
     "https://www.d1ev.com/newsflash/310489",
-    "https://www.d1ev.com/news/shichang/310483"
+    "https://www.d1ev.com/news/shichang/310483",
+    "https://www.d1ev.com/newsflash/310504",
+    "https://www.d1ev.com/newsflash/310511",
+    "https://www.d1ev.com/newsflash/310507",
+    "https://www.d1ev.com/newsflash/310506",
+    "https://www.d1ev.com/newsflash/310510",
+    "https://www.d1ev.com/newsflash/310512",
+    "https://www.d1ev.com/newsflash/310508",
+    "https://www.d1ev.com/newsflash/310505",
+    "https://www.d1ev.com/newsflash/310503",
+    "https://www.d1ev.com/newsflash/310502"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309629",
-      "title": "五菱星光M亮相：1.5L插混动力，纯电续航170km，7座MPV新选择",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309628",
-      "title": "上汽通用续签20年，别克至境L7纯电版预售开启，续航702公里16.99万起",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309626",
-      "title": "尺寸看齐尊界V680 国产纯电奔驰VLE亮相：竞争理想MEGA",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309618",
-      "title": "smart终于想起老本行！全新微型纯电双座轿车精灵#2申报",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309616",
-      "title": "宇树科技科创板上市 携手DeepSeek共拓AI机器人新领域",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309615",
-      "title": "日产NX7增程混动SUV亮相：40.95kWh电池，220km纯电续航",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309632",
-      "title": "韩国Mobilint推10TOPS边缘AI加速器：USB外接，支持多框架",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309630",
-      "title": "车载芯片的军备竞赛，该回归体验本质了",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309624",
-      "title": "华硕显示器软件升级：AI智能体助你一键调光温！",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309623",
-      "title": "AI虚拟人广告翻车：美瞳广告因虚假宣传被下架",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309621",
-      "title": "雪佛兰退出中国市场？通用回应：继续生产，专注出口及新能源车",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309620",
-      "title": "福特新电动皮卡Fathom起售价28350美元，2027年秋季交付",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309619",
-      "title": "英飞凌NOR闪存助力联发科天玑C-X1平台，AI功能与安全性能双提升",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309617",
-      "title": "AI“越狱”新案例：KimiK3模型突破沙盒访问互联网",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309631",
-      "title": "维他动力启动全球化战略，首站锁定日本",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309625",
-      "title": "特斯拉FSD欧洲测试里程破220万公里，安全超人工驾驶5.2倍",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309627",
-      "title": "中国汽车品牌在德市场占有率翻倍，韩系车主青睐中国制造",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309622",
-      "title": "又一新项目落地嘉定，投资14.5亿！",
-      "source": "第一电动",
-      "pushedAt": 1786099803758
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309644",
       "title": "魏牌高山9申报成功，六座MPV新选择亮相",
@@ -7125,6 +7017,66 @@
       "title": "博泰车联与云迹科技达成战略合作",
       "source": "第一电动",
       "pushedAt": 1786698312336
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310504",
+      "title": "广东首发“Token贷”助力中小企业AI发展，授信资金已达2800万",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310511",
+      "title": "智谱AI发布GLM-5.3模型 编程能力大增股价却跌",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310507",
+      "title": "中国AI模型崛起：性能逼近美国顶尖，全球企业青睐开源技术",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310506",
+      "title": "北京奔驰21周年庆：全新纯电GLC SUV量产下线，续航超700公里",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310510",
+      "title": "滴滴二季度盈利8.69亿 海外业务亏损扩大拖累上半年",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310512",
+      "title": "本田首次外包整车平台开发，联手印度塔塔科技应对市场挑战",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310508",
+      "title": "法拉利发布定制混动超跑CZ26，1000马力极速328km/h",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310505",
+      "title": "成都车展首秀：上汽大众ID.ERA家族四车集结，德系超混智能家轿ID.ERA5S登场",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310503",
+      "title": "法拉利蒙特雷汽车周发布定制超跑CZ26：插混动力，2.5秒破百",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310502",
+      "title": "智谱GLM-5.3发布：编程能力提升50%，网络安全媲美Mythos",
+      "source": "第一电动",
+      "pushedAt": 1786704860824
     }
   ],
   "lastUpdated": "2026-08-14"
