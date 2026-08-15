@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308539",
-    "https://www.d1ev.com/newsflash/308536",
-    "https://www.d1ev.com/newsflash/308531",
-    "https://www.d1ev.com/newsflash/308545",
-    "https://www.d1ev.com/newsflash/308544",
-    "https://www.d1ev.com/newsflash/308543",
-    "https://www.d1ev.com/newsflash/308542",
-    "https://www.d1ev.com/newsflash/308538",
-    "https://www.d1ev.com/newsflash/308537",
     "https://www.d1ev.com/newsflash/308535",
     "https://www.d1ev.com/newsflash/308533",
     "https://www.d1ev.com/news/shichang/308548",
@@ -1999,57 +1990,18 @@
     "https://www.d1ev.com/newsflash/310580",
     "https://www.d1ev.com/newsflash/310578",
     "https://www.d1ev.com/newsflash/310587",
-    "https://www.d1ev.com/news/qiye/310579"
+    "https://www.d1ev.com/news/qiye/310579",
+    "https://www.d1ev.com/newsflash/310594",
+    "https://www.d1ev.com/newsflash/310592",
+    "https://www.d1ev.com/newsflash/310590",
+    "https://www.d1ev.com/newsflash/310596",
+    "https://www.d1ev.com/newsflash/310595",
+    "https://www.d1ev.com/newsflash/310593",
+    "https://www.d1ev.com/newsflash/310591",
+    "https://www.d1ev.com/newsflash/310589",
+    "https://www.d1ev.com/newsflash/310588"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309703",
-      "title": "小米澎程系列汽车9月上市，累计实测里程428万公里！",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309701",
-      "title": "华为鸿蒙智行G9内饰曝光：三联屏+实体键，预售24小时破万台！",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309705",
-      "title": "OpenAI AI模型Astra被指学术不端：数学成果未正确引用",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309704",
-      "title": "鸿蒙智行享界G9电驱挑战泥水坑，AI视频质疑后现场实拍澄清",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309702",
-      "title": "华为乾崑智驾新突破：一键代客充电，告别充电站等待！",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309700",
-      "title": "AI升级！Anthropic减少Fable5生物学误拦截85%",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309699",
-      "title": "小米音箱“超级小爱”内测开启，智能家庭新体验！",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309698",
-      "title": "比亚迪腾势N8L升级：无麦K歌、哨兵模式、智能导航新体验",
-      "source": "第一电动",
-      "pushedAt": 1786178007555
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309707",
       "title": "鸿蒙智行享界G9预售72小时订单破万，43.98万起售！",
@@ -7137,6 +7089,60 @@
       "title": "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号",
       "source": "第一电动",
       "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310594",
+      "title": "AI“代上课”成新作弊手段，美国学生网络课程作弊升级",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310592",
+      "title": "美国青年对AI戒心加深，超七成不信任科技巨头",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310590",
+      "title": "华为技术加持！岚图追光S智能电动SUV 22.99万起售",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310596",
+      "title": "中国汽车出口量激增66.8%，2026年有望破千万大关",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310595",
+      "title": "中国汽车出口激增，全球船运业面临“船荒”",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310593",
+      "title": "哈工大携手中策橡胶突破轮胎技术，国产轮胎性能跃升国际标准",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310591",
+      "title": "“法国冠军德比斯杭州赞中国制造，成零跑Lafa5欧洲首位车主”",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310589",
+      "title": "科技裁员潮加剧：2026年已超12万高技能岗位消失",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310588",
+      "title": "Anthropic IPO估值超2万亿美元，有望刷新SpaceX纪录",
+      "source": "第一电动",
+      "pushedAt": 1786788999040
     }
   ],
   "lastUpdated": "2026-08-15"
