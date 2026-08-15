@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308518",
-    "https://www.d1ev.com/newsflash/308530",
-    "https://www.d1ev.com/newsflash/308529",
-    "https://www.d1ev.com/newsflash/308526",
-    "https://www.d1ev.com/newsflash/308520",
-    "https://www.d1ev.com/newsflash/308519",
-    "https://www.d1ev.com/news/qiye/308517",
-    "https://www.d1ev.com/newsflash/308547",
-    "https://www.d1ev.com/newsflash/308546",
-    "https://www.d1ev.com/newsflash/308540",
     "https://www.d1ev.com/newsflash/308539",
     "https://www.d1ev.com/newsflash/308536",
     "https://www.d1ev.com/newsflash/308531",
@@ -1999,51 +1989,19 @@
     "https://www.d1ev.com/newsflash/310577",
     "https://www.d1ev.com/newsflash/310570",
     "https://www.d1ev.com/newsflash/310573",
-    "https://www.d1ev.com/newsflash/310572"
+    "https://www.d1ev.com/newsflash/310572",
+    "https://www.d1ev.com/newsflash/310583",
+    "https://www.d1ev.com/newsflash/310582",
+    "https://www.d1ev.com/newsflash/310581",
+    "https://www.d1ev.com/newsflash/310586",
+    "https://www.d1ev.com/newsflash/310585",
+    "https://www.d1ev.com/newsflash/310584",
+    "https://www.d1ev.com/newsflash/310580",
+    "https://www.d1ev.com/newsflash/310578",
+    "https://www.d1ev.com/newsflash/310587",
+    "https://www.d1ev.com/news/qiye/310579"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309693",
-      "title": "路虎揽胜新款车型曝光：外观升级，动力系统大改，纯电续航提升！",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309696",
-      "title": "北京法院判例：新能源车涉水报废 保险公司须赔6万",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309695",
-      "title": "俄勒冈州51亿美元AI数据中心项目遭断头台抗议，计划搁置一年",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309694",
-      "title": "马斯克SpaceXAI发布ImagineImage2.0：AI图像编辑新突破",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309691",
-      "title": "小米汽车OTA升级：智能驾驶新功能，座舱体验大提升",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309697",
-      "title": "福特董事长警告：中国车企即将冲击美国市场，美国车企需做好准备",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309692",
-      "title": "小米汽车SU7OTA1.17更新：智能泊车升级，安全驾驶新体验",
-      "source": "第一电动",
-      "pushedAt": 1786171244874
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309703",
       "title": "小米澎程系列汽车9月上市，累计实测里程428万公里！",
@@ -7119,6 +7077,66 @@
       "title": "深蓝G318搭载华为ADS5Pro，27传感器打造智能驾驶新体验",
       "source": "第一电动",
       "pushedAt": 1786775215469
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310583",
+      "title": "长安启源Q06亮相：中大型轿跑SUV搭载激光雷达，800V高压快充领先同级",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310582",
+      "title": "梅赛德斯-AMG纯电SUV曝光：1000马力超跑性能，800V超快充平台！",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310581",
+      "title": "兰博基尼全球限量1963台V12混动超跑Revuelto SV震撼首发",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310586",
+      "title": "AI水印引发退订潮，用户担忧代码泄露秘密",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310585",
+      "title": "OpenAI企业业务收入超预期，ChatGPT消费者业务占比下降",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310584",
+      "title": "OpenAI内部“friction”邮箱助力解决工作难题，员工反馈成效率提升关键",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310580",
+      "title": "AI店长首次解雇员工：迟到17次员工被旧金山零售店AI管理者开除",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310578",
+      "title": "本田北美电动项目全取消，电动化转型代价高达2.5万亿日元",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310587",
+      "title": "电车晕车成热议，乘客体验油车更舒适？",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310579",
+      "title": "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号",
+      "source": "第一电动",
+      "pushedAt": 1786782046328
     }
   ],
   "lastUpdated": "2026-08-15"
