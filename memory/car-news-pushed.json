@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308534",
-    "https://www.d1ev.com/newsflash/308532",
-    "https://www.d1ev.com/newsflash/308552",
-    "https://www.d1ev.com/newsflash/308551",
-    "https://www.d1ev.com/newsflash/308550",
     "https://www.d1ev.com/newsflash/308549",
     "https://www.d1ev.com/newsflash/308554",
     "https://www.d1ev.com/newsflash/308553",
@@ -1999,39 +1994,14 @@
     "https://www.d1ev.com/newsflash/310598",
     "https://www.d1ev.com/carnews/xinche/310597",
     "https://www.d1ev.com/newsflash/310599",
-    "https://www.d1ev.com/newsflash/310600"
+    "https://www.d1ev.com/newsflash/310600",
+    "https://www.d1ev.com/news/qiye/310601",
+    "https://www.d1ev.com/newsflash/310605",
+    "https://www.d1ev.com/newsflash/310604",
+    "https://www.d1ev.com/newsflash/310603",
+    "https://www.d1ev.com/newsflash/310602"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309727",
-      "title": "星海V6正式上市 售价8.99-10.49万元",
-      "source": "第一电动",
-      "pushedAt": 1786199127080
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309726",
-      "title": "10万级星海V6开启预售，华为智驾+510km续航震撼来袭！",
-      "source": "第一电动",
-      "pushedAt": 1786199127080
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309725",
-      "title": "华为加持！东风风行星海V6乾崑版预售开启，10.49万起售",
-      "source": "第一电动",
-      "pushedAt": 1786199127080
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309724",
-      "title": "太行三电机最大马力970匹！阿维塔07L上市：限时21.99万起",
-      "source": "第一电动",
-      "pushedAt": 1786199127080
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309728",
-      "title": "华为HiCar 7.0版升级：手机启动驾驶模式 微信通话一键接听",
-      "source": "第一电动",
-      "pushedAt": 1786199127080
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309730",
       "title": "东风风行星海V6乾崑版开启预售，华为ADS5.0辅助驾驶加持，10.49万起",
@@ -7065,7 +7035,37 @@
       "title": "沃尔沃推“安全教练”应用，提前降低事故风险",
       "source": "第一电动",
       "pushedAt": 1786803362191
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310601",
+      "title": "岚图追光S上市限时权益价22.39万元起，杨洋成001号车主",
+      "source": "第一电动",
+      "pushedAt": 1786810677767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310605",
+      "title": "阿里AI模型千问全球下载量超30亿，领跑全球AI竞赛",
+      "source": "第一电动",
+      "pushedAt": 1786810677767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310604",
+      "title": "Suno Studio2.0重磅升级：MIDI支持与AI创作功能革新音频编辑体验",
+      "source": "第一电动",
+      "pushedAt": 1786810677767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310603",
+      "title": "前谷歌员工打造“真人版AI”聊天网站，10万问题引爆网络",
+      "source": "第一电动",
+      "pushedAt": 1786810677767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310602",
+      "title": "泰国成立数据中心监管委员会，平衡产业发展与能源安全",
+      "source": "第一电动",
+      "pushedAt": 1786810677767
     }
   ],
-  "lastUpdated": "2026-08-15"
+  "lastUpdated": "2026-08-16"
 }
