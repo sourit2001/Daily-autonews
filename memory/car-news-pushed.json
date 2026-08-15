@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308535",
-    "https://www.d1ev.com/newsflash/308533",
-    "https://www.d1ev.com/news/shichang/308548",
     "https://www.d1ev.com/news/shichang/308541",
     "https://www.d1ev.com/newsflash/308534",
     "https://www.d1ev.com/newsflash/308532",
@@ -1999,51 +1996,12 @@
     "https://www.d1ev.com/newsflash/310593",
     "https://www.d1ev.com/newsflash/310591",
     "https://www.d1ev.com/newsflash/310589",
-    "https://www.d1ev.com/newsflash/310588"
+    "https://www.d1ev.com/newsflash/310588",
+    "https://www.d1ev.com/newsflash/310598",
+    "https://www.d1ev.com/carnews/xinche/310597",
+    "https://www.d1ev.com/newsflash/310599"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309707",
-      "title": "鸿蒙智行享界G9预售72小时订单破万，43.98万起售！",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309712",
-      "title": "“smart精灵#1搭载ASD4.0，千里智驾技术再升级”",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309710",
-      "title": "AI智能体新利器！Cloudflare推出低耗高效云端浏览器Kitesurf",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309709",
-      "title": "京沪高速惊现“智驾”玩手机，司机被罚200元扣3分！",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309708",
-      "title": "华为未来代客充电服务：一键操作，车辆自主补能新体验",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309706",
-      "title": "苹果联手阿里巴巴，千问AI功能登陆MacOS26.6",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309711",
-      "title": "谷歌Gemini惊现未公开游戏角色，数据泄露事件引发关注",
-      "source": "第一电动",
-      "pushedAt": 1786184703121
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309722",
       "title": "北汽集团4000万用户新车交付，新能源销量同比增22.6%",
@@ -7143,6 +7101,24 @@
       "title": "Anthropic IPO估值超2万亿美元，有望刷新SpaceX纪录",
       "source": "第一电动",
       "pushedAt": 1786788999040
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310598",
+      "title": "岚图追光S震撼上市！全球首款科技FUV，华为智驾加持，售价22.39万起",
+      "source": "第一电动",
+      "pushedAt": 1786796696876
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310597",
+      "title": "岚图追光S正式上市 售价22.99-27.99万元",
+      "source": "第一电动",
+      "pushedAt": 1786796696876
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310599",
+      "title": "OpenAI CEO奥尔特曼：大学两年足矣，多读未必有价值",
+      "source": "第一电动",
+      "pushedAt": 1786796696876
     }
   ],
   "lastUpdated": "2026-08-15"
