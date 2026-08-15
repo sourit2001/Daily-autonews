@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308496",
-    "https://www.d1ev.com/newsflash/308499",
-    "https://www.d1ev.com/newsflash/308497",
-    "https://www.d1ev.com/newsflash/308495",
-    "https://www.d1ev.com/newsflash/308498",
-    "https://www.d1ev.com/carnews/xinche/308501",
-    "https://www.d1ev.com/news/qiye/308500",
-    "https://www.d1ev.com/newsflash/308502",
-    "https://www.d1ev.com/newsflash/308510",
-    "https://www.d1ev.com/newsflash/308516",
     "https://www.d1ev.com/newsflash/308514",
     "https://www.d1ev.com/newsflash/308511",
     "https://www.d1ev.com/newsflash/308508",
@@ -1999,57 +1989,19 @@
     "https://www.d1ev.com/newsflash/310547",
     "https://www.d1ev.com/newsflash/310550",
     "https://www.d1ev.com/newsflash/310551",
-    "https://www.d1ev.com/newsflash/310546"
+    "https://www.d1ev.com/newsflash/310546",
+    "https://www.d1ev.com/newsflash/310558",
+    "https://www.d1ev.com/newsflash/310555",
+    "https://www.d1ev.com/news/shichang/310553",
+    "https://www.d1ev.com/newsflash/310560",
+    "https://www.d1ev.com/newsflash/310557",
+    "https://www.d1ev.com/newsflash/310554",
+    "https://www.d1ev.com/newsflash/310559",
+    "https://www.d1ev.com/newsflash/310552",
+    "https://www.d1ev.com/newsflash/310561",
+    "https://www.d1ev.com/carnews/xinche/310556"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309665",
-      "title": "长城魏牌高山8Hi4混动SUV亮相：7座大空间，190km/h极速！",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309660",
-      "title": "零跑Lafa5纯电动轿车亮相：最高时速180km/h，支持激光雷达选装",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309658",
-      "title": "一汽-大众速腾LHEV混动版亮相：镍钴锰电池+EDR系统",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309663",
-      "title": "蚂蚁集团Ling-3.0-flash大模型开源！124B参数量，性能飞跃",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309662",
-      "title": "“智驾”非全自动驾驶！温州司机捡鞋引发高速事故被罚",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309661",
-      "title": "中国首部自动驾驶国标2027年实施，L3/L4级车辆将受监管",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309659",
-      "title": "OpenAI新模型Astra网络安全风险高，强化安全措施应对",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309664",
-      "title": "悉智科技完成A轮超1亿元融资",
-      "source": "第一电动",
-      "pushedAt": 1786151255276
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309679",
       "title": "极狐阿尔法T7开启预售：20万级智能轿跑SUV，华为智驾+宁德时代电池",
@@ -7161,6 +7113,66 @@
       "title": "小米汽车成都车展亮点揭晓：澎程N90Max安全设计大揭秘",
       "source": "第一电动",
       "pushedAt": 1786755241205
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310558",
+      "title": "长安深蓝G318携华为技术亮相，智能座舱+27传感器打造未来出行",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310555",
+      "title": "五菱星光M官图曝光：3000mm轴距七座MPV，插电混动新选择",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310553",
+      "title": "动力升级 新款奔驰AMG CLE53敞篷版谍照曝光",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310560",
+      "title": "阿里千问AI眼镜技能平台上线，开启智能生活新体验",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310557",
+      "title": "谷歌Gemini新功能：一键关闭AI作品可见水印！",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310554",
+      "title": "荣耀YOYOClaw升级！GLM-5.3大模型加持，编程能力飙升50%",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310559",
+      "title": "奔驰全新长轴距GLE全球首秀，国产豪华SUV新标杆60万起",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310552",
+      "title": "奇瑞星途事业部汇报关系调整：海外业务高管张贵兵接管",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310561",
+      "title": "国家超算互联网上线DeepSeekV4Pro，国产算力新突破！",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310556",
+      "title": "法拉利发布定制款超跑CZ26 基于SF90打造",
+      "source": "第一电动",
+      "pushedAt": 1786762018281
     }
   ],
   "lastUpdated": "2026-08-15"
