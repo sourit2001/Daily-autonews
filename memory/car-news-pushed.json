@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308514",
-    "https://www.d1ev.com/newsflash/308511",
-    "https://www.d1ev.com/newsflash/308508",
-    "https://www.d1ev.com/newsflash/308506",
-    "https://www.d1ev.com/newsflash/308513",
-    "https://www.d1ev.com/news/shichang/308512",
-    "https://www.d1ev.com/newsflash/308515",
-    "https://www.d1ev.com/newsflash/308509",
     "https://www.d1ev.com/newsflash/308507",
     "https://www.d1ev.com/newsflash/308525",
     "https://www.d1ev.com/newsflash/308528",
@@ -1999,93 +1991,17 @@
     "https://www.d1ev.com/newsflash/310559",
     "https://www.d1ev.com/newsflash/310552",
     "https://www.d1ev.com/newsflash/310561",
-    "https://www.d1ev.com/carnews/xinche/310556"
+    "https://www.d1ev.com/carnews/xinche/310556",
+    "https://www.d1ev.com/news/qiye/310568",
+    "https://www.d1ev.com/newsflash/310562",
+    "https://www.d1ev.com/newsflash/310569",
+    "https://www.d1ev.com/newsflash/310564",
+    "https://www.d1ev.com/newsflash/310563",
+    "https://www.d1ev.com/newsflash/310567",
+    "https://www.d1ev.com/newsflash/310566",
+    "https://www.d1ev.com/newsflash/310565"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309679",
-      "title": "极狐阿尔法T7开启预售：20万级智能轿跑SUV，华为智驾+宁德时代电池",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309678",
-      "title": "广汽传祺E8HEV+油电混动新车型亮相：7座大空间，最高车速170km/h",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309674",
-      "title": "广汽传祺越7开启预售，1.9米纯平大床+L3智能座舱震撼来袭",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309669",
-      "title": "奔驰AMG GT53四门轿跑亮相：90万起售，3.8秒破百，续航超800公里！",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309668",
-      "title": "极狐阿尔法T7携华为技术8月26日预售，智能大灯+全景PHUD震撼登场",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309675",
-      "title": "京沪高速惊现“低头族”司机：智驾模式下双手离盘刷手机被罚",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309673",
-      "title": "AI安全升级！Anthropic将ClaudeCode默认权限模式调整为自动模式",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309666",
-      "title": "五菱代步车全球销量破300万，宏光MINIEV连续72月销冠",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309677",
-      "title": "跨会话协作新突破！Anthropic推出ClaudeCode消息传递功能",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309676",
-      "title": "极氪8X曜夜套件上新，限时5000元享超20处熏黑升级！",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309672",
-      "title": "尊界入局，重写格局？",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309671",
-      "title": "舍弗勒上半年营收持平，盈利能力提升",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309670",
-      "title": "李尔第二季度销售额上涨，上调全年业绩指引",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309667",
-      "title": "长安启源Q06改装版来袭：越野升级+800V快充+7色车身选择",
-      "source": "第一电动",
-      "pushedAt": 1786159316505
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309686",
       "title": "比亚迪腾势Z9S震撼上市：1100km超长续航，31.98万起！",
@@ -7173,6 +7089,54 @@
       "title": "法拉利发布定制款超跑CZ26 基于SF90打造",
       "source": "第一电动",
       "pushedAt": 1786762018281
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310568",
+      "title": "华为乾崑智驾ADS 5首搭合资豪华SUV，神行者8预售33.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310562",
+      "title": "上汽大众ID.ERA家族四车齐发，新能源轿车ID.ERA5S预售开启！",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310569",
+      "title": "鸿蒙智行享界G9即将发布：43.98万起售，L3级智驾+华为技术加持",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310564",
+      "title": "微软CopilotNotebooks升级：支持Markdown，AI智能办公再升级！",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310563",
+      "title": "智界V9月销破万，新能源MPV市场新霸主诞生",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310567",
+      "title": "2026成都车展首秀！奔驰全新长轴距GLE SUV智能豪华来袭",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310566",
+      "title": "魅族FlymeAuto系统7月装机量破13万，累计超328万！",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310565",
+      "title": "智界V9月销破万夺冠，高端MPV市场新宠来袭",
+      "source": "第一电动",
+      "pushedAt": 1786767795927
     }
   ],
   "lastUpdated": "2026-08-15"
