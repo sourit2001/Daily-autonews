@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308481",
-    "https://www.d1ev.com/newsflash/308478",
-    "https://www.d1ev.com/newsflash/308475",
-    "https://www.d1ev.com/newsflash/308494",
-    "https://www.d1ev.com/newsflash/308492",
-    "https://www.d1ev.com/newsflash/308493",
     "https://www.d1ev.com/newsflash/308496",
     "https://www.d1ev.com/newsflash/308499",
     "https://www.d1ev.com/newsflash/308497",
@@ -1999,7 +1993,13 @@
     "https://www.d1ev.com/newsflash/310533",
     "https://www.d1ev.com/newsflash/310543",
     "https://www.d1ev.com/news/qiye/310541",
-    "https://www.d1ev.com/newsflash/310545"
+    "https://www.d1ev.com/newsflash/310545",
+    "https://www.d1ev.com/newsflash/310549",
+    "https://www.d1ev.com/newsflash/310548",
+    "https://www.d1ev.com/newsflash/310547",
+    "https://www.d1ev.com/newsflash/310550",
+    "https://www.d1ev.com/newsflash/310551",
+    "https://www.d1ev.com/newsflash/310546"
   ],
   "newsHistory": [
     {
@@ -7125,6 +7125,42 @@
       "title": "中国车出口激增，专用运输船订单排到数年后",
       "source": "第一电动",
       "pushedAt": 1786733049735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310549",
+      "title": "鸿蒙智行享界G9豪华SUV即将上市，43.98万起售，女性新宠“寰宇红”配色曝光",
+      "source": "第一电动",
+      "pushedAt": 1786755241205
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310548",
+      "title": "魏牌V8X震撼上市！22.68万起，超级Hi4混动系统，4秒破百！",
+      "source": "第一电动",
+      "pushedAt": 1786755241205
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310547",
+      "title": "神行者8预售开启，华为智驾+高通芯片，豪华科技SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786755241205
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310550",
+      "title": "本田搁置三款电动车项目，全力押注固态电池技术",
+      "source": "第一电动",
+      "pushedAt": 1786755241205
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310551",
+      "title": "特斯拉瑞典罢工落幕：现金买断员工，工会不满仍坚持立场",
+      "source": "第一电动",
+      "pushedAt": 1786755241205
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310546",
+      "title": "小米汽车成都车展亮点揭晓：澎程N90Max安全设计大揭秘",
+      "source": "第一电动",
+      "pushedAt": 1786755241205
     }
   ],
   "lastUpdated": "2026-08-15"
