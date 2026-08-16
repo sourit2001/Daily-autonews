@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/308579",
-    "https://www.d1ev.com/news/shichang/308577",
-    "https://www.d1ev.com/news/shichang/308575",
     "https://www.d1ev.com/newsflash/308574",
     "https://www.d1ev.com/newsflash/308569",
     "https://www.d1ev.com/news/shichang/308562",
@@ -1999,15 +1996,12 @@
     "https://www.d1ev.com/newsflash/310617",
     "https://www.d1ev.com/carnews/xinche/310621",
     "https://www.d1ev.com/carnews/xinche/310620",
-    "https://www.d1ev.com/newsflash/310619"
+    "https://www.d1ev.com/newsflash/310619",
+    "https://www.d1ev.com/newsflash/310628",
+    "https://www.d1ev.com/newsflash/310627",
+    "https://www.d1ev.com/newsflash/310629"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309745",
-      "title": "零跑A05七色亮相，8月10日上市，续航510km，99元盲订享5000积分！",
-      "source": "第一电动",
-      "pushedAt": 1786246080829
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309750",
       "title": "长城欧拉7旅行车曝光：中型电动轿车，最高时速180km/h",
@@ -7083,6 +7077,24 @@
       "title": "英国政府放宽零排放汽车销售令，车企迎来政策松绑",
       "source": "第一电动",
       "pushedAt": 1786848952805
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310628",
+      "title": "埃安Ray7即将亮相：华为技术加持，年轻人的纯电新选择",
+      "source": "第一电动",
+      "pushedAt": 1786854564791
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310627",
+      "title": "华为昇腾适配小红书开源大模型，全模态AI推理能力大提升",
+      "source": "第一电动",
+      "pushedAt": 1786854564791
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310629",
+      "title": "千问办公新模型上线：DeepSeekV4Pro与GLM-5.3助力办公生产力飞跃",
+      "source": "第一电动",
+      "pushedAt": 1786854564791
     }
   ],
   "lastUpdated": "2026-08-16"
