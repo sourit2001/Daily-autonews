@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308604",
-    "https://www.d1ev.com/news/shichang/308603",
-    "https://www.d1ev.com/newsflash/308599",
     "https://www.d1ev.com/newsflash/308598",
     "https://www.d1ev.com/newsflash/308624",
     "https://www.d1ev.com/newsflash/308621",
@@ -1999,39 +1996,12 @@
     "https://www.d1ev.com/news/shichang/310646",
     "https://www.d1ev.com/newsflash/310651",
     "https://www.d1ev.com/news/shichang/310647",
-    "https://www.d1ev.com/newsflash/310645"
+    "https://www.d1ev.com/newsflash/310645",
+    "https://www.d1ev.com/newsflash/310654",
+    "https://www.d1ev.com/newsflash/310653",
+    "https://www.d1ev.com/newsflash/310652"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309761",
-      "title": "享界G9预售72小时订单破万，43.98万起售，L3自动驾驶+800V高压平台",
-      "source": "第一电动",
-      "pushedAt": 1786271266435
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309763",
-      "title": "新加坡总理国庆献词：AI带来增长机遇，政府将创造高质量就业",
-      "source": "第一电动",
-      "pushedAt": 1786271266435
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309759",
-      "title": "Chrome和Edge更新AI模型存储要求：至少20GB空间起步",
-      "source": "第一电动",
-      "pushedAt": 1786271266435
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309762",
-      "title": "E周看点｜宁德时代61.8亿元分红落地；小鹏双班制赶MONA L03产能",
-      "source": "第一电动",
-      "pushedAt": 1786271266435
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309760",
-      "title": "小智一周要闻 | 宇树IPO一签需缴7.54万元；智元调整核心管理层",
-      "source": "第一电动",
-      "pushedAt": 1786271266435
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309766",
       "title": "大众ID.ERA5X纯电SUV亮相：激光雷达加持，智能驾驶新突破",
@@ -7143,6 +7113,24 @@
       "title": "ChatGPT升级：谷歌云盘文件直接编辑，Yelp集成提供餐厅预订新体验！",
       "source": "第一电动",
       "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310654",
+      "title": "大学生非法购AI技术，四个月内盗刷5万被捕",
+      "source": "第一电动",
+      "pushedAt": 1786883204279
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310653",
+      "title": "岚图追光S挑战360°隧道穿越，华为ADS首秀隧道顶AEB制动",
+      "source": "第一电动",
+      "pushedAt": 1786883204279
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310652",
+      "title": "豪车价格战打响！路虎卫士110HSE直降17万，宝马、奔驰、保时捷纷纷降价",
+      "source": "第一电动",
+      "pushedAt": 1786883204279
     }
   ],
   "lastUpdated": "2026-08-16"
