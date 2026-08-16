@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308598",
-    "https://www.d1ev.com/newsflash/308624",
-    "https://www.d1ev.com/newsflash/308621",
-    "https://www.d1ev.com/newsflash/308617",
-    "https://www.d1ev.com/newsflash/308615",
     "https://www.d1ev.com/newsflash/308609",
     "https://www.d1ev.com/newsflash/308607",
     "https://www.d1ev.com/news/shichang/308602",
@@ -1999,69 +1994,14 @@
     "https://www.d1ev.com/newsflash/310645",
     "https://www.d1ev.com/newsflash/310654",
     "https://www.d1ev.com/newsflash/310653",
-    "https://www.d1ev.com/newsflash/310652"
+    "https://www.d1ev.com/newsflash/310652",
+    "https://www.d1ev.com/newsflash/310658",
+    "https://www.d1ev.com/newsflash/310655",
+    "https://www.d1ev.com/newsflash/310659",
+    "https://www.d1ev.com/newsflash/310657",
+    "https://www.d1ev.com/newsflash/310656"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309766",
-      "title": "大众ID.ERA5X纯电SUV亮相：激光雷达加持，智能驾驶新突破",
-      "source": "第一电动",
-      "pushedAt": 1786279145317
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309768",
-      "title": "AI诉状泛滥！英国就业法庭案件激增39%，积压案件增55%",
-      "source": "第一电动",
-      "pushedAt": 1786279145317
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309767",
-      "title": "“5岁孩子沉迷AI聊天，家长惊现暴力倾向苗头！”",
-      "source": "第一电动",
-      "pushedAt": 1786279145317
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309765",
-      "title": "新兴产业爆发式增长，新能源车、光伏企业注销数同比上升",
-      "source": "第一电动",
-      "pushedAt": 1786279145317
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309764",
-      "title": "“山洪突袭！仰望U8单轮脱险，三地救援联动成功救出车主”",
-      "source": "第一电动",
-      "pushedAt": 1786279145317
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309771",
-      "title": "标致2030年前推7款新车，电动版208和2008领衔登场",
-      "source": "第一电动",
-      "pushedAt": 1786285778339
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309769",
-      "title": "座椅加热成新车必备！消费者愿为舒适配置买单",
-      "source": "第一电动",
-      "pushedAt": 1786285778339
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309773",
-      "title": "甲骨文新规：OpenJDK开发者禁用AI生成代码",
-      "source": "第一电动",
-      "pushedAt": 1786285778339
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309772",
-      "title": "“氢能革命！美国研发点火式氢发动机 性能匹敌柴油机”",
-      "source": "第一电动",
-      "pushedAt": 1786285778339
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309770",
-      "title": "未来城市开车不超速？地理围栏技术让汽车自动限速",
-      "source": "第一电动",
-      "pushedAt": 1786285778339
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/309796",
       "title": "硬派豪华 享界G9预售72小时订单破1.5万台",
@@ -7131,7 +7071,37 @@
       "title": "豪车价格战打响！路虎卫士110HSE直降17万，宝马、奔驰、保时捷纷纷降价",
       "source": "第一电动",
       "pushedAt": 1786883204279
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310658",
+      "title": "奇瑞捷豹路虎神行者8预售破万，华为智驾+高通芯片33.99万起",
+      "source": "第一电动",
+      "pushedAt": 1786897016467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310655",
+      "title": "比亚迪海鸥内饰曝光：悬浮大屏+激光雷达，续航420km新选择",
+      "source": "第一电动",
+      "pushedAt": 1786897016467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310659",
+      "title": "中美AI态度大不同：中国受访者更兴奋，美国信任度垫底",
+      "source": "第一电动",
+      "pushedAt": 1786897016467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310657",
+      "title": "AI客服成投诉新热点：消费者难转人工，承诺难兑现",
+      "source": "第一电动",
+      "pushedAt": 1786897016467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310656",
+      "title": "特斯拉Model Y新配件：座椅下储物托盘40美元起售，提升储物空间",
+      "source": "第一电动",
+      "pushedAt": 1786897016467
     }
   ],
-  "lastUpdated": "2026-08-16"
+  "lastUpdated": "2026-08-17"
 }
