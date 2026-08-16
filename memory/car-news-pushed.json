@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308574",
-    "https://www.d1ev.com/newsflash/308569",
-    "https://www.d1ev.com/news/shichang/308562",
-    "https://www.d1ev.com/newsflash/308588",
-    "https://www.d1ev.com/newsflash/308587",
-    "https://www.d1ev.com/carnews/xinche/308586",
     "https://www.d1ev.com/news/qiye/308585",
     "https://www.d1ev.com/carnews/xinche/308578",
     "https://www.d1ev.com/news/shichang/308576",
@@ -1999,7 +1993,13 @@
     "https://www.d1ev.com/newsflash/310619",
     "https://www.d1ev.com/newsflash/310628",
     "https://www.d1ev.com/newsflash/310627",
-    "https://www.d1ev.com/newsflash/310629"
+    "https://www.d1ev.com/newsflash/310629",
+    "https://www.d1ev.com/newsflash/310636",
+    "https://www.d1ev.com/newsflash/310634",
+    "https://www.d1ev.com/newsflash/310631",
+    "https://www.d1ev.com/newsflash/310632",
+    "https://www.d1ev.com/newsflash/310633",
+    "https://www.d1ev.com/newsflash/310635"
   ],
   "newsHistory": [
     {
@@ -7095,6 +7095,42 @@
       "title": "千问办公新模型上线：DeepSeekV4Pro与GLM-5.3助力办公生产力飞跃",
       "source": "第一电动",
       "pushedAt": 1786854564791
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310636",
+      "title": "长安启源Q06亮相：浮光银配色+800V快充，纯电轿跑SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786862081633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310634",
+      "title": "埃安全新纯电轿跑Ray7亮相，华为电机+磷酸铁锂电池加持",
+      "source": "第一电动",
+      "pushedAt": 1786862081633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310631",
+      "title": "岚图追光S震撼上市：华为激光雷达加持，性能运动新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786862081633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310632",
+      "title": "索尼AI新专利：智能识别恶意用户保护玩家安全",
+      "source": "第一电动",
+      "pushedAt": 1786862081633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310633",
+      "title": "岚图追光S全球首秀360°隧道大回环，中国技术实力惊艳世界",
+      "source": "第一电动",
+      "pushedAt": 1786862081633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310635",
+      "title": "星途EX6成都车展首秀：红黑内饰、科技联屏、1.5T混动动力",
+      "source": "第一电动",
+      "pushedAt": 1786862081633
     }
   ],
   "lastUpdated": "2026-08-16"
