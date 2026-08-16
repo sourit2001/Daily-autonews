@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/308585",
-    "https://www.d1ev.com/carnews/xinche/308578",
-    "https://www.d1ev.com/news/shichang/308576",
-    "https://www.d1ev.com/news/shichang/308570",
-    "https://www.d1ev.com/newsflash/308568",
-    "https://www.d1ev.com/newsflash/308566",
-    "https://www.d1ev.com/newsflash/308565",
-    "https://www.d1ev.com/news/shichang/308563",
     "https://www.d1ev.com/carnews/xinche/308630",
     "https://www.d1ev.com/carnews/xinche/308626",
     "https://www.d1ev.com/newsflash/308623",
@@ -1999,45 +1991,17 @@
     "https://www.d1ev.com/newsflash/310631",
     "https://www.d1ev.com/newsflash/310632",
     "https://www.d1ev.com/newsflash/310633",
-    "https://www.d1ev.com/newsflash/310635"
+    "https://www.d1ev.com/newsflash/310635",
+    "https://www.d1ev.com/newsflash/310642",
+    "https://www.d1ev.com/newsflash/310640",
+    "https://www.d1ev.com/newsflash/310639",
+    "https://www.d1ev.com/newsflash/310644",
+    "https://www.d1ev.com/newsflash/310641",
+    "https://www.d1ev.com/newsflash/310638",
+    "https://www.d1ev.com/newsflash/310643",
+    "https://www.d1ev.com/newsflash/310637"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309750",
-      "title": "长城欧拉7旅行车曝光：中型电动轿车，最高时速180km/h",
-      "source": "第一电动",
-      "pushedAt": 1786257842523
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309748",
-      "title": "阿维塔07L震撼上市，21.99万起享9大权益，华为技术加持！",
-      "source": "第一电动",
-      "pushedAt": 1786257842523
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309747",
-      "title": "东风风行星海V6预售开启，10.49万起享400km续航跨界SUV",
-      "source": "第一电动",
-      "pushedAt": 1786257842523
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309746",
-      "title": "中国算力新突破：全国产10万卡AI超集群“曙光8000”正式投用",
-      "source": "第一电动",
-      "pushedAt": 1786257842523
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309751",
-      "title": "BBA豪车三巨头利润暴跌，中国市场销量大幅下滑",
-      "source": "第一电动",
-      "pushedAt": 1786257842523
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309749",
-      "title": "蔚来ES9交付破2万，高端纯电SUV市场新标杆",
-      "source": "第一电动",
-      "pushedAt": 1786257842523
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309757",
       "title": "李开复：AI时代人类优势在“右脑”，择业应选“无数据”领域",
@@ -7131,6 +7095,54 @@
       "title": "星途EX6成都车展首秀：红黑内饰、科技联屏、1.5T混动动力",
       "source": "第一电动",
       "pushedAt": 1786862081633
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310642",
+      "title": "启境GX7内饰曝光：华为鸿蒙座舱加持，30万级SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310640",
+      "title": "华为问界M9Ultimate内饰曝光：二排旋转座椅+观景模式 64.98万起",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310639",
+      "title": "东风猛士X700成都车展亮相，插电混动+激光雷达，硬核家用SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310644",
+      "title": "实体按键回归成趋势，汽车座舱交互设计转向分层交互模式",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310641",
+      "title": "英国政府考虑调整电动汽车销售目标，2030年纯电车比例或降至50%",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310638",
+      "title": "中国电动车品牌崛起挑战丰田，比亚迪在澳销量逼近丰田",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310643",
+      "title": "华为联手赛力斯打造问界“M0.9”儿童车，智趣探索新伙伴",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310637",
+      "title": "华为享界G9硬派SUV：43.98万起，全地形途灵平台+玄武架构车身震撼登场",
+      "source": "第一电动",
+      "pushedAt": 1786868591255
     }
   ],
   "lastUpdated": "2026-08-16"
