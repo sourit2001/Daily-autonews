@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/308630",
-    "https://www.d1ev.com/carnews/xinche/308626",
-    "https://www.d1ev.com/newsflash/308623",
-    "https://www.d1ev.com/newsflash/308622",
-    "https://www.d1ev.com/newsflash/308616",
-    "https://www.d1ev.com/newsflash/308614",
-    "https://www.d1ev.com/newsflash/308606",
     "https://www.d1ev.com/newsflash/308604",
     "https://www.d1ev.com/news/shichang/308603",
     "https://www.d1ev.com/newsflash/308599",
@@ -1999,51 +1992,16 @@
     "https://www.d1ev.com/newsflash/310641",
     "https://www.d1ev.com/newsflash/310638",
     "https://www.d1ev.com/newsflash/310643",
-    "https://www.d1ev.com/newsflash/310637"
+    "https://www.d1ev.com/newsflash/310637",
+    "https://www.d1ev.com/newsflash/310650",
+    "https://www.d1ev.com/newsflash/310649",
+    "https://www.d1ev.com/newsflash/310648",
+    "https://www.d1ev.com/news/shichang/310646",
+    "https://www.d1ev.com/newsflash/310651",
+    "https://www.d1ev.com/news/shichang/310647",
+    "https://www.d1ev.com/newsflash/310645"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309757",
-      "title": "李开复：AI时代人类优势在“右脑”，择业应选“无数据”领域",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309755",
-      "title": "宝马联手克莱姆森大学打造太阳能电动车，日晒续航超50公里！",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309758",
-      "title": "比亚迪海豹06焕新登场：10.5万起售，动力升级，家用新选择",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309756",
-      "title": "深蓝S05全国热销开启大规模交付，8月产量突破两万",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309754",
-      "title": "特斯拉FSD安全数据疑云：荷兰监管机构拒公开决策依据",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309753",
-      "title": "小米汽车销量飙升：2028年有望突破百万大关",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309752",
-      "title": "蔚来第4,000座换电站落成暨第五代换电站投入运营",
-      "source": "第一电动",
-      "pushedAt": 1786264524091
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309761",
       "title": "享界G9预售72小时订单破万，43.98万起售，L3自动驾驶+800V高压平台",
@@ -7143,6 +7101,48 @@
       "title": "华为享界G9硬派SUV：43.98万起，全地形途灵平台+玄武架构车身震撼登场",
       "source": "第一电动",
       "pushedAt": 1786868591255
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310650",
+      "title": "华为赛力斯联手打造“M0.9”儿童车，问界家族新成员即将上市！",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310649",
+      "title": "全国首座电网友好型电动重卡充电站启用，15分钟满电续航",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310648",
+      "title": "蔚来充电网络再扩张，黔西避暑环线23站贯通，全国累计超1.2亿次换电",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310646",
+      "title": "E周看点 | 保时捷将联手小鹏碳减排；大众新合资电池公司落地大连",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310651",
+      "title": "比亚迪海鸥全新升级：内饰豪华升级，动力性能大幅提升！",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310647",
+      "title": "小智一周要闻 | 宇树科技8734股遭弃购；传自变量已秘密递表港交所",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310645",
+      "title": "ChatGPT升级：谷歌云盘文件直接编辑，Yelp集成提供餐厅预订新体验！",
+      "source": "第一电动",
+      "pushedAt": 1786875386677
     }
   ],
   "lastUpdated": "2026-08-16"
