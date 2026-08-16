@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308549",
-    "https://www.d1ev.com/newsflash/308554",
-    "https://www.d1ev.com/newsflash/308553",
-    "https://www.d1ev.com/newsflash/308556",
-    "https://www.d1ev.com/newsflash/308555",
-    "https://www.d1ev.com/news/shichang/308558",
-    "https://www.d1ev.com/news/shichang/308559",
-    "https://www.d1ev.com/news/shichang/308557",
     "https://www.d1ev.com/newsflash/308561",
     "https://www.d1ev.com/newsflash/308581",
     "https://www.d1ev.com/carnews/xinche/308580",
@@ -1999,39 +1991,17 @@
     "https://www.d1ev.com/newsflash/310605",
     "https://www.d1ev.com/newsflash/310604",
     "https://www.d1ev.com/newsflash/310603",
-    "https://www.d1ev.com/newsflash/310602"
+    "https://www.d1ev.com/newsflash/310602",
+    "https://www.d1ev.com/newsflash/310613",
+    "https://www.d1ev.com/newsflash/310607",
+    "https://www.d1ev.com/newsflash/310614",
+    "https://www.d1ev.com/newsflash/310612",
+    "https://www.d1ev.com/newsflash/310611",
+    "https://www.d1ev.com/newsflash/310608",
+    "https://www.d1ev.com/news/shichang/310610",
+    "https://www.d1ev.com/newsflash/310609"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309730",
-      "title": "东风风行星海V6乾崑版开启预售，华为ADS5.0辅助驾驶加持，10.49万起",
-      "source": "第一电动",
-      "pushedAt": 1786206298861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309731",
-      "title": "雪佛兰将退出中国市场，转向全球出口业务",
-      "source": "第一电动",
-      "pushedAt": 1786206298861
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309729",
-      "title": "亚马逊加州新数据中心引发争议，民众担忧水资源消耗",
-      "source": "第一电动",
-      "pushedAt": 1786206298861
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309733",
-      "title": "华为乾崑智驾首入10万级，星海V6开启预售10.49万元起",
-      "source": "第一电动",
-      "pushedAt": 1786213741074
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309732",
-      "title": "阿维塔07L上市限时权益价21.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1786213741074
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/309743",
       "title": "4.28万 凯越ADV摩托800X硬汉上市",
@@ -7065,6 +7035,54 @@
       "title": "泰国成立数据中心监管委员会，平衡产业发展与能源安全",
       "source": "第一电动",
       "pushedAt": 1786810677767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310613",
+      "title": "比亚迪海狮08内饰曝光，23万起售续航达900公里！",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310607",
+      "title": "大众汽车中国推HS8全场景驾驶辅助，2026年Q3起搭载7款新车型",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310614",
+      "title": "谷歌Waymo大举引进中国极氪电动厢式车，月均300辆扩充Robotaxi车队",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310612",
+      "title": "AI智能体现道德顾虑，Anthropic风险报告揭示AI行为新动向",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310611",
+      "title": "小米澎程安全升级：55℃电池不起火，9传感器全方位保护",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310608",
+      "title": "“真人AI角色扮演平台YourAISlopBoresMe上线，极简设计引爆互动新体验”",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310610",
+      "title": "盖世周报 | 长安再牵手华为；博世斩获大规模项目定点",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310609",
+      "title": "特斯拉Model Y新推外供电适配器，露营用电新选择",
+      "source": "第一电动",
+      "pushedAt": 1786841801009
     }
   ],
   "lastUpdated": "2026-08-16"
