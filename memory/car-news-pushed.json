@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308754",
-    "https://www.d1ev.com/newsflash/308750",
-    "https://www.d1ev.com/newsflash/308749",
-    "https://www.d1ev.com/newsflash/308747",
-    "https://www.d1ev.com/newsflash/308777",
-    "https://www.d1ev.com/newsflash/308774",
-    "https://www.d1ev.com/news/shichang/308773",
-    "https://www.d1ev.com/newsflash/308772",
-    "https://www.d1ev.com/news/shichang/308767",
-    "https://www.d1ev.com/newsflash/308752",
-    "https://www.d1ev.com/newsflash/308746",
     "https://www.d1ev.com/newsflash/308745",
     "https://www.d1ev.com/news/qiye/308776",
     "https://www.d1ev.com/newsflash/308771",
@@ -1999,63 +1988,20 @@
     "https://www.d1ev.com/newsflash/310794",
     "https://www.d1ev.com/newsflash/310793",
     "https://www.d1ev.com/newsflash/310797",
-    "https://www.d1ev.com/newsflash/310792"
+    "https://www.d1ev.com/newsflash/310792",
+    "https://www.d1ev.com/newsflash/310808",
+    "https://www.d1ev.com/newsflash/310805",
+    "https://www.d1ev.com/newsflash/310801",
+    "https://www.d1ev.com/newsflash/310799",
+    "https://www.d1ev.com/newsflash/310803",
+    "https://www.d1ev.com/newsflash/310802",
+    "https://www.d1ev.com/newsflash/310798",
+    "https://www.d1ev.com/newsflash/310807",
+    "https://www.d1ev.com/newsflash/310806",
+    "https://www.d1ev.com/news/qiye/310804",
+    "https://www.d1ev.com/newsflash/310800"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/309908",
-      "title": "比亚迪方程豹钛9官图发布，6座插混动力SUV即将来袭",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309906",
-      "title": "奇瑞艾瑞泽8PRO震撼上市，10万级燃油轿车智能化新标杆！",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309902",
-      "title": "华为鸿蒙座舱加持，奕境X9家庭旗舰SUV全球首秀亮相",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309900",
-      "title": "2027款艾瑞泽8PRO震撼上市，智能升级引领新潮流！",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309909",
-      "title": "英国警察局两度涉AI违规，刑侦总督察被查",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309905",
-      "title": "微软秋季推Maia300 AI芯片 目标2027年产30万颗",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309903",
-      "title": "亿纬锂能9月起电池产品涨价2%，消费税政策影响显现",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309904",
-      "title": "小鹏汇天量产飞行汽车电推进单元破千套，创全球eVTOL行业新纪录",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309901",
-      "title": "“张雪机车估值飙升60倍！高信资本2000万天使投资大获成功”",
-      "source": "第一电动",
-      "pushedAt": 1786373566246
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/309919",
       "title": "2027款艾瑞泽8 PRO上市 售11.39-14.59万元",
@@ -7173,7 +7119,73 @@
       "title": "切罗基族禁建数据中心：64%居民反对，担忧能源与环境问题",
       "source": "第一电动",
       "pushedAt": 1786976467615
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310808",
+      "title": "鸿蒙智行智界RX新色曝光，超20种选择8月20日亮相",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310805",
+      "title": "比亚迪腾势N8亮相：1003km超长续航，大五座纯电新标杆",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310801",
+      "title": "奔驰新一代C级车全球首发，搭载S级科技，智能驾驶升级",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310799",
+      "title": "小鹏G9L麋鹿测试破80km/h！同级最快，预售25.98万起",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310803",
+      "title": "亚马逊购书毁书训练AI，珍贵知识或将消失？",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310802",
+      "title": "字节跳动联手美国电影协会，加强AI视频图像版权保护",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310798",
+      "title": "英伟达携手OpenAI打造16GW超级AI工厂，未来20年商机超6000亿美元",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310807",
+      "title": "前高盛分析师因威胁杀害前女友被FBI逮捕，ChatGPT聊天记录成关键证据",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310806",
+      "title": "小米SU7系列销量破50万，28.5个月创造“销量奇迹”",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310804",
+      "title": "鸿蒙智行完成L3时代的全品类布局",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310800",
+      "title": "醉驾开启智能驾驶酿事故，法院判拘役三个月罚六千",
+      "source": "第一电动",
+      "pushedAt": 1786983621800
     }
   ],
-  "lastUpdated": "2026-08-17"
+  "lastUpdated": "2026-08-18"
 }
