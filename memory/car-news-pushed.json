@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308609",
-    "https://www.d1ev.com/newsflash/308607",
-    "https://www.d1ev.com/news/shichang/308602",
-    "https://www.d1ev.com/newsflash/308600",
-    "https://www.d1ev.com/newsflash/308597",
-    "https://www.d1ev.com/newsflash/308596",
-    "https://www.d1ev.com/newsflash/308595",
-    "https://www.d1ev.com/newsflash/308594",
     "https://www.d1ev.com/newsflash/308593",
     "https://www.d1ev.com/newsflash/308589",
     "https://www.d1ev.com/news/qiye/308632",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/newsflash/310655",
     "https://www.d1ev.com/newsflash/310659",
     "https://www.d1ev.com/newsflash/310657",
-    "https://www.d1ev.com/newsflash/310656"
+    "https://www.d1ev.com/newsflash/310656",
+    "https://www.d1ev.com/newsflash/310667",
+    "https://www.d1ev.com/newsflash/310666",
+    "https://www.d1ev.com/newsflash/310665",
+    "https://www.d1ev.com/newsflash/310664",
+    "https://www.d1ev.com/newsflash/310660",
+    "https://www.d1ev.com/newsflash/310663",
+    "https://www.d1ev.com/newsflash/310662",
+    "https://www.d1ev.com/news/shichang/310661"
   ],
   "newsHistory": [
     {
@@ -7101,6 +7101,54 @@
       "title": "特斯拉Model Y新配件：座椅下储物托盘40美元起售，提升储物空间",
       "source": "第一电动",
       "pushedAt": 1786897016467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310667",
+      "title": "“问界M9Ultimate震撼上市！超900马力新能源SUV，64.98万起售”",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310666",
+      "title": "AI技术揭示隐私风险：社交媒体照片泄露旅行地点高达91%",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310665",
+      "title": "安徽农大发布“丰菽”2.0：AI育种新突破，大豆科研迈入智能时代",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310664",
+      "title": "Stripe豪掷70亿美元收购AI初创公司OpenRouter",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310660",
+      "title": "凯迪拉克全面拥抱NACS充电接口，2027款EscaladeIQ领衔变革",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310663",
+      "title": "DeepSeekAPI价格调整：峰谷定价今日生效，成本大降！",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310662",
+      "title": "法拉利Luce定制版拍卖4000万美元创纪录，全款捐慈善",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310661",
+      "title": "【盖世快讯】大众中国推出自研全场景辅助驾驶 ；阿维塔雍军回应争议",
+      "source": "第一电动",
+      "pushedAt": 1786928089160
     }
   ],
   "lastUpdated": "2026-08-17"
