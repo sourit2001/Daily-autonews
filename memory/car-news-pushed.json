@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308768",
-    "https://www.d1ev.com/news/qiye/308765",
-    "https://www.d1ev.com/news/qiye/308764",
-    "https://www.d1ev.com/news/qiye/308761",
-    "https://www.d1ev.com/newsflash/308760",
-    "https://www.d1ev.com/newsflash/308757",
     "https://www.d1ev.com/newsflash/308754",
     "https://www.d1ev.com/newsflash/308750",
     "https://www.d1ev.com/newsflash/308749",
@@ -1999,63 +1993,15 @@
     "https://www.d1ev.com/newsflash/310786",
     "https://www.d1ev.com/carnews/xinche/310785",
     "https://www.d1ev.com/news/shichang/310784",
-    "https://www.d1ev.com/news/shichang/310779"
+    "https://www.d1ev.com/news/shichang/310779",
+    "https://www.d1ev.com/newsflash/310796",
+    "https://www.d1ev.com/newsflash/310795",
+    "https://www.d1ev.com/newsflash/310794",
+    "https://www.d1ev.com/newsflash/310793",
+    "https://www.d1ev.com/newsflash/310797",
+    "https://www.d1ev.com/newsflash/310792"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/309897",
-      "title": "鸿蒙座舱HarmonySpace 6首发搭载奕境X9",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309891",
-      "title": "三菱ASX VR-e纯电新车亮相，第四季度登陆澳大利亚",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309896",
-      "title": "福特林肯AI助手上线，手机问车况明年语音进车内",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309895",
-      "title": "九号公司上半年营收增长22%，电动两轮车销量超1300万台",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309894",
-      "title": "中国电动车即将登陆美国市场，福特等巨头如何应对？",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309893",
-      "title": "Meta发布300亿参数AI模型MuseGlimmer，24GB显存即可流畅运行",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309892",
-      "title": "飞猪“帮帮”AI升级：一键搞定旅行预订，智能规划新体验！",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309890",
-      "title": "五菱宏光MINIEV销量暴跌，微型电动车海外热销成新突破",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309898",
-      "title": "英国宣布近1.3亿英镑资金，支持零排放汽车技术研发",
-      "source": "第一电动",
-      "pushedAt": 1786366439738
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309908",
       "title": "比亚迪方程豹钛9官图发布，6座插混动力SUV即将来袭",
@@ -7191,6 +7137,42 @@
       "title": "德国汽车行业就业人数降至20多年来最低水平",
       "source": "第一电动",
       "pushedAt": 1786969977777
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310796",
+      "title": "宇树科技8月19日科创板上市 市值超600亿引关注",
+      "source": "第一电动",
+      "pushedAt": 1786976467615
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310795",
+      "title": "吉利汽车出口目标翻倍，新能源销量激增616%！",
+      "source": "第一电动",
+      "pushedAt": 1786976467615
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310794",
+      "title": "宝马5系跌破30万！豪华车市场格局重塑新能源挑战",
+      "source": "第一电动",
+      "pushedAt": 1786976467615
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310793",
+      "title": "华为乾崑智驾：累计使用次数破亿，辅助驾驶里程超141亿公里",
+      "source": "第一电动",
+      "pushedAt": 1786976467615
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310797",
+      "title": "美法院要求重审大疆“中国军工企业”指控案",
+      "source": "第一电动",
+      "pushedAt": 1786976467615
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310792",
+      "title": "切罗基族禁建数据中心：64%居民反对，担忧能源与环境问题",
+      "source": "第一电动",
+      "pushedAt": 1786976467615
     }
   ],
   "lastUpdated": "2026-08-17"
