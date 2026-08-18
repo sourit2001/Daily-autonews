@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70467743.html",
     "https://i.gasgoo.com/news/70467742.html",
     "https://i.gasgoo.com/news/70467741.html",
     "https://i.gasgoo.com/news/70467612.html",
@@ -1999,75 +1998,10 @@
     "https://www.d1ev.com/newsflash/310936",
     "https://www.d1ev.com/newsflash/310935",
     "https://www.d1ev.com/news/qiye/310934",
-    "https://www.d1ev.com/newsflash/310931"
+    "https://www.d1ev.com/newsflash/310931",
+    "https://www.d1ev.com/newsflash/310937"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/310085",
-      "title": "雪佛兰悄然退出中国新车市场，700万车主售后保障仍将继续",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310083",
-      "title": "英伟达Nemotron4模型曝光：1万亿参数AI时代来临？",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310078",
-      "title": "不到10万元，2027款海豹06正式上市",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310075",
-      "title": "小米澎程涉水能力曝光：750mm深度应急脱困，三款桌板适配多场景",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310080",
-      "title": "英伟达联手六大金融机构 5000亿美元资本注入AI基建",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310079",
-      "title": "新能源车市逆势上扬，纯电车型占比创新高！",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310086",
-      "title": "日产研发提速40%，老牌车企向中国“速成车”取经",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310084",
-      "title": "Manus脱离Meta独立运营，用户数据迁移大动作！",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310082",
-      "title": "鸿蒙智行7月销量破4.5万，累计交付超148万台创新高",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310081",
-      "title": "19414个，宇树科技公布中签结果",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310077",
-      "title": "Seeds | 广汽孵化的机器人公司，刚完成亿元融资",
-      "source": "第一电动",
-      "pushedAt": 1786467161483
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/310089",
       "title": "加长150mm、激光雷达上车！新款比亚迪海豹06上市：9.99万",
@@ -6957,6 +6891,12 @@
       "title": "奔驰反击比亚迪，德国出租车市场争夺战升级",
       "source": "第一电动",
       "pushedAt": 1787070758003
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310937",
+      "title": "华为全栈智能加持！奕境X9旗舰SUV预售29.98万起",
+      "source": "第一电动",
+      "pushedAt": 1787077692714
     }
   ],
   "lastUpdated": "2026-08-19"
