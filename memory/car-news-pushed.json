@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70467614.html",
-    "https://i.gasgoo.com/news/70467790.html",
-    "https://i.gasgoo.com/news/70467787.html",
-    "https://i.gasgoo.com/news/70467782.html",
-    "https://i.gasgoo.com/news/70467784.html",
-    "https://i.gasgoo.com/news/70467760.html",
-    "https://i.gasgoo.com/news/70467756.html",
-    "https://i.gasgoo.com/news/70467752.html",
-    "https://i.gasgoo.com/news/70467751.html",
-    "https://i.gasgoo.com/news/70467745.html",
-    "https://i.gasgoo.com/news/70467744.html",
-    "https://i.gasgoo.com/news/70467755.html",
-    "https://i.gasgoo.com/news/70467637.html",
     "https://i.gasgoo.com/news/70467838.html",
     "https://i.gasgoo.com/news/70467793.html",
     "https://i.gasgoo.com/news/70467788.html",
@@ -1999,87 +1986,22 @@
     "https://www.d1ev.com/newsflash/310888",
     "https://www.d1ev.com/newsflash/310900",
     "https://www.d1ev.com/news/shichang/310894",
-    "https://www.d1ev.com/news/shichang/310901"
+    "https://www.d1ev.com/news/shichang/310901",
+    "https://www.d1ev.com/newsflash/310918",
+    "https://www.d1ev.com/newsflash/310917",
+    "https://www.d1ev.com/newsflash/310916",
+    "https://www.d1ev.com/newsflash/310914",
+    "https://www.d1ev.com/newsflash/310913",
+    "https://www.d1ev.com/newsflash/310908",
+    "https://www.d1ev.com/newsflash/310905",
+    "https://www.d1ev.com/newsflash/310915",
+    "https://www.d1ev.com/newsflash/310911",
+    "https://www.d1ev.com/newsflash/310910",
+    "https://www.d1ev.com/news/qiye/310909",
+    "https://www.d1ev.com/newsflash/310907",
+    "https://www.d1ev.com/newsflash/310906"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/310032",
-      "title": "“上汽大众ID.ERA5S预售开启，2000km超长续航混动家轿来袭”",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310037",
-      "title": "2026年上半年智能座舱供应商装机量排行榜：本土供应商推动AR-HUD加速普及丨盖世汽车研究院",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310034",
-      "title": "商汤科技发布轻量AI智能体，一键搞定复杂任务！",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310033",
-      "title": "字节跳动新设AI数据安全部门，王赢磊掌舵跨模态数据服务",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310031",
-      "title": "谷歌AI招聘工具竟漏筛自家人才？内部团队呼吁填写特别表格",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310028",
-      "title": "7月新能源车渗透率创新高，自主品牌占比近84%",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310039",
-      "title": "比亚迪海獭纯电K-Car日本市场首周订单破五千，颠覆日系小车市场",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310038",
-      "title": "蚂蚁百灵开源7.9B参数轻量级推理模型Ling-3.0-tiny，适配多平台部署",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310036",
-      "title": "合资突然提速？7月车市的隐性变量",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310035",
-      "title": "长城魏牌V8X运动版来袭：4.5秒破百，豪华运动双修！",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/310030",
-      "title": "近光灯亮度超标影响对向车辆 特斯拉在美召回20349辆Model 3和Model Y",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/310029",
-      "title": "7月销量榜：星愿力压Model Y夺冠 小米SU7成国产中高端第一",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310027",
-      "title": "上汽大众傅强：防锈技术普及，品牌声誉比成本更重要",
-      "source": "第一电动",
-      "pushedAt": 1786445507914
-    },
     {
       "url": "https://www.d1ev.com/newsflash/310057",
       "title": "比亚迪海豹06震撼上市！2370km续航+天神之眼激光辅助驾驶，9.99万起",
@@ -7065,6 +6987,84 @@
       "title": "走进上汽｜创新技术展示交流会圆满落幕",
       "source": "第一电动",
       "pushedAt": 1787048644194
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310918",
+      "title": "比亚迪方程豹钛7DM长续航版上市，19.58万起售，续航超1300km",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310917",
+      "title": "极氪8C渲染图曝光：千匹三电机四驱轿跑来袭",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310916",
+      "title": "“净网行动”打击网络“水军”：鸿蒙智行等车企被恶意抹黑14案例曝光",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310914",
+      "title": "沃尔玛AI出错员工忙纠正：智能体需训练，新技术落地挑战多",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310913",
+      "title": "特斯拉Robotaxi计划受阻：内华达州仅批准10辆自动驾驶车运营",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310908",
+      "title": "比亚迪方程豹钛9全球首秀，插混六座SUV纯电续航310km！",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310905",
+      "title": "华为智驾加持！星海V6首台量产车下线，10万级智能新选择",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310915",
+      "title": "吉利汽车全球布局加速：沃尔沃欧洲工厂2028年投产，出口目标上调至92万辆",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310911",
+      "title": "垣信卫星科技融资69亿创纪录，估值达500亿引18家投资者",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310910",
+      "title": "吉利全面转型混动，冲击百万销量目标！",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310909",
+      "title": "铁打的SU7 夺得20万+纯电轿车销冠！小米Q2汽车进账249亿元",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310907",
+      "title": "吉利全面转型混动，i-HEV技术超日系车企",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310906",
+      "title": "智界RX携四激光雷达来袭，8月20日开启预订！",
+      "source": "第一电动",
+      "pushedAt": 1787056622644
     }
   ],
   "lastUpdated": "2026-08-18"
