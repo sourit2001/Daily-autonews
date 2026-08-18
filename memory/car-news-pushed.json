@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308838",
-    "https://www.d1ev.com/newsflash/308826",
-    "https://www.d1ev.com/news/qiye/308825",
-    "https://www.d1ev.com/news/qiye/308824",
-    "https://www.d1ev.com/newsflash/308823",
-    "https://www.d1ev.com/newsflash/308817",
-    "https://www.d1ev.com/newsflash/308810",
     "https://www.d1ev.com/newsflash/308839",
     "https://www.d1ev.com/newsflash/308837",
     "https://www.d1ev.com/newsflash/308833",
@@ -1999,75 +1992,16 @@
     "https://www.d1ev.com/news/shichang/310850",
     "https://www.d1ev.com/newsflash/310845",
     "https://www.d1ev.com/news/shichang/310842",
-    "https://www.d1ev.com/newsflash/310840"
+    "https://www.d1ev.com/newsflash/310840",
+    "https://www.d1ev.com/carnews/xinche/310863",
+    "https://www.d1ev.com/carnews/xinche/310860",
+    "https://www.d1ev.com/newsflash/310862",
+    "https://www.d1ev.com/newsflash/310857",
+    "https://www.d1ev.com/newsflash/310861",
+    "https://www.d1ev.com/carnews/xinche/310859",
+    "https://www.d1ev.com/news/qiye/310858"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309984",
-      "title": "造型硬派 方程豹钛9官图正式发布",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309973",
-      "title": "日产NX7新能源SUV曝光：12万起售，增程混动+220km纯电续航",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309982",
-      "title": "中国汽车出口创新高：新能源车占半壁江山，共建一带一路国家成最大市场",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309980",
-      "title": "比亚迪闪充技术获国际大奖，5分钟充400公里续航创纪录",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309974",
-      "title": "美国超70%民众反对AI数据中心，禁令激增至500多个",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309972",
-      "title": "零跑欧洲本地化再进一步，劳士领获欧洲车型项目定点",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309983",
-      "title": "本田颠覆传统：外包印度塔塔开发下一代整车平台",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309981",
-      "title": "马斯克600亿美元收购Cursor，SpaceX编程工具领域再下一城",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309978",
-      "title": "索尼与台积电拟投资64亿美元，在日本合建图像传感器工厂",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309977",
-      "title": "长安启源全新Q05累计销量突破10万台",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309975",
-      "title": "保时捷帕拉梅拉降价百万以下，豪车保值体系受冲击",
-      "source": "第一电动",
-      "pushedAt": 1786424528196
-    },
     {
       "url": "https://www.d1ev.com/newsflash/309999",
       "title": "吉利银河TT即将预售，800V高压平台纯电轿车亮相",
@@ -7095,6 +7029,48 @@
       "title": "蔚来能源携手光谷交通集团，武汉首批36座充换电站交付运营",
       "source": "第一电动",
       "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310863",
+      "title": "极狐阿尔法T7将于8月26日正式开启预售",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310860",
+      "title": "下半年上市 比亚迪全新一代唐成都车展首发",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310862",
+      "title": "哈佛麻省联手打造AI智能体，模拟全球人类行为准确率达91.5%",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310857",
+      "title": "特斯拉ModelY高原无人区续航超标定，实际里程达566公里",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310861",
+      "title": "问界M9Ultimate领世加长版发布：5402mm车身+顶级内饰工艺",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310859",
+      "title": "自由搭配 MINI COOPER S车顶特别版发布",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310858",
+      "title": "李书福松开“方向盘”但没下车，钥匙交给安聪慧",
+      "source": "第一电动",
+      "pushedAt": 1787034770941
     }
   ],
   "lastUpdated": "2026-08-18"
