@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/308780",
-    "https://www.d1ev.com/newsflash/308808",
-    "https://www.d1ev.com/newsflash/308809",
-    "https://www.d1ev.com/newsflash/308803",
-    "https://www.d1ev.com/newsflash/308800",
-    "https://www.d1ev.com/news/shichang/308798",
-    "https://www.d1ev.com/news/shichang/308797",
-    "https://www.d1ev.com/news/shichang/308796",
-    "https://www.d1ev.com/news/qiye/308795",
-    "https://www.d1ev.com/newsflash/308794",
-    "https://www.d1ev.com/carnews/xinche/308791",
-    "https://www.d1ev.com/news/shichang/308787",
-    "https://www.d1ev.com/news/qiye/308786",
-    "https://www.d1ev.com/newsflash/308785",
     "https://www.d1ev.com/newsflash/308838",
     "https://www.d1ev.com/newsflash/308826",
     "https://www.d1ev.com/news/qiye/308825",
@@ -1999,183 +1985,23 @@
     "https://www.d1ev.com/newsflash/310829",
     "https://www.d1ev.com/newsflash/310817",
     "https://www.d1ev.com/carnews/xinche/310815",
-    "https://www.d1ev.com/carnews/xinche/310814"
+    "https://www.d1ev.com/carnews/xinche/310814",
+    "https://www.d1ev.com/newsflash/310848",
+    "https://www.d1ev.com/newsflash/310853",
+    "https://www.d1ev.com/news/shichang/310852",
+    "https://www.d1ev.com/newsflash/310849",
+    "https://www.d1ev.com/news/shichang/310847",
+    "https://www.d1ev.com/newsflash/310841",
+    "https://www.d1ev.com/news/shichang/310856",
+    "https://www.d1ev.com/news/shichang/310855",
+    "https://www.d1ev.com/news/shichang/310854",
+    "https://www.d1ev.com/news/shichang/310851",
+    "https://www.d1ev.com/news/shichang/310850",
+    "https://www.d1ev.com/newsflash/310845",
+    "https://www.d1ev.com/news/shichang/310842",
+    "https://www.d1ev.com/newsflash/310840"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/309964",
-      "title": "北汽集团完成第4000万辆新车交付",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309959",
-      "title": "瑞萨电子-R-Car X5H SoC | 申报2026第八届金辑奖最佳技术实践应用奖",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309958",
-      "title": "睿创微纳-车规级热成像模组 Horus640-D | 申报2026第八届金辑奖最佳技术实践应用奖",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309957",
-      "title": "导远科技-高精度定位模组 | 申报2026第八届金辑奖中国汽车新供应链百强",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309955",
-      "title": "奔驰AMG GT SUV曝光：1500马力纯电怪兽，2027年亮相！",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309954",
-      "title": "全尺寸SUV新旗舰！方程豹钛9沙漠金棕配色亮相，310km纯电续航",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309952",
-      "title": "搭载三电机 全新AMG纯电SUV预告图曝光",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309950",
-      "title": "爱芯元智-面向全球辅助驾驶市场的车载芯片——M57系列 | 申报2026第八届金辑奖中国汽车新供应链百强",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309946",
-      "title": "采用连屏设计 新款智界R7内饰谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309945",
-      "title": "辅助驾驶升级 山海L7 PLUS新车8月18日上市",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309944",
-      "title": "智界RX闪蝶蓝官图发布 灵感来自华为手机",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309940",
-      "title": "全球仅20台 宝马M3四十周年限量版将上市",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309969",
-      "title": "腾势Z9GT硬核品质：重撞后车门仍正常开，续航超千公里！",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309966",
-      "title": "小马智行全球自动驾驶里程突破1亿公里",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309962",
-      "title": "新能源车尺寸激增引停车难，政策约束亟待出台",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309961",
-      "title": "AI模型价格战升级：Anthropic取消涨价，Sonnet5维持优惠价",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309960",
-      "title": "AI DeepSeek被指“偷偷取外号”？官方回应：仅为上下文占位符",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309942",
-      "title": "要是不造电动车，本田赢麻了",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309941",
-      "title": "宁德时代宁家服务全球扩张，百城签约开启全场景服务新时代",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309971",
-      "title": "特斯拉Roadster量产再跳票？2027年见？",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309970",
-      "title": "曝安靠科技考虑出售中国业务股权",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309968",
-      "title": "Seeds | 潜界科技完成数亿元种子轮融资",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309967",
-      "title": "Seeds | 两个月连融两轮，蚂蚁集团押注戴盟机器人“触觉智能”",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/309965",
-      "title": "鸿蒙智行首款FUV 智界RX设计亮点揭秘：10处真风道御风而行",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/309951",
-      "title": "马恒达Scorpio-N推新款升级版 新增多项配置",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309948",
-      "title": "特斯拉Roadster量产再跳票？“很快”成新笑话",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309947",
-      "title": "宇树科技科创板申购中签率仅0.018% 江波龙上半年净利暴增7万倍",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/309943",
-      "title": "具身机器人落地战，为何始于仓库？",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/309939",
-      "title": "小米汽车座椅新选择：零重力or旋转座椅，你的出行新伴侣",
-      "source": "第一电动",
-      "pushedAt": 1786419822012
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/309984",
       "title": "造型硬派 方程豹钛9官图正式发布",
@@ -7185,6 +7011,90 @@
       "title": "特斯拉计划演示新一代Roadster悬浮能力",
       "source": "第一电动",
       "pushedAt": 1787021836411
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310848",
+      "title": "比亚迪腾势N8亮相：1003km超长续航，5分钟闪充，大五座纯电新选择",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310853",
+      "title": "7月中国汽车出口破百万，新能源车占比超半数激增1.5倍",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310852",
+      "title": "提雅智行开源L4级自动驾驶芯片",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310849",
+      "title": "奔驰YASA获英国政府拨款，启动“韧性计划”减少电动车稀土依赖",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310847",
+      "title": "华为乾崑智驾车位到车位累计使用次数突破1亿次",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310841",
+      "title": "福特林肯航海家将撤出中国，2030年回归美国生产",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310856",
+      "title": "福特申请自动内饰组件调节系统专利",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310855",
+      "title": "通用汽车申请有色挡风玻璃专利",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310854",
+      "title": "英国考虑放宽2030年零排放汽车目标",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310851",
+      "title": "新加坡研究人员发明悬浮旋转装置 可以在GPS信号不佳时辅助导航",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310850",
+      "title": "谁把“方盒子”困在了城市里？",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310845",
+      "title": "比亚迪车顶扛大树，车主安然无恙再选比亚迪",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310842",
+      "title": "零跑汽车进入阿根廷市场，借助Stellantis网络布局销售与售后",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310840",
+      "title": "蔚来能源携手光谷交通集团，武汉首批36座充换电站交付运营",
+      "source": "第一电动",
+      "pushedAt": 1787027593933
     }
   ],
   "lastUpdated": "2026-08-18"
