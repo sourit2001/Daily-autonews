@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70468341.html",
-    "https://i.gasgoo.com/news/70468342.html",
     "https://i.gasgoo.com/news/70468134.html",
     "https://www.d1ev.com/news/shichang/308950",
     "https://www.d1ev.com/newsflash/308948",
@@ -1999,57 +1997,11 @@
     "https://www.d1ev.com/news/shichang/311086",
     "https://www.d1ev.com/newsflash/311083",
     "https://www.d1ev.com/newsflash/311078",
-    "https://www.d1ev.com/newsflash/311084"
+    "https://www.d1ev.com/newsflash/311084",
+    "https://www.d1ev.com/newsflash/311088",
+    "https://www.d1ev.com/newsflash/311087"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/310237",
-      "title": "成都车展首秀！享界V8纯电增程MPV亮相，尺寸超5米3轴距3250mm",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310243",
-      "title": "Grok4.6震撼发布：AI编程新高度，智能体任务处理能力飞跃",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310241",
-      "title": "阿里云Qwen3.8-2.4T模型开源，AI编程办公新突破",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310239",
-      "title": "2030年绿电将占中国AI算力用电量近6万亿度",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310238",
-      "title": "网约车司机被坑！极狐延保服务藏猫腻，电池衰减不赔",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310236",
-      "title": "中国领跑全球自动驾驶：Robotaxi订单超1700万单，5G覆盖率达96%",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310242",
-      "title": "DeepSeekV4Pro震撼发布：性能飞跃，价格亲民！",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310240",
-      "title": "五菱星光730销量破4万，成自主品牌MPV销量冠军",
-      "source": "第一电动",
-      "pushedAt": 1786553727757
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/310261",
       "title": "超绝跨界 智己L6 Jimmy Choo高定版官图曝光",
@@ -6891,6 +6843,18 @@
       "title": "亚马逊Fire TV全面升级：免费享Alexa+智能功能，无需Prime会员",
       "source": "第一电动",
       "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311088",
+      "title": "特斯拉无人驾驶Robotaxi撞穿隔离柱，决策逻辑引热议",
+      "source": "第一电动",
+      "pushedAt": 1787163866799
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311087",
+      "title": "特斯拉无人驾驶Robotaxi撞穿隔离柱，安全性能受质疑",
+      "source": "第一电动",
+      "pushedAt": 1787163866799
     }
   ],
   "lastUpdated": "2026-08-20"
