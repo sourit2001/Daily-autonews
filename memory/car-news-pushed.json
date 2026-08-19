@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70467742.html",
-    "https://i.gasgoo.com/news/70467741.html",
-    "https://i.gasgoo.com/news/70467612.html",
-    "https://i.gasgoo.com/news/70467823.html",
-    "https://i.gasgoo.com/news/70467664.html",
-    "https://i.gasgoo.com/news/70467791.html",
-    "https://i.gasgoo.com/news/70467822.html",
-    "https://i.gasgoo.com/news/70467925.html",
-    "https://i.gasgoo.com/news/70467924.html",
-    "https://i.gasgoo.com/news/70467923.html",
-    "https://i.gasgoo.com/news/70467922.html",
-    "https://i.gasgoo.com/news/70467921.html",
-    "https://i.gasgoo.com/news/70467918.html",
     "https://i.gasgoo.com/news/70467917.html",
     "https://i.gasgoo.com/news/70467916.html",
     "https://i.gasgoo.com/news/70467816.html",
@@ -1999,21 +1986,22 @@
     "https://www.d1ev.com/newsflash/310935",
     "https://www.d1ev.com/news/qiye/310934",
     "https://www.d1ev.com/newsflash/310931",
-    "https://www.d1ev.com/newsflash/310937"
+    "https://www.d1ev.com/newsflash/310937",
+    "https://www.d1ev.com/carnews/xinche/310943",
+    "https://www.d1ev.com/newsflash/310948",
+    "https://www.d1ev.com/newsflash/310944",
+    "https://www.d1ev.com/news/shichang/310950",
+    "https://www.d1ev.com/newsflash/310949",
+    "https://www.d1ev.com/newsflash/310947",
+    "https://www.d1ev.com/newsflash/310946",
+    "https://www.d1ev.com/newsflash/310945",
+    "https://www.d1ev.com/news/shichang/310942",
+    "https://www.d1ev.com/news/qiye/310941",
+    "https://www.d1ev.com/news/qiye/310940",
+    "https://www.d1ev.com/news/qiye/310939",
+    "https://www.d1ev.com/newsflash/310938"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/310089",
-      "title": "加长150mm、激光雷达上车！新款比亚迪海豹06上市：9.99万",
-      "source": "第一电动",
-      "pushedAt": 1786474433474
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310088",
-      "title": "6旬车手挑战氢动力速度纪录，JCBHydromax盐滩竞速突破音障",
-      "source": "第一电动",
-      "pushedAt": 1786474433474
-    },
     {
       "url": "https://www.d1ev.com/newsflash/310108",
       "title": "捷豹Type01EV内饰曝光，极简风引领新英伦豪华",
@@ -6897,6 +6885,84 @@
       "title": "华为全栈智能加持！奕境X9旗舰SUV预售29.98万起",
       "source": "第一电动",
       "pushedAt": 1787077692714
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/310943",
+      "title": "零百加速2.8s赛道利器 迈凯伦788HS新车图解",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310948",
+      "title": "OpenAI强化AI安全监控：30分钟内识别可疑行为",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310944",
+      "title": "挡风玻璃现虚拟司机！Stellantis新专利缓解自动驾驶焦虑",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310950",
+      "title": "零碳叙事，“宁王”新利器来了",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310949",
+      "title": "京港澳高速惊魂一幕：司机沉迷手机游戏引发事故，无证驾驶被罚1200元",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310947",
+      "title": "特斯拉车主自改HW3至HW4：硬件升级并非难事，马斯克承诺何时兑现？",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310946",
+      "title": "奇瑞神行者8官网抄袭蔚来ES8？宣传图文案高度雷同引热议",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310945",
+      "title": "小米汽车澎程系列：一控多用，车家互联新体验",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/310942",
+      "title": "瑶芯微电子功率器件完整产品矩阵，赋能新一代ZCU全域场景",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310941",
+      "title": "逆势“稳基”，捷豹路虎做对了什么？",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310940",
+      "title": "【盖世快讯】零跑汽车进入阿根廷市场；曝Model S/X 停产后，特斯拉拍卖过剩零部件",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/310939",
+      "title": "当车企给车展“算账” | 写在去成都的路上",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/310938",
+      "title": "百度二季度营收313亿 同比下滑4% 广告业务大幅下降",
+      "source": "第一电动",
+      "pushedAt": 1787100910878
     }
   ],
   "lastUpdated": "2026-08-19"
