@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70468260.html",
-    "https://i.gasgoo.com/news/70468148.html",
-    "https://i.gasgoo.com/news/70468146.html",
-    "https://i.gasgoo.com/news/70468270.html",
-    "https://i.gasgoo.com/news/70468266.html",
-    "https://i.gasgoo.com/news/70468271.html",
-    "https://i.gasgoo.com/news/70468269.html",
-    "https://i.gasgoo.com/news/70468268.html",
-    "https://i.gasgoo.com/news/70468265.html",
-    "https://i.gasgoo.com/news/70468284.html",
     "https://i.gasgoo.com/news/70468283.html",
     "https://i.gasgoo.com/news/70468308.html",
     "https://i.gasgoo.com/news/70468310.html",
@@ -1999,135 +1989,19 @@
     "https://www.d1ev.com/newsflash/311056",
     "https://www.d1ev.com/news/shichang/311054",
     "https://www.d1ev.com/newsflash/311053",
-    "https://www.d1ev.com/newsflash/311052"
+    "https://www.d1ev.com/newsflash/311052",
+    "https://www.d1ev.com/news/qiye/311075",
+    "https://www.d1ev.com/carnews/xinche/311072",
+    "https://www.d1ev.com/newsflash/311071",
+    "https://www.d1ev.com/newsflash/311070",
+    "https://www.d1ev.com/carnews/xinche/311069",
+    "https://www.d1ev.com/newsflash/311068",
+    "https://www.d1ev.com/newsflash/311076",
+    "https://www.d1ev.com/newsflash/311074",
+    "https://www.d1ev.com/newsflash/311073",
+    "https://www.d1ev.com/newsflash/311067"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/310227",
-      "title": "吉利银河TT全球预售开启，C级纯电运动轿车新标杆",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310225",
-      "title": "智己L6携手Jimmy Choo打造高定限量版，8月18日亮相",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310221",
-      "title": "奇瑞风云T7预售开启，10.99万起纯电SUV续航600km挑战同级竞品",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/310218",
-      "title": "奇瑞风云T7开启预售 预售价10.99-12.99万",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310216",
-      "title": "莲花ELETRE和EMEYA900GOLD开启预售，性能猛兽来袭！",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310214",
-      "title": "吉利银河战舰700硬派SUV，强悍动力+智能四驱，四季度上市！",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310213",
-      "title": "奇瑞风云T7预售开启：600km续航+高通芯片，10.99万起！",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310211",
-      "title": "极狐阿尔法T7成都车展首发！20万级轿跑SUV搭载华为智驾系统",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310210",
-      "title": "周仰杰大师操刀！智己L6高定限量版8月18日亮相",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310229",
-      "title": "长江存储市占率突破：AI转移推高企业级SSD需求，行业营收创历史新高",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310226",
-      "title": "AI办公新突破！金山灵犀专业版实现任务全流程自动化",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310224",
-      "title": "极狐阿尔法T7成都车展首秀：华为智驾+宁德电池，1.1米P-HUD革新体验",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310220",
-      "title": "印度电动车能效超特斯拉比亚迪，塔塔马恒达领跑全球榜单",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310219",
-      "title": "比亚迪突破自动驾驶技术，HyWorldVLA刷新历史最佳成绩",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310215",
-      "title": "比亚迪AI技术突破：自动驾驶模型HyWorldVLA刷新记录",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310212",
-      "title": "腾讯二季度利润增速放缓，AI投入成主因",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310209",
-      "title": "7月中国汽车出口破百万，新能源车占比超五成创新高",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310223",
-      "title": "文远知行Q2营收2.3亿元，海外收入大增164%",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/310222",
-      "title": "蔚来武汉换电站资产全面转由国资持有",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/310217",
-      "title": "再见，“金领结”",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/310208",
-      "title": "小米SU7 Ultra纽北圈速纪录被传代打 博主致歉：过度解读了",
-      "source": "第一电动",
-      "pushedAt": 1786539544143
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/310234",
       "title": "全球唯一满配主动空力套件！莲花跑车双车预售：91.8万起",
@@ -6933,6 +6807,66 @@
       "title": "赛力斯半年报亮眼：问界销量增10.2%，M9成50万级销冠",
       "source": "第一电动",
       "pushedAt": 1787142896756
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311075",
+      "title": "埃安Ray7亮相，首搭华为DriveONE芯片级驱制融合",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311072",
+      "title": "搭载华为DriveONE电驱 埃安Ray7新车亮相",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311071",
+      "title": "捷途山海L7PLUS上市：1.5T插混动力，32.66kWh电池，220km纯电续航！",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311070",
+      "title": "广汽埃安Ray7亮相：超高颜值纯电轿车搭载华为技术",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311069",
+      "title": "2027款捷途山海L7 PLUS上市 售11.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311068",
+      "title": "广汽埃安Ray7亮相：华为技术加持，超高颜值纯电轿车来袭",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311076",
+      "title": "英国Voltempo研发15.6米无驾驶室电动重卡 2028年交付",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311074",
+      "title": "特斯拉中国车机升级：AI语音助手更自然对话体验",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311073",
+      "title": "AI教母李飞飞：美国需积极引领全球AI发展，避免全球风险",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311067",
+      "title": "全球首台新能源飘移赛车诞生！极氪007助力15名学员获B级赛车执照",
+      "source": "第一电动",
+      "pushedAt": 1787149744378
     }
   ],
   "lastUpdated": "2026-08-19"
