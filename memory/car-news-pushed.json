@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70468283.html",
-    "https://i.gasgoo.com/news/70468308.html",
-    "https://i.gasgoo.com/news/70468310.html",
-    "https://i.gasgoo.com/news/70468309.html",
-    "https://i.gasgoo.com/news/70468313.html",
-    "https://i.gasgoo.com/news/70468311.html",
-    "https://i.gasgoo.com/news/70468307.html",
-    "https://i.gasgoo.com/news/70468274.html",
-    "https://i.gasgoo.com/news/70468279.html",
-    "https://i.gasgoo.com/news/70468281.html",
     "https://i.gasgoo.com/news/70468341.html",
     "https://i.gasgoo.com/news/70468342.html",
     "https://i.gasgoo.com/news/70468134.html",
@@ -1999,45 +1989,19 @@
     "https://www.d1ev.com/newsflash/311076",
     "https://www.d1ev.com/newsflash/311074",
     "https://www.d1ev.com/newsflash/311073",
-    "https://www.d1ev.com/newsflash/311067"
+    "https://www.d1ev.com/newsflash/311067",
+    "https://www.d1ev.com/newsflash/311082",
+    "https://www.d1ev.com/newsflash/311081",
+    "https://www.d1ev.com/newsflash/311080",
+    "https://www.d1ev.com/newsflash/311079",
+    "https://www.d1ev.com/news/qiye/311077",
+    "https://www.d1ev.com/newsflash/311085",
+    "https://www.d1ev.com/news/shichang/311086",
+    "https://www.d1ev.com/newsflash/311083",
+    "https://www.d1ev.com/newsflash/311078",
+    "https://www.d1ev.com/newsflash/311084"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/310234",
-      "title": "全球唯一满配主动空力套件！莲花跑车双车预售：91.8万起",
-      "source": "第一电动",
-      "pushedAt": 1786546597540
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/310232",
-      "title": "风云T7开启预售，3款版型10.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1786546597540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310235",
-      "title": "BBA营收连跌，新能源时代豪华车市场格局生变",
-      "source": "第一电动",
-      "pushedAt": 1786546597540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310233",
-      "title": "马斯克预言：SpaceX AI业务将占99%价值，未来数千亿收入可期",
-      "source": "第一电动",
-      "pushedAt": 1786546597540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310230",
-      "title": "奇瑞风云T7：四年磨一剑，全球纯电SUV的“慢工细活”",
-      "source": "第一电动",
-      "pushedAt": 1786546597540
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/310231",
-      "title": "五菱星光730大七座MPV销量夺冠，1-7月累计销量超4万台",
-      "source": "第一电动",
-      "pushedAt": 1786546597540
-    },
     {
       "url": "https://www.d1ev.com/newsflash/310237",
       "title": "成都车展首秀！享界V8纯电增程MPV亮相，尺寸超5米3轴距3250mm",
@@ -6867,7 +6831,67 @@
       "title": "全球首台新能源飘移赛车诞生！极氪007助力15名学员获B级赛车执照",
       "source": "第一电动",
       "pushedAt": 1787149744378
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311082",
+      "title": "华为赛力斯联名儿童车“问界M0.9”15800元预定开启，儿童电动车新高度？",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311081",
+      "title": "广汽传祺S9升级：华为智驾加持，新增泊车避让功能",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311080",
+      "title": "5万元燃油车市场萎缩，新能源汽车销量占比突破60%",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311079",
+      "title": "美国年轻人对AI信任危机：担忧技术进步引发岗位流失",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311077",
+      "title": "固态电池车充电10分钟续航1500公里？万钢：那是美好的想象",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311085",
+      "title": "东南大学联手天合光能，钙钛矿三结太阳电池效率突破32%！",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311086",
+      "title": "2026 WRC｜方圆6公里酒店价格暴涨：一台机器人的“吸金”能力有多可怕？",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311083",
+      "title": "智界RX智能座椅革新：98传感器27气袋，打造“驾控黄金位”",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311078",
+      "title": "鸿蒙智行问界儿童车开启预订：售价15800元，外观酷似M9",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311084",
+      "title": "亚马逊Fire TV全面升级：免费享Alexa+智能功能，无需Prime会员",
+      "source": "第一电动",
+      "pushedAt": 1787156630090
     }
   ],
-  "lastUpdated": "2026-08-19"
+  "lastUpdated": "2026-08-20"
 }
