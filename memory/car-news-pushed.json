@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://i.gasgoo.com/news/70468134.html",
-    "https://www.d1ev.com/news/shichang/308950",
-    "https://www.d1ev.com/newsflash/308948",
-    "https://www.d1ev.com/newsflash/308941",
-    "https://www.d1ev.com/newsflash/308940",
-    "https://www.d1ev.com/newsflash/308938",
-    "https://www.d1ev.com/newsflash/308913",
-    "https://www.d1ev.com/newsflash/308912",
-    "https://www.d1ev.com/newsflash/308952",
-    "https://www.d1ev.com/newsflash/308947",
-    "https://www.d1ev.com/newsflash/308946",
     "https://www.d1ev.com/newsflash/308944",
     "https://www.d1ev.com/newsflash/308943",
     "https://www.d1ev.com/newsflash/308942",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/311078",
     "https://www.d1ev.com/newsflash/311084",
     "https://www.d1ev.com/newsflash/311088",
-    "https://www.d1ev.com/newsflash/311087"
+    "https://www.d1ev.com/newsflash/311087",
+    "https://www.d1ev.com/newsflash/311098",
+    "https://www.d1ev.com/news/qiye/311097",
+    "https://www.d1ev.com/carnews/xinche/311095",
+    "https://www.d1ev.com/newsflash/311092",
+    "https://www.d1ev.com/newsflash/311099",
+    "https://www.d1ev.com/newsflash/311096",
+    "https://www.d1ev.com/newsflash/311091",
+    "https://www.d1ev.com/newsflash/311089",
+    "https://www.d1ev.com/news/shichang/311094",
+    "https://www.d1ev.com/newsflash/311093",
+    "https://www.d1ev.com/newsflash/311090"
   ],
   "newsHistory": [
     {
@@ -6855,6 +6855,72 @@
       "title": "特斯拉无人驾驶Robotaxi撞穿隔离柱，安全性能受质疑",
       "source": "第一电动",
       "pushedAt": 1787163866799
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311098",
+      "title": "广汽埃安RAY7亮相：华为电机加持，700km续航新标杆",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311097",
+      "title": "用上华为全新电渠百公里9.7度电 广汽埃安RAY7官图发布",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311095",
+      "title": "入门纯电SUV新品 大众ID.Cross新车图解",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311092",
+      "title": "长江存储IPO辅导验收通过，上市进程加速",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311099",
+      "title": "宇树科技科创板首秀股价飙升629%，AI耳机韶音OpenFit2AI强势登场",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311096",
+      "title": "OpenAI推出“零数据留存”服务，保护用户隐私安全升级",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311091",
+      "title": "岚图追光S挑战360°隧道穿越，AI造假争议引发车圈热议",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311089",
+      "title": "MetaAI Mac版上线！助力企业与创作者效率升级",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311094",
+      "title": "【盖世快讯】保时捷回应2030年前停产Taycan；通用汽车向维修机构发布新规",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311093",
+      "title": "快手二季度营收增速放缓，广告直播收入双降",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311090",
+      "title": "小米汽车N70：一键变床，露营午休新体验！",
+      "source": "第一电动",
+      "pushedAt": 1787187180296
     }
   ],
   "lastUpdated": "2026-08-20"
