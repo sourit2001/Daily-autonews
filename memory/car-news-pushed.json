@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309136",
-    "https://www.d1ev.com/news/shichang/309129",
-    "https://www.d1ev.com/newsflash/309126",
-    "https://www.d1ev.com/newsflash/309123",
-    "https://www.d1ev.com/newsflash/309116",
-    "https://www.d1ev.com/newsflash/309124",
-    "https://www.d1ev.com/news/shichang/309117",
-    "https://www.d1ev.com/carnews/xinche/309138",
-    "https://www.d1ev.com/newsflash/309134",
     "https://www.d1ev.com/carnews/xinche/309132",
     "https://www.d1ev.com/carnews/xinche/309131",
     "https://www.d1ev.com/newsflash/309130",
@@ -1999,69 +1990,18 @@
     "https://www.d1ev.com/newsflash/311375",
     "https://www.d1ev.com/news/shichang/311374",
     "https://www.d1ev.com/newsflash/311371",
-    "https://www.d1ev.com/news/shichang/311370"
+    "https://www.d1ev.com/news/shichang/311370",
+    "https://www.d1ev.com/newsflash/311397",
+    "https://www.d1ev.com/newsflash/311395",
+    "https://www.d1ev.com/newsflash/311394",
+    "https://www.d1ev.com/newsflash/311393",
+    "https://www.d1ev.com/newsflash/311392",
+    "https://www.d1ev.com/newsflash/311390",
+    "https://www.d1ev.com/newsflash/311398",
+    "https://www.d1ev.com/newsflash/311391",
+    "https://www.d1ev.com/news/shichang/311396"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/311075",
-      "title": "埃安Ray7亮相，首搭华为DriveONE芯片级驱制融合",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/311072",
-      "title": "搭载华为DriveONE电驱 埃安Ray7新车亮相",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311071",
-      "title": "捷途山海L7PLUS上市：1.5T插混动力，32.66kWh电池，220km纯电续航！",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311070",
-      "title": "广汽埃安Ray7亮相：超高颜值纯电轿车搭载华为技术",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/311069",
-      "title": "2027款捷途山海L7 PLUS上市 售11.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311068",
-      "title": "广汽埃安Ray7亮相：华为技术加持，超高颜值纯电轿车来袭",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311076",
-      "title": "英国Voltempo研发15.6米无驾驶室电动重卡 2028年交付",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311074",
-      "title": "特斯拉中国车机升级：AI语音助手更自然对话体验",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311073",
-      "title": "AI教母李飞飞：美国需积极引领全球AI发展，避免全球风险",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311067",
-      "title": "全球首台新能源飘移赛车诞生！极氪007助力15名学员获B级赛车执照",
-      "source": "第一电动",
-      "pushedAt": 1787149744378
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311082",
       "title": "华为赛力斯联名儿童车“问界M0.9”15800元预定开启，儿童电动车新高度？",
@@ -3411,6 +3351,60 @@
       "title": "从641万到1200万：中国汽车将跨越关口",
       "source": "第一电动",
       "pushedAt": 1787748579177
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311397",
+      "title": "极狐阿尔法T7预售开启！13.78万起，智能轿跑SUV新选择",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311395",
+      "title": "尚界Z7系列销量激增，新版本Allroad下半年亮相成都车展",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311394",
+      "title": "比亚迪五大品牌原创设计亮相，何志奇预言小轴距车型将消失",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311393",
+      "title": "奇瑞风云T7纯电SUV上市，续航600km起售9.49万！",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311392",
+      "title": "智己LS6新内饰曝光：取消方向盘，迈向L5自动驾驶时代！",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311390",
+      "title": "理想汽车二季度营收增长11.7%，9月两款纯电新车上市",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311398",
+      "title": "MiniMax M3Pro参数大升级，国产芯片适配加速，业绩翻三倍！",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311391",
+      "title": "阿里通义发布Qwen3.8-Flash：125B参数多模态AI模型开源",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311396",
+      "title": "欣旺达2026半年报：动储放量驱动营收创新高，同比增长41.48%",
+      "source": "第一电动",
+      "pushedAt": 1787755122467
     }
   ],
   "lastUpdated": "2026-08-26"
