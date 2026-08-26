@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/309158",
     "https://www.d1ev.com/newsflash/309153",
     "https://www.d1ev.com/newsflash/309152",
     "https://www.d1ev.com/newsflash/309151",
@@ -1999,21 +1998,10 @@
     "https://www.d1ev.com/newsflash/311404",
     "https://www.d1ev.com/news/shichang/311411",
     "https://www.d1ev.com/newsflash/311407",
-    "https://www.d1ev.com/newsflash/311401"
+    "https://www.d1ev.com/newsflash/311401",
+    "https://www.d1ev.com/newsflash/311414"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/311088",
-      "title": "特斯拉无人驾驶Robotaxi撞穿隔离柱，决策逻辑引热议",
-      "source": "第一电动",
-      "pushedAt": 1787163866799
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311087",
-      "title": "特斯拉无人驾驶Robotaxi撞穿隔离柱，安全性能受质疑",
-      "source": "第一电动",
-      "pushedAt": 1787163866799
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311098",
       "title": "广汽埃安RAY7亮相：华为电机加持，700km续航新标杆",
@@ -3435,6 +3423,12 @@
       "title": "巴西重罚TikTok两亿！字节跳动因未成年人数据违规遭严惩",
       "source": "第一电动",
       "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311414",
+      "title": "奇瑞风云T7震撼上市，9.49万起享600km续航新体验",
+      "source": "第一电动",
+      "pushedAt": 1787773258144
     }
   ],
   "lastUpdated": "2026-08-27"
