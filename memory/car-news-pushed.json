@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/309132",
-    "https://www.d1ev.com/carnews/xinche/309131",
-    "https://www.d1ev.com/newsflash/309130",
-    "https://www.d1ev.com/news/qiye/309128",
-    "https://www.d1ev.com/news/qiye/309127",
-    "https://www.d1ev.com/newsflash/309125",
-    "https://www.d1ev.com/news/shichang/309122",
-    "https://www.d1ev.com/news/qiye/309121",
-    "https://www.d1ev.com/newsflash/309120",
-    "https://www.d1ev.com/newsflash/309119",
-    "https://www.d1ev.com/newsflash/309118",
-    "https://www.d1ev.com/news/shichang/309114",
-    "https://www.d1ev.com/news/shichang/309113",
-    "https://www.d1ev.com/newsflash/309169",
-    "https://www.d1ev.com/newsflash/309168",
     "https://www.d1ev.com/news/qiye/309158",
     "https://www.d1ev.com/newsflash/309153",
     "https://www.d1ev.com/newsflash/309152",
@@ -1999,69 +1984,24 @@
     "https://www.d1ev.com/newsflash/311390",
     "https://www.d1ev.com/newsflash/311398",
     "https://www.d1ev.com/newsflash/311391",
-    "https://www.d1ev.com/news/shichang/311396"
+    "https://www.d1ev.com/news/shichang/311396",
+    "https://www.d1ev.com/news/qiye/311410",
+    "https://www.d1ev.com/newsflash/311409",
+    "https://www.d1ev.com/news/shichang/311412",
+    "https://www.d1ev.com/newsflash/311405",
+    "https://www.d1ev.com/newsflash/311403",
+    "https://www.d1ev.com/carnews/xinche/311402",
+    "https://www.d1ev.com/newsflash/311400",
+    "https://www.d1ev.com/newsflash/311399",
+    "https://www.d1ev.com/newsflash/311413",
+    "https://www.d1ev.com/newsflash/311408",
+    "https://www.d1ev.com/newsflash/311406",
+    "https://www.d1ev.com/newsflash/311404",
+    "https://www.d1ev.com/news/shichang/311411",
+    "https://www.d1ev.com/newsflash/311407",
+    "https://www.d1ev.com/newsflash/311401"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/311082",
-      "title": "华为赛力斯联名儿童车“问界M0.9”15800元预定开启，儿童电动车新高度？",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311081",
-      "title": "广汽传祺S9升级：华为智驾加持，新增泊车避让功能",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311080",
-      "title": "5万元燃油车市场萎缩，新能源汽车销量占比突破60%",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311079",
-      "title": "美国年轻人对AI信任危机：担忧技术进步引发岗位流失",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/311077",
-      "title": "固态电池车充电10分钟续航1500公里？万钢：那是美好的想象",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311085",
-      "title": "东南大学联手天合光能，钙钛矿三结太阳电池效率突破32%！",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311086",
-      "title": "2026 WRC｜方圆6公里酒店价格暴涨：一台机器人的“吸金”能力有多可怕？",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311083",
-      "title": "智界RX智能座椅革新：98传感器27气袋，打造“驾控黄金位”",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311078",
-      "title": "鸿蒙智行问界儿童车开启预订：售价15800元，外观酷似M9",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311084",
-      "title": "亚马逊Fire TV全面升级：免费享Alexa+智能功能，无需Prime会员",
-      "source": "第一电动",
-      "pushedAt": 1787156630090
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311088",
       "title": "特斯拉无人驾驶Robotaxi撞穿隔离柱，决策逻辑引热议",
@@ -3405,7 +3345,97 @@
       "title": "欣旺达2026半年报：动储放量驱动营收创新高，同比增长41.48%",
       "source": "第一电动",
       "pushedAt": 1787755122467
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311410",
+      "title": "搭载华为舱内激光雷达，极狐阿尔法T7预售价13.78万起",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311409",
+      "title": "滴滴无人出租车RobotaxiR2亮相北京国际交通展，全球服务用户超1亿",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311412",
+      "title": "极狐阿尔法T7预售补贴价13.78万起，阿里千问、豆包智能体双AI上车",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311405",
+      "title": "奇瑞风云T7纯电SUV今晚上市，9.79万起售，600km续航快充20分钟！",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311403",
+      "title": "极狐阿尔法T7预售两小时破万，华为智驾+宁德时代电池加持！",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311402",
+      "title": "奇瑞风云T7正式上市 售价9.79-11.89万元",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311400",
+      "title": "领克20新车型曝光：白紫内饰+800V高压平台，第三季度上市",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311399",
+      "title": "智己LS6“陆上A320”官图发布，9月亮相家庭SUV新标杆",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311413",
+      "title": "量子智驾革命：两轮电动车明年迎技术飞跃",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311408",
+      "title": "Waymo自动驾驶网约车进军德国慕尼黑，明年启动商业服务",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311406",
+      "title": "莲花科技全资控股英国莲花，电动化战略加速推进",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311404",
+      "title": "国产AI新突破！智谱320B参数多模态模型开源，性能超GLM-5.2",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311411",
+      "title": "9.79万起，风云T7想把“全球标准”做成标配",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311407",
+      "title": "沃尔沃新功能：100万辆车联网预警，护航道路安全",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311401",
+      "title": "巴西重罚TikTok两亿！字节跳动因未成年人数据违规遭严惩",
+      "source": "第一电动",
+      "pushedAt": 1787762646935
     }
   ],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-08-27"
 }
