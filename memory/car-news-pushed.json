@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309549",
-    "https://www.d1ev.com/news/shichang/309547",
     "https://www.d1ev.com/news/shichang/309546",
     "https://www.d1ev.com/newsflash/309544",
     "https://www.d1ev.com/news/shichang/309542",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/newsflash/311785",
     "https://www.d1ev.com/newsflash/311781",
     "https://www.d1ev.com/newsflash/311779",
-    "https://www.d1ev.com/newsflash/311777"
+    "https://www.d1ev.com/newsflash/311777",
+    "https://www.d1ev.com/newsflash/311794",
+    "https://www.d1ev.com/newsflash/311793"
   ],
   "newsHistory": [
     {
@@ -4581,7 +4581,19 @@
       "title": "丰田2027年上海投产雷克萨斯纯电SUV，首年月产1000辆",
       "source": "第一电动",
       "pushedAt": 1788015259896
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311794",
+      "title": "普京盛赞中俄合作新车型：伏尔加K50操控超预期，本土汽车产业升级加速",
+      "source": "第一电动",
+      "pushedAt": 1788030260755
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311793",
+      "title": "韩国推全民免费AI服务：预约医疗、找房、税务一站搞定",
+      "source": "第一电动",
+      "pushedAt": 1788030260755
     }
   ],
-  "lastUpdated": "2026-08-29"
+  "lastUpdated": "2026-08-30"
 }
