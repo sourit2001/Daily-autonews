@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309559",
-    "https://www.d1ev.com/newsflash/309558",
-    "https://www.d1ev.com/newsflash/309582",
-    "https://www.d1ev.com/newsflash/309576",
-    "https://www.d1ev.com/newsflash/309574",
-    "https://www.d1ev.com/news/qiye/309570",
-    "https://www.d1ev.com/newsflash/309568",
-    "https://www.d1ev.com/newsflash/309562",
-    "https://www.d1ev.com/newsflash/309561",
-    "https://www.d1ev.com/news/shichang/309565",
-    "https://www.d1ev.com/newsflash/309584",
-    "https://www.d1ev.com/newsflash/309577",
-    "https://www.d1ev.com/news/shichang/309571",
     "https://www.d1ev.com/newsflash/309613",
     "https://www.d1ev.com/newsflash/309608",
     "https://www.d1ev.com/newsflash/309604",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/newsflash/311811",
     "https://www.d1ev.com/newsflash/311807",
     "https://www.d1ev.com/newsflash/311806",
-    "https://www.d1ev.com/newsflash/311805"
+    "https://www.d1ev.com/newsflash/311805",
+    "https://www.d1ev.com/newsflash/311843",
+    "https://www.d1ev.com/newsflash/311845",
+    "https://www.d1ev.com/newsflash/311844",
+    "https://www.d1ev.com/newsflash/311841",
+    "https://www.d1ev.com/newsflash/311840",
+    "https://www.d1ev.com/newsflash/311836",
+    "https://www.d1ev.com/newsflash/311835",
+    "https://www.d1ev.com/newsflash/311833",
+    "https://www.d1ev.com/news/shichang/311842",
+    "https://www.d1ev.com/newsflash/311839",
+    "https://www.d1ev.com/newsflash/311838",
+    "https://www.d1ev.com/newsflash/311837",
+    "https://www.d1ev.com/newsflash/311834"
   ],
   "newsHistory": [
     {
@@ -4821,6 +4821,84 @@
       "title": "比亚迪汉EV/DM-i激光雷达版升级：华为HiCar、哨兵模式新功能来袭",
       "source": "第一电动",
       "pushedAt": 1788083306346
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311843",
+      "title": "比亚迪腾势N8L纯电版9月上市，208L智能电动前备箱亮相",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311845",
+      "title": "字节跳动豆包大模型2.2推迟发布，聚焦编程能力提升",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311844",
+      "title": "特斯拉Model3后驱版登陆港澳，售价更低续航更长",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311841",
+      "title": "AI产业利润大揭秘：云服务商成幕后大赢家",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311840",
+      "title": "华为鸿蒙座舱升级：智能交互新体验，总搭载量突破200万",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311836",
+      "title": "新能源二手车交易量激增22%，市场渗透率持续攀升",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311835",
+      "title": "机器人鸭子Microduck首日销售额超260万美元，AI实体设备新趋势",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311833",
+      "title": "瑞金医院携手华为云发布RuiPath2.0，AI病理诊断迈入新纪元",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311842",
+      "title": "法雷奥新一代双电控产品在江苏常熟量产",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311839",
+      "title": "小米汽车携手中国中车，打造“高铁基因”电驱SUV",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311838",
+      "title": "比亚迪唐遭货车猛烈撞击，车身严重损毁但车内人员仅轻伤",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311837",
+      "title": "广汽销量逆势增长2.35%，上半年亏损扩大至44.67亿",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311834",
+      "title": "特斯拉Cybercab用RGB灯带识别乘客，9月3日奥斯汀开跑！",
+      "source": "第一电动",
+      "pushedAt": 1788100727543
     }
   ],
   "lastUpdated": "2026-08-30"
