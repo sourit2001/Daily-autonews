@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/309546",
-    "https://www.d1ev.com/newsflash/309544",
-    "https://www.d1ev.com/news/shichang/309542",
-    "https://www.d1ev.com/news/shichang/309536",
-    "https://www.d1ev.com/newsflash/309535",
-    "https://www.d1ev.com/newsflash/309534",
-    "https://www.d1ev.com/newsflash/309528",
-    "https://www.d1ev.com/newsflash/309527",
-    "https://www.d1ev.com/newsflash/309523",
     "https://www.d1ev.com/newsflash/309545",
     "https://www.d1ev.com/newsflash/309518",
     "https://www.d1ev.com/news/shichang/309556",
@@ -1999,7 +1990,16 @@
     "https://www.d1ev.com/newsflash/311779",
     "https://www.d1ev.com/newsflash/311777",
     "https://www.d1ev.com/newsflash/311794",
-    "https://www.d1ev.com/newsflash/311793"
+    "https://www.d1ev.com/newsflash/311793",
+    "https://www.d1ev.com/newsflash/311803",
+    "https://www.d1ev.com/newsflash/311802",
+    "https://www.d1ev.com/carnews/xinche/311800",
+    "https://www.d1ev.com/newsflash/311798",
+    "https://www.d1ev.com/news/qiye/311796",
+    "https://www.d1ev.com/newsflash/311801",
+    "https://www.d1ev.com/newsflash/311797",
+    "https://www.d1ev.com/newsflash/311799",
+    "https://www.d1ev.com/news/shichang/311795"
   ],
   "newsHistory": [
     {
@@ -4593,6 +4593,60 @@
       "title": "韩国推全民免费AI服务：预约医疗、找房、税务一站搞定",
       "source": "第一电动",
       "pushedAt": 1788030260755
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311803",
+      "title": "比亚迪腾势Z9S震撼上市：31.98万起，1100km超长续航，5分钟快充！",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311802",
+      "title": "北汽极狐贝塔T1新升级：续航增至1550km，8月31日震撼上市！",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311800",
+      "title": "极狐T7预售72小时 订单破3万",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311798",
+      "title": "极狐阿尔法T7预售72小时订单破3万，华为智驾+宁德电池强强联手！",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311796",
+      "title": "13.78万买车长超5米的大SUV！极狐T7预售72小时 订单破3万",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311801",
+      "title": "Lucid Air大规模召回！27185辆豪华电动车软件更新解决起火隐患",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311797",
+      "title": "谷歌AI搜索升级：长答案直接展示，探索体验更深入！",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/311799",
+      "title": "广汽埃安i60 OTA升级：8大核心升级，20项更新来袭！",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311795",
+      "title": "盖世周报 | 长城汽车上半年营收破千亿；天齐锂业净利暴增4925%",
+      "source": "第一电动",
+      "pushedAt": 1788058970082
     }
   ],
   "lastUpdated": "2026-08-30"
