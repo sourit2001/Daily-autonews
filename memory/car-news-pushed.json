@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309666",
-    "https://www.d1ev.com/newsflash/309677",
-    "https://www.d1ev.com/newsflash/309676",
-    "https://www.d1ev.com/news/shichang/309672",
-    "https://www.d1ev.com/news/shichang/309671",
-    "https://www.d1ev.com/news/shichang/309670",
-    "https://www.d1ev.com/newsflash/309667",
-    "https://www.d1ev.com/newsflash/309686",
-    "https://www.d1ev.com/newsflash/309681",
-    "https://www.d1ev.com/newsflash/309690",
-    "https://www.d1ev.com/newsflash/309689",
     "https://www.d1ev.com/newsflash/309687",
     "https://www.d1ev.com/newsflash/309685",
     "https://www.d1ev.com/newsflash/309683",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/311895",
     "https://www.d1ev.com/news/shichang/311894",
     "https://www.d1ev.com/newsflash/311893",
-    "https://www.d1ev.com/newsflash/311891"
+    "https://www.d1ev.com/newsflash/311891",
+    "https://www.d1ev.com/news/qiye/311955",
+    "https://www.d1ev.com/news/qiye/311957",
+    "https://www.d1ev.com/news/qiye/311956",
+    "https://www.d1ev.com/news/shichang/311949",
+    "https://www.d1ev.com/news/shichang/311952",
+    "https://www.d1ev.com/news/qiye/311951",
+    "https://www.d1ev.com/news/shichang/311950",
+    "https://www.d1ev.com/news/shichang/311948",
+    "https://www.d1ev.com/news/shichang/311947",
+    "https://www.d1ev.com/news/shichang/311946",
+    "https://www.d1ev.com/news/shichang/311943"
   ],
   "newsHistory": [
     {
@@ -5421,7 +5421,73 @@
       "title": "恶意软件窃取登录会话，Anthropic紧急应对保护用户数据",
       "source": "第一电动",
       "pushedAt": 1788171994310
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311955",
+      "title": "预售29.98万起比友商高数万元 官方回应智界RX目标受众是谁",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311957",
+      "title": "欧版特斯拉Model 3换上新轮胎续航猛提8%！但代价是更吵了",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311956",
+      "title": "L3自动驾驶版35.98万起 赵长江：智界RX卖得很便宜",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311949",
+      "title": "丰田计划从2028年起推出接近全自动驾驶的汽车",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311952",
+      "title": "吉利全球验证体系托底品质 浩思动力保障银河战舰700可靠性",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311951",
+      "title": "博主再谈磷酸铁锂技术路线可能第一个被淘汰：我有逻辑支撑",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311950",
+      "title": "极佳视界与华润万象达成合作",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311948",
+      "title": "地平线机器人2026半年报：毛利率维持66%高位，汽车智能化基座价值加速释放",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311947",
+      "title": "Momenta上半年营收16亿，同比大增76%",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311946",
+      "title": "比亚迪与帕西尼签署合作协议，推进工业机器人应用",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311943",
+      "title": "商务部等7部门发布实施意见 汽车消费扩容升级迎来新举措",
+      "source": "第一电动",
+      "pushedAt": 1788201384413
     }
   ],
-  "lastUpdated": "2026-08-31"
+  "lastUpdated": "2026-09-01"
 }
