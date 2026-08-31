@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309687",
     "https://www.d1ev.com/newsflash/309685",
     "https://www.d1ev.com/newsflash/309683",
     "https://www.d1ev.com/newsflash/309688",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/shichang/311948",
     "https://www.d1ev.com/news/shichang/311947",
     "https://www.d1ev.com/news/shichang/311946",
-    "https://www.d1ev.com/news/shichang/311943"
+    "https://www.d1ev.com/news/shichang/311943",
+    "https://www.d1ev.com/news/shichang/311958"
   ],
   "newsHistory": [
     {
@@ -5487,6 +5487,12 @@
       "title": "商务部等7部门发布实施意见 汽车消费扩容升级迎来新举措",
       "source": "第一电动",
       "pushedAt": 1788201384413
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311958",
+      "title": "【盖世快讯】1-7月中国占世界汽车份额31%；智界RX开启L3自动驾驶准入测试",
+      "source": "第一电动",
+      "pushedAt": 1788219242094
     }
   ],
   "lastUpdated": "2026-09-01"
