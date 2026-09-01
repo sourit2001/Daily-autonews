@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309685",
-    "https://www.d1ev.com/newsflash/309683",
-    "https://www.d1ev.com/newsflash/309688",
-    "https://www.d1ev.com/newsflash/309684",
-    "https://www.d1ev.com/newsflash/309682",
-    "https://www.d1ev.com/newsflash/309680",
-    "https://www.d1ev.com/newsflash/309693",
-    "https://www.d1ev.com/newsflash/309696",
-    "https://www.d1ev.com/newsflash/309695",
-    "https://www.d1ev.com/newsflash/309694",
-    "https://www.d1ev.com/newsflash/309691",
-    "https://www.d1ev.com/newsflash/309697",
-    "https://www.d1ev.com/newsflash/309692",
-    "https://www.d1ev.com/newsflash/309703",
-    "https://www.d1ev.com/newsflash/309701",
-    "https://www.d1ev.com/newsflash/309705",
     "https://www.d1ev.com/newsflash/309704",
     "https://www.d1ev.com/newsflash/309702",
     "https://www.d1ev.com/newsflash/309700",
@@ -1999,7 +1983,23 @@
     "https://www.d1ev.com/news/shichang/311947",
     "https://www.d1ev.com/news/shichang/311946",
     "https://www.d1ev.com/news/shichang/311943",
-    "https://www.d1ev.com/news/shichang/311958"
+    "https://www.d1ev.com/news/shichang/311958",
+    "https://www.d1ev.com/carnews/xinche/311972",
+    "https://www.d1ev.com/carnews/xinche/311971",
+    "https://www.d1ev.com/carnews/xinche/311970",
+    "https://www.d1ev.com/news/qiye/311969",
+    "https://www.d1ev.com/carnews/xinche/311967",
+    "https://www.d1ev.com/carnews/xinche/311966",
+    "https://www.d1ev.com/carnews/xinche/311965",
+    "https://www.d1ev.com/news/shichang/311962",
+    "https://www.d1ev.com/carnews/xinche/311960",
+    "https://www.d1ev.com/news/qiye/311973",
+    "https://www.d1ev.com/carnews/xinche/311964",
+    "https://www.d1ev.com/news/qiye/311959",
+    "https://www.d1ev.com/news/shichang/311975",
+    "https://www.d1ev.com/news/shichang/311974",
+    "https://www.d1ev.com/news/shichang/311963",
+    "https://www.d1ev.com/news/shichang/311961"
   ],
   "newsHistory": [
     {
@@ -5493,6 +5493,102 @@
       "title": "【盖世快讯】1-7月中国占世界汽车份额31%；智界RX开启L3自动驾驶准入测试",
       "source": "第一电动",
       "pushedAt": 1788219242094
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311972",
+      "title": "极狐贝塔T1新增车型上市 售价7.68-8.68万元",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311971",
+      "title": "长安启源Q06将于9月4日开启预售",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311970",
+      "title": "CLTC纯电续航960km 腾势N8L纯电将于9月上市",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311969",
+      "title": "小米汽车8月交付超3万台 雷军：正全力为澎程上市做准备",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311967",
+      "title": "大众入门电动车将于2027年慕尼黑车展首发",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311966",
+      "title": "二十五周年巡礼 雷克萨斯IS发布特别版官图",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311965",
+      "title": "新款大众帕萨特Pro上市 售价17.2-23.99万元",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311962",
+      "title": "调查丨预售一周iX3爆单，BBA总算扳回一城",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311960",
+      "title": "2026年第35周（8.24-8.30）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311973",
+      "title": "订单翻倍却被卡脖子！印度电车想快跑：电池还得看中国脸色",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/311964",
+      "title": "福特中国首款出口欧洲的纯电动商用车下线",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311959",
+      "title": "奕境总经理谈新能源弯道超车 工程师不是凭空冒出来的",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311975",
+      "title": "鸿蒙智行8月交付42101台，累计突破152万台",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311974",
+      "title": "小米汽车8月交付量超3万台 连续五月稳居3万台阶",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311963",
+      "title": "100万小时之后，机器人为什么还喊“饿”？",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311961",
+      "title": "造车太苦，新势力都想当“宇树”",
+      "source": "第一电动",
+      "pushedAt": 1788231987907
     }
   ],
   "lastUpdated": "2026-09-01"
