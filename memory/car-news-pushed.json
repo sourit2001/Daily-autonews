@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309717",
-    "https://www.d1ev.com/newsflash/309718",
-    "https://www.d1ev.com/newsflash/309715",
-    "https://www.d1ev.com/newsflash/309714",
-    "https://www.d1ev.com/newsflash/309716",
-    "https://www.d1ev.com/newsflash/309713",
-    "https://www.d1ev.com/carnews/xinche/309727",
     "https://www.d1ev.com/newsflash/309726",
     "https://www.d1ev.com/newsflash/309725",
     "https://www.d1ev.com/news/qiye/309724",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/news/shichang/311987",
     "https://www.d1ev.com/news/qiye/311985",
     "https://www.d1ev.com/news/shichang/311982",
-    "https://www.d1ev.com/news/shichang/311977"
+    "https://www.d1ev.com/news/shichang/311977",
+    "https://www.d1ev.com/carnews/xinche/312001",
+    "https://www.d1ev.com/news/qiye/312000",
+    "https://www.d1ev.com/news/shichang/311999",
+    "https://www.d1ev.com/news/shichang/311998",
+    "https://www.d1ev.com/news/qiye/311997",
+    "https://www.d1ev.com/news/qiye/311996",
+    "https://www.d1ev.com/news/shichang/311995"
   ],
   "newsHistory": [
     {
@@ -5685,6 +5685,48 @@
       "title": "MG07大定锁单突破31000+",
       "source": "第一电动",
       "pushedAt": 1788253562311
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312001",
+      "title": "五菱汽车3大主业撑起营收，但净利下滑26%！新业务亏损拖累业绩",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312000",
+      "title": "蔚来2026年Q2财报：经营利润2.1亿元，连续三个季度实现盈利",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311999",
+      "title": "福莱新材向灵心巧手交付超3万套触觉传感器",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311998",
+      "title": "奇瑞集团8月销量28.01万辆，同比增长15.4%",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311997",
+      "title": "8月新势力销量：第一名继续杀疯 甩开第二名两个小米的距离",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/311996",
+      "title": "“尊界效应”持续撬动百万级超豪华市场，尊界S800典藏大观、尊界V800开启首批交付",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/311995",
+      "title": "向新·同行丨2026第14届汽车与环境创新论坛即将启幕",
+      "source": "第一电动",
+      "pushedAt": 1788272843588
     }
   ],
   "lastUpdated": "2026-09-01"
