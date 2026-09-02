@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/309760",
-    "https://www.d1ev.com/newsflash/309766",
-    "https://www.d1ev.com/newsflash/309768",
-    "https://www.d1ev.com/newsflash/309767",
-    "https://www.d1ev.com/newsflash/309765",
     "https://www.d1ev.com/newsflash/309764",
     "https://www.d1ev.com/newsflash/309771",
     "https://www.d1ev.com/newsflash/309769",
@@ -1999,153 +1994,14 @@
     "https://www.d1ev.com/news/shichang/312041",
     "https://www.d1ev.com/news/shichang/312039",
     "https://www.d1ev.com/news/shichang/312038",
-    "https://www.d1ev.com/news/shichang/312037"
+    "https://www.d1ev.com/news/shichang/312037",
+    "https://www.d1ev.com/news/qiye/312050",
+    "https://www.d1ev.com/carnews/xinche/312049",
+    "https://www.d1ev.com/carnews/xinche/312048",
+    "https://www.d1ev.com/news/qiye/312046",
+    "https://www.d1ev.com/news/shichang/312047"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/311397",
-      "title": "极狐阿尔法T7预售开启！13.78万起，智能轿跑SUV新选择",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311395",
-      "title": "尚界Z7系列销量激增，新版本Allroad下半年亮相成都车展",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311394",
-      "title": "比亚迪五大品牌原创设计亮相，何志奇预言小轴距车型将消失",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311393",
-      "title": "奇瑞风云T7纯电SUV上市，续航600km起售9.49万！",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311392",
-      "title": "智己LS6新内饰曝光：取消方向盘，迈向L5自动驾驶时代！",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311390",
-      "title": "理想汽车二季度营收增长11.7%，9月两款纯电新车上市",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311398",
-      "title": "MiniMax M3Pro参数大升级，国产芯片适配加速，业绩翻三倍！",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311391",
-      "title": "阿里通义发布Qwen3.8-Flash：125B参数多模态AI模型开源",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311396",
-      "title": "欣旺达2026半年报：动储放量驱动营收创新高，同比增长41.48%",
-      "source": "第一电动",
-      "pushedAt": 1787755122467
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/311410",
-      "title": "搭载华为舱内激光雷达，极狐阿尔法T7预售价13.78万起",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311409",
-      "title": "滴滴无人出租车RobotaxiR2亮相北京国际交通展，全球服务用户超1亿",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311412",
-      "title": "极狐阿尔法T7预售补贴价13.78万起，阿里千问、豆包智能体双AI上车",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311405",
-      "title": "奇瑞风云T7纯电SUV今晚上市，9.79万起售，600km续航快充20分钟！",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311403",
-      "title": "极狐阿尔法T7预售两小时破万，华为智驾+宁德时代电池加持！",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/311402",
-      "title": "奇瑞风云T7正式上市 售价9.79-11.89万元",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311400",
-      "title": "领克20新车型曝光：白紫内饰+800V高压平台，第三季度上市",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311399",
-      "title": "智己LS6“陆上A320”官图发布，9月亮相家庭SUV新标杆",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311413",
-      "title": "量子智驾革命：两轮电动车明年迎技术飞跃",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311408",
-      "title": "Waymo自动驾驶网约车进军德国慕尼黑，明年启动商业服务",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311406",
-      "title": "莲花科技全资控股英国莲花，电动化战略加速推进",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311404",
-      "title": "国产AI新突破！智谱320B参数多模态模型开源，性能超GLM-5.2",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311411",
-      "title": "9.79万起，风云T7想把“全球标准”做成标配",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311407",
-      "title": "沃尔沃新功能：100万辆车联网预警，护航道路安全",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311401",
-      "title": "巴西重罚TikTok两亿！字节跳动因未成年人数据违规遭严惩",
-      "source": "第一电动",
-      "pushedAt": 1787762646935
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311414",
       "title": "奇瑞风云T7震撼上市，9.49万起享600km续航新体验",
@@ -5085,7 +4941,37 @@
       "title": "兴瑞科技牵手臻驱科技，瞄准电控、机器人及固态变压器",
       "source": "第一电动",
       "pushedAt": 1788357713934
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312050",
+      "title": "新一代理想MEGA上市，仅提供Home版，售价50.98万元",
+      "source": "第一电动",
+      "pushedAt": 1788371377840
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312049",
+      "title": "2026款理想MEGA Home上市 售价50.98万元",
+      "source": "第一电动",
+      "pushedAt": 1788371377840
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312048",
+      "title": "广汽传祺越7开启预售 预售价17.98-22.58万",
+      "source": "第一电动",
+      "pushedAt": 1788371377840
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312046",
+      "title": "比老款便宜5万，新一代理想MEGA 50.98万上市",
+      "source": "第一电动",
+      "pushedAt": 1788371377840
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312047",
+      "title": "特朗普政府拟对外国芯片加征更多关税，美国制造企业或获豁免",
+      "source": "第一电动",
+      "pushedAt": 1788371377840
     }
   ],
-  "lastUpdated": "2026-09-02"
+  "lastUpdated": "2026-09-03"
 }
