@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309726",
-    "https://www.d1ev.com/newsflash/309725",
-    "https://www.d1ev.com/news/qiye/309724",
-    "https://www.d1ev.com/newsflash/309728",
-    "https://www.d1ev.com/newsflash/309730",
-    "https://www.d1ev.com/newsflash/309731",
-    "https://www.d1ev.com/newsflash/309729",
-    "https://www.d1ev.com/news/qiye/309733",
-    "https://www.d1ev.com/news/qiye/309732",
-    "https://www.d1ev.com/carnews/xinche/309743",
-    "https://www.d1ev.com/news/qiye/309739",
-    "https://www.d1ev.com/news/qiye/309738",
-    "https://www.d1ev.com/newsflash/309744",
-    "https://www.d1ev.com/newsflash/309741",
-    "https://www.d1ev.com/newsflash/309740",
-    "https://www.d1ev.com/newsflash/309737",
     "https://www.d1ev.com/news/shichang/309735",
     "https://www.d1ev.com/newsflash/309734",
     "https://www.d1ev.com/carnews/xinche/309742",
@@ -1999,7 +1983,23 @@
     "https://www.d1ev.com/news/shichang/311998",
     "https://www.d1ev.com/news/qiye/311997",
     "https://www.d1ev.com/news/qiye/311996",
-    "https://www.d1ev.com/news/shichang/311995"
+    "https://www.d1ev.com/news/shichang/311995",
+    "https://www.d1ev.com/carnews/xinche/312015",
+    "https://www.d1ev.com/carnews/xinche/312014",
+    "https://www.d1ev.com/carnews/xinche/312010",
+    "https://www.d1ev.com/carnews/xinche/312006",
+    "https://www.d1ev.com/news/shichang/312017",
+    "https://www.d1ev.com/news/shichang/312005",
+    "https://www.d1ev.com/news/qiye/312003",
+    "https://www.d1ev.com/news/shichang/312008",
+    "https://www.d1ev.com/carnews/xinche/312018",
+    "https://www.d1ev.com/news/shichang/312016",
+    "https://www.d1ev.com/carnews/xinche/312013",
+    "https://www.d1ev.com/news/shichang/312012",
+    "https://www.d1ev.com/news/shichang/312011",
+    "https://www.d1ev.com/news/shichang/312009",
+    "https://www.d1ev.com/news/shichang/312007",
+    "https://www.d1ev.com/news/shichang/312004"
   ],
   "newsHistory": [
     {
@@ -5727,7 +5727,103 @@
       "title": "向新·同行丨2026第14届汽车与环境创新论坛即将启幕",
       "source": "第一电动",
       "pushedAt": 1788272843588
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312015",
+      "title": "采用双门布局 smart精灵#2将于11月中旬上市",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312014",
+      "title": "混动技术再升级 2027款雷克萨斯NX正式亮相",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312010",
+      "title": "北京奔驰长轴距GLE下线 9月内正式上市",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312006",
+      "title": "电驱新生 全新雷克萨斯LFA概念车新车图解",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312017",
+      "title": "研发总工亲自上车挑战电池热失控，银河TT以真人实测验证NP3.0“无烟安全”",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312005",
+      "title": "基本盘稳增97%，AI业务飙涨588.6%：博泰车联“双引擎”格局已定",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312003",
+      "title": "SUV高速路侧翻旋转近两圈 司机：我开了智驾有点瞌睡就撞了",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312008",
+      "title": "中国汽车冲向全球，别把“内卷”也带出去",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312018",
+      "title": "保时捷称可为客户定制手动挡Panamera",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312016",
+      "title": "智平方机器人入驻香港兰桂坊，提供打酒服务",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312013",
+      "title": "大发Tanto与Thor实施部分改良 新增特别版",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312012",
+      "title": "蔚来二季度经营利润2.1亿元，连续三个季度盈利",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312011",
+      "title": "上汽集团1-8月累计销售274.1万辆",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312009",
+      "title": "宝妈、退休人员，开始给机器人“打工”",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312007",
+      "title": "“裁员”裁到大众、奔驰来审查，星宇股份冤吗？",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312004",
+      "title": "【盖世快讯】零跑8月交付量再破10万；传特斯拉将在国内开启FSD v14测试",
+      "source": "第一电动",
+      "pushedAt": 1788316434014
     }
   ],
-  "lastUpdated": "2026-09-01"
+  "lastUpdated": "2026-09-02"
 }
