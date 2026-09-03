@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309773",
-    "https://www.d1ev.com/newsflash/309772",
-    "https://www.d1ev.com/newsflash/309770",
-    "https://www.d1ev.com/carnews/xinche/309796",
-    "https://www.d1ev.com/newsflash/309788",
-    "https://www.d1ev.com/news/shichang/309782",
     "https://www.d1ev.com/carnews/xinche/309780",
     "https://www.d1ev.com/news/shichang/309795",
     "https://www.d1ev.com/news/shichang/309794",
@@ -1999,7 +1993,13 @@
     "https://www.d1ev.com/news/shichang/312047",
     "https://www.d1ev.com/carnews/xinche/312053",
     "https://www.d1ev.com/news/shichang/312052",
-    "https://www.d1ev.com/news/shichang/312051"
+    "https://www.d1ev.com/news/shichang/312051",
+    "https://www.d1ev.com/carnews/xinche/312059",
+    "https://www.d1ev.com/carnews/xinche/312058",
+    "https://www.d1ev.com/carnews/xinche/312057",
+    "https://www.d1ev.com/carnews/xinche/312055",
+    "https://www.d1ev.com/carnews/xinche/312060",
+    "https://www.d1ev.com/carnews/xinche/312056"
   ],
   "newsHistory": [
     {
@@ -4983,6 +4983,42 @@
       "title": "奇瑞：全面落实合规指引，将在海外市场建立科学定价体系",
       "source": "第一电动",
       "pushedAt": 1788392772069
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312059",
+      "title": "比亚迪海狮08上市 售价22.99-27.99万元",
+      "source": "第一电动",
+      "pushedAt": 1788402709005
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312058",
+      "title": "纯电动力智能升级 新款雷诺Scenic官图发布",
+      "source": "第一电动",
+      "pushedAt": 1788402709005
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312057",
+      "title": "小米澎程系列上市定档 卢伟冰公布核心配置",
+      "source": "第一电动",
+      "pushedAt": 1788402709005
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312055",
+      "title": "小米澎程N90 Max酒红亮相 灵感于陈年佳酿",
+      "source": "第一电动",
+      "pushedAt": 1788402709005
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312060",
+      "title": "2027款现代Ioniq 3发布 续航里程497km",
+      "source": "第一电动",
+      "pushedAt": 1788402709005
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312056",
+      "title": "福特纯电皮卡Fathom采用原生Apple Maps",
+      "source": "第一电动",
+      "pushedAt": 1788402709005
     }
   ],
   "lastUpdated": "2026-09-03"
