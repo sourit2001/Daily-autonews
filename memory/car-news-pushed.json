@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/309779",
-    "https://www.d1ev.com/newsflash/309775",
-    "https://www.d1ev.com/newsflash/309774",
-    "https://www.d1ev.com/newsflash/309820",
-    "https://www.d1ev.com/newsflash/309818",
-    "https://www.d1ev.com/news/shichang/309816",
-    "https://www.d1ev.com/newsflash/309810",
-    "https://www.d1ev.com/carnews/xinche/309808",
-    "https://www.d1ev.com/carnews/xinche/309807",
-    "https://www.d1ev.com/carnews/xinche/309806",
-    "https://www.d1ev.com/newsflash/309799",
-    "https://www.d1ev.com/news/shichang/309823",
-    "https://www.d1ev.com/newsflash/309819",
     "https://www.d1ev.com/news/shichang/309814",
     "https://www.d1ev.com/news/shichang/309805",
     "https://www.d1ev.com/news/shichang/309804",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/news/qiye/312069",
     "https://www.d1ev.com/news/shichang/312066",
     "https://www.d1ev.com/news/shichang/312065",
-    "https://www.d1ev.com/carnews/xinche/312063"
+    "https://www.d1ev.com/carnews/xinche/312063",
+    "https://www.d1ev.com/news/qiye/312091",
+    "https://www.d1ev.com/news/shichang/312086",
+    "https://www.d1ev.com/news/shichang/312084",
+    "https://www.d1ev.com/news/shichang/312096",
+    "https://www.d1ev.com/news/shichang/312095",
+    "https://www.d1ev.com/news/shichang/312089",
+    "https://www.d1ev.com/news/shichang/312090",
+    "https://www.d1ev.com/carnews/xinche/312088",
+    "https://www.d1ev.com/news/shichang/312087",
+    "https://www.d1ev.com/news/shichang/312094",
+    "https://www.d1ev.com/news/shichang/312093",
+    "https://www.d1ev.com/news/qiye/312085",
+    "https://www.d1ev.com/news/shichang/312083"
   ],
   "newsHistory": [
     {
@@ -4827,6 +4827,84 @@
       "title": "岚图卢放：梦想家9是面向下一代的iPhone 20",
       "source": "第一电动",
       "pushedAt": 1788424189995
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312091",
+      "title": "小鹏大众联手打造 与众09内饰官图公布：新势力味浓郁",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312086",
+      "title": "瀚思通-光波导光场屏2.0 | 申报2026第八届金辑奖中国汽车新供应链百强",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312084",
+      "title": "众泰汽车模具工厂全面复产，新车型进入批量验证阶段",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312096",
+      "title": "当中国电池拿下七成市场，曾毓群为何偏偏要谈“品质”？",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312095",
+      "title": "欧阳明高：AI将重塑电池全产业链",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312089",
+      "title": "具身智能岗位暴增6至7倍，人才争夺战升温，但薪资仍不及大模型",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312090",
+      "title": "吉利控股集团发文回应：坚守合规经营初心，坚定走高质量全球化之路",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312088",
+      "title": "A股8大乘用车集团半年考：总营收破9000亿元但陷入“盈利难”，海外市场抢增量",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312087",
+      "title": "“在中国，为全球”，天纳克全球创新中心在昆山正式启用",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312094",
+      "title": "逐际动力机器人，进工地“干活”了",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312093",
+      "title": "给机器人“减重”，华翔启源上海创新中心落地张江",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312085",
+      "title": "史上最强、加速最快的量产车！宾利首款纯电SUV Torcal预告",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312083",
+      "title": "安波福整合互连业务：Winchester、IAS统一更名",
+      "source": "第一电动",
+      "pushedAt": 1788444165405
     }
   ],
   "lastUpdated": "2026-09-03"
