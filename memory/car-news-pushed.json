@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309877",
     "https://www.d1ev.com/newsflash/309880",
     "https://www.d1ev.com/news/qiye/309879",
     "https://www.d1ev.com/news/shichang/309889",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/carnews/xinche/312179",
     "https://www.d1ev.com/news/shichang/312176",
     "https://www.d1ev.com/news/shichang/312173",
-    "https://www.d1ev.com/carnews/xinche/312180"
+    "https://www.d1ev.com/carnews/xinche/312180",
+    "https://www.d1ev.com/news/shichang/312181"
   ],
   "newsHistory": [
     {
@@ -4419,6 +4419,12 @@
       "title": "长安启源Q06开启预售 预售价14.99万元起",
       "source": "第一电动",
       "pushedAt": 1788542390330
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312181",
+      "title": "小米汽车出海第一站，选在BBA的大本营",
+      "source": "第一电动",
+      "pushedAt": 1788565060383
     }
   ],
   "lastUpdated": "2026-09-05"
