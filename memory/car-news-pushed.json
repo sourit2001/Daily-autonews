@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/309815",
-    "https://www.d1ev.com/newsflash/309822",
-    "https://www.d1ev.com/news/shichang/309821",
-    "https://www.d1ev.com/newsflash/309817",
-    "https://www.d1ev.com/newsflash/309812",
-    "https://www.d1ev.com/newsflash/309811",
-    "https://www.d1ev.com/newsflash/309809",
-    "https://www.d1ev.com/newsflash/309802",
-    "https://www.d1ev.com/newsflash/309801",
-    "https://www.d1ev.com/news/shichang/309800",
-    "https://www.d1ev.com/newsflash/309838",
-    "https://www.d1ev.com/newsflash/309835",
-    "https://www.d1ev.com/newsflash/309830",
-    "https://www.d1ev.com/newsflash/309824",
-    "https://www.d1ev.com/newsflash/309829",
-    "https://www.d1ev.com/news/shichang/309828",
     "https://www.d1ev.com/newsflash/309839",
     "https://www.d1ev.com/newsflash/309837",
     "https://www.d1ev.com/newsflash/309836",
@@ -1999,7 +1983,23 @@
     "https://www.d1ev.com/news/shichang/312099",
     "https://www.d1ev.com/carnews/xinche/312098",
     "https://www.d1ev.com/news/shichang/312097",
-    "https://www.d1ev.com/news/shichang/312100"
+    "https://www.d1ev.com/news/shichang/312100",
+    "https://www.d1ev.com/news/shichang/312118",
+    "https://www.d1ev.com/news/shichang/312117",
+    "https://www.d1ev.com/news/shichang/312116",
+    "https://www.d1ev.com/carnews/xinche/312111",
+    "https://www.d1ev.com/carnews/xinche/312110",
+    "https://www.d1ev.com/carnews/xinche/312109",
+    "https://www.d1ev.com/carnews/xinche/312101",
+    "https://www.d1ev.com/news/shichang/312115",
+    "https://www.d1ev.com/news/qiye/312114",
+    "https://www.d1ev.com/news/shichang/312102",
+    "https://www.d1ev.com/news/shichang/312108",
+    "https://www.d1ev.com/news/shichang/312107",
+    "https://www.d1ev.com/news/shichang/312106",
+    "https://www.d1ev.com/carnews/xinche/312105",
+    "https://www.d1ev.com/carnews/xinche/312104",
+    "https://www.d1ev.com/carnews/xinche/312103"
   ],
   "newsHistory": [
     {
@@ -4629,6 +4629,102 @@
       "title": "30万以内轻越野市场，又来了一强者",
       "source": "第一电动",
       "pushedAt": 1788462101902
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312118",
+      "title": "华阳通用-华阳全场景AI座舱解决方案 | 申报2026第八届金辑奖中国汽车新供应链百强",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312117",
+      "title": "航盛电子-中央域控制器 | 申报2026第八届金辑奖中国汽车新供应链百强",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312116",
+      "title": "Autolink-AL-A2 高端舱驾融合中央计算平台 | 申报2026第八届金辑奖中国汽车新供应链百强",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312111",
+      "title": "小米澎程N70 Pro实车到店 将于9月7日上市",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312110",
+      "title": "简洁科技为主 大众与众09内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312109",
+      "title": "2027款捷尼赛思G80上市 售价31.8-45.8万元",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312101",
+      "title": "忠于经典定义未来 全新奔驰C级EV新车图解",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312115",
+      "title": "广汽集团坚决贯彻合规先行 助推中国智造高质量出海",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312114",
+      "title": "小米汽车即将进军欧洲市场",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312102",
+      "title": "【盖世快讯】奇瑞尹同跃称出海不是去收割；奥迪与上汽合资设立创新技术中心",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312108",
+      "title": "从“想象未来”到“弯腰干活”，世界模型还差几步？",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312107",
+      "title": "大批汽车零部件供应商，已被逼到生存悬崖边",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312106",
+      "title": "汽车厂“造人”，可能连自产自用都没解决",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312105",
+      "title": "Scout Motors发布两款Traveler SUV概念车",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312104",
+      "title": "宝马新世代iX3将于11月到店 标配驾驶辅助",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312103",
+      "title": "品牌史上最强 宾利首款纯电SUV Torcal预告",
+      "source": "第一电动",
+      "pushedAt": 1788489237137
     }
   ],
   "lastUpdated": "2026-09-04"
