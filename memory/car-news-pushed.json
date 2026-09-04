@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/309857",
-    "https://www.d1ev.com/newsflash/309854",
-    "https://www.d1ev.com/news/qiye/309878",
-    "https://www.d1ev.com/newsflash/309887",
-    "https://www.d1ev.com/newsflash/309885",
-    "https://www.d1ev.com/newsflash/309883",
-    "https://www.d1ev.com/newsflash/309882",
     "https://www.d1ev.com/newsflash/309881",
     "https://www.d1ev.com/newsflash/309877",
     "https://www.d1ev.com/newsflash/309880",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/news/shichang/312126",
     "https://www.d1ev.com/news/qiye/312125",
     "https://www.d1ev.com/carnews/xinche/312122",
-    "https://www.d1ev.com/news/qiye/312119"
+    "https://www.d1ev.com/news/qiye/312119",
+    "https://www.d1ev.com/news/shichang/312178",
+    "https://www.d1ev.com/news/shichang/312175",
+    "https://www.d1ev.com/news/shichang/312171",
+    "https://www.d1ev.com/news/shichang/312177",
+    "https://www.d1ev.com/carnews/xinche/312179",
+    "https://www.d1ev.com/news/shichang/312176",
+    "https://www.d1ev.com/news/shichang/312173"
   ],
   "newsHistory": [
     {
@@ -4671,6 +4671,48 @@
       "title": "大众集团史上最大改革方案主要看点",
       "source": "第一电动",
       "pushedAt": 1788510793467
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312178",
+      "title": "理想汽车拟26.5亿元战略入股欣旺达动力，深化电池产业链协同",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312175",
+      "title": "2026年1-7月中国乘用车出口到哪了：俄罗斯出口量突破52万，巴西新能源遥遥领先丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312171",
+      "title": "从整零协同到 Agent 落地，飞书展示汽车产业链 AI 落地新路径",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312177",
+      "title": "2026年1-7月比亚迪乘用车出口目的地TOP10：巴西近20万辆领跑，纯电与插混加速出海丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312179",
+      "title": "“小电驴”非法改速乱象调查：线上引流，线下暗语沟通！时速超100公里，仪表盘只显示25公里",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312176",
+      "title": "蔚来二季报：连续三季度盈利之后，挑战仍在",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312173",
+      "title": "耐世特常熟年产量突破30万件",
+      "source": "第一电动",
+      "pushedAt": 1788530149043
     }
   ],
   "lastUpdated": "2026-09-04"
