@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309888",
-    "https://www.d1ev.com/newsflash/309886",
-    "https://www.d1ev.com/newsflash/309884",
     "https://www.d1ev.com/newsflash/309876",
     "https://www.d1ev.com/newsflash/309875",
     "https://www.d1ev.com/news/qiye/309897",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/news/shichang/312181",
     "https://www.d1ev.com/carnews/xinche/312182",
     "https://www.d1ev.com/carnews/xinche/312184",
-    "https://www.d1ev.com/carnews/xinche/312183"
+    "https://www.d1ev.com/carnews/xinche/312183",
+    "https://www.d1ev.com/news/qiye/312187",
+    "https://www.d1ev.com/news/shichang/312185",
+    "https://www.d1ev.com/news/shichang/312186"
   ],
   "newsHistory": [
     {
@@ -4389,6 +4389,24 @@
       "title": "长城董事长魏建军：我很满意魏牌豪华方盒子",
       "source": "第一电动",
       "pushedAt": 1788575313252
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312187",
+      "title": "42.99万起，岚图梦想家9启动预售",
+      "source": "第一电动",
+      "pushedAt": 1788595143498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312185",
+      "title": "中国研究团队研发出离子弹性体 可使全固态电池在5 MPa低压下稳定循环700次",
+      "source": "第一电动",
+      "pushedAt": 1788595143498
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312186",
+      "title": "长安的产业突围",
+      "source": "第一电动",
+      "pushedAt": 1788595143498
     }
   ],
   "lastUpdated": "2026-09-05"
