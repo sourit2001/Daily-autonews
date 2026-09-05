@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309880",
-    "https://www.d1ev.com/news/qiye/309879",
-    "https://www.d1ev.com/news/shichang/309889",
     "https://www.d1ev.com/newsflash/309888",
     "https://www.d1ev.com/newsflash/309886",
     "https://www.d1ev.com/newsflash/309884",
@@ -1999,63 +1996,12 @@
     "https://www.d1ev.com/news/shichang/312176",
     "https://www.d1ev.com/news/shichang/312173",
     "https://www.d1ev.com/carnews/xinche/312180",
-    "https://www.d1ev.com/news/shichang/312181"
+    "https://www.d1ev.com/news/shichang/312181",
+    "https://www.d1ev.com/carnews/xinche/312182",
+    "https://www.d1ev.com/carnews/xinche/312184",
+    "https://www.d1ev.com/carnews/xinche/312183"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/311737",
-      "title": "13.59万！一汽-大众ID. AURA T6开启预售",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311733",
-      "title": "19.99万元起！全新一代智己L6上市",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311732",
-      "title": "全新一代智己L6上市，起售价19.99万元",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311741",
-      "title": "众泰汽车2026半年报：营收降32% 净利润扭亏为盈 聚焦新能源转型",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311739",
-      "title": "比亚迪闪充站破万座，覆盖全国332城，充电网络再升级！",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311738",
-      "title": "Lucid Air紧急召回2.7万辆车，软件缺陷或致火灾风险",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311734",
-      "title": "OpenAI测试Codex“持久模式”：AI智能体将能主动持续工作？",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311740",
-      "title": "本田日产联手打造智能车载系统，2029年见分晓",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/311736",
-      "title": "13.59万元起售，老牌合资车企打响纯电SUV“反击战”",
-      "source": "第一电动",
-      "pushedAt": 1787963135261
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311762",
       "title": "智己L6震撼上市！19.99万起，纯电轿跑新标杆",
@@ -4425,6 +4371,24 @@
       "title": "小米汽车出海第一站，选在BBA的大本营",
       "source": "第一电动",
       "pushedAt": 1788565060383
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312182",
+      "title": "增程新选择 启境GX7开启预售：24.99万起",
+      "source": "第一电动",
+      "pushedAt": 1788575313252
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312184",
+      "title": "现代新伊兰特等车型把仪表盘改为付费选装",
+      "source": "第一电动",
+      "pushedAt": 1788575313252
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312183",
+      "title": "长城董事长魏建军：我很满意魏牌豪华方盒子",
+      "source": "第一电动",
+      "pushedAt": 1788575313252
     }
   ],
   "lastUpdated": "2026-09-05"
