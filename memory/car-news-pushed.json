@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/309897",
-    "https://www.d1ev.com/newsflash/309891",
     "https://www.d1ev.com/newsflash/309896",
     "https://www.d1ev.com/newsflash/309895",
     "https://www.d1ev.com/newsflash/309894",
@@ -1999,123 +1997,11 @@
     "https://www.d1ev.com/news/shichang/312185",
     "https://www.d1ev.com/news/shichang/312186",
     "https://www.d1ev.com/news/shichang/312191",
-    "https://www.d1ev.com/news/qiye/312192"
+    "https://www.d1ev.com/news/qiye/312192",
+    "https://www.d1ev.com/carnews/xinche/312194",
+    "https://www.d1ev.com/news/shichang/312193"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/311786",
-      "title": "众泰汽车七年首盈利：配件门业撑场，新车型研发投入激增800%",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311782",
-      "title": "莲花Esprit超跑V6版曝光：更轻更亲民，2028年上市",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311791",
-      "title": "英伟达豪掷130亿美元收购HuggingFace，AI领域格局生变",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311790",
-      "title": "AI智能体误删700GB数据，开发者一周成果付之东流",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311789",
-      "title": "Debian开发者投票支持：负责任地使用AI提升开发效率",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311788",
-      "title": "AI自我进化！6小时超越人类研究，成本仅4美元",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311784",
-      "title": "广汽集团上半年业绩亮眼：营收增9%，新能源销量翻倍",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311783",
-      "title": "ChatGPT升级：多账户管理时代来临，Gmail和日历更便捷！",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311780",
-      "title": "AI推广引发争议：社交媒体创作者遭差评轰炸",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311778",
-      "title": "华为鸿蒙座舱升级：语音智能助手让驾驶更便捷",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311776",
-      "title": "比亚迪上半年营收利润双降，新能源汽车销量同比减少15.72%",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311792",
-      "title": "中国算力规模突破245万PFLOPS，智能体专利授权量激增",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311787",
-      "title": "小米YU7安全测试大获全胜：中保研最高评级，五星+领先SUV",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311785",
-      "title": "红旗H7限时优惠来袭：18.18万起，置换补贴高达2万！",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311781",
-      "title": "国内首现车载移动词元工厂：算力随电走，成本降25%",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311779",
-      "title": "长鑫科技上半年营收暴增873.6% 净利润翻天覆地扭亏为盈",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311777",
-      "title": "丰田2027年上海投产雷克萨斯纯电SUV，首年月产1000辆",
-      "source": "第一电动",
-      "pushedAt": 1788015259896
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311794",
-      "title": "普京盛赞中俄合作新车型：伏尔加K50操控超预期，本土汽车产业升级加速",
-      "source": "第一电动",
-      "pushedAt": 1788030260755
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311793",
-      "title": "韩国推全民免费AI服务：预约医疗、找房、税务一站搞定",
-      "source": "第一电动",
-      "pushedAt": 1788030260755
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311803",
       "title": "比亚迪腾势Z9S震撼上市：31.98万起，1100km超长续航，5分钟快充！",
@@ -4215,7 +4101,19 @@
       "title": "花21万买车被截胡充电桩 门店谎称无赠送 到手仅杂牌随车充",
       "source": "第一电动",
       "pushedAt": 1788608602332
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312194",
+      "title": "启境GX7开启预售 定位智能SUV标配L3架构",
+      "source": "第一电动",
+      "pushedAt": 1788661471432
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312193",
+      "title": "盖世周报 | 大众拟裁5万人；本田拟4年内降本逾90亿美元",
+      "source": "第一电动",
+      "pushedAt": 1788661471432
     }
   ],
-  "lastUpdated": "2026-09-05"
+  "lastUpdated": "2026-09-06"
 }
