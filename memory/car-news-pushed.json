@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309896",
-    "https://www.d1ev.com/newsflash/309895",
-    "https://www.d1ev.com/newsflash/309894",
-    "https://www.d1ev.com/newsflash/309893",
-    "https://www.d1ev.com/newsflash/309892",
     "https://www.d1ev.com/newsflash/309890",
     "https://www.d1ev.com/news/shichang/309898",
     "https://www.d1ev.com/newsflash/309908",
@@ -1999,63 +1994,14 @@
     "https://www.d1ev.com/news/shichang/312191",
     "https://www.d1ev.com/news/qiye/312192",
     "https://www.d1ev.com/carnews/xinche/312194",
-    "https://www.d1ev.com/news/shichang/312193"
+    "https://www.d1ev.com/news/shichang/312193",
+    "https://www.d1ev.com/news/shichang/312199",
+    "https://www.d1ev.com/news/shichang/312198",
+    "https://www.d1ev.com/news/qiye/312196",
+    "https://www.d1ev.com/news/qiye/312195",
+    "https://www.d1ev.com/news/qiye/312200"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/311803",
-      "title": "比亚迪腾势Z9S震撼上市：31.98万起，1100km超长续航，5分钟快充！",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311802",
-      "title": "北汽极狐贝塔T1新升级：续航增至1550km，8月31日震撼上市！",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/311800",
-      "title": "极狐T7预售72小时 订单破3万",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311798",
-      "title": "极狐阿尔法T7预售72小时订单破3万，华为智驾+宁德电池强强联手！",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/311796",
-      "title": "13.78万买车长超5米的大SUV！极狐T7预售72小时 订单破3万",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311801",
-      "title": "Lucid Air大规模召回！27185辆豪华电动车软件更新解决起火隐患",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311797",
-      "title": "谷歌AI搜索升级：长答案直接展示，探索体验更深入！",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311799",
-      "title": "广汽埃安i60 OTA升级：8大核心升级，20项更新来袭！",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311795",
-      "title": "盖世周报 | 长城汽车上半年营收破千亿；天齐锂业净利暴增4925%",
-      "source": "第一电动",
-      "pushedAt": 1788058970082
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311829",
       "title": "神龙科技布局新能源，2027年起推4款新车型迎战全球市场",
@@ -4113,6 +4059,36 @@
       "title": "盖世周报 | 大众拟裁5万人；本田拟4年内降本逾90亿美元",
       "source": "第一电动",
       "pushedAt": 1788661471432
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312199",
+      "title": "聚焦全球技术趋势！这场动力电池专题会，看透行业未来3–5年迭代方向",
+      "source": "第一电动",
+      "pushedAt": 1788682607314
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312198",
+      "title": "《动力电池产业发展指数（2026）》发布",
+      "source": "第一电动",
+      "pushedAt": 1788682607314
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312196",
+      "title": "特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
+      "source": "第一电动",
+      "pushedAt": 1788682607314
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312195",
+      "title": "126万辆车换了1.2亿次电池！蔚来全国建成9322座充换电站",
+      "source": "第一电动",
+      "pushedAt": 1788682607314
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312200",
+      "title": "特斯拉Cybercab上路当天遭调查：没方向盘没踏板 自己认证存合规风险",
+      "source": "第一电动",
+      "pushedAt": 1788682607314
     }
   ],
   "lastUpdated": "2026-09-06"
