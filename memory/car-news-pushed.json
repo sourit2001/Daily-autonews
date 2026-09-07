@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/309906",
-    "https://www.d1ev.com/newsflash/309902",
-    "https://www.d1ev.com/newsflash/309900",
-    "https://www.d1ev.com/newsflash/309909",
-    "https://www.d1ev.com/newsflash/309905",
-    "https://www.d1ev.com/newsflash/309903",
-    "https://www.d1ev.com/newsflash/309904",
-    "https://www.d1ev.com/newsflash/309901",
-    "https://www.d1ev.com/carnews/xinche/309919",
-    "https://www.d1ev.com/news/shichang/309917",
-    "https://www.d1ev.com/newsflash/309922",
-    "https://www.d1ev.com/newsflash/309920",
     "https://www.d1ev.com/newsflash/309916",
     "https://www.d1ev.com/newsflash/309915",
     "https://www.d1ev.com/news/qiye/309913",
@@ -1999,87 +1987,21 @@
     "https://www.d1ev.com/news/qiye/312200",
     "https://www.d1ev.com/news/shichang/312203",
     "https://www.d1ev.com/news/shichang/312202",
-    "https://www.d1ev.com/news/shichang/312201"
+    "https://www.d1ev.com/news/shichang/312201",
+    "https://www.d1ev.com/carnews/xinche/312216",
+    "https://www.d1ev.com/carnews/xinche/312212",
+    "https://www.d1ev.com/news/shichang/312205",
+    "https://www.d1ev.com/news/qiye/312215",
+    "https://www.d1ev.com/carnews/xinche/312214",
+    "https://www.d1ev.com/carnews/xinche/312213",
+    "https://www.d1ev.com/carnews/xinche/312210",
+    "https://www.d1ev.com/carnews/xinche/312209",
+    "https://www.d1ev.com/news/qiye/312208",
+    "https://www.d1ev.com/news/shichang/312207",
+    "https://www.d1ev.com/news/shichang/312206",
+    "https://www.d1ev.com/news/shichang/312204"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/311843",
-      "title": "比亚迪腾势N8L纯电版9月上市，208L智能电动前备箱亮相",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311845",
-      "title": "字节跳动豆包大模型2.2推迟发布，聚焦编程能力提升",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311844",
-      "title": "特斯拉Model3后驱版登陆港澳，售价更低续航更长",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311841",
-      "title": "AI产业利润大揭秘：云服务商成幕后大赢家",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311840",
-      "title": "华为鸿蒙座舱升级：智能交互新体验，总搭载量突破200万",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311836",
-      "title": "新能源二手车交易量激增22%，市场渗透率持续攀升",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311835",
-      "title": "机器人鸭子Microduck首日销售额超260万美元，AI实体设备新趋势",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311833",
-      "title": "瑞金医院携手华为云发布RuiPath2.0，AI病理诊断迈入新纪元",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311842",
-      "title": "法雷奥新一代双电控产品在江苏常熟量产",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311839",
-      "title": "小米汽车携手中国中车，打造“高铁基因”电驱SUV",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311838",
-      "title": "比亚迪唐遭货车猛烈撞击，车身严重损毁但车内人员仅轻伤",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311837",
-      "title": "广汽销量逆势增长2.35%，上半年亏损扩大至44.67亿",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/311834",
-      "title": "特斯拉Cybercab用RGB灯带识别乘客，9月3日奥斯汀开跑！",
-      "source": "第一电动",
-      "pushedAt": 1788100727543
-    },
     {
       "url": "https://www.d1ev.com/newsflash/311882",
       "title": "吉利星越L PLUS官图曝光，豪华智混SUV新标杆即将亮相",
@@ -3933,7 +3855,79 @@
       "title": "小智一周要闻｜宇树股价、市值双双腰斩；优必选上半年卖了921台全尺寸人形机器人",
       "source": "第一电动",
       "pushedAt": 1788700844240
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312216",
+      "title": "搭第五代THS混动 丰田发布新款皇冠家族官图",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312212",
+      "title": "国产奔驰长轴距GLE上市定档：宝马X5承压",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312205",
+      "title": "固态“虚火”退了、出海姿势变了......这届世界动力电池大会释放了什么信号",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312215",
+      "title": "特斯拉中国变相降价：Model 3/Y最高直降万元，叠加5年0息",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312214",
+      "title": "提供9座版本 现代Staria Electric正式发布",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312213",
+      "title": "军队专属配越野套件 路虎卫士狼II系列发布",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312210",
+      "title": "大众与众08猎影版车型登陆全国门店",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312209",
+      "title": "特斯拉Cybercab确认仅支持直流快充",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312208",
+      "title": "【盖世快讯】问界回应“预制车”传闻；特斯拉Robotaxi下月或实现全天候运营",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312207",
+      "title": "小米汽车累计交付已超80万台",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312206",
+      "title": "再掀 “利润之争”，谁在真正“吃肉”？",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312204",
+      "title": "新智造·新青年·新生态 从2026重庆汽车创新大会看产业跃迁新支点",
+      "source": "第一电动",
+      "pushedAt": 1788747758581
     }
   ],
-  "lastUpdated": "2026-09-06"
+  "lastUpdated": "2026-09-07"
 }
