@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/310012",
-    "https://www.d1ev.com/newsflash/310003",
-    "https://www.d1ev.com/newsflash/310001",
-    "https://www.d1ev.com/newsflash/310000",
     "https://www.d1ev.com/newsflash/310025",
     "https://www.d1ev.com/newsflash/310024",
     "https://www.d1ev.com/news/shichang/310023",
@@ -1999,105 +1995,13 @@
     "https://www.d1ev.com/news/shichang/312296",
     "https://www.d1ev.com/news/qiye/312289",
     "https://www.d1ev.com/news/qiye/312287",
-    "https://www.d1ev.com/news/shichang/312284"
+    "https://www.d1ev.com/news/shichang/312284",
+    "https://www.d1ev.com/carnews/xinche/312311",
+    "https://www.d1ev.com/news/shichang/312309",
+    "https://www.d1ev.com/news/shichang/312310",
+    "https://www.d1ev.com/news/shichang/312308"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/311988",
-      "title": "小鹏集团8月交付新车39107台，同比增长4%",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311986",
-      "title": "蔚来8月交付新车35836台，同比增长14.5%",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311980",
-      "title": "极氪8月交付新车36981辆",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311984",
-      "title": "2.4亿元天使轮背后，佑驾创新旗下曜行动力集齐物理AI“硬核阵容”",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311981",
-      "title": "深蓝汽车8月全球销量28,659辆，累计销量逼近百万",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311979",
-      "title": "零跑8月全球交付103129台",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/311978",
-      "title": "上汽通用五菱8月全球销量达130870辆，海外累计销量突破160万辆",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311994",
-      "title": "三部门发布汽车行业境外竞争指引：避免境外市场频繁大幅调价",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311993",
-      "title": "Stellantis集团调整传播与公共政策管理层 两项任命即日生效",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311992",
-      "title": "智界V9旗舰MPV 8月零售交付8312辆",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311991",
-      "title": "东风本田8月销量16891辆",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311989",
-      "title": "理想汽车8月交付37679辆",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311987",
-      "title": "晓莺说｜18个月，能造好一辆车吗？",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/311985",
-      "title": "蔚来公司8月交付35,836台，同比增长14.47%",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311982",
-      "title": "采埃孚新获两家中国车企项目定点",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/311977",
-      "title": "MG07大定锁单突破31000+",
-      "source": "第一电动",
-      "pushedAt": 1788253562311
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312001",
       "title": "五菱汽车3大主业撑起营收，但净利下滑26%！新业务亏损拖累业绩",
@@ -3723,6 +3627,30 @@
       "title": "天奇股份具身智能机器人产业项目开工",
       "source": "第一电动",
       "pushedAt": 1788856252774
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312311",
+      "title": "新能源产业链的利润失衡困局：电芯赚12.9%，整车仅3.7%！",
+      "source": "第一电动",
+      "pushedAt": 1788876535575
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312309",
+      "title": "加拿大对美国200亿美元商品的反制关税正式生效",
+      "source": "第一电动",
+      "pushedAt": 1788876535575
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312310",
+      "title": "油电切换提速，8月车市的冷与热",
+      "source": "第一电动",
+      "pushedAt": 1788876535575
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312308",
+      "title": "Seeds | 千诀科技完成数亿元A+轮融资",
+      "source": "第一电动",
+      "pushedAt": 1788876535575
     }
   ],
   "lastUpdated": "2026-09-08"
