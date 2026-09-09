@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310050",
     "https://www.d1ev.com/newsflash/310055",
     "https://www.d1ev.com/news/shichang/310043",
     "https://www.d1ev.com/newsflash/310042",
@@ -1999,39 +1998,10 @@
     "https://www.d1ev.com/news/shichang/312340",
     "https://www.d1ev.com/news/shichang/312339",
     "https://www.d1ev.com/news/qiye/312336",
-    "https://www.d1ev.com/news/shichang/312365"
+    "https://www.d1ev.com/news/shichang/312365",
+    "https://www.d1ev.com/news/qiye/312367"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312050",
-      "title": "新一代理想MEGA上市，仅提供Home版，售价50.98万元",
-      "source": "第一电动",
-      "pushedAt": 1788371377840
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312049",
-      "title": "2026款理想MEGA Home上市 售价50.98万元",
-      "source": "第一电动",
-      "pushedAt": 1788371377840
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312048",
-      "title": "广汽传祺越7开启预售 预售价17.98-22.58万",
-      "source": "第一电动",
-      "pushedAt": 1788371377840
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312046",
-      "title": "比老款便宜5万，新一代理想MEGA 50.98万上市",
-      "source": "第一电动",
-      "pushedAt": 1788371377840
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312047",
-      "title": "特朗普政府拟对外国芯片加征更多关税，美国制造企业或获豁免",
-      "source": "第一电动",
-      "pushedAt": 1788371377840
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312053",
       "title": "颜值科幻动力多样 全新奔驰纯电GLA新车图解",
@@ -3669,7 +3639,13 @@
       "title": "第411批工信部新车公示：重磅车型盘点",
       "source": "第一电动",
       "pushedAt": 1788962729116
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312367",
+      "title": "超特斯拉Model Y！零跑A10 8月狂卖3万+台 蝉联国内SUV销冠",
+      "source": "第一电动",
+      "pushedAt": 1788980422544
     }
   ],
-  "lastUpdated": "2026-09-09"
+  "lastUpdated": "2026-09-10"
 }
