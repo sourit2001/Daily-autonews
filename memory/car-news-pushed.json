@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310040",
     "https://www.d1ev.com/newsflash/310050",
     "https://www.d1ev.com/newsflash/310055",
     "https://www.d1ev.com/news/shichang/310043",
@@ -1999,57 +1998,10 @@
     "https://www.d1ev.com/news/shichang/312342",
     "https://www.d1ev.com/news/shichang/312340",
     "https://www.d1ev.com/news/shichang/312339",
-    "https://www.d1ev.com/news/qiye/312336"
+    "https://www.d1ev.com/news/qiye/312336",
+    "https://www.d1ev.com/news/shichang/312365"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312045",
-      "title": "李想口中全世界最好开最舒适的MPV！全新理想MEGA Home上市",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312040",
-      "title": "启境CEO刘嘉铭：GX7起步即搭载L3级自动驾驶架构",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312043",
-      "title": "​七个月销量超去年全年，中国品牌在欧洲靠什么升至11.2%？",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312044",
-      "title": "曝本田拟在4年内降本逾90亿美元，已要求供应商降价",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312041",
-      "title": "法拉第未来机器人中东业务完成首单交付",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312039",
-      "title": "重庆青山大功率同轴电驱规模化量产，已获赛力斯新项目定点",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312038",
-      "title": "大众管理层提议关闭4家德国工厂",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312037",
-      "title": "兴瑞科技牵手臻驱科技，瞄准电控、机器人及固态变压器",
-      "source": "第一电动",
-      "pushedAt": 1788357713934
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312050",
       "title": "新一代理想MEGA上市，仅提供Home版，售价50.98万元",
@@ -3711,6 +3663,12 @@
       "title": "北汽集团1-8月累计销量超103万辆",
       "source": "第一电动",
       "pushedAt": 1788943605956
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312365",
+      "title": "第411批工信部新车公示：重磅车型盘点",
+      "source": "第一电动",
+      "pushedAt": 1788962729116
     }
   ],
   "lastUpdated": "2026-09-09"
