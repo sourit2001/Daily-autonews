@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310103",
-    "https://www.d1ev.com/news/qiye/310102",
-    "https://www.d1ev.com/news/qiye/310101",
     "https://www.d1ev.com/newsflash/310099",
     "https://www.d1ev.com/newsflash/310098",
     "https://www.d1ev.com/newsflash/310096",
@@ -1999,87 +1996,12 @@
     "https://www.d1ev.com/news/qiye/312415",
     "https://www.d1ev.com/news/qiye/312413",
     "https://www.d1ev.com/news/shichang/312408",
-    "https://www.d1ev.com/news/shichang/312407"
+    "https://www.d1ev.com/news/shichang/312407",
+    "https://www.d1ev.com/news/shichang/312418",
+    "https://www.d1ev.com/carnews/xinche/312417",
+    "https://www.d1ev.com/news/qiye/312416"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312091",
-      "title": "小鹏大众联手打造 与众09内饰官图公布：新势力味浓郁",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312086",
-      "title": "瀚思通-光波导光场屏2.0 | 申报2026第八届金辑奖中国汽车新供应链百强",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312084",
-      "title": "众泰汽车模具工厂全面复产，新车型进入批量验证阶段",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312096",
-      "title": "当中国电池拿下七成市场，曾毓群为何偏偏要谈“品质”？",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312095",
-      "title": "欧阳明高：AI将重塑电池全产业链",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312089",
-      "title": "具身智能岗位暴增6至7倍，人才争夺战升温，但薪资仍不及大模型",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312090",
-      "title": "吉利控股集团发文回应：坚守合规经营初心，坚定走高质量全球化之路",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312088",
-      "title": "A股8大乘用车集团半年考：总营收破9000亿元但陷入“盈利难”，海外市场抢增量",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312087",
-      "title": "“在中国，为全球”，天纳克全球创新中心在昆山正式启用",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312094",
-      "title": "逐际动力机器人，进工地“干活”了",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312093",
-      "title": "给机器人“减重”，华翔启源上海创新中心落地张江",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312085",
-      "title": "史上最强、加速最快的量产车！宾利首款纯电SUV Torcal预告",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312083",
-      "title": "安波福整合互连业务：Winchester、IAS统一更名",
-      "source": "第一电动",
-      "pushedAt": 1788444165405
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312099",
       "title": "FREELANDER神行者8 大六座版正式上市，限时权益价29.99万元起，至高享17.6万元限时购车权益",
@@ -3741,7 +3663,25 @@
       "title": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
       "source": "第一电动",
       "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312418",
+      "title": "12.99万元起，吉利银河TT上市15分钟大定突破10000台",
+      "source": "第一电动",
+      "pushedAt": 1789061807422
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312417",
+      "title": "吉利银河TT正式上市 售价13.99-19.59万元",
+      "source": "第一电动",
+      "pushedAt": 1789061807422
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312416",
+      "title": "比Model 3便宜10万 3.8秒破百！吉利银河TT限时12.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1789061807422
     }
   ],
-  "lastUpdated": "2026-09-10"
+  "lastUpdated": "2026-09-11"
 }
