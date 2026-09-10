@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310077",
-    "https://www.d1ev.com/news/qiye/310089",
-    "https://www.d1ev.com/newsflash/310088",
-    "https://www.d1ev.com/newsflash/310108",
-    "https://www.d1ev.com/news/shichang/310090",
-    "https://www.d1ev.com/newsflash/310106",
-    "https://www.d1ev.com/newsflash/310100",
-    "https://www.d1ev.com/newsflash/310097",
-    "https://www.d1ev.com/newsflash/310093",
-    "https://www.d1ev.com/news/shichang/310095",
-    "https://www.d1ev.com/newsflash/310107",
-    "https://www.d1ev.com/carnews/xinche/310105",
-    "https://www.d1ev.com/news/shichang/310104",
     "https://www.d1ev.com/news/shichang/310103",
     "https://www.d1ev.com/news/qiye/310102",
     "https://www.d1ev.com/news/qiye/310101",
@@ -1999,7 +1986,20 @@
     "https://www.d1ev.com/news/shichang/312387",
     "https://www.d1ev.com/news/shichang/312384",
     "https://www.d1ev.com/news/shichang/312383",
-    "https://www.d1ev.com/news/shichang/312382"
+    "https://www.d1ev.com/news/shichang/312382",
+    "https://www.d1ev.com/news/shichang/312414",
+    "https://www.d1ev.com/news/shichang/312411",
+    "https://www.d1ev.com/news/shichang/312409",
+    "https://www.d1ev.com/news/shichang/312404",
+    "https://www.d1ev.com/news/shichang/312403",
+    "https://www.d1ev.com/news/qiye/312412",
+    "https://www.d1ev.com/news/shichang/312410",
+    "https://www.d1ev.com/news/shichang/312406",
+    "https://www.d1ev.com/news/shichang/312402",
+    "https://www.d1ev.com/news/qiye/312415",
+    "https://www.d1ev.com/news/qiye/312413",
+    "https://www.d1ev.com/news/shichang/312408",
+    "https://www.d1ev.com/news/shichang/312407"
   ],
   "newsHistory": [
     {
@@ -3663,6 +3663,84 @@
       "title": "巧克力换电规划年底建成超3000座换电站",
       "source": "第一电动",
       "pushedAt": 1789029270932
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312414",
+      "title": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312411",
+      "title": "科学家研制出用于燃料电池的超稳定催化剂",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312409",
+      "title": "Motional发布开源数据集nuReasoning 助力自动驾驶车辆掌握类人推理能力",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312404",
+      "title": "9月首周乘用车零售同比降19%，新能源渗透率超七成",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312403",
+      "title": "文远知行获西班牙首张L4级自动驾驶乘用车运营牌照",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312412",
+      "title": "停产五年后，众泰把命运押向海外",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312410",
+      "title": "深化交流丨博尔豪夫全球管理团队来访盖世汽车",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312406",
+      "title": "小马智行联合Verne启动欧洲首例全无人Robotaxi载客测试",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312402",
+      "title": "美国司法部基于反垄断担忧，调查英伟达与Groq合作交易",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312415",
+      "title": "传班长不让普工上厕所致过激事件 宁德时 代躺枪后正主发声",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312413",
+      "title": "启境回应“攻防”信息误发：承认处置不专业，称并非策划攻击友商",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312408",
+      "title": "Geotab在新加坡推出GO Focus Plus 助力车队预防事故",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312407",
+      "title": "海克斯康发布新一代OPTIV S 4.4.3光学三坐标测量机",
+      "source": "第一电动",
+      "pushedAt": 1789048893869
     }
   ],
   "lastUpdated": "2026-09-10"
