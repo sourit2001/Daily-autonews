@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310099",
-    "https://www.d1ev.com/newsflash/310098",
     "https://www.d1ev.com/newsflash/310096",
     "https://www.d1ev.com/newsflash/310094",
     "https://www.d1ev.com/newsflash/310092",
@@ -1999,33 +1997,11 @@
     "https://www.d1ev.com/news/shichang/312407",
     "https://www.d1ev.com/news/shichang/312418",
     "https://www.d1ev.com/carnews/xinche/312417",
-    "https://www.d1ev.com/news/qiye/312416"
+    "https://www.d1ev.com/news/qiye/312416",
+    "https://www.d1ev.com/news/shichang/312420",
+    "https://www.d1ev.com/news/shichang/312419"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312099",
-      "title": "FREELANDER神行者8 大六座版正式上市，限时权益价29.99万元起，至高享17.6万元限时购车权益",
-      "source": "第一电动",
-      "pushedAt": 1788462101902
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312098",
-      "title": "FREELANDER神行者8上市 售30.99-39.99万元",
-      "source": "第一电动",
-      "pushedAt": 1788462101902
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312097",
-      "title": "亿纬锂能刘金成：电池行业需要一场“集体反思”",
-      "source": "第一电动",
-      "pushedAt": 1788462101902
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312100",
-      "title": "30万以内轻越野市场，又来了一强者",
-      "source": "第一电动",
-      "pushedAt": 1788462101902
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312118",
       "title": "华阳通用-华阳全场景AI座舱解决方案 | 申报2026第八届金辑奖中国汽车新供应链百强",
@@ -3681,6 +3657,18 @@
       "title": "比Model 3便宜10万 3.8秒破百！吉利银河TT限时12.99万元起",
       "source": "第一电动",
       "pushedAt": 1789061807422
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312420",
+      "title": "赋能电驱与线控制动，TE携新能源汽车核心感知方案亮相Sensor China 2026",
+      "source": "第一电动",
+      "pushedAt": 1789083424845
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312419",
+      "title": "从分散到集中，亚新科推动整车供气进入“中央气源”时代",
+      "source": "第一电动",
+      "pushedAt": 1789083424845
     }
   ],
   "lastUpdated": "2026-09-11"
