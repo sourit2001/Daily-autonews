@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310164",
-    "https://www.d1ev.com/newsflash/310156",
     "https://www.d1ev.com/newsflash/310155",
     "https://www.d1ev.com/newsflash/310166",
     "https://www.d1ev.com/newsflash/310165",
@@ -1999,15 +1997,11 @@
     "https://www.d1ev.com/news/qiye/312467",
     "https://www.d1ev.com/news/shichang/312472",
     "https://www.d1ev.com/news/qiye/312471",
-    "https://www.d1ev.com/news/shichang/312469"
+    "https://www.d1ev.com/news/shichang/312469",
+    "https://www.d1ev.com/news/qiye/312474",
+    "https://www.d1ev.com/news/qiye/312473"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312180",
-      "title": "长安启源Q06开启预售 预售价14.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1788542390330
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312181",
       "title": "小米汽车出海第一站，选在BBA的大本营",
@@ -3579,7 +3573,19 @@
       "title": "2026年1-7月电气化供应商装机量排行榜：车企自制加速渗透丨盖世汽车研究院",
       "source": "第一电动",
       "pushedAt": 1789135162024
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312474",
+      "title": "8款车漆、两款内饰色、5个配置包！理想i9可选配置一文看完",
+      "source": "第一电动",
+      "pushedAt": 1789148355874
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312473",
+      "title": "1.5T四缸机爬到6002米！神行者8创混动最高海拔吉尼斯纪录",
+      "source": "第一电动",
+      "pushedAt": 1789148355874
     }
   ],
-  "lastUpdated": "2026-09-11"
+  "lastUpdated": "2026-09-12"
 }
