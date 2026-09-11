@@ -1,23 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310096",
-    "https://www.d1ev.com/newsflash/310094",
-    "https://www.d1ev.com/newsflash/310092",
-    "https://www.d1ev.com/news/shichang/310091",
-    "https://www.d1ev.com/newsflash/310134",
-    "https://www.d1ev.com/carnews/xinche/310127",
-    "https://www.d1ev.com/news/shichang/310120",
-    "https://www.d1ev.com/newsflash/310118",
-    "https://www.d1ev.com/newsflash/310114",
-    "https://www.d1ev.com/carnews/xinche/310112",
-    "https://www.d1ev.com/carnews/xinche/310111",
-    "https://www.d1ev.com/carnews/xinche/310110",
-    "https://www.d1ev.com/carnews/xinche/310109",
-    "https://www.d1ev.com/newsflash/310133",
-    "https://www.d1ev.com/newsflash/310130",
-    "https://www.d1ev.com/newsflash/310129",
-    "https://www.d1ev.com/newsflash/310128",
-    "https://www.d1ev.com/newsflash/310119",
     "https://www.d1ev.com/news/shichang/310117",
     "https://www.d1ev.com/newsflash/310115",
     "https://www.d1ev.com/newsflash/310113",
@@ -1999,7 +1981,25 @@
     "https://www.d1ev.com/carnews/xinche/312417",
     "https://www.d1ev.com/news/qiye/312416",
     "https://www.d1ev.com/news/shichang/312420",
-    "https://www.d1ev.com/news/shichang/312419"
+    "https://www.d1ev.com/news/shichang/312419",
+    "https://www.d1ev.com/news/shichang/312436",
+    "https://www.d1ev.com/news/shichang/312435",
+    "https://www.d1ev.com/news/shichang/312434",
+    "https://www.d1ev.com/news/shichang/312431",
+    "https://www.d1ev.com/news/shichang/312430",
+    "https://www.d1ev.com/news/qiye/312429",
+    "https://www.d1ev.com/carnews/xinche/312428",
+    "https://www.d1ev.com/news/shichang/312422",
+    "https://www.d1ev.com/carnews/xinche/312425",
+    "https://www.d1ev.com/carnews/xinche/312438",
+    "https://www.d1ev.com/carnews/xinche/312437",
+    "https://www.d1ev.com/news/qiye/312433",
+    "https://www.d1ev.com/news/shichang/312432",
+    "https://www.d1ev.com/carnews/xinche/312427",
+    "https://www.d1ev.com/carnews/xinche/312426",
+    "https://www.d1ev.com/carnews/xinche/312424",
+    "https://www.d1ev.com/news/shichang/312423",
+    "https://www.d1ev.com/news/shichang/312421"
   ],
   "newsHistory": [
     {
@@ -3669,6 +3669,114 @@
       "title": "从分散到集中，亚新科推动整车供气进入“中央气源”时代",
       "source": "第一电动",
       "pushedAt": 1789083424845
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312436",
+      "title": "中兴微电子-舱驾控一体中央计算 SOC 芯片“览岳”A1 | 申报2026第八届金辑奖最佳技术实践应用奖",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312435",
+      "title": "紫光同芯-基于汽车安全芯片T9系列的车规级SE多应用平台 | 申报2026第八届金辑奖中国汽车新供应链百强",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312434",
+      "title": "芯驰科技-芯驰E3650芯片 | 申报2026第八届金辑奖最佳技术实践应用奖",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312431",
+      "title": "上海睿赛德-程翧整车基础软件操作系统 | 申报2026第八届金辑奖最佳技术实践应用奖",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312430",
+      "title": "嬴彻科技-嬴彻智能辅助驾驶系统 | 申报2026第八届金辑奖最佳技术实践应用奖",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312429",
+      "title": "百公里加速3.5秒、极速250公里/时 全新Model Y高性能版上市 36.9万元起",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312428",
+      "title": "极具新鲜感 雪铁龙C5 AIRCROSS翡翠版发布",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312422",
+      "title": "【盖世快讯】8月新能源汽车销量占比达60.6%；曝英伟达被美司法部调查",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312425",
+      "title": "沃尔沃在美国停售EX40并推出2028款XC40",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312438",
+      "title": "特斯拉Model Y Performance开售：零百3.5秒",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312437",
+      "title": "余承东预热享界V8：全家都能开的MPV",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312433",
+      "title": "汽车制造一百年没变的东西，被马斯克推翻了",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312432",
+      "title": "大众集团裁员及潜在关厂成本或达160亿欧元",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312427",
+      "title": "黑化外观更帅气 大众Amarok特别版发布",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312426",
+      "title": "特斯拉更新Cybertruck侧向补盲摄像头设计",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312424",
+      "title": "宝马iX5 Hydrogen原型车开始实际道路测试",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312423",
+      "title": "Cybercab终于上路，特斯拉的Robotaxi还有多少先机？",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312421",
+      "title": "对话兆威机电陈毅东：灵巧手，第一设计目标要“好看”",
+      "source": "第一电动",
+      "pushedAt": 1789093924284
     }
   ],
   "lastUpdated": "2026-09-11"
