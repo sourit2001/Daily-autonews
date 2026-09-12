@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310155",
-    "https://www.d1ev.com/newsflash/310166",
-    "https://www.d1ev.com/newsflash/310165",
     "https://www.d1ev.com/newsflash/310162",
     "https://www.d1ev.com/newsflash/310161",
     "https://www.d1ev.com/newsflash/310160",
@@ -1999,33 +1996,12 @@
     "https://www.d1ev.com/news/qiye/312471",
     "https://www.d1ev.com/news/shichang/312469",
     "https://www.d1ev.com/news/qiye/312474",
-    "https://www.d1ev.com/news/qiye/312473"
+    "https://www.d1ev.com/news/qiye/312473",
+    "https://www.d1ev.com/carnews/xinche/312477",
+    "https://www.d1ev.com/carnews/xinche/312476",
+    "https://www.d1ev.com/carnews/xinche/312475"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312181",
-      "title": "小米汽车出海第一站，选在BBA的大本营",
-      "source": "第一电动",
-      "pushedAt": 1788565060383
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312182",
-      "title": "增程新选择 启境GX7开启预售：24.99万起",
-      "source": "第一电动",
-      "pushedAt": 1788575313252
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312184",
-      "title": "现代新伊兰特等车型把仪表盘改为付费选装",
-      "source": "第一电动",
-      "pushedAt": 1788575313252
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312183",
-      "title": "长城董事长魏建军：我很满意魏牌豪华方盒子",
-      "source": "第一电动",
-      "pushedAt": 1788575313252
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312187",
       "title": "42.99万起，岚图梦想家9启动预售",
@@ -3585,6 +3561,24 @@
       "title": "1.5T四缸机爬到6002米！神行者8创混动最高海拔吉尼斯纪录",
       "source": "第一电动",
       "pushedAt": 1789148355874
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312477",
+      "title": "三电机千匹马力 方程豹S GT六色官图发布",
+      "source": "第一电动",
+      "pushedAt": 1789180749340
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312476",
+      "title": "宝马Z4借壳复活 改装版Spider正式亮相",
+      "source": "第一电动",
+      "pushedAt": 1789180749340
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312475",
+      "title": "纽博格林百年庆生 宝马推出6款限量版M车型",
+      "source": "第一电动",
+      "pushedAt": 1789180749340
     }
   ],
   "lastUpdated": "2026-09-12"
