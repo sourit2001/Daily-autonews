@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310162",
-    "https://www.d1ev.com/newsflash/310161",
-    "https://www.d1ev.com/newsflash/310160",
     "https://www.d1ev.com/news/qiye/310159",
     "https://www.d1ev.com/newsflash/310157",
     "https://www.d1ev.com/news/shichang/310158",
@@ -1999,27 +1996,12 @@
     "https://www.d1ev.com/news/qiye/312473",
     "https://www.d1ev.com/carnews/xinche/312477",
     "https://www.d1ev.com/carnews/xinche/312476",
-    "https://www.d1ev.com/carnews/xinche/312475"
+    "https://www.d1ev.com/carnews/xinche/312475",
+    "https://www.d1ev.com/news/qiye/312480",
+    "https://www.d1ev.com/news/shichang/312479",
+    "https://www.d1ev.com/news/qiye/312478"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312187",
-      "title": "42.99万起，岚图梦想家9启动预售",
-      "source": "第一电动",
-      "pushedAt": 1788595143498
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312185",
-      "title": "中国研究团队研发出离子弹性体 可使全固态电池在5 MPa低压下稳定循环700次",
-      "source": "第一电动",
-      "pushedAt": 1788595143498
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312186",
-      "title": "长安的产业突围",
-      "source": "第一电动",
-      "pushedAt": 1788595143498
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312191",
       "title": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
@@ -3579,6 +3561,24 @@
       "title": "纽博格林百年庆生 宝马推出6款限量版M车型",
       "source": "第一电动",
       "pushedAt": 1789180749340
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312480",
+      "title": "马斯克怒怼特斯拉车祸报道：他们是因我不投广告怀恨在心",
+      "source": "第一电动",
+      "pushedAt": 1789201044136
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312479",
+      "title": "对话维他动力赵哲伦：机器人的\"福特时刻\"，不会只有一个",
+      "source": "第一电动",
+      "pushedAt": 1789201044136
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312478",
+      "title": "老牌车企加速研发！奥迪A2 e-tron开发时间成功缩短21个月",
+      "source": "第一电动",
+      "pushedAt": 1789201044136
     }
   ],
   "lastUpdated": "2026-09-12"
