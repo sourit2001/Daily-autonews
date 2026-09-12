@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/310159",
     "https://www.d1ev.com/newsflash/310157",
     "https://www.d1ev.com/news/shichang/310158",
     "https://www.d1ev.com/newsflash/310167",
@@ -1999,21 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/312475",
     "https://www.d1ev.com/news/qiye/312480",
     "https://www.d1ev.com/news/shichang/312479",
-    "https://www.d1ev.com/news/qiye/312478"
+    "https://www.d1ev.com/news/qiye/312478",
+    "https://www.d1ev.com/carnews/xinche/312481"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312191",
-      "title": "启境GX7预售24.99-31.19万元，起步即标配L3架构",
-      "source": "第一电动",
-      "pushedAt": 1788608602332
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312192",
-      "title": "花21万买车被截胡充电桩 门店谎称无赠送 到手仅杂牌随车充",
-      "source": "第一电动",
-      "pushedAt": 1788608602332
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312194",
       "title": "启境GX7开启预售 定位智能SUV标配L3架构",
@@ -3579,6 +3567,12 @@
       "title": "老牌车企加速研发！奥迪A2 e-tron开发时间成功缩短21个月",
       "source": "第一电动",
       "pushedAt": 1789201044136
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312481",
+      "title": "与众08猎影版暨全系焕新上市 售价21.99万起",
+      "source": "第一电动",
+      "pushedAt": 1789219079056
     }
   ],
   "lastUpdated": "2026-09-12"
