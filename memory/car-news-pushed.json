@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310184",
-    "https://www.d1ev.com/newsflash/310179",
-    "https://www.d1ev.com/newsflash/310174",
-    "https://www.d1ev.com/newsflash/310172",
     "https://www.d1ev.com/newsflash/310171",
     "https://www.d1ev.com/news/shichang/310170",
     "https://www.d1ev.com/news/shichang/310169",
@@ -1999,39 +1995,13 @@
     "https://www.d1ev.com/news/qiye/312492",
     "https://www.d1ev.com/carnews/xinche/312490",
     "https://www.d1ev.com/carnews/xinche/312489",
-    "https://www.d1ev.com/news/shichang/312486"
+    "https://www.d1ev.com/news/shichang/312486",
+    "https://www.d1ev.com/news/qiye/312497",
+    "https://www.d1ev.com/carnews/xinche/312496",
+    "https://www.d1ev.com/news/qiye/312495",
+    "https://www.d1ev.com/news/qiye/312494"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312199",
-      "title": "聚焦全球技术趋势！这场动力电池专题会，看透行业未来3–5年迭代方向",
-      "source": "第一电动",
-      "pushedAt": 1788682607314
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312198",
-      "title": "《动力电池产业发展指数（2026）》发布",
-      "source": "第一电动",
-      "pushedAt": 1788682607314
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312196",
-      "title": "特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
-      "source": "第一电动",
-      "pushedAt": 1788682607314
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312195",
-      "title": "126万辆车换了1.2亿次电池！蔚来全国建成9322座充换电站",
-      "source": "第一电动",
-      "pushedAt": 1788682607314
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312200",
-      "title": "特斯拉Cybercab上路当天遭调查：没方向盘没踏板 自己认证存合规风险",
-      "source": "第一电动",
-      "pushedAt": 1788682607314
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312203",
       "title": "E周看点｜理想汽车拟26.5亿元战略入股欣旺达动力；小米汽车2027年进军欧洲",
@@ -3615,6 +3585,30 @@
       "title": "盖世周报 | 供应商账期再收紧；日本电机巨头造假结果公布",
       "source": "第一电动",
       "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312497",
+      "title": "销量大跌 份额反而大涨！特斯拉靠对手退群重回美国第一",
+      "source": "第一电动",
+      "pushedAt": 1789288907708
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312496",
+      "title": "64.98万起 问界M9最贵版本开启全国交付",
+      "source": "第一电动",
+      "pushedAt": 1789288907708
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312495",
+      "title": "误踩油门小艺疯狂喊请抬脚！车主：前车是库里南 脚都硬了",
+      "source": "第一电动",
+      "pushedAt": 1789288907708
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312494",
+      "title": "刚提就降价特斯拉遭集体投诉！车主：不奢望退钱 但要补偿",
+      "source": "第一电动",
+      "pushedAt": 1789288907708
     }
   ],
   "lastUpdated": "2026-09-13"
