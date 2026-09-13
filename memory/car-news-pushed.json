@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310167",
-    "https://www.d1ev.com/newsflash/310163",
-    "https://www.d1ev.com/newsflash/310186",
-    "https://www.d1ev.com/newsflash/310185",
-    "https://www.d1ev.com/news/qiye/310183",
-    "https://www.d1ev.com/newsflash/310182",
-    "https://www.d1ev.com/newsflash/310190",
     "https://www.d1ev.com/newsflash/310184",
     "https://www.d1ev.com/newsflash/310179",
     "https://www.d1ev.com/newsflash/310174",
@@ -1999,21 +1992,16 @@
     "https://www.d1ev.com/news/qiye/312478",
     "https://www.d1ev.com/carnews/xinche/312481",
     "https://www.d1ev.com/news/qiye/312484",
-    "https://www.d1ev.com/news/qiye/312483"
+    "https://www.d1ev.com/news/qiye/312483",
+    "https://www.d1ev.com/carnews/xinche/312491",
+    "https://www.d1ev.com/news/qiye/312488",
+    "https://www.d1ev.com/carnews/xinche/312487",
+    "https://www.d1ev.com/news/qiye/312492",
+    "https://www.d1ev.com/carnews/xinche/312490",
+    "https://www.d1ev.com/carnews/xinche/312489",
+    "https://www.d1ev.com/news/shichang/312486"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312194",
-      "title": "启境GX7开启预售 定位智能SUV标配L3架构",
-      "source": "第一电动",
-      "pushedAt": 1788661471432
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312193",
-      "title": "盖世周报 | 大众拟裁5万人；本田拟4年内降本逾90亿美元",
-      "source": "第一电动",
-      "pushedAt": 1788661471432
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312199",
       "title": "聚焦全球技术趋势！这场动力电池专题会，看透行业未来3–5年迭代方向",
@@ -3585,6 +3573,48 @@
       "title": "问界M9 Ultimate领世加长版先行者正式开启全国交付",
       "source": "第一电动",
       "pushedAt": 1789231277670
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312491",
+      "title": "MINI联名PAUL SMITH设计师款燃油版开启预售",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312488",
+      "title": "跳票近9年终于亮相！新一代特斯拉Roadster定档10月1日揭幕",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312487",
+      "title": "科技质感升级 新款奥迪Q4 e-tron新车图解",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312492",
+      "title": "64.98万起 问界M9最贵版！Ultimate领世加长开启全国交付",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312490",
+      "title": "官方解答理想i9 Home和理想MEGA Home差异",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312489",
+      "title": "跳票近9年 全新特斯拉Roadster即将发布",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312486",
+      "title": "盖世周报 | 供应商账期再收紧；日本电机巨头造假结果公布",
+      "source": "第一电动",
+      "pushedAt": 1789267072819
     }
   ],
   "lastUpdated": "2026-09-13"
