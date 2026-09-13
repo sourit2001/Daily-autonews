@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310171",
-    "https://www.d1ev.com/news/shichang/310170",
     "https://www.d1ev.com/news/shichang/310169",
     "https://www.d1ev.com/news/shichang/310188",
     "https://www.d1ev.com/newsflash/310189",
@@ -1999,27 +1997,11 @@
     "https://www.d1ev.com/news/qiye/312497",
     "https://www.d1ev.com/carnews/xinche/312496",
     "https://www.d1ev.com/news/qiye/312495",
-    "https://www.d1ev.com/news/qiye/312494"
+    "https://www.d1ev.com/news/qiye/312494",
+    "https://www.d1ev.com/news/shichang/312500",
+    "https://www.d1ev.com/news/shichang/312499"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312203",
-      "title": "E周看点｜理想汽车拟26.5亿元战略入股欣旺达动力；小米汽车2027年进军欧洲",
-      "source": "第一电动",
-      "pushedAt": 1788700844240
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312202",
-      "title": "China GT上海站发生起火事故：救援失职，车队宣布退赛抗议",
-      "source": "第一电动",
-      "pushedAt": 1788700844240
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312201",
-      "title": "小智一周要闻｜宇树股价、市值双双腰斩；优必选上半年卖了921台全尺寸人形机器人",
-      "source": "第一电动",
-      "pushedAt": 1788700844240
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312216",
       "title": "搭第五代THS混动 丰田发布新款皇冠家族官图",
@@ -3609,6 +3591,18 @@
       "title": "刚提就降价特斯拉遭集体投诉！车主：不奢望退钱 但要补偿",
       "source": "第一电动",
       "pushedAt": 1789288907708
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312500",
+      "title": "E周看点 | 8月新能源销量占比60.6%；理想全系车型将切换自研电池",
+      "source": "第一电动",
+      "pushedAt": 1789308057646
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312499",
+      "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
+      "source": "第一电动",
+      "pushedAt": 1789308057646
     }
   ],
   "lastUpdated": "2026-09-13"
