@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310169",
-    "https://www.d1ev.com/news/shichang/310188",
     "https://www.d1ev.com/newsflash/310189",
     "https://www.d1ev.com/news/shichang/310187",
     "https://www.d1ev.com/news/shichang/310181",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/qiye/312495",
     "https://www.d1ev.com/news/qiye/312494",
     "https://www.d1ev.com/news/shichang/312500",
-    "https://www.d1ev.com/news/shichang/312499"
+    "https://www.d1ev.com/news/shichang/312499",
+    "https://www.d1ev.com/news/qiye/312503",
+    "https://www.d1ev.com/news/shichang/312502"
   ],
   "newsHistory": [
     {
@@ -3603,7 +3603,19 @@
       "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
       "source": "第一电动",
       "pushedAt": 1789308057646
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312503",
+      "title": "宝马干了特斯拉不敢干的！旗舰纯电轿车i7在印度量产下线",
+      "source": "第一电动",
+      "pushedAt": 1789344148963
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312502",
+      "title": "【盖世快讯】太乙圣莲拟出资入主哪吒汽车；工信部称深入整治汽车等行业网络乱象",
+      "source": "第一电动",
+      "pushedAt": 1789344148963
     }
   ],
-  "lastUpdated": "2026-09-13"
+  "lastUpdated": "2026-09-14"
 }
