@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310290",
     "https://www.d1ev.com/newsflash/310289",
     "https://www.d1ev.com/news/shichang/310281",
     "https://www.d1ev.com/news/qiye/310280",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/shichang/312594",
     "https://www.d1ev.com/carnews/xinche/312614",
     "https://www.d1ev.com/news/qiye/312612",
-    "https://www.d1ev.com/news/qiye/312613"
+    "https://www.d1ev.com/news/qiye/312613",
+    "https://www.d1ev.com/news/shichang/312615"
   ],
   "newsHistory": [
     {
@@ -3669,6 +3669,12 @@
       "title": "4起致命事故、至少7人丧生！特斯拉辅助驾驶单月236起事故",
       "source": "第一电动",
       "pushedAt": 1789495415025
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312615",
+      "title": "【盖世快讯】与赛力斯合作生变，问界成独立子品牌？华为高管辟谣；广汽集团H股恢复买卖",
+      "source": "第一电动",
+      "pushedAt": 1789516515042
     }
   ],
   "lastUpdated": "2026-09-16"
