@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310243",
-    "https://www.d1ev.com/newsflash/310241",
-    "https://www.d1ev.com/newsflash/310239",
-    "https://www.d1ev.com/newsflash/310238",
-    "https://www.d1ev.com/newsflash/310236",
     "https://www.d1ev.com/newsflash/310242",
     "https://www.d1ev.com/newsflash/310240",
     "https://www.d1ev.com/carnews/xinche/310261",
@@ -1999,93 +1994,14 @@
     "https://www.d1ev.com/news/qiye/312542",
     "https://www.d1ev.com/news/qiye/312540",
     "https://www.d1ev.com/news/qiye/312537",
-    "https://www.d1ev.com/news/qiye/312536"
+    "https://www.d1ev.com/news/qiye/312536",
+    "https://www.d1ev.com/carnews/xinche/312563",
+    "https://www.d1ev.com/news/shichang/312562",
+    "https://www.d1ev.com/news/shichang/312561",
+    "https://www.d1ev.com/carnews/xinche/312565",
+    "https://www.d1ev.com/news/shichang/312564"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312262",
-      "title": "小米澎程系列上市：四款车，20.99万起",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312261",
-      "title": "米粉移动的家登场！小米澎程N90 Max探索版上市：29.99万元",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312259",
-      "title": "银基科技-Device HUB智能终端枢纽 | 申报2026第八届金辑奖最佳技术实践应用奖",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312257",
-      "title": "史上最省电的车！奥迪A2 e-tron官图亮相:百公里仅12.8度电",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312250",
-      "title": "艾拉比智能车机诊断系统 | 申报2026第八届金辑奖汽车新供应链百强",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312249",
-      "title": "概念车高度还原！大众全新纯电轿车谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312256",
-      "title": "零碳引擎科技集团与弗迪电池签署战略合作",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312263",
-      "title": "大众出售德国奥斯纳布吕克工厂",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312260",
-      "title": "雷军详解澎程N70外观设计：小米汽车家族化设计 六款配色",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312258",
-      "title": "曝华为、江淮与玛莎拉蒂洽谈合作，首款合作车型或于2027年投产",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312255",
-      "title": "福瑞泰克“福星”新平台正式量产，2026年预计交付超10万台",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312252",
-      "title": "百万豪车一年折损40万！实探北京花乡二手车市场，车商：帕拉梅拉直降10万，仍没卖出去",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312251",
-      "title": "聚合智能产业发展大会（2026）将于9月8-9日在光谷召开",
-      "source": "第一电动",
-      "pushedAt": 1788794831151
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312264",
-      "title": "刚提车1天 就降价1万块！特斯拉限时降价惹怒新车主",
-      "source": "第一电动",
-      "pushedAt": 1788809525194
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312277",
       "title": "9月开启预订 智界R7焕新款新配色官图发布",
@@ -3693,7 +3609,37 @@
       "title": "问界M9 Ultimate领世加长版开启全国交付",
       "source": "第一电动",
       "pushedAt": 1789397503997
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312563",
+      "title": "2026年第37周（9.7-9.13）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1789431006000
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312562",
+      "title": "【盖世快讯】工信部：重点汽车企业的平均账期有所改善；曝零跑拟2027年在海外推插混车型",
+      "source": "第一电动",
+      "pushedAt": 1789431006000
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312561",
+      "title": "中国方案出海：快，挣不来信任？",
+      "source": "第一电动",
+      "pushedAt": 1789431006000
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312565",
+      "title": "南北丰田将整合？广汽集团停牌背后：不掏现金，一汽股份要成第二大股东",
+      "source": "第一电动",
+      "pushedAt": 1789431006000
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312564",
+      "title": "赛车场，还能教会车企什么？",
+      "source": "第一电动",
+      "pushedAt": 1789431006000
     }
   ],
-  "lastUpdated": "2026-09-14"
+  "lastUpdated": "2026-09-15"
 }
