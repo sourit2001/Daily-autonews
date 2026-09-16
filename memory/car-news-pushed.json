@@ -1,21 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310339",
-    "https://www.d1ev.com/news/shichang/310330",
-    "https://www.d1ev.com/newsflash/310343",
-    "https://www.d1ev.com/newsflash/310340",
-    "https://www.d1ev.com/news/shichang/310338",
-    "https://www.d1ev.com/news/shichang/310337",
-    "https://www.d1ev.com/newsflash/310334",
-    "https://www.d1ev.com/newsflash/310331",
-    "https://www.d1ev.com/newsflash/310329",
-    "https://www.d1ev.com/newsflash/310361",
-    "https://www.d1ev.com/newsflash/310359",
-    "https://www.d1ev.com/newsflash/310358",
-    "https://www.d1ev.com/newsflash/310356",
-    "https://www.d1ev.com/newsflash/310352",
-    "https://www.d1ev.com/newsflash/310360",
-    "https://www.d1ev.com/newsflash/310357",
     "https://www.d1ev.com/newsflash/310351",
     "https://www.d1ev.com/news/shichang/310350",
     "https://www.d1ev.com/newsflash/310354",
@@ -1999,15 +1983,25 @@
     "https://www.d1ev.com/news/shichang/312649",
     "https://www.d1ev.com/news/shichang/312647",
     "https://www.d1ev.com/news/shichang/312640",
-    "https://www.d1ev.com/news/shichang/312638"
+    "https://www.d1ev.com/news/shichang/312638",
+    "https://www.d1ev.com/newsflash/312677",
+    "https://www.d1ev.com/news/shichang/312670",
+    "https://www.d1ev.com/newsflash/312664",
+    "https://www.d1ev.com/newsflash/312679",
+    "https://www.d1ev.com/newsflash/312676",
+    "https://www.d1ev.com/newsflash/312672",
+    "https://www.d1ev.com/news/qiye/312669",
+    "https://www.d1ev.com/news/shichang/312666",
+    "https://www.d1ev.com/news/shichang/312665",
+    "https://www.d1ev.com/newsflash/312678",
+    "https://www.d1ev.com/news/shichang/312675",
+    "https://www.d1ev.com/news/shichang/312674",
+    "https://www.d1ev.com/news/shichang/312673",
+    "https://www.d1ev.com/newsflash/312671",
+    "https://www.d1ev.com/newsflash/312668",
+    "https://www.d1ev.com/news/shichang/312667"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312365",
-      "title": "第411批工信部新车公示：重磅车型盘点",
-      "source": "第一电动",
-      "pushedAt": 1788962729116
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312367",
       "title": "超特斯拉Model Y！零跑A10 8月狂卖3万+台 蝉联国内SUV销冠",
@@ -3669,6 +3663,102 @@
       "title": "金发科技俞飞“泼冷水”：PEEK在人形机器人领域，当前大部分应用是炒作",
       "source": "第一电动",
       "pushedAt": 1789549307736
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312677",
+      "title": "众泰复活推新车WinkY01，主攻海外且上半年盈利8000万",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312670",
+      "title": "全新红旗H7正式上市 全系转型插混 16.88万元起",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312664",
+      "title": "Stellantis BOW概念车首发：无座舱纯电自动驾驶配送车形似移动快递柜",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312679",
+      "title": "黄仁勋：中国没人谈AI末日论，我们是在自己吓自己",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312676",
+      "title": "智界RX获批L3自动驾驶路测牌照：城市快速路实测画面流出，方向盘一键激活",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312672",
+      "title": "AI智能体模拟实验中撒谎偷窃，甚至投票决定杀死同类",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312669",
+      "title": "史上最强！大众ID.3 GTI全球首秀：326马力后驱电动小钢炮",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312666",
+      "title": "一汽姜珊：AI时代汽车基础软件需从“适配层”走向“资源管理层”",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312665",
+      "title": "德国将游说欧盟制定对华政策，拟加征更多关税",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312678",
+      "title": "千匹马力银河战舰700或西班牙投产，吉利福特合作再扩围",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312675",
+      "title": "拓普集团与猿声科技达成战略合作，加速具身智能落地",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312674",
+      "title": "Seeds | 图睿智能完成数千万元首轮融资",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312673",
+      "title": "极佳视界完成股改，IPO提上日程？",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312671",
+      "title": "通用再次让步：2027款燃油皮卡恢复支持苹果CarPlay",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312668",
+      "title": "问界服务重磅升级：保养45分钟超时免单 漆面终身质保",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312667",
+      "title": "海康存储陈建：存储带宽将成智能汽车算力瓶颈，系统级协同破解供需矛盾",
+      "source": "第一电动",
+      "pushedAt": 1789569109758
     }
   ],
   "lastUpdated": "2026-09-16"
