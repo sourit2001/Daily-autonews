@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310364",
-    "https://www.d1ev.com/news/shichang/310363",
-    "https://www.d1ev.com/newsflash/310362",
     "https://www.d1ev.com/newsflash/310386",
     "https://www.d1ev.com/newsflash/310383",
     "https://www.d1ev.com/newsflash/310382",
@@ -1999,7 +1996,10 @@
     "https://www.d1ev.com/news/shichang/312690",
     "https://www.d1ev.com/news/qiye/312688",
     "https://www.d1ev.com/news/qiye/312683",
-    "https://www.d1ev.com/newsflash/312680"
+    "https://www.d1ev.com/newsflash/312680",
+    "https://www.d1ev.com/newsflash/312696",
+    "https://www.d1ev.com/newsflash/312695",
+    "https://www.d1ev.com/newsflash/312694"
   ],
   "newsHistory": [
     {
@@ -3837,6 +3837,24 @@
       "title": "华为退居二线！问界全面交权赛力斯：产品定义、营销、渠道全主导",
       "source": "第一电动",
       "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312696",
+      "title": "零跑世界模型智驾来了：10万级车就能用 35万老车主免费升级",
+      "source": "第一电动",
+      "pushedAt": 1789598024318
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312695",
+      "title": "古特雷斯警告世界承受不起AI恶性竞争，呼吁全球合作设安全边界",
+      "source": "第一电动",
+      "pushedAt": 1789598024318
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312694",
+      "title": "比亚迪智驾保有量突破372万辆 天神之眼日产2.3亿公里真实路况数据",
+      "source": "第一电动",
+      "pushedAt": 1789598024318
     }
   ],
   "lastUpdated": "2026-09-17"
