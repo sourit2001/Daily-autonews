@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310351",
-    "https://www.d1ev.com/news/shichang/310350",
-    "https://www.d1ev.com/newsflash/310354",
-    "https://www.d1ev.com/newsflash/310355",
-    "https://www.d1ev.com/newsflash/310371",
-    "https://www.d1ev.com/newsflash/310369",
-    "https://www.d1ev.com/newsflash/310368",
-    "https://www.d1ev.com/newsflash/310374",
-    "https://www.d1ev.com/news/qiye/310373",
-    "https://www.d1ev.com/newsflash/310372",
-    "https://www.d1ev.com/newsflash/310370",
-    "https://www.d1ev.com/news/shichang/310367",
-    "https://www.d1ev.com/newsflash/310366",
-    "https://www.d1ev.com/newsflash/310365",
     "https://www.d1ev.com/news/shichang/310364",
     "https://www.d1ev.com/news/shichang/310363",
     "https://www.d1ev.com/newsflash/310362",
@@ -1999,15 +1985,23 @@
     "https://www.d1ev.com/news/shichang/312673",
     "https://www.d1ev.com/newsflash/312671",
     "https://www.d1ev.com/newsflash/312668",
-    "https://www.d1ev.com/news/shichang/312667"
+    "https://www.d1ev.com/news/shichang/312667",
+    "https://www.d1ev.com/newsflash/312693",
+    "https://www.d1ev.com/news/qiye/312689",
+    "https://www.d1ev.com/news/shichang/312686",
+    "https://www.d1ev.com/news/qiye/312684",
+    "https://www.d1ev.com/carnews/xinche/312681",
+    "https://www.d1ev.com/news/qiye/312687",
+    "https://www.d1ev.com/news/shichang/312685",
+    "https://www.d1ev.com/newsflash/312682",
+    "https://www.d1ev.com/newsflash/312692",
+    "https://www.d1ev.com/newsflash/312691",
+    "https://www.d1ev.com/news/shichang/312690",
+    "https://www.d1ev.com/news/qiye/312688",
+    "https://www.d1ev.com/news/qiye/312683",
+    "https://www.d1ev.com/newsflash/312680"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312367",
-      "title": "超特斯拉Model Y！零跑A10 8月狂卖3万+台 蝉联国内SUV销冠",
-      "source": "第一电动",
-      "pushedAt": 1788980422544
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312377",
       "title": "全新捷途X90正式上市，超级置换价9.99万元起",
@@ -3759,7 +3753,91 @@
       "title": "海康存储陈建：存储带宽将成智能汽车算力瓶颈，系统级协同破解供需矛盾",
       "source": "第一电动",
       "pushedAt": 1789569109758
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312693",
+      "title": "大众ID.3 GTI官图发布：电动小钢炮5.6秒破百 续航最高601公里",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312689",
+      "title": "搭载华为乾崑智驾ADS 5 Pro，极狐阿尔法T7上市补贴价13.28万起",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312686",
+      "title": "搭载华为乾崑智驾ADS 5 Pro 极狐阿尔法T7上市补贴价13.28万起",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312684",
+      "title": "比亚迪新车炸场！方程S 18.99万开卖 连自家人都打",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312681",
+      "title": "理想i9正式上市 售价36.98万元",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312687",
+      "title": "2916.171km登顶世界最长续航车！全新红旗H7刷新吉尼斯纪录",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312685",
+      "title": "5米车身+华为智驾，极狐T7只卖13万起",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312682",
+      "title": "零跑发布世界模型智驾：10万内车型将支持高阶辅助驾驶，老车主可升级",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312692",
+      "title": "零跑67亿定增获证监会批复 一汽股权与国资双重战略入股",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312691",
+      "title": "丰田申请开车视线拍照专利 看哪拍哪无需动手",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312690",
+      "title": "B级车跌了，星瑞L PLUS却选择进场",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312688",
+      "title": "全新理想i9正式发布，全国统一零售价36.98万元",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312683",
+      "title": "全域自研电驱11年，零跑的底牌与野心",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312680",
+      "title": "华为退居二线！问界全面交权赛力斯：产品定义、营销、渠道全主导",
+      "source": "第一电动",
+      "pushedAt": 1789586313526
     }
   ],
-  "lastUpdated": "2026-09-16"
+  "lastUpdated": "2026-09-17"
 }
