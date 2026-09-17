@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310421",
-    "https://www.d1ev.com/newsflash/310418",
-    "https://www.d1ev.com/news/shichang/310414",
-    "https://www.d1ev.com/news/shichang/310453",
-    "https://www.d1ev.com/newsflash/310451",
-    "https://www.d1ev.com/newsflash/310449",
-    "https://www.d1ev.com/newsflash/310447",
-    "https://www.d1ev.com/news/shichang/310445",
-    "https://www.d1ev.com/news/qiye/310443",
-    "https://www.d1ev.com/news/qiye/310441",
-    "https://www.d1ev.com/news/shichang/310438",
-    "https://www.d1ev.com/newsflash/310436",
-    "https://www.d1ev.com/newsflash/310435",
     "https://www.d1ev.com/newsflash/310431",
     "https://www.d1ev.com/news/shichang/310427",
     "https://www.d1ev.com/news/shichang/310426",
@@ -1999,27 +1986,22 @@
     "https://www.d1ev.com/news/shichang/312757",
     "https://www.d1ev.com/news/shichang/312756",
     "https://www.d1ev.com/newsflash/312754",
-    "https://www.d1ev.com/news/shichang/312753"
+    "https://www.d1ev.com/news/shichang/312753",
+    "https://www.d1ev.com/newsflash/312773",
+    "https://www.d1ev.com/news/shichang/312771",
+    "https://www.d1ev.com/carnews/xinche/312764",
+    "https://www.d1ev.com/newsflash/312763",
+    "https://www.d1ev.com/news/shichang/312770",
+    "https://www.d1ev.com/newsflash/312767",
+    "https://www.d1ev.com/news/shichang/312769",
+    "https://www.d1ev.com/news/shichang/312762",
+    "https://www.d1ev.com/newsflash/312774",
+    "https://www.d1ev.com/news/shichang/312772",
+    "https://www.d1ev.com/newsflash/312768",
+    "https://www.d1ev.com/newsflash/312766",
+    "https://www.d1ev.com/newsflash/312765"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312418",
-      "title": "12.99万元起，吉利银河TT上市15分钟大定突破10000台",
-      "source": "第一电动",
-      "pushedAt": 1789061807422
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312417",
-      "title": "吉利银河TT正式上市 售价13.99-19.59万元",
-      "source": "第一电动",
-      "pushedAt": 1789061807422
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312416",
-      "title": "比Model 3便宜10万 3.8秒破百！吉利银河TT限时12.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1789061807422
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312420",
       "title": "赋能电驱与线控制动，TE携新能源汽车核心感知方案亮相Sensor China 2026",
@@ -3927,7 +3909,85 @@
       "title": "亿咖通整车搭载量突破1200万辆",
       "source": "第一电动",
       "pushedAt": 1789655837477
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312773",
+      "title": "别克至境E7焕新款9月23日上市，第3万台下线限时14.99万起",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312771",
+      "title": "黄金大五座科技旗舰——小鹏G9L正式上市，23.18万元起",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312764",
+      "title": "小鹏G9L正式上市 售价24.18-31.98万元",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312763",
+      "title": "全新吉利银河E5将于9月23日上市 搭载激光雷达与800V平台",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312770",
+      "title": "欧盟将对英国的电动汽车关税推迟至2027年",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312767",
+      "title": "继问界之后华为再问境 新商标覆盖汽车及自动驾驶",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312769",
+      "title": "小鹏汽车拟向更多海外车企提供技术授权",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312762",
+      "title": "欧盟要求中国主动限制混动汽车出口",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312774",
+      "title": "问界明年1月起撤出华为门店 赛力斯将全面主导销售体系",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312772",
+      "title": "小鹏G9L发布会上，何小鹏、尹正同台讲车",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312768",
+      "title": "小米智能表盘2明日补货：999元新增转头结构 首批卖断货",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312766",
+      "title": "明年1月起问界正式撤出华为门店及鸿蒙智行，经销商须重新选择代理",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/312765",
+      "title": "华为商城调整鸿蒙智行五界排序：问界从第二跌至最下方",
+      "source": "第一电动",
+      "pushedAt": 1789673748767
     }
   ],
-  "lastUpdated": "2026-09-17"
+  "lastUpdated": "2026-09-18"
 }
