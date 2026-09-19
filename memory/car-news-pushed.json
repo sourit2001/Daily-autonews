@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310545",
-    "https://www.d1ev.com/newsflash/310549",
-    "https://www.d1ev.com/newsflash/310548",
-    "https://www.d1ev.com/newsflash/310547",
-    "https://www.d1ev.com/newsflash/310550",
-    "https://www.d1ev.com/newsflash/310551",
     "https://www.d1ev.com/newsflash/310546",
     "https://www.d1ev.com/newsflash/310558",
     "https://www.d1ev.com/newsflash/310555",
@@ -1999,27 +1993,15 @@
     "https://www.d1ev.com/carnews/xinche/312867",
     "https://www.d1ev.com/news/shichang/312866",
     "https://www.d1ev.com/news/shichang/312872",
-    "https://www.d1ev.com/news/shichang/312868"
+    "https://www.d1ev.com/news/shichang/312868",
+    "https://www.d1ev.com/news/qiye/312876",
+    "https://www.d1ev.com/news/shichang/312878",
+    "https://www.d1ev.com/news/shichang/312877",
+    "https://www.d1ev.com/news/shichang/312875",
+    "https://www.d1ev.com/news/shichang/312874",
+    "https://www.d1ev.com/news/shichang/312873"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312480",
-      "title": "马斯克怒怼特斯拉车祸报道：他们是因我不投广告怀恨在心",
-      "source": "第一电动",
-      "pushedAt": 1789201044136
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312479",
-      "title": "对话维他动力赵哲伦：机器人的\"福特时刻\"，不会只有一个",
-      "source": "第一电动",
-      "pushedAt": 1789201044136
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312478",
-      "title": "老牌车企加速研发！奥迪A2 e-tron开发时间成功缩短21个月",
-      "source": "第一电动",
-      "pushedAt": 1789201044136
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312481",
       "title": "与众08猎影版暨全系焕新上市 售价21.99万起",
@@ -4209,6 +4191,42 @@
       "title": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
       "source": "第一电动",
       "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312876",
+      "title": "纯电续航630km！全新领克20即将上市：标配千里浩瀚H5",
+      "source": "第一电动",
+      "pushedAt": 1789806466836
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312878",
+      "title": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789806466836
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312877",
+      "title": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789806466836
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312875",
+      "title": "机器人要上岗，怎样才算“会干活”？",
+      "source": "第一电动",
+      "pushedAt": 1789806466836
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312874",
+      "title": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789806466836
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312873",
+      "title": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789806466836
     }
   ],
   "lastUpdated": "2026-09-19"
