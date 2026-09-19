@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310546",
-    "https://www.d1ev.com/newsflash/310558",
-    "https://www.d1ev.com/newsflash/310555",
-    "https://www.d1ev.com/news/shichang/310553",
     "https://www.d1ev.com/newsflash/310560",
     "https://www.d1ev.com/newsflash/310557",
     "https://www.d1ev.com/newsflash/310554",
@@ -1999,15 +1995,13 @@
     "https://www.d1ev.com/news/shichang/312877",
     "https://www.d1ev.com/news/shichang/312875",
     "https://www.d1ev.com/news/shichang/312874",
-    "https://www.d1ev.com/news/shichang/312873"
+    "https://www.d1ev.com/news/shichang/312873",
+    "https://www.d1ev.com/news/shichang/312881",
+    "https://www.d1ev.com/news/shichang/312880",
+    "https://www.d1ev.com/news/shichang/312882",
+    "https://www.d1ev.com/news/qiye/312879"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312481",
-      "title": "与众08猎影版暨全系焕新上市 售价21.99万起",
-      "source": "第一电动",
-      "pushedAt": 1789219079056
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312484",
       "title": "能上赛道的家用SUV，它来了",
@@ -4227,6 +4221,30 @@
       "title": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
       "source": "第一电动",
       "pushedAt": 1789806466836
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312881",
+      "title": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789825106281
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312880",
+      "title": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789825106281
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312882",
+      "title": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
+      "source": "第一电动",
+      "pushedAt": 1789825106281
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312879",
+      "title": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789825106281
     }
   ],
   "lastUpdated": "2026-09-19"
