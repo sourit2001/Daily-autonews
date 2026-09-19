@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310560",
     "https://www.d1ev.com/newsflash/310557",
     "https://www.d1ev.com/newsflash/310554",
     "https://www.d1ev.com/newsflash/310559",
@@ -1999,21 +1998,10 @@
     "https://www.d1ev.com/news/shichang/312881",
     "https://www.d1ev.com/news/shichang/312880",
     "https://www.d1ev.com/news/shichang/312882",
-    "https://www.d1ev.com/news/qiye/312879"
+    "https://www.d1ev.com/news/qiye/312879",
+    "https://www.d1ev.com/news/shichang/312883"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312484",
-      "title": "能上赛道的家用SUV，它来了",
-      "source": "第一电动",
-      "pushedAt": 1789231277670
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312483",
-      "title": "问界M9 Ultimate领世加长版先行者正式开启全国交付",
-      "source": "第一电动",
-      "pushedAt": 1789231277670
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312491",
       "title": "MINI联名PAUL SMITH设计师款燃油版开启预售",
@@ -4245,7 +4233,13 @@
       "title": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
       "source": "第一电动",
       "pushedAt": 1789825106281
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312883",
+      "title": "陈晓峰:以系统化AI能力，铸就中国汽车出海新长板｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789837092113
     }
   ],
-  "lastUpdated": "2026-09-19"
+  "lastUpdated": "2026-09-20"
 }
