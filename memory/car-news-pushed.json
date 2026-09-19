@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310544",
-    "https://www.d1ev.com/newsflash/310540",
-    "https://www.d1ev.com/newsflash/310539",
-    "https://www.d1ev.com/newsflash/310537",
-    "https://www.d1ev.com/newsflash/310533",
-    "https://www.d1ev.com/newsflash/310543",
-    "https://www.d1ev.com/news/qiye/310541",
     "https://www.d1ev.com/newsflash/310545",
     "https://www.d1ev.com/newsflash/310549",
     "https://www.d1ev.com/newsflash/310548",
@@ -1999,39 +1992,16 @@
     "https://www.d1ev.com/news/shichang/312850",
     "https://www.d1ev.com/news/shichang/312849",
     "https://www.d1ev.com/news/qiye/312847",
-    "https://www.d1ev.com/newsflash/312844"
+    "https://www.d1ev.com/newsflash/312844",
+    "https://www.d1ev.com/news/qiye/312871",
+    "https://www.d1ev.com/carnews/xinche/312870",
+    "https://www.d1ev.com/carnews/xinche/312869",
+    "https://www.d1ev.com/carnews/xinche/312867",
+    "https://www.d1ev.com/news/shichang/312866",
+    "https://www.d1ev.com/news/shichang/312872",
+    "https://www.d1ev.com/news/shichang/312868"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312474",
-      "title": "8款车漆、两款内饰色、5个配置包！理想i9可选配置一文看完",
-      "source": "第一电动",
-      "pushedAt": 1789148355874
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312473",
-      "title": "1.5T四缸机爬到6002米！神行者8创混动最高海拔吉尼斯纪录",
-      "source": "第一电动",
-      "pushedAt": 1789148355874
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312477",
-      "title": "三电机千匹马力 方程豹S GT六色官图发布",
-      "source": "第一电动",
-      "pushedAt": 1789180749340
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312476",
-      "title": "宝马Z4借壳复活 改装版Spider正式亮相",
-      "source": "第一电动",
-      "pushedAt": 1789180749340
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312475",
-      "title": "纽博格林百年庆生 宝马推出6款限量版M车型",
-      "source": "第一电动",
-      "pushedAt": 1789180749340
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312480",
       "title": "马斯克怒怼特斯拉车祸报道：他们是因我不投广告怀恨在心",
@@ -4197,7 +4167,49 @@
       "title": "问界将撤出华为门店？赛力斯否认：部分门店保留销售",
       "source": "第一电动",
       "pushedAt": 1789740340022
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312871",
+      "title": "特斯拉Optimus在华启动量产审厂：5万台下线计划曝光，供应链订单已下达",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312870",
+      "title": "鸿蒙智行被曝今年将推两款9系新车",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312869",
+      "title": "全新宝马iX5氢燃料版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312867",
+      "title": "东方美学的旗舰 比亚迪大汉新车图解",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312866",
+      "title": "2026泰达论坛｜中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312872",
+      "title": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312868",
+      "title": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
+      "source": "第一电动",
+      "pushedAt": 1789785670494
     }
   ],
-  "lastUpdated": "2026-09-18"
+  "lastUpdated": "2026-09-19"
 }
