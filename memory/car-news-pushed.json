@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310603",
-    "https://www.d1ev.com/newsflash/310602",
     "https://www.d1ev.com/newsflash/310613",
     "https://www.d1ev.com/newsflash/310607",
     "https://www.d1ev.com/newsflash/310614",
@@ -1999,21 +1997,11 @@
     "https://www.d1ev.com/news/shichang/312928",
     "https://www.d1ev.com/news/qiye/312927",
     "https://www.d1ev.com/news/shichang/312932",
-    "https://www.d1ev.com/news/shichang/312930"
+    "https://www.d1ev.com/news/shichang/312930",
+    "https://www.d1ev.com/news/qiye/312937",
+    "https://www.d1ev.com/news/qiye/312936"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312500",
-      "title": "E周看点 | 8月新能源销量占比60.6%；理想全系车型将切换自研电池",
-      "source": "第一电动",
-      "pushedAt": 1789308057646
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312499",
-      "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
-      "source": "第一电动",
-      "pushedAt": 1789308057646
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312503",
       "title": "宝马干了特斯拉不敢干的！旗舰纯电轿车i7在印度量产下线",
@@ -4461,7 +4449,19 @@
       "title": "比亚迪召回部分唐及秦系列汽车共计183211辆",
       "source": "第一电动",
       "pushedAt": 1789912418886
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312937",
+      "title": "越野圣地登顶，坦克300虎克之路25万启售",
+      "source": "第一电动",
+      "pushedAt": 1789924419480
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312936",
+      "title": "索赔超16万元！老人下公交站了几秒 被门刮倒摔成十级伤残",
+      "source": "第一电动",
+      "pushedAt": 1789924419480
     }
   ],
-  "lastUpdated": "2026-09-20"
+  "lastUpdated": "2026-09-21"
 }
