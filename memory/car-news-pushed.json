@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310613",
     "https://www.d1ev.com/newsflash/310607",
     "https://www.d1ev.com/newsflash/310614",
     "https://www.d1ev.com/newsflash/310612",
@@ -1999,7 +1998,8 @@
     "https://www.d1ev.com/news/shichang/312932",
     "https://www.d1ev.com/news/shichang/312930",
     "https://www.d1ev.com/news/qiye/312937",
-    "https://www.d1ev.com/news/qiye/312936"
+    "https://www.d1ev.com/news/qiye/312936",
+    "https://www.d1ev.com/news/shichang/312939"
   ],
   "newsHistory": [
     {
@@ -4461,6 +4461,12 @@
       "title": "索赔超16万元！老人下公交站了几秒 被门刮倒摔成十级伤残",
       "source": "第一电动",
       "pushedAt": 1789924419480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312939",
+      "title": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
+      "source": "第一电动",
+      "pushedAt": 1789947998991
     }
   ],
   "lastUpdated": "2026-09-21"
