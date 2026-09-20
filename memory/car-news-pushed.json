@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310577",
-    "https://www.d1ev.com/newsflash/310570",
-    "https://www.d1ev.com/newsflash/310573",
-    "https://www.d1ev.com/newsflash/310572",
-    "https://www.d1ev.com/newsflash/310583",
-    "https://www.d1ev.com/newsflash/310582",
-    "https://www.d1ev.com/newsflash/310581",
-    "https://www.d1ev.com/newsflash/310586",
-    "https://www.d1ev.com/newsflash/310585",
-    "https://www.d1ev.com/newsflash/310584",
-    "https://www.d1ev.com/newsflash/310580",
-    "https://www.d1ev.com/newsflash/310578",
-    "https://www.d1ev.com/newsflash/310587",
-    "https://www.d1ev.com/news/qiye/310579",
-    "https://www.d1ev.com/newsflash/310594",
-    "https://www.d1ev.com/newsflash/310592",
-    "https://www.d1ev.com/newsflash/310590",
-    "https://www.d1ev.com/newsflash/310596",
-    "https://www.d1ev.com/newsflash/310595",
-    "https://www.d1ev.com/newsflash/310593",
-    "https://www.d1ev.com/newsflash/310591",
     "https://www.d1ev.com/newsflash/310589",
     "https://www.d1ev.com/newsflash/310588",
     "https://www.d1ev.com/newsflash/310598",
@@ -1999,33 +1978,30 @@
     "https://www.d1ev.com/news/shichang/312888",
     "https://www.d1ev.com/news/shichang/312886",
     "https://www.d1ev.com/news/qiye/312885",
-    "https://www.d1ev.com/news/shichang/312884"
+    "https://www.d1ev.com/news/shichang/312884",
+    "https://www.d1ev.com/news/shichang/312922",
+    "https://www.d1ev.com/news/qiye/312910",
+    "https://www.d1ev.com/news/shichang/312925",
+    "https://www.d1ev.com/news/shichang/312923",
+    "https://www.d1ev.com/news/shichang/312920",
+    "https://www.d1ev.com/news/shichang/312907",
+    "https://www.d1ev.com/news/shichang/312917",
+    "https://www.d1ev.com/news/qiye/312908",
+    "https://www.d1ev.com/news/shichang/312924",
+    "https://www.d1ev.com/news/qiye/312921",
+    "https://www.d1ev.com/news/shichang/312919",
+    "https://www.d1ev.com/news/shichang/312918",
+    "https://www.d1ev.com/news/shichang/312916",
+    "https://www.d1ev.com/news/shichang/312915",
+    "https://www.d1ev.com/news/shichang/312914",
+    "https://www.d1ev.com/news/shichang/312913",
+    "https://www.d1ev.com/news/shichang/312912",
+    "https://www.d1ev.com/news/shichang/312911",
+    "https://www.d1ev.com/news/shichang/312906",
+    "https://www.d1ev.com/news/shichang/312905",
+    "https://www.d1ev.com/news/qiye/312904"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312497",
-      "title": "销量大跌 份额反而大涨！特斯拉靠对手退群重回美国第一",
-      "source": "第一电动",
-      "pushedAt": 1789288907708
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312496",
-      "title": "64.98万起 问界M9最贵版本开启全国交付",
-      "source": "第一电动",
-      "pushedAt": 1789288907708
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312495",
-      "title": "误踩油门小艺疯狂喊请抬脚！车主：前车是库里南 脚都硬了",
-      "source": "第一电动",
-      "pushedAt": 1789288907708
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312494",
-      "title": "刚提就降价特斯拉遭集体投诉！车主：不奢望退钱 但要补偿",
-      "source": "第一电动",
-      "pushedAt": 1789288907708
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312500",
       "title": "E周看点 | 8月新能源销量占比60.6%；理想全系车型将切换自研电池",
@@ -4305,6 +4281,132 @@
       "title": "王超：以运动域底层创新破解产业同质化困局｜2026泰达论坛",
       "source": "第一电动",
       "pushedAt": 1789872884590
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312922",
+      "title": "东风风行星海V6正式上市 权益价9.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312910",
+      "title": "荣威家越07首发豆包座舱助手",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312925",
+      "title": "楚航科技成立物理AI子公司",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312923",
+      "title": "腾势Z9GT在泰国正式发布，首次引入闪充及第二代刀片电池",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312920",
+      "title": "科络达出席盖世AI定义汽车论坛，共探AIDV时代整车软件进化之路",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312907",
+      "title": "长安张晓宇：2027年L3级自动驾驶将量产，2028年L4级开始商业化运营",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312917",
+      "title": "晓莺说|海外建厂潮 中国汽车的第二个700万辆",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312908",
+      "title": "文烈锋：中国车企出海需转向生态化、本地化运营｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312924",
+      "title": "RISC-V，怎么突然火了？",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312921",
+      "title": "“下周回国”还没来，贾跃亭一口气发布9款机器人",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312919",
+      "title": "江阳磁材深度解析｜永磁电机磁钢厚度设计：为什么不是越厚性能越强？",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312918",
+      "title": "广汽柬埔寨KD工厂正式投产，首台“柬埔寨造”传祺下线",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312916",
+      "title": "东风汽车在新疆柯坪建成行业首个光氢电一体化智慧能源站",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312915",
+      "title": "谷川高科嘉定项目竣工，达产后年产值目标10亿元",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312914",
+      "title": "迈入智能驾驶辅助第一梯队 ——长安天枢领航的破局之路",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312913",
+      "title": "保时捷或将再裁员4000人",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312912",
+      "title": "逝者 | 沉痛悼念中国汽车产业老前辈邵奇惠",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312911",
+      "title": "利润率不超过1%！大众集团发布盈利预警",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312906",
+      "title": "格陆博（宜宾）公司制动器总成单月出货超1万套",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312905",
+      "title": "长安汽车董事会换届，朱华荣续任董事长 赵非出任总裁",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312904",
+      "title": "蔚来9月19日新增上线7座充换电站",
+      "source": "第一电动",
+      "pushedAt": 1789894775218
     }
   ],
   "lastUpdated": "2026-09-20"
