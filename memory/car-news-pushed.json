@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310646",
-    "https://www.d1ev.com/newsflash/310651",
-    "https://www.d1ev.com/news/shichang/310647",
-    "https://www.d1ev.com/newsflash/310645",
-    "https://www.d1ev.com/newsflash/310654",
-    "https://www.d1ev.com/newsflash/310653",
-    "https://www.d1ev.com/newsflash/310652",
     "https://www.d1ev.com/newsflash/310658",
     "https://www.d1ev.com/newsflash/310655",
     "https://www.d1ev.com/newsflash/310659",
@@ -1999,165 +1992,16 @@
     "https://www.d1ev.com/news/shichang/312967",
     "https://www.d1ev.com/news/shichang/312965",
     "https://www.d1ev.com/news/shichang/312964",
-    "https://www.d1ev.com/carnews/xinche/312961"
+    "https://www.d1ev.com/carnews/xinche/312961",
+    "https://www.d1ev.com/carnews/xinche/312989",
+    "https://www.d1ev.com/news/qiye/312988",
+    "https://www.d1ev.com/news/shichang/312983",
+    "https://www.d1ev.com/carnews/xinche/312982",
+    "https://www.d1ev.com/news/shichang/312987",
+    "https://www.d1ev.com/news/shichang/312984",
+    "https://www.d1ev.com/news/qiye/312986"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312557",
-      "title": "腾势N8L纯电版上市 售价29.98-32.98万元",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312546",
-      "title": "一汽-大众ID. AURA T6将于9月20日正式上市",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312545",
-      "title": "吉利银河M8申报信息曝光：与M9同尺寸，改推大五座布局",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312538",
-      "title": "零次方机器人亮相2026服贸会，H1人形机器人完成马来西亚交付",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312558",
-      "title": "特斯拉推出欧洲版Semi 续航里程550公里",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312552",
-      "title": "标配前后双激光雷达、电池扩到53.9度！魏牌高山智慧版开订",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312549",
-      "title": "SUTD开发出全新AI框架 可为自动驾驶系统生成更逼真的4D激光雷达场景",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312548",
-      "title": "INFAC推出创新电动汽车800V电池包设计 实现48V汽车区域架构",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312541",
-      "title": "横滨橡胶自研生成式AI系统投入运营，加速轮胎研发决策",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312539",
-      "title": "爱芯元智M57芯片搭载安波福智能前视一体机实现欧盟市场量产交付",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312560",
-      "title": "从技术底色到全球版图：东风汽车“十五五”开局的战略布局",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312551",
-      "title": "Astemo斥资3.8亿美元扩大美国电机产能",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312544",
-      "title": "B10单车单月出口近1.2万辆！零跑前8月出口超13.2万辆",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312535",
-      "title": "Stellantis CEO：全球车市正分化为两部分",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312559",
-      "title": "靴子落地！广汽拟购一汽股份旗下合资公司股权 一汽将成第二大战略股东",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312556",
-      "title": "太乙圣莲拟 30 亿元重整哪吒汽车，尚待表决与法院裁定",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312555",
-      "title": "太乙圣莲30亿复活哪吒 离职员工：听说会补上拖欠的工资",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312554",
-      "title": "日产汽车将日本工厂年产能维持在100万辆",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312553",
-      "title": "Seeds | 因克斯完成超3亿元B轮融资",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312550",
-      "title": "宝马申请新漂移系统专利",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312547",
-      "title": "福特申请挡风玻璃湿气预处理系统专利",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312543",
-      "title": "实测华为乾崑ADS 5，奕境X9挑战重庆魔鬼路况一把通关",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312542",
-      "title": "广汽停牌，与一汽有关？",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312540",
-      "title": "特斯拉Cybercab来中国了，但只能看不能坐",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312537",
-      "title": "卖1万台用时不到一个月！蔚来全新ES8本周将交付第15万台",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312536",
-      "title": "问界M9 Ultimate领世加长版开启全国交付",
-      "source": "第一电动",
-      "pushedAt": 1789397503997
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312563",
       "title": "2026年第37周（9.7-9.13）上市新车汇总",
@@ -4509,7 +4353,49 @@
       "title": "智界RX及鸿蒙智行新品发布会定档9月28日",
       "source": "第一电动",
       "pushedAt": 1789983058337
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312989",
+      "title": "红旗天工07开启预售 预售价18.99-21.99万",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312988",
+      "title": "首发华为EMB全电线控制动 广汽埃安5米级大轿车Ray 7盲订",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312983",
+      "title": "顶配15.28万 首款AI原生汽车荣威家越07正式开启预售",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312982",
+      "title": "荣威家越07开启预售 预售价13.78万起",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312987",
+      "title": "车企AI落地：别只盯着新模型，先把内功练扎实",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312984",
+      "title": "深化交流丨海外投资机构到访盖世汽车",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312986",
+      "title": "马斯克再兑现科幻构想：特斯拉新一代Roadster能飞",
+      "source": "第一电动",
+      "pushedAt": 1790006986864
     }
   ],
-  "lastUpdated": "2026-09-21"
+  "lastUpdated": "2026-09-22"
 }
