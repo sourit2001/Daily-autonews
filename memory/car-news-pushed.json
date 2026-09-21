@@ -1,24 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310607",
-    "https://www.d1ev.com/newsflash/310614",
-    "https://www.d1ev.com/newsflash/310612",
-    "https://www.d1ev.com/newsflash/310611",
-    "https://www.d1ev.com/newsflash/310608",
-    "https://www.d1ev.com/news/shichang/310610",
-    "https://www.d1ev.com/newsflash/310609",
-    "https://www.d1ev.com/newsflash/310626",
-    "https://www.d1ev.com/carnews/xinche/310624",
-    "https://www.d1ev.com/carnews/xinche/310622",
-    "https://www.d1ev.com/newsflash/310618",
-    "https://www.d1ev.com/newsflash/310616",
-    "https://www.d1ev.com/newsflash/310615",
-    "https://www.d1ev.com/newsflash/310623",
-    "https://www.d1ev.com/newsflash/310617",
-    "https://www.d1ev.com/carnews/xinche/310621",
-    "https://www.d1ev.com/carnews/xinche/310620",
-    "https://www.d1ev.com/newsflash/310619",
-    "https://www.d1ev.com/newsflash/310628",
     "https://www.d1ev.com/newsflash/310627",
     "https://www.d1ev.com/newsflash/310629",
     "https://www.d1ev.com/newsflash/310636",
@@ -1999,21 +1980,28 @@
     "https://www.d1ev.com/news/shichang/312930",
     "https://www.d1ev.com/news/qiye/312937",
     "https://www.d1ev.com/news/qiye/312936",
-    "https://www.d1ev.com/news/shichang/312939"
+    "https://www.d1ev.com/news/shichang/312939",
+    "https://www.d1ev.com/news/shichang/312958",
+    "https://www.d1ev.com/carnews/xinche/312953",
+    "https://www.d1ev.com/carnews/xinche/312952",
+    "https://www.d1ev.com/carnews/xinche/312951",
+    "https://www.d1ev.com/carnews/xinche/312945",
+    "https://www.d1ev.com/news/qiye/312943",
+    "https://www.d1ev.com/news/shichang/312940",
+    "https://www.d1ev.com/news/shichang/312948",
+    "https://www.d1ev.com/news/qiye/312941",
+    "https://www.d1ev.com/news/shichang/312959",
+    "https://www.d1ev.com/news/shichang/312950",
+    "https://www.d1ev.com/news/shichang/312957",
+    "https://www.d1ev.com/news/shichang/312956",
+    "https://www.d1ev.com/news/qiye/312955",
+    "https://www.d1ev.com/news/shichang/312949",
+    "https://www.d1ev.com/news/shichang/312947",
+    "https://www.d1ev.com/carnews/xinche/312946",
+    "https://www.d1ev.com/carnews/xinche/312944",
+    "https://www.d1ev.com/news/shichang/312942"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312503",
-      "title": "宝马干了特斯拉不敢干的！旗舰纯电轿车i7在印度量产下线",
-      "source": "第一电动",
-      "pushedAt": 1789344148963
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312502",
-      "title": "【盖世快讯】太乙圣莲拟出资入主哪吒汽车；工信部称深入整治汽车等行业网络乱象",
-      "source": "第一电动",
-      "pushedAt": 1789344148963
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312534",
       "title": "小鹏G9L中国上市发布会将于9月17日举办",
@@ -4467,6 +4455,120 @@
       "title": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
       "source": "第一电动",
       "pushedAt": 1789947998991
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312958",
+      "title": "全面迈向48V车载新架构！思瑞浦首发全国产化80V CAN SIC收发器TPT1662xQ",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312953",
+      "title": "上汽大通2027款星际X将于今日上市",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312952",
+      "title": "方盒子外观 捷途旅行者7将于9月23日预售",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312951",
+      "title": "坦克300虎克之路正式上市 售价25万元",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312945",
+      "title": "纺锤格栅缩小 雷克萨斯RX改款渲染图曝光",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312943",
+      "title": "蔚来全新ES8上市一周年交付达15万台",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312940",
+      "title": "【盖世快讯】小鹏汇天签约阿联酋拉斯海玛；蔚来ES8达成15万台新车交付",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312948",
+      "title": "广汽自营充电桩突破3万根，超充桩占比近七成",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312941",
+      "title": "含华量不减！引望：乾崑智驾、鸿蒙座舱等方案照供问界",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312959",
+      "title": "美国汽车业联名致信特朗普，要求阻止中国车企进入美国",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312950",
+      "title": "上汽通用五菱多个海外项目迎来关键节点",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312957",
+      "title": "Seeds | 芯驰科技完成C+、C++轮融资，年内C轮融资约10亿元",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312956",
+      "title": "“听劝”，成为合资品牌的新课题",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/312955",
+      "title": "四电机布局！宝马纯电M3现身纽北：与小米SU7 Ultra同框",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312949",
+      "title": "海信集团华东区域总部“落子”嘉定",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312947",
+      "title": "蔚来精河换电站上线，丝绸之路换电路线即将贯通",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312946",
+      "title": "限时24.69万元 阿维塔06T猎装骑士版发布",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312944",
+      "title": "新一代特斯拉Roadster开放预订 订金5万美元",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312942",
+      "title": "优艾智合与华为云联合发布CloudRobo具身智能巡检解决方案",
+      "source": "第一电动",
+      "pushedAt": 1789959254102
     }
   ],
   "lastUpdated": "2026-09-21"
