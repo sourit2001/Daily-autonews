@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310658",
-    "https://www.d1ev.com/newsflash/310655",
-    "https://www.d1ev.com/newsflash/310659",
     "https://www.d1ev.com/newsflash/310657",
     "https://www.d1ev.com/newsflash/310656",
     "https://www.d1ev.com/newsflash/310667",
@@ -1999,39 +1996,12 @@
     "https://www.d1ev.com/carnews/xinche/312982",
     "https://www.d1ev.com/news/shichang/312987",
     "https://www.d1ev.com/news/shichang/312984",
-    "https://www.d1ev.com/news/qiye/312986"
+    "https://www.d1ev.com/news/qiye/312986",
+    "https://www.d1ev.com/carnews/xinche/312997",
+    "https://www.d1ev.com/news/shichang/313002",
+    "https://www.d1ev.com/news/shichang/312998"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312563",
-      "title": "2026年第37周（9.7-9.13）上市新车汇总",
-      "source": "第一电动",
-      "pushedAt": 1789431006000
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312562",
-      "title": "【盖世快讯】工信部：重点汽车企业的平均账期有所改善；曝零跑拟2027年在海外推插混车型",
-      "source": "第一电动",
-      "pushedAt": 1789431006000
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312561",
-      "title": "中国方案出海：快，挣不来信任？",
-      "source": "第一电动",
-      "pushedAt": 1789431006000
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312565",
-      "title": "南北丰田将整合？广汽集团停牌背后：不掏现金，一汽股份要成第二大股东",
-      "source": "第一电动",
-      "pushedAt": 1789431006000
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312564",
-      "title": "赛车场，还能教会车企什么？",
-      "source": "第一电动",
-      "pushedAt": 1789431006000
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312581",
       "title": "配备激光雷达 红旗天工07将于9月21日预售",
@@ -4395,6 +4365,24 @@
       "title": "马斯克再兑现科幻构想：特斯拉新一代Roadster能飞",
       "source": "第一电动",
       "pushedAt": 1790006986864
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/312997",
+      "title": "2026年第38周（9.14-9.20）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1790036988212
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313002",
+      "title": "AI汽车，至今没有标准答案",
+      "source": "第一电动",
+      "pushedAt": 1790036988212
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/312998",
+      "title": "【盖世快讯】上汽奥迪澄清“奥迪总部不认可AUDI品牌”传闻；智界RX定档9月28日发布",
+      "source": "第一电动",
+      "pushedAt": 1790036988212
     }
   ],
   "lastUpdated": "2026-09-22"
