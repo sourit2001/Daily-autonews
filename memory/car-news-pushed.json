@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310703",
-    "https://www.d1ev.com/newsflash/310701",
-    "https://www.d1ev.com/news/shichang/310698",
-    "https://www.d1ev.com/newsflash/310697",
-    "https://www.d1ev.com/newsflash/310714",
-    "https://www.d1ev.com/newsflash/310712",
-    "https://www.d1ev.com/news/shichang/310710",
-    "https://www.d1ev.com/news/shichang/310708",
     "https://www.d1ev.com/newsflash/310702",
     "https://www.d1ev.com/news/shichang/310699",
     "https://www.d1ev.com/newsflash/310715",
@@ -1999,117 +1991,17 @@
     "https://www.d1ev.com/news/shichang/313044",
     "https://www.d1ev.com/news/shichang/313043",
     "https://www.d1ev.com/news/shichang/313042",
-    "https://www.d1ev.com/news/shichang/313039"
+    "https://www.d1ev.com/news/shichang/313039",
+    "https://www.d1ev.com/news/qiye/313055",
+    "https://www.d1ev.com/news/qiye/313054",
+    "https://www.d1ev.com/news/shichang/313053",
+    "https://www.d1ev.com/news/qiye/313052",
+    "https://www.d1ev.com/carnews/xinche/313050",
+    "https://www.d1ev.com/carnews/xinche/313049",
+    "https://www.d1ev.com/news/shichang/313051",
+    "https://www.d1ev.com/news/shichang/313048"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312607",
-      "title": "谢霆锋首个中国车代言！银河战舰700 全球预售 19.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312610",
-      "title": "圆满落幕丨2026具身感知融合与多模态大模型创新研讨会",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312609",
-      "title": "不抢动力电池，钠离子电池先靠一块“小电池”上车",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312606",
-      "title": "功率1MW！小鹏全球首座兆瓦闪充站落地香港 所有电动车可用",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312603",
-      "title": "产销两旺储能领跑，8月电池产业交出“高分卷”",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312598",
-      "title": "8月动力电池装车量同比增26.3%",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312597",
-      "title": "KAIST开发出下一代脑机接口技术 实现AI行为与人类意图的实时对齐",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312595",
-      "title": "【全球汽车新技术观察】 8月上期〡LG设计挡风玻璃一体化显示系统；比亚迪推出自动驾驶混合世界模型HyWorldVLA；德克萨斯大学研发可3D打印类组织材料",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312593",
-      "title": "理想i9 Home明晚发布后即开定，自研电池版本10月底交付",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312608",
-      "title": "腾讯廖绍尧：如何加速行业迭代？",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312605",
-      "title": "问界：赛力斯主导五大环节，华为终端参与赋能",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312604",
-      "title": "刚刚，鸿蒙智行发布问界合作模式说明：用户既有权益及后续服务不受影响",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312602",
-      "title": "特斯拉Model YL后轮频现塌陷！官方偷改手册参数 车主怒了",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312601",
-      "title": "岚图虎踞P专属底盘落地，梦想家9将9月22日正式发售",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312600",
-      "title": "把越野配置卷上天！银河战舰700野外不失联、下水声呐航行",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312599",
-      "title": "奕境全面发布“天穹智盾”全时空安全架构",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312596",
-      "title": "热点对话：具身智能的胜负手：不是模型，是闭环",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312594",
-      "title": "楚航科技4D卫星架构雷达获国内头部新势力车企定点",
-      "source": "第一电动",
-      "pushedAt": 1789477454242
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312614",
       "title": "2027款埃安i60正式上市 售11.48-14.28万元",
@@ -4473,7 +4365,55 @@
       "title": "董扬：汽车产业需高质量发展，反对盲目全栈自研｜2026泰达论坛",
       "source": "第一电动",
       "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313055",
+      "title": "全系全域L3架构+华为乾崑ADS 5，岚图梦想家9全球上市41.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313054",
+      "title": "QQ3系列首款官方改装版本，奇瑞全新QQ3摩登版上市8.89万元起",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313053",
+      "title": "35.98万起，红旗G919开启预售，承军工血脉四电机豪华越野SUV重磅登场",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313052",
+      "title": "30分钟订单突破16815台，传祺越7上市，权益价16.18万元起",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313050",
+      "title": "岚图梦想家9上市 售价41.99-52.99万元",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313049",
+      "title": "2027款东风日产N7上市 售价11.99-15.69万元",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313051",
+      "title": "红旗第一款硬派越野，来了",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313048",
+      "title": "8.89万的摩登版，能给QQ3的热销再添一把火吗？",
+      "source": "第一电动",
+      "pushedAt": 1790099610449
     }
   ],
-  "lastUpdated": "2026-09-22"
+  "lastUpdated": "2026-09-23"
 }
