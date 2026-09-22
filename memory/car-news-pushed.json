@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310691",
-    "https://www.d1ev.com/newsflash/310690",
-    "https://www.d1ev.com/carnews/xinche/310685",
-    "https://www.d1ev.com/carnews/xinche/310672",
-    "https://www.d1ev.com/news/shichang/310671",
-    "https://www.d1ev.com/news/shichang/310670",
-    "https://www.d1ev.com/news/shichang/310669",
-    "https://www.d1ev.com/newsflash/310707",
-    "https://www.d1ev.com/newsflash/310704",
     "https://www.d1ev.com/newsflash/310703",
     "https://www.d1ev.com/newsflash/310701",
     "https://www.d1ev.com/news/shichang/310698",
@@ -1999,7 +1990,16 @@
     "https://www.d1ev.com/carnews/xinche/313011",
     "https://www.d1ev.com/carnews/xinche/313008",
     "https://www.d1ev.com/carnews/xinche/313007",
-    "https://www.d1ev.com/carnews/xinche/313005"
+    "https://www.d1ev.com/carnews/xinche/313005",
+    "https://www.d1ev.com/carnews/xinche/313047",
+    "https://www.d1ev.com/news/qiye/313038",
+    "https://www.d1ev.com/news/shichang/313041",
+    "https://www.d1ev.com/carnews/xinche/313040",
+    "https://www.d1ev.com/news/shichang/313046",
+    "https://www.d1ev.com/news/shichang/313044",
+    "https://www.d1ev.com/news/shichang/313043",
+    "https://www.d1ev.com/news/shichang/313042",
+    "https://www.d1ev.com/news/shichang/313039"
   ],
   "newsHistory": [
     {
@@ -4419,6 +4419,60 @@
       "title": "品牌首款MPV 尊界V8将于9月28日开启预订",
       "source": "第一电动",
       "pushedAt": 1790061204042
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313047",
+      "title": "广汽传祺越7正式上市 售价16.98-21.58万元",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313038",
+      "title": "3.3秒破百综合续航1416km！莲花首款超混SUV超跑66.8万上市",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313041",
+      "title": "汽车芯片，重新分工？",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313040",
+      "title": "单月份额近6成，五菱要重塑新能源轻客市场格局？",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313046",
+      "title": "2026年1-7月电气化供应商装机量排行榜：国产供应链韧性增强，IGBT国产化成果凸显丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313044",
+      "title": "罗森伯格加码在华投资",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313043",
+      "title": "沙特国家汽车公司CEER首秀EXOBOT 轿车和 SUV",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313042",
+      "title": "泰矽微发布3合1高集成度MCU产品TCHV5018系列",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313039",
+      "title": "董扬：汽车产业需高质量发展，反对盲目全栈自研｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790082110480
     }
   ],
   "lastUpdated": "2026-09-22"
