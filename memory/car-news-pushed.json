@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310730",
-    "https://www.d1ev.com/newsflash/310728",
-    "https://www.d1ev.com/newsflash/310726",
-    "https://www.d1ev.com/newsflash/310725",
-    "https://www.d1ev.com/carnews/xinche/310723",
-    "https://www.d1ev.com/newsflash/310722",
-    "https://www.d1ev.com/news/shichang/310718",
-    "https://www.d1ev.com/news/shichang/310717",
-    "https://www.d1ev.com/newsflash/310756",
-    "https://www.d1ev.com/newsflash/310748",
-    "https://www.d1ev.com/newsflash/310744",
-    "https://www.d1ev.com/newsflash/310739",
-    "https://www.d1ev.com/newsflash/310757",
-    "https://www.d1ev.com/newsflash/310753",
-    "https://www.d1ev.com/newsflash/310752",
     "https://www.d1ev.com/news/shichang/310751",
     "https://www.d1ev.com/newsflash/310747",
     "https://www.d1ev.com/newsflash/310746",
@@ -1999,7 +1984,22 @@
     "https://www.d1ev.com/news/qiye/313066",
     "https://www.d1ev.com/news/shichang/313061",
     "https://www.d1ev.com/news/shichang/313060",
-    "https://www.d1ev.com/news/shichang/313059"
+    "https://www.d1ev.com/news/shichang/313059",
+    "https://www.d1ev.com/news/shichang/313089",
+    "https://www.d1ev.com/news/shichang/313086",
+    "https://www.d1ev.com/news/shichang/313095",
+    "https://www.d1ev.com/news/shichang/313085",
+    "https://www.d1ev.com/news/shichang/313083",
+    "https://www.d1ev.com/news/shichang/313093",
+    "https://www.d1ev.com/news/qiye/313091",
+    "https://www.d1ev.com/news/shichang/313082",
+    "https://www.d1ev.com/news/shichang/313094",
+    "https://www.d1ev.com/news/qiye/313092",
+    "https://www.d1ev.com/news/shichang/313087",
+    "https://www.d1ev.com/news/qiye/313081",
+    "https://www.d1ev.com/news/shichang/313080",
+    "https://www.d1ev.com/news/shichang/313079",
+    "https://www.d1ev.com/news/qiye/313078"
   ],
   "newsHistory": [
     {
@@ -4389,6 +4389,96 @@
       "title": "乐聚-湖大工业具身智能体联合研发中心正式揭牌",
       "source": "第一电动",
       "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313089",
+      "title": "佑驾创新亮相InCabin Europe：重磅发布安全评估模型DFR，现场演示海外版 BamBam",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313086",
+      "title": "13.97万起，东风标致、东风雪铁龙SUV家族2027款焕新上市，至高48000元权益",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313095",
+      "title": "走进尚界｜智驾底盘·生态共筑，智能底盘前瞻技术展圆满落幕",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313085",
+      "title": "比亚迪泰国工厂第10万辆新能源车下线",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313083",
+      "title": "零跑汽车携手腾讯WorkBuddy，40+核心业务场景AI提效90%",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313093",
+      "title": "走进上汽大通｜智研底盘·聚力全球，智能底盘创新技术展圆满落幕，下一站精彩继续！",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313091",
+      "title": "广汽联手中科院东莞材料所，非晶合金电驱实现全球首家量产",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313082",
+      "title": "曝通用汽车CEO将出席美国白宫对华国事晚宴",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313094",
+      "title": "乘联分会：9月1-20日乘用车零售同比降22%",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313092",
+      "title": "东风冯长军赴深圳与华为任正非会谈 聚焦战略合作与联合车型",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313087",
+      "title": "RISC-V，上车之后拼什么？",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313081",
+      "title": "梅赛德斯-奔驰警告：若成本无法下降，两家德国工厂或将关闭",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313080",
+      "title": "刘佳：高端化不是卖更贵，需共建智能越野标准｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313079",
+      "title": "张国华：高端不能自我定义，汽车营销要从参数堆砌走向用户精神共鸣｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313078",
+      "title": "乐道L90上线星瀚金辉套装：星瀚蓝车身配云曦金顶 限时6千",
+      "source": "第一电动",
+      "pushedAt": 1790154058947
     }
   ],
   "lastUpdated": "2026-09-23"
