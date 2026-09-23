@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310740",
-    "https://www.d1ev.com/news/shichang/310736",
-    "https://www.d1ev.com/newsflash/310768",
     "https://www.d1ev.com/newsflash/310766",
     "https://www.d1ev.com/newsflash/310760",
     "https://www.d1ev.com/newsflash/310767",
@@ -1999,93 +1996,12 @@
     "https://www.d1ev.com/news/shichang/313097",
     "https://www.d1ev.com/news/qiye/313107",
     "https://www.d1ev.com/news/shichang/313101",
-    "https://www.d1ev.com/news/shichang/313098"
+    "https://www.d1ev.com/news/shichang/313098",
+    "https://www.d1ev.com/news/shichang/313113",
+    "https://www.d1ev.com/carnews/xinche/313112",
+    "https://www.d1ev.com/news/shichang/313111"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/312693",
-      "title": "大众ID.3 GTI官图发布：电动小钢炮5.6秒破百 续航最高601公里",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312689",
-      "title": "搭载华为乾崑智驾ADS 5 Pro，极狐阿尔法T7上市补贴价13.28万起",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312686",
-      "title": "搭载华为乾崑智驾ADS 5 Pro 极狐阿尔法T7上市补贴价13.28万起",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312684",
-      "title": "比亚迪新车炸场！方程S 18.99万开卖 连自家人都打",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312681",
-      "title": "理想i9正式上市 售价36.98万元",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312687",
-      "title": "2916.171km登顶世界最长续航车！全新红旗H7刷新吉尼斯纪录",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312685",
-      "title": "5米车身+华为智驾，极狐T7只卖13万起",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312682",
-      "title": "零跑发布世界模型智驾：10万内车型将支持高阶辅助驾驶，老车主可升级",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312692",
-      "title": "零跑67亿定增获证监会批复 一汽股权与国资双重战略入股",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312691",
-      "title": "丰田申请开车视线拍照专利 看哪拍哪无需动手",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312690",
-      "title": "B级车跌了，星瑞L PLUS却选择进场",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312688",
-      "title": "全新理想i9正式发布，全国统一零售价36.98万元",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312683",
-      "title": "全域自研电驱11年，零跑的底牌与野心",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312680",
-      "title": "华为退居二线！问界全面交权赛力斯：产品定义、营销、渠道全主导",
-      "source": "第一电动",
-      "pushedAt": 1789586313526
-    },
     {
       "url": "https://www.d1ev.com/newsflash/312696",
       "title": "零跑世界模型智驾来了：10万级车就能用 35万老车主免费升级",
@@ -4299,7 +4215,25 @@
       "title": "博世2026上半年销售额达464亿欧元，维持全年业绩预期不变",
       "source": "第一电动",
       "pushedAt": 1790174195470
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313113",
+      "title": "定位于新锐科技智能SUV，天枢大满配长安启源Q06上市，限时权益价13.59万元起",
+      "source": "第一电动",
+      "pushedAt": 1790191412464
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313112",
+      "title": "腾势Z9S正式上市 售价25.58-32.58万元",
+      "source": "第一电动",
+      "pushedAt": 1790191412464
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313111",
+      "title": "启源Q06只要13万，长安的技术普惠牌打出来了",
+      "source": "第一电动",
+      "pushedAt": 1790191412464
     }
   ],
-  "lastUpdated": "2026-09-23"
+  "lastUpdated": "2026-09-24"
 }
