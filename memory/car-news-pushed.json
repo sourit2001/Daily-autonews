@@ -1,24 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310699",
-    "https://www.d1ev.com/newsflash/310715",
-    "https://www.d1ev.com/news/qiye/310713",
-    "https://www.d1ev.com/newsflash/310711",
-    "https://www.d1ev.com/news/shichang/310709",
-    "https://www.d1ev.com/newsflash/310706",
-    "https://www.d1ev.com/newsflash/310705",
-    "https://www.d1ev.com/news/shichang/310700",
-    "https://www.d1ev.com/newsflash/310729",
-    "https://www.d1ev.com/carnews/xinche/310724",
-    "https://www.d1ev.com/newsflash/310720",
-    "https://www.d1ev.com/newsflash/310727",
-    "https://www.d1ev.com/newsflash/310721",
-    "https://www.d1ev.com/newsflash/310719",
-    "https://www.d1ev.com/newsflash/310716",
-    "https://www.d1ev.com/carnews/xinche/310734",
-    "https://www.d1ev.com/news/shichang/310733",
-    "https://www.d1ev.com/news/shichang/310732",
-    "https://www.d1ev.com/news/shichang/310731",
     "https://www.d1ev.com/newsflash/310730",
     "https://www.d1ev.com/newsflash/310728",
     "https://www.d1ev.com/newsflash/310726",
@@ -1999,129 +1980,28 @@
     "https://www.d1ev.com/carnews/xinche/313049",
     "https://www.d1ev.com/news/shichang/313051",
     "https://www.d1ev.com/news/shichang/313048",
-    "https://www.d1ev.com/news/shichang/313057"
+    "https://www.d1ev.com/news/shichang/313057",
+    "https://www.d1ev.com/news/shichang/313072",
+    "https://www.d1ev.com/carnews/xinche/313070",
+    "https://www.d1ev.com/carnews/xinche/313068",
+    "https://www.d1ev.com/carnews/xinche/313065",
+    "https://www.d1ev.com/carnews/xinche/313063",
+    "https://www.d1ev.com/news/shichang/313076",
+    "https://www.d1ev.com/news/shichang/313074",
+    "https://www.d1ev.com/carnews/xinche/313064",
+    "https://www.d1ev.com/news/qiye/313073",
+    "https://www.d1ev.com/news/shichang/313058",
+    "https://www.d1ev.com/news/shichang/313077",
+    "https://www.d1ev.com/news/shichang/313075",
+    "https://www.d1ev.com/news/shichang/313071",
+    "https://www.d1ev.com/carnews/xinche/313069",
+    "https://www.d1ev.com/news/shichang/313067",
+    "https://www.d1ev.com/news/qiye/313066",
+    "https://www.d1ev.com/news/shichang/313061",
+    "https://www.d1ev.com/news/shichang/313060",
+    "https://www.d1ev.com/news/shichang/313059"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312636",
-      "title": "宝马确认新一代3系将推出插混版 9月底首发",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312632",
-      "title": "吉利银河战舰700开启预售 预售价19.98万起",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312631",
-      "title": "纯电续航更长 2028款沃尔沃XC60 T8正式亮相",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312630",
-      "title": "2027款一汽悦意07上市 售价12.49-13.99万元",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312620",
-      "title": "福田汽车亮相汉诺威商用车展 发布欧洲战略并交付第1300万辆整车",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312634",
-      "title": "沃尔沃多款重型电动卡车在瑞典工厂开始交付",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312633",
-      "title": "此芯科技与Canonical合作，降低边缘AI设备落地门槛",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312623",
-      "title": "威迈斯与德州仪器合作，拓展至AI基础设施领域",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312617",
-      "title": "余凯谈智驾下一轮：算法好，已经不够了",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312616",
-      "title": "中国供应链出海，要拼“回购”",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312635",
-      "title": "奥迪A2 e-tron开放选配 起售价3.82万欧元",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312628",
-      "title": "硬核越野利器 坦克300虎克之路开启盲订",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312627",
-      "title": "日产时隔约20年复活Prima车型 基于N7打造",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312626",
-      "title": "智界R7焕新款：17.2英寸联屏+852L后备箱",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312625",
-      "title": "前缀从“鸿蒙智行”变成“赛力斯”后，你还会不会买问界",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312624",
-      "title": "东风科技一体化压铸DH3后地板首件下线",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312622",
-      "title": "奥迪在华品牌调整，方案定了！",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312621",
-      "title": "在中国，“一个丰田”时代要来了？",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312619",
-      "title": "百工汇智与云幕智造合作研发钢卷拆包人形机器人",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312618",
-      "title": "履新满月，吴赟推动上汽大众中层大轮岗",
-      "source": "第一电动",
-      "pushedAt": 1789527908268
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312654",
       "title": "芯聚生态·智启未来 | 东芯半导体车规存储产品亮相第六届智能汽车芯片生态大会！",
@@ -4395,6 +4275,120 @@
       "title": "【盖世快讯】中国工信新闻：“去宁德化”论调要不得；小鹏机器人完成审厂及核心零部件定点",
       "source": "第一电动",
       "pushedAt": 1790121432890
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313072",
+      "title": "上汽大通27款星际X上市，售价18.58万元起",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313070",
+      "title": "红旗G919开启预售 预售价为35.98-43.98万元",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313068",
+      "title": "比亚迪第二代海鸥设计图曝光：车长暴增",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313065",
+      "title": "与华为乾崑联合设计 阿维塔9系巴黎车展首发",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313063",
+      "title": "将于10月正式上市 全新现代途胜XRT官图发布",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313076",
+      "title": "杨靖：百万级新能源购车先看圈层价值，溢价转向系统化体验｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313074",
+      "title": "特里蓬·布尼亚曼：泰国依托“3030”计划推进新能源转型，补齐产业链与人才短板｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313064",
+      "title": "提升安全 深蓝汽车联合英特尔推出AI BOX",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313073",
+      "title": "众泰汽车Wink Y01国际版首批小批量试生产车下线",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313058",
+      "title": "安道拓深化“在中国，为全球”布局 持续以创新与智造赋能汽车产业发展",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313077",
+      "title": "姚占辉：立足新型能源体系 构建汽车多元补能融合发展路径｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313075",
+      "title": "王都：车市进入淘汰赛 流通行业亟需重构盈利模式｜2026泰达论坛",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313071",
+      "title": "Leggett Dynamics 亚太总部扩容启幕",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313069",
+      "title": "搭载汽油电驱动力 新款日产奇骏混动版发布",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313067",
+      "title": "持续加码中国，武汉奥托立夫技术中心正式开业",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313066",
+      "title": "马斯克感叹中国壮丽：建议有时间就去中国",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313061",
+      "title": "大晓机器人与中国石油上海销售公司达成合作",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313060",
+      "title": "墨现科技发布全系列数据采集手套",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313059",
+      "title": "乐聚-湖大工业具身智能体联合研发中心正式揭牌",
+      "source": "第一电动",
+      "pushedAt": 1790133530745
     }
   ],
   "lastUpdated": "2026-09-23"
