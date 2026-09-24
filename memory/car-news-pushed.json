@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310792",
     "https://www.d1ev.com/newsflash/310808",
     "https://www.d1ev.com/newsflash/310805",
     "https://www.d1ev.com/newsflash/310801",
@@ -1999,87 +1998,10 @@
     "https://www.d1ev.com/news/shichang/313144",
     "https://www.d1ev.com/news/shichang/313143",
     "https://www.d1ev.com/news/qiye/313147",
-    "https://www.d1ev.com/news/shichang/313146"
+    "https://www.d1ev.com/news/shichang/313146",
+    "https://www.d1ev.com/news/qiye/313152"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/312773",
-      "title": "别克至境E7焕新款9月23日上市，第3万台下线限时14.99万起",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312771",
-      "title": "黄金大五座科技旗舰——小鹏G9L正式上市，23.18万元起",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312764",
-      "title": "小鹏G9L正式上市 售价24.18-31.98万元",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312763",
-      "title": "全新吉利银河E5将于9月23日上市 搭载激光雷达与800V平台",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312770",
-      "title": "欧盟将对英国的电动汽车关税推迟至2027年",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312767",
-      "title": "继问界之后华为再问境 新商标覆盖汽车及自动驾驶",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312769",
-      "title": "小鹏汽车拟向更多海外车企提供技术授权",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312762",
-      "title": "欧盟要求中国主动限制混动汽车出口",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312774",
-      "title": "问界明年1月起撤出华为门店 赛力斯将全面主导销售体系",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312772",
-      "title": "小鹏G9L发布会上，何小鹏、尹正同台讲车",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312768",
-      "title": "小米智能表盘2明日补货：999元新增转头结构 首批卖断货",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312766",
-      "title": "明年1月起问界正式撤出华为门店及鸿蒙智行，经销商须重新选择代理",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312765",
-      "title": "华为商城调整鸿蒙智行五界排序：问界从第二跌至最下方",
-      "source": "第一电动",
-      "pushedAt": 1789673748767
-    },
     {
       "url": "https://www.d1ev.com/newsflash/312779",
       "title": "智界RX闪金黑内饰亮相：西装暴徒风格，29.98万起/四驱独享boost",
@@ -4101,7 +4023,13 @@
       "title": "Fraunhofer IWU开辟换热器板经济高效的大规模生产新途径",
       "source": "第一电动",
       "pushedAt": 1790260664800
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313152",
+      "title": "19.99万元起，大众安徽首款纯电轿跑与众09开启预售",
+      "source": "第一电动",
+      "pushedAt": 1790278985236
     }
   ],
-  "lastUpdated": "2026-09-24"
+  "lastUpdated": "2026-09-25"
 }
