@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310808",
-    "https://www.d1ev.com/newsflash/310805",
     "https://www.d1ev.com/newsflash/310801",
     "https://www.d1ev.com/newsflash/310799",
     "https://www.d1ev.com/newsflash/310803",
@@ -1999,147 +1997,11 @@
     "https://www.d1ev.com/news/shichang/313143",
     "https://www.d1ev.com/news/qiye/313147",
     "https://www.d1ev.com/news/shichang/313146",
-    "https://www.d1ev.com/news/qiye/313152"
+    "https://www.d1ev.com/news/qiye/313152",
+    "https://www.d1ev.com/carnews/xinche/313154",
+    "https://www.d1ev.com/carnews/xinche/313153"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/312779",
-      "title": "智界RX闪金黑内饰亮相：西装暴徒风格，29.98万起/四驱独享boost",
-      "source": "第一电动",
-      "pushedAt": 1789684530404
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312778",
-      "title": "零跑放话争做汽车界苹果！第二品牌新车明年四季度交付",
-      "source": "第一电动",
-      "pushedAt": 1789684530404
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312776",
-      "title": "阿维塔06T猎装骑士版正式亮相：华为乾崑联合设计，9月20日上市",
-      "source": "第一电动",
-      "pushedAt": 1789684530404
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312775",
-      "title": "阿维塔06T猎装骑士版9月20日上市 配华为乾崑智驾和双动力",
-      "source": "第一电动",
-      "pushedAt": 1789684530404
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312777",
-      "title": "理想汽车坚持直营：487家零售中心覆盖160城，营业至22点",
-      "source": "第一电动",
-      "pushedAt": 1789684530404
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312798",
-      "title": "配置升级 2027款保时捷纯电Cayenne官图发布",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312797",
-      "title": "全新奔驰AMG GT Black Series谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312796",
-      "title": "动力或不变 新款AMG GLC 53轿跑版谍照曝光",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312793",
-      "title": "基于新平台打造 全新奔驰Sprinter设计曝光",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312792",
-      "title": "比亚迪新款元UP飞驰版上市：6.98万起",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312791",
-      "title": "韩寒国内首测 全新奥迪S5 Avant上市定档",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312784",
-      "title": "23.18万起！小鹏G9L上市 王凤英：同价位全球无对手",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312783",
-      "title": "新世代超跑 Hennessey Blackbird新车图解",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312795",
-      "title": "享界V8全系标配电动招财猫座椅：这才是家用MPV最优解",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312794",
-      "title": "赛力斯回应问界合作模式调整：华为智驾/鸿蒙座舱OTA不受影响",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312790",
-      "title": "补上智驾拼图，零跑把世界模型带进10万级",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312789",
-      "title": "电动化之外，BBA还有一场仗要打",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312788",
-      "title": "广汽自营充电桩突破3万根 保有量居车企首位",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312787",
-      "title": "在2026 IAA展会，亿纬锂能签约超30GWh商用车电池订单",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/312780",
-      "title": "字节豆包正式上车！火山引擎发布座舱助手，荣威家越07率先搭载",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312786",
-      "title": "重组大势下，僵而不死的哪吒众泰们，又要复活了？",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312785",
-      "title": "8月末全国乘用车库存降至314万辆 库存支撑天数56天",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312782",
-      "title": "蔚来新增8座充换电站 全国总数达9372座",
-      "source": "第一电动",
-      "pushedAt": 1789699503223
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312826",
       "title": "动力强油耗低 新款吉利博越L 9月24日上市",
@@ -4029,6 +3891,18 @@
       "title": "19.99万元起，大众安徽首款纯电轿跑与众09开启预售",
       "source": "第一电动",
       "pushedAt": 1790278985236
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313154",
+      "title": "超5米长的纯电轿跑 大众安徽与众09预售",
+      "source": "第一电动",
+      "pushedAt": 1790305114081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313153",
+      "title": "比亚迪二代海鸥内饰设计图：取消仪表盘",
+      "source": "第一电动",
+      "pushedAt": 1790305114081
     }
   ],
   "lastUpdated": "2026-09-25"
