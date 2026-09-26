@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310806",
     "https://www.d1ev.com/news/qiye/310804",
     "https://www.d1ev.com/newsflash/310800",
     "https://www.d1ev.com/newsflash/310811",
@@ -1999,45 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/313158",
     "https://www.d1ev.com/carnews/xinche/313157",
     "https://www.d1ev.com/carnews/xinche/313156",
-    "https://www.d1ev.com/carnews/xinche/313159"
+    "https://www.d1ev.com/carnews/xinche/313159",
+    "https://www.d1ev.com/news/qiye/313161"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312876",
-      "title": "纯电续航630km！全新领克20即将上市：标配千里浩瀚H5",
-      "source": "第一电动",
-      "pushedAt": 1789806466836
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312878",
-      "title": "徐剑：干线货运降本安全双重承压 自动驾驶规模化被寄予厚望｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789806466836
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312877",
-      "title": "张晓宇：智能汽车需打通用户、服务、产业三类生态的有效连接｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789806466836
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312875",
-      "title": "机器人要上岗，怎样才算“会干活”？",
-      "source": "第一电动",
-      "pushedAt": 1789806466836
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312874",
-      "title": "王卫明：下一阶段，将实施汽车标准提升专项行动｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789806466836
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312873",
-      "title": "罗俊杰：车企需摒弃进口依赖思维，国产装备已进入“局部领跑”阶段｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789806466836
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312881",
       "title": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
@@ -3519,6 +3483,12 @@
       "title": "搭载华为辅助驾驶 全新红旗H9正式开启预定",
       "source": "第一电动",
       "pushedAt": 1790391711729
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313161",
+      "title": "BJ40增程黑曜版上市，官方指导价18.48万元",
+      "source": "第一电动",
+      "pushedAt": 1790413143938
     }
   ],
   "lastUpdated": "2026-09-26"
