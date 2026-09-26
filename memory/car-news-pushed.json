@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/310804",
-    "https://www.d1ev.com/newsflash/310800",
     "https://www.d1ev.com/newsflash/310811",
     "https://www.d1ev.com/carnews/xinche/310810",
     "https://www.d1ev.com/news/shichang/310812",
@@ -1999,33 +1997,11 @@
     "https://www.d1ev.com/carnews/xinche/313157",
     "https://www.d1ev.com/carnews/xinche/313156",
     "https://www.d1ev.com/carnews/xinche/313159",
-    "https://www.d1ev.com/news/qiye/313161"
+    "https://www.d1ev.com/news/qiye/313161",
+    "https://www.d1ev.com/carnews/xinche/313163",
+    "https://www.d1ev.com/news/shichang/313162"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312881",
-      "title": "张桂华：滨海新区集聚整车产能135万辆 上半年新能源产量增长38.2%｜泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789825106281
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312880",
-      "title": "王芳：新能源转向市场与技术双轮驱动 固态电池成竞争新赛道｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789825106281
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312882",
-      "title": "召回1.21亿辆次之后，智能汽车的“安全债”该还了",
-      "source": "第一电动",
-      "pushedAt": 1789825106281
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312879",
-      "title": "赛力斯刘宗成：以“1+2+N”构建开放协同模式 拒绝粗放式增长｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789825106281
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312883",
       "title": "陈晓峰:以系统化AI能力，铸就中国汽车出海新长板｜2026泰达论坛",
@@ -3489,6 +3465,18 @@
       "title": "BJ40增程黑曜版上市，官方指导价18.48万元",
       "source": "第一电动",
       "pushedAt": 1790413143938
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313163",
+      "title": "2027款长安马自达EZ60上市 售价11.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1790431198505
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313162",
+      "title": "直击世赛 | 第48届世界技能大赛精彩呈现",
+      "source": "第一电动",
+      "pushedAt": 1790431198505
     }
   ],
   "lastUpdated": "2026-09-26"
