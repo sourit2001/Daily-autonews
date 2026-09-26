@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310799",
-    "https://www.d1ev.com/newsflash/310803",
-    "https://www.d1ev.com/newsflash/310802",
-    "https://www.d1ev.com/newsflash/310798",
-    "https://www.d1ev.com/newsflash/310807",
     "https://www.d1ev.com/newsflash/310806",
     "https://www.d1ev.com/news/qiye/310804",
     "https://www.d1ev.com/newsflash/310800",
@@ -1999,51 +1994,14 @@
     "https://www.d1ev.com/news/qiye/313152",
     "https://www.d1ev.com/carnews/xinche/313154",
     "https://www.d1ev.com/carnews/xinche/313153",
-    "https://www.d1ev.com/news/qiye/313155"
+    "https://www.d1ev.com/news/qiye/313155",
+    "https://www.d1ev.com/carnews/xinche/313160",
+    "https://www.d1ev.com/carnews/xinche/313158",
+    "https://www.d1ev.com/carnews/xinche/313157",
+    "https://www.d1ev.com/carnews/xinche/313156",
+    "https://www.d1ev.com/carnews/xinche/313159"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312871",
-      "title": "特斯拉Optimus在华启动量产审厂：5万台下线计划曝光，供应链订单已下达",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312870",
-      "title": "鸿蒙智行被曝今年将推两款9系新车",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312869",
-      "title": "全新宝马iX5氢燃料版官图发布",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312867",
-      "title": "东方美学的旗舰 比亚迪大汉新车图解",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312866",
-      "title": "2026泰达论坛｜中汽中心刘仕强：固态电池完成从0到1突破，测评体系与产业化仍是核心挑战",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312872",
-      "title": "龚进峰：四点建议支撑汽车强国建设｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312868",
-      "title": "中国换电重卡首次驶入欧非运输走廊，国轩高科提供一体化运力方案",
-      "source": "第一电动",
-      "pushedAt": 1789785670494
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312876",
       "title": "纯电续航630km！全新领克20即将上市：标配千里浩瀚H5",
@@ -3531,6 +3489,36 @@
       "title": "韩路评200多万的宾利电动车后排：放国产20万都要被骂退网",
       "source": "第一电动",
       "pushedAt": 1790365519347
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313160",
+      "title": "赛力斯全面主导 新款问界M8官图发布",
+      "source": "第一电动",
+      "pushedAt": 1790391711729
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313158",
+      "title": "预售24.99万起 比亚迪大汉上市定档",
+      "source": "第一电动",
+      "pushedAt": 1790391711729
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313157",
+      "title": "搭载一体式连屏 方程豹钛9内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1790391711729
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313156",
+      "title": "定位全尺寸SUV 奕境X9上市24小时大定9157台",
+      "source": "第一电动",
+      "pushedAt": 1790391711729
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313159",
+      "title": "搭载华为辅助驾驶 全新红旗H9正式开启预定",
+      "source": "第一电动",
+      "pushedAt": 1790391711729
     }
   ],
   "lastUpdated": "2026-09-26"
