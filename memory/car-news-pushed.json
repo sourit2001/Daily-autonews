@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/310810",
     "https://www.d1ev.com/news/shichang/310812",
     "https://www.d1ev.com/newsflash/310813",
     "https://www.d1ev.com/news/qiye/310809",
@@ -1999,243 +1998,10 @@
     "https://www.d1ev.com/news/qiye/313161",
     "https://www.d1ev.com/carnews/xinche/313163",
     "https://www.d1ev.com/news/shichang/313162",
-    "https://www.d1ev.com/news/shichang/313164"
+    "https://www.d1ev.com/news/shichang/313164",
+    "https://www.d1ev.com/news/shichang/313165"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312899",
-      "title": "北京越野发布新车星钽5X定妆照",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312892",
-      "title": "马自达平台打造外观复古 光冈LA1官图发布",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312891",
-      "title": "华为智驾首次下探10万内 星海V6新车上市",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312890",
-      "title": "比亚迪方程豹宣布方程S新车抵达133城289店",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312887",
-      "title": "美式豪华新升级 2027款林肯航海家新车图解",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312900",
-      "title": "HBK、VI-grade与MOVEdot建立合作 将AI智能体引入仿真与物理测试领域",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312903",
-      "title": "ZF Lifetec推出综合安全解决方案 将乘员感知系统与乘员保护功能相结合",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312902",
-      "title": "小鹏汇天与拉斯海玛签署战略合作 共建先进空中交通监管沙盒",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312897",
-      "title": "余承东尹同跃现身坂田基地查看智界R7焕新款",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312896",
-      "title": "法拉第未来签署融资修订协议 减少500万美元票据债务",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312895",
-      "title": "晶能完成6.3亿元C轮融资，累计融资规模已近20亿元",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312894",
-      "title": "奥迪A4 e-tron投产时间推迟至2029年3月",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312893",
-      "title": "唤醒性能基因 日产Z Nismo即将引入国内",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312889",
-      "title": "智身科技发布“多足联运”系统 实现多机器人无图环境协作搬运",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312888",
-      "title": "盖世周报 | 南北丰田合二为一；曝佛瑞亚拟出售歌乐电子",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312886",
-      "title": "中国汽车，下一步靠什么持续向上｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312885",
-      "title": "【盖世快讯】赛力斯回应问界“含华量”；特斯拉被曝启动新一轮机器人业务量产审厂",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312884",
-      "title": "王超：以运动域底层创新破解产业同质化困局｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789872884590
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312922",
-      "title": "东风风行星海V6正式上市 权益价9.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312910",
-      "title": "荣威家越07首发豆包座舱助手",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312925",
-      "title": "楚航科技成立物理AI子公司",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312923",
-      "title": "腾势Z9GT在泰国正式发布，首次引入闪充及第二代刀片电池",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312920",
-      "title": "科络达出席盖世AI定义汽车论坛，共探AIDV时代整车软件进化之路",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312907",
-      "title": "长安张晓宇：2027年L3级自动驾驶将量产，2028年L4级开始商业化运营",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312917",
-      "title": "晓莺说|海外建厂潮 中国汽车的第二个700万辆",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312908",
-      "title": "文烈锋：中国车企出海需转向生态化、本地化运营｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312924",
-      "title": "RISC-V，怎么突然火了？",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312921",
-      "title": "“下周回国”还没来，贾跃亭一口气发布9款机器人",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312919",
-      "title": "江阳磁材深度解析｜永磁电机磁钢厚度设计：为什么不是越厚性能越强？",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312918",
-      "title": "广汽柬埔寨KD工厂正式投产，首台“柬埔寨造”传祺下线",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312916",
-      "title": "东风汽车在新疆柯坪建成行业首个光氢电一体化智慧能源站",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312915",
-      "title": "谷川高科嘉定项目竣工，达产后年产值目标10亿元",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312914",
-      "title": "迈入智能驾驶辅助第一梯队 ——长安天枢领航的破局之路",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312913",
-      "title": "保时捷或将再裁员4000人",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312912",
-      "title": "逝者 | 沉痛悼念中国汽车产业老前辈邵奇惠",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312911",
-      "title": "利润率不超过1%！大众集团发布盈利预警",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312906",
-      "title": "格陆博（宜宾）公司制动器总成单月出货超1万套",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312905",
-      "title": "长安汽车董事会换届，朱华荣续任董事长 赵非出任总裁",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312904",
-      "title": "蔚来9月19日新增上线7座充换电站",
-      "source": "第一电动",
-      "pushedAt": 1789894775218
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/312935",
       "title": "阿维塔06T猎装骑士版上市，限时权益后24.69万元",
@@ -3477,6 +3243,12 @@
       "title": "盖世周报 | 广汽拟在欧洲新增产能；武汉奥托立夫技术中心开业",
       "source": "第一电动",
       "pushedAt": 1790467572101
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313165",
+      "title": "E周看点 | 大运汽车重整获批；沙特CEER首秀EXOBOT轿车和SUV",
+      "source": "第一电动",
+      "pushedAt": 1790515703247
     }
   ],
   "lastUpdated": "2026-09-27"
