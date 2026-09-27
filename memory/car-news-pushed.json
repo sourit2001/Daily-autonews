@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310812",
     "https://www.d1ev.com/newsflash/310813",
     "https://www.d1ev.com/news/qiye/310809",
     "https://www.d1ev.com/newsflash/310835",
@@ -1999,75 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/313163",
     "https://www.d1ev.com/news/shichang/313162",
     "https://www.d1ev.com/news/shichang/313164",
-    "https://www.d1ev.com/news/shichang/313165"
+    "https://www.d1ev.com/news/shichang/313165",
+    "https://www.d1ev.com/news/qiye/313166"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/312935",
-      "title": "阿维塔06T猎装骑士版上市，限时权益后24.69万元",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312934",
-      "title": "全新奔驰长轴距GLE上市，59.98万元起，率先搭载Momenta R7世界模",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312933",
-      "title": "搭载华为乾崑ADS 5与四激光雷达，岚图梦想家9全球上市发布会定档",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312931",
-      "title": "一汽-大众ID.AURA T6上市 售12.99-16.69万",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312929",
-      "title": "全新奥迪S5 Avant正式上市 首发版限量99台",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312928",
-      "title": "阿维塔06T猎装骑士版正式上市 权益后售价24.69万元",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312927",
-      "title": "大众史上最强车机上车！ID.AURA T6正式上市：12.99万起",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312932",
-      "title": "零跑汽车Q2全球销量首超斯巴鲁和三菱",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312930",
-      "title": "比亚迪召回部分唐及秦系列汽车共计183211辆",
-      "source": "第一电动",
-      "pushedAt": 1789912418886
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312937",
-      "title": "越野圣地登顶，坦克300虎克之路25万启售",
-      "source": "第一电动",
-      "pushedAt": 1789924419480
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312936",
-      "title": "索赔超16万元！老人下公交站了几秒 被门刮倒摔成十级伤残",
-      "source": "第一电动",
-      "pushedAt": 1789924419480
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312939",
       "title": "原生无人驾驶量产落地，特斯拉Cybercab核心零部件配套供应商一览",
@@ -3249,7 +3183,13 @@
       "title": "E周看点 | 大运汽车重整获批；沙特CEER首秀EXOBOT轿车和SUV",
       "source": "第一电动",
       "pushedAt": 1790515703247
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313166",
+      "title": "特斯拉Model Y优惠缩水！从1万元降至7000元：政策条件也变",
+      "source": "第一电动",
+      "pushedAt": 1790532072373
     }
   ],
-  "lastUpdated": "2026-09-27"
+  "lastUpdated": "2026-09-28"
 }
