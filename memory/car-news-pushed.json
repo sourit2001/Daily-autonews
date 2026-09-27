@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310811",
     "https://www.d1ev.com/carnews/xinche/310810",
     "https://www.d1ev.com/news/shichang/310812",
     "https://www.d1ev.com/newsflash/310813",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/313159",
     "https://www.d1ev.com/news/qiye/313161",
     "https://www.d1ev.com/carnews/xinche/313163",
-    "https://www.d1ev.com/news/shichang/313162"
+    "https://www.d1ev.com/news/shichang/313162",
+    "https://www.d1ev.com/news/shichang/313164"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/312883",
-      "title": "陈晓峰:以系统化AI能力，铸就中国汽车出海新长板｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1789837092113
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/312899",
       "title": "北京越野发布新车星钽5X定妆照",
@@ -3477,7 +3471,13 @@
       "title": "直击世赛 | 第48届世界技能大赛精彩呈现",
       "source": "第一电动",
       "pushedAt": 1790431198505
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313164",
+      "title": "盖世周报 | 广汽拟在欧洲新增产能；武汉奥托立夫技术中心开业",
+      "source": "第一电动",
+      "pushedAt": 1790467572101
     }
   ],
-  "lastUpdated": "2026-09-26"
+  "lastUpdated": "2026-09-27"
 }
