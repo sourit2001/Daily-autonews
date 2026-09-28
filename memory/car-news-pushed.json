@@ -1,23 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310840",
-    "https://www.d1ev.com/carnews/xinche/310863",
-    "https://www.d1ev.com/carnews/xinche/310860",
-    "https://www.d1ev.com/newsflash/310862",
-    "https://www.d1ev.com/newsflash/310857",
-    "https://www.d1ev.com/newsflash/310861",
-    "https://www.d1ev.com/carnews/xinche/310859",
-    "https://www.d1ev.com/news/qiye/310858",
-    "https://www.d1ev.com/newsflash/310887",
-    "https://www.d1ev.com/newsflash/310885",
-    "https://www.d1ev.com/news/shichang/310877",
-    "https://www.d1ev.com/newsflash/310876",
-    "https://www.d1ev.com/newsflash/310875",
-    "https://www.d1ev.com/newsflash/310886",
-    "https://www.d1ev.com/newsflash/310879",
-    "https://www.d1ev.com/newsflash/310874",
-    "https://www.d1ev.com/newsflash/310872",
-    "https://www.d1ev.com/newsflash/310870",
     "https://www.d1ev.com/newsflash/310868",
     "https://www.d1ev.com/newsflash/310867",
     "https://www.d1ev.com/newsflash/310866",
@@ -1999,51 +1981,27 @@
     "https://www.d1ev.com/news/qiye/313190",
     "https://www.d1ev.com/news/shichang/313189",
     "https://www.d1ev.com/news/shichang/313186",
-    "https://www.d1ev.com/news/shichang/313184"
+    "https://www.d1ev.com/news/shichang/313184",
+    "https://www.d1ev.com/carnews/xinche/313224",
+    "https://www.d1ev.com/news/qiye/313223",
+    "https://www.d1ev.com/news/qiye/313220",
+    "https://www.d1ev.com/news/qiye/313219",
+    "https://www.d1ev.com/news/qiye/313218",
+    "https://www.d1ev.com/news/shichang/313217",
+    "https://www.d1ev.com/news/qiye/313216",
+    "https://www.d1ev.com/carnews/xinche/313215",
+    "https://www.d1ev.com/news/qiye/313213",
+    "https://www.d1ev.com/carnews/xinche/313212",
+    "https://www.d1ev.com/news/shichang/313207",
+    "https://www.d1ev.com/news/shichang/313209",
+    "https://www.d1ev.com/news/shichang/313208",
+    "https://www.d1ev.com/carnews/xinche/313222",
+    "https://www.d1ev.com/carnews/xinche/313221",
+    "https://www.d1ev.com/news/shichang/313214",
+    "https://www.d1ev.com/carnews/xinche/313211",
+    "https://www.d1ev.com/news/shichang/313210"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312989",
-      "title": "红旗天工07开启预售 预售价18.99-21.99万",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312988",
-      "title": "首发华为EMB全电线控制动 广汽埃安5米级大轿车Ray 7盲订",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312983",
-      "title": "顶配15.28万 首款AI原生汽车荣威家越07正式开启预售",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/312982",
-      "title": "荣威家越07开启预售 预售价13.78万起",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312987",
-      "title": "车企AI落地：别只盯着新模型，先把内功练扎实",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/312984",
-      "title": "深化交流丨海外投资机构到访盖世汽车",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/312986",
-      "title": "马斯克再兑现科幻构想：特斯拉新一代Roadster能飞",
-      "source": "第一电动",
-      "pushedAt": 1790006986864
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/312997",
       "title": "2026年第38周（9.14-9.20）上市新车汇总",
@@ -3189,7 +3147,115 @@
       "title": "比亚迪第2000座闪充高速站落成，年度目标提前完成",
       "source": "第一电动",
       "pushedAt": 1790591043652
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313224",
+      "title": "长城大狗HEV混动版上市 售11.99-13.79万元",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313223",
+      "title": "全系800V吸引力十足 领克20上市1小时大定14663台",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313220",
+      "title": "全新领克20上市，限时专享价11.88万元起",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313219",
+      "title": "鸿蒙智行最好开的车｜智界RX 25.98万起正式上市",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313218",
+      "title": "专为家庭用户打造，享界首款MPV车型享界V8 32.98万元起开启预售",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313217",
+      "title": "领克20上市：用入门即高配，赌一次纯电翻身仗",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313216",
+      "title": "智界R7实现8大全面焕新上市，售价23.98万-31.98万元",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313215",
+      "title": "全新领克20正式上市 售价12.38-16.38万元",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313213",
+      "title": "标配800V高压平台+激光雷达 领克20上市：限时11.88万起",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313212",
+      "title": "猛士X700开启预售 预售价24.98-28.98万元",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313207",
+      "title": "捷达M6正式开启预售",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313209",
+      "title": "分析师：尽管峰会未达成协议，中国电动汽车或仍将进入美国市场",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313208",
+      "title": "Momenta牵手神龙科技：中国智驾如何进入国际品牌全球车型开发？",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313222",
+      "title": "广汽集团停牌10日抛重组方案：收购一汽丰田50%股权，南北丰田开启协同",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313221",
+      "title": "砸下200亿元后，蔚来与吉利联手做充换电！李斌：只有合作才能“赚点钱”",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313214",
+      "title": "华诚认证CCC业务被停业整顿，涉擅自增设认证标准",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313211",
+      "title": "发布四款配置 上汽大众ID.ERA 8X开启预定",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313210",
+      "title": "传奔驰计划削减9.11亿美元人力成本",
+      "source": "第一电动",
+      "pushedAt": 1790622530268
     }
   ],
-  "lastUpdated": "2026-09-28"
+  "lastUpdated": "2026-09-29"
 }
