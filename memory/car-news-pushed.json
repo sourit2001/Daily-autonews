@@ -1,14 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310917",
-    "https://www.d1ev.com/newsflash/310916",
-    "https://www.d1ev.com/newsflash/310914",
-    "https://www.d1ev.com/newsflash/310913",
-    "https://www.d1ev.com/newsflash/310908",
-    "https://www.d1ev.com/newsflash/310905",
-    "https://www.d1ev.com/newsflash/310915",
-    "https://www.d1ev.com/newsflash/310911",
-    "https://www.d1ev.com/newsflash/310910",
     "https://www.d1ev.com/news/qiye/310909",
     "https://www.d1ev.com/newsflash/310907",
     "https://www.d1ev.com/newsflash/310906",
@@ -1999,63 +1990,18 @@
     "https://www.d1ev.com/news/qiye/313242",
     "https://www.d1ev.com/news/shichang/313241",
     "https://www.d1ev.com/news/shichang/313234",
-    "https://www.d1ev.com/news/shichang/313233"
+    "https://www.d1ev.com/news/shichang/313233",
+    "https://www.d1ev.com/carnews/xinche/313266",
+    "https://www.d1ev.com/news/qiye/313265",
+    "https://www.d1ev.com/carnews/xinche/313264",
+    "https://www.d1ev.com/carnews/xinche/313263",
+    "https://www.d1ev.com/news/shichang/313261",
+    "https://www.d1ev.com/news/qiye/313258",
+    "https://www.d1ev.com/news/shichang/313262",
+    "https://www.d1ev.com/carnews/xinche/313260",
+    "https://www.d1ev.com/news/shichang/313259"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313047",
-      "title": "广汽传祺越7正式上市 售价16.98-21.58万元",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313038",
-      "title": "3.3秒破百综合续航1416km！莲花首款超混SUV超跑66.8万上市",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313041",
-      "title": "汽车芯片，重新分工？",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313040",
-      "title": "单月份额近6成，五菱要重塑新能源轻客市场格局？",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313046",
-      "title": "2026年1-7月电气化供应商装机量排行榜：国产供应链韧性增强，IGBT国产化成果凸显丨盖世汽车研究院",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313044",
-      "title": "罗森伯格加码在华投资",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313043",
-      "title": "沙特国家汽车公司CEER首秀EXOBOT 轿车和 SUV",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313042",
-      "title": "泰矽微发布3合1高集成度MCU产品TCHV5018系列",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313039",
-      "title": "董扬：汽车产业需高质量发展，反对盲目全栈自研｜2026泰达论坛",
-      "source": "第一电动",
-      "pushedAt": 1790082110480
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313055",
       "title": "全系全域L3架构+华为乾崑ADS 5，岚图梦想家9全球上市41.99万元起",
@@ -3237,6 +3183,60 @@
       "title": "最高省1.2万的购车补贴，你能拿到多少优惠？",
       "source": "第一电动",
       "pushedAt": 1790668129343
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313266",
+      "title": "2027款纵横G700上市 售价32.99-44.29万元",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313265",
+      "title": "同级唯一整车终身质保，艾尼氪V上市9.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313264",
+      "title": "方程豹方程S/S GT北京上市 售价18.99万起",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313263",
+      "title": "北京现代艾尼氪 V正式上市 售价10.99万元起",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313261",
+      "title": "北汽星钽5X展车十一前到店，10月中旬将开启预售",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313258",
+      "title": "11.78万买国际大厂纯电SUV 广汽丰田铂智3X星云限量版上市",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313262",
+      "title": "5米级大车＋华为智驾，北汽星钽5X能撼动钛7吗？",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313260",
+      "title": "半年销量暴涨超500%！再与英伟达生态合作的速腾聚创，机器人业务已成新支柱？",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313259",
+      "title": "广汽一汽战略协同：股权纽带下的央地车企新范式",
+      "source": "第一电动",
+      "pushedAt": 1790692381565
     }
   ],
   "lastUpdated": "2026-09-29"
