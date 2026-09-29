@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310868",
-    "https://www.d1ev.com/newsflash/310867",
-    "https://www.d1ev.com/newsflash/310866",
-    "https://www.d1ev.com/news/qiye/310883",
-    "https://www.d1ev.com/newsflash/310882",
-    "https://www.d1ev.com/newsflash/310880",
-    "https://www.d1ev.com/news/shichang/310884",
-    "https://www.d1ev.com/newsflash/310881",
     "https://www.d1ev.com/news/shichang/310878",
     "https://www.d1ev.com/newsflash/310873",
     "https://www.d1ev.com/news/shichang/310871",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/carnews/xinche/313221",
     "https://www.d1ev.com/news/shichang/313214",
     "https://www.d1ev.com/carnews/xinche/313211",
-    "https://www.d1ev.com/news/shichang/313210"
+    "https://www.d1ev.com/news/shichang/313210",
+    "https://www.d1ev.com/carnews/xinche/313229",
+    "https://www.d1ev.com/carnews/xinche/313228",
+    "https://www.d1ev.com/news/shichang/313230",
+    "https://www.d1ev.com/news/qiye/313232",
+    "https://www.d1ev.com/news/qiye/313231",
+    "https://www.d1ev.com/news/shichang/313227",
+    "https://www.d1ev.com/news/shichang/313226",
+    "https://www.d1ev.com/news/shichang/313225"
   ],
   "newsHistory": [
     {
@@ -3255,6 +3255,54 @@
       "title": "传奔驰计划削减9.11亿美元人力成本",
       "source": "第一电动",
       "pushedAt": 1790622530268
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313229",
+      "title": "韩式豪华巅峰之作 捷尼赛思GV90新车图解",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313228",
+      "title": "2026年第39周（9.21-9.27）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313230",
+      "title": "工信部释放智能网联汽车国际合作三重信号",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313232",
+      "title": "跳票9年的特斯拉Roadster再度延期！因演示飞行 天气不配合",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313231",
+      "title": "邓承浩回应深蓝、阿维塔品牌合并：知情人士不完全知情",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313227",
+      "title": "2026世界智能网联汽车大会新闻发布会在京召开",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313226",
+      "title": "2026世界智能网联汽车大会新闻发布会在北京召开",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313225",
+      "title": "智能全地形开启新路线，神行者8核心零部件配套供应商一览",
+      "source": "第一电动",
+      "pushedAt": 1790640520572
     }
   ],
   "lastUpdated": "2026-09-29"
