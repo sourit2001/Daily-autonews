@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/310909",
-    "https://www.d1ev.com/newsflash/310907",
-    "https://www.d1ev.com/newsflash/310906",
     "https://www.d1ev.com/newsflash/310928",
     "https://www.d1ev.com/newsflash/310927",
     "https://www.d1ev.com/newsflash/310926",
@@ -1999,63 +1996,12 @@
     "https://www.d1ev.com/news/qiye/313258",
     "https://www.d1ev.com/news/shichang/313262",
     "https://www.d1ev.com/carnews/xinche/313260",
-    "https://www.d1ev.com/news/shichang/313259"
+    "https://www.d1ev.com/news/shichang/313259",
+    "https://www.d1ev.com/news/qiye/313269",
+    "https://www.d1ev.com/news/shichang/313268",
+    "https://www.d1ev.com/news/qiye/313267"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313055",
-      "title": "全系全域L3架构+华为乾崑ADS 5，岚图梦想家9全球上市41.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313054",
-      "title": "QQ3系列首款官方改装版本，奇瑞全新QQ3摩登版上市8.89万元起",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313053",
-      "title": "35.98万起，红旗G919开启预售，承军工血脉四电机豪华越野SUV重磅登场",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313052",
-      "title": "30分钟订单突破16815台，传祺越7上市，权益价16.18万元起",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313050",
-      "title": "岚图梦想家9上市 售价41.99-52.99万元",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313049",
-      "title": "2027款东风日产N7上市 售价11.99-15.69万元",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313051",
-      "title": "红旗第一款硬派越野，来了",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313048",
-      "title": "8.89万的摩登版，能给QQ3的热销再添一把火吗？",
-      "source": "第一电动",
-      "pushedAt": 1790099610449
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313057",
-      "title": "【盖世快讯】中国工信新闻：“去宁德化”论调要不得；小鹏机器人完成审厂及核心零部件定点",
-      "source": "第一电动",
-      "pushedAt": 1790121432890
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313072",
       "title": "上汽大通27款星际X上市，售价18.58万元起",
@@ -3237,7 +3183,25 @@
       "title": "广汽一汽战略协同：股权纽带下的央地车企新范式",
       "source": "第一电动",
       "pushedAt": 1790692381565
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313269",
+      "title": "豪华越野电动化！路虎揽胜运动纯电版发布：续航可达609km",
+      "source": "第一电动",
+      "pushedAt": 1790729829328
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313268",
+      "title": "Parkopedia 与 Voltality 达成合作，在东南亚提供实时充电数据，助力汽车制造商在高增长市场中获胜",
+      "source": "第一电动",
+      "pushedAt": 1790729829328
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313267",
+      "title": "中国车企开始向欧洲巨头“卖碳”了",
+      "source": "第一电动",
+      "pushedAt": 1790729829328
     }
   ],
-  "lastUpdated": "2026-09-29"
+  "lastUpdated": "2026-09-30"
 }
