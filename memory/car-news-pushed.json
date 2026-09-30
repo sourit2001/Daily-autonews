@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/310961",
-    "https://www.d1ev.com/carnews/xinche/310960",
     "https://www.d1ev.com/carnews/xinche/310959",
     "https://www.d1ev.com/newsflash/310958",
     "https://www.d1ev.com/carnews/xinche/310953",
@@ -1999,99 +1997,11 @@
     "https://www.d1ev.com/carnews/xinche/313307",
     "https://www.d1ev.com/news/shichang/313304",
     "https://www.d1ev.com/news/shichang/313295",
-    "https://www.d1ev.com/news/qiye/313288"
+    "https://www.d1ev.com/news/qiye/313288",
+    "https://www.d1ev.com/news/shichang/313310",
+    "https://www.d1ev.com/news/qiye/313311"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313109",
-      "title": "2027款吉利银河E5上市 售价10.78-14.78万元",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313108",
-      "title": "19.79万元起，全新一代智己LS6掀桌上市",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313106",
-      "title": "启境GX7正式上市，限时权益价22.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313104",
-      "title": "捷途旅行者7开启预售 预售价14.99-17.99万",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313103",
-      "title": "捷途全新旅行者7开启预售14.99万元起，旅行者系列全球累计销量突",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313099",
-      "title": "长城猛龙PLUS新车型上市 售价18.98-19.68万",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313110",
-      "title": "高端MPV的胜负手在智驾？岚图汽车邵明峰：与华为最好的合作是“和而不同”",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313100",
-      "title": "蔚来全球首座零碳离网光储换电站投运",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313097",
-      "title": "广汽集团拟在欧洲新增整车产能",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313107",
-      "title": "限时权益价22.99万元起，启境GX7的胜算与悬念",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313101",
-      "title": "东风马赫动力P2.5单电机混动样机下线",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313098",
-      "title": "博世2026上半年销售额达464亿欧元，维持全年业绩预期不变",
-      "source": "第一电动",
-      "pushedAt": 1790174195470
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313113",
-      "title": "定位于新锐科技智能SUV，天枢大满配长安启源Q06上市，限时权益价13.59万元起",
-      "source": "第一电动",
-      "pushedAt": 1790191412464
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313112",
-      "title": "腾势Z9S正式上市 售价25.58-32.58万元",
-      "source": "第一电动",
-      "pushedAt": 1790191412464
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313111",
-      "title": "启源Q06只要13万，长安的技术普惠牌打出来了",
-      "source": "第一电动",
-      "pushedAt": 1790191412464
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313127",
       "title": "从制造到智造，供应链底座的价值跃迁丨《造车2.0：软件定义汽车下的供应链革命》出版上市",
@@ -3195,7 +3105,19 @@
       "title": "上汽大众ID. ERA 8X开启预订，ID. ERA家族完成“大小双旗舰”布",
       "source": "第一电动",
       "pushedAt": 1790778755224
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313310",
+      "title": "2027款纵横G700正式上市",
+      "source": "第一电动",
+      "pushedAt": 1790800038343
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313311",
+      "title": "江淮：与华为、Stellantis有合作意向 但八字还没一撇",
+      "source": "第一电动",
+      "pushedAt": 1790800038343
     }
   ],
-  "lastUpdated": "2026-09-30"
+  "lastUpdated": "2026-10-01"
 }
