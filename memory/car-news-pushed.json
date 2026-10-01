@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310967",
-    "https://www.d1ev.com/newsflash/310956",
-    "https://www.d1ev.com/newsflash/310952",
-    "https://www.d1ev.com/newsflash/310951",
-    "https://www.d1ev.com/newsflash/310970",
-    "https://www.d1ev.com/news/shichang/310969",
-    "https://www.d1ev.com/news/shichang/310968",
-    "https://www.d1ev.com/news/shichang/310966",
-    "https://www.d1ev.com/newsflash/310963",
-    "https://www.d1ev.com/newsflash/310962",
-    "https://www.d1ev.com/newsflash/310957",
-    "https://www.d1ev.com/carnews/xinche/310955",
-    "https://www.d1ev.com/carnews/xinche/310954",
-    "https://www.d1ev.com/newsflash/310982",
     "https://www.d1ev.com/news/shichang/310979",
     "https://www.d1ev.com/newsflash/310973",
     "https://www.d1ev.com/newsflash/310981",
@@ -1999,141 +1985,23 @@
     "https://www.d1ev.com/news/qiye/313311",
     "https://www.d1ev.com/news/qiye/313315",
     "https://www.d1ev.com/news/qiye/313314",
-    "https://www.d1ev.com/news/qiye/313313"
+    "https://www.d1ev.com/news/qiye/313313",
+    "https://www.d1ev.com/news/shichang/313324",
+    "https://www.d1ev.com/news/shichang/313327",
+    "https://www.d1ev.com/news/shichang/313321",
+    "https://www.d1ev.com/news/shichang/313317",
+    "https://www.d1ev.com/news/qiye/313330",
+    "https://www.d1ev.com/news/shichang/313329",
+    "https://www.d1ev.com/news/shichang/313328",
+    "https://www.d1ev.com/news/shichang/313326",
+    "https://www.d1ev.com/news/shichang/313325",
+    "https://www.d1ev.com/news/shichang/313322",
+    "https://www.d1ev.com/news/shichang/313320",
+    "https://www.d1ev.com/news/shichang/313319",
+    "https://www.d1ev.com/news/shichang/313318",
+    "https://www.d1ev.com/news/shichang/313316"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313136",
-      "title": "比亚迪鲨鱼皮卡官图发布：预计四季度上市",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313134",
-      "title": "19.79万元起，全新一代智己LS6上市",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313129",
-      "title": "曦诺未来亮相数贸会，首次展出混驱与直驱双灵巧手产品",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313142",
-      "title": "吉利发布“吉利智充”AI补能技术，单枪峰值功率达2.2兆瓦",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313141",
-      "title": "全球AI智充SUV来了！全新吉利银河E5限时先享价9.78万元起",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313130",
-      "title": "吉利发布新一代AI智充技术",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313139",
-      "title": "深耕欧洲车载软件市场｜FPT 落地波兰研发基地，加速软件定义汽车布局",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313137",
-      "title": "曝特斯拉美国产人形机器人采购中国零部件",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313135",
-      "title": "研究机构：中国汽车若进入美国，或占据逾10%份额",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313132",
-      "title": "担忧中国车企在美建厂，美国汽车业如临大敌",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313128",
-      "title": "美国参议员推动永久禁售中国汽车法案，寻求本周内一致通过",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313138",
-      "title": "启幕在即丨盖世汽车动力&底盘专场采配会10月13日举办",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313131",
-      "title": "中国车企在东南亚，开始为卖得太好“买单”",
-      "source": "第一电动",
-      "pushedAt": 1790240191534
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313149",
-      "title": "奕境X9正式上市 售价28.98-36.98万元",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313151",
-      "title": "谁摸到了电池安全的天花板？",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313150",
-      "title": "“速成车”背后：AI的能与不能",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313148",
-      "title": "DGIST开发新算法 使自主机器人避免88%的不必要计算",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313145",
-      "title": "Flytrex推出屋顶停靠站与AI车队定位技术 配送成本降低60%",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313144",
-      "title": "通过分析来自现实世界电动汽车的数据 研究人员揭示电芯老化不均匀影响电池寿命的秘密",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313143",
-      "title": "视比特发布PaintPro漆面缺陷检测系统V3.0，新增飞拍模式",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313147",
-      "title": "创吉尼斯纪录！奥迪A6 Sportback e-tron一下跑了1338公里",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313146",
-      "title": "Fraunhofer IWU开辟换热器板经济高效的大规模生产新途径",
-      "source": "第一电动",
-      "pushedAt": 1790260664800
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313152",
       "title": "19.99万元起，大众安徽首款纯电轿跑与众09开启预售",
@@ -3051,7 +2919,91 @@
       "title": "蔚来公司前三季度交付300,301台，同比增长49.2%，创历史新高",
       "source": "第一电动",
       "pushedAt": 1790842128637
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313324",
+      "title": "领克9月销量达18,493台，新能源占比创新高",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313327",
+      "title": "比亚迪2026年9月销量达46.3万辆，海外市场同比大增153.9%",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313321",
+      "title": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313317",
+      "title": "零跑汽车9月销量再超10万台，全球交付105,656台",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313330",
+      "title": "车主等3小时掐点下高速省257元：足够覆盖电费外加两杯咖啡",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313329",
+      "title": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313328",
+      "title": "阿维塔9月交付量达8,183辆",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313326",
+      "title": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313325",
+      "title": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313322",
+      "title": "华为和赛力斯的合作，又有新进展？",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313320",
+      "title": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313319",
+      "title": "小米汽车9月交付超4万台",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313318",
+      "title": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313316",
+      "title": "鸿蒙智行9月交付37490台，累计交付破156万台",
+      "source": "第一电动",
+      "pushedAt": 1790873536984
     }
   ],
-  "lastUpdated": "2026-10-01"
+  "lastUpdated": "2026-10-02"
 }
