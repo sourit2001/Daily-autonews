@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/310959",
-    "https://www.d1ev.com/newsflash/310958",
-    "https://www.d1ev.com/carnews/xinche/310953",
     "https://www.d1ev.com/newsflash/310967",
     "https://www.d1ev.com/newsflash/310956",
     "https://www.d1ev.com/newsflash/310952",
@@ -1999,93 +1996,12 @@
     "https://www.d1ev.com/news/shichang/313295",
     "https://www.d1ev.com/news/qiye/313288",
     "https://www.d1ev.com/news/shichang/313310",
-    "https://www.d1ev.com/news/qiye/313311"
+    "https://www.d1ev.com/news/qiye/313311",
+    "https://www.d1ev.com/news/qiye/313315",
+    "https://www.d1ev.com/news/qiye/313314",
+    "https://www.d1ev.com/news/qiye/313313"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313127",
-      "title": "从制造到智造，供应链底座的价值跃迁丨《造车2.0：软件定义汽车下的供应链革命》出版上市",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313124",
-      "title": "新款别克至境E7上市 售价15.99-19.99万元",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313123",
-      "title": "启境GX7正式上市 售价23.99-30.19万元",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313122",
-      "title": "新款标致5008上市 售价16.97-17.97万元",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313121",
-      "title": "2027款天逸 C5 AIRCROSS上市 售13.97万元起",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313118",
-      "title": "比亚迪第二代海鸥官宣亮相：尺寸大增",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313125",
-      "title": "新石器与iMile达成战略合作 推动无人配送海外落地",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313115",
-      "title": "中国汽车创新，凭什么被全球“需要”？",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313114",
-      "title": "首传微在欧洲Tier 1启动OpenGMSL方案定点测试",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313126",
-      "title": "普华基础软件与FPT签署战略合作备忘录 共建AUTOSAR生态",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313120",
-      "title": "余承东分享新款智界R7内饰实拍 见光不见灯",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313119",
-      "title": "尚界下一款新品瞄准中大型家用SUV市场",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313117",
-      "title": "车企的供应链制衡术：一边签“宁王”，一边养“备胎”",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313116",
-      "title": "【盖世快讯】东风汽车与华为高层会谈；奇瑞调整高管职务；蔚来ES9交付破3万台",
-      "source": "第一电动",
-      "pushedAt": 1790217740143
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313136",
       "title": "比亚迪鲨鱼皮卡官图发布：预计四季度上市",
@@ -3117,6 +3033,24 @@
       "title": "江淮：与华为、Stellantis有合作意向 但八字还没一撇",
       "source": "第一电动",
       "pushedAt": 1790800038343
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313315",
+      "title": "昔日明星电动车彻底卖不动了！通用雪佛兰Bolt确认明年停产",
+      "source": "第一电动",
+      "pushedAt": 1790842128637
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313314",
+      "title": "特斯拉Model 3更新：升级16英寸高清触摸屏 新增交流外供电功能",
+      "source": "第一电动",
+      "pushedAt": 1790842128637
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313313",
+      "title": "蔚来公司前三季度交付300,301台，同比增长49.2%，创历史新高",
+      "source": "第一电动",
+      "pushedAt": 1790842128637
     }
   ],
   "lastUpdated": "2026-10-01"
