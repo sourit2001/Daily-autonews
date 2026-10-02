@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310979",
     "https://www.d1ev.com/newsflash/310973",
     "https://www.d1ev.com/newsflash/310981",
     "https://www.d1ev.com/newsflash/310977",
@@ -1999,27 +1998,10 @@
     "https://www.d1ev.com/news/shichang/313320",
     "https://www.d1ev.com/news/shichang/313319",
     "https://www.d1ev.com/news/shichang/313318",
-    "https://www.d1ev.com/news/shichang/313316"
+    "https://www.d1ev.com/news/shichang/313316",
+    "https://www.d1ev.com/news/qiye/313331"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313152",
-      "title": "19.99万元起，大众安徽首款纯电轿跑与众09开启预售",
-      "source": "第一电动",
-      "pushedAt": 1790278985236
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313154",
-      "title": "超5米长的纯电轿跑 大众安徽与众09预售",
-      "source": "第一电动",
-      "pushedAt": 1790305114081
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313153",
-      "title": "比亚迪二代海鸥内饰设计图：取消仪表盘",
-      "source": "第一电动",
-      "pushedAt": 1790305114081
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313155",
       "title": "韩路评200多万的宾利电动车后排：放国产20万都要被骂退网",
@@ -3003,6 +2985,12 @@
       "title": "鸿蒙智行9月交付37490台，累计交付破156万台",
       "source": "第一电动",
       "pushedAt": 1790873536984
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313331",
+      "title": "9月交付超14000台 小鹏大爆款车型Mona L03终于上量了",
+      "source": "第一电动",
+      "pushedAt": 1790936085928
     }
   ],
   "lastUpdated": "2026-10-02"
