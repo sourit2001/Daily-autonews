@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310973",
-    "https://www.d1ev.com/newsflash/310981",
     "https://www.d1ev.com/newsflash/310977",
     "https://www.d1ev.com/newsflash/310976",
     "https://www.d1ev.com/news/shichang/310975",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/shichang/313319",
     "https://www.d1ev.com/news/shichang/313318",
     "https://www.d1ev.com/news/shichang/313316",
-    "https://www.d1ev.com/news/qiye/313331"
+    "https://www.d1ev.com/news/qiye/313331",
+    "https://www.d1ev.com/news/qiye/313333",
+    "https://www.d1ev.com/news/qiye/313332"
   ],
   "newsHistory": [
     {
@@ -2991,7 +2991,19 @@
       "title": "9月交付超14000台 小鹏大爆款车型Mona L03终于上量了",
       "source": "第一电动",
       "pushedAt": 1790936085928
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313333",
+      "title": "一辆特斯拉Model S Plaid时速286km发生车祸：车内人员幸存",
+      "source": "第一电动",
+      "pushedAt": 1790961304943
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313332",
+      "title": "蔚来10月1日换电183469次 创历史新高",
+      "source": "第一电动",
+      "pushedAt": 1790961304943
     }
   ],
-  "lastUpdated": "2026-10-02"
+  "lastUpdated": "2026-10-03"
 }
