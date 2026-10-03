@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310977",
     "https://www.d1ev.com/newsflash/310976",
     "https://www.d1ev.com/news/shichang/310975",
     "https://www.d1ev.com/newsflash/310972",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/news/shichang/313316",
     "https://www.d1ev.com/news/qiye/313331",
     "https://www.d1ev.com/news/qiye/313333",
-    "https://www.d1ev.com/news/qiye/313332"
+    "https://www.d1ev.com/news/qiye/313332",
+    "https://www.d1ev.com/news/qiye/313334"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313155",
-      "title": "韩路评200多万的宾利电动车后排：放国产20万都要被骂退网",
-      "source": "第一电动",
-      "pushedAt": 1790365519347
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313160",
       "title": "赛力斯全面主导 新款问界M8官图发布",
@@ -3003,6 +2997,12 @@
       "title": "蔚来10月1日换电183469次 创历史新高",
       "source": "第一电动",
       "pushedAt": 1790961304943
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313334",
+      "title": "同比下降2%！特斯拉2026年第三季度交付超48.6万辆",
+      "source": "第一电动",
+      "pushedAt": 1790988745173
     }
   ],
   "lastUpdated": "2026-10-03"
