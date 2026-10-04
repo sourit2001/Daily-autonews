@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/310978",
     "https://www.d1ev.com/news/qiye/310974",
     "https://www.d1ev.com/newsflash/311004",
     "https://www.d1ev.com/newsflash/310999",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/news/shichang/313337",
     "https://www.d1ev.com/news/qiye/313340",
     "https://www.d1ev.com/carnews/xinche/313339",
-    "https://www.d1ev.com/carnews/xinche/313338"
+    "https://www.d1ev.com/carnews/xinche/313338",
+    "https://www.d1ev.com/carnews/xinche/313341"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313165",
-      "title": "E周看点 | 大运汽车重整获批；沙特CEER首秀EXOBOT轿车和SUV",
-      "source": "第一电动",
-      "pushedAt": 1790515703247
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313166",
       "title": "特斯拉Model Y优惠缩水！从1万元降至7000元：政策条件也变",
@@ -2985,6 +2979,12 @@
       "title": "英国最畅销车 奇瑞Jaecoo7时隔半年重回宝座",
       "source": "第一电动",
       "pushedAt": 1791099611752
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313341",
+      "title": "别等“金九银十”买车了！国庆北京车市实探：专属优惠少见，首销权益更香",
+      "source": "第一电动",
+      "pushedAt": 1791121010859
     }
   ],
   "lastUpdated": "2026-10-04"
