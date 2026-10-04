@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310972",
     "https://www.d1ev.com/newsflash/310971",
     "https://www.d1ev.com/news/shichang/310983",
     "https://www.d1ev.com/newsflash/310980",
@@ -1999,33 +1998,10 @@
     "https://www.d1ev.com/news/qiye/313332",
     "https://www.d1ev.com/news/qiye/313334",
     "https://www.d1ev.com/news/qiye/313335",
-    "https://www.d1ev.com/news/qiye/313336"
+    "https://www.d1ev.com/news/qiye/313336",
+    "https://www.d1ev.com/news/shichang/313337"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313161",
-      "title": "BJ40增程黑曜版上市，官方指导价18.48万元",
-      "source": "第一电动",
-      "pushedAt": 1790413143938
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313163",
-      "title": "2027款长安马自达EZ60上市 售价11.99万元起",
-      "source": "第一电动",
-      "pushedAt": 1790431198505
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313162",
-      "title": "直击世赛 | 第48届世界技能大赛精彩呈现",
-      "source": "第一电动",
-      "pushedAt": 1790431198505
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313164",
-      "title": "盖世周报 | 广汽拟在欧洲新增产能；武汉奥托立夫技术中心开业",
-      "source": "第一电动",
-      "pushedAt": 1790467572101
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313165",
       "title": "E周看点 | 大运汽车重整获批；沙特CEER首秀EXOBOT轿车和SUV",
@@ -2985,7 +2961,13 @@
       "title": "超预期！特斯拉三季度交付超48.6万辆",
       "source": "第一电动",
       "pushedAt": 1791012405609
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313337",
+      "title": "盖世周报 | 吉利入股蔚来能源；华为与赛力斯敲定新五年合作",
+      "source": "第一电动",
+      "pushedAt": 1791073099614
     }
   ],
-  "lastUpdated": "2026-10-03"
+  "lastUpdated": "2026-10-04"
 }
