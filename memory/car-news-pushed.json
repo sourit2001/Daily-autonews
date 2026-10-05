@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310999",
     "https://www.d1ev.com/carnews/xinche/310998",
     "https://www.d1ev.com/carnews/xinche/310996",
     "https://www.d1ev.com/carnews/xinche/310994",
@@ -1999,141 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/313338",
     "https://www.d1ev.com/carnews/xinche/313341",
     "https://www.d1ev.com/carnews/xinche/313343",
-    "https://www.d1ev.com/carnews/xinche/313342"
+    "https://www.d1ev.com/carnews/xinche/313342",
+    "https://www.d1ev.com/news/shichang/313344"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313204",
-      "title": "智界RX正式上市 售价25.98-38.98万元",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313188",
-      "title": "特朗普拟放宽美国新车燃油经济性标准",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313187",
-      "title": "把城市NOA带入10万内，捷达M6开启预售8.08万元起",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313185",
-      "title": "新一代梅赛德斯-迈巴赫S级轿车上市 搭载MB.OS架构与高阶智驾",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313203",
-      "title": "七部门印发“十五五”新型电池产业发展规划，2030年实现全固态电池初步规模化应用",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313201",
-      "title": "余承东：冗余是L3入场券 也是自动驾驶的双重保险",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313196",
-      "title": "中国智驾，客场赢了关键局！小鹏NGP vs 特斯拉FSD，阿姆斯特丹同路实测",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313206",
-      "title": "西井科技20台无人IGV投运南沙二期，2027年将扩至60台",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313205",
-      "title": "持续加码中国，奥托立夫底气何在？",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313202",
-      "title": "超越小米YU7 智界RX成中国品牌量产最速SUV：一镜到底发布",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313200",
-      "title": "宝马沈阳工厂启动能量智控系统试生产",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313199",
-      "title": "保隆科技第二代11V ADAS视觉感知方案规模化量产",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313198",
-      "title": "2026款理想i6体验视频抢跑！博主：这条视频价值几百万吧",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313197",
-      "title": "蔚来李斌：蔚来与吉利充换电合作水到渠成 合作共赢大家才能赚到钱",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313194",
-      "title": "吉利入股蔚来能源，蔚来胜算又增加了",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313193",
-      "title": "蔚来秦力洪：换电让网约车收入提升15%-20%",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313192",
-      "title": "佳迈股份华中区域总部落户武汉经开区",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313191",
-      "title": "北汽集团原党委书记、董事长徐和谊受贿洗钱案一审宣判：判处死刑，缓期二年执行",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313190",
-      "title": "深蓝汽车第100万辆整车正式量产下线",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313189",
-      "title": "速腾聚创E2、EM4正式接入英伟达HSB",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313186",
-      "title": "上汽大众ID. ERA 5S超六成用户选11.99万元顶配版",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313184",
-      "title": "比亚迪第2000座闪充高速站落成，年度目标提前完成",
-      "source": "第一电动",
-      "pushedAt": 1790591043652
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313224",
       "title": "长城大狗HEV混动版上市 售11.99-13.79万元",
@@ -2889,7 +2757,13 @@
       "title": "科技味更浓了 2027款雷克萨斯RX官图发布",
       "source": "第一电动",
       "pushedAt": 1791187570458
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313344",
+      "title": "上汽集团1-9月累计销售314.7万辆，上汽乘用车同比增长45.6%",
+      "source": "第一电动",
+      "pushedAt": 1791226828302
     }
   ],
-  "lastUpdated": "2026-10-05"
+  "lastUpdated": "2026-10-06"
 }
