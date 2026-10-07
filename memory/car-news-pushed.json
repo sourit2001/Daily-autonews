@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311000",
     "https://www.d1ev.com/newsflash/310997",
     "https://www.d1ev.com/newsflash/310993",
     "https://www.d1ev.com/newsflash/310991",
@@ -1999,99 +1998,10 @@
     "https://www.d1ev.com/news/qiye/313346",
     "https://www.d1ev.com/carnews/xinche/313350",
     "https://www.d1ev.com/carnews/xinche/313349",
-    "https://www.d1ev.com/news/qiye/313348"
+    "https://www.d1ev.com/news/qiye/313348",
+    "https://www.d1ev.com/news/qiye/313351"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313275",
-      "title": "外观战斗手挡加持 斯巴鲁WRX GD25官图发布",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313273",
-      "title": "猛士X700开启预售，预售价24.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313272",
-      "title": "首搭宁德时代万次循环电池 五菱扬光L上市",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313271",
-      "title": "NAVECO领胜V100将于10月12日正式上市",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313270",
-      "title": "广汽丰田铂智3X星云限量版上市 售13.28万元",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313286",
-      "title": "统一智能体：汽车AI下一站",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313282",
-      "title": "AI裁不掉的人，长什么样？",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313277",
-      "title": "小鹏集团与斑马智能联合打造车规级AI座舱端侧大模型方案",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313274",
-      "title": "Physical AI ，正在改写芯片产业分工",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313285",
-      "title": "又一半导体项目在广州黄埔动工",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313283",
-      "title": "圣戈班汽车玻璃芜湖服务中心投产，未来将建百万片级制造基地",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313280",
-      "title": "中创新航与汉高联合创新中心在常州开幕",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313279",
-      "title": "“会飞的特斯拉”又鸽了：SpaceX推进器演示受制于天气，Roadster发布会二度改期",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313278",
-      "title": "蔚来NIO Power单日上线28座站点，全国累计充换电站达9492座",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313276",
-      "title": "福田汽车发布“十五五”战略，锚定2030年百万辆销量目标",
-      "source": "第一电动",
-      "pushedAt": 1790754603396
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313309",
       "title": "全领域豪华越野SUV 2027款纵横G700全球上市",
@@ -2433,6 +2343,12 @@
       "title": "特斯拉印度一周年交卷：14亿人的市场 13个月只卖了993辆",
       "source": "第一电动",
       "pushedAt": 1791344839057
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313351",
+      "title": "电池用比亚迪 智驾用地平线！铃木新车核心部件换成中国货",
+      "source": "第一电动",
+      "pushedAt": 1791369991487
     }
   ],
   "lastUpdated": "2026-10-07"
