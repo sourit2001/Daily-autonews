@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310986",
-    "https://www.d1ev.com/newsflash/310984",
-    "https://www.d1ev.com/newsflash/311003",
     "https://www.d1ev.com/newsflash/311000",
     "https://www.d1ev.com/newsflash/310997",
     "https://www.d1ev.com/newsflash/310993",
@@ -1999,27 +1996,12 @@
     "https://www.d1ev.com/news/shichang/313344",
     "https://www.d1ev.com/news/qiye/313345",
     "https://www.d1ev.com/news/qiye/313347",
-    "https://www.d1ev.com/news/qiye/313346"
+    "https://www.d1ev.com/news/qiye/313346",
+    "https://www.d1ev.com/carnews/xinche/313350",
+    "https://www.d1ev.com/carnews/xinche/313349",
+    "https://www.d1ev.com/news/qiye/313348"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313269",
-      "title": "豪华越野电动化！路虎揽胜运动纯电版发布：续航可达609km",
-      "source": "第一电动",
-      "pushedAt": 1790729829328
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313268",
-      "title": "Parkopedia 与 Voltality 达成合作，在东南亚提供实时充电数据，助力汽车制造商在高增长市场中获胜",
-      "source": "第一电动",
-      "pushedAt": 1790729829328
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313267",
-      "title": "中国车企开始向欧洲巨头“卖碳”了",
-      "source": "第一电动",
-      "pushedAt": 1790729829328
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313275",
       "title": "外观战斗手挡加持 斯巴鲁WRX GD25官图发布",
@@ -2433,6 +2415,24 @@
       "title": "豪华电车巨头艰难自救！大刀阔斧减产裁员",
       "source": "第一电动",
       "pushedAt": 1791303986619
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313350",
+      "title": "首款纯电M3原型车曝光 操控才是灵魂",
+      "source": "第一电动",
+      "pushedAt": 1791344839057
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313349",
+      "title": "铃木e-Sky 下月上市 电池用的还是比亚迪",
+      "source": "第一电动",
+      "pushedAt": 1791344839057
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313348",
+      "title": "特斯拉印度一周年交卷：14亿人的市场 13个月只卖了993辆",
+      "source": "第一电动",
+      "pushedAt": 1791344839057
     }
   ],
   "lastUpdated": "2026-10-07"
