@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310997",
-    "https://www.d1ev.com/newsflash/310993",
     "https://www.d1ev.com/newsflash/310991",
     "https://www.d1ev.com/newsflash/310990",
     "https://www.d1ev.com/newsflash/310985",
@@ -1999,117 +1997,11 @@
     "https://www.d1ev.com/carnews/xinche/313350",
     "https://www.d1ev.com/carnews/xinche/313349",
     "https://www.d1ev.com/news/qiye/313348",
-    "https://www.d1ev.com/news/qiye/313351"
+    "https://www.d1ev.com/news/qiye/313351",
+    "https://www.d1ev.com/news/shichang/313353",
+    "https://www.d1ev.com/news/shichang/313352"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313309",
-      "title": "全领域豪华越野SUV 2027款纵横G700全球上市",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313290",
-      "title": "入门纯电卷配置!比亚迪第二代海鸥内饰曝光:按摩座椅塞主驾",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313289",
-      "title": "纵横品牌之夜点亮北京首钢园，2027款纵横G700上市30.49万元起",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313287",
-      "title": "全系升级800V+后轮转向，问界新M8开启预售38.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313306",
-      "title": "KAIST受捕蝇草启发开发出“机器手”材料 能在光照下感知并抓取物体",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313305",
-      "title": "埃因霍温理工大学学生团队研发电动汽车 能在行驶过程中捕获颗粒物",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313303",
-      "title": "国庆充电排队预警：10月1日充电7省创纪录 这三条高速最挤",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313302",
-      "title": "纯电动汽车与混动车型拉动泰国8月汽车销量回暖",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313298",
-      "title": "电池供应受限，Stellantis将暂停法国工厂部分生产",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313301",
-      "title": "欧美市场需求走弱加剧经营压力，沃尔沃在全球暂停白领招聘",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313300",
-      "title": "美国敲定新燃油经济性标准，2031年车队平均油耗标准降至34.9英里/加仑",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313299",
-      "title": "日产拟到2030年将美国本土生产比例提升至80%",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313297",
-      "title": "福特CEO：美国需警惕中国车企进入美国市场",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313294",
-      "title": "8月欧洲车市：电气化份额首过半，中国品牌份额升至11.7%",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313307",
-      "title": "起底中巅汽车“0公里二手车”骗局：短视频引流，招募背债人套贷，全款购车人拿不到“绿本”",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313304",
-      "title": "40万线控技术下探到20万车型中，智己如何做到的？",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313295",
-      "title": "“金九”失约，63.2%库存预警指数折射车市走向",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313288",
-      "title": "上汽大众ID. ERA 8X开启预订，ID. ERA家族完成“大小双旗舰”布",
-      "source": "第一电动",
-      "pushedAt": 1790778755224
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313310",
       "title": "2027款纵横G700正式上市",
@@ -2349,7 +2241,19 @@
       "title": "电池用比亚迪 智驾用地平线！铃木新车核心部件换成中国货",
       "source": "第一电动",
       "pushedAt": 1791369991487
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313353",
+      "title": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
+      "source": "第一电动",
+      "pushedAt": 1791397000305
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313352",
+      "title": "奇瑞全球化3.0战略再落子：主品牌纳入全球体系，捷途品牌加速高端化",
+      "source": "第一电动",
+      "pushedAt": 1791397000305
     }
   ],
-  "lastUpdated": "2026-10-07"
+  "lastUpdated": "2026-10-08"
 }
