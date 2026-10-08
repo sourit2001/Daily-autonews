@@ -1,28 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/311002",
-    "https://www.d1ev.com/news/shichang/310992",
-    "https://www.d1ev.com/news/shichang/311001",
-    "https://www.d1ev.com/news/shichang/310995",
-    "https://www.d1ev.com/news/shichang/310988",
-    "https://www.d1ev.com/news/shichang/310987",
-    "https://www.d1ev.com/newsflash/311031",
-    "https://www.d1ev.com/news/shichang/311027",
-    "https://www.d1ev.com/news/shichang/311025",
-    "https://www.d1ev.com/newsflash/311019",
-    "https://www.d1ev.com/newsflash/311018",
-    "https://www.d1ev.com/newsflash/311010",
-    "https://www.d1ev.com/news/shichang/311008",
-    "https://www.d1ev.com/news/qiye/311007",
-    "https://www.d1ev.com/news/shichang/311033",
-    "https://www.d1ev.com/newsflash/311030",
-    "https://www.d1ev.com/news/shichang/311026",
-    "https://www.d1ev.com/newsflash/311021",
-    "https://www.d1ev.com/newsflash/311016",
-    "https://www.d1ev.com/newsflash/311015",
-    "https://www.d1ev.com/newsflash/311005",
-    "https://www.d1ev.com/news/shichang/311012",
-    "https://www.d1ev.com/news/shichang/311032",
     "https://www.d1ev.com/newsflash/311029",
     "https://www.d1ev.com/newsflash/311028",
     "https://www.d1ev.com/newsflash/311024",
@@ -1999,7 +1976,30 @@
     "https://www.d1ev.com/news/shichang/313352",
     "https://www.d1ev.com/news/shichang/313356",
     "https://www.d1ev.com/news/shichang/313354",
-    "https://www.d1ev.com/news/shichang/313355"
+    "https://www.d1ev.com/news/shichang/313355",
+    "https://www.d1ev.com/news/shichang/313373",
+    "https://www.d1ev.com/carnews/xinche/313372",
+    "https://www.d1ev.com/carnews/xinche/313370",
+    "https://www.d1ev.com/carnews/xinche/313368",
+    "https://www.d1ev.com/carnews/xinche/313367",
+    "https://www.d1ev.com/news/shichang/313361",
+    "https://www.d1ev.com/news/qiye/313378",
+    "https://www.d1ev.com/carnews/xinche/313371",
+    "https://www.d1ev.com/news/qiye/313362",
+    "https://www.d1ev.com/news/shichang/313380",
+    "https://www.d1ev.com/news/shichang/313379",
+    "https://www.d1ev.com/news/shichang/313377",
+    "https://www.d1ev.com/news/qiye/313376",
+    "https://www.d1ev.com/news/shichang/313375",
+    "https://www.d1ev.com/news/shichang/313374",
+    "https://www.d1ev.com/news/shichang/313369",
+    "https://www.d1ev.com/carnews/xinche/313366",
+    "https://www.d1ev.com/news/shichang/313365",
+    "https://www.d1ev.com/news/shichang/313364",
+    "https://www.d1ev.com/news/qiye/313363",
+    "https://www.d1ev.com/news/shichang/313360",
+    "https://www.d1ev.com/news/shichang/313359",
+    "https://www.d1ev.com/news/shichang/313358"
   ],
   "newsHistory": [
     {
@@ -2259,6 +2259,144 @@
       "title": "10月1日乐道单日换电33341单，创历史新高",
       "source": "第一电动",
       "pushedAt": 1791417895274
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313373",
+      "title": "小鹏G9L欧洲首次试生产 将亮相巴黎车展",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313372",
+      "title": "三电机纯电驱动 捷豹Type 01更多官图发布",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313370",
+      "title": "阿斯顿·马丁首款纯电动车上市延后至2033年",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313368",
+      "title": "新款特斯拉Model 3上市 售价23.55万元起",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313367",
+      "title": "赛豆科技首车AIVA ME7测试车正式曝光",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313361",
+      "title": "东风汽车发布“天净零碳”计划并在汉诺威首发三款氢能整车",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313378",
+      "title": "宝马将借助AI裁减20%最高层级管理人员",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313371",
+      "title": "宝马iX4正式发布 续航里程可达828km",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313362",
+      "title": "中国汽车今年拿下20%欧洲市场？",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313380",
+      "title": "保时捷发布2035战略：顶级跑车均价将升至33万欧元，瘦身提效冲击15%回报率",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313379",
+      "title": "欧盟拟对中国混动汽车设置进口上限，以保护本土产业",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313377",
+      "title": "小鹏Robotaxi正式定名“小鹏悠游”，目前仅限广州邀请码体验",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313376",
+      "title": "里程碑时刻 乐道汽车两年完成20万台交付",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313375",
+      "title": "Seeds | 白犀牛完成1亿美元C轮融资",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313374",
+      "title": "2027款深蓝L06官宣，买车送“龙虾”",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313369",
+      "title": "红旗品牌印尼首家展厅开业，登陆当地市场已获88台订单",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313366",
+      "title": "2027款深蓝L06官宣：配两只“龙虾”",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313365",
+      "title": "动易科技发布四层具身智能技术栈，任务执行效率提升超百倍",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313364",
+      "title": "晓莺说 | 中国汽车产业迎来“慢整合，深重组”时代",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313363",
+      "title": "巴黎车展变成中国车展：问界全系登台，吉利占5个馆",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313360",
+      "title": "彼欧签署最终协议，拟6000亿韩元全资收购现代摩比斯照明业务",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313359",
+      "title": "亚普股份巴西阿梅里肯纳工厂投产，南美双基地格局成型",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313358",
+      "title": "迅铂科技两大CDC电磁阀项目在常州量产，配套国内头部车企",
+      "source": "第一电动",
+      "pushedAt": 1791435656728
     }
   ],
   "lastUpdated": "2026-10-08"
