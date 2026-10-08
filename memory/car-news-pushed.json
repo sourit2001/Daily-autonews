@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/310991",
-    "https://www.d1ev.com/newsflash/310990",
-    "https://www.d1ev.com/newsflash/310985",
     "https://www.d1ev.com/news/shichang/311002",
     "https://www.d1ev.com/news/shichang/310992",
     "https://www.d1ev.com/news/shichang/311001",
@@ -1999,21 +1996,12 @@
     "https://www.d1ev.com/news/qiye/313348",
     "https://www.d1ev.com/news/qiye/313351",
     "https://www.d1ev.com/news/shichang/313353",
-    "https://www.d1ev.com/news/shichang/313352"
+    "https://www.d1ev.com/news/shichang/313352",
+    "https://www.d1ev.com/news/shichang/313356",
+    "https://www.d1ev.com/news/shichang/313354",
+    "https://www.d1ev.com/news/shichang/313355"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313310",
-      "title": "2027款纵横G700正式上市",
-      "source": "第一电动",
-      "pushedAt": 1790800038343
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313311",
-      "title": "江淮：与华为、Stellantis有合作意向 但八字还没一撇",
-      "source": "第一电动",
-      "pushedAt": 1790800038343
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313315",
       "title": "昔日明星电动车彻底卖不动了！通用雪佛兰Bolt确认明年停产",
@@ -2253,6 +2241,24 @@
       "title": "奇瑞全球化3.0战略再落子：主品牌纳入全球体系，捷途品牌加速高端化",
       "source": "第一电动",
       "pushedAt": 1791397000305
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313356",
+      "title": "FFAI与FFR 9月机器人销量265台创新高，累计出货817台",
+      "source": "第一电动",
+      "pushedAt": 1791417895274
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313354",
+      "title": "奇瑞集团前三季度销量超221万辆，出口超去年全年",
+      "source": "第一电动",
+      "pushedAt": 1791417895274
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313355",
+      "title": "10月1日乐道单日换电33341单，创历史新高",
+      "source": "第一电动",
+      "pushedAt": 1791417895274
     }
   ],
   "lastUpdated": "2026-10-08"
