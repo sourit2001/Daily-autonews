@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311039",
-    "https://www.d1ev.com/newsflash/311035",
     "https://www.d1ev.com/newsflash/311034",
     "https://www.d1ev.com/newsflash/311048",
     "https://www.d1ev.com/newsflash/311046",
@@ -1999,93 +1997,11 @@
     "https://www.d1ev.com/news/qiye/313392",
     "https://www.d1ev.com/carnews/xinche/313391",
     "https://www.d1ev.com/news/shichang/313390",
-    "https://www.d1ev.com/news/shichang/313388"
+    "https://www.d1ev.com/news/shichang/313388",
+    "https://www.d1ev.com/carnews/xinche/313397",
+    "https://www.d1ev.com/news/shichang/313396"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313324",
-      "title": "领克9月销量达18,493台，新能源占比创新高",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313327",
-      "title": "比亚迪2026年9月销量达46.3万辆，海外市场同比大增153.9%",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313321",
-      "title": "小鹏9月交付41,256台 全球化、智能化进程持续提速",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313317",
-      "title": "零跑汽车9月销量再超10万台，全球交付105,656台",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313330",
-      "title": "车主等3小时掐点下高速省257元：足够覆盖电费外加两杯咖啡",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313329",
-      "title": "深蓝汽车9月销量超3万辆，前三季度累计同比增长8.59%",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313328",
-      "title": "阿维塔9月交付量达8,183辆",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313326",
-      "title": "理想汽车9月交付31,817辆 历史累计交付达1,833,651辆",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313325",
-      "title": "极氪9月交付数据出炉：单月交付37,216辆，同比增长103.85%",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313322",
-      "title": "华为和赛力斯的合作，又有新进展？",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313320",
-      "title": "极狐汽车9月销量达21,518台，前三季度累计交付超13.5万台",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313319",
-      "title": "小米汽车9月交付超4万台",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313318",
-      "title": "蔚来汽车9月交付3.74万台，前三季度累计交付超30万台",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313316",
-      "title": "鸿蒙智行9月交付37490台，累计交付破156万台",
-      "source": "第一电动",
-      "pushedAt": 1790873536984
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313331",
       "title": "9月交付超14000台 小鹏大爆款车型Mona L03终于上量了",
@@ -2463,7 +2379,19 @@
       "title": "雷诺集团任命新CFO",
       "source": "第一电动",
       "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313397",
+      "title": "国标无量化门槛、团标比行标更严苛!尊界刹车踏板支架断裂风波，揭开高端新能源汽车安全冗余乱象",
+      "source": "第一电动",
+      "pushedAt": 1791488229096
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313396",
+      "title": "尊界回应制动踏板支架问题：实际使用未现断裂，将提供免费升级",
+      "source": "第一电动",
+      "pushedAt": 1791488229096
     }
   ],
-  "lastUpdated": "2026-10-08"
+  "lastUpdated": "2026-10-09"
 }
