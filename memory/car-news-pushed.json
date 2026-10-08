@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311029",
-    "https://www.d1ev.com/newsflash/311028",
-    "https://www.d1ev.com/newsflash/311024",
-    "https://www.d1ev.com/newsflash/311023",
-    "https://www.d1ev.com/newsflash/311022",
-    "https://www.d1ev.com/newsflash/311020",
-    "https://www.d1ev.com/newsflash/311017",
-    "https://www.d1ev.com/news/shichang/311014",
-    "https://www.d1ev.com/news/qiye/311013",
-    "https://www.d1ev.com/carnews/xinche/311009",
-    "https://www.d1ev.com/news/qiye/311006",
-    "https://www.d1ev.com/newsflash/311042",
-    "https://www.d1ev.com/newsflash/311041",
-    "https://www.d1ev.com/news/qiye/311040",
     "https://www.d1ev.com/newsflash/311039",
     "https://www.d1ev.com/newsflash/311035",
     "https://www.d1ev.com/newsflash/311034",
@@ -1999,27 +1985,23 @@
     "https://www.d1ev.com/news/qiye/313363",
     "https://www.d1ev.com/news/shichang/313360",
     "https://www.d1ev.com/news/shichang/313359",
-    "https://www.d1ev.com/news/shichang/313358"
+    "https://www.d1ev.com/news/shichang/313358",
+    "https://www.d1ev.com/news/shichang/313384",
+    "https://www.d1ev.com/news/shichang/313389",
+    "https://www.d1ev.com/news/shichang/313386",
+    "https://www.d1ev.com/news/shichang/313385",
+    "https://www.d1ev.com/news/qiye/313383",
+    "https://www.d1ev.com/news/shichang/313381",
+    "https://www.d1ev.com/news/qiye/313387",
+    "https://www.d1ev.com/news/qiye/313382",
+    "https://www.d1ev.com/news/shichang/313394",
+    "https://www.d1ev.com/news/shichang/313393",
+    "https://www.d1ev.com/news/qiye/313392",
+    "https://www.d1ev.com/carnews/xinche/313391",
+    "https://www.d1ev.com/news/shichang/313390",
+    "https://www.d1ev.com/news/shichang/313388"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313315",
-      "title": "昔日明星电动车彻底卖不动了！通用雪佛兰Bolt确认明年停产",
-      "source": "第一电动",
-      "pushedAt": 1790842128637
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313314",
-      "title": "特斯拉Model 3更新：升级16英寸高清触摸屏 新增交流外供电功能",
-      "source": "第一电动",
-      "pushedAt": 1790842128637
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313313",
-      "title": "蔚来公司前三季度交付300,301台，同比增长49.2%，创历史新高",
-      "source": "第一电动",
-      "pushedAt": 1790842128637
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313324",
       "title": "领克9月销量达18,493台，新能源占比创新高",
@@ -2397,6 +2379,90 @@
       "title": "迅铂科技两大CDC电磁阀项目在常州量产，配套国内头部车企",
       "source": "第一电动",
       "pushedAt": 1791435656728
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313384",
+      "title": "全球新车销售中汽油车占比首次跌破50%",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313389",
+      "title": "本田、日产分别与美国AI初创企业合作 以开发下一代整车软件",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313386",
+      "title": "紫荆半导体车规芯片出货破千万，RISC-V又过一关",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313385",
+      "title": "比亚迪面向日本开发的微型电动车将登陆其他市场",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313383",
+      "title": "蔚来充电服务次数突破1亿次",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313381",
+      "title": "车上冰箱只用5%，新能源配置堆砌该停了",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313387",
+      "title": "奔驰三季度全球销量跌8%：中国市场暴跌31% 把全球拖下水",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313382",
+      "title": "上汽通用五菱前三季度全球销量超105.8万辆",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313394",
+      "title": "蔡司收购Ceres Holographics，加速全息技术产业化进程",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313393",
+      "title": "小马智行官宣进军英国伦敦",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313392",
+      "title": "中国一汽、丰田、广汽，三方正式签约！",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313391",
+      "title": "江淮汽车回应尊界V800刹车踏板支架断裂：已关注，稍后可等待官方回应",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313390",
+      "title": "特斯拉第三季度销量超预期",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313388",
+      "title": "雷诺集团任命新CFO",
+      "source": "第一电动",
+      "pushedAt": 1791463164603
     }
   ],
   "lastUpdated": "2026-10-08"
