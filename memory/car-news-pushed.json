@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311034",
-    "https://www.d1ev.com/newsflash/311048",
     "https://www.d1ev.com/newsflash/311046",
     "https://www.d1ev.com/newsflash/311044",
     "https://www.d1ev.com/newsflash/311037",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/shichang/313390",
     "https://www.d1ev.com/news/shichang/313388",
     "https://www.d1ev.com/carnews/xinche/313397",
-    "https://www.d1ev.com/news/shichang/313396"
+    "https://www.d1ev.com/news/shichang/313396",
+    "https://www.d1ev.com/carnews/xinche/313399",
+    "https://www.d1ev.com/carnews/xinche/313398"
   ],
   "newsHistory": [
     {
@@ -2391,6 +2391,18 @@
       "title": "尊界回应制动踏板支架问题：实际使用未现断裂，将提供免费升级",
       "source": "第一电动",
       "pushedAt": 1791488229096
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313399",
+      "title": "限量1963台 兰博基尼Revuelto SV新车图解",
+      "source": "第一电动",
+      "pushedAt": 1791504383023
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313398",
+      "title": "2026年第40周（9.28-10.4）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1791504383023
     }
   ],
   "lastUpdated": "2026-10-09"
