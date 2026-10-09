@@ -1,25 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311046",
-    "https://www.d1ev.com/newsflash/311044",
-    "https://www.d1ev.com/newsflash/311037",
-    "https://www.d1ev.com/newsflash/311036",
-    "https://www.d1ev.com/news/shichang/311047",
-    "https://www.d1ev.com/news/qiye/311043",
-    "https://www.d1ev.com/newsflash/311038",
-    "https://www.d1ev.com/newsflash/311063",
-    "https://www.d1ev.com/news/shichang/311055",
-    "https://www.d1ev.com/newsflash/311049",
-    "https://www.d1ev.com/news/qiye/311064",
-    "https://www.d1ev.com/news/shichang/311061",
-    "https://www.d1ev.com/newsflash/311058",
-    "https://www.d1ev.com/newsflash/311057",
-    "https://www.d1ev.com/newsflash/311050",
-    "https://www.d1ev.com/newsflash/311066",
-    "https://www.d1ev.com/news/qiye/311065",
-    "https://www.d1ev.com/news/shichang/311062",
-    "https://www.d1ev.com/news/qiye/311060",
-    "https://www.d1ev.com/newsflash/311059",
     "https://www.d1ev.com/newsflash/311056",
     "https://www.d1ev.com/news/shichang/311054",
     "https://www.d1ev.com/newsflash/311053",
@@ -1999,7 +1979,27 @@
     "https://www.d1ev.com/carnews/xinche/313397",
     "https://www.d1ev.com/news/shichang/313396",
     "https://www.d1ev.com/carnews/xinche/313399",
-    "https://www.d1ev.com/carnews/xinche/313398"
+    "https://www.d1ev.com/carnews/xinche/313398",
+    "https://www.d1ev.com/carnews/xinche/313410",
+    "https://www.d1ev.com/carnews/xinche/313409",
+    "https://www.d1ev.com/carnews/xinche/313408",
+    "https://www.d1ev.com/carnews/xinche/313406",
+    "https://www.d1ev.com/news/qiye/313418",
+    "https://www.d1ev.com/news/shichang/313414",
+    "https://www.d1ev.com/news/shichang/313413",
+    "https://www.d1ev.com/news/shichang/313417",
+    "https://www.d1ev.com/news/shichang/313404",
+    "https://www.d1ev.com/news/shichang/313421",
+    "https://www.d1ev.com/carnews/xinche/313420",
+    "https://www.d1ev.com/news/shichang/313419",
+    "https://www.d1ev.com/news/shichang/313416",
+    "https://www.d1ev.com/news/shichang/313412",
+    "https://www.d1ev.com/carnews/xinche/313411",
+    "https://www.d1ev.com/news/shichang/313407",
+    "https://www.d1ev.com/news/shichang/313405",
+    "https://www.d1ev.com/news/qiye/313403",
+    "https://www.d1ev.com/news/qiye/313402",
+    "https://www.d1ev.com/news/qiye/313400"
   ],
   "newsHistory": [
     {
@@ -2403,6 +2403,126 @@
       "title": "2026年第40周（9.28-10.4）上市新车汇总",
       "source": "第一电动",
       "pushedAt": 1791504383023
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313410",
+      "title": "将于四季度上市 方程豹钛9陨石黑配色发布",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313409",
+      "title": "2027年登陆欧洲 斯柯达明锐混动版官图发布",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313408",
+      "title": "上汽荣威家越07预售两周订单超三万台",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313406",
+      "title": "长安启源宣布2027款A06将于10月10日上市",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313418",
+      "title": "比亚迪：闪充车型订单旺盛 二代刀片电池产能还在爬坡",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313414",
+      "title": "武汉睿驰再获1.8亿元增资，加码智能驾驶域控与车云协同AI",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313413",
+      "title": "保时捷用100%回收原料制备电芯 实现电池闭环回收",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313417",
+      "title": "全球化新突破！承泰科技获德系头部豪华车企定点",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313404",
+      "title": "北汽集团前9月销量超116.7万辆，海外市场连续9个月两位数增长",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313421",
+      "title": "2026款理想i6将于10月28日发布，官方公布六大升级",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313420",
+      "title": "时代锐评|合规不等于安全！尊界V800谈品质之前，首先要确保绝对安全",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313419",
+      "title": "立讯精密100%控股京西智行",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313416",
+      "title": "“反攻”？去巴黎",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313412",
+      "title": "矢崎创新基地开展机器人协同试验 线性电机仓库CUEBUS与人形机器人接力作业",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313411",
+      "title": "搭载V8发动机 新款阿斯顿·马丁DBX GT发布",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313407",
+      "title": "南北丰田合流，中外汽车都有了全新范本",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313405",
+      "title": "福田汽车牵手卓驭科技，布局商用车高阶智能驾驶",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313403",
+      "title": "小鹏的Robotaxi上线了，但它并不想和萝卜快跑抢饭碗",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313402",
+      "title": "又是大SUV？先别急着吐槽，年末这几款“9系”真有看头",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313400",
+      "title": "捷豹的第九条命，押在了这台车上",
+      "source": "第一电动",
+      "pushedAt": 1791534190095
     }
   ],
   "lastUpdated": "2026-10-09"
