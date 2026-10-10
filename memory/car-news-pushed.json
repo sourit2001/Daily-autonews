@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311084",
-    "https://www.d1ev.com/newsflash/311088",
-    "https://www.d1ev.com/newsflash/311087",
-    "https://www.d1ev.com/newsflash/311098",
-    "https://www.d1ev.com/news/qiye/311097",
-    "https://www.d1ev.com/carnews/xinche/311095",
-    "https://www.d1ev.com/newsflash/311092",
-    "https://www.d1ev.com/newsflash/311099",
-    "https://www.d1ev.com/newsflash/311096",
-    "https://www.d1ev.com/newsflash/311091",
-    "https://www.d1ev.com/newsflash/311089",
     "https://www.d1ev.com/news/shichang/311094",
     "https://www.d1ev.com/newsflash/311093",
     "https://www.d1ev.com/newsflash/311090",
@@ -1999,21 +1988,20 @@
     "https://www.d1ev.com/carnews/xinche/313433",
     "https://www.d1ev.com/news/qiye/313432",
     "https://www.d1ev.com/news/qiye/313431",
-    "https://www.d1ev.com/news/shichang/313430"
+    "https://www.d1ev.com/news/shichang/313430",
+    "https://www.d1ev.com/news/qiye/313445",
+    "https://www.d1ev.com/news/shichang/313456",
+    "https://www.d1ev.com/news/shichang/313454",
+    "https://www.d1ev.com/news/shichang/313450",
+    "https://www.d1ev.com/news/shichang/313455",
+    "https://www.d1ev.com/news/shichang/313447",
+    "https://www.d1ev.com/news/shichang/313453",
+    "https://www.d1ev.com/news/shichang/313452",
+    "https://www.d1ev.com/news/shichang/313451",
+    "https://www.d1ev.com/news/shichang/313449",
+    "https://www.d1ev.com/news/qiye/313448"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313335",
-      "title": "奔驰举起大刀砍向电动车：EQE、迈巴赫EQS多车将停产",
-      "source": "第一电动",
-      "pushedAt": 1791012405609
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313336",
-      "title": "超预期！特斯拉三季度交付超48.6万辆",
-      "source": "第一电动",
-      "pushedAt": 1791012405609
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313337",
       "title": "盖世周报 | 吉利入股蔚来能源；华为与赛力斯敲定新五年合作",
@@ -2637,6 +2625,72 @@
       "title": "涨价函又又又来了，汽车业站上成本“高墙”",
       "source": "第一电动",
       "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313445",
+      "title": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313456",
+      "title": "全球电动车准备度排名：中国挪威前二，美国日本跌出前20",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313454",
+      "title": "吉利旗下吉曜通行开始卖电池",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313450",
+      "title": "Unifor呼吁对中国进口电动车实施严格、覆盖面广的保护措施",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313455",
+      "title": "奇瑞全球化3.0：当海外收入近七成，奇瑞重构管理架构",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313447",
+      "title": "中欧达成混动贸易谅解：中国混动车对欧出口四年内或减半",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313453",
+      "title": "光谷高端微电子器件产业园一期建成",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313452",
+      "title": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313451",
+      "title": "猛士X700首台量产车在襄阳下线",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313449",
+      "title": "配置竞争的话语权，从来不在车企",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313448",
+      "title": "车主狂喜！大众首款纯电GTI未交付先升级：极速提至190km/h",
+      "source": "第一电动",
+      "pushedAt": 1791627740854
     }
   ],
   "lastUpdated": "2026-10-10"
