@@ -1,20 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/311069",
-    "https://www.d1ev.com/newsflash/311068",
-    "https://www.d1ev.com/newsflash/311076",
-    "https://www.d1ev.com/newsflash/311074",
-    "https://www.d1ev.com/newsflash/311073",
-    "https://www.d1ev.com/newsflash/311067",
-    "https://www.d1ev.com/newsflash/311082",
-    "https://www.d1ev.com/newsflash/311081",
-    "https://www.d1ev.com/newsflash/311080",
-    "https://www.d1ev.com/newsflash/311079",
-    "https://www.d1ev.com/news/qiye/311077",
-    "https://www.d1ev.com/newsflash/311085",
-    "https://www.d1ev.com/news/shichang/311086",
-    "https://www.d1ev.com/newsflash/311083",
-    "https://www.d1ev.com/newsflash/311078",
     "https://www.d1ev.com/newsflash/311084",
     "https://www.d1ev.com/newsflash/311088",
     "https://www.d1ev.com/newsflash/311087",
@@ -1999,27 +1984,24 @@
     "https://www.d1ev.com/news/shichang/313422",
     "https://www.d1ev.com/news/shichang/313423",
     "https://www.d1ev.com/news/shichang/313426",
-    "https://www.d1ev.com/news/shichang/313425"
+    "https://www.d1ev.com/news/shichang/313425",
+    "https://www.d1ev.com/news/shichang/313439",
+    "https://www.d1ev.com/carnews/xinche/313436",
+    "https://www.d1ev.com/carnews/xinche/313435",
+    "https://www.d1ev.com/carnews/xinche/313437",
+    "https://www.d1ev.com/news/shichang/313444",
+    "https://www.d1ev.com/news/shichang/313442",
+    "https://www.d1ev.com/carnews/xinche/313434",
+    "https://www.d1ev.com/news/qiye/313443",
+    "https://www.d1ev.com/carnews/xinche/313441",
+    "https://www.d1ev.com/carnews/xinche/313440",
+    "https://www.d1ev.com/news/qiye/313438",
+    "https://www.d1ev.com/carnews/xinche/313433",
+    "https://www.d1ev.com/news/qiye/313432",
+    "https://www.d1ev.com/news/qiye/313431",
+    "https://www.d1ev.com/news/shichang/313430"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313333",
-      "title": "一辆特斯拉Model S Plaid时速286km发生车祸：车内人员幸存",
-      "source": "第一电动",
-      "pushedAt": 1790961304943
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313332",
-      "title": "蔚来10月1日换电183469次 创历史新高",
-      "source": "第一电动",
-      "pushedAt": 1790961304943
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313334",
-      "title": "同比下降2%！特斯拉2026年第三季度交付超48.6万辆",
-      "source": "第一电动",
-      "pushedAt": 1790988745173
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313335",
       "title": "奔驰举起大刀砍向电动车：EQE、迈巴赫EQS多车将停产",
@@ -2565,6 +2547,96 @@
       "title": "通用汽车推出配备人工智能助手的OnStar车队智能系统",
       "source": "第一电动",
       "pushedAt": 1791564423743
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313439",
+      "title": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313436",
+      "title": "新款宝马7系上市：最高612马力 约94万起售",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313435",
+      "title": "现代汽车计划推出IONIQ 7与IONIQ 4两款新车",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313437",
+      "title": "大众ID Tiguan正式发布 续航里程最高600km",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313444",
+      "title": "斩获欧洲设计大奖，浩思动力X-Range C15打开增程市场新空间",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313442",
+      "title": "欧盟称中国将大幅削减对欧混合动力汽车出口",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313434",
+      "title": "三菱于10月19日在泰国公布第五代帕杰罗售价",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313443",
+      "title": "岚图2026秋招，扩容释放500+岗位",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313441",
+      "title": "车长增加425mm 比亚迪第二代海鸥开启盲订",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313440",
+      "title": "智界R7焕新版首批试驾车抵达全国200家门店",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313438",
+      "title": "吉利汽车正式宣布进军加拿大市场",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313433",
+      "title": "理想汽车公布2026款理想i6发布节奏",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313432",
+      "title": "吉利汽车正式进入加拿大市场",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313431",
+      "title": "2026年8月TOP30轿车销量投诉量对应点评",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313430",
+      "title": "涨价函又又又来了，汽车业站上成本“高墙”",
+      "source": "第一电动",
+      "pushedAt": 1791604351638
     }
   ],
   "lastUpdated": "2026-10-10"
