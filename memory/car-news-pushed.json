@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/311094",
-    "https://www.d1ev.com/newsflash/311093",
-    "https://www.d1ev.com/newsflash/311090",
-    "https://www.d1ev.com/carnews/xinche/311129",
-    "https://www.d1ev.com/carnews/xinche/311128",
     "https://www.d1ev.com/carnews/xinche/311127",
     "https://www.d1ev.com/newsflash/311125",
     "https://www.d1ev.com/newsflash/311124",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/news/shichang/313452",
     "https://www.d1ev.com/news/shichang/313451",
     "https://www.d1ev.com/news/shichang/313449",
-    "https://www.d1ev.com/news/qiye/313448"
+    "https://www.d1ev.com/news/qiye/313448",
+    "https://www.d1ev.com/news/qiye/313461",
+    "https://www.d1ev.com/carnews/xinche/313460",
+    "https://www.d1ev.com/newsflash/313458",
+    "https://www.d1ev.com/news/shichang/313459",
+    "https://www.d1ev.com/news/shichang/313457"
   ],
   "newsHistory": [
     {
@@ -2691,7 +2691,37 @@
       "title": "车主狂喜！大众首款纯电GTI未交付先升级：极速提至190km/h",
       "source": "第一电动",
       "pushedAt": 1791627740854
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313461",
+      "title": "谢霆锋入行29年为中国汽车品牌首代言，吉利银河战舰700上市16.98",
+      "source": "第一电动",
+      "pushedAt": 1791650807735
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313460",
+      "title": "吉利银河战舰700上市 售价18.98-37.98万元",
+      "source": "第一电动",
+      "pushedAt": 1791650807735
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313458",
+      "title": "千里浩瀚使用里程与搭载增速“双第一”  加速推动智驾普惠向广、向深发展",
+      "source": "第一电动",
+      "pushedAt": 1791650807735
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313459",
+      "title": "江阳磁材深度解析：钐铁氮永磁的性能优势及车用产业化瓶颈",
+      "source": "第一电动",
+      "pushedAt": 1791650807735
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313457",
+      "title": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1791650807735
     }
   ],
-  "lastUpdated": "2026-10-10"
+  "lastUpdated": "2026-10-11"
 }
