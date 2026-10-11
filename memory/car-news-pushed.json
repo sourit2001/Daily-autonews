@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/311118",
     "https://www.d1ev.com/newsflash/311114",
     "https://www.d1ev.com/newsflash/311113",
     "https://www.d1ev.com/newsflash/311112",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/313464",
     "https://www.d1ev.com/news/qiye/313467",
     "https://www.d1ev.com/carnews/xinche/313466",
-    "https://www.d1ev.com/news/shichang/313463"
+    "https://www.d1ev.com/news/shichang/313463",
+    "https://www.d1ev.com/news/shichang/313468"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313341",
-      "title": "别等“金九银十”买车了！国庆北京车市实探：专属优惠少见，首销权益更香",
-      "source": "第一电动",
-      "pushedAt": 1791121010859
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313343",
       "title": "大鼻孔抢镜 新款宝马X3 M50 xDrive官图发布",
@@ -2733,7 +2727,13 @@
       "title": "12个月造车？监管开始踩刹车",
       "source": "第一电动",
       "pushedAt": 1791706127961
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313468",
+      "title": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
+      "source": "第一电动",
+      "pushedAt": 1791734766829
     }
   ],
-  "lastUpdated": "2026-10-11"
+  "lastUpdated": "2026-10-12"
 }
