@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/311127",
     "https://www.d1ev.com/newsflash/311125",
     "https://www.d1ev.com/newsflash/311124",
     "https://www.d1ev.com/newsflash/311123",
@@ -1999,15 +1998,10 @@
     "https://www.d1ev.com/carnews/xinche/313460",
     "https://www.d1ev.com/newsflash/313458",
     "https://www.d1ev.com/news/shichang/313459",
-    "https://www.d1ev.com/news/shichang/313457"
+    "https://www.d1ev.com/news/shichang/313457",
+    "https://www.d1ev.com/news/shichang/313462"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313337",
-      "title": "盖世周报 | 吉利入股蔚来能源；华为与赛力斯敲定新五年合作",
-      "source": "第一电动",
-      "pushedAt": 1791073099614
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313340",
       "title": "同一根充电桩，两种新能源车：增程与纯电的“抢桩大战”如何破局",
@@ -2721,6 +2715,12 @@
       "title": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
       "source": "第一电动",
       "pushedAt": 1791650807735
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313462",
+      "title": "盖世周报 | 立讯精密100%控股京西智行；佛瑞亚海拉斩获两大订单",
+      "source": "第一电动",
+      "pushedAt": 1791679055182
     }
   ],
   "lastUpdated": "2026-10-11"
