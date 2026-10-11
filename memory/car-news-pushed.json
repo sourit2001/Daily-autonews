@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311125",
-    "https://www.d1ev.com/newsflash/311124",
-    "https://www.d1ev.com/newsflash/311123",
-    "https://www.d1ev.com/newsflash/311120",
-    "https://www.d1ev.com/newsflash/311119",
     "https://www.d1ev.com/carnews/xinche/311118",
     "https://www.d1ev.com/newsflash/311114",
     "https://www.d1ev.com/newsflash/311113",
@@ -1999,27 +1994,14 @@
     "https://www.d1ev.com/newsflash/313458",
     "https://www.d1ev.com/news/shichang/313459",
     "https://www.d1ev.com/news/shichang/313457",
-    "https://www.d1ev.com/news/shichang/313462"
+    "https://www.d1ev.com/news/shichang/313462",
+    "https://www.d1ev.com/carnews/xinche/313465",
+    "https://www.d1ev.com/carnews/xinche/313464",
+    "https://www.d1ev.com/news/qiye/313467",
+    "https://www.d1ev.com/carnews/xinche/313466",
+    "https://www.d1ev.com/news/shichang/313463"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313340",
-      "title": "同一根充电桩，两种新能源车：增程与纯电的“抢桩大战”如何破局",
-      "source": "第一电动",
-      "pushedAt": 1791099611752
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313339",
-      "title": "车主把小米澎程玩出花儿 变身移动琴房",
-      "source": "第一电动",
-      "pushedAt": 1791099611752
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313338",
-      "title": "英国最畅销车 奇瑞Jaecoo7时隔半年重回宝座",
-      "source": "第一电动",
-      "pushedAt": 1791099611752
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313341",
       "title": "别等“金九银十”买车了！国庆北京车市实探：专属优惠少见，首销权益更香",
@@ -2721,6 +2703,36 @@
       "title": "盖世周报 | 立讯精密100%控股京西智行；佛瑞亚海拉斩获两大订单",
       "source": "第一电动",
       "pushedAt": 1791679055182
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313465",
+      "title": "颜值暴击 比亚迪腾势N8推出3款新车色",
+      "source": "第一电动",
+      "pushedAt": 1791706127961
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313464",
+      "title": "搭柴油发动机 东风猛士猛8越野旅居房车亮相",
+      "source": "第一电动",
+      "pushedAt": 1791706127961
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313467",
+      "title": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损",
+      "source": "第一电动",
+      "pushedAt": 1791706127961
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313466",
+      "title": "大众首款纯电GTI未交付先升级：极速190km/h",
+      "source": "第一电动",
+      "pushedAt": 1791706127961
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313463",
+      "title": "12个月造车？监管开始踩刹车",
+      "source": "第一电动",
+      "pushedAt": 1791706127961
     }
   ],
   "lastUpdated": "2026-10-11"
