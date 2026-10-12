@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311114",
-    "https://www.d1ev.com/newsflash/311113",
-    "https://www.d1ev.com/newsflash/311112",
-    "https://www.d1ev.com/carnews/xinche/311111",
     "https://www.d1ev.com/carnews/xinche/311110",
     "https://www.d1ev.com/carnews/xinche/311109",
     "https://www.d1ev.com/news/shichang/311108",
@@ -1999,7 +1995,11 @@
     "https://www.d1ev.com/news/qiye/313467",
     "https://www.d1ev.com/carnews/xinche/313466",
     "https://www.d1ev.com/news/shichang/313463",
-    "https://www.d1ev.com/news/shichang/313468"
+    "https://www.d1ev.com/news/shichang/313468",
+    "https://www.d1ev.com/news/qiye/313472",
+    "https://www.d1ev.com/news/shichang/313471",
+    "https://www.d1ev.com/news/qiye/313469",
+    "https://www.d1ev.com/news/shichang/313470"
   ],
   "newsHistory": [
     {
@@ -2733,6 +2733,30 @@
       "title": "E周看点 | 吉利汽车进入加拿大市场；中国将大幅削减对欧混动车出口",
       "source": "第一电动",
       "pushedAt": 1791734766829
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313472",
+      "title": "新车谍照丨海洋网MPV、林肯9系、宝马纯电M3",
+      "source": "第一电动",
+      "pushedAt": 1791766438883
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313471",
+      "title": "东风风行携三款新车亮相2026巴黎车展",
+      "source": "第一电动",
+      "pushedAt": 1791766438883
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313469",
+      "title": "奇瑞集团9月新能源汽车销量超13万辆 连续6个月破10万",
+      "source": "第一电动",
+      "pushedAt": 1791766438883
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313470",
+      "title": "国显科技推出4.1寸Mini LED AR-HUD PGU模组",
+      "source": "第一电动",
+      "pushedAt": 1791766438883
     }
   ],
   "lastUpdated": "2026-10-12"
