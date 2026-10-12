@@ -1,30 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/311110",
-    "https://www.d1ev.com/carnews/xinche/311109",
-    "https://www.d1ev.com/news/shichang/311108",
-    "https://www.d1ev.com/news/qiye/311106",
-    "https://www.d1ev.com/newsflash/311105",
-    "https://www.d1ev.com/newsflash/311104",
-    "https://www.d1ev.com/carnews/xinche/311103",
-    "https://www.d1ev.com/news/shichang/311100",
-    "https://www.d1ev.com/news/qiye/311107",
-    "https://www.d1ev.com/carnews/xinche/311102",
-    "https://www.d1ev.com/carnews/xinche/311130",
-    "https://www.d1ev.com/news/shichang/311126",
-    "https://www.d1ev.com/news/shichang/311122",
-    "https://www.d1ev.com/news/shichang/311121",
-    "https://www.d1ev.com/news/shichang/311117",
-    "https://www.d1ev.com/news/qiye/311116",
-    "https://www.d1ev.com/newsflash/311115",
-    "https://www.d1ev.com/carnews/xinche/311101",
-    "https://www.d1ev.com/newsflash/311157",
-    "https://www.d1ev.com/newsflash/311155",
-    "https://www.d1ev.com/news/shichang/311153",
-    "https://www.d1ev.com/newsflash/311151",
-    "https://www.d1ev.com/news/shichang/311149",
-    "https://www.d1ev.com/newsflash/311147",
-    "https://www.d1ev.com/newsflash/311144",
     "https://www.d1ev.com/newsflash/311142",
     "https://www.d1ev.com/news/shichang/311140",
     "https://www.d1ev.com/news/qiye/311138",
@@ -1999,21 +1974,34 @@
     "https://www.d1ev.com/news/qiye/313472",
     "https://www.d1ev.com/news/shichang/313471",
     "https://www.d1ev.com/news/qiye/313469",
-    "https://www.d1ev.com/news/shichang/313470"
+    "https://www.d1ev.com/news/shichang/313470",
+    "https://www.d1ev.com/news/qiye/313477",
+    "https://www.d1ev.com/carnews/xinche/313475",
+    "https://www.d1ev.com/carnews/xinche/313474",
+    "https://www.d1ev.com/news/shichang/313498",
+    "https://www.d1ev.com/news/shichang/313496",
+    "https://www.d1ev.com/news/shichang/313495",
+    "https://www.d1ev.com/news/shichang/313494",
+    "https://www.d1ev.com/news/shichang/313501",
+    "https://www.d1ev.com/news/shichang/313497",
+    "https://www.d1ev.com/news/shichang/313500",
+    "https://www.d1ev.com/news/shichang/313499",
+    "https://www.d1ev.com/news/shichang/313492",
+    "https://www.d1ev.com/news/shichang/313490",
+    "https://www.d1ev.com/news/shichang/313489",
+    "https://www.d1ev.com/news/shichang/313487",
+    "https://www.d1ev.com/carnews/xinche/313486",
+    "https://www.d1ev.com/news/shichang/313485",
+    "https://www.d1ev.com/news/shichang/313484",
+    "https://www.d1ev.com/news/shichang/313483",
+    "https://www.d1ev.com/news/shichang/313482",
+    "https://www.d1ev.com/news/shichang/313481",
+    "https://www.d1ev.com/news/shichang/313480",
+    "https://www.d1ev.com/news/shichang/313478",
+    "https://www.d1ev.com/carnews/xinche/313476",
+    "https://www.d1ev.com/carnews/xinche/313473"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313343",
-      "title": "大鼻孔抢镜 新款宝马X3 M50 xDrive官图发布",
-      "source": "第一电动",
-      "pushedAt": 1791187570458
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313342",
-      "title": "科技味更浓了 2027款雷克萨斯RX官图发布",
-      "source": "第一电动",
-      "pushedAt": 1791187570458
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313344",
       "title": "上汽集团1-9月累计销售314.7万辆，上汽乘用车同比增长45.6%",
@@ -2757,6 +2745,156 @@
       "title": "国显科技推出4.1寸Mini LED AR-HUD PGU模组",
       "source": "第一电动",
       "pushedAt": 1791766438883
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313477",
+      "title": "性能党必看！宝马新世代M概念车国内首发：四电机+800V平台",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313475",
+      "title": "雷诺携多款新车及三款概念车亮相巴黎车展",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313474",
+      "title": "凯迪拉克XT5 PHEV新车型将于10月16日上市",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313498",
+      "title": "电池护照落地倒计时，这家企业三轮试点“全勤”",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313496",
+      "title": "9月乘用车零售同比下降28%，新能源渗透率升至67%",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313495",
+      "title": "2026年8月燃油车型/新能源车型销量榜：吉利缤越领跑燃油车，比亚迪稳居新能源前列丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313494",
+      "title": "​9月乘用车出口同比增长73.7%，新能源出口贡献突出",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313501",
+      "title": "小鹏汽车：Autopilot系统可快速适配欧洲道路",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313497",
+      "title": "混动出口被“减半”，中国车企的欧洲路怎么走",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313500",
+      "title": "碳酸锂价格腰斩之后",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313499",
+      "title": "欧盟拟对中国混动汽车进口设置每年35万辆上限",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313492",
+      "title": "Stellantis巴黎车展前夜发布六款概念车，八大品牌将参展",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313490",
+      "title": "合肥又一汽车产业基地，要来了",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313489",
+      "title": "赛力斯与宁德时代深化合作，扩建“厂中厂”",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313487",
+      "title": "巴黎车展上的两种姿态：中国猛攻，日系保守",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313486",
+      "title": "大五座SUV 小鹏MONA L05官宣即将登场",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313485",
+      "title": "智驭向新丨华域 & 汇众底盘专场前瞻技术展即将启幕",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313484",
+      "title": "图达通三季度激光雷达出货量达26.89万台",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313483",
+      "title": "千里浩瀚辅助驾驶累计里程超31亿公里，同比增长252.6%",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313482",
+      "title": "小鹏汽车官宣MONA L05即将登场，定位“年轻人的首款大五座SUV”",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313481",
+      "title": "9月乘用车零售170.2万辆同比降24% 行业利润率降至3.6%",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313480",
+      "title": "一汽-大众参编三项汽车产品碳足迹国家标准发布",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313478",
+      "title": "晶能与Wolfspeed签署合作备忘录",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313476",
+      "title": "猛士X700首台量产车在襄阳正式下线",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313473",
+      "title": "广汽丰田铂智3X第15万台暨星云限量版交付",
+      "source": "第一电动",
+      "pushedAt": 1791793588490
     }
   ],
   "lastUpdated": "2026-10-12"
