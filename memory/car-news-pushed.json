@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311227",
-    "https://www.d1ev.com/newsflash/311222",
-    "https://www.d1ev.com/newsflash/311219",
-    "https://www.d1ev.com/newsflash/311218",
-    "https://www.d1ev.com/newsflash/311215",
-    "https://www.d1ev.com/newsflash/311214",
-    "https://www.d1ev.com/newsflash/311208",
-    "https://www.d1ev.com/newsflash/311253",
-    "https://www.d1ev.com/newsflash/311252",
-    "https://www.d1ev.com/newsflash/311251",
-    "https://www.d1ev.com/newsflash/311250",
     "https://www.d1ev.com/newsflash/311249",
     "https://www.d1ev.com/newsflash/311248",
     "https://www.d1ev.com/newsflash/311247",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/news/shichang/313512",
     "https://www.d1ev.com/news/shichang/313509",
     "https://www.d1ev.com/news/qiye/313506",
-    "https://www.d1ev.com/news/qiye/313502"
+    "https://www.d1ev.com/news/qiye/313502",
+    "https://www.d1ev.com/carnews/xinche/313539",
+    "https://www.d1ev.com/carnews/xinche/313538",
+    "https://www.d1ev.com/news/shichang/313536",
+    "https://www.d1ev.com/carnews/xinche/313530",
+    "https://www.d1ev.com/news/qiye/313535",
+    "https://www.d1ev.com/news/shichang/313532",
+    "https://www.d1ev.com/carnews/xinche/313537",
+    "https://www.d1ev.com/news/shichang/313534",
+    "https://www.d1ev.com/news/shichang/313533",
+    "https://www.d1ev.com/news/shichang/313531",
+    "https://www.d1ev.com/news/shichang/313529"
   ],
   "newsHistory": [
     {
@@ -3039,6 +3039,72 @@
       "title": "新规拟禁止全隐藏门把手 专家称无法改造批次或需停产召回",
       "source": "第一电动",
       "pushedAt": 1791833765925
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313539",
+      "title": "零跑汽车亮相巴黎国际车展 B10在西班牙投产",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313538",
+      "title": "上汽大众ID.ERA 5X官宣11月上市：盲订开启",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313536",
+      "title": "东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313530",
+      "title": "当北欧性能遇上实用主义 极星4 SUV新车图解",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313535",
+      "title": "广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313532",
+      "title": "全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313537",
+      "title": "极狐汽车宣布2027款阿尔法S5/T5即将登场",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313534",
+      "title": "吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313533",
+      "title": "新势力音响命名大起底：名字升级，还是体验升级？",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313531",
+      "title": "“不参加巴黎车展，就卖不出去”",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313529",
+      "title": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
+      "source": "第一电动",
+      "pushedAt": 1791855988825
     }
   ],
   "lastUpdated": "2026-10-13"
