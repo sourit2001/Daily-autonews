@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311249",
-    "https://www.d1ev.com/newsflash/311248",
-    "https://www.d1ev.com/newsflash/311247",
-    "https://www.d1ev.com/newsflash/311243",
-    "https://www.d1ev.com/newsflash/311240",
-    "https://www.d1ev.com/newsflash/311239",
-    "https://www.d1ev.com/newsflash/311238",
-    "https://www.d1ev.com/newsflash/311236",
-    "https://www.d1ev.com/newsflash/311232",
-    "https://www.d1ev.com/newsflash/311231",
-    "https://www.d1ev.com/newsflash/311229",
-    "https://www.d1ev.com/newsflash/311224",
-    "https://www.d1ev.com/newsflash/311217",
-    "https://www.d1ev.com/newsflash/311216",
-    "https://www.d1ev.com/newsflash/311213",
-    "https://www.d1ev.com/newsflash/311211",
-    "https://www.d1ev.com/newsflash/311209",
-    "https://www.d1ev.com/newsflash/311206",
-    "https://www.d1ev.com/newsflash/311226",
-    "https://www.d1ev.com/newsflash/311254",
-    "https://www.d1ev.com/newsflash/311246",
     "https://www.d1ev.com/newsflash/311245",
     "https://www.d1ev.com/newsflash/311244",
     "https://www.d1ev.com/newsflash/311237",
@@ -1999,15 +1978,30 @@
     "https://www.d1ev.com/news/shichang/313534",
     "https://www.d1ev.com/news/shichang/313533",
     "https://www.d1ev.com/news/shichang/313531",
-    "https://www.d1ev.com/news/shichang/313529"
+    "https://www.d1ev.com/news/shichang/313529",
+    "https://www.d1ev.com/news/shichang/313554",
+    "https://www.d1ev.com/news/shichang/313545",
+    "https://www.d1ev.com/carnews/xinche/313543",
+    "https://www.d1ev.com/carnews/xinche/313542",
+    "https://www.d1ev.com/news/shichang/313568",
+    "https://www.d1ev.com/news/shichang/313565",
+    "https://www.d1ev.com/news/shichang/313561",
+    "https://www.d1ev.com/news/qiye/313553",
+    "https://www.d1ev.com/news/shichang/313558",
+    "https://www.d1ev.com/news/shichang/313569",
+    "https://www.d1ev.com/news/shichang/313567",
+    "https://www.d1ev.com/news/shichang/313563",
+    "https://www.d1ev.com/news/shichang/313562",
+    "https://www.d1ev.com/news/shichang/313556",
+    "https://www.d1ev.com/news/shichang/313555",
+    "https://www.d1ev.com/news/shichang/313550",
+    "https://www.d1ev.com/news/shichang/313548",
+    "https://www.d1ev.com/news/shichang/313547",
+    "https://www.d1ev.com/news/shichang/313546",
+    "https://www.d1ev.com/carnews/xinche/313541",
+    "https://www.d1ev.com/carnews/xinche/313540"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313345",
-      "title": "中国车在英国卖爆 登顶车型销冠！曝英国拟加征关税",
-      "source": "第一电动",
-      "pushedAt": 1791275180129
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313347",
       "title": "10月5日，蔚来换电183,664次，再创历史新高",
@@ -3105,6 +3099,132 @@
       "title": "华为乾崑国庆出行报告：一场关于“信任”的降维打击",
       "source": "第一电动",
       "pushedAt": 1791855988825
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313554",
+      "title": "长安汽车亮相巴黎车展，启源入欧、混动产品阵容扩容",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313545",
+      "title": "轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313543",
+      "title": "WLTP纯电续航646km 奥迪A2 e-tron正式亮相",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313542",
+      "title": "2026年第41周（10.5-10.11）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313568",
+      "title": "NVIDIA发布Isaac ROS 5.0，将AI智能体引入机器人开发",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313565",
+      "title": "华东交通大学提出框架P-LLM 使大语言模型主导自动驾驶车队调度",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313561",
+      "title": "仁芯科技车载SerDes芯片获近50款车型定点",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313553",
+      "title": "比亚迪与荣耀战略合作 共创AI语音融合",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313558",
+      "title": "零跑Lafa5海外订单4个月破12000台",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313569",
+      "title": "FBH发明新型远紫外LED 能以创纪录速度传输数据",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313567",
+      "title": "通用汽车申请车载系统专利 或许能助驾驶员缓解压力",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313563",
+      "title": "晓莺说 | 巴黎车展前线观察1：改变、扎根 与 竞争",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313562",
+      "title": "福田重卡前三季度销量超12.5万辆 同比增长20.4%",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313556",
+      "title": "智界V9连续四个月蝉联40万元以上MPV销量冠军",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313555",
+      "title": "问界M9连续四个月蝉联50万以上车型销量第一",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313550",
+      "title": "领克回应来了 ：乘员舱保持完整，车主伤情较轻",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313548",
+      "title": "蔚来ES8 9月销量过万，蝉联细分市场销冠",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313547",
+      "title": "宝维塔工博会两大发布，柔性制造与车载电子测试同步提速",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313546",
+      "title": "尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313541",
+      "title": "更具运动气息 全新现代途胜N-Line发布",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313540",
+      "title": "新世代宝马iX3将于10月16日起开启全国巡展",
+      "source": "第一电动",
+      "pushedAt": 1791881435235
     }
   ],
   "lastUpdated": "2026-10-13"
