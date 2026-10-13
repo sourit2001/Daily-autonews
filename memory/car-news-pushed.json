@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311245",
-    "https://www.d1ev.com/newsflash/311244",
-    "https://www.d1ev.com/newsflash/311237",
-    "https://www.d1ev.com/newsflash/311235",
-    "https://www.d1ev.com/newsflash/311234",
-    "https://www.d1ev.com/newsflash/311225",
-    "https://www.d1ev.com/newsflash/311223",
-    "https://www.d1ev.com/newsflash/311221",
-    "https://www.d1ev.com/newsflash/311220",
-    "https://www.d1ev.com/newsflash/311212",
-    "https://www.d1ev.com/newsflash/311210",
     "https://www.d1ev.com/newsflash/311207",
     "https://www.d1ev.com/news/qiye/311343",
     "https://www.d1ev.com/newsflash/311342",
@@ -1999,21 +1988,20 @@
     "https://www.d1ev.com/news/shichang/313547",
     "https://www.d1ev.com/news/shichang/313546",
     "https://www.d1ev.com/carnews/xinche/313541",
-    "https://www.d1ev.com/carnews/xinche/313540"
+    "https://www.d1ev.com/carnews/xinche/313540",
+    "https://www.d1ev.com/news/shichang/313580",
+    "https://www.d1ev.com/carnews/xinche/313579",
+    "https://www.d1ev.com/news/qiye/313577",
+    "https://www.d1ev.com/news/qiye/313576",
+    "https://www.d1ev.com/news/shichang/313570",
+    "https://www.d1ev.com/news/shichang/313573",
+    "https://www.d1ev.com/news/qiye/313572",
+    "https://www.d1ev.com/news/shichang/313581",
+    "https://www.d1ev.com/news/shichang/313578",
+    "https://www.d1ev.com/news/shichang/313574",
+    "https://www.d1ev.com/news/qiye/313571"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313347",
-      "title": "10月5日，蔚来换电183,664次，再创历史新高",
-      "source": "第一电动",
-      "pushedAt": 1791303986619
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313346",
-      "title": "豪华电车巨头艰难自救！大刀阔斧减产裁员",
-      "source": "第一电动",
-      "pushedAt": 1791303986619
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313350",
       "title": "首款纯电M3原型车曝光 操控才是灵魂",
@@ -3225,7 +3213,73 @@
       "title": "新世代宝马iX3将于10月16日起开启全国巡展",
       "source": "第一电动",
       "pushedAt": 1791881435235
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313580",
+      "title": "千万王朝再向上，比亚迪大汉正式上市，售价23.59万～27.59万元",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313579",
+      "title": "比亚迪大汉EV正式上市 售价23.59-27.59万元",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313577",
+      "title": "广汽集团巴黎车展发布欧洲品牌主张，AION UT Cross全球首秀",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313576",
+      "title": "百万元的埃尔法中控台上插了张RX 9060：高速上自动驾驶跑",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313570",
+      "title": "2026年1-8月智能座舱供应商装机量排行榜：HUD迈入规模普及与价值升级新阶段丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313573",
+      "title": "2026年1-8月比亚迪乘用车出口目的地TOP10：巴西超20万辆登顶，欧洲多国上榜丨盖世汽车研究院",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313572",
+      "title": "爱丽舍宫拒中国车企参加晚宴，“欧洲优先”的心思演都不演了？",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313581",
+      "title": "在25万元级，能买到D级旗舰了",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313578",
+      "title": "银河战舰700的入场，硬派越野市场话语权之争加剧？",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313574",
+      "title": "问界M6累计交付突破60000台",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313571",
+      "title": "9月车企销量Top10榜单：比亚迪断档式第一 前十国产占七席",
+      "source": "第一电动",
+      "pushedAt": 1791911894103
     }
   ],
-  "lastUpdated": "2026-10-13"
+  "lastUpdated": "2026-10-14"
 }
