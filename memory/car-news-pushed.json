@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311207",
-    "https://www.d1ev.com/news/qiye/311343",
-    "https://www.d1ev.com/newsflash/311342",
-    "https://www.d1ev.com/newsflash/311339",
-    "https://www.d1ev.com/newsflash/311334",
-    "https://www.d1ev.com/newsflash/311333",
-    "https://www.d1ev.com/carnews/xinche/311330",
-    "https://www.d1ev.com/carnews/xinche/311329",
-    "https://www.d1ev.com/carnews/xinche/311328",
-    "https://www.d1ev.com/carnews/xinche/311327",
     "https://www.d1ev.com/carnews/xinche/311326",
     "https://www.d1ev.com/carnews/xinche/311325",
     "https://www.d1ev.com/news/shichang/311321",
@@ -1999,7 +1989,17 @@
     "https://www.d1ev.com/news/shichang/313581",
     "https://www.d1ev.com/news/shichang/313578",
     "https://www.d1ev.com/news/shichang/313574",
-    "https://www.d1ev.com/news/qiye/313571"
+    "https://www.d1ev.com/news/qiye/313571",
+    "https://www.d1ev.com/news/shichang/313589",
+    "https://www.d1ev.com/carnews/xinche/313588",
+    "https://www.d1ev.com/carnews/xinche/313586",
+    "https://www.d1ev.com/carnews/xinche/313585",
+    "https://www.d1ev.com/news/shichang/313584",
+    "https://www.d1ev.com/news/shichang/313591",
+    "https://www.d1ev.com/news/shichang/313590",
+    "https://www.d1ev.com/carnews/xinche/313587",
+    "https://www.d1ev.com/news/shichang/313583",
+    "https://www.d1ev.com/news/shichang/313582"
   ],
   "newsHistory": [
     {
@@ -3279,6 +3279,66 @@
       "title": "9月车企销量Top10榜单：比亚迪断档式第一 前十国产占七席",
       "source": "第一电动",
       "pushedAt": 1791911894103
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313589",
+      "title": "广汽传祺越7、启境GX7与埃安Ray7三款新车亮相",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313588",
+      "title": "本田越南发布2026款City 计划10月14日上市",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313586",
+      "title": "第三次改款升级 新款沃尔沃XC60实车亮相",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313585",
+      "title": "赛豆科技AIVA品牌第二款车型预计为SUV",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313584",
+      "title": "巨湾技研吉瓦时级全固态电池产线正式投产",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313591",
+      "title": "KRICT开发出干法厚膜正极技术 解决锂离子传输瓶颈",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313590",
+      "title": "Fraunhofer LBF研发出新型软垫泡沫材料 采用超过90%的生物基成分",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313587",
+      "title": "小鹏MONA L05将提供双层夹胶玻璃及吸顶屏",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313583",
+      "title": "东风汽车与兵器工业集团签署战略合作协议",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313582",
+      "title": "博世创新工场与米链共创达成战略合作，共建创投孵化平台",
+      "source": "第一电动",
+      "pushedAt": 1791947188319
     }
   ],
   "lastUpdated": "2026-10-14"
