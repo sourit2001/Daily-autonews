@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311337",
-    "https://www.d1ev.com/newsflash/311336",
-    "https://www.d1ev.com/news/qiye/311335",
-    "https://www.d1ev.com/carnews/xinche/311331",
-    "https://www.d1ev.com/news/shichang/311324",
-    "https://www.d1ev.com/news/shichang/311323",
-    "https://www.d1ev.com/news/shichang/311316",
-    "https://www.d1ev.com/news/shichang/311315",
     "https://www.d1ev.com/news/shichang/311314",
     "https://www.d1ev.com/news/shichang/311313",
     "https://www.d1ev.com/news/shichang/311312",
@@ -1999,15 +1991,17 @@
     "https://www.d1ev.com/news/shichang/313599",
     "https://www.d1ev.com/news/shichang/313598",
     "https://www.d1ev.com/news/shichang/313596",
-    "https://www.d1ev.com/news/shichang/313594"
+    "https://www.d1ev.com/news/shichang/313594",
+    "https://www.d1ev.com/news/shichang/313614",
+    "https://www.d1ev.com/news/qiye/313619",
+    "https://www.d1ev.com/news/shichang/313618",
+    "https://www.d1ev.com/news/shichang/313623",
+    "https://www.d1ev.com/news/shichang/313622",
+    "https://www.d1ev.com/news/shichang/313620",
+    "https://www.d1ev.com/news/shichang/313617",
+    "https://www.d1ev.com/news/shichang/313616"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313351",
-      "title": "电池用比亚迪 智驾用地平线！铃木新车核心部件换成中国货",
-      "source": "第一电动",
-      "pushedAt": 1791369991487
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313353",
       "title": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
@@ -3447,6 +3441,54 @@
       "title": "何小鹏：Mona L05是一台有“少年感”的大五座SUV",
       "source": "第一电动",
       "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313614",
+      "title": "上市近半年，极氪8X登顶30-50万混动SUV累计销量第一",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313619",
+      "title": "何小鹏在巴黎汽车峰会分享XPENG AI ENGINEERING，小鹏开放智能汽车与物理AI合作",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313618",
+      "title": "官宣落地曼彻斯特，小马智行欧洲扩张进入新节奏",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313623",
+      "title": "福耀新项目，已在合肥开工",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313622",
+      "title": "小米汽车启动“北方八省冬季服务关怀”专项行动",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313620",
+      "title": "9月汽车经销商库存系数达1.68，环比同比双双走高",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313617",
+      "title": "四维图新中标北京“双智”城市4.0房山区路侧感知项目",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313616",
+      "title": "乘联分会：10月前11天乘用车零售45.9万辆，同比下降24%",
+      "source": "第一电动",
+      "pushedAt": 1791989398823
     }
   ],
   "lastUpdated": "2026-10-14"
