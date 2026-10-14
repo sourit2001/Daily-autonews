@@ -1,26 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/311326",
-    "https://www.d1ev.com/carnews/xinche/311325",
-    "https://www.d1ev.com/news/shichang/311321",
-    "https://www.d1ev.com/news/shichang/311303",
-    "https://www.d1ev.com/news/qiye/311300",
-    "https://www.d1ev.com/newsflash/311296",
-    "https://www.d1ev.com/newsflash/311295",
-    "https://www.d1ev.com/newsflash/311344",
-    "https://www.d1ev.com/newsflash/311341",
-    "https://www.d1ev.com/newsflash/311338",
-    "https://www.d1ev.com/newsflash/311332",
-    "https://www.d1ev.com/news/shichang/311322",
-    "https://www.d1ev.com/news/shichang/311320",
-    "https://www.d1ev.com/news/shichang/311318",
-    "https://www.d1ev.com/news/shichang/311317",
-    "https://www.d1ev.com/news/shichang/311309",
-    "https://www.d1ev.com/news/shichang/311307",
-    "https://www.d1ev.com/news/shichang/311301",
-    "https://www.d1ev.com/newsflash/311294",
-    "https://www.d1ev.com/newsflash/311340",
-    "https://www.d1ev.com/news/shichang/311310",
     "https://www.d1ev.com/newsflash/311337",
     "https://www.d1ev.com/newsflash/311336",
     "https://www.d1ev.com/news/qiye/311335",
@@ -1999,27 +1978,30 @@
     "https://www.d1ev.com/news/shichang/313590",
     "https://www.d1ev.com/carnews/xinche/313587",
     "https://www.d1ev.com/news/shichang/313583",
-    "https://www.d1ev.com/news/shichang/313582"
+    "https://www.d1ev.com/news/shichang/313582",
+    "https://www.d1ev.com/news/shichang/313611",
+    "https://www.d1ev.com/news/shichang/313607",
+    "https://www.d1ev.com/news/shichang/313600",
+    "https://www.d1ev.com/news/shichang/313605",
+    "https://www.d1ev.com/news/shichang/313597",
+    "https://www.d1ev.com/news/shichang/313595",
+    "https://www.d1ev.com/news/shichang/313593",
+    "https://www.d1ev.com/news/shichang/313592",
+    "https://www.d1ev.com/news/shichang/313609",
+    "https://www.d1ev.com/news/qiye/313601",
+    "https://www.d1ev.com/news/shichang/313613",
+    "https://www.d1ev.com/news/shichang/313612",
+    "https://www.d1ev.com/news/shichang/313608",
+    "https://www.d1ev.com/news/shichang/313606",
+    "https://www.d1ev.com/news/shichang/313604",
+    "https://www.d1ev.com/news/shichang/313603",
+    "https://www.d1ev.com/news/shichang/313602",
+    "https://www.d1ev.com/news/shichang/313599",
+    "https://www.d1ev.com/news/shichang/313598",
+    "https://www.d1ev.com/news/shichang/313596",
+    "https://www.d1ev.com/news/shichang/313594"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313350",
-      "title": "首款纯电M3原型车曝光 操控才是灵魂",
-      "source": "第一电动",
-      "pushedAt": 1791344839057
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313349",
-      "title": "铃木e-Sky 下月上市 电池用的还是比亚迪",
-      "source": "第一电动",
-      "pushedAt": 1791344839057
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313348",
-      "title": "特斯拉印度一周年交卷：14亿人的市场 13个月只卖了993辆",
-      "source": "第一电动",
-      "pushedAt": 1791344839057
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313351",
       "title": "电池用比亚迪 智驾用地平线！铃木新车核心部件换成中国货",
@@ -3339,6 +3321,132 @@
       "title": "博世创新工场与米链共创达成战略合作，共建创投孵化平台",
       "source": "第一电动",
       "pushedAt": 1791947188319
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313611",
+      "title": "奇瑞与博世签署欧洲ADAS定点，将搭载6款新车型",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313607",
+      "title": "奇瑞亮相2026巴黎车展 披露欧洲本地化与ESG进展",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313600",
+      "title": "小鹏G9L巴黎车展上市，法国售价74990欧元起",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313605",
+      "title": "UL利用水相工艺将木材工业副产品转化为碳纳米纤维 用于钠离子电池",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313597",
+      "title": "慕尼黑工业大学揭示：传感器薄膜可致自动驾驶汽车误判车道位置",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313595",
+      "title": "AI 框架为向工程师传授伦理决策能力提供了新途径",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313593",
+      "title": "研究人员设计新型交互方向盘 提升半自动驾驶表现",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313592",
+      "title": "上海出台汽车消费新政，鼓励存量燃油车置换新能源",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313609",
+      "title": "零跑的欧洲突围",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313601",
+      "title": "小鹏发布智能汽车解决方案业务，面向全球合作伙伴开放合作",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313613",
+      "title": "走进上汽乘用车&智己｜聚焦智能底盘前沿技术，共筑产业合作新生态",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313612",
+      "title": "关于中欧磋商共识，广汽集团发布声明",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313608",
+      "title": "蒂森克虏伯汽车技术与联合动力就线控转向达成战略合作",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313606",
+      "title": "55%再生钢零部件正式下线，奇瑞与首钢联合研发",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313604",
+      "title": "中欧磋商达成共识，中汽协、奇瑞、宝马都表态了！",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313603",
+      "title": "首次访华，宝马集团董事长聂科维关注了这些事",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313602",
+      "title": "奇瑞：支持中欧贸易投资磋商机制取得积极成果",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313599",
+      "title": "传统豪华的身份：不再默认，需要证明？",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313598",
+      "title": "伊利诺伊大学发明煤基碳纳米点 助力下一代二维电子器件",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313596",
+      "title": "新型人工智能框架助力机器更精细地理解三维空间",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313594",
+      "title": "何小鹏：Mona L05是一台有“少年感”的大五座SUV",
+      "source": "第一电动",
+      "pushedAt": 1791969290542
     }
   ],
   "lastUpdated": "2026-10-14"
