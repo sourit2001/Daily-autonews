@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/311314",
-    "https://www.d1ev.com/news/shichang/311313",
-    "https://www.d1ev.com/news/shichang/311312",
-    "https://www.d1ev.com/news/shichang/311311",
     "https://www.d1ev.com/news/shichang/311308",
     "https://www.d1ev.com/news/shichang/311306",
     "https://www.d1ev.com/news/shichang/311305",
@@ -1999,21 +1995,13 @@
     "https://www.d1ev.com/news/shichang/313622",
     "https://www.d1ev.com/news/shichang/313620",
     "https://www.d1ev.com/news/shichang/313617",
-    "https://www.d1ev.com/news/shichang/313616"
+    "https://www.d1ev.com/news/shichang/313616",
+    "https://www.d1ev.com/carnews/xinche/313627",
+    "https://www.d1ev.com/carnews/xinche/313625",
+    "https://www.d1ev.com/news/shichang/313626",
+    "https://www.d1ev.com/news/shichang/313624"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313353",
-      "title": "英国考虑对中国电动车加征关税，与欧盟政策对齐",
-      "source": "第一电动",
-      "pushedAt": 1791397000305
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313352",
-      "title": "奇瑞全球化3.0战略再落子：主品牌纳入全球体系，捷途品牌加速高端化",
-      "source": "第一电动",
-      "pushedAt": 1791397000305
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313356",
       "title": "FFAI与FFR 9月机器人销量265台创新高，累计出货817台",
@@ -3489,7 +3477,31 @@
       "title": "乘联分会：10月前11天乘用车零售45.9万辆，同比下降24%",
       "source": "第一电动",
       "pushedAt": 1791989398823
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313627",
+      "title": "捷途旅行者7 C-DM上市 售价15.29-17.29万",
+      "source": "第一电动",
+      "pushedAt": 1792007724612
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313625",
+      "title": "捷途旅行者7正式上市 售价13.99-17.99万",
+      "source": "第一电动",
+      "pushedAt": 1792007724612
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313626",
+      "title": "中欧汽车贸易磋商达成共识，长安、零跑、东风、广汽接连回应",
+      "source": "第一电动",
+      "pushedAt": 1792007724612
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313624",
+      "title": "12.59万起的捷途旅行者7，让硬派越野价格战越发“水深火热”了",
+      "source": "第一电动",
+      "pushedAt": 1792007724612
     }
   ],
-  "lastUpdated": "2026-10-14"
+  "lastUpdated": "2026-10-15"
 }
