@@ -1,18 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/311308",
-    "https://www.d1ev.com/news/shichang/311306",
-    "https://www.d1ev.com/news/shichang/311305",
-    "https://www.d1ev.com/news/shichang/311304",
-    "https://www.d1ev.com/news/shichang/311302",
-    "https://www.d1ev.com/news/qiye/311299",
-    "https://www.d1ev.com/news/qiye/311298",
-    "https://www.d1ev.com/news/qiye/311297",
-    "https://www.d1ev.com/newsflash/311365",
-    "https://www.d1ev.com/newsflash/311362",
-    "https://www.d1ev.com/newsflash/311360",
-    "https://www.d1ev.com/newsflash/311345",
-    "https://www.d1ev.com/newsflash/311368",
     "https://www.d1ev.com/newsflash/311361",
     "https://www.d1ev.com/newsflash/311351",
     "https://www.d1ev.com/newsflash/311349",
@@ -1999,27 +1986,22 @@
     "https://www.d1ev.com/carnews/xinche/313627",
     "https://www.d1ev.com/carnews/xinche/313625",
     "https://www.d1ev.com/news/shichang/313626",
-    "https://www.d1ev.com/news/shichang/313624"
+    "https://www.d1ev.com/news/shichang/313624",
+    "https://www.d1ev.com/news/shichang/313640",
+    "https://www.d1ev.com/news/shichang/313633",
+    "https://www.d1ev.com/carnews/xinche/313631",
+    "https://www.d1ev.com/carnews/xinche/313630",
+    "https://www.d1ev.com/carnews/xinche/313628",
+    "https://www.d1ev.com/news/shichang/313638",
+    "https://www.d1ev.com/carnews/xinche/313634",
+    "https://www.d1ev.com/news/shichang/313629",
+    "https://www.d1ev.com/carnews/xinche/313639",
+    "https://www.d1ev.com/news/shichang/313637",
+    "https://www.d1ev.com/carnews/xinche/313636",
+    "https://www.d1ev.com/carnews/xinche/313635",
+    "https://www.d1ev.com/news/shichang/313632"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313356",
-      "title": "FFAI与FFR 9月机器人销量265台创新高，累计出货817台",
-      "source": "第一电动",
-      "pushedAt": 1791417895274
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313354",
-      "title": "奇瑞集团前三季度销量超221万辆，出口超去年全年",
-      "source": "第一电动",
-      "pushedAt": 1791417895274
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313355",
-      "title": "10月1日乐道单日换电33341单，创历史新高",
-      "source": "第一电动",
-      "pushedAt": 1791417895274
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313373",
       "title": "小鹏G9L欧洲首次试生产 将亮相巴黎车展",
@@ -3501,6 +3483,84 @@
       "title": "12.59万起的捷途旅行者7，让硬派越野价格战越发“水深火热”了",
       "source": "第一电动",
       "pushedAt": 1792007724612
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313640",
+      "title": "青山工业首次亮相巴黎车展，展出蓝鲸智慧电驱平台及五款产品",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313633",
+      "title": "伊士曼携逾85年PVB中间膜创新成果亮相2026年glasstec",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313631",
+      "title": "A0级纯电 比亚迪二代海鸥10月20日上市",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313630",
+      "title": "预计又是爆款 小鹏Mona L05内饰官图发布",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313628",
+      "title": "设计审美迎合时代主流 雷克萨斯NX新车图解",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313638",
+      "title": "FFR与FFAI签署最终协议，以约2亿美元估值合并FFAI机器人业务",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313634",
+      "title": "马自达路测自研电动汽车架构SUV测试车",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313629",
+      "title": "航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313639",
+      "title": "焕新极氪7X：家庭纯电SUV“豪华进阶”",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313637",
+      "title": "蔚来10月13日新增2座充换电站，全国累计建成9602座",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313636",
+      "title": "道奇计划2027年底前投产Charger Hellcat",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313635",
+      "title": "2027款宝马M760 xDrive发布：最高570马力",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313632",
+      "title": "因时机器人推出RH37D1系列三指灵巧手",
+      "source": "第一电动",
+      "pushedAt": 1792032428104
     }
   ],
   "lastUpdated": "2026-10-15"
