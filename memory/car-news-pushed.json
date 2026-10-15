@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311355",
-    "https://www.d1ev.com/newsflash/311354",
     "https://www.d1ev.com/news/shichang/311353",
     "https://www.d1ev.com/newsflash/311350",
     "https://www.d1ev.com/newsflash/311381",
@@ -1999,21 +1997,11 @@
     "https://www.d1ev.com/news/shichang/313655",
     "https://www.d1ev.com/news/shichang/313656",
     "https://www.d1ev.com/news/shichang/313654",
-    "https://www.d1ev.com/news/qiye/313652"
+    "https://www.d1ev.com/news/qiye/313652",
+    "https://www.d1ev.com/carnews/xinche/313657",
+    "https://www.d1ev.com/news/shichang/313658"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313397",
-      "title": "国标无量化门槛、团标比行标更严苛!尊界刹车踏板支架断裂风波，揭开高端新能源汽车安全冗余乱象",
-      "source": "第一电动",
-      "pushedAt": 1791488229096
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313396",
-      "title": "尊界回应制动踏板支架问题：实际使用未现断裂，将提供免费升级",
-      "source": "第一电动",
-      "pushedAt": 1791488229096
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313399",
       "title": "限量1963台 兰博基尼Revuelto SV新车图解",
@@ -3429,7 +3417,19 @@
       "title": "没电机没脚蹬 特斯拉推出儿2-6岁童平衡车：1399元",
       "source": "第一电动",
       "pushedAt": 1792075007959
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313657",
+      "title": "小鹏MONA L05开启预售 预售价16.98-19.18万",
+      "source": "第一电动",
+      "pushedAt": 1792093055771
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313658",
+      "title": "长飞先进技术发布会召开 瞄准车规主驱及AI数据中心",
+      "source": "第一电动",
+      "pushedAt": 1792093055771
     }
   ],
-  "lastUpdated": "2026-10-15"
+  "lastUpdated": "2026-10-16"
 }
