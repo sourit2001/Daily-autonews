@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311392",
-    "https://www.d1ev.com/newsflash/311390",
-    "https://www.d1ev.com/newsflash/311398",
-    "https://www.d1ev.com/newsflash/311391",
-    "https://www.d1ev.com/news/shichang/311396",
-    "https://www.d1ev.com/news/qiye/311410",
-    "https://www.d1ev.com/newsflash/311409",
     "https://www.d1ev.com/news/shichang/311412",
     "https://www.d1ev.com/newsflash/311405",
     "https://www.d1ev.com/newsflash/311403",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/news/shichang/313681",
     "https://www.d1ev.com/carnews/xinche/313677",
     "https://www.d1ev.com/carnews/xinche/313676",
-    "https://www.d1ev.com/news/qiye/313672"
+    "https://www.d1ev.com/news/qiye/313672",
+    "https://www.d1ev.com/news/shichang/313693",
+    "https://www.d1ev.com/news/shichang/313691",
+    "https://www.d1ev.com/news/shichang/313689",
+    "https://www.d1ev.com/news/qiye/313692",
+    "https://www.d1ev.com/news/shichang/313690",
+    "https://www.d1ev.com/news/shichang/313688",
+    "https://www.d1ev.com/news/qiye/313687"
   ],
   "newsHistory": [
     {
@@ -3459,6 +3459,48 @@
       "title": "能飞的特斯拉来了！新一代Roadster国内开订：意向金33.2万元",
       "source": "第一电动",
       "pushedAt": 1792140100722
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313693",
+      "title": "欣旺达王明旺：三大趋势为先进电池产业打开发展空间",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313691",
+      "title": "泰矽微发布集成式触摸控制芯片TCAE15系列，进一步完善车规触控产品布局",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313689",
+      "title": "理想汽车芯片子公司，完成首轮16.25亿元融资协议",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313692",
+      "title": "长安汽车管理层重大调整：朱华荣请辞，赵非接棒，叶沛任总裁",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313690",
+      "title": "直面用户催单，曾清林发声：奕境X9全速交付，品质优先",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313688",
+      "title": "走进长安｜「枢启新程・同链聚势」创新技术展圆满落幕",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313687",
+      "title": "特斯拉Roadster会飞！何小鹏：非常酷 但能否落地要看指标",
+      "source": "第一电动",
+      "pushedAt": 1792160899389
     }
   ],
   "lastUpdated": "2026-10-16"
