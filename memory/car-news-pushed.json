@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/311353",
-    "https://www.d1ev.com/newsflash/311350",
-    "https://www.d1ev.com/newsflash/311381",
-    "https://www.d1ev.com/news/qiye/311369",
-    "https://www.d1ev.com/news/shichang/311385",
-    "https://www.d1ev.com/newsflash/311384",
-    "https://www.d1ev.com/newsflash/311383",
-    "https://www.d1ev.com/news/shichang/311379",
-    "https://www.d1ev.com/newsflash/311376",
-    "https://www.d1ev.com/news/shichang/311373",
-    "https://www.d1ev.com/newsflash/311372",
-    "https://www.d1ev.com/newsflash/311389",
     "https://www.d1ev.com/newsflash/311388",
     "https://www.d1ev.com/newsflash/311387",
     "https://www.d1ev.com/newsflash/311377",
@@ -1999,21 +1987,21 @@
     "https://www.d1ev.com/news/shichang/313654",
     "https://www.d1ev.com/news/qiye/313652",
     "https://www.d1ev.com/carnews/xinche/313657",
-    "https://www.d1ev.com/news/shichang/313658"
+    "https://www.d1ev.com/news/shichang/313658",
+    "https://www.d1ev.com/carnews/xinche/313670",
+    "https://www.d1ev.com/news/shichang/313668",
+    "https://www.d1ev.com/carnews/xinche/313667",
+    "https://www.d1ev.com/carnews/xinche/313663",
+    "https://www.d1ev.com/carnews/xinche/313662",
+    "https://www.d1ev.com/news/shichang/313669",
+    "https://www.d1ev.com/news/shichang/313659",
+    "https://www.d1ev.com/carnews/xinche/313666",
+    "https://www.d1ev.com/carnews/xinche/313665",
+    "https://www.d1ev.com/news/shichang/313664",
+    "https://www.d1ev.com/carnews/xinche/313661",
+    "https://www.d1ev.com/news/shichang/313660"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313399",
-      "title": "限量1963台 兰博基尼Revuelto SV新车图解",
-      "source": "第一电动",
-      "pushedAt": 1791504383023
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313398",
-      "title": "2026年第40周（9.28-10.4）上市新车汇总",
-      "source": "第一电动",
-      "pushedAt": 1791504383023
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313410",
       "title": "将于四季度上市 方程豹钛9陨石黑配色发布",
@@ -3429,6 +3417,78 @@
       "title": "长飞先进技术发布会召开 瞄准车规主驱及AI数据中心",
       "source": "第一电动",
       "pushedAt": 1792093055771
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313670",
+      "title": "特斯拉第二代Roadster正式亮相：真的能飞",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313668",
+      "title": "保时捷全球首发Mission S概念车",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313667",
+      "title": "激光雷达上车 新款与众06将于10月17日上市",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313663",
+      "title": "外观改动幅度明显 领克900L实车曝光",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313662",
+      "title": "2026款阿维塔06上市 售价21.99-22.99万元",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313669",
+      "title": "9月电池产业成绩单：产销高位，储能翻倍，出口提速",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313659",
+      "title": "因湃电池第30万套电池正式下线，为广汽自研",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313666",
+      "title": "智界RX将于10月25日开启首批车主交付",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313665",
+      "title": "QQ3摩登版以Neo Retro设计理念重新演绎经典",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313664",
+      "title": "奕境X9交付新进展：选装车型开启生产",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313661",
+      "title": "定位高于911 保时捷发布Mission S概念跑车",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313660",
+      "title": "赣锋锂业：前三季度净利润同比大增195倍",
+      "source": "第一电动",
+      "pushedAt": 1792118920385
     }
   ],
   "lastUpdated": "2026-10-16"
