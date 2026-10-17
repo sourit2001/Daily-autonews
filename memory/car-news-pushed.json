@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311413",
-    "https://www.d1ev.com/newsflash/311408",
-    "https://www.d1ev.com/newsflash/311406",
-    "https://www.d1ev.com/newsflash/311404",
-    "https://www.d1ev.com/news/shichang/311411",
     "https://www.d1ev.com/newsflash/311407",
     "https://www.d1ev.com/newsflash/311401",
     "https://www.d1ev.com/newsflash/311414",
@@ -1999,99 +1994,14 @@
     "https://www.d1ev.com/carnews/xinche/313696",
     "https://www.d1ev.com/news/qiye/313698",
     "https://www.d1ev.com/news/shichang/313697",
-    "https://www.d1ev.com/news/shichang/313695"
+    "https://www.d1ev.com/news/shichang/313695",
+    "https://www.d1ev.com/news/qiye/313704",
+    "https://www.d1ev.com/carnews/xinche/313702",
+    "https://www.d1ev.com/carnews/xinche/313701",
+    "https://www.d1ev.com/news/qiye/313705",
+    "https://www.d1ev.com/news/qiye/313703"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313439",
-      "title": "小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313436",
-      "title": "新款宝马7系上市：最高612马力 约94万起售",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313435",
-      "title": "现代汽车计划推出IONIQ 7与IONIQ 4两款新车",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313437",
-      "title": "大众ID Tiguan正式发布 续航里程最高600km",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313444",
-      "title": "斩获欧洲设计大奖，浩思动力X-Range C15打开增程市场新空间",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313442",
-      "title": "欧盟称中国将大幅削减对欧混合动力汽车出口",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313434",
-      "title": "三菱于10月19日在泰国公布第五代帕杰罗售价",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313443",
-      "title": "岚图2026秋招，扩容释放500+岗位",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313441",
-      "title": "车长增加425mm 比亚迪第二代海鸥开启盲订",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313440",
-      "title": "智界R7焕新版首批试驾车抵达全国200家门店",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313438",
-      "title": "吉利汽车正式宣布进军加拿大市场",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313433",
-      "title": "理想汽车公布2026款理想i6发布节奏",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313432",
-      "title": "吉利汽车正式进入加拿大市场",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313431",
-      "title": "2026年8月TOP30轿车销量投诉量对应点评",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313430",
-      "title": "涨价函又又又来了，汽车业站上成本“高墙”",
-      "source": "第一电动",
-      "pushedAt": 1791604351638
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313445",
       "title": "雷诺携多款新车及三款概念车亮相2026巴黎车展",
@@ -3489,6 +3399,36 @@
       "title": "中国碳化硅，造得出来之后",
       "source": "第一电动",
       "pushedAt": 1792204440307
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313704",
+      "title": "订单火爆的奕境X9上新！纯电版工信部公示：预计11月亮相",
+      "source": "第一电动",
+      "pushedAt": 1792224690298
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313702",
+      "title": "凯迪拉克XT5 PHEV智混四驱Air上市 售价29万",
+      "source": "第一电动",
+      "pushedAt": 1792224690298
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313701",
+      "title": "赛豆ME7完成申报 搭载豆包智能座舱",
+      "source": "第一电动",
+      "pushedAt": 1792224690298
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313705",
+      "title": "蔚来秦力洪：第三季度蔚来公司终端销量首次超越BBA三大厂商",
+      "source": "第一电动",
+      "pushedAt": 1792224690298
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313703",
+      "title": "SpaceX提供冷气推进器：详解第二代特斯拉Roadster为何能飞",
+      "source": "第一电动",
+      "pushedAt": 1792224690298
     }
   ],
   "lastUpdated": "2026-10-17"
