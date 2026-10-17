@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311414",
     "https://www.d1ev.com/news/qiye/311477",
     "https://www.d1ev.com/news/shichang/311448",
     "https://www.d1ev.com/newsflash/311446",
@@ -1999,39 +1998,10 @@
     "https://www.d1ev.com/news/qiye/313705",
     "https://www.d1ev.com/news/qiye/313703",
     "https://www.d1ev.com/news/qiye/313706",
-    "https://www.d1ev.com/news/qiye/313707"
+    "https://www.d1ev.com/news/qiye/313707",
+    "https://www.d1ev.com/carnews/xinche/313708"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313461",
-      "title": "谢霆锋入行29年为中国汽车品牌首代言，吉利银河战舰700上市16.98",
-      "source": "第一电动",
-      "pushedAt": 1791650807735
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313460",
-      "title": "吉利银河战舰700上市 售价18.98-37.98万元",
-      "source": "第一电动",
-      "pushedAt": 1791650807735
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/313458",
-      "title": "千里浩瀚使用里程与搭载增速“双第一”  加速推动智驾普惠向广、向深发展",
-      "source": "第一电动",
-      "pushedAt": 1791650807735
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313459",
-      "title": "江阳磁材深度解析：钐铁氮永磁的性能优势及车用产业化瓶颈",
-      "source": "第一电动",
-      "pushedAt": 1791650807735
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313457",
-      "title": "2026年8月乘用车自主品牌销量榜：比亚迪以368,323辆断层领跑丨盖世汽车研究院",
-      "source": "第一电动",
-      "pushedAt": 1791650807735
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/313462",
       "title": "盖世周报 | 立讯精密100%控股京西智行；佛瑞亚海拉斩获两大订单",
@@ -3375,7 +3345,13 @@
       "title": "马斯克遭踢馆！对手甩飞行车飞越特斯拉视频：喊话领先11年",
       "source": "第一电动",
       "pushedAt": 1792243579573
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313708",
+      "title": "埃安Ray7开启预售 预售价12.88-15.88万元",
+      "source": "第一电动",
+      "pushedAt": 1792255641968
     }
   ],
-  "lastUpdated": "2026-10-17"
+  "lastUpdated": "2026-10-18"
 }
