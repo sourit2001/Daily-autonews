@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/311477",
-    "https://www.d1ev.com/news/shichang/311448",
     "https://www.d1ev.com/newsflash/311446",
     "https://www.d1ev.com/newsflash/311445",
     "https://www.d1ev.com/newsflash/311490",
@@ -1999,7 +1997,9 @@
     "https://www.d1ev.com/news/qiye/313703",
     "https://www.d1ev.com/news/qiye/313706",
     "https://www.d1ev.com/news/qiye/313707",
-    "https://www.d1ev.com/carnews/xinche/313708"
+    "https://www.d1ev.com/carnews/xinche/313708",
+    "https://www.d1ev.com/carnews/xinche/313710",
+    "https://www.d1ev.com/news/shichang/313709"
   ],
   "newsHistory": [
     {
@@ -3351,6 +3351,18 @@
       "title": "埃安Ray7开启预售 预售价12.88-15.88万元",
       "source": "第一电动",
       "pushedAt": 1792255641968
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313710",
+      "title": "经典硬派回归 全新一代三菱帕杰罗新车图解",
+      "source": "第一电动",
+      "pushedAt": 1792280994326
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313709",
+      "title": "盖世周报 | 中欧汽车贸易磋商达成共识；三部门联合调查尊界V800刹车问题",
+      "source": "第一电动",
+      "pushedAt": 1792280994326
     }
   ],
   "lastUpdated": "2026-10-18"
