@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311557",
-    "https://www.d1ev.com/newsflash/311553",
-    "https://www.d1ev.com/carnews/xinche/311547",
-    "https://www.d1ev.com/newsflash/311543",
-    "https://www.d1ev.com/newsflash/311538",
-    "https://www.d1ev.com/newsflash/311535",
-    "https://www.d1ev.com/newsflash/311568",
-    "https://www.d1ev.com/newsflash/311567",
-    "https://www.d1ev.com/newsflash/311566",
-    "https://www.d1ev.com/news/shichang/311561",
-    "https://www.d1ev.com/news/shichang/311560",
-    "https://www.d1ev.com/news/shichang/311559",
     "https://www.d1ev.com/news/shichang/311558",
     "https://www.d1ev.com/newsflash/311556",
     "https://www.d1ev.com/newsflash/311555",
@@ -1999,7 +1987,19 @@
     "https://www.d1ev.com/newsflash/313721",
     "https://www.d1ev.com/newsflash/313718",
     "https://www.d1ev.com/news/qiye/313716",
-    "https://www.d1ev.com/news/qiye/313715"
+    "https://www.d1ev.com/news/qiye/313715",
+    "https://www.d1ev.com/newsflash/313774",
+    "https://www.d1ev.com/newsflash/313771",
+    "https://www.d1ev.com/news/qiye/313769",
+    "https://www.d1ev.com/newsflash/313768",
+    "https://www.d1ev.com/newsflash/313765",
+    "https://www.d1ev.com/newsflash/313776",
+    "https://www.d1ev.com/newsflash/313770",
+    "https://www.d1ev.com/news/shichang/313766",
+    "https://www.d1ev.com/newsflash/313775",
+    "https://www.d1ev.com/newsflash/313773",
+    "https://www.d1ev.com/newsflash/313772",
+    "https://www.d1ev.com/newsflash/313767"
   ],
   "newsHistory": [
     {
@@ -3645,6 +3645,78 @@
       "title": "特斯拉高管详解Roadster为何能飞：车身配备600升储气瓶",
       "source": "第一电动",
       "pushedAt": 1792312336814
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313774",
+      "title": "奔驰C300L纯电轿车申报：车长近5米轴距超3米 续航动力全曝光",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313771",
+      "title": "轴距加长空间更大！比亚迪第三代秦PLUS实车曝光 10月下旬见",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313769",
+      "title": "96项超级加配，埃安Ray7开启预售，预售价12.88万元起",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313768",
+      "title": "微软取消与Nscale合作 Nscale上市计划遇挫",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313765",
+      "title": "比亚迪第三代秦PLUS实车曝光 尺寸更大 10月下旬上市",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313776",
+      "title": "6款AI为追退款编谎恐吓还轰炸议员 最终全失败",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313770",
+      "title": "世界银行呼吁发展中国家开发小型AI模型 手机端侧运行助农业",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/313766",
+      "title": "E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313775",
+      "title": "特斯拉飞行跑车2028年量产，监管归属成难题",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313773",
+      "title": "DeepSeek网页搜索抓取API上线 千次调用收费5元",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313772",
+      "title": "日产本田9月在华销量暴跌超五成 双方联手研发车载系统谋突围",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/313767",
+      "title": "郭富城成奕境001号车主 奕境X9全国批量交付开启",
+      "source": "第一电动",
+      "pushedAt": 1792330998711
     }
   ],
   "lastUpdated": "2026-10-18"
