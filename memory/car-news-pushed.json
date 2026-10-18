@@ -1,8 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311446",
-    "https://www.d1ev.com/newsflash/311445",
-    "https://www.d1ev.com/newsflash/311490",
     "https://www.d1ev.com/newsflash/311486",
     "https://www.d1ev.com/news/shichang/311485",
     "https://www.d1ev.com/newsflash/311483",
@@ -1999,15 +1996,12 @@
     "https://www.d1ev.com/news/qiye/313707",
     "https://www.d1ev.com/carnews/xinche/313708",
     "https://www.d1ev.com/carnews/xinche/313710",
-    "https://www.d1ev.com/news/shichang/313709"
+    "https://www.d1ev.com/news/shichang/313709",
+    "https://www.d1ev.com/carnews/xinche/313713",
+    "https://www.d1ev.com/carnews/xinche/313712",
+    "https://www.d1ev.com/news/qiye/313711"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/313462",
-      "title": "盖世周报 | 立讯精密100%控股京西智行；佛瑞亚海拉斩获两大订单",
-      "source": "第一电动",
-      "pushedAt": 1791679055182
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313465",
       "title": "颜值暴击 比亚迪腾势N8推出3款新车色",
@@ -3363,6 +3357,24 @@
       "title": "盖世周报 | 中欧汽车贸易磋商达成共识；三部门联合调查尊界V800刹车问题",
       "source": "第一电动",
       "pushedAt": 1792280994326
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313713",
+      "title": "巨无霸电池塞爆同级 宝马纯电iX5续航再上调",
+      "source": "第一电动",
+      "pushedAt": 1792290927558
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/313712",
+      "title": "全新奥迪A8欲搬保时捷工厂 预计2030年投产",
+      "source": "第一电动",
+      "pushedAt": 1792290927558
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/313711",
+      "title": "曝智界将获独立造车资质：奇瑞把厂房和资质一起送出",
+      "source": "第一电动",
+      "pushedAt": 1792290927558
     }
   ],
   "lastUpdated": "2026-10-18"
