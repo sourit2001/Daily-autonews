@@ -1,31 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/311811",
-    "https://www.d1ev.com/newsflash/311807",
-    "https://www.d1ev.com/newsflash/311806",
-    "https://www.d1ev.com/newsflash/311805",
-    "https://www.d1ev.com/newsflash/311843",
-    "https://www.d1ev.com/newsflash/311845",
-    "https://www.d1ev.com/newsflash/311844",
-    "https://www.d1ev.com/newsflash/311841",
-    "https://www.d1ev.com/newsflash/311840",
-    "https://www.d1ev.com/newsflash/311836",
-    "https://www.d1ev.com/newsflash/311835",
-    "https://www.d1ev.com/newsflash/311833",
-    "https://www.d1ev.com/news/shichang/311842",
-    "https://www.d1ev.com/newsflash/311839",
-    "https://www.d1ev.com/newsflash/311838",
-    "https://www.d1ev.com/newsflash/311837",
-    "https://www.d1ev.com/newsflash/311834",
-    "https://www.d1ev.com/newsflash/311882",
-    "https://www.d1ev.com/newsflash/311873",
-    "https://www.d1ev.com/newsflash/311871",
-    "https://www.d1ev.com/news/qiye/311868",
-    "https://www.d1ev.com/newsflash/311867",
-    "https://www.d1ev.com/carnews/xinche/311864",
-    "https://www.d1ev.com/carnews/xinche/311863",
-    "https://www.d1ev.com/news/shichang/311862",
-    "https://www.d1ev.com/carnews/xinche/311857",
     "https://www.d1ev.com/carnews/xinche/311856",
     "https://www.d1ev.com/newsflash/311854",
     "https://www.d1ev.com/newsflash/311851",
@@ -1999,7 +1973,33 @@
     "https://www.d1ev.com/news/shichang/314035",
     "https://www.d1ev.com/newsflash/314032",
     "https://www.d1ev.com/newsflash/314026",
-    "https://www.d1ev.com/newsflash/314024"
+    "https://www.d1ev.com/newsflash/314024",
+    "https://www.d1ev.com/newsflash/314065",
+    "https://www.d1ev.com/carnews/xinche/314063",
+    "https://www.d1ev.com/newsflash/314061",
+    "https://www.d1ev.com/carnews/xinche/314059",
+    "https://www.d1ev.com/carnews/xinche/314058",
+    "https://www.d1ev.com/carnews/xinche/314057",
+    "https://www.d1ev.com/carnews/xinche/314053",
+    "https://www.d1ev.com/carnews/xinche/314052",
+    "https://www.d1ev.com/newsflash/314050",
+    "https://www.d1ev.com/carnews/xinche/314049",
+    "https://www.d1ev.com/newsflash/314056",
+    "https://www.d1ev.com/newsflash/314055",
+    "https://www.d1ev.com/newsflash/314046",
+    "https://www.d1ev.com/newsflash/314044",
+    "https://www.d1ev.com/newsflash/314043",
+    "https://www.d1ev.com/newsflash/314042",
+    "https://www.d1ev.com/newsflash/314041",
+    "https://www.d1ev.com/newsflash/314040",
+    "https://www.d1ev.com/newsflash/314064",
+    "https://www.d1ev.com/newsflash/314062",
+    "https://www.d1ev.com/newsflash/314060",
+    "https://www.d1ev.com/carnews/xinche/314054",
+    "https://www.d1ev.com/news/qiye/314051",
+    "https://www.d1ev.com/newsflash/314048",
+    "https://www.d1ev.com/newsflash/314047",
+    "https://www.d1ev.com/newsflash/314045"
   ],
   "newsHistory": [
     {
@@ -4503,6 +4503,162 @@
       "title": "国家数据集团雄安成立 专攻数据资源开发",
       "source": "第一电动",
       "pushedAt": 1792520055992
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314065",
+      "title": "比亚迪第二代海鸥上市 无仪表设计黑屏也能看关键信息 6.29万起",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314063",
+      "title": "南京企业造飞行汽车亮相：舱体与底盘可分离",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314061",
+      "title": "宝马旗舰纯电SUV iX7谍照曝光 双电机578马力",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314059",
+      "title": "比亚迪第三代秦PLUS实车外观曝光",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314058",
+      "title": "领克900L申报图 提供55kWh和70kWh电池组",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314057",
+      "title": "新款吉利帝豪向上系列车型将于10月25日上市",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314053",
+      "title": "比亚迪第二代海鸥上市 售价6.59-9.99万元",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314052",
+      "title": "配置升级 阿尔法T5将于10月23日上市",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314050",
+      "title": "启境汽车规划换电新车型，华为宁德时代合作首款车2027年推出",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314049",
+      "title": "大众高尔夫GTI 50周年限量版开启预售",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314056",
+      "title": "二手平台低价兜售AI大模型破解版 专家提醒有泄露风险",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314055",
+      "title": "OpenAI承认AI智能体曾关闭内部监控警报，原因成谜",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314046",
+      "title": "Netflix纪录片AI失控被批失真，HuggingFace CEO公开反驳",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314044",
+      "title": "Meta AI助手Muse上线40天美国下载量破千万 跻身历史第12款",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314043",
+      "title": "OpenAI新模型攻克COBOL等老语言 迁移准确率飙至97.9%",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314042",
+      "title": "奔驰高管：我们客户对增程车没需求 插混续航够用了",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314041",
+      "title": "谷歌车载Gemini添个人智能，打通Gmail日历地图数据",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314040",
+      "title": "通用汽车关闭底特律电池工厂 官方称与电动战略无关",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314064",
+      "title": "法拉利CEO给特斯拉Roadster打满分 称创新永无止境",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314062",
+      "title": "特斯拉手机钥匙被赞断层第一 博主称一次没失误过",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314060",
+      "title": "荣耀人形机器人闪电与马拉松传奇萨维、越野跑名将赵家驹同场竞速",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314054",
+      "title": "摆脱丰田技术 斯巴鲁打造全新纯电旅行车",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/314051",
+      "title": "特斯拉能飞我们就被甩开了吗 人民日报：不必妄自菲薄！",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314048",
+      "title": "奔驰明确表态不看好增程路线 称插混已满足用户需求",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314047",
+      "title": "DeepSeek全面开源内部推理框架DeepInfer",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314045",
+      "title": "ChatGPT对话可上锁了！四位数PIN码保护隐私",
+      "source": "第一电动",
+      "pushedAt": 1792551291081
     }
   ],
   "lastUpdated": "2026-10-21"
