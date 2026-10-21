@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/311964",
-    "https://www.d1ev.com/news/qiye/311959",
-    "https://www.d1ev.com/news/shichang/311975",
-    "https://www.d1ev.com/news/shichang/311974",
-    "https://www.d1ev.com/news/shichang/311963",
-    "https://www.d1ev.com/news/shichang/311961",
-    "https://www.d1ev.com/news/shichang/311988",
-    "https://www.d1ev.com/news/shichang/311986",
     "https://www.d1ev.com/news/shichang/311980",
     "https://www.d1ev.com/news/shichang/311984",
     "https://www.d1ev.com/news/shichang/311981",
@@ -1999,7 +1991,15 @@
     "https://www.d1ev.com/news/qiye/314141",
     "https://www.d1ev.com/newsflash/314138",
     "https://www.d1ev.com/newsflash/314136",
-    "https://www.d1ev.com/newsflash/314134"
+    "https://www.d1ev.com/newsflash/314134",
+    "https://www.d1ev.com/newsflash/314182",
+    "https://www.d1ev.com/newsflash/314181",
+    "https://www.d1ev.com/newsflash/314179",
+    "https://www.d1ev.com/newsflash/314178",
+    "https://www.d1ev.com/newsflash/314177",
+    "https://www.d1ev.com/newsflash/314184",
+    "https://www.d1ev.com/news/shichang/314183",
+    "https://www.d1ev.com/news/shichang/314180"
   ],
   "newsHistory": [
     {
@@ -5025,7 +5025,55 @@
       "title": "问界汽车神木路口以139.1km/h撞击灯柱起火 司机遇难",
       "source": "第一电动",
       "pushedAt": 1792594356104
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314182",
+      "title": "华为小艺AI快捷栏跳票！10月底上线改为11月初分批推送",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314181",
+      "title": "腾讯内测AI互动社区懂了鸭 输入文字就能生成3D课件",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314179",
+      "title": "英伟达携六供应商扩产，能否驱散AI泡沫担忧",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314178",
+      "title": "电动汽车动力电池在役检测新国标发布 2027年3月起实施",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314177",
+      "title": "谷歌放弃云业务短期收入转投AI研发",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314184",
+      "title": "宁德时代A股暴跌12%市值蒸发千亿 公司回应需求不悲观",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314183",
+      "title": "雷军：没有安全，其他都是零！小米目标做同档最安全的车",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314180",
+      "title": "张建勇：北汽以 \"三智\" 阵地仗破局差异化竞争",
+      "source": "第一电动",
+      "pushedAt": 1792612360362
     }
   ],
-  "lastUpdated": "2026-10-21"
+  "lastUpdated": "2026-10-22"
 }
