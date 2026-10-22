@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312099",
-    "https://www.d1ev.com/carnews/xinche/312098",
-    "https://www.d1ev.com/news/shichang/312097",
-    "https://www.d1ev.com/news/shichang/312100",
-    "https://www.d1ev.com/news/shichang/312118",
-    "https://www.d1ev.com/news/shichang/312117",
-    "https://www.d1ev.com/news/shichang/312116",
-    "https://www.d1ev.com/carnews/xinche/312111",
-    "https://www.d1ev.com/carnews/xinche/312110",
-    "https://www.d1ev.com/carnews/xinche/312109",
-    "https://www.d1ev.com/carnews/xinche/312101",
     "https://www.d1ev.com/news/shichang/312115",
     "https://www.d1ev.com/news/qiye/312114",
     "https://www.d1ev.com/news/shichang/312102",
@@ -1999,21 +1988,20 @@
     "https://www.d1ev.com/news/qiye/314272",
     "https://www.d1ev.com/newsflash/314271",
     "https://www.d1ev.com/newsflash/314270",
-    "https://www.d1ev.com/newsflash/314269"
+    "https://www.d1ev.com/newsflash/314269",
+    "https://www.d1ev.com/news/shichang/314292",
+    "https://www.d1ev.com/newsflash/314291",
+    "https://www.d1ev.com/newsflash/314301",
+    "https://www.d1ev.com/newsflash/314300",
+    "https://www.d1ev.com/newsflash/314299",
+    "https://www.d1ev.com/newsflash/314297",
+    "https://www.d1ev.com/newsflash/314296",
+    "https://www.d1ev.com/newsflash/314294",
+    "https://www.d1ev.com/newsflash/314298",
+    "https://www.d1ev.com/newsflash/314295",
+    "https://www.d1ev.com/news/shichang/314293"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313657",
-      "title": "小鹏MONA L05开启预售 预售价16.98-19.18万",
-      "source": "第一电动",
-      "pushedAt": 1792093055771
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313658",
-      "title": "长飞先进技术发布会召开 瞄准车规主驱及AI数据中心",
-      "source": "第一电动",
-      "pushedAt": 1792093055771
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313670",
       "title": "特斯拉第二代Roadster正式亮相：真的能飞",
@@ -5505,7 +5493,73 @@
       "title": "监管总局：绝不能让营销话术成安全隐患遮羞布",
       "source": "第一电动",
       "pushedAt": 1792680647844
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314292",
+      "title": "捷达M6上市，35年“国民神车”的新能源转身",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314291",
+      "title": "13.99万起售 北汽星钽5X预售24小时订单破1.7万台",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314301",
+      "title": "理想i6实测续航811公里 比官方标称还多跑31公里",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314300",
+      "title": "黑石总裁反驳AI泡沫论：需求近乎抛物线增长 根本跟不上",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314299",
+      "title": "极米记得AI记忆手环L1上架：腕上胸前两形态随时切换",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314297",
+      "title": "华为乾崑智驾ADS5各版本配置差异公布，Max版配896线激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314296",
+      "title": "盖茨警告：AI将带来二十年颠覆性变革，社会或分裂成两派",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314294",
+      "title": "腾势N8将于10月26日开启小订 30英寸巨幕屏/续航1003km",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314298",
+      "title": "问界汽车神木路口139km/h撞灯柱起火 司机遇难",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314295",
+      "title": "一汽广汽成立联合工作组 南北车企协同造车提速",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314293",
+      "title": "​短期热度，定不了长期残值",
+      "source": "第一电动",
+      "pushedAt": 1792698076811
     }
   ],
-  "lastUpdated": "2026-10-22"
+  "lastUpdated": "2026-10-23"
 }
