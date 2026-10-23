@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312220",
-    "https://www.d1ev.com/carnews/xinche/312218",
-    "https://www.d1ev.com/news/shichang/312217",
-    "https://www.d1ev.com/news/shichang/312262",
-    "https://www.d1ev.com/news/qiye/312261",
     "https://www.d1ev.com/news/shichang/312259",
     "https://www.d1ev.com/news/qiye/312257",
     "https://www.d1ev.com/news/shichang/312250",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/314403",
     "https://www.d1ev.com/newsflash/314402",
     "https://www.d1ev.com/newsflash/314398",
-    "https://www.d1ev.com/newsflash/314397"
+    "https://www.d1ev.com/newsflash/314397",
+    "https://www.d1ev.com/newsflash/314430",
+    "https://www.d1ev.com/newsflash/314429",
+    "https://www.d1ev.com/newsflash/314428",
+    "https://www.d1ev.com/newsflash/314427",
+    "https://www.d1ev.com/newsflash/314433"
   ],
   "newsHistory": [
     {
@@ -6051,7 +6051,37 @@
       "title": "比亚迪第二代海豹07内饰公布 车长超5米配激光雷达",
       "source": "第一电动",
       "pushedAt": 1792766682835
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314430",
+      "title": "33.5万起！2027款坦克500上市 智驾座舱大升级",
+      "source": "第一电动",
+      "pushedAt": 1792784586563
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314429",
+      "title": "腾势N8四款内饰配色亮相，配30英寸巨幕屏，10月26日开启小订",
+      "source": "第一电动",
+      "pushedAt": 1792784586563
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314428",
+      "title": "二代海豹07内饰官图发布 零重力座椅帝瓦雷音响配齐",
+      "source": "第一电动",
+      "pushedAt": 1792784586563
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314427",
+      "title": "新能源车10月卖107万辆 是燃油车两倍 渗透率近67%",
+      "source": "第一电动",
+      "pushedAt": 1792784586563
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314433",
+      "title": "方盒子造型+2.0T插混 魏牌二代蓝山10月27日全球首秀",
+      "source": "第一电动",
+      "pushedAt": 1792784586563
     }
   ],
-  "lastUpdated": "2026-10-23"
+  "lastUpdated": "2026-10-24"
 }
