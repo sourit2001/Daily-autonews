@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/312287",
-    "https://www.d1ev.com/news/shichang/312284",
     "https://www.d1ev.com/carnews/xinche/312311",
     "https://www.d1ev.com/news/shichang/312309",
     "https://www.d1ev.com/news/shichang/312310",
@@ -1999,15 +1997,11 @@
     "https://www.d1ev.com/newsflash/314473",
     "https://www.d1ev.com/newsflash/314478",
     "https://www.d1ev.com/newsflash/314472",
-    "https://www.d1ev.com/newsflash/314471"
+    "https://www.d1ev.com/newsflash/314471",
+    "https://www.d1ev.com/newsflash/314483",
+    "https://www.d1ev.com/newsflash/314482"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313708",
-      "title": "埃安Ray7开启预售 预售价12.88-15.88万元",
-      "source": "第一电动",
-      "pushedAt": 1792255641968
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313710",
       "title": "经典硬派回归 全新一代三菱帕杰罗新车图解",
@@ -6285,7 +6279,19 @@
       "title": "腾讯WorkBuddy接入Kimi最强模型K3.1Pro 支持百万上下文",
       "source": "第一电动",
       "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314483",
+      "title": "Meta AI助手Muse分享功能泄露敏感信息 官方紧急暂停",
+      "source": "第一电动",
+      "pushedAt": 1792861727233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314482",
+      "title": "国内AI词元日均消耗500万亿 价格涨近一倍",
+      "source": "第一电动",
+      "pushedAt": 1792861727233
     }
   ],
-  "lastUpdated": "2026-10-24"
+  "lastUpdated": "2026-10-25"
 }
