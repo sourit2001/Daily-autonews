@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312295",
-    "https://www.d1ev.com/news/shichang/312291",
-    "https://www.d1ev.com/news/shichang/312286",
-    "https://www.d1ev.com/news/shichang/312306",
-    "https://www.d1ev.com/news/shichang/312305",
-    "https://www.d1ev.com/news/qiye/312301",
-    "https://www.d1ev.com/news/shichang/312299",
-    "https://www.d1ev.com/news/shichang/312298",
-    "https://www.d1ev.com/news/shichang/312297",
-    "https://www.d1ev.com/news/shichang/312296",
-    "https://www.d1ev.com/news/qiye/312289",
     "https://www.d1ev.com/news/qiye/312287",
     "https://www.d1ev.com/news/shichang/312284",
     "https://www.d1ev.com/carnews/xinche/312311",
@@ -1999,21 +1988,20 @@
     "https://www.d1ev.com/newsflash/314460",
     "https://www.d1ev.com/newsflash/314459",
     "https://www.d1ev.com/newsflash/314451",
-    "https://www.d1ev.com/newsflash/314446"
+    "https://www.d1ev.com/newsflash/314446",
+    "https://www.d1ev.com/newsflash/314479",
+    "https://www.d1ev.com/newsflash/314477",
+    "https://www.d1ev.com/newsflash/314474",
+    "https://www.d1ev.com/newsflash/314481",
+    "https://www.d1ev.com/newsflash/314480",
+    "https://www.d1ev.com/newsflash/314476",
+    "https://www.d1ev.com/newsflash/314475",
+    "https://www.d1ev.com/newsflash/314473",
+    "https://www.d1ev.com/newsflash/314478",
+    "https://www.d1ev.com/newsflash/314472",
+    "https://www.d1ev.com/newsflash/314471"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/313706",
-      "title": "巨无霸电池塞爆同级！宝马纯电iX5续航再上调：碾压特斯拉",
-      "source": "第一电动",
-      "pushedAt": 1792243579573
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313707",
-      "title": "马斯克遭踢馆！对手甩飞行车飞越特斯拉视频：喊话领先11年",
-      "source": "第一电动",
-      "pushedAt": 1792243579573
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313708",
       "title": "埃安Ray7开启预售 预售价12.88-15.88万元",
@@ -6231,6 +6219,72 @@
       "title": "数十万辆孤儿车修车无门！工信部出手了",
       "source": "第一电动",
       "pushedAt": 1792830923992
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314479",
+      "title": "方程豹钛9定档11月15日后上市 鲨鱼皮卡随后交付",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314477",
+      "title": "长城魏牌高山8HEV定档10月26日上市，预售价27.58万起标配激光雷达",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314474",
+      "title": "长城魏牌高山8HEV将于10月26日上市，预订价27.58万元起",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314481",
+      "title": "特斯拉Roadster飞越大桥视频系AI生成 官方演示实为封闭测试场",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314480",
+      "title": "捷途山海L7PLUS新增智驾版 激光雷达加持13.99万起",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314476",
+      "title": "腾势N8八款车色公布，纯电续航1003km，10月26日开启小订",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314475",
+      "title": "14.99万起！捷途山海L7 PLUS增两款智驾版 纯电续航220km",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314473",
+      "title": "小鹏欧洲四国销量破万 G9L奥地利试制下线",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314478",
+      "title": "雷军也想开澎程探索版去海边待一天 网友晒图后回复羡慕",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314472",
+      "title": "小鹏副总裁回应老登风波：内部调侃被上纲上线 悬赏百万证清白",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314471",
+      "title": "腾讯WorkBuddy接入Kimi最强模型K3.1Pro 支持百万上下文",
+      "source": "第一电动",
+      "pushedAt": 1792849647770
     }
   ],
   "lastUpdated": "2026-10-24"
