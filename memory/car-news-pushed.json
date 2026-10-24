@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312259",
-    "https://www.d1ev.com/news/qiye/312257",
-    "https://www.d1ev.com/news/shichang/312250",
-    "https://www.d1ev.com/news/qiye/312249",
-    "https://www.d1ev.com/news/shichang/312256",
-    "https://www.d1ev.com/news/shichang/312263",
-    "https://www.d1ev.com/news/qiye/312260",
-    "https://www.d1ev.com/news/shichang/312258",
-    "https://www.d1ev.com/news/shichang/312255",
-    "https://www.d1ev.com/carnews/xinche/312252",
-    "https://www.d1ev.com/news/shichang/312251",
-    "https://www.d1ev.com/news/qiye/312264",
     "https://www.d1ev.com/carnews/xinche/312277",
     "https://www.d1ev.com/carnews/xinche/312273",
     "https://www.d1ev.com/carnews/xinche/312272",
@@ -1999,45 +1987,21 @@
     "https://www.d1ev.com/newsflash/314429",
     "https://www.d1ev.com/newsflash/314428",
     "https://www.d1ev.com/newsflash/314427",
-    "https://www.d1ev.com/newsflash/314433"
+    "https://www.d1ev.com/newsflash/314433",
+    "https://www.d1ev.com/carnews/xinche/314443",
+    "https://www.d1ev.com/newsflash/314436",
+    "https://www.d1ev.com/carnews/xinche/314434",
+    "https://www.d1ev.com/newsflash/314445",
+    "https://www.d1ev.com/newsflash/314444",
+    "https://www.d1ev.com/newsflash/314440",
+    "https://www.d1ev.com/newsflash/314439",
+    "https://www.d1ev.com/newsflash/314438",
+    "https://www.d1ev.com/newsflash/314437",
+    "https://www.d1ev.com/carnews/xinche/314442",
+    "https://www.d1ev.com/carnews/xinche/314441",
+    "https://www.d1ev.com/newsflash/314435"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313700",
-      "title": "机甲设计 新一代北京现代伊兰特亮相",
-      "source": "第一电动",
-      "pushedAt": 1792204440307
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313699",
-      "title": "智能大掀背 一汽大众ID.AURA L5官图首秀",
-      "source": "第一电动",
-      "pushedAt": 1792204440307
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313696",
-      "title": "尺寸看齐问界M8 尚界Z9现身新车申报名录",
-      "source": "第一电动",
-      "pushedAt": 1792204440307
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313698",
-      "title": "\"这个我们真没有\" 特斯拉Roadster腾空起飞，蔚小理如何评价？",
-      "source": "第一电动",
-      "pushedAt": 1792204440307
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313697",
-      "title": "圆满落幕｜智驭向新・智能底盘前瞻技术展——走进 “大底盘”",
-      "source": "第一电动",
-      "pushedAt": 1792204440307
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313695",
-      "title": "中国碳化硅，造得出来之后",
-      "source": "第一电动",
-      "pushedAt": 1792204440307
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/313704",
       "title": "订单火爆的奕境X9上新！纯电版工信部公示：预计11月亮相",
@@ -6081,6 +6045,78 @@
       "title": "方盒子造型+2.0T插混 魏牌二代蓝山10月27日全球首秀",
       "source": "第一电动",
       "pushedAt": 1792784586563
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314443",
+      "title": "2027款坦克500上市：售价33.5万起",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314436",
+      "title": "雷军宣布小米纽北Workshop启用，神秘新车SU7 Ultra特别版现身",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314434",
+      "title": "底盘升级 本田Passport TrailSport新车图解",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314445",
+      "title": "亚马逊CEO：AI推理成本还得降九成 自研芯片挑大梁",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314444",
+      "title": "英国豪掷6亿英镑应对AI风险，建生物安全实验室",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314440",
+      "title": "Meta收购前员工创立的AI数据分析平台Sundial",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314439",
+      "title": "OpenAI宣布前沿模型训练断网 改用缓存网页模拟互联网",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314438",
+      "title": "OpenAI强化AI安全管控：前沿模型训练期间禁止访问实时互联网",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314437",
+      "title": "谷歌CEO：AI完全自主改进自身还很远",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314442",
+      "title": "比亚迪新海豹07内饰发布：车长超5米",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314441",
+      "title": "水平对置发动机 斯巴鲁将在日本推新款WRX",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314435",
+      "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文，代码与Agent能力逼近最强闭源模型",
+      "source": "第一电动",
+      "pushedAt": 1792810474353
     }
   ],
   "lastUpdated": "2026-10-24"
