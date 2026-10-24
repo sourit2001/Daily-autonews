@@ -1,7 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/312311",
-    "https://www.d1ev.com/news/shichang/312309",
     "https://www.d1ev.com/news/shichang/312310",
     "https://www.d1ev.com/news/shichang/312308",
     "https://www.d1ev.com/carnews/xinche/312329",
@@ -1999,21 +1997,11 @@
     "https://www.d1ev.com/newsflash/314472",
     "https://www.d1ev.com/newsflash/314471",
     "https://www.d1ev.com/newsflash/314483",
-    "https://www.d1ev.com/newsflash/314482"
+    "https://www.d1ev.com/newsflash/314482",
+    "https://www.d1ev.com/newsflash/314485",
+    "https://www.d1ev.com/news/shichang/314484"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313710",
-      "title": "经典硬派回归 全新一代三菱帕杰罗新车图解",
-      "source": "第一电动",
-      "pushedAt": 1792280994326
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/313709",
-      "title": "盖世周报 | 中欧汽车贸易磋商达成共识；三部门联合调查尊界V800刹车问题",
-      "source": "第一电动",
-      "pushedAt": 1792280994326
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313713",
       "title": "巨无霸电池塞爆同级 宝马纯电iX5续航再上调",
@@ -6291,6 +6279,18 @@
       "title": "国内AI词元日均消耗500万亿 价格涨近一倍",
       "source": "第一电动",
       "pushedAt": 1792861727233
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314485",
+      "title": "奇瑞计划明年进军加拿大市场，有望成首家在当地设厂的中国车企",
+      "source": "第一电动",
+      "pushedAt": 1792886151465
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314484",
+      "title": "盖世周报 | 宁德时代与奇瑞再设合资公司；欧摩威获国内头部车企定点",
+      "source": "第一电动",
+      "pushedAt": 1792886151465
     }
   ],
   "lastUpdated": "2026-10-25"
