@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312342",
-    "https://www.d1ev.com/news/shichang/312340",
-    "https://www.d1ev.com/news/shichang/312339",
-    "https://www.d1ev.com/news/qiye/312336",
-    "https://www.d1ev.com/news/shichang/312365",
-    "https://www.d1ev.com/news/qiye/312367",
-    "https://www.d1ev.com/news/shichang/312377",
     "https://www.d1ev.com/carnews/xinche/312374",
     "https://www.d1ev.com/carnews/xinche/312373",
     "https://www.d1ev.com/carnews/xinche/312372",
@@ -1999,27 +1992,16 @@
     "https://www.d1ev.com/newsflash/314527",
     "https://www.d1ev.com/newsflash/314520",
     "https://www.d1ev.com/newsflash/314517",
-    "https://www.d1ev.com/newsflash/314516"
+    "https://www.d1ev.com/newsflash/314516",
+    "https://www.d1ev.com/newsflash/314536",
+    "https://www.d1ev.com/newsflash/314534",
+    "https://www.d1ev.com/news/qiye/314532",
+    "https://www.d1ev.com/newsflash/314537",
+    "https://www.d1ev.com/newsflash/314531",
+    "https://www.d1ev.com/newsflash/314535",
+    "https://www.d1ev.com/newsflash/314533"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/313779",
-      "title": "大众安徽双车上市 与众07双十一惊爆价9.99万起",
-      "source": "第一电动",
-      "pushedAt": 1792342953668
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/313778",
-      "title": "大众ID.4美国召回超2.2万辆 充电上限强制锁80%",
-      "source": "第一电动",
-      "pushedAt": 1792342953668
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/313777",
-      "title": "英伟达优化KimiK3推理速度提升1.68倍",
-      "source": "第一电动",
-      "pushedAt": 1792342953668
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/313796",
       "title": "新款与众07上市 售价10.99-14.99万元",
@@ -6171,7 +6153,49 @@
       "title": "腾势闪充桩被燃油车占位怎么办？官方支招用12123一键挪车",
       "source": "第一电动",
       "pushedAt": 1792936977787
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314536",
+      "title": "34.98万起 红旗硬派越野G919上市 4.5秒破百",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314534",
+      "title": "全新smart精灵2号蓝色版实车曝光 11月5日上市续航410km",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/314532",
+      "title": "搭载华为乾崑ADS 5与鸿蒙座舱6，猛士X700正式上市21.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314537",
+      "title": "国内首部AI全流程院线长片票房破116万 制作历时两年",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314531",
+      "title": "韩国KRAFTON发布30B开源大模型 聚焦韩语性能超Meta同量级",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314535",
+      "title": "Claude桌面应用新版界面翻车！用户吐槽信息密度低像ChatGPT",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314533",
+      "title": "腾势Z9GT登陆香港 售价99.8万港元",
+      "source": "第一电动",
+      "pushedAt": 1792953642893
     }
   ],
-  "lastUpdated": "2026-10-25"
+  "lastUpdated": "2026-10-26"
 }
