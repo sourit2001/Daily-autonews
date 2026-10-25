@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312310",
-    "https://www.d1ev.com/news/shichang/312308",
-    "https://www.d1ev.com/carnews/xinche/312329",
-    "https://www.d1ev.com/carnews/xinche/312328",
-    "https://www.d1ev.com/carnews/xinche/312327",
-    "https://www.d1ev.com/news/qiye/312321",
-    "https://www.d1ev.com/news/shichang/312332",
-    "https://www.d1ev.com/news/qiye/312323",
-    "https://www.d1ev.com/news/shichang/312319",
-    "https://www.d1ev.com/news/shichang/312334",
-    "https://www.d1ev.com/news/shichang/312333",
-    "https://www.d1ev.com/news/shichang/312331",
     "https://www.d1ev.com/news/shichang/312330",
     "https://www.d1ev.com/news/shichang/312326",
     "https://www.d1ev.com/news/qiye/312325",
@@ -1999,27 +1987,21 @@
     "https://www.d1ev.com/newsflash/314483",
     "https://www.d1ev.com/newsflash/314482",
     "https://www.d1ev.com/newsflash/314485",
-    "https://www.d1ev.com/news/shichang/314484"
+    "https://www.d1ev.com/news/shichang/314484",
+    "https://www.d1ev.com/carnews/xinche/314495",
+    "https://www.d1ev.com/newsflash/314493",
+    "https://www.d1ev.com/carnews/xinche/314492",
+    "https://www.d1ev.com/carnews/xinche/314491",
+    "https://www.d1ev.com/carnews/xinche/314490",
+    "https://www.d1ev.com/carnews/xinche/314488",
+    "https://www.d1ev.com/newsflash/314489",
+    "https://www.d1ev.com/newsflash/314487",
+    "https://www.d1ev.com/newsflash/314497",
+    "https://www.d1ev.com/newsflash/314496",
+    "https://www.d1ev.com/newsflash/314494",
+    "https://www.d1ev.com/newsflash/314486"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313713",
-      "title": "巨无霸电池塞爆同级 宝马纯电iX5续航再上调",
-      "source": "第一电动",
-      "pushedAt": 1792290927558
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/313712",
-      "title": "全新奥迪A8欲搬保时捷工厂 预计2030年投产",
-      "source": "第一电动",
-      "pushedAt": 1792290927558
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/313711",
-      "title": "曝智界将获独立造车资质：奇瑞把厂房和资质一起送出",
-      "source": "第一电动",
-      "pushedAt": 1792290927558
-    },
     {
       "url": "https://www.d1ev.com/newsflash/313763",
       "title": "10.97万起！吉利星瑞L PLUS上市，首款激光雷达燃油轿车来了",
@@ -6291,6 +6273,78 @@
       "title": "盖世周报 | 宁德时代与奇瑞再设合资公司；欧摩威获国内头部车企定点",
       "source": "第一电动",
       "pushedAt": 1792886151465
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314495",
+      "title": "升级新一代电气化架构 新款吉利博越上市",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314493",
+      "title": "沃尔沃放大招！2030年前推13款新车，2027年低价电动车来了",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314492",
+      "title": "与众09上市：德系底盘+中国智驾buff叠满",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314491",
+      "title": "奇瑞LEPAS Aura双门猎装车亮相：豹子姿态",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314490",
+      "title": "东风风神L8+正式上市：限时12.99万起",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314488",
+      "title": "长城魏牌高山8 HEV上市定档：预售27.58万起",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314489",
+      "title": "球员授权AI分身赚钱，还能拦截未授权内容",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314487",
+      "title": "中美同步推自动驾驶专属青色指示灯  L3级才能亮",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314497",
+      "title": "Claude Opus 5.5被曝静默削弱逆向能力 安全护栏中途拦截",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314496",
+      "title": "斯巴鲁缩短40%开发周期 用电脑仿真替代实车碰撞测试",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314494",
+      "title": "岚图销售耐心接待小孩哥获赞 家长联系门店计划买车",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314486",
+      "title": "0.81秒破百！特斯拉新款Roadster洛杉矶展出，只让看不让摸",
+      "source": "第一电动",
+      "pushedAt": 1792896684943
     }
   ],
   "lastUpdated": "2026-10-25"
