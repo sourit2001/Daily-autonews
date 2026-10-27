@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/312612",
-    "https://www.d1ev.com/news/qiye/312613",
-    "https://www.d1ev.com/news/shichang/312615",
-    "https://www.d1ev.com/carnews/xinche/312636",
     "https://www.d1ev.com/carnews/xinche/312632",
     "https://www.d1ev.com/carnews/xinche/312631",
     "https://www.d1ev.com/carnews/xinche/312630",
@@ -1999,105 +1995,13 @@
     "https://www.d1ev.com/newsflash/314782",
     "https://www.d1ev.com/newsflash/314776",
     "https://www.d1ev.com/newsflash/314775",
-    "https://www.d1ev.com/news/qiye/314772"
+    "https://www.d1ev.com/news/qiye/314772",
+    "https://www.d1ev.com/newsflash/314805",
+    "https://www.d1ev.com/newsflash/314804",
+    "https://www.d1ev.com/newsflash/314806",
+    "https://www.d1ev.com/newsflash/314803"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314037",
-      "title": "华为引望联手宁德时代造换电新车 首款奕境2027年推出",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314034",
-      "title": "方程豹60万台销量达成 钛9四季度上市定位科技新奢旗舰SUV",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/314031",
-      "title": "理想自研电池命名为连山 质量问题自燃烧到报废就赔新车",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314029",
-      "title": "2027款极狐阿尔法S5与T5官宣10月23日上市，T5升级后驱与800V平台",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314025",
-      "title": "6.59万起 比亚迪第二代海鸥上市 轴距加长150mm 续航420km",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314038",
-      "title": "Perplexity Mac版新增端侧模式 36GB内存起步可离线跑AI",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314033",
-      "title": "黄仁勋喊话欧洲：别光顾着监管，给AI行业一个机会",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314030",
-      "title": "华为乾崑智驾将推新方案 价格介于Pro与SE之间",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314028",
-      "title": "理想发布连山自研三电技术体系 电池承诺终身不自燃",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314027",
-      "title": "Waymo宣布2027年进军西班牙，马德里首推完全自动驾驶网约车",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314039",
-      "title": "免费Carplay破解软件DiPlay爆火 比亚迪老车主终于等到了",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314036",
-      "title": "机器人制造机器人部件：舍弗勒具身智能机器人数智工厂在太仓正式启用",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314035",
-      "title": "A0级纯电市场，变天？",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314032",
-      "title": "工信部出手！L2泊车视线脱离超5秒就警告，遥控泊车最远15米",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314026",
-      "title": "丰田2030年全面SDV化 50款车型将软件定义",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314024",
-      "title": "国家数据集团雄安成立 专攻数据资源开发",
-      "source": "第一电动",
-      "pushedAt": 1792520055992
-    },
     {
       "url": "https://www.d1ev.com/newsflash/314065",
       "title": "比亚迪第二代海鸥上市 无仪表设计黑屏也能看关键信息 6.29万起",
@@ -6291,7 +6195,31 @@
       "title": "19万的Model 3买不到了！特斯拉返销：售价直接翻倍",
       "source": "第一电动",
       "pushedAt": 1793115995725
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314805",
+      "title": "长城猛龙欧洲上市，燃油混动纯电齐发，售价30万起",
+      "source": "第一电动",
+      "pushedAt": 1793132533726
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314804",
+      "title": "广汽登陆罗马尼亚市场 AIONUT与AIONV开启预订",
+      "source": "第一电动",
+      "pushedAt": 1793132533726
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314806",
+      "title": "魏牌二代蓝山正式发布 搭2.0T插混+双电机 配激光雷达与后轮转向",
+      "source": "第一电动",
+      "pushedAt": 1793132533726
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314803",
+      "title": "Meta超级智能实验室负责人离职创业 要取代微软Office",
+      "source": "第一电动",
+      "pushedAt": 1793132533726
     }
   ],
-  "lastUpdated": "2026-10-27"
+  "lastUpdated": "2026-10-28"
 }
