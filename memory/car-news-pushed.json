@@ -1,12 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/312632",
-    "https://www.d1ev.com/carnews/xinche/312631",
-    "https://www.d1ev.com/carnews/xinche/312630",
-    "https://www.d1ev.com/news/qiye/312620",
-    "https://www.d1ev.com/carnews/xinche/312634",
-    "https://www.d1ev.com/news/shichang/312633",
-    "https://www.d1ev.com/news/shichang/312623",
     "https://www.d1ev.com/news/shichang/312617",
     "https://www.d1ev.com/news/shichang/312616",
     "https://www.d1ev.com/carnews/xinche/312635",
@@ -1999,7 +1992,14 @@
     "https://www.d1ev.com/newsflash/314805",
     "https://www.d1ev.com/newsflash/314804",
     "https://www.d1ev.com/newsflash/314806",
-    "https://www.d1ev.com/newsflash/314803"
+    "https://www.d1ev.com/newsflash/314803",
+    "https://www.d1ev.com/newsflash/314812",
+    "https://www.d1ev.com/newsflash/314807",
+    "https://www.d1ev.com/newsflash/314813",
+    "https://www.d1ev.com/newsflash/314811",
+    "https://www.d1ev.com/news/shichang/314810",
+    "https://www.d1ev.com/news/shichang/314809",
+    "https://www.d1ev.com/newsflash/314808"
   ],
   "newsHistory": [
     {
@@ -6219,6 +6219,48 @@
       "title": "Meta超级智能实验室负责人离职创业 要取代微软Office",
       "source": "第一电动",
       "pushedAt": 1793132533726
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314812",
+      "title": "Opera推WebAI新标准：浏览器本地跑AI模型 无需云端不花订阅费",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314807",
+      "title": "中国品牌汽车欧洲季度注册量首超日本 9月份额创14.5%新高",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314813",
+      "title": "谷歌发布Genie4世界模型：一句话实时改写可交互虚拟世界",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314811",
+      "title": "谷歌发布Genie4世界模型：可实时改天气调镜头 还能生成同步音频",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314810",
+      "title": "超声波之后：知否瑞达正在用UWB超宽带接手汽车的最后十米",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314809",
+      "title": "三个月四子连落，曾毓群在赌什么？",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314808",
+      "title": "通用汽车豪掷20亿美元押注混动 兰辛工厂2025年产29.1万辆创纪录",
+      "source": "第一电动",
+      "pushedAt": 1793148777816
     }
   ],
   "lastUpdated": "2026-10-28"
