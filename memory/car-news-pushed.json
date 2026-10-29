@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/312867",
-    "https://www.d1ev.com/news/shichang/312866",
-    "https://www.d1ev.com/news/shichang/312872",
-    "https://www.d1ev.com/news/shichang/312868",
-    "https://www.d1ev.com/news/qiye/312876",
-    "https://www.d1ev.com/news/shichang/312878",
-    "https://www.d1ev.com/news/shichang/312877",
-    "https://www.d1ev.com/news/shichang/312875",
-    "https://www.d1ev.com/news/shichang/312874",
-    "https://www.d1ev.com/news/shichang/312873",
     "https://www.d1ev.com/news/shichang/312881",
     "https://www.d1ev.com/news/shichang/312880",
     "https://www.d1ev.com/news/shichang/312882",
@@ -1999,75 +1989,19 @@
     "https://www.d1ev.com/newsflash/315054",
     "https://www.d1ev.com/news/shichang/315053",
     "https://www.d1ev.com/newsflash/315045",
-    "https://www.d1ev.com/news/shichang/315036"
+    "https://www.d1ev.com/news/shichang/315036",
+    "https://www.d1ev.com/news/qiye/315093",
+    "https://www.d1ev.com/news/qiye/315091",
+    "https://www.d1ev.com/carnews/xinche/315087",
+    "https://www.d1ev.com/news/qiye/315086",
+    "https://www.d1ev.com/newsflash/315094",
+    "https://www.d1ev.com/news/shichang/315092",
+    "https://www.d1ev.com/newsflash/315090",
+    "https://www.d1ev.com/newsflash/315089",
+    "https://www.d1ev.com/carnews/xinche/315095",
+    "https://www.d1ev.com/newsflash/315088"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/shichang/314292",
-      "title": "捷达M6上市，35年“国民神车”的新能源转身",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314291",
-      "title": "13.99万起售 北汽星钽5X预售24小时订单破1.7万台",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314301",
-      "title": "理想i6实测续航811公里 比官方标称还多跑31公里",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314300",
-      "title": "黑石总裁反驳AI泡沫论：需求近乎抛物线增长 根本跟不上",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314299",
-      "title": "极米记得AI记忆手环L1上架：腕上胸前两形态随时切换",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314297",
-      "title": "华为乾崑智驾ADS5各版本配置差异公布，Max版配896线激光雷达",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314296",
-      "title": "盖茨警告：AI将带来二十年颠覆性变革，社会或分裂成两派",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314294",
-      "title": "腾势N8将于10月26日开启小订 30英寸巨幕屏/续航1003km",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314298",
-      "title": "问界汽车神木路口139km/h撞灯柱起火 司机遇难",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314295",
-      "title": "一汽广汽成立联合工作组 南北车企协同造车提速",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314293",
-      "title": "​短期热度，定不了长期残值",
-      "source": "第一电动",
-      "pushedAt": 1792698076811
-    },
     {
       "url": "https://www.d1ev.com/newsflash/314334",
       "title": "萤火虫新车型上市：60kWh电池续航升至560km，租电购车7.98万起",
@@ -6201,7 +6135,67 @@
       "title": "丰田发布皇冠Signia GT-S概念车 底盘与外观升级动力沿用标准版",
       "source": "第一电动",
       "pushedAt": 1793285715991
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/315093",
+      "title": "搭载华为乾崑896线激光雷达，阿维塔07L Max纯电版上市22.99万元",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/315091",
+      "title": "13.98万起 小鹏Mona L05上市卖爆：5000台准现车已全部售罄",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315087",
+      "title": "小鹏MONA L05正式上市 售价14.48-17.68万元",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/315086",
+      "title": "小鹏MONA L05上市，限时价13.98万元起",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315094",
+      "title": "华为乾崑智驾公开赛首日报名破10万",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315092",
+      "title": "大模型时代，芯片该换思路了？",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315090",
+      "title": "华为��确不造药不建管线，要做AI制药算力底座",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315089",
+      "title": "Kimi接入谷歌Gmail、Drive和日历 支持总结邮件查找文件",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315095",
+      "title": "同比增长10%！吉利汽车三季度营收990亿元，管理层却直言“并不满意”",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315088",
+      "title": "扩散语言模型Clover开源发布，35B参数性能超同规模自回归模型",
+      "source": "第一电动",
+      "pushedAt": 1793306873171
     }
   ],
-  "lastUpdated": "2026-10-29"
+  "lastUpdated": "2026-10-30"
 }
