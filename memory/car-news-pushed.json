@@ -1,22 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312732",
-    "https://www.d1ev.com/news/shichang/312729",
-    "https://www.d1ev.com/news/shichang/312723",
-    "https://www.d1ev.com/news/shichang/312722",
-    "https://www.d1ev.com/news/shichang/312721",
-    "https://www.d1ev.com/newsflash/312758",
-    "https://www.d1ev.com/news/shichang/312752",
-    "https://www.d1ev.com/news/qiye/312750",
-    "https://www.d1ev.com/news/shichang/312751",
-    "https://www.d1ev.com/news/shichang/312760",
-    "https://www.d1ev.com/news/qiye/312759",
-    "https://www.d1ev.com/news/shichang/312757",
-    "https://www.d1ev.com/news/shichang/312756",
-    "https://www.d1ev.com/newsflash/312754",
-    "https://www.d1ev.com/news/shichang/312753",
-    "https://www.d1ev.com/newsflash/312773",
-    "https://www.d1ev.com/news/shichang/312771",
     "https://www.d1ev.com/carnews/xinche/312764",
     "https://www.d1ev.com/newsflash/312763",
     "https://www.d1ev.com/news/shichang/312770",
@@ -1999,7 +1982,24 @@
     "https://www.d1ev.com/newsflash/314944",
     "https://www.d1ev.com/newsflash/314942",
     "https://www.d1ev.com/newsflash/314940",
-    "https://www.d1ev.com/newsflash/314938"
+    "https://www.d1ev.com/newsflash/314938",
+    "https://www.d1ev.com/newsflash/314966",
+    "https://www.d1ev.com/news/shichang/314963",
+    "https://www.d1ev.com/newsflash/314962",
+    "https://www.d1ev.com/newsflash/314958",
+    "https://www.d1ev.com/newsflash/314953",
+    "https://www.d1ev.com/newsflash/314950",
+    "https://www.d1ev.com/newsflash/314961",
+    "https://www.d1ev.com/newsflash/314965",
+    "https://www.d1ev.com/carnews/xinche/314964",
+    "https://www.d1ev.com/newsflash/314960",
+    "https://www.d1ev.com/news/shichang/314957",
+    "https://www.d1ev.com/newsflash/314956",
+    "https://www.d1ev.com/newsflash/314955",
+    "https://www.d1ev.com/news/shichang/314954",
+    "https://www.d1ev.com/newsflash/314952",
+    "https://www.d1ev.com/newsflash/314951",
+    "https://www.d1ev.com/newsflash/314949"
   ],
   "newsHistory": [
     {
@@ -6123,6 +6123,108 @@
       "title": "理想i6准现车遭疯抢 App被挤崩 博主17秒下单手速惊人",
       "source": "第一电动",
       "pushedAt": 1793220822928
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314966",
+      "title": "大众在华前三季度销量暴跌30% 九款电动车混战无一爆款",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314963",
+      "title": "德国总统体验地平线智驾技术，地平线×大众合作成果获高规格关注",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314962",
+      "title": "AI数据中心供电靠化石燃料 美国电力减排成果恐被抵消",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314958",
+      "title": "腾讯网盘内测开启：聚合AI应用数据，买WorkBuddy会员免费用",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314953",
+      "title": "Anthropic建议加州政府可申请禁令阻止高风险AI模型发布",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314950",
+      "title": "谷歌发布Gemini4Carbon大模型 网络安全能力业界顶尖",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314961",
+      "title": "奇瑞加速海外本地化生产 年底出口车过半为海外制造",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314965",
+      "title": "50万级MPV最快交付纪录！智界V9累计交付破3万台",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/314964",
+      "title": "仰望鼎曜前脸细节公布：预计售价超200万",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314960",
+      "title": "车圈独一份！MINI坚持用圆形中控屏：绝不放弃",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314957",
+      "title": "实力加冕！思瑞浦TPM8909Q系列荣获金辑奖最佳技术实践应用",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314956",
+      "title": "美司法部盯上英伟达130亿美元收购HuggingFace交易",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314955",
+      "title": "红旗首创车用透明陶瓷玻璃样件试制成功 减薄50%降重40%",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/314954",
+      "title": "让机器人造机器人零件，舍弗勒在下一盘什么棋？",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314952",
+      "title": "LG电视微软Copilot服务终止 曾因无法卸载引争议",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314951",
+      "title": "Claude自主挖出5条攻击链 Chrome沙箱逃逸仅毫秒级",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/314949",
+      "title": "福特前三季净赚32.7亿美元 上调全年利润指引下限",
+      "source": "第一电动",
+      "pushedAt": 1793237483859
     }
   ],
   "lastUpdated": "2026-10-29"
