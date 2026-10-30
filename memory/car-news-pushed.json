@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/312881",
-    "https://www.d1ev.com/news/shichang/312880",
-    "https://www.d1ev.com/news/shichang/312882",
-    "https://www.d1ev.com/news/qiye/312879",
-    "https://www.d1ev.com/news/shichang/312883",
-    "https://www.d1ev.com/news/shichang/312899",
-    "https://www.d1ev.com/carnews/xinche/312892",
-    "https://www.d1ev.com/carnews/xinche/312891",
-    "https://www.d1ev.com/carnews/xinche/312890",
-    "https://www.d1ev.com/carnews/xinche/312887",
-    "https://www.d1ev.com/news/shichang/312900",
-    "https://www.d1ev.com/news/shichang/312903",
-    "https://www.d1ev.com/news/shichang/312902",
-    "https://www.d1ev.com/carnews/xinche/312897",
     "https://www.d1ev.com/news/shichang/312896",
     "https://www.d1ev.com/news/shichang/312895",
     "https://www.d1ev.com/carnews/xinche/312894",
@@ -1999,7 +1985,21 @@
     "https://www.d1ev.com/newsflash/315090",
     "https://www.d1ev.com/newsflash/315089",
     "https://www.d1ev.com/carnews/xinche/315095",
-    "https://www.d1ev.com/newsflash/315088"
+    "https://www.d1ev.com/newsflash/315088",
+    "https://www.d1ev.com/carnews/xinche/315106",
+    "https://www.d1ev.com/newsflash/315097",
+    "https://www.d1ev.com/newsflash/315109",
+    "https://www.d1ev.com/newsflash/315108",
+    "https://www.d1ev.com/newsflash/315105",
+    "https://www.d1ev.com/newsflash/315104",
+    "https://www.d1ev.com/news/shichang/315100",
+    "https://www.d1ev.com/news/shichang/315099",
+    "https://www.d1ev.com/carnews/xinche/315107",
+    "https://www.d1ev.com/newsflash/315103",
+    "https://www.d1ev.com/newsflash/315102",
+    "https://www.d1ev.com/newsflash/315101",
+    "https://www.d1ev.com/newsflash/315098",
+    "https://www.d1ev.com/news/shichang/315096"
   ],
   "newsHistory": [
     {
@@ -6195,6 +6195,90 @@
       "title": "扩散语言模型Clover开源发布，35B参数性能超同规模自回归模型",
       "source": "第一电动",
       "pushedAt": 1793306873171
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315106",
+      "title": "东风奕派M8天元激光版将于11月3日上市",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315097",
+      "title": "奔驰纯电E级2027年国产上市，零部件几乎全本土采购",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315109",
+      "title": "1万亿参数！Mistral开源迄今最大模型ML4，激活仅490亿",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315108",
+      "title": "星巴克得来速拟引入AI点单 后台帮咖啡师录订单",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315105",
+      "title": "AI算力需求爆发海力士摩尔线程三季度业绩狂飙",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315104",
+      "title": "OpenAI低头了！Pro系列额度不降反翻倍",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315100",
+      "title": "商用车智驾，等来了乘用车玩家",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315099",
+      "title": "AI进汽车研发，真正难在哪？",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315107",
+      "title": "奔驰CEO称纯电E级计划2027年下半年推出",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315103",
+      "title": "三家光模块公司三季度业绩大增 股价却自高点回撤超56%",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315102",
+      "title": "奔驰三季度营收降5% 中国市场销量暴跌31%",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315101",
+      "title": "亚马逊CEO放话：AWS年营收要破1万亿美元",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315098",
+      "title": "大众电车卖越好越不赚钱 计划裁员10万人",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315096",
+      "title": "德系技术与本土供应链协同，上汽大众ID.ERA 8X核心供应商一览",
+      "source": "第一电动",
+      "pushedAt": 1793323858488
     }
   ],
   "lastUpdated": "2026-10-30"
