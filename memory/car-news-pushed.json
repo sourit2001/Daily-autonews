@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/312986",
-    "https://www.d1ev.com/carnews/xinche/312997",
-    "https://www.d1ev.com/news/shichang/313002",
-    "https://www.d1ev.com/news/shichang/312998",
-    "https://www.d1ev.com/carnews/xinche/313031",
-    "https://www.d1ev.com/carnews/xinche/313024",
     "https://www.d1ev.com/news/shichang/313021",
     "https://www.d1ev.com/carnews/xinche/313014",
     "https://www.d1ev.com/carnews/xinche/313013",
@@ -1999,39 +1993,15 @@
     "https://www.d1ev.com/newsflash/315168",
     "https://www.d1ev.com/news/shichang/315167",
     "https://www.d1ev.com/newsflash/315166",
-    "https://www.d1ev.com/newsflash/315165"
+    "https://www.d1ev.com/newsflash/315165",
+    "https://www.d1ev.com/newsflash/315204",
+    "https://www.d1ev.com/newsflash/315203",
+    "https://www.d1ev.com/carnews/xinche/315201",
+    "https://www.d1ev.com/newsflash/315206",
+    "https://www.d1ev.com/newsflash/315205",
+    "https://www.d1ev.com/newsflash/315202"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314430",
-      "title": "33.5万起！2027款坦克500上市 智驾座舱大升级",
-      "source": "第一电动",
-      "pushedAt": 1792784586563
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314429",
-      "title": "腾势N8四款内饰配色亮相，配30英寸巨幕屏，10月26日开启小订",
-      "source": "第一电动",
-      "pushedAt": 1792784586563
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314428",
-      "title": "二代海豹07内饰官图发布 零重力座椅帝瓦雷音响配齐",
-      "source": "第一电动",
-      "pushedAt": 1792784586563
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314427",
-      "title": "新能源车10月卖107万辆 是燃油车两倍 渗透率近67%",
-      "source": "第一电动",
-      "pushedAt": 1792784586563
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314433",
-      "title": "方盒子造型+2.0T插混 魏牌二代蓝山10月27日全球首秀",
-      "source": "第一电动",
-      "pushedAt": 1792784586563
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/314443",
       "title": "2027款坦克500上市：售价33.5万起",
@@ -6099,7 +6069,43 @@
       "title": "理想i6第20万台下线 2026款全国开启交付",
       "source": "第一电动",
       "pushedAt": 1793372132161
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315204",
+      "title": "46万公里电池健康度仍达91% 车主复购小鹏X9还推荐5位朋友",
+      "source": "第一电动",
+      "pushedAt": 1793391515866
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315203",
+      "title": "丰田联手Waymo，2027年在日本测试自动驾驶出租车",
+      "source": "第一电动",
+      "pushedAt": 1793391515866
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315201",
+      "title": "海外销量猛涨，赚钱却更难！长城汽车第三季度利润下滑超37%，新能源尚未破局",
+      "source": "第一电动",
+      "pushedAt": 1793391515866
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315206",
+      "title": "奇瑞前三季度营收2412亿 研发投入猛增40%",
+      "source": "第一电动",
+      "pushedAt": 1793391515866
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315205",
+      "title": "32.98万起！享界V8七座SUV标配华为ADS5，11月上旬发布",
+      "source": "第一电动",
+      "pushedAt": 1793391515866
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315202",
+      "title": "小米17亿入股欣旺达动力 成第三大股东",
+      "source": "第一电动",
+      "pushedAt": 1793391515866
     }
   ],
-  "lastUpdated": "2026-10-30"
+  "lastUpdated": "2026-10-31"
 }
