@@ -1,17 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/313021",
-    "https://www.d1ev.com/carnews/xinche/313014",
-    "https://www.d1ev.com/carnews/xinche/313013",
-    "https://www.d1ev.com/carnews/xinche/313010",
-    "https://www.d1ev.com/carnews/xinche/313009",
-    "https://www.d1ev.com/carnews/xinche/313006",
-    "https://www.d1ev.com/news/shichang/313034",
-    "https://www.d1ev.com/news/shichang/313033",
-    "https://www.d1ev.com/news/shichang/313027",
-    "https://www.d1ev.com/news/shichang/313017",
-    "https://www.d1ev.com/news/qiye/313016",
-    "https://www.d1ev.com/news/shichang/313004",
     "https://www.d1ev.com/news/shichang/313003",
     "https://www.d1ev.com/news/shichang/313037",
     "https://www.d1ev.com/news/shichang/313036",
@@ -1999,7 +1987,19 @@
     "https://www.d1ev.com/carnews/xinche/315201",
     "https://www.d1ev.com/newsflash/315206",
     "https://www.d1ev.com/newsflash/315205",
-    "https://www.d1ev.com/newsflash/315202"
+    "https://www.d1ev.com/newsflash/315202",
+    "https://www.d1ev.com/carnews/xinche/315218",
+    "https://www.d1ev.com/newsflash/315215",
+    "https://www.d1ev.com/newsflash/315214",
+    "https://www.d1ev.com/newsflash/315213",
+    "https://www.d1ev.com/newsflash/315211",
+    "https://www.d1ev.com/newsflash/315208",
+    "https://www.d1ev.com/news/shichang/315212",
+    "https://www.d1ev.com/carnews/xinche/315217",
+    "https://www.d1ev.com/carnews/xinche/315216",
+    "https://www.d1ev.com/newsflash/315210",
+    "https://www.d1ev.com/newsflash/315209",
+    "https://www.d1ev.com/newsflash/315207"
   ],
   "newsHistory": [
     {
@@ -6105,6 +6105,78 @@
       "title": "小米17亿入股欣旺达动力 成第三大股东",
       "source": "第一电动",
       "pushedAt": 1793391515866
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315218",
+      "title": "搭载一体式双联屏 比亚迪第三代唐官图发布",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315215",
+      "title": "吉利银河星舰7车机芯片争议回应：延保5年加万元置换券",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315214",
+      "title": "地平线CEO余凯炮轰智驾芯片算力虚标：部分国产芯片吹牛算力达稠密算力六七倍",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315213",
+      "title": "谷歌卫星上跑AI！TPU首次在轨给出模型响应",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315211",
+      "title": "港话通上线AI音乐生成功能，哼唱图片均可创作粤语歌",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315208",
+      "title": "OpenAI三季度向执法部门移交200余起暴力威胁线索",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315212",
+      "title": "中国方案向全球，供应链递交“中国答卷” ｜2026金辑奖中国汽车新供应链百强榜",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315217",
+      "title": "直击总冠军 本田打造1300马力双涡轮卡车",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315216",
+      "title": "旗舰定位 比亚迪预热仰望鼎曜豪华行政轿车",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315210",
+      "title": "Claude个人套餐改名：Max20x变Ultra，200美元每月取消5小时限制",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315209",
+      "title": "苹果Apple智能国行版12月上线，Siri接入阿里千问",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315207",
+      "title": "苹果智能国行版官宣落地 阿里千问接入Siri和写作工具",
+      "source": "第一电动",
+      "pushedAt": 1793409688751
     }
   ],
   "lastUpdated": "2026-10-31"
