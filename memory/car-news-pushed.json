@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/313060",
-    "https://www.d1ev.com/news/shichang/313059",
-    "https://www.d1ev.com/news/shichang/313089",
-    "https://www.d1ev.com/news/shichang/313086",
-    "https://www.d1ev.com/news/shichang/313095",
     "https://www.d1ev.com/news/shichang/313085",
     "https://www.d1ev.com/news/shichang/313083",
     "https://www.d1ev.com/news/shichang/313093",
@@ -1999,21 +1994,14 @@
     "https://www.d1ev.com/newsflash/315257",
     "https://www.d1ev.com/newsflash/315255",
     "https://www.d1ev.com/newsflash/315254",
-    "https://www.d1ev.com/newsflash/315253"
+    "https://www.d1ev.com/newsflash/315253",
+    "https://www.d1ev.com/newsflash/315275",
+    "https://www.d1ev.com/newsflash/315271",
+    "https://www.d1ev.com/news/shichang/315274",
+    "https://www.d1ev.com/newsflash/315273",
+    "https://www.d1ev.com/newsflash/315272"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314483",
-      "title": "Meta AI助手Muse分享功能泄露敏感信息 官方紧急暂停",
-      "source": "第一电动",
-      "pushedAt": 1792861727233
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314482",
-      "title": "国内AI词元日均消耗500万亿 价格涨近一倍",
-      "source": "第一电动",
-      "pushedAt": 1792861727233
-    },
     {
       "url": "https://www.d1ev.com/newsflash/314485",
       "title": "奇瑞计划明年进军加拿大市场，有望成首家在当地设厂的中国车企",
@@ -6207,7 +6195,37 @@
       "title": "大众前三季利润暴跌98.7% 仅剩1亿欧元",
       "source": "第一电动",
       "pushedAt": 1793456074773
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315275",
+      "title": "五大科技巨头承诺未来数年AI基建投入超3万亿美元",
+      "source": "第一电动",
+      "pushedAt": 1793475625826
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315271",
+      "title": "上汽联手新芯航途 700TOPS大模型芯片加速上车",
+      "source": "第一电动",
+      "pushedAt": 1793475625826
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315274",
+      "title": "继理想之后，小米17亿入股欣旺达动力成第三大股东",
+      "source": "第一电动",
+      "pushedAt": 1793475625826
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315273",
+      "title": "小鹏MONA要单飞？独立门店2027年落地，品牌独立不排除",
+      "source": "第一电动",
+      "pushedAt": 1793475625826
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315272",
+      "title": "11.98万起还带冰箱？荣威家越07明日开启全国交付",
+      "source": "第一电动",
+      "pushedAt": 1793475625826
     }
   ],
-  "lastUpdated": "2026-10-31"
+  "lastUpdated": "2026-11-01"
 }
