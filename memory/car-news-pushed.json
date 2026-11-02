@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/carnews/xinche/313204",
-    "https://www.d1ev.com/news/shichang/313188",
-    "https://www.d1ev.com/news/qiye/313187",
-    "https://www.d1ev.com/news/shichang/313185",
-    "https://www.d1ev.com/news/shichang/313203",
-    "https://www.d1ev.com/news/qiye/313201",
-    "https://www.d1ev.com/news/qiye/313196",
-    "https://www.d1ev.com/news/shichang/313206",
-    "https://www.d1ev.com/news/shichang/313205",
-    "https://www.d1ev.com/news/qiye/313202",
-    "https://www.d1ev.com/news/shichang/313200",
     "https://www.d1ev.com/news/shichang/313199",
     "https://www.d1ev.com/news/qiye/313198",
     "https://www.d1ev.com/news/qiye/313197",
@@ -1999,51 +1988,20 @@
     "https://www.d1ev.com/news/qiye/315367",
     "https://www.d1ev.com/newsflash/315366",
     "https://www.d1ev.com/newsflash/315361",
-    "https://www.d1ev.com/newsflash/315359"
+    "https://www.d1ev.com/newsflash/315359",
+    "https://www.d1ev.com/carnews/xinche/315375",
+    "https://www.d1ev.com/newsflash/315381",
+    "https://www.d1ev.com/newsflash/315380",
+    "https://www.d1ev.com/newsflash/315376",
+    "https://www.d1ev.com/newsflash/315372",
+    "https://www.d1ev.com/newsflash/315379",
+    "https://www.d1ev.com/news/shichang/315374",
+    "https://www.d1ev.com/newsflash/315378",
+    "https://www.d1ev.com/newsflash/315377",
+    "https://www.d1ev.com/newsflash/315373",
+    "https://www.d1ev.com/newsflash/315371"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314536",
-      "title": "34.98万起 红旗硬派越野G919上市 4.5秒破百",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314534",
-      "title": "全新smart精灵2号蓝色版实车曝光 11月5日上市续航410km",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/314532",
-      "title": "搭载华为乾崑ADS 5与鸿蒙座舱6，猛士X700正式上市21.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314537",
-      "title": "国内首部AI全流程院线长片票房破116万 制作历时两年",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314531",
-      "title": "韩国KRAFTON发布30B开源大模型 聚焦韩语性能超Meta同量级",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314535",
-      "title": "Claude桌面应用新版界面翻车！用户吐槽信息密度低像ChatGPT",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314533",
-      "title": "腾势Z9GT登陆香港 售价99.8万港元",
-      "source": "第一电动",
-      "pushedAt": 1792953642893
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/314562",
       "title": "长安猎手K70正式上市 售19.29-20.79万元",
@@ -6513,6 +6471,72 @@
       "title": "奇瑞10月销量28.25万辆增7.2% 智界星途双双大跌",
       "source": "第一电动",
       "pushedAt": 1793554240087
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315375",
+      "title": "务实电动新选择 2027款斯柯达Epiq新车图解",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315381",
+      "title": "允许AI开公司？美国特拉华州新规遭议员反对",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315380",
+      "title": "沙特阿美175亿收购HUMAIN 49%股权",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315376",
+      "title": "微软AI负责人：若AI出现意识应立即暂停开发并向公众披露",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315372",
+      "title": "OpenAI中期选举后发起大规模公关活动，欲将数据中心包装为AI算力园区",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315379",
+      "title": "福特计划2032年全球年销500万辆，将推3万美元纯电皮卡",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315374",
+      "title": "为旌科技VS919L斩获2026金辑奖最佳应用实践奖，以中国 “芯” 方案面向全球",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315378",
+      "title": "英特尔四季度指引不及预期 股价单日暴跌29%创近50年最大跌幅",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315377",
+      "title": "思科27岁工程师获无上限Token预算，24个月重构98%遗留代码",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315373",
+      "title": "比亚迪前三季研发363亿超净利140亿 累计投入破2800亿",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315371",
+      "title": "比亚迪前三季研发363亿超净利140亿 累计研发投入超2800亿",
+      "source": "第一电动",
+      "pushedAt": 1793581843082
     }
   ],
   "lastUpdated": "2026-11-02"
