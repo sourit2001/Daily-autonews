@@ -1,25 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/313287",
-    "https://www.d1ev.com/news/shichang/313306",
-    "https://www.d1ev.com/news/shichang/313305",
-    "https://www.d1ev.com/news/qiye/313303",
-    "https://www.d1ev.com/news/shichang/313302",
-    "https://www.d1ev.com/news/qiye/313298",
-    "https://www.d1ev.com/news/shichang/313301",
-    "https://www.d1ev.com/news/shichang/313300",
-    "https://www.d1ev.com/news/qiye/313299",
-    "https://www.d1ev.com/news/qiye/313297",
-    "https://www.d1ev.com/news/shichang/313294",
-    "https://www.d1ev.com/carnews/xinche/313307",
-    "https://www.d1ev.com/news/shichang/313304",
-    "https://www.d1ev.com/news/shichang/313295",
-    "https://www.d1ev.com/news/qiye/313288",
-    "https://www.d1ev.com/news/shichang/313310",
-    "https://www.d1ev.com/news/qiye/313311",
-    "https://www.d1ev.com/news/qiye/313315",
-    "https://www.d1ev.com/news/qiye/313314",
-    "https://www.d1ev.com/news/qiye/313313",
     "https://www.d1ev.com/news/shichang/313324",
     "https://www.d1ev.com/news/shichang/313327",
     "https://www.d1ev.com/news/shichang/313321",
@@ -1999,27 +1979,29 @@
     "https://www.d1ev.com/news/shichang/315467",
     "https://www.d1ev.com/newsflash/315465",
     "https://www.d1ev.com/news/shichang/315463",
-    "https://www.d1ev.com/newsflash/315460"
+    "https://www.d1ev.com/newsflash/315460",
+    "https://www.d1ev.com/carnews/xinche/315515",
+    "https://www.d1ev.com/news/shichang/315512",
+    "https://www.d1ev.com/newsflash/315511",
+    "https://www.d1ev.com/carnews/xinche/315499",
+    "https://www.d1ev.com/newsflash/315509",
+    "https://www.d1ev.com/newsflash/315503",
+    "https://www.d1ev.com/newsflash/315500",
+    "https://www.d1ev.com/newsflash/315510",
+    "https://www.d1ev.com/newsflash/315501",
+    "https://www.d1ev.com/carnews/xinche/315518",
+    "https://www.d1ev.com/newsflash/315517",
+    "https://www.d1ev.com/carnews/xinche/315516",
+    "https://www.d1ev.com/carnews/xinche/315514",
+    "https://www.d1ev.com/newsflash/315513",
+    "https://www.d1ev.com/news/shichang/315508",
+    "https://www.d1ev.com/news/shichang/315507",
+    "https://www.d1ev.com/news/shichang/315506",
+    "https://www.d1ev.com/news/shichang/315505",
+    "https://www.d1ev.com/news/qiye/315504",
+    "https://www.d1ev.com/newsflash/315502"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314690",
-      "title": "全球首款甲醇电混家轿星耀6EF将于11月3日上市",
-      "source": "第一电动",
-      "pushedAt": 1793052647663
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314692",
-      "title": "大众安徽推9.99万纯电轿跑 刘展术称不卷价格战",
-      "source": "第一电动",
-      "pushedAt": 1793052647663
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314691",
-      "title": "腾势成交均价32.7万超BBA！自主豪华车真站起来了",
-      "source": "第一电动",
-      "pushedAt": 1793052647663
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/314714",
       "title": "理想i6上市前直播拆车，李想称“不能造速成车”",
@@ -6381,6 +6363,126 @@
       "title": "极星Polestar2正式停产，6年累计销量超19万辆",
       "source": "第一电动",
       "pushedAt": 1793649671826
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315515",
+      "title": "预售12.88万起 埃安Ray7将于11月12日上市",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315512",
+      "title": "11月，这些重磅新车即将上市",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315511",
+      "title": "挪威每卖5辆新车就有1辆中国品牌，10月市占率创历史新高",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315499",
+      "title": "2026年第44周（10.26-11.1）上市新车汇总",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315509",
+      "title": "日本将允许无方向盘自动驾驶车上路 新规12月生效",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315503",
+      "title": "OpenAI私下向2028总统候选人递备忘录：AI将成竞选关键议题",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315500",
+      "title": "美团发布1.6万亿参数大模型LongCat-2.5 全国产算力训练",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315510",
+      "title": "比亚迪10月纯电销量破30万辆 超美国一季度销量",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315501",
+      "title": "美国车企联盟急了！施压国会永久禁止中国车进口",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315518",
+      "title": "丰田发布皇冠Signia GT-S概念车 外观升级",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315517",
+      "title": "宝马2027年落地城市辅助驾驶，直接对标特斯拉FSD",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315516",
+      "title": "综合马力最高800Ps ABT RS5-R正式发布",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315514",
+      "title": "性能更强劲 本田思域Type R HRC即将发布",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315513",
+      "title": "Anthropic披露近9000亿美元算力支出承诺",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315508",
+      "title": "一年调9次购车政策，“老实人”才买特斯拉",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315507",
+      "title": "将话语权交给中方，合资就能高枕无忧了？",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315506",
+      "title": "存量时代质量竞争为何看造得好也看用得久？",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/315505",
+      "title": "2026年中国乘用车整车异响部位与成因分析",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/315504",
+      "title": "消失的“金九银十”",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315502",
+      "title": "韩国80余名特斯拉车主破解FSD被查 最高面临两年监禁",
+      "source": "第一电动",
+      "pushedAt": 1793671120322
     }
   ],
   "lastUpdated": "2026-11-03"
