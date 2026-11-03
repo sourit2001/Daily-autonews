@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/313405",
-    "https://www.d1ev.com/news/qiye/313403",
-    "https://www.d1ev.com/news/qiye/313402",
-    "https://www.d1ev.com/news/qiye/313400",
     "https://www.d1ev.com/news/qiye/313429",
     "https://www.d1ev.com/news/shichang/313428",
     "https://www.d1ev.com/news/shichang/313427",
@@ -1999,33 +1995,13 @@
     "https://www.d1ev.com/newsflash/315597",
     "https://www.d1ev.com/news/qiye/315595",
     "https://www.d1ev.com/newsflash/315591",
-    "https://www.d1ev.com/newsflash/315590"
+    "https://www.d1ev.com/newsflash/315590",
+    "https://www.d1ev.com/newsflash/315637",
+    "https://www.d1ev.com/newsflash/315636",
+    "https://www.d1ev.com/newsflash/315639",
+    "https://www.d1ev.com/newsflash/315638"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314805",
-      "title": "长城猛龙欧洲上市，燃油混动纯电齐发，售价30万起",
-      "source": "第一电动",
-      "pushedAt": 1793132533726
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314804",
-      "title": "广汽登陆罗马尼亚市场 AIONUT与AIONV开启预订",
-      "source": "第一电动",
-      "pushedAt": 1793132533726
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314806",
-      "title": "魏牌二代蓝山正式发布 搭2.0T插混+双电机 配激光雷达与后轮转向",
-      "source": "第一电动",
-      "pushedAt": 1793132533726
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314803",
-      "title": "Meta超级智能实验室负责人离职创业 要取代微软Office",
-      "source": "第一电动",
-      "pushedAt": 1793132533726
-    },
     {
       "url": "https://www.d1ev.com/newsflash/314812",
       "title": "Opera推WebAI新标准：浏览器本地跑AI模型 无需云端不花订阅费",
@@ -6423,6 +6399,30 @@
       "title": "仰望U9X试车手450km/h撞护栏 车手无大碍",
       "source": "第一电动",
       "pushedAt": 1793727236365
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315637",
+      "title": "英伟达AI提速晶圆厂仿真 关键负载最高快35倍",
+      "source": "第一电动",
+      "pushedAt": 1793745982026
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315636",
+      "title": "谷歌AI一小时设计出新药分子 肺癌药物研发提速",
+      "source": "第一电动",
+      "pushedAt": 1793745982026
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315639",
+      "title": "国行Apple智能首批功能上线，Siri灯效、实时翻译、千问都来了",
+      "source": "第一电动",
+      "pushedAt": 1793745982026
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315638",
+      "title": "国行Apple智能正式上线，Siri接入阿里千问",
+      "source": "第一电动",
+      "pushedAt": 1793745982026
     }
   ],
   "lastUpdated": "2026-11-04"
