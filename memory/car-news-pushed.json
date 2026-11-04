@@ -1,11 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/313508",
-    "https://www.d1ev.com/news/qiye/313510",
-    "https://www.d1ev.com/news/shichang/313504",
-    "https://www.d1ev.com/news/qiye/313503",
-    "https://www.d1ev.com/news/shichang/313519",
-    "https://www.d1ev.com/carnews/xinche/313518",
     "https://www.d1ev.com/news/shichang/313515",
     "https://www.d1ev.com/news/shichang/313514",
     "https://www.d1ev.com/news/shichang/313513",
@@ -1999,309 +1993,15 @@
     "https://www.d1ev.com/newsflash/315717",
     "https://www.d1ev.com/newsflash/315713",
     "https://www.d1ev.com/news/shichang/315712",
-    "https://www.d1ev.com/newsflash/315708"
+    "https://www.d1ev.com/newsflash/315708",
+    "https://www.d1ev.com/newsflash/315761",
+    "https://www.d1ev.com/newsflash/315760",
+    "https://www.d1ev.com/carnews/xinche/315759",
+    "https://www.d1ev.com/newsflash/315764",
+    "https://www.d1ev.com/newsflash/315763",
+    "https://www.d1ev.com/newsflash/315762"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/314937",
-      "title": "2026款理想i6上市：首销限时23.98万元，老车主可付费升级电动前备箱",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/314935",
-      "title": "一汽奔腾小马五门版上市 售价4.49-5.49万元",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/314933",
-      "title": "2026款理想i6上市 官方指导价24.98万元",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/314932",
-      "title": "入门即顶配 续��780公里！2026款理想i6上市：限时23.9万起",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314931",
-      "title": "奇瑞捷豹路虎神行者8大五座10月31日亮相阿那亚",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314930",
-      "title": "一汽奔腾小马五门版上市 限时3.99万元起 后排独立车门",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314929",
-      "title": "24.98万入门即顶配！2026款理想i6上市，续航780km",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314919",
-      "title": "比亚迪在韩国杀疯了！销量暴涨9倍 新车登记量超全年目标两倍",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/314917",
-      "title": "浩瀚能源吉利智充创新产品全面亮相2026 SAECCE",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314916",
-      "title": "大众发布VEGA技术矩阵 HS8智驾方案年内落地七款新车",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314912",
-      "title": "捷途自由者7将于11月4日上市 方盒子造型配AI大模型",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314911",
-      "title": "奥迪AUDI品牌官宣分家后首发声：2028年推首款大六座SUV",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314903",
-      "title": "男子连踢新车三脚泄愤 哨兵模式全程记录定损1.9万",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314926",
-      "title": "菲尔兹奖得主邓煜：AI时代数学不会消失，别给AI做狗",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314925",
-      "title": "大众中国发布本土自研VEGA技术矩阵 2027年实现L3自动驾驶",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314923",
-      "title": "美银警示客户勿将网银密码交给AI助手 风险自担",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314921",
-      "title": "理想逆袭特斯拉！9月新能源二手车保值率登顶",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314918",
-      "title": "大众2027年实现L3自动驾驶就绪 自研芯片最高支持L4",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314913",
-      "title": "LiquidAI发布LFM3模型家族：参数减35%性能反超上代",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314907",
-      "title": "抖音严打AI恶意营销号 近一月处置违规账号50.7万个",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314906",
-      "title": "AI能修复打码二维码？央视实测：核心区彻底覆盖就无法复原",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314900",
-      "title": "豆包公关负责人辟谣横店群演数据训练大模型传言",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314899",
-      "title": "三星2nm代工+混合键合！智原拿下美国云端AI芯片大单",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314896",
-      "title": "奥迪AITC首次员工大会明确研发方向 2028年推首款大六座SUV",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314893",
-      "title": "特斯拉Semi电动重卡起火 加州880号公路南向车道关闭",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314890",
-      "title": "苏州外卖小哥拎电池回家充电致客厅起火 喷淋灭火淹成水帘洞",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314888",
-      "title": "北京十五五目标：全市新能源汽车保有量达240万辆",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314936",
-      "title": "上汽前三季度销量314.7万辆领跑，海外暴涨52.4%超去年全年",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314922",
-      "title": "大众发布VEGA技术矩阵 中国产车型将出口墨西哥越南",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314910",
-      "title": "大众中国发布VEGA自研技术矩阵 南美将成首个出海落地市场",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314894",
-      "title": "全球化2.0交出答卷 | 保隆科技斩获金辑奖双奖",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314934",
-      "title": "3.99万买五门四座！奔腾小马专治后排上下车难",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314928",
-      "title": "比亚迪仰望超豪华行政旗舰轿车定名鼎曜 英文名ALTIOR",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314927",
-      "title": "A00份额跌至3.9% A0级纯电小车凭什么卖爆",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314924",
-      "title": "东风日产NX7定档15-20万区间，王骞放话超越30万级体验",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314920",
-      "title": "摩尔线程开源万卡级万亿参数MoE训练基础设施",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314915",
-      "title": "苹果扩大取证范围 获准调取前员工ChatGPT使用记录",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314914",
-      "title": "大众中国发布VEGA技术矩阵 CEA架构2026年覆盖五款纯电车型",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314909",
-      "title": "联合电子区域控制器（Zone ECU）新平台批产",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314908",
-      "title": "梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314905",
-      "title": "大众中国发布VEGA技术矩阵 成唯一本土自研外资车企",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314904",
-      "title": "StellantisQ3净亏损收窄至4.53亿欧元",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314902",
-      "title": "国轩高科前三季度营收454亿增54% 扣非净利增195.5%",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314901",
-      "title": "DeepSeek代码库现V5模型占位符 发布机制已就绪待官宣",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314898",
-      "title": "移远通信两度蝉联“中国汽车新供应链百强”",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314897",
-      "title": "芯驰科技斩获盖世汽车2026金辑奖“最佳技术实践应用奖”",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/314895",
-      "title": "20cm涨停！豪恩汽电股价异常波动背后：三季度营收增超50%，主业毛利率承压",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314892",
-      "title": "共话汽车知识生态丨盖世汽车周晓莺受邀出席研讨会并获优秀作者",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/314891",
-      "title": "谁是真“千里马”？CLTC破千纯电车型盘点",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/314889",
-      "title": "小米汽车入选国家领航级智能工厂 位列榜单首位",
-      "source": "第一电动",
-      "pushedAt": 1793199915926
-    },
     {
       "url": "https://www.d1ev.com/newsflash/314945",
       "title": "奔腾小马五门版上市 限时权益价3.99万起 轴距加长262mm",
@@ -6603,7 +6303,43 @@
       "title": "吴艳妮成领克07GT挚友 帕尔马紫高定版首秀14.58万起",
       "source": "第一电动",
       "pushedAt": 1793799712946
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315761",
+      "title": "陶哲轩警告：人类过度依赖AI思考 恐失去对问题理解力",
+      "source": "第一电动",
+      "pushedAt": 1793824720529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315760",
+      "title": "REDMI K100影像新增3D运镜 AI让静态照片秒变环绕推拉视频",
+      "source": "第一电动",
+      "pushedAt": 1793824720529
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/315759",
+      "title": "锂电板块蒸发7400亿元后大涨！11月电池排产却预计环比降5%，反弹还是反转？",
+      "source": "第一电动",
+      "pushedAt": 1793824720529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315764",
+      "title": "华为openPangu两款模型将停售 2.1-Pro已抢先上线小艺Work",
+      "source": "第一电动",
+      "pushedAt": 1793824720529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315763",
+      "title": "Claude未发新模型先火了 自己写代码2小时40分做出66秒动画",
+      "source": "第一电动",
+      "pushedAt": 1793824720529
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/315762",
+      "title": "国行Apple智能接入千问，Siri和写作工具都能用",
+      "source": "第一电动",
+      "pushedAt": 1793824720529
     }
   ],
-  "lastUpdated": "2026-11-04"
+  "lastUpdated": "2026-11-05"
 }
