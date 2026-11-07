@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/313822",
-    "https://www.d1ev.com/newsflash/313821",
-    "https://www.d1ev.com/newsflash/313820",
-    "https://www.d1ev.com/newsflash/313819",
     "https://www.d1ev.com/newsflash/313818",
     "https://www.d1ev.com/newsflash/313817",
     "https://www.d1ev.com/newsflash/313814",
@@ -1999,39 +1995,13 @@
     "https://www.d1ev.com/news/qiye/316133",
     "https://www.d1ev.com/newsflash/316132",
     "https://www.d1ev.com/newsflash/316130",
-    "https://www.d1ev.com/newsflash/316128"
+    "https://www.d1ev.com/newsflash/316128",
+    "https://www.d1ev.com/newsflash/316168",
+    "https://www.d1ev.com/newsflash/316167",
+    "https://www.d1ev.com/newsflash/316166",
+    "https://www.d1ev.com/newsflash/316169"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/315275",
-      "title": "五大科技巨头承诺未来数年AI基建投入超3万亿美元",
-      "source": "第一电动",
-      "pushedAt": 1793475625826
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315271",
-      "title": "上汽联手新芯航途 700TOPS大模型芯片加速上车",
-      "source": "第一电动",
-      "pushedAt": 1793475625826
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/315274",
-      "title": "继理想之后，小米17亿入股欣旺达动力成第三大股东",
-      "source": "第一电动",
-      "pushedAt": 1793475625826
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315273",
-      "title": "小鹏MONA要单飞？独立门店2027年落地，品牌独立不排除",
-      "source": "第一电动",
-      "pushedAt": 1793475625826
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315272",
-      "title": "11.98万起还带冰箱？荣威家越07明日开启全国交付",
-      "source": "第一电动",
-      "pushedAt": 1793475625826
-    },
     {
       "url": "https://www.d1ev.com/news/qiye/315308",
       "title": "每4台新车就有1台卖老外！小鹏10月交付50237台 创史上新高",
@@ -6321,6 +6291,30 @@
       "title": "沃尔沃提醒车主警惕冒名召回诈骗 勿点不明链接",
       "source": "第一电动",
       "pushedAt": 1794067448184
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316168",
+      "title": "仰望鼎曜阿布扎比全球首发 中国超豪正面硬刚古思特",
+      "source": "第一电动",
+      "pushedAt": 1794086340643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316167",
+      "title": "宝马宁德时代15年合作细节曝光 大圆柱电池攻克3000组试验",
+      "source": "第一电动",
+      "pushedAt": 1794086340643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316166",
+      "title": "宝马第六代电驱在华量产 续航能效补能全面提升",
+      "source": "第一电动",
+      "pushedAt": 1794086340643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316169",
+      "title": "仰望鼎曜超豪华轿车阿布扎比全球首秀 山河鼎韵限量版30万定金开启预定",
+      "source": "第一电动",
+      "pushedAt": 1794086340643
     }
   ],
   "lastUpdated": "2026-11-08"
