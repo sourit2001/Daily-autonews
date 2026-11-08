@@ -1,10 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/313818",
-    "https://www.d1ev.com/newsflash/313817",
-    "https://www.d1ev.com/newsflash/313814",
-    "https://www.d1ev.com/news/qiye/313813",
-    "https://www.d1ev.com/news/qiye/313812",
     "https://www.d1ev.com/newsflash/313811",
     "https://www.d1ev.com/newsflash/313810",
     "https://www.d1ev.com/newsflash/313885",
@@ -1999,7 +1994,12 @@
     "https://www.d1ev.com/newsflash/316168",
     "https://www.d1ev.com/newsflash/316167",
     "https://www.d1ev.com/newsflash/316166",
-    "https://www.d1ev.com/newsflash/316169"
+    "https://www.d1ev.com/newsflash/316169",
+    "https://www.d1ev.com/newsflash/316174",
+    "https://www.d1ev.com/newsflash/316172",
+    "https://www.d1ev.com/newsflash/316171",
+    "https://www.d1ev.com/newsflash/316173",
+    "https://www.d1ev.com/newsflash/316170"
   ],
   "newsHistory": [
     {
@@ -6315,6 +6315,36 @@
       "title": "仰望鼎曜超豪华轿车阿布扎比全球首秀 山河鼎韵限量版30万定金开启预定",
       "source": "第一电动",
       "pushedAt": 1794086340643
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316174",
+      "title": "长城首款旅行轿车！欧拉7尾部官图发布，续航动力全曝光",
+      "source": "第一电动",
+      "pushedAt": 1794099654321
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316172",
+      "title": "索尼全球首发驾驶接管预警技术，三级提示防智驾风险",
+      "source": "第一电动",
+      "pushedAt": 1794099654321
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316171",
+      "title": "埃森哲报告被指含15条AI虚假引用，曾威胁不用AI就淘汰",
+      "source": "第一电动",
+      "pushedAt": 1794099654321
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316173",
+      "title": "亚洲龙裸车价跌至12万区间 丰田在华销量连降8个月",
+      "source": "第一电动",
+      "pushedAt": 1794099654321
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316170",
+      "title": "特斯拉Cybertruck订单积压严重，马斯克急增生产班次赶工",
+      "source": "第一电动",
+      "pushedAt": 1794099654321
     }
   ],
   "lastUpdated": "2026-11-08"
