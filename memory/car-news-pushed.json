@@ -1,24 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/314181",
-    "https://www.d1ev.com/newsflash/314179",
-    "https://www.d1ev.com/newsflash/314178",
-    "https://www.d1ev.com/newsflash/314177",
-    "https://www.d1ev.com/newsflash/314184",
-    "https://www.d1ev.com/news/shichang/314183",
-    "https://www.d1ev.com/news/shichang/314180",
-    "https://www.d1ev.com/newsflash/314212",
-    "https://www.d1ev.com/newsflash/314200",
-    "https://www.d1ev.com/newsflash/314196",
-    "https://www.d1ev.com/carnews/xinche/314195",
-    "https://www.d1ev.com/carnews/xinche/314194",
-    "https://www.d1ev.com/carnews/xinche/314193",
-    "https://www.d1ev.com/news/shichang/314210",
-    "https://www.d1ev.com/newsflash/314207",
-    "https://www.d1ev.com/newsflash/314204",
-    "https://www.d1ev.com/newsflash/314199",
-    "https://www.d1ev.com/newsflash/314198",
-    "https://www.d1ev.com/carnews/xinche/314197",
     "https://www.d1ev.com/news/shichang/314191",
     "https://www.d1ev.com/newsflash/314189",
     "https://www.d1ev.com/newsflash/314188",
@@ -1999,33 +1980,28 @@
     "https://www.d1ev.com/newsflash/316511",
     "https://www.d1ev.com/newsflash/316509",
     "https://www.d1ev.com/news/shichang/316507",
-    "https://www.d1ev.com/newsflash/316505"
+    "https://www.d1ev.com/newsflash/316505",
+    "https://www.d1ev.com/carnews/xinche/316539",
+    "https://www.d1ev.com/news/qiye/316536",
+    "https://www.d1ev.com/carnews/xinche/316533",
+    "https://www.d1ev.com/carnews/xinche/316538",
+    "https://www.d1ev.com/newsflash/316529",
+    "https://www.d1ev.com/newsflash/316528",
+    "https://www.d1ev.com/newsflash/316527",
+    "https://www.d1ev.com/newsflash/316525",
+    "https://www.d1ev.com/newsflash/316521",
+    "https://www.d1ev.com/news/shichang/316535",
+    "https://www.d1ev.com/carnews/xinche/316537",
+    "https://www.d1ev.com/newsflash/316534",
+    "https://www.d1ev.com/carnews/xinche/316532",
+    "https://www.d1ev.com/news/shichang/316531",
+    "https://www.d1ev.com/news/shichang/316530",
+    "https://www.d1ev.com/newsflash/316526",
+    "https://www.d1ev.com/news/shichang/316524",
+    "https://www.d1ev.com/newsflash/316523",
+    "https://www.d1ev.com/newsflash/316522"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/315637",
-      "title": "英伟达AI提速晶圆厂仿真 关键负载最高快35倍",
-      "source": "第一电动",
-      "pushedAt": 1793745982026
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315636",
-      "title": "谷歌AI一小时设计出新药分子 肺癌药物研发提速",
-      "source": "第一电动",
-      "pushedAt": 1793745982026
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315639",
-      "title": "国行Apple智能首批功能上线，Siri灯效、实时翻译、千问都来了",
-      "source": "第一电动",
-      "pushedAt": 1793745982026
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315638",
-      "title": "国行Apple智能正式上线，Siri接入阿里千问",
-      "source": "第一电动",
-      "pushedAt": 1793745982026
-    },
     {
       "url": "https://www.d1ev.com/news/shichang/315677",
       "title": "富士康又“整活”了，发布三款新车",
@@ -6147,6 +6123,120 @@
       "title": "Anthropic拟IPO募资至多904亿美元，谷歌英伟达成基石投资者",
       "source": "第一电动",
       "pushedAt": 1794343338004
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/316539",
+      "title": "比D9更高级 疑似腾势D9L专利图曝光",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/316536",
+      "title": "鸿蒙智行家族最便宜MPV登场！享界V8定档11月20日上市",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/316533",
+      "title": "比亚迪又要造小车了 全新微型车专利曝光",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/316538",
+      "title": "猛士汽车公布M817 Ultimate车型座舱设计",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316529",
+      "title": "苹果Mac能组队跑AI大模型了！Claris正测试Harbor应用",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316528",
+      "title": "首个专为AI PC自下而上设计的系统来了 KORAOS发布",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316527",
+      "title": "微纳核芯完成股份制改造，国产存算一体芯片加速量产落地",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316525",
+      "title": "小米SU7 Ultra Extreme现身工厂 携超大尾翼再战纽北最速电动车",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316521",
+      "title": "OpenAI推出ChatGPT Businesses测试版 企业可认领商家资料",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/316535",
+      "title": "长风破浪会有时 中国商用车出海挑战与机遇",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/316537",
+      "title": "现款宝马X5计划11月停产 全新一代12月投产",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316534",
+      "title": "谷歌AndroidBench新增三款模型跑分：Kimi K3.1Pro通过率24% 成本317美元",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/316532",
+      "title": "启境GT7纯电/增程新版型将于11月13日上新",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/316531",
+      "title": "买车人越来越老，汽车还吹什么年轻化？",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/316530",
+      "title": "卖车最惨的不是被吐槽，而是根本无人问津",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316526",
+      "title": "Anthropic启动IPO路演 最高拟募资624亿美元",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/news/shichang/316524",
+      "title": "PCB，怎么也缺货了？",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316523",
+      "title": "Claude从聊天助手升级团队协作工作台 白板表格数据工具齐发",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316522",
+      "title": "谷歌发布MKA基准测试，Gemini4Carbon质量第二成本仅对手六分之一",
+      "source": "第一电动",
+      "pushedAt": 1794361278491
     }
   ],
   "lastUpdated": "2026-11-11"
