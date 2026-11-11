@@ -1,9 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/314294",
-    "https://www.d1ev.com/newsflash/314298",
-    "https://www.d1ev.com/newsflash/314295",
-    "https://www.d1ev.com/news/shichang/314293",
     "https://www.d1ev.com/newsflash/314334",
     "https://www.d1ev.com/newsflash/314328",
     "https://www.d1ev.com/newsflash/314326",
@@ -1999,45 +1995,13 @@
     "https://www.d1ev.com/newsflash/316622",
     "https://www.d1ev.com/newsflash/316620",
     "https://www.d1ev.com/newsflash/316619",
-    "https://www.d1ev.com/newsflash/316615"
+    "https://www.d1ev.com/newsflash/316615",
+    "https://www.d1ev.com/newsflash/316664",
+    "https://www.d1ev.com/newsflash/316665",
+    "https://www.d1ev.com/newsflash/316662",
+    "https://www.d1ev.com/newsflash/316663"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/315761",
-      "title": "陶哲轩警告：人类过度依赖AI思考 恐失去对问题理解力",
-      "source": "第一电动",
-      "pushedAt": 1793824720529
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315760",
-      "title": "REDMI K100影像新增3D运镜 AI让静态照片秒变环绕推拉视频",
-      "source": "第一电动",
-      "pushedAt": 1793824720529
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/315759",
-      "title": "锂电板块蒸发7400亿元后大涨！11月电池排产却预计环比降5%，反弹还是反转？",
-      "source": "第一电动",
-      "pushedAt": 1793824720529
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315764",
-      "title": "华为openPangu两款模型将停售 2.1-Pro已抢先上线小艺Work",
-      "source": "第一电动",
-      "pushedAt": 1793824720529
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315763",
-      "title": "Claude未发新模型先火了 自己写代码2小时40分做出66秒动画",
-      "source": "第一电动",
-      "pushedAt": 1793824720529
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/315762",
-      "title": "国行Apple智能接入千问，Siri和写作工具都能用",
-      "source": "第一电动",
-      "pushedAt": 1793824720529
-    },
     {
       "url": "https://www.d1ev.com/carnews/xinche/315790",
       "title": "富士康又“整活”了 发布三款新车",
@@ -6309,6 +6273,30 @@
       "title": "东安动力增程器今年销量占比将超30%，配套小米小鹏岚图等车企",
       "source": "第一电动",
       "pushedAt": 1794418907050
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316664",
+      "title": "Nothing首款AI设备曝光：无屏设计配实体按键，下月发布",
+      "source": "第一电动",
+      "pushedAt": 1794441394197
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316665",
+      "title": "谷歌Gemini正式接入苹果CarPlay 开车也能免提聊AI",
+      "source": "第一电动",
+      "pushedAt": 1794441394197
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316662",
+      "title": "北大教授张丹丹：AI与人类劳动并非简单替代关系",
+      "source": "第一电动",
+      "pushedAt": 1794441394197
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316663",
+      "title": "Stripe完成收购OpenRouter，交易金额约75亿美元",
+      "source": "第一电动",
+      "pushedAt": 1794441394197
     }
   ],
   "lastUpdated": "2026-11-12"
