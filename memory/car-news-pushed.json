@@ -1,6 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/qiye/314532",
     "https://www.d1ev.com/newsflash/314537",
     "https://www.d1ev.com/newsflash/314531",
     "https://www.d1ev.com/newsflash/314535",
@@ -1999,75 +1998,10 @@
     "https://www.d1ev.com/news/shichang/316933",
     "https://www.d1ev.com/carnews/xinche/316926",
     "https://www.d1ev.com/newsflash/316922",
-    "https://www.d1ev.com/newsflash/316918"
+    "https://www.d1ev.com/newsflash/316918",
+    "https://www.d1ev.com/newsflash/316942"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/316091",
-      "title": "全球媒体代表探访小米汽车工厂 雷军欢迎外国朋友体验新车型",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316093",
-      "title": "SK海力士在美成立AI子公司 拟投百亿美元",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316092",
-      "title": "奥尔特曼警告AI两种失控路径：人类交权或巨头垄断",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316090",
-      "title": "美团发布1.6万亿参数大模型LongCat-2.5 完全国产算力训练",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/316088",
-      "title": "出海新阶段，中国车企要换一种活法",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316094",
-      "title": "不法分子冒用上汽通用名义发虚假召回短信 官方已取证追责",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316089",
-      "title": "摩尔线程MTT S5000完成Kimi K3.1 Pro的Day-0适配",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316087",
-      "title": "美股数据中心概念股集体大跌 IREN单日跌近17%创52周新低",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316086",
-      "title": "比亚迪紧急预警：有人伪造车辆召回通知诈骗车主",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316085",
-      "title": "特斯拉Cybertruck被曝明年停产，年销量仅3万辆目标完成率12%",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316084",
-      "title": "英伟达拟将130座老旧电信楼改造成数据中心",
-      "source": "第一电动",
-      "pushedAt": 1793995954215
-    },
     {
       "url": "https://www.d1ev.com/newsflash/316103",
       "title": "理想Mega新版本谍照曝光 车头变短前三角窗更大",
@@ -6267,6 +6201,12 @@
       "title": "黄仁勋卸任后英伟达股价大跌 5天市值蒸发约六千亿美元",
       "source": "第一电动",
       "pushedAt": 1794596773831
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316942",
+      "title": "llama.cpp与ggml库版本迈入1.0.0，明确API兼容规则",
+      "source": "第一电动",
+      "pushedAt": 1794616554636
     }
   ],
   "lastUpdated": "2026-11-14"
