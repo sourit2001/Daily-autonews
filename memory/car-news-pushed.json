@@ -1,13 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/314630",
-    "https://www.d1ev.com/newsflash/314628",
-    "https://www.d1ev.com/newsflash/314616",
-    "https://www.d1ev.com/newsflash/314610",
-    "https://www.d1ev.com/news/shichang/314608",
-    "https://www.d1ev.com/newsflash/314606",
-    "https://www.d1ev.com/newsflash/314601",
-    "https://www.d1ev.com/carnews/xinche/314614",
     "https://www.d1ev.com/news/shichang/314600",
     "https://www.d1ev.com/newsflash/314652",
     "https://www.d1ev.com/news/shichang/314651",
@@ -1999,63 +1991,17 @@
     "https://www.d1ev.com/newsflash/316985",
     "https://www.d1ev.com/news/qiye/316984",
     "https://www.d1ev.com/newsflash/316983",
-    "https://www.d1ev.com/newsflash/316975"
+    "https://www.d1ev.com/newsflash/316975",
+    "https://www.d1ev.com/carnews/xinche/316998",
+    "https://www.d1ev.com/newsflash/316999",
+    "https://www.d1ev.com/newsflash/316994",
+    "https://www.d1ev.com/carnews/xinche/317001",
+    "https://www.d1ev.com/newsflash/317000",
+    "https://www.d1ev.com/newsflash/316997",
+    "https://www.d1ev.com/newsflash/316996",
+    "https://www.d1ev.com/newsflash/316995"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/newsflash/316168",
-      "title": "仰望鼎曜阿布扎比全球首发 中国超豪正面硬刚古思特",
-      "source": "第一电动",
-      "pushedAt": 1794086340643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316167",
-      "title": "宝马宁德时代15年合作细节曝光 大圆柱电池攻克3000组试验",
-      "source": "第一电动",
-      "pushedAt": 1794086340643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316166",
-      "title": "宝马第六代电驱在华量产 续航能效补能全面提升",
-      "source": "第一电动",
-      "pushedAt": 1794086340643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316169",
-      "title": "仰望鼎曜超豪华轿车阿布扎比全球首秀 山河鼎韵限量版30万定金开启预定",
-      "source": "第一电动",
-      "pushedAt": 1794086340643
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316174",
-      "title": "长城首款旅行轿车！欧拉7尾部官图发布，续航动力全曝光",
-      "source": "第一电动",
-      "pushedAt": 1794099654321
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316172",
-      "title": "索尼全球首发驾驶接管预警技术，三级提示防智驾风险",
-      "source": "第一电动",
-      "pushedAt": 1794099654321
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316171",
-      "title": "埃森哲报告被指含15条AI虚假引用，曾威胁不用AI就淘汰",
-      "source": "第一电动",
-      "pushedAt": 1794099654321
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316173",
-      "title": "亚洲龙裸车价跌至12万区间 丰田在华销量连降8个月",
-      "source": "第一电动",
-      "pushedAt": 1794099654321
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316170",
-      "title": "特斯拉Cybertruck订单积压严重，马斯克急增生产班次赶工",
-      "source": "第一电动",
-      "pushedAt": 1794099654321
-    },
     {
       "url": "https://www.d1ev.com/newsflash/316196",
       "title": "比亚迪超豪华新车鼎曜中东首发 瞄准劳斯莱斯市场",
@@ -6093,6 +6039,54 @@
       "title": "马斯克嫌Cybercab月费299美元太贵 建议降到115美元",
       "source": "第一电动",
       "pushedAt": 1794673153671
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/316998",
+      "title": "被曝与AMG之父合作 小米欲打造高性能新车",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316999",
+      "title": "韩国LGU+明年进军AI Token业务，三大运营商全部入局",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316994",
+      "title": "小米汽车拿下国际EPD双认证 每台车全生命周期减碳约800kg",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/317001",
+      "title": "捷豹路虎敲定：纯电小卫士明年投产",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317000",
+      "title": "华为乾崑详解智能车灯与AR-HUD四大问题",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316997",
+      "title": "150万保时捷辅助驾驶频繁报错 车主花7万选装功能成摆设",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316996",
+      "title": "本田CR-V氢燃料车停产，一年多仅租出300台",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/316995",
+      "title": "华为剥离服务器业务冲刺600亿营收 超聚变创业板IPO过会",
+      "source": "第一电动",
+      "pushedAt": 1794706149556
     }
   ],
   "lastUpdated": "2026-11-15"
