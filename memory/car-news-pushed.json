@@ -1,15 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/news/shichang/314732",
-    "https://www.d1ev.com/news/shichang/314731",
-    "https://www.d1ev.com/news/shichang/314730",
-    "https://www.d1ev.com/newsflash/314795",
-    "https://www.d1ev.com/newsflash/314785",
-    "https://www.d1ev.com/newsflash/314779",
-    "https://www.d1ev.com/newsflash/314777",
-    "https://www.d1ev.com/newsflash/314773",
-    "https://www.d1ev.com/newsflash/314798",
-    "https://www.d1ev.com/news/shichang/314790",
     "https://www.d1ev.com/newsflash/314788",
     "https://www.d1ev.com/newsflash/314787",
     "https://www.d1ev.com/newsflash/314781",
@@ -1999,237 +1989,19 @@
     "https://www.d1ev.com/news/qiye/317130",
     "https://www.d1ev.com/newsflash/317128",
     "https://www.d1ev.com/news/shichang/317125",
-    "https://www.d1ev.com/newsflash/317123"
+    "https://www.d1ev.com/newsflash/317123",
+    "https://www.d1ev.com/newsflash/317179",
+    "https://www.d1ev.com/news/qiye/317178",
+    "https://www.d1ev.com/newsflash/317175",
+    "https://www.d1ev.com/newsflash/317173",
+    "https://www.d1ev.com/carnews/xinche/317172",
+    "https://www.d1ev.com/newsflash/317181",
+    "https://www.d1ev.com/newsflash/317180",
+    "https://www.d1ev.com/newsflash/317177",
+    "https://www.d1ev.com/newsflash/317176",
+    "https://www.d1ev.com/newsflash/317174"
   ],
   "newsHistory": [
-    {
-      "url": "https://www.d1ev.com/news/qiye/316370",
-      "title": "魏牌二代蓝山开启预售28.98万元起，搭载全地形AI与6C超充",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/carnews/xinche/316364",
-      "title": "魏牌二代蓝山开启预售 预售价28.98万元起",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316363",
-      "title": "魏牌二代蓝山开启预售 28.98万元起 搭2.0T插混+6C超充",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316361",
-      "title": "28.98万起！魏牌二代蓝山预售 双腔空悬加后轮转向",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316355",
-      "title": "欧拉7官图发布 旅行版和轿跑版两种形态可选",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316351",
-      "title": "问界M8上市19个月交付19万台，新款11月13日上市",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316343",
-      "title": "比亚迪方程豹钛9开启预订 搭载全景PHUD天际屏 11月15日后上市",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316335",
-      "title": "极狐贝塔S3新车型11月13日上市 配激光雷达与99秒换电",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316369",
-      "title": "欧盟强推本土电池，每辆车成本或涨1.6万元",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316368",
-      "title": "小鹏GX成世界媒体峰会智驾用车 何小鹏放话明年登陆欧洲",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316366",
-      "title": "亿万富翁押注AI定制网页，要让每个访客看到不一样的互联网",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316365",
-      "title": "Waymo自动驾驶车屡次违规超越校车 遭NHTSA调查",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316358",
-      "title": "AI助手误删教授一整年课堂笔记 所幸已恢复",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316357",
-      "title": "韩国高考19日举行 AI眼镜被列为禁带物品",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316352",
-      "title": "宝马330裸车跌破21万 新能源车挤压下燃油豪车价格腰斩",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316350",
-      "title": "瑞银CEO：AI概念股回调因市场预期过高",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316349",
-      "title": "比亚迪第1900万辆新能源车下线 方程豹钛9开启预订",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316347",
-      "title": "日本SakanaAI拟2027年秋IPO 高盛任顾问",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316346",
-      "title": "10月燃油车零售暴跌45% 新能源渗透率67.5%创历史新高",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316344",
-      "title": "日本Shizuku AI发布全双工对话模型 响应质量仅次于GPT-Live",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316340",
-      "title": "比亚迪第1900万辆新能源车下线 方程豹钛9量产开启预定",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316339",
-      "title": "比亚迪第1900万辆新能源汽车下线 方程豹钛9开启预订",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316338",
-      "title": "河南：2028年底前建成充电枪33万个以上",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316362",
-      "title": "ChatGPT王者归来！全球流量占比超81%，月访问量破613亿创新高",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/news/shichang/316359",
-      "title": "2026海外华人汽车工程师全球连线在合肥启幕",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316367",
-      "title": "美团LongCat-2.5开源：1.6万亿参数，支持百万上下文",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316360",
-      "title": "特斯拉Robotaxi再下一城！圣安东尼奥上线，服务区面积创纪录",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316356",
-      "title": "小米澎程10月交付27132台 N70登顶增程车销量榜首",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316354",
-      "title": "小米SU7拿下20万以上轿车销量第一，10月交付超5万台",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316353",
-      "title": "50万奔驰保养后螺丝全掉 4S店承认操作疏漏",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316348",
-      "title": "字节Seedream5.5发布：支持100轮连续编辑，单张成本不到前代一半",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316345",
-      "title": "问界M8累计交付破19万台 40万级SUV销量第一",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316342",
-      "title": "奥迪A8德国正式停产 32年旗舰轿车生涯暂告段落",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316341",
-      "title": "丰田砸20亿美元上海建厂，雷克萨斯要用自研压铸造电车",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/news/qiye/316337",
-      "title": "将是绝杀 网友喊话捷达生产方头电车！捷达高管：会考虑",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316336",
-      "title": "特斯拉Cybertruck订单远超产能却将停产 马斯克宣布8个月后关线转产Cybercab",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316334",
-      "title": "玛莎拉蒂借江淮华为复活 明年Q4量产",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
-    {
-      "url": "https://www.d1ev.com/newsflash/316333",
-      "title": "捷豹路虎提醒警惕冒名召回诈骗 官方渠道核实信息",
-      "source": "第一电动",
-      "pushedAt": 1794255833250
-    },
     {
       "url": "https://www.d1ev.com/newsflash/316416",
       "title": "玛莎拉蒂借华为江淮技术求生 三方合作新车型2027年量产",
@@ -6159,7 +5931,67 @@
       "title": "字节Seedance2.5 4K视频生成API全面开放，支持先出样片再出正片",
       "source": "第一电动",
       "pushedAt": 1794839591783
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317179",
+      "title": "捷途环游者EV开启预售 9.99万起配猎鹰500智驾",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/news/qiye/317178",
+      "title": "捷途环游者EV全球预售，旅行者7 C-DM华为乾崑智驾版上市",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317175",
+      "title": "9.99万起！捷途首款纯电方盒子环游者EV开启预售 最高续航550km",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317173",
+      "title": "18.49万起！捷途旅行者7华为智驾版上市",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/carnews/xinche/317172",
+      "title": "小鹏集团三季度营收超242亿元，海外全年销量有望破10万辆！何小鹏：MONA将设专属销售网络",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317181",
+      "title": "特斯拉Cybertruck要停产 改装厂竟想自掏腰包接盘产线",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317180",
+      "title": "99元抵2000元 一汽-大众ID.AURAL5开启预订 标配城市NOA",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317177",
+      "title": "月费2999元起 芝麻信用上线乐道L90订阅服务",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317176",
+      "title": "特斯拉豪掷30亿欧元扩建德国工厂 年产百万辆Cybercab",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317174",
+      "title": "特斯拉豪掷220亿扩产德国工厂，目标年产百万辆Cybercab",
+      "source": "第一电动",
+      "pushedAt": 1794873424276
     }
   ],
-  "lastUpdated": "2026-11-16"
+  "lastUpdated": "2026-11-17"
 }
