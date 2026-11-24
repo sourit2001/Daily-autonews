@@ -1,34 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/314925",
-    "https://www.d1ev.com/newsflash/314923",
-    "https://www.d1ev.com/newsflash/314921",
-    "https://www.d1ev.com/newsflash/314918",
-    "https://www.d1ev.com/newsflash/314913",
-    "https://www.d1ev.com/newsflash/314907",
-    "https://www.d1ev.com/newsflash/314906",
-    "https://www.d1ev.com/newsflash/314900",
-    "https://www.d1ev.com/newsflash/314899",
-    "https://www.d1ev.com/newsflash/314896",
-    "https://www.d1ev.com/newsflash/314893",
-    "https://www.d1ev.com/newsflash/314890",
-    "https://www.d1ev.com/newsflash/314888",
-    "https://www.d1ev.com/newsflash/314936",
-    "https://www.d1ev.com/newsflash/314922",
-    "https://www.d1ev.com/newsflash/314910",
-    "https://www.d1ev.com/news/shichang/314894",
-    "https://www.d1ev.com/newsflash/314934",
-    "https://www.d1ev.com/newsflash/314928",
-    "https://www.d1ev.com/newsflash/314927",
-    "https://www.d1ev.com/newsflash/314924",
-    "https://www.d1ev.com/newsflash/314920",
-    "https://www.d1ev.com/newsflash/314915",
-    "https://www.d1ev.com/newsflash/314914",
-    "https://www.d1ev.com/news/shichang/314909",
-    "https://www.d1ev.com/news/shichang/314908",
-    "https://www.d1ev.com/newsflash/314905",
-    "https://www.d1ev.com/news/shichang/314904",
-    "https://www.d1ev.com/newsflash/314902",
     "https://www.d1ev.com/newsflash/314901",
     "https://www.d1ev.com/news/shichang/314898",
     "https://www.d1ev.com/news/shichang/314897",
@@ -1999,7 +1970,36 @@
     "https://www.d1ev.com/newsflash/317314",
     "https://www.d1ev.com/newsflash/317313",
     "https://www.d1ev.com/newsflash/317312",
-    "https://www.d1ev.com/newsflash/317311"
+    "https://www.d1ev.com/newsflash/317311",
+    "https://www.d1ev.com/newsflash/317384",
+    "https://www.d1ev.com/newsflash/317383",
+    "https://www.d1ev.com/newsflash/317382",
+    "https://www.d1ev.com/newsflash/317379",
+    "https://www.d1ev.com/newsflash/317377",
+    "https://www.d1ev.com/newsflash/317375",
+    "https://www.d1ev.com/newsflash/317368",
+    "https://www.d1ev.com/newsflash/317367",
+    "https://www.d1ev.com/newsflash/317366",
+    "https://www.d1ev.com/newsflash/317363",
+    "https://www.d1ev.com/newsflash/317361",
+    "https://www.d1ev.com/newsflash/317380",
+    "https://www.d1ev.com/newsflash/317378",
+    "https://www.d1ev.com/newsflash/317373",
+    "https://www.d1ev.com/newsflash/317372",
+    "https://www.d1ev.com/newsflash/317369",
+    "https://www.d1ev.com/newsflash/317364",
+    "https://www.d1ev.com/newsflash/317360",
+    "https://www.d1ev.com/newsflash/317386",
+    "https://www.d1ev.com/newsflash/317376",
+    "https://www.d1ev.com/newsflash/317371",
+    "https://www.d1ev.com/newsflash/317387",
+    "https://www.d1ev.com/newsflash/317385",
+    "https://www.d1ev.com/newsflash/317381",
+    "https://www.d1ev.com/newsflash/317374",
+    "https://www.d1ev.com/newsflash/317370",
+    "https://www.d1ev.com/newsflash/317365",
+    "https://www.d1ev.com/newsflash/317362",
+    "https://www.d1ev.com/newsflash/317359"
   ],
   "newsHistory": [
     {
@@ -2595,7 +2595,181 @@
       "title": "小鹏P7新色暮金灰明日首展 晨曦粉与云境灰同步上新",
       "source": "第一电动",
       "pushedAt": 1795521522697
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317384",
+      "title": "19.98万起 吉利银河M8开启预售 大五座插混续航1560km",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317383",
+      "title": "8.99万起！捷途环游者EV上市 全系标配65度电池续航550km",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317382",
+      "title": "18.79万起 比亚迪第三代唐上市 最高续航850km",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317379",
+      "title": "8.99万起！捷途环游者EV上市，纯电方盒子门槛再降一万",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317377",
+      "title": "19.98万起！吉利银河M8开启预售 大五座SUV续航1560km",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317375",
+      "title": "OceanBase推AI数据平台，CEO杨冰称上市已做好准备",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317368",
+      "title": "18.79万起！比亚迪第三代唐上市：全系190项配置，入门即顶配",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317367",
+      "title": "19.98万起！吉利银河M8开启预售 全系标配53.42kWh电池",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317366",
+      "title": "18.79万起！比亚迪第三代唐EV上市 最高续航850km",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317363",
+      "title": "8.99万起！捷途环游者EV上市 方盒子造型+最高550km续航",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317361",
+      "title": "22.5万起！比亚迪第三代唐上市：2.5米贯穿大灯+30英寸真全景屏",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317380",
+      "title": "Waymo召回4488辆自动驾驶汽车：看懂交警手势却停不住",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317378",
+      "title": "问界M9登顶AI智驾推荐榜 整体推荐率41.3%超第二名15个百分点",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317373",
+      "title": "华为2025年专利许可收入达8亿美元 AI专利超8000件",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317372",
+      "title": "宝马iX3巴西不充电跑出1015.8公里 平均能耗仅10.9kWh",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317369",
+      "title": "OpenAI工程师用Codex改装录音设备窃密被羁押",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317364",
+      "title": "我国牵头29项AI国际标准 全球首个生成式AI治理提案获批",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317360",
+      "title": "曝OpenAI内部模型强到不敢公开！员工称已难安全管控",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317386",
+      "title": "比亚迪洽谈接手奔驰Smart诞生地！欧洲第二工厂基本落定法国",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317376",
+      "title": "比亚迪洽谈收购法国汉巴赫工厂 欧洲第二工厂或落地法国",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317371",
+      "title": "小米汽车2027年Q3登陆德国 先难后易进军欧洲",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317387",
+      "title": "大众与工会首轮谈判谈崩 工人抬棺材抗议威胁罢工",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317385",
+      "title": "比亚迪印度交付破2万辆，腾势同周登陆印度开卖",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317381",
+      "title": "特斯拉FSD V15上线GTA视角 马斯克称除了酷没啥用",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317374",
+      "title": "训练具身智能需10亿小时数据 行业现有量差距大",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317370",
+      "title": "鸿蒙终端设备破亿，岚图泰山将搭载HarmonySpace6",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317365",
+      "title": "第三代唐搭线控底盘：低速掉头仅半圈 刹车快25%",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317362",
+      "title": "保时捷中国提醒警惕虚假车辆召回短信 切勿点击不明链接",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317359",
+      "title": "欧盟对华混动汽车设200天配额 上限19.18万辆",
+      "source": "第一电动",
+      "pushedAt": 1795557101375
     }
   ],
-  "lastUpdated": "2026-11-24"
+  "lastUpdated": "2026-11-25"
 }
