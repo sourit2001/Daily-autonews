@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/314998",
-    "https://www.d1ev.com/carnews/xinche/314991",
-    "https://www.d1ev.com/news/shichang/314990",
-    "https://www.d1ev.com/news/shichang/314988",
-    "https://www.d1ev.com/news/shichang/314984",
-    "https://www.d1ev.com/newsflash/314981",
-    "https://www.d1ev.com/carnews/xinche/315082",
-    "https://www.d1ev.com/newsflash/315078",
-    "https://www.d1ev.com/newsflash/315077",
-    "https://www.d1ev.com/newsflash/315074",
-    "https://www.d1ev.com/newsflash/315072",
-    "https://www.d1ev.com/newsflash/315071",
-    "https://www.d1ev.com/newsflash/315069",
-    "https://www.d1ev.com/newsflash/315068",
     "https://www.d1ev.com/newsflash/315064",
     "https://www.d1ev.com/newsflash/315061",
     "https://www.d1ev.com/newsflash/315057",
@@ -1999,7 +1985,21 @@
     "https://www.d1ev.com/newsflash/317460",
     "https://www.d1ev.com/newsflash/317457",
     "https://www.d1ev.com/newsflash/317455",
-    "https://www.d1ev.com/newsflash/317453"
+    "https://www.d1ev.com/newsflash/317453",
+    "https://www.d1ev.com/newsflash/317514",
+    "https://www.d1ev.com/newsflash/317505",
+    "https://www.d1ev.com/newsflash/317503",
+    "https://www.d1ev.com/newsflash/317512",
+    "https://www.d1ev.com/newsflash/317511",
+    "https://www.d1ev.com/newsflash/317510",
+    "https://www.d1ev.com/newsflash/317507",
+    "https://www.d1ev.com/newsflash/317506",
+    "https://www.d1ev.com/newsflash/317509",
+    "https://www.d1ev.com/newsflash/317516",
+    "https://www.d1ev.com/newsflash/317515",
+    "https://www.d1ev.com/newsflash/317513",
+    "https://www.d1ev.com/newsflash/317508",
+    "https://www.d1ev.com/newsflash/317504"
   ],
   "newsHistory": [
     {
@@ -3243,6 +3243,90 @@
       "title": "小鹏IRON机器人将主持广州车展发布会 何小鹏称史上首次",
       "source": "第一电动",
       "pushedAt": 1795624927130
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317514",
+      "title": "华晨宝马iX5 60L申报图曝光 双电机四驱续航信息同步公开",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317505",
+      "title": "新款雅阁混动申报图曝光！前脸大改眯眯眼+贯穿尾灯",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317503",
+      "title": "零跑全新大五座SUVDX申报图曝光 纯电增程双动力/三电机版540kW",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317512",
+      "title": "OpenAI开放私有推理测试 企业数据隐私再升级",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317511",
+      "title": "AI语音独角兽ElevenLabs拟融资 估值剑指330亿美元",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317510",
+      "title": "韩国研发AI考场作弊探测系统，智能眼镜无线耳机全现形",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317507",
+      "title": "纽约州暂停AI玩具销售5年 违规厂商每日罚10万元",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317506",
+      "title": "小鹏智驾2027年二季度起全球收费 老车主权益终身不变",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317509",
+      "title": "全球最大IPO破发！Anthropic股价跌穿发行价 七位联创套现近20亿美元",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317516",
+      "title": "工信部等三部门发文：探索大小模型协同运维新范式，打造通信网络特色智能体",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317515",
+      "title": "智界第20万台整车下线，独立造车资质获批在即",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317513",
+      "title": "SpaceX获批部署百万颗卫星建轨道数据中心",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317508",
+      "title": "谷歌MassSpecSkills上线 轻量模型质谱识别准确率飙至97%",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317504",
+      "title": "零跑A10后备箱储物盒被啤酒压穿 官方回应承重40kg",
+      "source": "第一电动",
+      "pushedAt": 1795656420651
     }
   ],
   "lastUpdated": "2026-11-26"
