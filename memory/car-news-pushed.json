@@ -1,19 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/315265",
-    "https://www.d1ev.com/newsflash/315264",
-    "https://www.d1ev.com/newsflash/315263",
-    "https://www.d1ev.com/newsflash/315252",
-    "https://www.d1ev.com/newsflash/315251",
-    "https://www.d1ev.com/newsflash/315249",
-    "https://www.d1ev.com/newsflash/315262",
-    "https://www.d1ev.com/newsflash/315256",
-    "https://www.d1ev.com/carnews/xinche/315267",
-    "https://www.d1ev.com/newsflash/315250",
-    "https://www.d1ev.com/newsflash/315270",
-    "https://www.d1ev.com/newsflash/315269",
-    "https://www.d1ev.com/newsflash/315268",
-    "https://www.d1ev.com/newsflash/315266",
     "https://www.d1ev.com/newsflash/315261",
     "https://www.d1ev.com/newsflash/315260",
     "https://www.d1ev.com/newsflash/315259",
@@ -1999,7 +1985,21 @@
     "https://www.d1ev.com/newsflash/317753",
     "https://www.d1ev.com/newsflash/317752",
     "https://www.d1ev.com/newsflash/317749",
-    "https://www.d1ev.com/newsflash/317746"
+    "https://www.d1ev.com/newsflash/317746",
+    "https://www.d1ev.com/newsflash/317809",
+    "https://www.d1ev.com/newsflash/317807",
+    "https://www.d1ev.com/newsflash/317806",
+    "https://www.d1ev.com/newsflash/317803",
+    "https://www.d1ev.com/newsflash/317808",
+    "https://www.d1ev.com/newsflash/317802",
+    "https://www.d1ev.com/newsflash/317801",
+    "https://www.d1ev.com/newsflash/317800",
+    "https://www.d1ev.com/newsflash/317799",
+    "https://www.d1ev.com/newsflash/317798",
+    "https://www.d1ev.com/newsflash/317810",
+    "https://www.d1ev.com/newsflash/317805",
+    "https://www.d1ev.com/newsflash/317804",
+    "https://www.d1ev.com/newsflash/317797"
   ],
   "newsHistory": [
     {
@@ -4527,7 +4527,91 @@
       "title": "东风本田未来两年将投放6款以上全新产品，覆盖燃油混动插混纯电",
       "source": "第一电动",
       "pushedAt": 1795785950900
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317809",
+      "title": "小鹏IRON人形机器人广州车展上岗 2027年下半年全球上市",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317807",
+      "title": "2026广州车展：宝马新世代i3上市24.99万起，BBA降价反击",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317806",
+      "title": "魏牌高山右舵版香港上市 四季度登陆澳洲",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317803",
+      "title": "恒大汽车被联交所决定取消上市地位 仅剩7名员工",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317808",
+      "title": "广汽弹匣电池3.0硬核测试：手榴弹炸车底不起火",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317802",
+      "title": "广汽自营充电站达2563座 2030年要建十万充电终端",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317801",
+      "title": "韩国考生用AI作弊激增，学校疯抢金属探测器仍缺货",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317800",
+      "title": "千里科技锁定两三家头部车企，吉利成智驾合作标杆客户",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317799",
+      "title": "大众11月在华新能源交付3.2万辆 接近去年同期5倍",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317798",
+      "title": "美团王兴：与微信AI合作按计划推进，明年AI资本开支将低于今年",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317810",
+      "title": "仰望鼎曜限量版国内208万海外更贵，2027年开启全球交付",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317805",
+      "title": "埃安2026年C端占比达81% 销量逆市涨56%重上40万辆",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317804",
+      "title": "李斌：换电网络不是越开放越好 吉利正开发换电车型",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317797",
+      "title": "小米推送OTA 1.20：iPhone数字钥匙上线，辅助驾驶更名全域领航",
+      "source": "第一电动",
+      "pushedAt": 1795818432859
     }
   ],
-  "lastUpdated": "2026-11-27"
+  "lastUpdated": "2026-11-28"
 }
