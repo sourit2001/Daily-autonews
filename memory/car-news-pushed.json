@@ -1,16 +1,5 @@
 {
   "pushedUrls": [
-    "https://www.d1ev.com/newsflash/315261",
-    "https://www.d1ev.com/newsflash/315260",
-    "https://www.d1ev.com/newsflash/315259",
-    "https://www.d1ev.com/newsflash/315258",
-    "https://www.d1ev.com/newsflash/315257",
-    "https://www.d1ev.com/newsflash/315255",
-    "https://www.d1ev.com/newsflash/315254",
-    "https://www.d1ev.com/newsflash/315253",
-    "https://www.d1ev.com/newsflash/315275",
-    "https://www.d1ev.com/newsflash/315271",
-    "https://www.d1ev.com/news/shichang/315274",
     "https://www.d1ev.com/newsflash/315273",
     "https://www.d1ev.com/newsflash/315272",
     "https://www.d1ev.com/news/qiye/315308",
@@ -1999,7 +1988,18 @@
     "https://www.d1ev.com/newsflash/317810",
     "https://www.d1ev.com/newsflash/317805",
     "https://www.d1ev.com/newsflash/317804",
-    "https://www.d1ev.com/newsflash/317797"
+    "https://www.d1ev.com/newsflash/317797",
+    "https://www.d1ev.com/newsflash/317813",
+    "https://www.d1ev.com/newsflash/317821",
+    "https://www.d1ev.com/newsflash/317816",
+    "https://www.d1ev.com/newsflash/317820",
+    "https://www.d1ev.com/newsflash/317819",
+    "https://www.d1ev.com/newsflash/317818",
+    "https://www.d1ev.com/newsflash/317817",
+    "https://www.d1ev.com/newsflash/317815",
+    "https://www.d1ev.com/newsflash/317814",
+    "https://www.d1ev.com/newsflash/317812",
+    "https://www.d1ev.com/newsflash/317811"
   ],
   "newsHistory": [
     {
@@ -4611,6 +4611,72 @@
       "title": "小米推送OTA 1.20：iPhone数字钥匙上线，辅助驾驶更名全域领航",
       "source": "第一电动",
       "pushedAt": 1795818432859
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317813",
+      "title": "特斯拉Cybertruck停产在即 二手价反涨超新车24万",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317821",
+      "title": "抗议者绝食4天 要求Anthropic叫停AI递归自我改进",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317816",
+      "title": "广汽弹匣电池3.0硬扛手榴弹爆破 底部防护达国标13倍",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317820",
+      "title": "马斯克：GrokBot目标是让你构建完整公司，没有免费版",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317819",
+      "title": "荣威未来或不推10万元以下车型 品牌持续向上突破",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317818",
+      "title": "零跑高管：车企建立竞争优势窗口正在收窄 需加快规模扩张",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317817",
+      "title": "腾势车均单价33万超奔驰宝马 BBA豪华阵地遭国产车攻破",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317815",
+      "title": "魏建军回应长城销量滑落第九：心里很坦然 他们都睡不着觉",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317814",
+      "title": "等7年等来退款！特斯拉Cybertruck确认不引进国内",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317812",
+      "title": "大众在印度遭12亿美元追税 反手拉奔驰宝马下水",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
+    },
+    {
+      "url": "https://www.d1ev.com/newsflash/317811",
+      "title": "大众被追税80亿喊冤：奔驰宝马也这么干",
+      "source": "第一电动",
+      "pushedAt": 1795845280692
     }
   ],
   "lastUpdated": "2026-11-28"
